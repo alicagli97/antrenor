@@ -30,6 +30,8 @@ Sunucu yok: tarama GitHub Actions'ta çalışır, veri depoda durur, dağıtım�
 | `api/v1/category/kurs.json` | Kategori bazında |
 | `api/v1/calendars.json` | Tüm faaliyet takvimleri: kaynak, etkinlik listesi, son değişiklik |
 | `api/v1/takvim/<slug>.json` | Federasyonun faaliyet takvimi |
+| `api/v1/rules.json` | Mevzuat kütüphanesi: talimatlar, yönetmelikler, oyun kuralları |
+| `api/v1/kural/<slug>.json` | Federasyonun mevzuat belgeleri |
 
 Her kayıt: `id, federation, title, url, summary, image, category, tags, published_at`.
 İçeriğin resmî hâli daima kaynak federasyonun sitesindedir; `url` alanı oraya gider.
@@ -47,6 +49,18 @@ kadar önemli olduğundan takvimler her turda kontrol edilir:
 
 Yanlış belgeleri (KVKK formu, faaliyet raporu, eski yıl arşivi) elemek için
 tarih yoğunluğu, takvim sözcükleri ve yıl kontrolü uygulanır.
+
+## Yarışma kuralları ve mevzuat
+
+Federasyonlar yarışma talimatlarını, oyun kurallarını ve ana statülerini kendi
+sitelerinde yayınlar. Antrenör için bunlar bağlayıcıdır: "Antrenör Eğitim Talimatı"
+değişince kademe şartları, "Müsabaka Talimatı" değişince yarışma kuralları değişir.
+
+* Mevzuat sayfası otomatik bulunur, belgeler başlıklarıyla listelenir.
+* Antrenör/hakem/vize/lisans ile ilgili belgeler `onemli` işaretiyle öne alınır.
+* Her turda liste karşılaştırılır: **yeni talimat** eklenirse akışa kayıt düşer.
+* Günlük derin kontrolde (`ci_rules.py --deep`) belgelerin içeriği de doğrulanır;
+  aynı adreste sessizce güncellenen PDF'ler böyle yakalanır.
 
 ## Depo düzeni
 

@@ -1,0 +1,29 @@
+{
+ "federation": "bilardo",
+ "federation_name": "Türkiye Bilardo Federasyonu",
+ "federation_short": "TBF",
+ "sources": [
+  "https://www.bilardo.org.tr/mevzuat",
+  "https://www.bilardo.org.tr/talimatlar"
+ ],
+ "document_count": 2,
+ "coach_document_count": 0,
+ "documents": [
+  {
+   "baslik": "Kurallar",
+   "url": "https://www.bilardo.org.tr/kurallar",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Talimatlar",
+   "url": "https://www.bilardo.org.tr/talimatlar",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  }
+ ],
+ "checked_at": "2026-08-20T20:39:08+00:00",
+ "list_fingerprint": "2d67975cd87fce37"
+}

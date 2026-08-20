@@ -1,0 +1,246 @@
+{
+ "federation": "yuzme",
+ "federation_name": "Türkiye Yüzme Federasyonu",
+ "federation_short": "TYF",
+ "sources": [
+  "https://www.tyf.gov.tr/mevzuat.html",
+  "https://www.tyf.gov.tr/sayfa/genelgeler.html"
+ ],
+ "document_count": 33,
+ "coach_document_count": 13,
+ "documents": [
+  {
+   "baslik": "ANTRENÖR EĞİTİM TALİMATI / 2025",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2025-08/TYF-ANTRENOR-EGITIMI-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "ANTRENÖR GELİŞİM SEMİNERİ TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2026-07/Turkiye-Yuzme-Federasyonu-Antrenor-Gelisim-Semineri-Talimati.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "ANTRENÖRLÜK AKREDİTASYON VE VİZE TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/TYF-ANTRENORLUK-AKREDITASYON-VE-VIZE-TALIMATI.doc",
+   "tur": "word",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "ATLAMA BRANŞI HAKEM KURULU TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2019-02/ATLAMA-hakem-KURULU-TALIMATI_1.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "EĞİTİM KURULU TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/EGITIM-KURULU-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "HAKEM, MÜSABAKA DİREKTÖRÜ VE GÖZLEMCİ TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2022-08/Hakem-Musabaka-Direktoru-ve-Gozlemci-Talimati-ONAYLI.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "HAKEM, MÜSABAKA DİREKTÖRÜ VE GÖZLEMCİ TALİMATINDA DEĞİŞİKLİK YAPILMASINA DAİR TALİMAT",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2025-03/89127HakemMusabakaDirektoruveGozlemciTalimati.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "HAKEM,GÖZLEMCİ,TEMSİLCİ,EĞİTİM GÖREVLİLERİ VE DİĞER GÖREVLİLERE ÖDENECEK ÜCRETLERE İLİŞKİN TALİMAT",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/HAKEMGOZLEMCITEMSILCIEGITIM-GOREVLILERI-VE-DIGER-GOREVLILERE-ODENECEK-UCRETLERE-ILISKIN-TALIMAT.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "HAKEM,GÖZLEMCİ,TEMSİLCİ,EĞİTİM GÖREVLİLERİ VE DİĞER GÖREVLİLERE ÖDENECEK ÜCRETLERE İLİŞKİN TALİMATTA DEĞİŞİKLİK YAPILMASINA DAİR TALİMAT",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/HAKEMGOZLEMCITEMSILCIEGITIM-GOREVLILERI-VE-DIGER-GOREVLILERE-ODENECEK-UCRETLERE-ILISKIN-TALIMATINDA-DEGISIKLIK-YAPILMASINA-DAIR-TALIMAT.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "KULÜP AKREDİTASYON TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2019-08/KULUP-AKREDITASYON-TALIMATI.doc",
+   "tur": "word",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "SPOR DALI TESCİL TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2026-05/Spor-dali-tescil-talimati.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "SPORCU LİSANS, VİZE VE TRANSFER TALİMATI (YENİ)",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2025-12/Yuzme-Fed-Talimat.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "ATLAMA BRANŞI TEKNİK KURUL TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2019-02/ATLAMA-teknik-kurul-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "AYNİYAT TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/AYNIYAT-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "AÇIK SU YÜZME ÖZEL YARIŞMA VE FAALİYET UYGULAMA TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2023-01/33578TALIMAT.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "DANIŞMA VE ONUR KURULU TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/DANISMA-VE-ONUR-KURULU-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "DİSİPLİN TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/DISIPLIN-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "DOPİNGLE MÜCADELE TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/DOPINGLE-MUCADELE-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "DIŞ İLİŞKİLER KURULU TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/DIS-ILISKILER-KURULU-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "FEDERASYON TEMSİLCİSİ TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/FEDERASYON-TEMSILCISI-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "HAVUZ YETERLİLİK TALİMATI / 2025",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2025-08/Havuz-Yeterlilik-Talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "HİZMET PASAPORTU VERİLMESİNE DAİR TALİMAT",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2026-05/SKMC250i26050615520.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "MİLLİ TAKIM BELİRLEME KRİTERLERİ TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2026-02/Milli-Takim-Belirleme-Kriterleri-Talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "MİLLİ TAKIMLAR KAMP TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/MILLI-TAKIMLAR-KAMP-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "MİLLİLİK BELGESİ TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/MILLILIK-BELGESI-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "PERSONEL TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/PERSONEL-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "SATIN ALMA VE İHALE TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/SATIN-ALMA-VE-IHALE-TALIMATI.docx",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "SAĞLIK KURULU TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/SAGLIK-KURULU-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "TEKNİK KURUL TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/TEKNIK-KURUL-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "ÖDÜL VE YARDIM TALİMATI",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2018-03/ODUL-VE-YARDIM-TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "MİLLİ SPORCU BELGESİ SINIFLARINA İLİŞKİN MÜSABAKA TÜRLERİNİN BELİRLENMESİNE DAİR GENELGE",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2020-11/MilliSporcuBelgesiSiniflarinaIliskinMusabakaTurlerininBelirlenmesineDairGenelge.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Ana Statü",
+   "url": "https://www.tyf.gov.tr/sayfa/ana-statu.html",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Genelgeler",
+   "url": "https://www.tyf.gov.tr/sayfa/genelgeler.html",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  }
+ ],
+ "checked_at": "2026-08-20T20:39:01+00:00",
+ "list_fingerprint": "f945f89439b77e80"
+}

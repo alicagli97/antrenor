@@ -1,0 +1,36 @@
+{
+ "federation": "yelken",
+ "federation_name": "Türkiye Yelken Federasyonu",
+ "federation_short": "TYF",
+ "sources": [
+  "https://www.tyf.org.tr/sayfalar/yelken-hakem-talimati/",
+  "https://www.tyf.org.tr/sayfalar/egitim-kurulu-gorev-talimati/"
+ ],
+ "document_count": 3,
+ "coach_document_count": 2,
+ "documents": [
+  {
+   "baslik": "Yelken Hakem Talimatı",
+   "url": "https://www.tyf.org.tr/sayfalar/yelken-hakem-talimati/",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Talimatlar",
+   "url": "https://www.tyf.org.tr/kategori/talimatlar",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Eğitim Kurulu Görev Talimatı",
+   "url": "https://www.tyf.org.tr/sayfalar/egitim-kurulu-gorev-talimati/",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  }
+ ],
+ "checked_at": "2026-08-20T20:39:07+00:00",
+ "list_fingerprint": "f4e635935fc2ab00"
+}

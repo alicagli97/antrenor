@@ -73,6 +73,12 @@ jobs:
           PYTHONIOENCODING: utf-8
         run: python scripts/ci_calendars.py
 
+      - name: Yarisma kurallarini kontrol et
+        working-directory: backend
+        env:
+          PYTHONIOENCODING: utf-8
+        run: python scripts/ci_rules.py
+
       - name: Federasyonlari tara
         working-directory: backend
         env:

@@ -1,0 +1,56 @@
+{
+ "federation": "beyzbol",
+ "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
+ "federation_short": "TBSF",
+ "sources": [
+  "https://tbsf.org.tr/incele.php?id=MTMy"
+ ],
+ "document_count": 6,
+ "coach_document_count": 1,
+ "documents": [
+  {
+   "baslik": "Lisans Tescil Vize ve Transfer Talimatı",
+   "url": "https://tbsf.org.tr/upresimler/mevzuat/Ragbi_lisans,tescil%20ve%20vize%20talimati.doc",
+   "tur": "word",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Ana Statü",
+   "url": "https://tbsf.org.tr/upresimler/belgeler/anastatu__resmigazete_29136.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Atanan Kurullar Talimatı",
+   "url": "https://tbsf.org.tr/upresimler/mevzuat/Ragbi_atanan_federasyonlari_talimati.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Disiplin Talimatı",
+   "url": "https://tbsf.org.tr/upresimler/mevzuat/Ragbi_disiplin_talimati.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Doping Talimatı",
+   "url": "https://tbsf.org.tr/upresimler/belgeler/anti_doping2015.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Korumalı Futbol Müsabaka Talimatı",
+   "url": "https://tbsf.org.tr/upresimler/mevzuat/KorumaliFutbol_Musabaka_Talimati.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  }
+ ],
+ "checked_at": "2026-08-20T20:39:10+00:00",
+ "list_fingerprint": "bf55011e1e2eed02"
+}

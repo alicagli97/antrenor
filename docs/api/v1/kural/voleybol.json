@@ -1,0 +1,253 @@
+{
+ "federation": "voleybol",
+ "federation_name": "Türkiye Voleybol Federasyonu",
+ "federation_short": "TVF",
+ "sources": [
+  "https://tvf.org.tr/tvf-talimatlar-talimatlar",
+  "https://tvf.org.tr/icerikler/sport4rules/"
+ ],
+ "document_count": 34,
+ "coach_document_count": 7,
+ "documents": [
+  {
+   "baslik": "Antrenör Eğitim Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/AntrenorEgitimi/TVF_Antrenor_Egitimi_Talimati.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Eğitim Kurulu Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/EgitimKurulu/TVF_Egitim_kurulu_talimati.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Hakem ve Gözlemci Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_hakem_ve_gozlemci_talimati.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Milli Takım Sporcularının Belirlenmesi Hakkında Talimat",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/MilliTakimSporcularinin_belirlenmesi/TVF_MilliTakim_Sporcularinin_Belirlenmesi_Hakkinda_Talimat.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Dalı Tescil Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/SporDaliTescil/TVF_SporDali_Tescil_Talimati..pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Kulüpleri ve Spor Anonim Şirketlerine Yardım Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/SporKuluplerineYardim/TVF_SporKulupleri_SporAnonimSirketlerine_YardimTalimati.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Sporcu Lisans, Vize ve Transfer Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/Sporcu_Lisans/Turkiye_Voleybol_Federasyonu_Sporcu_Lisans_Vize_ve_Transfer_Talimati.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Danışma Kurulu Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_Danisma_Kurulu_talimati.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Disiplin Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/Disiplin/TVF_Disiplin_talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Hizmet Pasaportu Verilmesine İlişkin Talimat",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/HizmetPasaportu/TVF_HizmetPasaportu_Verilmesineiliskin_Talimat.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Hukuk Kurulu Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_hukuk_kurulu_talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Lig Kurulu Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_lig_kurulu_talimati.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Milli Takımlar Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/Milli_Takimlar/TVF_Milli_Takimlar_Talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Mini Voleybol Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_mini_voleybol_talimati.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Pazarlama ve Organizasyon Kurulu Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_pazarlama_organizasyon_kurulu_talimati.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Personel Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_personel_talimati.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Plaj Voleybolu Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_Plaj_Voleybolu_Talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Salon Kullanımı Güvenlik ve Akreditasyon Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_salonkullanimi_guvenlik_akreditasyon_talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Satın Alma Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_satin_alma_talimati.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Sağlık ve Dopingle Mücadele Kurulu Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_saglik_dopingle_mucadele_kurulu_talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Teknik Kurul Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/teknik_kurul/TVF_Teknik_Kurulu_Talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Tesis Kullanım Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TesisKullanim/TVF_Tesis_Kullanim_Talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Voleybol İl Temsilciliği Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_voleybol_il_temsilciligi_talimati.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Voleybol Menajerliği Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_Voleybol_Menajerligi_Talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Voleybol Okulları Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_voleybol_okullari_talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Voleybol Şûrası Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/TVF_voleybol_surasi_talimati.doc",
+   "tur": "word",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Yarışma Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/Yarisma_Talimati/TVF_yarisma_talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Yayın Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/yayin_talimati/TVF_yayin_talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Ödül, Yardım ve Destek Talimatı",
+   "url": "https://tvf.org.tr/_dosyalar/Talimatlar/odul_talimati/TVF_Odul_Yardim_ve_Destek_Talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Erasmus+ Sport4Rules Projesi Çalıştayı Düzenlendi 4 yıl önce",
+   "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesi-calistayi-duzenlendi",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Erasmus+ Sport4Rules Projesinin Final Konferansı Düzenlendi 3 yıl önce",
+   "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesinin-final-konferansi-duzenlendi",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Erasmus+ Sport4Rules Projesinin Final Konferansı Düzenlenecek 3 yıl önce",
+   "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesinin-final-konferansi-duzenlenecek",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Erasmus+ Sport4Rules Projesinin Ulus Ötesi Toplantısı Yapıldı 3 yıl önce",
+   "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesinin-ulus-otesi-toplantisi-yapildi",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Erasmus+ Sport4Rules Projesinin Ulusötesi Toplantısı Saraybosna'da Yapıldı 4 yıl önce",
+   "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesinin-ulusotesi-toplantisi-saraybosnada-yapildi",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  }
+ ],
+ "checked_at": "2026-08-20T20:39:01+00:00",
+ "list_fingerprint": "1ac5ca7aa0dc2abb"
+}

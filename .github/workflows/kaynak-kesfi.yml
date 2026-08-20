@@ -40,6 +40,12 @@ jobs:
           PYTHONIOENCODING: utf-8
         run: python scripts/discover_calendars.py
 
+      - name: Mevzuat kaynaklarini yeniden kesfet
+        working-directory: backend
+        env:
+          PYTHONIOENCODING: utf-8
+        run: python scripts/discover_rules.py
+
       - name: Degisiklik varsa PR ac
         uses: peter-evans/create-pull-request@v6
         with:
@@ -53,3 +59,4 @@ jobs:
           add-paths: |
             backend/data/sources.json
             backend/data/calendars.json
+            backend/data/rules.json

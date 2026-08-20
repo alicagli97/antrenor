@@ -1,0 +1,57 @@
+{
+ "federation": "satranc",
+ "federation_name": "Türkiye Satranç Federasyonu",
+ "federation_short": "TSF",
+ "sources": [
+  "https://www.tsf.org.tr/kaynaklar/belgeler/talimatlar",
+  "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri"
+ ],
+ "document_count": 6,
+ "coach_document_count": 0,
+ "documents": [
+  {
+   "baslik": "FEDERASYON",
+   "url": "https://www.tsf.org.tr/kaynaklar/belgeler/talimatlar",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "FIDE Kuralları",
+   "url": "https://www.tsf.org.tr/kaynaklar/belgeler/fide-kurallari",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Mobile menu",
+   "url": "https://www.tsf.org.tr/kaynaklar/belgeler/talimatlar#vtem_menu_mobile",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "tsf ozendirme odulleri talimat",
+   "url": "https://www.tsf.org.tr/images/stories/2021-2022/tsf_ozendirme_odulleri_talimat.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Turnuva Yönergeleri",
+   "url": "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Mobile menu",
+   "url": "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri#vtem_menu_mobile",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  }
+ ],
+ "checked_at": "2026-08-20T20:39:08+00:00",
+ "list_fingerprint": "882fd9317e0f61ab"
+}

@@ -1,0 +1,756 @@
+{
+ "federation": "gsb",
+ "federation_name": "Gençlik ve Spor Bakanlığı",
+ "federation_short": "GSB",
+ "sources": [
+  "https://gsb.gov.tr/tr/sayfa/36-mevzuat"
+ ],
+ "document_count": 106,
+ "coach_document_count": 18,
+ "documents": [
+  {
+   "baslik": "Başarılı Sporculara Aylık Bağlanması ve Devlet Sporcusu Unvanı Verilmesi Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13077&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Faal Sporculuğu Bırakma Törenleri Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4165&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Eğitim Faaliyetlerinde Ek Ders ve Diğer Uygulamalara İlişkin Usul ve Esaslar",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/usul-ve-esaslar/1-gsb-egitim-faaliyetlerinde-ek-ders-ve-diger-uygulamalara-iliskin-usul-ve-esaslar.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Eğitim, Araştırma ve Koordinasyon Genel Müdürlüğü Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/5-gsb-eakgm-gorev-yetki-ve-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Kamp Liderlerinin Seçimi, Eğitimi ile Çalışma Usul ve Esasları Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/13-gsb-kamp-liderlerinin-secimi-calisma-usul-ve-esaslari-hakkinda-yonerge.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Kamu Taşınmazları Üzerinde Eğitim ve Yurt Faaliyetleri İçin İrtifak Hakkı Tesis Edilmesine ve Kullanma İzni Verilmesine İlişkin Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23773&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Milli Sporcu Belgesi Sınıflarına İlişkin Müsabaka Türlerinin Belirlenmesine Dair Genelge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/genelgeler/9-milli-sporcu-belgesi-siniflarina-iliskin-musabaka-turlerinin-belirlenmesine-dair-genelge_08-09-2021-15-00-12.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Millî Sporcu Belgesi Verilmesi Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34607&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Olimpik, Paralimpik ve Deaflimpik Sporcu Yetiştirilmesine Dair Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38618&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Kondisyonerliği Eğitim Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/32-spor-kondisyonerligi-egitim-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Kulüpleri Tarafından Tutulacak Defter ve Kayıtlar Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39705&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Kulüpleri ve Spor Anonim Şirketlerinin Borçlanma Sınırlamalarından Muafiyetlerine İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39902&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşlara Ayni ve Nakdî Yardım Yapılması Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42748&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşların Denetimi Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41031&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Kulüplerinin Birleşmesi ve Mal Varlığı Devri Yapmalarına İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39720&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Kulüplerinin Genel Kurul ve Yönetim Kurulu Toplantılarının Elektronik Ortamda Yapılmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39822&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Sporcu Ücretlerinden Tevkif Yoluyla Alınan Gelir Vergisinin İadesi Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40258&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Vakıf Üniversiteleri İle Yapılan Milli Sporcu Bursu Protokolleri",
+   "url": "http://millisporcubursu.gsb.gov.tr/",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "2521 Sayılı Avda ve Sporda Kullanılan Tüfekler, Nişan Tabancaları ve Av Bıçaklarının Yapımı, Alımı, Satımı ve Bulundurulmasına Dair Kanunun Uygulanmasına İlişkin Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10666&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Araştırma İzinleri Genelgesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/genelgeler/1-arastirma-izinleri%20genelgesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Ateşli Silahlar ve Bıçaklar İle Diğer Aletler Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=911779&MevzuatTur=21&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Bakanlık Konutları Genelgesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/genelgeler/2-bakanlik-konutlari-genelgesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Bağımsız Spor Federasyonları (BSF) Muhasebe ve Bütçe Uygulamaları Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/1-bagimsiz-spor-federasyonlari-bsf-muhasebe-ve-butce-uygulamalari-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "CUMHURBAŞKANLIĞI/BAKANLAR KURULU YÖNETMELİKLERİ",
+   "url": "https://gsb.gov.tr/tr/sayfa/36-mevzuat#!",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Deprem Performans Analiz Raporları Hakkında Genelge",
+   "url": "https://ankara.gsb.gov.tr/Public/Edit/images/GSB/mevzuat2026/Deprem_Performans_AnalizRaporlari_%20Hakkinda_Genelge_22072026.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Enerji Politikası",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/40-enerji-politikasi-belgesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Acil Durumlar ve Savunma Planlaması Dairesi Başkanlığı Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://ankara.gsb.gov.tr/Public/Edit/images/GSB/adsp-db-y.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Afet ve Acil Durum Yönetim Merkezi Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/35-gsb-aadym-yonergesi-2021-birlesik.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Arama ve Kurtarma Ekiplerinin Kuruluşu, Görevleri, Çalışma Usul ve Esasları Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/36-gsb-ake-yonergesi-2024-birlesik.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Bilgi İşlem Dairesi Başkanlığı Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/2-bilgi-islem-dairesi-baskanligi-gorev-yetki-ve-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Bünyesinde Staj Yapacak Olanların Belirlenmesi ile Görev ve Sorumlulukları Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/3-gsb-staj-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Destek Hizmetleri Dairesi Başkanlığı Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/4-dhdb-gorev-yetki-ve-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Ek Ders Saatlerine İlişkin Esaslar Hakkında Karar",
+   "url": "https://www.mevzuat.gov.tr/MevzuatMetin/20.5.4371.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Ek Ders Saatlerine İlişkin Esaslar Hakkında Kararda Değişiklik Yapılmasına Dair Karar",
+   "url": "https://www.mevzuat.gov.tr/MevzuatMetin/20.5.6242.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Genç Ofislerin Açılış ve Kapanış İşlemleri ile Çalışma Usul ve Esaslarına İlişkin Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/6-gsb-genc-ofislerin-acilis-kapanis-calisma-usul-ve-esaslarina-iliskin-yonerge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Gençlik Hizmetleri Genel Müdürlüğü Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/7-gsb-ghgm-gorev-yetki-ve-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Gençlik Merkezi ve Genç Ofis Çalışmaları Kapsamındaki Projelerin Yönetimine İlişkin Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/8-gsb-genclik-merkezi-ve-genc-ofis-calismalari-yonerge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Gönüllü Gençlik Liderlerinin Çalışma Usul ve Esasları Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/9-gsb-gonullu-genclik-liderlerinin-calisma-usul-ve-esaslari-hakkinda-yonerge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Hazırlık ve Düzenleme Kurulunun Çalışma Usul ve Esasları Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39751&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Hukuk Hizmetleri Genel Müdürlüğü Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/10-gsb-hukuk-hizmetleri-genel-mudurlugu-gorev-yetki-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı ile Sanayi ve Teknoloji Bakanlığı Arasında Bilimsel Araştırma Girişimcilik ve Gençlerde Bilimsel Farkındalığın Araştırılmasına İlişkin İş Birliği Protokolü",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/protokoller/2-gsb-stb-isbirligi-protokolu.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı ile Türkiye Milli Olimpiyat Komitesi Arasında İşbirliği Protokolü",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/protokoller/3-gsb-tmok-isbirligi-protokolu.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı ile Türkiye Milli Paralimpik Komitesi Arasında İşbirliği Protokolü",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/protokoller/4-gsb-tmpk-isbirligi-protokolu.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı ile Uluslararası Gençlik Aktiviteleri Merkezi Derneği İş Birliği Protokolü",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/protokoller/5-gsb-iyaca-isbirligi-protokolu.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı İmza Yetkileri Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/11-gsb-imza-yetkileri-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Kalite Standartları Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/12-gsb-kalite-standartlari-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Konaklama Usul ve Esasları Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/14-gsb-konaklama-usul-ve-esaslari-hakkinda-yonerge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Kredi ve Yurtlar Genel Müdürlüğü Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/38-gsb-kygm-gorev-yetki-ve-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Nezdindeki Kişisel Verilerin Aktarılmasına İlişkin Usul ve Esaslar Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/15-gsb-nezdindeki-kisisel-verilerin-aktarilmasina-iliskin-usul-ve-esaslar-hakkinda-yonerge-oluru.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Personel Genel Müdürlüğü Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/19-pgm-gorev-yetki-ve-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Personelinin Yetiştirilmesi Amacıyla Yurt Dışına Gönderilmesi Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16793&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Rehberlik ve Denetim Başkanlığı Yönetmeliği",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34027&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Resmi İstatistik Programı Genelgesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/genelgeler/3-gsb-resmi-istatistik-programi-genelgesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Seyahatsever Genç Projesi Kapsamında Kullanılan Yurtlarda Uygulanacak Usul ve Esaslar Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/20-seyahatsever-genc-projesi-usul-ve-esaslari-hakkinda-yonerge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Sosyal İlişkiler ve İletişim Dairesi Başkanlığı Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/21-siidb-gorev-yetki-ve-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Spor Faaliyetleri Seyahat Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/22-seyahat-yonergesi-ve-oluru.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Spor Hizmetleri Genel Müdürlüğü Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/23-shgm-gorev-yetki-ve-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Strateji Geliştirme Başkanlığı Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/24-gsb-sgb-gorev-yetki-ve-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Tarafından 4734 Sayılı Kamu İhale Kanununun 3 üncü Maddesinin (f) Bendi Kapsamında Yapılacak İhalelere İlişkin Usul ve Esaslar",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2391&MevzuatTur=21&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Taşra Teşkilatının Kuruluşu, Görevleri, Çalışma Usul ve Esasları Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/25-gsb-tasra-teskilati-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Uluslararası Organizasyonlar ve Dış İlişkiler Genel Müdürlüğü Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/26-uodigm-gorev-yetki-ve-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Yangın Önleme ve Söndürme Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/37-gsb-yangin-yonergesi-2021-birlesik.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Yatırım ve İşletmeler Genel Müdürlüğü Görev, Yetki ve Sorumluluk Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/27-gsb-yatirim-ve-isletmeler-genel-mudurlugu-gorev-yetki-ve-sorumluluk-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Yurtlarda Alınacak Tedbirler ve Uygulamalar Usul ve Esasları Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/28-gsb-yurtlarda-alinacak-tedbirler-yonerge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Yurtlarında Barınan Öğrencilerin Beslenmelerine İlişkin Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42686&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Yurtlarında Bulunan Yemekhane, Kantin ve Diğer İşletmeler Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42691&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi",
+   "url": "https://ankara.gsb.gov.tr/Public/Edit/images/GSB/On_Mali_Kontrol_Islemleri_Yonergesi251125.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Özel ve Gece Hizmetleri Usul ve Esasları Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/18-gsb-ozel-ve-gece-hizmetleri-usul-ve-esaslari-hakkinda-yonerge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Öğrenci İzin İşlemleri Uygulama Usul ve Esasları Hakkında Yönerge",
+   "url": "https://ankara.gsb.gov.tr/Public/Edit/images/GSB/mevzuat2026/Ogrenci_izin_islemleri_Uygulama_Usul_ve_Esaslari_Yonerge_Olurlar_Dahil_13052026.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Öğrenci Konutları ve Öğrenci Sitelerine İlişkin Usul ve Esaslar",
+   "url": "https://ankara.gsb.gov.tr/Public/Edit/images/GSB/Genclik ve Spor Bakanligi Ogrenci Konutlari ve Ogrenci Sitelerine iliskin Usul ve Esaslar.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı Öğrenci Nakil Talepleri Uygulama Usul ve Esasları Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/39-ogrenci-nakil-talepleri-uygulama-usul-ve-esaslari-hakkinda-yonerge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığı, Bilgi İşlem Dairesi Başkanlığı, Tesis Geçiş Sistemlerinin Kullanımana Dair Yönerge",
+   "url": "https://ankara.gsb.gov.tr/Public/Edit/images/GSB/GSB%20BIDB%20Tesis%20Gec%CC%A7is%20Sistemlerinin%20Kullanimina%20Dair%20Yonerge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Bakanlığında Görev Yapan Memur ve Sözleşmeli Personelin Günlük Çalışma Saatlerinin Tespitine Dair Usul ve Esaslar",
+   "url": "https://ankara.gsb.gov.tr/Public/Edit/images/GSB/mevzuat2026/Genclik-ve-Spor-Bakanliginda-Gorev-Yapan-Memur-ve-Sozlesmeli-Personelin-Gunluk-Calisma-Saatlerinin-tespitine-dair-usul-ve-esaslar_030226.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Genel Müdürlüğü Gençlik ve Spor Faaliyetlerinin Düzenlenmesine Dair Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8079&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Gençlik ve Spor Hizmetleri Uygulamasında Görevlendirileceklere Ödenecek Ücretlerle İlgili Esaslar",
+   "url": "https://www.resmigazete.gov.tr/eskiler/2001/08/20010831.htm#2",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "GSB Birim Kamu İç Kontrol Standartlarına Uyum Eylem Planının Hazırlanması, Uygulanması veİzlenmesine İlişkin Usul ve Esaslar",
+   "url": "https://ankara.gsb.gov.tr/Public/Edit/images/GSB/Birim_Kamu_ic_Kontrol_Standartlarina_Uyum_Eylem_Planinin_Hazirlanmasi__Uygulanmasi_ve_izlenmesine_Iliskin_Usul_ve_Esaslar251125.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "GSB Birim Risk Kontrol Eylem Planının Hazırlanması, Uygulanması ve İzlenmesine İlişkin Usul ve Esaslar",
+   "url": "https://ankara.gsb.gov.tr/Public/Edit/images/GSB/Birim_Risk_Kontrol_Eylem_Planinin_Hazirlanmasi__Uygulanmasi_ve_izlenmesine_Iliskin_Usul_ve_Esaslar251125.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "GSB Spor Okulları ve GSB Engelsiz Spor Okulları Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/29-gsb-spor-okullari-ve-gsb-engelsiz-spor-okullari-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "İdari Para Cezalarının Uygulanmasına İlişkin Genelge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/genelgeler/4-idari-para-cezalarinin-uygulanmasina-iliskin-genelge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "İstanbul Olimpiyat Oyunları Hazırlık ve Düzenleme Kurulu Mal ve Hizmet Alımına Dair Esaslar",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/usul-ve-esaslar/3-istanbul-olimpiyat-oyunlari-hazirlik-ve-duzenleme-kurulu-mal-ve-hizmet-alimina-dair-esaslar.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "İzinsiz Öğrenci Barındırma Faaliyeti Gösteren Yerler Hakkında Genelge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/genelgeler/5-izinsiz-ogrenci-barindirma-faaliyeti-gosteren-yerler-hakkinda-genelge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "İç Denetim Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/30-ic-denetim-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "İşyeri Açma ve Çalışma Ruhsatlarına İlişkin Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20059207&MevzuatTur=21&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20023975&MevzuatTur=21&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Merkez Av Komisyonu, İl ve İlçe Av Komisyonlarının Görevleri, Çalışma Usul ve Esasları Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38509&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Merkez Teşkilatı Görev Yeri Tespiti Genelgesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/genelgeler/6-merkez-teskilati-gorev-yeri-tespiti-genelgesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Milli Takım Mensuplarının Sigortalanmaları Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4151&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Sosyal Medya Yönetimi Hakkında Genelge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/genelgeler/8-sosyal-medya-yonetimi-hakkinda-genelge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Anonim Şirketlerinin Esas Sözleşmesinin Asgari İçeriği, Ortaklık Yapısı, Pay Sahipliği, Sermayesi ve Organlarına İlişkin Usul ve Esaslar Tebliği",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39641&MevzuatTur=9&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Federasyonlarının Bütçe ve Harcama İlkeleri, Belge Düzeni, Tutulacak Defter ve Kayıtları İle Denetimine İlişkin Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41253&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Spor Hizmet ve Faaliyetlerinde Üstün Başarı Gösterenlerin Ödüllendirilmesi Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2010956&MevzuatTur=3&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunun Uygulanmasına İlişkin Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20124018&MevzuatTur=3&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Sportif Müsabakalardan Önce Yapılacak Saygı Duruşları Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4168&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=715754&MevzuatTur=21&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "T.C. Gençlik ve Spor Bakanlığı ile T.C Ankara Üniversitesi Arasında Bağımlılıkla Mücadele İş Birliği Protokolü",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/protokoller/1-gsb-ankara-univ-isbirligi-protokolu.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Taşra Teşkilatı Görev Yeri Tespiti Genelgesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/genelgeler/7-tasra-teskilati-gorev-yeri-tespiti-genelgesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Türk Karasularında Sportif Amaçlarla Yapılacak Aletli Dalışlara İlişkin Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5696&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Vergi Muafiyeti Tanınan Vakıf ve Kamu Yararına Çalışan Derneklere Ait Yükseköğrenim Yurtlarında Barınan Öğrencilere Yapılacak Beslenme ve Barınma Yardımına Dair Yönerge",
+   "url": "https://ankara.gsb.gov.tr//Public/Edit/images/GSB/Mevzuat/vergi-muafiyeti-taninan-vakif-ve-kamu-yararina-calisan-derneklere-ait-yuksekogrenim-yurtlarinda-barinan-ogrencilere-yapilacak-beslenme-ve-barinma-yardimina-dair-yonerge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Vergi Muafiyeti Tanınan Vakıf ve Kamu Yararına Çalışan Derneklere Ait Yükseköğrenim Yurtlarında Barınan Öğrencilere Yapılacak Beslenme Ve Barınma Yardımına Dair Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38892&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Yurtlara Başvuru, Değerlendirme, Yerleştirme, Kabul, Kayıt Usul ve Esasları",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/usul-ve-esaslar/2-kabul-kayit-usul-ve-esaslar.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Yükseköğrenim Özel Barınma Hizmetleri Yönergesi",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/34-yuksekogrenim-ozel-barinma-hizmetleri-yonergesi.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Yükseköğretim Öğrencilerine Teknolojik Cihaz ve İnternet Desteği Verilmesine İlişkin Usul ve Esaslar Hakkında Tebliğ",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40418&MevzuatTur=9&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Yüzme Bilmeyen Kalmasın Genelge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/genelgeler/10-yuzme-bilmeyen-kalmasin-genelge-26-09-2019_09-09-2021-15-43-50.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Çocuk Koruma Kanununa Göre Verilen Koruyucu ve Destekleyici Tedbir Kararlarının Uygulanması Hakkında Yönetmelik",
+   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10884&MevzuatTur=7&MevzuatTertip=5",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Öğrenci Disiplin İşlemleri Uygulama Usul ve Esasları Hakkında Yönerge",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/yonergeler/31-ogrenci-disiplin-islemleri-uygulama-usul-ve-esaslari-hakkinda-yonerge.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Öğrenci Uyum Programı Talimatı",
+   "url": "https://gsb.gov.tr/dist/mevzuatdosyalar2025/ogrenci-uyum-talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  }
+ ],
+ "checked_at": "2026-08-20T20:39:11+00:00",
+ "list_fingerprint": "20eff8ace21154af"
+}

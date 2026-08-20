@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-20T20:15:30+00:00",
+ "generated_at": "2026-08-20T20:39:59+00:00",
  "total": 1447,
- "new_in_last_run": 2,
+ "new_in_last_run": 0,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -10,7 +10,9 @@
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "kaykay"
+ ],
  "latest_published_at": "2026-08-20T20:13:35+00:00",
  "categories": {
   "takvim": 38,

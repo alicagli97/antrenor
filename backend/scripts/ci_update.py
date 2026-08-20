@@ -91,6 +91,29 @@ def sort_key(record: dict) -> str:
     return record.get("published_at") or record.get("first_seen_at") or ""
 
 
+def merge_health(stats: dict) -> dict:
+    """Kismi tarama kaynak sagligi ozetini bozmasin.
+
+    Yerel kopru yalnizca 1-2 federasyon tarar; bu turun sonucunu genel saglik
+    olarak yazarsak "65 kaynaktan 1'i calisiyor" gibi yaniltici bir tablo cikar.
+    Kismi turlarda onceki tam taramanin degerleri korunur.
+    """
+    if not stats.get("partial"):
+        return stats
+    meta_path = OUT / "meta.json"
+    if not meta_path.exists():
+        return stats
+    try:
+        onceki = json.loads(meta_path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return stats
+    korunan = dict(stats)
+    for alan in ("sources_ok", "sources_failed", "sources_empty", "sources_missing"):
+        if alan in onceki:
+            korunan[alan] = onceki[alan]
+    return korunan
+
+
 def build_outputs(store: list[dict], stats: dict) -> None:
     by_fed = defaultdict(list)
     for record in store:
@@ -115,6 +138,7 @@ def build_outputs(store: list[dict], stats: dict) -> None:
             "topic": f"fed_{fed.slug}",
         })
 
+    stats = merge_health(stats)
     write_json(OUT / "meta.json", {
         "schema_version": SCHEMA_VERSION,
         "generated_at": now_iso(),
@@ -124,6 +148,7 @@ def build_outputs(store: list[dict], stats: dict) -> None:
         "sources_failed": stats.get("sources_failed", []),
         "sources_empty": stats.get("sources_empty", []),
         "sources_missing": stats.get("sources_missing", []),
+        "partial_run": stats.get("partial_slugs") or None,
         "latest_published_at": store[0]["published_at"] if store else None,
         "categories": dict(categories),
         "federation_counts": counts,
@@ -202,7 +227,9 @@ async def main() -> int:
                           "sources_ok": len(ok),
                           "sources_failed": failed,
                           "sources_empty": empty,
-                          "sources_missing": missing})
+                          "sources_missing": missing,
+                          "partial": bool(hedef),
+                          "partial_slugs": hedef})
 
     # Bildirim: yalnizca gercekten yeni olanlar icin
     if new_records and os.getenv("PUSH_ENABLED") == "1":

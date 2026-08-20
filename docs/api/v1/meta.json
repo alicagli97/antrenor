@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-20T20:44:01+00:00",
- "total": 1449,
+ "generated_at": "2026-08-20T20:55:37+00:00",
+ "total": 1450,
  "new_in_last_run": 0,
  "sources_ok": 64,
  "sources_failed": [
@@ -10,9 +10,9 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-20T20:42:29+00:00",
+ "latest_published_at": "2026-08-20T20:53:01+00:00",
  "categories": {
-  "takvim": 40,
+  "takvim": 41,
   "duyuru": 775,
   "kurs": 245,
   "mevzuat": 36,
@@ -20,7 +20,7 @@
   "haber": 32
  },
  "federation_counts": {
-  "triatlon": 11,
+  "triatlon": 12,
   "kurek": 14,
   "bisiklet": 22,
   "havasporlari": 22,

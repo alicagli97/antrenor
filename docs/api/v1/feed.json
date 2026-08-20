@@ -1,5 +1,23 @@
 [
  {
+  "id": "16c938c57dcc981c",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "TTF faaliyet takviminde değişiklik",
+  "url": "https://triatlon.org.tr",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-20T20:53:01+00:00",
+  "first_seen_at": "2026-08-20T20:53:01+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "de00a35127702e7c",
   "federation": "triatlon",
   "federation_name": "Türkiye Triatlon Federasyonu",
@@ -4960,23 +4978,6 @@
   "title": "Türkiye Kadınlar Satranç Şampiyonası",
   "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-kadinlar-satranc-sampiyonasi",
   "summary": "Ş a m p i y o n a v e T u r n u v a l a r T ü r k i y e S a t r a n ç S ü p e r L i g i T ü r k i y e S a t r a n ç B i r i n c i L i g i T ü r k i y e S a t r a n ç İ k i n c i L i g i T ü r k i y e K u l ü p l e r S a t r a n ç Ş a m p i y o n a s ı T ü r k i y e S a t r a n ç Ş a m p i y o n a s ı T ü r k i y e K u p a s ı T ü r k i y e E m e k t a r l a r S a t r a n ç Ş a m p i y o n a s ı T ",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T21:45:48",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "cb6261cf18aecdf4",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Emektarlar Satranç Şampiyonası",
-  "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-emektarlar-satranc-sampiyonasi",
-  "summary": "Ş a m p i y o n a v e T u r n u v a l a r T ü r k i y e S a t r a n ç S ü p e r L i g i T ü r k i y e S a t r a n ç B i r i n c i L i g i T ü r k i y e S a t r a n ç İ k i n c i L i g i T ü r k i y e K u l ü p l e r S a t r a n ç Ş a m p i y o n a s ı T ü r k i y e S a t r a n ç Ş a m p i y o n a s ı T ü r k i y e K u p a s ı T ü r k i y e K a d ı n l a r S a t r a n ç Ş a m p i y o n a s ı T ü r ",
   "image": null,
   "category": "musabaka",
   "tags": [

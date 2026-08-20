@@ -66,24 +66,12 @@ def tur() -> None:
         print("degisiklik yok")
         return
 
-    git("add", "docs")
-    git("commit", "-m", f"yerel kopru: {', '.join(KOPRU_SLUGS)} guncellendi")
-
-    for deneme in range(1, MAX_PUSH_RETRY + 1):
-        try:
-            git("push", "origin", "main")
-            print("gonderildi")
-            return
-        except RuntimeError as exc:
-            print(f"gonderim reddedildi ({deneme}/{MAX_PUSH_RETRY}): {exc}")
-            # Bu arada Actions yeni veri islemis olabilir; birlestirip tekrar dene
-            git("pull", "--rebase", "--autostash", "--quiet", "origin", "main", check=False)
-            if git("status", "--porcelain"):        # cakisma cozulemedi
-                git("rebase", "--abort", check=False)
-                git("reset", "--hard", "origin/main", check=False)
-                print("cakisma: uzak surum alindi, sonraki turda tekrar denenecek")
-                return
-    print("gonderilemedi")
+    # Gonderimi cakisma-dayanikli yayin betigi yapar
+    sonuc = subprocess.run([sys.executable, str(HERE / "publish.py"),
+                            f"yerel kopru: {', '.join(KOPRU_SLUGS)}"],
+                           cwd=HERE.parent, text=True, encoding="utf-8", errors="replace")
+    if sonuc.returncode != 0:
+        print("gonderilemedi, sonraki turda tekrar denenecek")
 
 
 def main() -> None:

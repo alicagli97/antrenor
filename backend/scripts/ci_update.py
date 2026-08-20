@@ -206,6 +206,17 @@ def only_slugs() -> list[str] | None:
     return slugs or None
 
 
+def sadece_yeniden_uret() -> None:
+    """Tarama yapmadan store'dan turetilmis dosyalari yeniden uretir.
+
+    Cakisma cozumunde kullanilir: uzak surumle birlestirilen store'dan
+    feed/tag/category dosyalarini tutarli sekilde yeniden yazar.
+    """
+    store = sorted(load_store(), key=sort_key, reverse=True)
+    build_outputs(store, {"new": 0, "partial": True, "partial_slugs": ["yeniden-uretim"]})
+    print(f"ciktilar yeniden uretildi: {len(store)} kayit")
+
+
 async def main() -> int:
     store = load_store()
     known = {r["id"] for r in store}
@@ -276,5 +287,8 @@ async def main() -> int:
 
 
 if __name__ == "__main__":
+    if "--rebuild" in sys.argv:
+        sadece_yeniden_uret()
+        raise SystemExit(0)
     yeni = asyncio.run(main())
     print(f"\ntamam. yeni kayit: {yeni}")

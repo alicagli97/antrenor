@@ -98,13 +98,4 @@ jobs:
         run: |
           git config user.name "antrenor-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add docs
-          if git diff --staged --quiet; then
-            echo "yeni duyuru yok, commit atlaniyor"
-          else
-            SAYI=$(git diff --staged --numstat -- docs/api/v1/announcements.json | awk '{print $1}')
-            git commit -m "duyuru guncellemesi: ${SAYI:-0} satir"
-            # Bu arada baska bir tur push etmis olabilir
-            git pull --rebase --autostash origin main || true
-            git push
-          fi
+          cd backend && python scripts/publish.py "duyuru guncellemesi"

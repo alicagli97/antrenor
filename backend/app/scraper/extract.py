@@ -224,6 +224,60 @@ def best_detail_title(html: str) -> str:
     return ""
 
 
+# --- Baslik tabanli liste ----------------------------------------------------
+
+def _slugify(text: str) -> str:
+    t = _lower_tr(text)
+    for src, dst in (("ı", "i"), ("ş", "s"), ("ğ", "g"), ("ü", "u"), ("ö", "o"), ("ç", "c")):
+        t = t.replace(src, dst)
+    return re.sub(r"[^a-z0-9]+", "-", t).strip("-")[:60]
+
+
+def from_heading_list(html: str, base_url: str, min_items: int = 3) -> List[Item]:
+    """Duyurulari baglantisiz basliklarda (h2/h3) tutan sayfalar icin.
+
+    Bazi federasyon siteleri duyuruyu ayri bir detay sayfasina koymuyor;
+    icerik dogrudan liste sayfasinda aciliyor. Bu durumda her duyuruya
+    baslikdan uretilen bir cengel (#...) veriyoruz ki tekilleştirme calissin
+    ve baglanti dogru sayfayi acsin.
+    """
+    soup = BeautifulSoup(html, "lxml")
+    for bad in soup.find_all(["nav", "header", "footer", "script", "style", "aside"]):
+        bad.decompose()
+
+    items: List[Item] = []
+    seen = set()
+    for level in ("h2", "h3"):
+        basliklar = soup.find_all(level)
+        if len(basliklar) < min_items:
+            continue
+        for el in basliklar:
+            title = tidy_title(clean(el.get_text(" ")))
+            if not _valid_title(title) or title in seen:
+                continue
+            seen.add(title)
+
+            kapsayici = el.parent
+            ctx = clean(kapsayici.get_text(" ")) if kapsayici else ""
+            m = _DATE_NEAR.search(ctx)
+            raw_date = m.group(1) if m else ""
+            summary = clean(ctx.replace(title, " "))[:400]
+            image = None
+            if kapsayici:
+                img = kapsayici.find("img")
+                if img and img.get("src"):
+                    image = urljoin(base_url, img["src"])
+            cat, tags = classify(title, summary, trust_summary=False)
+            items.append(Item(title=title,
+                              url=f"{base_url.split('#')[0]}#{_slugify(title)}",
+                              published_at=parse_tr_date(raw_date), summary=summary,
+                              image=image, source_kind="headings", raw_date=raw_date,
+                              category=cat, tags=tags))
+        if len(items) >= min_items:
+            break
+    return items
+
+
 # --- RSS / Atom --------------------------------------------------------------
 
 def from_rss(text: str, base_url: str) -> List[Item]:

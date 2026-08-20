@@ -16,43 +16,22 @@
  ],
  "boks": [
   {
+   "url": "https://www.turkboks.gov.tr/category/haber/",
+   "kind": "html",
+   "score": 40,
+   "item_count": 12,
+   "dated_ratio": 0,
+   "label": "haber kategorisi",
+   "sample": []
+  },
+  {
    "url": "https://www.turkboks.gov.tr/wp-json/wp/v2/posts?per_page=20&_embed",
    "kind": "wp_json",
-   "score": 61.0,
-   "item_count": 20,
-   "dated_ratio": 1.0,
+   "score": 40,
+   "item_count": 12,
+   "dated_ratio": 0,
    "label": "WordPress REST",
-   "sample": [
-    "İhaleler",
-    "PLANLAMA VE KOORDİNASYON KURULU",
-    "BİLİM KURULU"
-   ]
-  },
-  {
-   "url": "https://www.turkboks.gov.tr/feed/",
-   "kind": "rss",
-   "score": 55.0,
-   "item_count": 10,
-   "dated_ratio": 1.0,
-   "label": "RSS",
-   "sample": [
-    "📢 5. KADEME BOKS TEKNİK DİREKTÖR UYGULAMA EĞİTİMİ KURSU DUYURUSU",
-    "U13 TÜRKİYE FERDİ BOKS ŞAMPİYONASI SONA ERDİ",
-    "U23 Erkekler ve Kadınlar Türkiye Ferdi Boks Şampiyonası Müsabaka Talimatı Yayınlandı"
-   ]
-  },
-  {
-   "url": "https://www.turkboks.gov.tr/rss",
-   "kind": "rss",
-   "score": 55.0,
-   "item_count": 10,
-   "dated_ratio": 1.0,
-   "label": "RSS",
-   "sample": [
-    "📢 5. KADEME BOKS TEKNİK DİREKTÖR UYGULAMA EĞİTİMİ KURSU DUYURUSU",
-    "U13 TÜRKİYE FERDİ BOKS ŞAMPİYONASI SONA ERDİ",
-    "U23 Erkekler ve Kadınlar Türkiye Ferdi Boks Şampiyonası Müsabaka Talimatı Yayınlandı"
-   ]
+   "sample": []
   }
  ],
  "dagcilik": [
@@ -223,43 +202,22 @@
  ],
  "voleybol": [
   {
-   "url": "https://tvf.org.tr/icerikler/mhgk-duyurular/",
+   "url": "https://tvf.org.tr/icerikler/tvf-duyurular",
    "kind": "html",
-   "score": 47.0,
+   "score": 40,
    "item_count": 12,
-   "dated_ratio": 1.0,
-   "label": "MHGK Duyurular",
-   "sample": [
-    "Ulusal Hakemliğe Terfi Ön Sınavı Duyurusu 2 hafta önce",
-    "2026-2027 Sezonu Çevrim İçi Voleybol Hakem ve Gözlemci Klasman Sınavı Duyurusu 1 ay önce",
-    "Aday Hakem Kursu Duyurusu: 15 – 17 Mayıs 2026, Erzincan 3 ay önce"
-   ]
+   "dated_ratio": 0,
+   "label": "TVF duyurular",
+   "sample": []
   },
   {
-   "url": "https://tvf.org.tr/icerik/u17-erkek-milli-takimimiz-dunya-sampiyonasina-galibiyetle-basladi",
+   "url": "https://tvf.org.tr/icerikler/haberler",
    "kind": "html",
-   "score": 43.0,
-   "item_count": 8,
-   "dated_ratio": 1.0,
-   "label": "Haber U17 Erkek Milli Takımımız, Dünya Şampiyonası'na Galibi",
-   "sample": [
-    "Erkek Milli Takımımız, 2026 Akdeniz Oyunları'nda Sahne Alıyor 18 Ağustos 2026",
-    "U20 Kadın Milli Takımımız, Avrupa Şampiyonası Elemelerine Galibiyetle Başladı 19 Ağustos 2026",
-    "Kadın Milli Takımımızın 2026 Akdeniz Oyunları'nda Sahne Alıyor 19 Ağustos 2026"
-   ]
-  },
-  {
-   "url": "https://tvf.org.tr/icerik/kadin-milli-takimimizin-2026-akdeniz-oyunlarinda-sahne-aliyor",
-   "kind": "html",
-   "score": 43.0,
-   "item_count": 8,
-   "dated_ratio": 1.0,
-   "label": "Haber Kadın Milli Takımımızın 2026 Akdeniz Oyunları'nda Sahn",
-   "sample": [
-    "Erkek Milli Takımımız, 2026 Akdeniz Oyunları'nda Sahne Alıyor 18 Ağustos 2026",
-    "U20 Kadın Milli Takımımız, Avrupa Şampiyonası Elemelerine Galibiyetle Başladı 19 Ağustos 2026",
-    "Kadın Milli Takımımızın 2026 Akdeniz Oyunları'nda Sahne Alıyor 19 Ağustos 2026"
-   ]
+   "score": 40,
+   "item_count": 12,
+   "dated_ratio": 0,
+   "label": "haberler",
+   "sample": []
   }
  ],
  "karate": [
@@ -437,17 +395,22 @@
  ],
  "aticilik": [
   {
-   "url": "https://taaf.org.tr/",
+   "url": "https://www.taf.gov.tr/tr/duyurular",
    "kind": "html",
-   "score": 6.333333333333333,
-   "item_count": 3,
-   "dated_ratio": 0.0,
+   "score": 40,
+   "item_count": 12,
+   "dated_ratio": 1,
    "label": "duyurular",
-   "sample": [
-    "Yarışma Sonuçları",
-    "Ülke Sıralaması (Ranking)",
-    "Bilgi - Blog"
-   ]
+   "sample": []
+  },
+  {
+   "url": "https://www.taf.gov.tr/tr/haberler",
+   "kind": "html",
+   "score": 38,
+   "item_count": 12,
+   "dated_ratio": 1,
+   "label": "haberler",
+   "sample": []
   }
  ],
  "bisiklet": [
@@ -1274,43 +1237,22 @@
  ],
  "wushu": [
   {
-   "url": "https://twkf.gov.tr/haberler",
-   "kind": "html",
-   "score": 47.0,
-   "item_count": 12,
-   "dated_ratio": 1.0,
-   "label": "Haberler",
-   "sample": [
-    "13.04.2026 Budokaido Milli Takımı’na Dünya Şampiyonası Öncesi Milli Moral · Polonya’da düzenlenecek olan Budokaido Dünya Şampiyonası öncesinde hazırlık kampını sürdüren Milli Takım sporcularımız, anlamlı bir ziya…",
-    "28.02.2026 28 Şubat: Unutmadık, Unutmayacağız · 28 Şubat; tarihe kapkara bir iz bırakan, yakın tarihin çeşitli zamanlarında tezahür eden kirli bir zihniyetin, 28 Şubat 1997’deki MGK to…",
-    "28.02.2026 Yeniden Büyük Türkiye İçin Erbakan'ın Planlarını Erdoğan İle Bugün Gerçekleştiriyoruz · Bundan tam 15 yıl önce, 27 Şubat 2011 günü, hayatını O'nun Hak Nizamı'nı yeryüzüne hâkim kılmaya adadığı Rabbine, Rahmet-i Rahman'a kavu…"
-   ]
-  },
-  {
    "url": "https://twkf.gov.tr/duyurular",
    "kind": "html",
-   "score": 46.0,
-   "item_count": 11,
-   "dated_ratio": 1.0,
-   "label": "DUYURULAR",
-   "sample": [
-    "18.08.2026 9. Açık Balkan Wushu Kungfu Şampiyonası hakkında bilgilendirme",
-    "21.07.2026 DUYURU: 9. Açık Balkan Wushu Kung Fu Şampiyonası Avrasya Kupası (19–23 Ağustos 2026 · Yalova) Minikler, Yıldızlar, Gençler ve Büyükler kategorilerinde Taolu, Sanda ve Light Sanda müsabakaları Yalova Termal’de düzenlenecektir. Reglama…",
-    "29.04.2026 AİKİDO DAN TERFİ SINAVI VE PUANLI TEKNİK GELİŞİM SEMİNERİ / 6-7 HAZİRAN 2026 / ANTALYA TÜRKİYE WUSHU KUNG-FU FEDERASYONU · AİKİDO BRANŞI 6-7 HAZİRAN 2026 ANTALYA FAALİYET PROGRAMI · 6 HAZİRAN 2026 CUMARTESİ PUANLI TEKNİK GEL…"
-   ]
+   "score": 40,
+   "item_count": 12,
+   "dated_ratio": 0,
+   "label": "duyurular",
+   "sample": []
   },
   {
-   "url": "https://twkf.gov.tr/duyurular.php",
+   "url": "https://twkf.gov.tr/haberler",
    "kind": "html",
-   "score": 46.0,
-   "item_count": 11,
-   "dated_ratio": 1.0,
-   "label": "duyurular.php",
-   "sample": [
-    "18.08.2026 9. Açık Balkan Wushu Kungfu Şampiyonası hakkında bilgilendirme",
-    "07.08.2026 T.C. MİLLÎ SAVUNMA BAKANLIĞI 2026 Yılı (2026-2 Dönem) Kara, Deniz ve Hava Kuvvetleri Komutanlıkları Wushu Kung Fu Sporcu Branşı Sözleşmeli Er Temini Duyurusu",
-    "21.07.2026 DUYURU: 9. Açık Balkan Wushu Kung Fu Şampiyonası Avrasya Kupası (19–23 Ağustos 2026 · Yalova)"
-   ]
+   "score": 40,
+   "item_count": 12,
+   "dated_ratio": 0,
+   "label": "haberler",
+   "sample": []
   }
  ],
  "bric": [
@@ -1978,43 +1920,13 @@
  ],
  "oryantiring": [
   {
-   "url": "https://oryantiring.org.tr/",
-   "kind": "html",
-   "score": 36.5,
-   "item_count": 4,
-   "dated_ratio": 1.0,
-   "label": "duyuru",
-   "sample": [
-    "Forma ulaşmak için tıklayınız!",
-    "uzem.oryantiring.org.tr",
-    "Haritacı Bilgi Formu için tıklayınız"
-   ]
-  },
-  {
    "url": "https://oryantiring.org.tr/haberler",
-   "kind": "html",
-   "score": 36.5,
-   "item_count": 4,
-   "dated_ratio": 1.0,
-   "label": "haberler",
-   "sample": [
-    "Forma ulaşmak için tıklayınız!",
-    "uzem.oryantiring.org.tr",
-    "Haritacı Bilgi Formu için tıklayınız"
-   ]
-  },
-  {
-   "url": "https://oryantiring.org.tr/haber",
-   "kind": "html",
-   "score": 36.5,
-   "item_count": 4,
-   "dated_ratio": 1.0,
-   "label": "haber",
-   "sample": [
-    "Forma ulaşmak için tıklayınız!",
-    "uzem.oryantiring.org.tr",
-    "Haritacı Bilgi Formu için tıklayınız"
-   ]
+   "kind": "headings",
+   "score": 30,
+   "item_count": 10,
+   "dated_ratio": 0,
+   "label": "baslik listesi",
+   "sample": []
   }
  ],
  "gsb": [

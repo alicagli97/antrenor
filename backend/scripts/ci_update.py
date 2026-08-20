@@ -20,6 +20,7 @@ import asyncio
 import json
 import os
 import pathlib
+import re
 import sys
 import warnings
 from collections import Counter, defaultdict
@@ -58,6 +59,28 @@ def load_store() -> list[dict]:
     except json.JSONDecodeError:
         print("uyari: mevcut store bozuk, sifirdan olusturuluyor")
         return []
+
+
+def _sadelestir(text: str) -> str:
+    """Karsilastirma icin: kucuk harf, yalnizca harf/rakam."""
+    return re.sub(r"[^a-z0-9çğıöşü]+", "", extract._lower_tr(text))
+
+
+def kendi_adi_mi(slug: str, title: str) -> bool:
+    """Baslik federasyonun kendi adiysa bu bir duyuru degil, logo/anasayfa baglantisidir.
+
+    "Türkiye Oryantiring Federasyonu | TOF" gibi ad + kisaltma birlesimleri de yakalanir.
+    """
+    fed = BY_SLUG[slug]
+    t = _sadelestir(title)
+    if not t:
+        return True
+    adaylar = {_sadelestir(fed.name), _sadelestir(fed.short),
+               _sadelestir(fed.name + fed.short),
+               _sadelestir(fed.short + fed.name),
+               _sadelestir(fed.name + " resmi web sitesi"),
+               _sadelestir(fed.name + " anasayfa")}
+    return t in adaylar
 
 
 def to_record(slug: str, item: extract.Item) -> dict:
@@ -208,6 +231,8 @@ async def main() -> int:
     new_records: list[dict] = []
     for result in ok:
         for item in result.items:
+            if kendi_adi_mi(result.slug, item.title):
+                continue
             record = to_record(result.slug, item)
             if record["id"] in known:
                 continue

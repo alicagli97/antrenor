@@ -72,6 +72,9 @@ async def fetch_source(client, slug: str, source: dict) -> FetchResult:
         elif kind == "rss":
             r = await get(client, url)
             items = extract.from_rss(r.text, url) if r else []
+        elif kind == "headings":
+            r = await get(client, url)
+            items = extract.from_heading_list(r.text, str(r.url)) if r else []
         elif kind == "render":
             from .adapters import render_html
             html = await render_html(url)

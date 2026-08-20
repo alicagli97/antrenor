@@ -38,7 +38,8 @@ FEDERATIONS: List[Federation] = [
     Federation("badminton", "Türkiye Badminton Federasyonu", "TBF", "https://badminton.org.tr", ["Badminton"], olympic=True),
     Federation("bisiklet", "Türkiye Bisiklet Federasyonu", "TBF", "https://bisiklet.org.tr", ["Bisiklet"], olympic=True),
     Federation("okculuk", "Türkiye Okçuluk Federasyonu", "TOF", "https://okculuk.org.tr", ["Okçuluk"], olympic=True),
-    Federation("aticilik", "Türkiye Atıcılık ve Avcılık Federasyonu", "TAAF", "https://taaf.org.tr", ["Atıcılık", "Avcılık"], olympic=True),
+    # Federasyon taaf.org.tr adresinden taf.gov.tr adresine tasindi; eski site 2018'de donmus.
+    Federation("aticilik", "Türkiye Atıcılık Federasyonu", "TAF", "https://www.taf.gov.tr", ["Atıcılık", "Trap", "Skeet", "Havalı Silahlar"], olympic=True),
     Federation("binicilik", "Türkiye Binicilik Federasyonu", "TBF", "https://binicilik.org.tr", ["Binicilik"], olympic=True),
     Federation("cimnastik", "Türkiye Cimnastik Federasyonu", "TCF", "https://tcf.gov.tr", ["Artistik Cimnastik", "Ritmik Cimnastik", "Aerobik Cimnastik"], olympic=True),
     Federation("eskrim", "Türkiye Eskrim Federasyonu", "TEF", "https://eskrim.org.tr", ["Eskrim"], olympic=True),

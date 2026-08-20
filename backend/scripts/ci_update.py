@@ -122,6 +122,8 @@ def build_outputs(store: list[dict], stats: dict) -> None:
         "new_in_last_run": stats.get("new", 0),
         "sources_ok": stats.get("sources_ok", 0),
         "sources_failed": stats.get("sources_failed", []),
+        "sources_empty": stats.get("sources_empty", []),
+        "sources_missing": stats.get("sources_missing", []),
         "latest_published_at": store[0]["published_at"] if store else None,
         "categories": dict(categories),
         "federation_counts": counts,
@@ -155,6 +157,11 @@ async def main() -> int:
     failed = sorted({r.slug for r in results if not r.ok and
                      not any(x.ok for x in results if x.slug == r.slug)})
 
+    # Kutukte olup hic sonuc uretmeyen federasyonlar: kaynak kaybini gorunur kilar
+    attempted = {r.slug for r in results}
+    missing = sorted(f.slug for f in FEDERATIONS if f.slug not in attempted)
+    empty = sorted({r.slug for r in ok if not r.items} - {r.slug for r in ok if r.items})
+
     new_records: list[dict] = []
     for result in ok:
         for item in result.items:
@@ -164,7 +171,8 @@ async def main() -> int:
             known.add(record["id"])
             new_records.append(record)
 
-    print(f"calisan kaynak: {len(ok)}  bos donen: {failed or '-'}")
+    print(f"calisan kaynak: {len(ok)}/{len(FEDERATIONS)}"
+          f"  hata: {failed or '-'}  bos: {empty or '-'}  kaynaksiz: {missing or '-'}")
     print(f"yeni duyuru: {len(new_records)}")
 
     if new_records:
@@ -174,7 +182,9 @@ async def main() -> int:
 
     build_outputs(store, {"new": len(new_records),
                           "sources_ok": len(ok),
-                          "sources_failed": failed})
+                          "sources_failed": failed,
+                          "sources_empty": empty,
+                          "sources_missing": missing})
 
     # Bildirim: yalnizca gercekten yeni olanlar icin
     if new_records and os.getenv("PUSH_ENABLED") == "1":

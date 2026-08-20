@@ -1,12 +1,18 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-20T18:48:05+00:00",
+ "generated_at": "2026-08-20T18:50:27+00:00",
  "total": 1370,
  "new_in_last_run": 0,
- "sources_ok": 1,
- "sources_failed": [],
- "sources_empty": [],
- "sources_missing": [],
+ "sources_ok": 65,
+ "sources_failed": [
+  "basketbol"
+ ],
+ "sources_empty": [
+  "oryantiring"
+ ],
+ "sources_missing": [
+  "kickboks"
+ ],
  "latest_published_at": "2026-08-20T18:07:25+00:00",
  "categories": {
   "duyuru": 766,

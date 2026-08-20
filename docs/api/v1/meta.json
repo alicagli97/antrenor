@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-20T22:22:15+00:00",
+ "generated_at": "2026-08-20T22:23:47+00:00",
  "total": 1448,
  "new_in_last_run": 0,
  "sources_ok": 64,
@@ -9,7 +9,9 @@
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "yeniden-uretim"
+ ],
  "latest_published_at": "2026-08-20T21:37:46+00:00",
  "categories": {
   "takvim": 39,

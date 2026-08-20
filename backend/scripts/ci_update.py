@@ -43,8 +43,8 @@ PER_FEDERATION = 60
 PER_TAG = 200
 SCHEMA_VERSION = 1
 
-EXPORT_TAGS = ["antrenor", "kurs", "vize", "terfi", "hakem", "mevzuat", "kulup"]
-EXPORT_CATEGORIES = ["kurs", "mevzuat", "musabaka", "duyuru", "haber"]
+EXPORT_TAGS = ["antrenor", "kurs", "vize", "terfi", "hakem", "mevzuat", "kulup", "takvim"]
+EXPORT_CATEGORIES = ["kurs", "mevzuat", "musabaka", "duyuru", "haber", "takvim"]
 
 
 def now_iso() -> str:

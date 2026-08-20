@@ -120,7 +120,4 @@ ADAPTERS: Dict[str, Callable] = {
 # tarayici ile ve tarayici basliklariyla denendiginde de ayni sonuc alindi.
 # Site otomatik erisimi tumden reddediyor. Temiz cozum: federasyondan
 # duyuru akisi (RSS/JSON) veya izin talep etmek.
-BLOCKED_SOURCES = {
-    "kickboks": "kickboks.gov.tr tum otomatik istekleri 403 ile reddediyor "
-                "(tarayici ile de 'Bir dakika lütfen' ekraninda kaliyor)",
-}
+BLOCKED_SOURCES: Dict[str, str] = {}

@@ -67,6 +67,12 @@ jobs:
           echo "PUSH_ENABLED=1" >> "$GITHUB_ENV"
           echo "FCM_CREDENTIALS_JSON=$PWD/backend/secrets/fcm.json" >> "$GITHUB_ENV"
 
+      - name: Faaliyet takvimlerini kontrol et
+        working-directory: backend
+        env:
+          PYTHONIOENCODING: utf-8
+        run: python scripts/ci_calendars.py
+
       - name: Federasyonlari tara
         working-directory: backend
         env:

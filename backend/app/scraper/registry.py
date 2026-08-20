@@ -20,6 +20,9 @@ class Federation:
     para: bool = False
 
 
+# Not: Turkiye Kick Boks Federasyonu (kickboks.gov.tr) kutukten cikarildi;
+# site tum otomatik istekleri reddediyor (gercek tarayici ve yerel baglanti
+# dahil 403). Federasyondan duyuru akisi alinirsa yeniden eklenebilir.
 FEDERATIONS: List[Federation] = [
     Federation("futbol", "Türkiye Futbol Federasyonu", "TFF", "https://www.tff.org", ["Futbol"], olympic=True),
     Federation("basketbol", "Türkiye Basketbol Federasyonu", "TBF", "https://www.tbf.org.tr", ["Basketbol"], olympic=True),
@@ -64,7 +67,6 @@ FEDERATIONS: List[Federation] = [
     Federation("vucutgelistirme", "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu", "TVGFBF", "https://tvgfbf.gov.tr", ["Vücut Geliştirme", "Fitness", "Bilek Güreşi"]),
     Federation("wushu", "Türkiye Wushu Kung Fu Federasyonu", "TWKF", "https://twkf.gov.tr", ["Wushu", "Kung Fu"]),
     Federation("muaythai", "Türkiye Muaythai Federasyonu", "TMF", "https://muaythai.gov.tr", ["Muaythai"]),
-    Federation("kickboks", "Türkiye Kick Boks Federasyonu", "TKBF", "https://www.kickboks.gov.tr", ["Kick Boks"]),
     Federation("bedenselengelliler", "Türkiye Bedensel Engelliler Spor Federasyonu", "TBESF", "https://www.tbesf.org.tr/tr/", ["Ampute Futbol", "Tekerlekli Sandalye Basketbol", "Para Yüzme", "Boccia"], para=True),
     Federation("isitmeengelliler", "Türkiye İşitme Engelliler Spor Federasyonu", "TİESF", "https://tiesf.org.tr", ["İşitme Engelliler Sporları"], para=True),
     Federation("gormeengelliler", "Türkiye Görme Engelliler Spor Federasyonu", "GESF", "https://www.gesf.org.tr", ["Goalball", "Görme Engelliler Sporları"], para=True),

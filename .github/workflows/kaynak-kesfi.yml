@@ -34,6 +34,12 @@ jobs:
           PYTHONIOENCODING: utf-8
         run: python scripts/discover_sources.py
 
+      - name: Takvim kaynaklarini yeniden kesfet
+        working-directory: backend
+        env:
+          PYTHONIOENCODING: utf-8
+        run: python scripts/discover_calendars.py
+
       - name: Degisiklik varsa PR ac
         uses: peter-evans/create-pull-request@v6
         with:
@@ -41,7 +47,9 @@ jobs:
           branch: kaynak-kesfi
           title: "Federasyon kaynaklari guncellendi"
           body: |
-            Haftalik kesif calisti ve `backend/data/sources.json` degisti.
+            Haftalik kesif calisti; duyuru ve/veya takvim kaynaklari degisti.
             Birlestirmeden once tarama denemesi yapin:
             `python backend/scripts/ci_update.py`
-          add-paths: backend/data/sources.json
+          add-paths: |
+            backend/data/sources.json
+            backend/data/calendars.json

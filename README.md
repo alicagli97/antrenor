@@ -28,9 +28,25 @@ Sunucu yok: tarama GitHub Actions'ta çalışır, veri depoda durur, dağıtım�
 | `api/v1/fed/<slug>.json` | Federasyon bazında son 60 |
 | `api/v1/tag/antrenor.json` | Antrenörlük duyuruları (kurs, vize, terfi) |
 | `api/v1/category/kurs.json` | Kategori bazında |
+| `api/v1/calendars.json` | Tüm faaliyet takvimleri: kaynak, etkinlik listesi, son değişiklik |
+| `api/v1/takvim/<slug>.json` | Federasyonun faaliyet takvimi |
 
 Her kayıt: `id, federation, title, url, summary, image, category, tags, published_at`.
 İçeriğin resmî hâli daima kaynak federasyonun sitesindedir; `url` alanı oraya gider.
+
+## Faaliyet takvimleri
+
+Federasyonlar yıl başında faaliyet programı yayınlar ve yıl içinde değiştirir —
+tarih kayar, yarışma eklenir veya iptal olur. Bu değişiklik antrenör için duyuru
+kadar önemli olduğundan takvimler her turda kontrol edilir:
+
+* Takvim kaynağı otomatik bulunur (HTML sayfa, PDF, Excel, Word).
+* HTML tablolarından ve PDF metninden etkinlik satırları çıkarılır.
+* İçerik parmak izi saklanır; değiştiğinde akışa **"faaliyet takviminde değişiklik"**
+  kaydı düşer ve bildirim gider (`category: takvim`).
+
+Yanlış belgeleri (KVKK formu, faaliyet raporu, eski yıl arşivi) elemek için
+tarih yoğunluğu, takvim sözcükleri ve yıl kontrolü uygulanır.
 
 ## Depo düzeni
 

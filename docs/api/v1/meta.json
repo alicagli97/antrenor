@@ -1,18 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-20T20:55:37+00:00",
- "total": 1450,
+ "generated_at": "2026-08-20T21:41:11+00:00",
+ "total": 1451,
  "new_in_last_run": 0,
- "sources_ok": 64,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "paralimpik"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-20T20:53:01+00:00",
+ "latest_published_at": "2026-08-20T21:37:46+00:00",
  "categories": {
-  "takvim": 41,
+  "takvim": 42,
   "duyuru": 775,
   "kurs": 245,
   "mevzuat": 36,
@@ -20,7 +21,7 @@
   "haber": 32
  },
  "federation_counts": {
-  "triatlon": 12,
+  "triatlon": 13,
   "kurek": 14,
   "bisiklet": 22,
   "havasporlari": 22,

@@ -31,3 +31,9 @@ Antrenör_*.zip
 backend/data/rapor.html
 brand/_*.png
 backend/data/*.err
+
+# Flutter uygulaması
+mobile/build/
+mobile/.dart_tool/
+mobile/ekran*.png
+mobile/.flutter-plugins*

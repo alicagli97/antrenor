@@ -1,5 +1,10 @@
 # Federasyon duyurularini saatte bir tarar ve docs/ altina JSON olarak yayinlar.
 # Sonuc GitHub Pages uzerinden mobil uygulamaya sunulur.
+#
+# NOT: GitHub, 60 gun boyunca depoda kullanici etkinligi olmayan depolarda
+# zamanlanmis is akislarini otomatik devre disi birakir. Bu is akisinin kendi
+# bot commit'leri bu sayaci sifirlamaz. Iki ayda bir depoya elle bir commit
+# atmak (veya Actions sekmesinden is akisini yeniden etkinlestirmek) yeterlidir.
 name: Duyuru taramasi
 
 on:

@@ -1,33 +1,31 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-20T20:12:34+00:00",
- "total": 1444,
- "new_in_last_run": 0,
- "sources_ok": 64,
+ "generated_at": "2026-08-20T20:15:30+00:00",
+ "total": 1447,
+ "new_in_last_run": 2,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "muaythai"
  ],
  "sources_empty": [],
- "sources_missing": [
-  "kickboks"
- ],
- "partial_run": [
-  "kaykay"
- ],
- "latest_published_at": "2026-08-20T20:11:18+00:00",
+ "sources_missing": [],
+ "partial_run": null,
+ "latest_published_at": "2026-08-20T20:13:35+00:00",
  "categories": {
-  "takvim": 37,
+  "takvim": 38,
+  "duyuru": 775,
   "kurs": 245,
   "mevzuat": 36,
-  "duyuru": 773,
   "musabaka": 321,
   "haber": 32
  },
  "federation_counts": {
+  "triatlon": 10,
   "bisiklet": 22,
   "havasporlari": 22,
   "kaykay": 9,
-  "gelenekselguresler": 21,
+  "gelenekselguresler": 22,
   "beyzbol": 41,
   "ragbi": 23,
   "danssporlari": 16,
@@ -39,7 +37,6 @@
   "bedenselengelliler": 21,
   "herkesicinspor": 10,
   "hokey": 21,
-  "triatlon": 9,
   "pentatlon": 21,
   "bilardo": 25,
   "otomobil": 41,
@@ -61,6 +58,7 @@
   "badminton": 22,
   "judo": 41,
   "karate": 14,
+  "taekwondo": 21,
   "boks": 26,
   "oryantiring": 10,
   "halter": 21,
@@ -82,7 +80,6 @@
   "universitesporlari": 8,
   "bric": 4,
   "gelenekselsporlar": 40,
-  "taekwondo": 20,
   "ozelsporcular": 10,
   "gures": 20,
   "buzhokeyi": 10,

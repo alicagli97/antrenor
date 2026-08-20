@@ -1,5 +1,23 @@
 [
  {
+  "id": "013226436b486234",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "TTF faaliyet takviminde değişiklik",
+  "url": "https://triatlon.org.tr",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-20T20:13:35+00:00",
+  "first_seen_at": "2026-08-20T20:13:35+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "34142df66c0b9d14",
   "federation": "bisiklet",
   "federation_name": "Türkiye Bisiklet Federasyonu",
@@ -664,6 +682,38 @@
   "published_at": "2026-08-20T20:10:46+00:00",
   "first_seen_at": "2026-08-20T20:10:46+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "7acfda440b5bf154",
+  "federation": "gelenekselguresler",
+  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
+  "federation_short": "TGGF",
+  "title": "KURTDERELİ MEHMET PEHLİVAN YAĞLI GÜREŞLERİ CANCI SONUÇLARI",
+  "url": "https://tggf.org.tr/kurtdereli-mehmet-pehlivan-yagli-guresleri-canci-sonuclari/",
+  "summary": "Benzer Haberler ... KARAKUCAK GÜREŞİ DÜNYA ŞAMPİYONASI ANKARA’DA SONA ERDİ Haberler GELİŞİM LİGİ-33. GELENEKSEL SEYDİKEMER SEKİ YAĞLI GÜREŞLERİ Haberler KARAMÜRSEL BELEDİYESİ 42. GELENEKSEL ALTIN KEMER YAĞLI GÜREŞLERİ-KARAMÜRSEL-KOCAELİ Haberler",
+  "image": "https://tggf.org.tr/wp-content/uploads/2026/08/kurtdereli_canli_sonuclari2026.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-20T20:09:13+00:00",
+  "first_seen_at": "2026-08-20T20:15:30+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "b68698ce28e2beea",
+  "federation": "taekwondo",
+  "federation_name": "Türkiye Taekwondo Federasyonu",
+  "federation_short": "TTF",
+  "title": "2026 Akdeniz Oyunları",
+  "url": "https://turkiyetaekwondofed.gov.tr/2026-akdeniz-oyunlari/",
+  "summary": "Türkiye’yi 20. Akdeniz Oyunları’nda 8 milli taekwondocumuz temsil edecek. İtalya’nın Taranto şehrinde 21 Ağustos – 3 Eylül 2026 tarihleri arasında düzenlenecek Akdeniz Oyunları’nda taekwondo müsabakaları 22-23 Ağustos’ta yapılacak. Toplam sekiz olimpik sıklette yapılacak müsabakalara ülkemiz tam kadro ile katılım sağlayacak. Türkiye Taekwondo Federasyonu Başkanı Bahri Tanrıkulu, taekwondo olarak oyunlarda Team Türkiye’ye en iyi desteği vermek […]",
+  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/09/IMG-20260820-WA0177.jpg",
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-20T19:55:46+00:00",
+  "first_seen_at": "2026-08-20T20:15:30+00:00",
+  "source": "wp_json"
  },
  {
   "id": "089cc5c3eebf58f6",

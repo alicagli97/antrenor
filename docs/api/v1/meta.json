@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-20T19:25:21+00:00",
- "total": 1405,
- "new_in_last_run": 0,
+ "generated_at": "2026-08-20T19:40:41+00:00",
+ "total": 1407,
+ "new_in_last_run": 2,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -11,14 +11,12 @@
  "sources_missing": [
   "kickboks"
  ],
- "partial_run": [
-  "temizlik"
- ],
+ "partial_run": null,
  "latest_published_at": "2026-08-20T19:23:27+00:00",
  "categories": {
   "kurs": 245,
   "mevzuat": 36,
-  "duyuru": 771,
+  "duyuru": 773,
   "musabaka": 321,
   "haber": 32
  },
@@ -60,7 +58,7 @@
   "gormeengelliler": 40,
   "tmok": 40,
   "hentbol": 10,
-  "muaythai": 19,
+  "muaythai": 20,
   "judo": 40,
   "bocce": 30,
   "okculuk": 20,
@@ -80,7 +78,7 @@
   "ozelsporcular": 10,
   "gures": 20,
   "buzhokeyi": 10,
-  "kayak": 19,
+  "kayak": 20,
   "havasporlari": 21,
   "triatlon": 8,
   "paralimpik": 20,

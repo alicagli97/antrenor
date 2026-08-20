@@ -93,7 +93,8 @@ def to_record(slug: str, item: extract.Item) -> dict:
         "federation_short": fed.short,
         "title": item.title[:400],
         "url": item.url[:800],
-        "summary": (item.summary or "")[:600],
+        "summary": (item.summary or "")[:600]
+        if extract.ozet_gecerli_mi(item.summary) else "",
         "image": item.image or None,
         "category": item.category,
         "tags": item.tags,

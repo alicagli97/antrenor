@@ -116,6 +116,29 @@ _JUNK_EXACT = ("devamını oku", "read more", "tümü", "daha fazla", "ana sayfa
                "tüm duyurular", "tüm haberler", "online işlemler", "site haritası")
 
 
+def ozet_gecerli_mi(ozet: str) -> bool:
+    """Liste sayfasindan kazinan ozetin gercek metin olup olmadigini anlar.
+
+    HTML listelerinde kartin cevresindeki metni ozet olarak aliyoruz; bu bazen
+    menu/gezinme yazisi oluyor ve bosluksuz birlesik cikiyor:
+    "GuncelDuyurularAgu17U23ErkeklerveKadinlar..." gibi. Boyle metinler
+    kullaniciya gosterilmemeli.
+    """
+    metin = (ozet or "").strip()
+    if len(metin) < 25:
+        return False
+    bosluk_orani = metin.count(" ") / len(metin)
+    if bosluk_orani < 0.08:                      # normal Turkce metin ~0.15
+        return False
+    if re.search(r"\S{35,}", metin):             # cok uzun bosluksuz dizi
+        return False
+    kelimeler = metin.split()
+    if not kelimeler:
+        return False
+    tek_harf = sum(1 for k in kelimeler if len(k) == 1) / len(kelimeler)
+    return tek_harf <= 0.35
+
+
 def _valid_title(t: str) -> bool:
     """Baslik gibi gorunmeyen menu/link metinlerini eler."""
     if not (12 <= len(t) <= 600):

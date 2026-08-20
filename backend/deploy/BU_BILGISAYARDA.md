@@ -112,6 +112,19 @@ aylık ~250–500 ₺'lik bir sunucuya taşıyalım. Taşıma işi kısa: `deplo
 zaten hazır, veritabanını kopyalayıp aynı komutları çalıştırmak yeterli. Uygulamadaki
 tek değişiklik API adresi olur — bunu baştan ayarlanabilir yazacağız.
 
+## 5b. Yerel köprü (GitHub'a geçtikten sonra)
+
+Veri akışı artık GitHub Actions'ta çalışıyor; bu bilgisayarın tek görevi, Cloudflare
+koruması nedeniyle GitHub'dan erişilemeyen Basketbol Federasyonu:
+
+```powershell
+cd C:\Users\PEGASUS\Desktop\ben\antrenör\backend
+python scripts\local_bridge.py --watch
+```
+
+6 saatte bir tarar, değişiklik varsa depoya gönderir. Kapalı olması diğer 63 kaynağı
+etkilemez.
+
 ## 6. Veritabanı
 
 Şimdilik SQLite (`data/antrenor.db`) kullanılıyor; bu ölçek için fazlasıyla yeterli

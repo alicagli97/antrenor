@@ -55,6 +55,27 @@ python backend/scripts/build_site.py     # statik sayfaları üret
 
 Klasik sunucu (REST API + veritabanı) isterseniz: [backend/README.md](backend/README.md)
 
+## Bot korumalı kaynaklar
+
+Basketbol Federasyonu (tbf.org.tr) Cloudflare bot doğrulaması kullanıyor. Doğrulama
+ev/ofis bağlantısından geçiyor, GitHub Actions'ın veri merkezi IP'sinden geçmiyor.
+Bu kaynak için **yerel köprü** var:
+
+```bash
+python backend/scripts/local_bridge.py           # bir kez
+python backend/scripts/local_bridge.py --watch   # 6 saatte bir
+```
+
+Köprü yalnızca o kaynağı tarar ve aynı depoya işler. Bilgisayar kapalıyken diğer
+kaynaklar GitHub'da taranmaya devam eder; köprü açıldığında eksikler tamamlanır.
+
+Kick Boks Federasyonu (kickboks.gov.tr) otomatik erişimi tümüyle reddediyor — gerçek
+tarayıcı ve yerel bağlantıyla da 403. Bu kaynak için federasyondan duyuru akışı
+talep edilmesi gerekiyor.
+
+Kaynak kaybı `api/v1/meta.json` içindeki `sources_failed`, `sources_empty` ve
+`sources_missing` alanlarından izlenir.
+
 ## Kaynak ve sorumluluk
 
 Duyurular federasyonların herkese açık resmî sayfalarından derlenir; tam metin

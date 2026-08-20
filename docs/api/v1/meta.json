@@ -1,31 +1,31 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-20T18:57:39+00:00",
- "total": 1370,
- "new_in_last_run": 0,
- "sources_ok": 62,
+ "generated_at": "2026-08-20T19:23:27+00:00",
+ "total": 1421,
+ "new_in_last_run": 51,
+ "sources_ok": 64,
  "sources_failed": [
-  "atletizm",
-  "basketbol",
-  "gormeengelliler",
-  "hokey"
+  "basketbol"
  ],
- "sources_empty": [
-  "oryantiring"
- ],
+ "sources_empty": [],
  "sources_missing": [
   "kickboks"
  ],
  "partial_run": null,
- "latest_published_at": "2026-08-20T18:07:25+00:00",
+ "latest_published_at": "2026-08-20T19:23:27+00:00",
  "categories": {
-  "duyuru": 766,
-  "musabaka": 310,
-  "kurs": 228,
-  "haber": 31,
-  "mevzuat": 35
+  "kurs": 245,
+  "mevzuat": 36,
+  "duyuru": 787,
+  "musabaka": 321,
+  "haber": 32
  },
  "federation_counts": {
+  "boks": 30,
+  "voleybol": 24,
+  "oryantiring": 10,
+  "bisiklet": 21,
+  "halter": 21,
   "futbol": 52,
   "yuzme": 14,
   "shgm": 19,
@@ -57,16 +57,15 @@
   "izcilik": 18,
   "gormeengelliler": 40,
   "tmok": 40,
-  "bisiklet": 20,
   "hentbol": 10,
   "muaythai": 20,
   "judo": 40,
   "bocce": 30,
   "okculuk": 20,
+  "wushu": 21,
   "bilardo": 24,
   "universitesporlari": 8,
   "otomobil": 40,
-  "halter": 20,
   "kano": 40,
   "motosiklet": 35,
   "gelenekselguresler": 20,
@@ -86,9 +85,6 @@
   "kurek": 12,
   "curling": 25,
   "herkesicinspor": 9,
-  "voleybol": 12,
-  "wushu": 12,
-  "boks": 20,
-  "aticilik": 3
+  "aticilik": 11
  }
 }

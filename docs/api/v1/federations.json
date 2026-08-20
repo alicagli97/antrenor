@@ -38,8 +38,8 @@
   ],
   "olympic": true,
   "para": false,
-  "announcement_count": 12,
-  "last_announcement_at": "2026-05-17T00:00:00",
+  "announcement_count": 24,
+  "last_announcement_at": "2026-08-20T19:23:27+00:00",
   "topic": "fed_voleybol"
  },
  {
@@ -109,8 +109,8 @@
   ],
   "olympic": true,
   "para": false,
-  "announcement_count": 20,
-  "last_announcement_at": "2026-08-17T11:16:05",
+  "announcement_count": 21,
+  "last_announcement_at": "2026-08-20T19:18:33+00:00",
   "topic": "fed_halter"
  },
  {
@@ -123,8 +123,8 @@
   ],
   "olympic": true,
   "para": false,
-  "announcement_count": 20,
-  "last_announcement_at": "2025-07-02T07:48:21",
+  "announcement_count": 30,
+  "last_announcement_at": "2026-08-20T19:23:27+00:00",
   "topic": "fed_boks"
  },
  {
@@ -225,8 +225,8 @@
   ],
   "olympic": true,
   "para": false,
-  "announcement_count": 20,
-  "last_announcement_at": "2026-08-19T18:12:26",
+  "announcement_count": 21,
+  "last_announcement_at": "2026-08-20T19:20:35+00:00",
   "topic": "fed_bisiklet"
  },
  {
@@ -245,17 +245,19 @@
  },
  {
   "slug": "aticilik",
-  "name": "Türkiye Atıcılık ve Avcılık Federasyonu",
-  "short": "TAAF",
-  "site": "https://taaf.org.tr",
+  "name": "Türkiye Atıcılık Federasyonu",
+  "short": "TAF",
+  "site": "https://www.taf.gov.tr",
   "branches": [
    "Atıcılık",
-   "Avcılık"
+   "Trap",
+   "Skeet",
+   "Havalı Silahlar"
   ],
   "olympic": true,
   "para": false,
-  "announcement_count": 3,
-  "last_announcement_at": "2018-09-02T00:00:00",
+  "announcement_count": 11,
+  "last_announcement_at": "2026-05-20T00:00:00+00:00",
   "topic": "fed_aticilik"
  },
  {
@@ -595,8 +597,8 @@
   ],
   "olympic": false,
   "para": false,
-  "announcement_count": 12,
-  "last_announcement_at": "2026-04-13T00:00:00",
+  "announcement_count": 21,
+  "last_announcement_at": "2026-08-18T00:00:00+00:00",
   "topic": "fed_wushu"
  },
  {
@@ -805,8 +807,8 @@
   ],
   "olympic": false,
   "para": false,
-  "announcement_count": 0,
-  "last_announcement_at": null,
+  "announcement_count": 10,
+  "last_announcement_at": "2026-08-20T19:23:27+00:00",
   "topic": "fed_oryantiring"
  },
  {

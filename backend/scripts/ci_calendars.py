@@ -28,7 +28,7 @@ warnings.filterwarnings("ignore")
 
 from app.scraper import calendars as cal
 from app.scraper.http_client import make_client
-from app.scraper.registry import BY_SLUG, FEDERATIONS
+from app.scraper.registry import BY_SLUG, ETIKETLER, FEDERATIONS
 
 BASE = pathlib.Path(__file__).resolve().parents[2]
 BACKEND = pathlib.Path(__file__).resolve().parents[1]
@@ -64,11 +64,12 @@ TUR_ADI = {"pdf": "PDF", "excel": "Excel dosyası", "word": "Word belgesi", "htm
 def duyuru_kaydi(slug: str, url: str, tur: str, etkinlik_sayisi: int, ilk_mi: bool) -> dict:
     """Takvim degisikligini akistaki duyuru bicimine cevirir."""
     fed = BY_SLUG[slug]
+    ad = ETIKETLER[slug]          # "TTF" degil "Triatlon": kisaltmalar benzersiz degil
     if ilk_mi:
-        baslik = f"{fed.short} faaliyet takvimi yayında"
+        baslik = f"{ad} faaliyet takvimi yayında"
         ozet = "Federasyonun faaliyet takvimi uygulamaya eklendi."
     else:
-        baslik = f"{fed.short} faaliyet takviminde değişiklik"
+        baslik = f"{ad} faaliyet takviminde değişiklik"
         ozet = ("Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, "
                 "eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.")
     if etkinlik_sayisi:
@@ -103,8 +104,15 @@ async def kontrol_et(client, slug: str, kaynaklar: list, onceki: dict, sem) -> t
                 continue
 
             eski = onceki.get(slug) or {}
-            degisti = bool(eski) and eski.get("parmak_izi") != durum.parmak_izi
             ilk_mi = not eski
+            farkli = bool(eski) and eski.get("parmak_izi") != durum.parmak_izi
+
+            # Bazi sayfalarda her istekte degisen ogeler var (sayac, oturum
+            # kimligi). Tek turluk farki degisiklik saymiyoruz: yeni parmak izi
+            # ust uste iki turda ayni kalirsa bildiriyoruz.
+            bekleyen = eski.get("bekleyen_iz")
+            degisti = farkli and bekleyen == durum.parmak_izi
+            yeni_bekleyen = durum.parmak_izi if (farkli and not degisti) else None
 
             kayit = {
                 "federation": slug,
@@ -113,13 +121,18 @@ async def kontrol_et(client, slug: str, kaynaklar: list, onceki: dict, sem) -> t
                 "url": durum.url,
                 "type": durum.tur,
                 "label": kaynak.label,
-                "fingerprint": durum.parmak_izi,
+                "fingerprint": durum.parmak_izi if (degisti or ilk_mi)
+                               else eski.get("fingerprint", durum.parmak_izi),
                 "event_count": len(durum.etkinlikler),
                 "events": [asdict(e) for e in durum.etkinlikler[:400]],
                 "checked_at": durum.kontrol_edildi,
+                "bekleyen_iz": yeni_bekleyen,
                 "changed_at": (now_iso() if degisti or ilk_mi
                                else eski.get("changed_at") or now_iso()),
-                "parmak_izi": durum.parmak_izi,     # ic kullanim
+                # Onaylanmamis farklar eski izi degistirmez; boylece "iki tur
+                # ust uste ayni" kurali dogru calisir
+                "parmak_izi": durum.parmak_izi if (degisti or ilk_mi)
+                              else eski.get("parmak_izi", durum.parmak_izi),
             }
             duyuru = (duyuru_kaydi(slug, durum.url, durum.tur, len(durum.etkinlikler), ilk_mi)
                       if (degisti or ilk_mi) else None)

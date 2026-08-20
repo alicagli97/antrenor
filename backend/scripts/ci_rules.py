@@ -27,7 +27,7 @@ warnings.filterwarnings("ignore")
 from app.scraper import rules as kural
 from app.scraper.calendars import parmak_izi
 from app.scraper.http_client import get, make_client
-from app.scraper.registry import BY_SLUG, FEDERATIONS
+from app.scraper.registry import BY_SLUG, ETIKETLER, FEDERATIONS
 
 BASE = pathlib.Path(__file__).resolve().parents[2]
 BACKEND = pathlib.Path(__file__).resolve().parents[1]
@@ -63,7 +63,7 @@ def duyuru_kaydi(slug: str, belge: dict, yeni_mi: bool) -> dict:
     fed = BY_SLUG[slug]
     if yeni_mi:
         baslik = f"Yeni mevzuat: {belge['baslik']}"
-        ozet = f"{fed.name} sitesinde yeni bir talimat/yönetmelik yayımlandı."
+        ozet = f"{ETIKETLER[slug]} federasyonunda yeni bir talimat/yönetmelik yayımlandı."
     else:
         baslik = f"Mevzuat güncellendi: {belge['baslik']}"
         ozet = (f"{fed.name} mevzuatındaki bu belgenin içeriği değişti. "

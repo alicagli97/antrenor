@@ -31,7 +31,7 @@ warnings.filterwarnings("ignore")
 
 from app.scraper import extract
 from app.scraper.pipeline import collect, fingerprint, sane_date
-from app.scraper.registry import BY_SLUG, FEDERATIONS
+from app.scraper.registry import BY_SLUG, ETIKETLER, FEDERATIONS
 
 BASE = pathlib.Path(__file__).resolve().parents[2]        # depo koku
 OUT = BASE / "docs" / "api" / "v1"
@@ -152,6 +152,9 @@ def build_outputs(store: list[dict], stats: dict) -> None:
             "slug": fed.slug,
             "name": fed.name,
             "short": fed.short,
+            # Resmi kisaltmalar benzersiz degil (TBF yedi federasyon); arayuz
+            # bu etiketi kullanir
+            "label": ETIKETLER[fed.slug],
             "site": fed.site,
             "branches": fed.branches,
             "olympic": fed.olympic,

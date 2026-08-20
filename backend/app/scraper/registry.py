@@ -94,3 +94,47 @@ FEDERATIONS: List[Federation] = [
 ]
 
 BY_SLUG = {f.slug: f for f in FEDERATIONS}
+
+# Resmi kisaltmalar benzersiz degil: TBF yedi federasyona ait (Basketbol, Boks,
+# Badminton, Bisiklet, Binicilik, Bric, Bilardo), TKF bese... Arayuzde ve
+# bildirimde kisaltma yerine bu etiketi kullaniyoruz.
+ETIKET_ISTISNA = {
+    "shgm": "Spor Genel Müdürlüğü",
+    "gsb": "Gençlik ve Spor Bakanlığı",
+    "tmok": "Olimpiyat Komitesi",
+    "paralimpik": "Paralimpik Komite",
+    "sportoto": "Spor Toto",
+    "bedenselengelliler": "Bedensel Engelliler",
+    "isitmeengelliler": "İşitme Engelliler",
+    "gormeengelliler": "Görme Engelliler",
+    "ozelsporcular": "Özel Sporcular",
+    "gelismekteolan": "Gelişmekte Olan Branşlar",
+    "gelenekselsporlar": "Geleneksel Spor Dalları",
+    "gelenekselguresler": "Geleneksel Güreşler",
+    "vucutgelistirme": "Vücut Geliştirme & Fitness",
+    "beyzbol": "Beyzbol & Softbol",
+    "universitesporlari": "Üniversite Sporları",
+    "herkesicinspor": "Herkes İçin Spor",
+    "danssporlari": "Dans Sporları",
+    "havasporlari": "Hava Sporları",
+    "otomobil": "Otomobil Sporları",
+    "halkoyunlari": "Halk Oyunları",
+    "bocce": "Bocce, Bowling & Dart",
+    "wushu": "Wushu Kung Fu",
+    "pentatlon": "Modern Pentatlon",
+    "aticilik": "Atıcılık",
+    "sualti": "Sualtı Sporları",
+}
+
+
+def etiket(fed: Federation) -> str:
+    """Federasyonun arayuzde gorunecek kisa, benzersiz adi (brans adi)."""
+    if fed.slug in ETIKET_ISTISNA:
+        return ETIKET_ISTISNA[fed.slug]
+    ad = fed.name
+    for ek in ("Türkiye ", " Federasyonu", " Spor Federasyonu"):
+        ad = ad.replace(ek, "")
+    return ad.strip()
+
+
+ETIKETLER = {f.slug: etiket(f) for f in FEDERATIONS}

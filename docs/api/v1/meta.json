@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-20T21:41:11+00:00",
- "total": 1451,
+ "generated_at": "2026-08-20T22:19:16+00:00",
+ "total": 1448,
  "new_in_last_run": 0,
  "sources_ok": 63,
  "sources_failed": [
@@ -10,10 +10,12 @@
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "yeniden-uretim"
+ ],
  "latest_published_at": "2026-08-20T21:37:46+00:00",
  "categories": {
-  "takvim": 42,
+  "takvim": 39,
   "duyuru": 775,
   "kurs": 245,
   "mevzuat": 36,
@@ -21,7 +23,7 @@
   "haber": 32
  },
  "federation_counts": {
-  "triatlon": 13,
+  "triatlon": 10,
   "kurek": 14,
   "bisiklet": 22,
   "havasporlari": 22,

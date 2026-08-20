@@ -3,6 +3,7 @@
   "slug": "futbol",
   "name": "Türkiye Futbol Federasyonu",
   "short": "TFF",
+  "label": "Futbol",
   "site": "https://www.tff.org",
   "branches": [
    "Futbol"
@@ -17,6 +18,7 @@
   "slug": "basketbol",
   "name": "Türkiye Basketbol Federasyonu",
   "short": "TBF",
+  "label": "Basketbol",
   "site": "https://www.tbf.org.tr",
   "branches": [
    "Basketbol"
@@ -31,6 +33,7 @@
   "slug": "voleybol",
   "name": "Türkiye Voleybol Federasyonu",
   "short": "TVF",
+  "label": "Voleybol",
   "site": "https://www.tvf.org.tr",
   "branches": [
    "Voleybol",
@@ -46,6 +49,7 @@
   "slug": "atletizm",
   "name": "Türkiye Atletizm Federasyonu",
   "short": "TAF",
+  "label": "Atletizm",
   "site": "https://www.taf.org.tr",
   "branches": [
    "Atletizm"
@@ -60,6 +64,7 @@
   "slug": "hentbol",
   "name": "Türkiye Hentbol Federasyonu",
   "short": "THF",
+  "label": "Hentbol",
   "site": "https://thf.org.tr",
   "branches": [
    "Hentbol"
@@ -74,6 +79,7 @@
   "slug": "judo",
   "name": "Türkiye Judo Federasyonu",
   "short": "TJF",
+  "label": "Judo",
   "site": "https://www.judo.org.tr",
   "branches": [
    "Judo",
@@ -89,6 +95,7 @@
   "slug": "gures",
   "name": "Türkiye Güreş Federasyonu",
   "short": "TGF",
+  "label": "Güreş",
   "site": "https://tgf.tr",
   "branches": [
    "Güreş"
@@ -103,6 +110,7 @@
   "slug": "halter",
   "name": "Türkiye Halter Federasyonu",
   "short": "THF",
+  "label": "Halter",
   "site": "https://halter.gov.tr",
   "branches": [
    "Halter"
@@ -117,6 +125,7 @@
   "slug": "boks",
   "name": "Türkiye Boks Federasyonu",
   "short": "TBF",
+  "label": "Boks",
   "site": "https://www.turkboks.gov.tr",
   "branches": [
    "Boks"
@@ -131,6 +140,7 @@
   "slug": "taekwondo",
   "name": "Türkiye Taekwondo Federasyonu",
   "short": "TTF",
+  "label": "Taekwondo",
   "site": "https://turkiyetaekwondofed.gov.tr",
   "branches": [
    "Taekwondo",
@@ -146,6 +156,7 @@
   "slug": "karate",
   "name": "Türkiye Karate Federasyonu",
   "short": "TKF",
+  "label": "Karate",
   "site": "https://karate.gov.tr",
   "branches": [
    "Karate"
@@ -160,6 +171,7 @@
   "slug": "yuzme",
   "name": "Türkiye Yüzme Federasyonu",
   "short": "TYF",
+  "label": "Yüzme",
   "site": "https://tyf.gov.tr",
   "branches": [
    "Yüzme",
@@ -177,6 +189,7 @@
   "slug": "tenis",
   "name": "Türkiye Tenis Federasyonu",
   "short": "TTF",
+  "label": "Tenis",
   "site": "https://www.ttf.org.tr",
   "branches": [
    "Tenis"
@@ -191,6 +204,7 @@
   "slug": "masatenisi",
   "name": "Türkiye Masa Tenisi Federasyonu",
   "short": "TMTF",
+  "label": "Masa Tenisi",
   "site": "https://tmtf.gov.tr",
   "branches": [
    "Masa Tenisi"
@@ -205,6 +219,7 @@
   "slug": "badminton",
   "name": "Türkiye Badminton Federasyonu",
   "short": "TBF",
+  "label": "Badminton",
   "site": "https://badminton.org.tr",
   "branches": [
    "Badminton"
@@ -219,6 +234,7 @@
   "slug": "bisiklet",
   "name": "Türkiye Bisiklet Federasyonu",
   "short": "TBF",
+  "label": "Bisiklet",
   "site": "https://bisiklet.org.tr",
   "branches": [
    "Bisiklet"
@@ -233,6 +249,7 @@
   "slug": "okculuk",
   "name": "Türkiye Okçuluk Federasyonu",
   "short": "TOF",
+  "label": "Okçuluk",
   "site": "https://okculuk.org.tr",
   "branches": [
    "Okçuluk"
@@ -247,6 +264,7 @@
   "slug": "aticilik",
   "name": "Türkiye Atıcılık Federasyonu",
   "short": "TAF",
+  "label": "Atıcılık",
   "site": "https://www.taf.gov.tr",
   "branches": [
    "Atıcılık",
@@ -264,6 +282,7 @@
   "slug": "binicilik",
   "name": "Türkiye Binicilik Federasyonu",
   "short": "TBF",
+  "label": "Binicilik",
   "site": "https://binicilik.org.tr",
   "branches": [
    "Binicilik"
@@ -278,6 +297,7 @@
   "slug": "cimnastik",
   "name": "Türkiye Cimnastik Federasyonu",
   "short": "TCF",
+  "label": "Cimnastik",
   "site": "https://tcf.gov.tr",
   "branches": [
    "Artistik Cimnastik",
@@ -294,6 +314,7 @@
   "slug": "eskrim",
   "name": "Türkiye Eskrim Federasyonu",
   "short": "TEF",
+  "label": "Eskrim",
   "site": "https://eskrim.org.tr",
   "branches": [
    "Eskrim"
@@ -308,6 +329,7 @@
   "slug": "kurek",
   "name": "Türkiye Kürek Federasyonu",
   "short": "TKF",
+  "label": "Kürek",
   "site": "https://tkf.gov.tr",
   "branches": [
    "Kürek"
@@ -322,6 +344,7 @@
   "slug": "kano",
   "name": "Türkiye Kano Federasyonu",
   "short": "TKF",
+  "label": "Kano",
   "site": "https://kano.org.tr",
   "branches": [
    "Kano",
@@ -337,6 +360,7 @@
   "slug": "yelken",
   "name": "Türkiye Yelken Federasyonu",
   "short": "TYF",
+  "label": "Yelken",
   "site": "https://tyf.org.tr",
   "branches": [
    "Yelken",
@@ -352,6 +376,7 @@
   "slug": "triatlon",
   "name": "Türkiye Triatlon Federasyonu",
   "short": "TTF",
+  "label": "Triatlon",
   "site": "https://triatlon.org.tr",
   "branches": [
    "Triatlon",
@@ -359,7 +384,7 @@
   ],
   "olympic": true,
   "para": false,
-  "announcement_count": 13,
+  "announcement_count": 10,
   "last_announcement_at": "2026-08-20T21:37:46+00:00",
   "topic": "fed_triatlon"
  },
@@ -367,6 +392,7 @@
   "slug": "pentatlon",
   "name": "Türkiye Modern Pentatlon Federasyonu",
   "short": "TMPF",
+  "label": "Modern Pentatlon",
   "site": "https://tmpf.org.tr",
   "branches": [
    "Modern Pentatlon"
@@ -381,6 +407,7 @@
   "slug": "buzpateni",
   "name": "Türkiye Buz Pateni Federasyonu",
   "short": "TBPF",
+  "label": "Buz Pateni",
   "site": "https://buzpateni.org.tr",
   "branches": [
    "Buz Pateni",
@@ -397,6 +424,7 @@
   "slug": "buzhokeyi",
   "name": "Türkiye Buz Hokeyi Federasyonu",
   "short": "TBHF",
+  "label": "Buz Hokeyi",
   "site": "https://www.tbhf.org.tr",
   "branches": [
    "Buz Hokeyi"
@@ -411,6 +439,7 @@
   "slug": "curling",
   "name": "Türkiye Curling Federasyonu",
   "short": "TCF",
+  "label": "Curling",
   "site": "https://curling.gov.tr",
   "branches": [
    "Curling"
@@ -425,6 +454,7 @@
   "slug": "kayak",
   "name": "Türkiye Kayak Federasyonu",
   "short": "TKF",
+  "label": "Kayak",
   "site": "https://tkf.org.tr",
   "branches": [
    "Kayak",
@@ -441,6 +471,7 @@
   "slug": "dagcilik",
   "name": "Türkiye Dağcılık Federasyonu",
   "short": "TDF",
+  "label": "Dağcılık",
   "site": "https://tdf.tr",
   "branches": [
    "Dağcılık",
@@ -456,6 +487,7 @@
   "slug": "golf",
   "name": "Türkiye Golf Federasyonu",
   "short": "TGF",
+  "label": "Golf",
   "site": "https://tgf.org.tr",
   "branches": [
    "Golf"
@@ -470,6 +502,7 @@
   "slug": "satranc",
   "name": "Türkiye Satranç Federasyonu",
   "short": "TSF",
+  "label": "Satranç",
   "site": "https://www.tsf.org.tr",
   "branches": [
    "Satranç"
@@ -484,6 +517,7 @@
   "slug": "bric",
   "name": "Türkiye Briç Federasyonu",
   "short": "TBF",
+  "label": "Briç",
   "site": "https://tbricfed.org.tr",
   "branches": [
    "Briç"
@@ -498,6 +532,7 @@
   "slug": "bocce",
   "name": "Türkiye Bocce Bowling ve Dart Federasyonu",
   "short": "TBBDF",
+  "label": "Bocce, Bowling & Dart",
   "site": "https://tbbdf.gov.tr",
   "branches": [
    "Bocce",
@@ -514,6 +549,7 @@
   "slug": "bilardo",
   "name": "Türkiye Bilardo Federasyonu",
   "short": "TBF",
+  "label": "Bilardo",
   "site": "https://bilardo.gov.tr",
   "branches": [
    "Bilardo"
@@ -528,6 +564,7 @@
   "slug": "motosiklet",
   "name": "Türkiye Motosiklet Federasyonu",
   "short": "TMF",
+  "label": "Motosiklet",
   "site": "https://tmf.org.tr",
   "branches": [
    "Motosiklet"
@@ -542,6 +579,7 @@
   "slug": "otomobil",
   "name": "Türkiye Otomobil Sporları Federasyonu",
   "short": "TOSFED",
+  "label": "Otomobil Sporları",
   "site": "https://www.tosfed.org.tr",
   "branches": [
    "Otomobil Sporları",
@@ -558,6 +596,7 @@
   "slug": "sualti",
   "name": "Türkiye Sualtı Sporları Federasyonu",
   "short": "TSSF",
+  "label": "Sualtı Sporları",
   "site": "https://tssf.gov.tr",
   "branches": [
    "Sualtı Sporları",
@@ -574,6 +613,7 @@
   "slug": "vucutgelistirme",
   "name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
   "short": "TVGFBF",
+  "label": "Vücut Geliştirme & Fitness",
   "site": "https://tvgfbf.gov.tr",
   "branches": [
    "Vücut Geliştirme",
@@ -590,6 +630,7 @@
   "slug": "wushu",
   "name": "Türkiye Wushu Kung Fu Federasyonu",
   "short": "TWKF",
+  "label": "Wushu Kung Fu",
   "site": "https://twkf.gov.tr",
   "branches": [
    "Wushu",
@@ -605,6 +646,7 @@
   "slug": "muaythai",
   "name": "Türkiye Muaythai Federasyonu",
   "short": "TMF",
+  "label": "Muaythai",
   "site": "https://muaythai.gov.tr",
   "branches": [
    "Muaythai"
@@ -619,6 +661,7 @@
   "slug": "bedenselengelliler",
   "name": "Türkiye Bedensel Engelliler Spor Federasyonu",
   "short": "TBESF",
+  "label": "Bedensel Engelliler",
   "site": "https://www.tbesf.org.tr/tr/",
   "branches": [
    "Ampute Futbol",
@@ -636,6 +679,7 @@
   "slug": "isitmeengelliler",
   "name": "Türkiye İşitme Engelliler Spor Federasyonu",
   "short": "TİESF",
+  "label": "İşitme Engelliler",
   "site": "https://tiesf.org.tr",
   "branches": [
    "İşitme Engelliler Sporları"
@@ -650,6 +694,7 @@
   "slug": "gormeengelliler",
   "name": "Türkiye Görme Engelliler Spor Federasyonu",
   "short": "GESF",
+  "label": "Görme Engelliler",
   "site": "https://www.gesf.org.tr",
   "branches": [
    "Goalball",
@@ -665,6 +710,7 @@
   "slug": "ozelsporcular",
   "name": "Türkiye Özel Sporcular Spor Federasyonu",
   "short": "TÖSSF",
+  "label": "Özel Sporcular",
   "site": "https://tossfed.gov.tr",
   "branches": [
    "Özel Sporcular"
@@ -679,6 +725,7 @@
   "slug": "herkesicinspor",
   "name": "Türkiye Herkes İçin Spor Federasyonu",
   "short": "HİS",
+  "label": "Herkes İçin Spor",
   "site": "https://his.gov.tr",
   "branches": [
    "Herkes İçin Spor",
@@ -695,6 +742,7 @@
   "slug": "gelenekselguresler",
   "name": "Türkiye Geleneksel Güreşler Federasyonu",
   "short": "TGGF",
+  "label": "Geleneksel Güreşler",
   "site": "https://tggf.org.tr",
   "branches": [
    "Yağlı Güreş",
@@ -711,6 +759,7 @@
   "slug": "gelenekselsporlar",
   "name": "Türkiye Geleneksel Spor Dalları Federasyonu",
   "short": "GSDF",
+  "label": "Geleneksel Spor Dalları",
   "site": "https://www.gsdf.gov.tr/tr",
   "branches": [
    "Atlı Cirit",
@@ -728,6 +777,7 @@
   "slug": "halkoyunlari",
   "name": "Türkiye Halk Oyunları Federasyonu",
   "short": "THOF",
+  "label": "Halk Oyunları",
   "site": "https://thof.gov.tr",
   "branches": [
    "Halk Oyunları"
@@ -742,6 +792,7 @@
   "slug": "hokey",
   "name": "Türkiye Hokey Federasyonu",
   "short": "THF",
+  "label": "Hokey",
   "site": "https://www.turkhokey.gov.tr",
   "branches": [
    "Çim Hokeyi",
@@ -757,6 +808,7 @@
   "slug": "beyzbol",
   "name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
   "short": "TBSF",
+  "label": "Beyzbol & Softbol",
   "site": "https://tbsf.org.tr",
   "branches": [
    "Beyzbol",
@@ -773,6 +825,7 @@
   "slug": "ragbi",
   "name": "Türkiye Ragbi Federasyonu",
   "short": "TRF",
+  "label": "Ragbi",
   "site": "https://trf.gov.tr",
   "branches": [
    "Ragbi"
@@ -787,6 +840,7 @@
   "slug": "oryantiring",
   "name": "Türkiye Oryantiring Federasyonu",
   "short": "TOF",
+  "label": "Oryantiring",
   "site": "https://oryantiring.org.tr",
   "branches": [
    "Oryantiring"
@@ -801,6 +855,7 @@
   "slug": "universitesporlari",
   "name": "Türkiye Üniversite Sporları Federasyonu",
   "short": "TÜSF",
+  "label": "Üniversite Sporları",
   "site": "https://tusf.org.tr",
   "branches": [
    "Üniversite Sporları"
@@ -815,6 +870,7 @@
   "slug": "danssporlari",
   "name": "Türkiye Dans Sporları Federasyonu",
   "short": "TDSF",
+  "label": "Dans Sporları",
   "site": "https://tdsf.org.tr",
   "branches": [
    "Dans Sporları"
@@ -829,6 +885,7 @@
   "slug": "gelismekteolan",
   "name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
   "short": "GOSBF",
+  "label": "Gelişmekte Olan Branşlar",
   "site": "https://www.gosbf.org.tr",
   "branches": [
    "Korfbol",
@@ -846,6 +903,7 @@
   "slug": "havasporlari",
   "name": "Türkiye Hava Sporları Federasyonu",
   "short": "THSF",
+  "label": "Hava Sporları",
   "site": "https://thsf.org.tr",
   "branches": [
    "Yamaç Paraşütü",
@@ -863,6 +921,7 @@
   "slug": "izcilik",
   "name": "Türkiye İzcilik Federasyonu",
   "short": "TİF",
+  "label": "İzcilik",
   "site": "https://tif.org.tr",
   "branches": [
    "İzcilik"
@@ -877,6 +936,7 @@
   "slug": "kaykay",
   "name": "Türkiye Kaykay Federasyonu",
   "short": "TKF",
+  "label": "Kaykay",
   "site": "https://kaykay.org.tr",
   "branches": [
    "Kaykay",
@@ -892,6 +952,7 @@
   "slug": "shgm",
   "name": "Spor Hizmetleri Genel Müdürlüğü",
   "short": "SHGM",
+  "label": "Spor Genel Müdürlüğü",
   "site": "https://shgm.gsb.gov.tr",
   "branches": [
    "Mevzuat",
@@ -907,6 +968,7 @@
   "slug": "gsb",
   "name": "Gençlik ve Spor Bakanlığı",
   "short": "GSB",
+  "label": "Gençlik ve Spor Bakanlığı",
   "site": "https://gsb.gov.tr",
   "branches": [
    "Bakanlık Duyuruları"
@@ -921,6 +983,7 @@
   "slug": "tmok",
   "name": "Türkiye Milli Olimpiyat Komitesi",
   "short": "TMOK",
+  "label": "Olimpiyat Komitesi",
   "site": "https://olimpiyat.org.tr",
   "branches": [
    "Olimpik Hareket"
@@ -935,6 +998,7 @@
   "slug": "paralimpik",
   "name": "Türkiye Milli Paralimpik Komitesi",
   "short": "TMPK",
+  "label": "Paralimpik Komite",
   "site": "https://www.tmpk.org.tr",
   "branches": [
    "Paralimpik Hareket"
@@ -949,6 +1013,7 @@
   "slug": "sportoto",
   "name": "Spor Toto Teşkilat Başkanlığı",
   "short": "Spor Toto",
+  "label": "Spor Toto",
   "site": "https://sportoto.gov.tr",
   "branches": [
    "Kurumsal"

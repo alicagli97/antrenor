@@ -1,21 +1,18 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-20T20:39:59+00:00",
- "total": 1447,
+ "generated_at": "2026-08-20T20:44:01+00:00",
+ "total": 1449,
  "new_in_last_run": 0,
- "sources_ok": 63,
+ "sources_ok": 64,
  "sources_failed": [
-  "basketbol",
-  "muaythai"
+  "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": [
-  "kaykay"
- ],
- "latest_published_at": "2026-08-20T20:13:35+00:00",
+ "partial_run": null,
+ "latest_published_at": "2026-08-20T20:42:29+00:00",
  "categories": {
-  "takvim": 38,
+  "takvim": 40,
   "duyuru": 775,
   "kurs": 245,
   "mevzuat": 36,
@@ -23,7 +20,8 @@
   "haber": 32
  },
  "federation_counts": {
-  "triatlon": 10,
+  "triatlon": 11,
+  "kurek": 14,
   "bisiklet": 22,
   "havasporlari": 22,
   "kaykay": 9,
@@ -49,7 +47,6 @@
   "satranc": 41,
   "masatenisi": 40,
   "eskrim": 34,
-  "kurek": 13,
   "yelken": 12,
   "tenis": 22,
   "aticilik": 9,

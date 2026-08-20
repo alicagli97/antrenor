@@ -1,5 +1,41 @@
 [
  {
+  "id": "de00a35127702e7c",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "TTF faaliyet takviminde değişiklik",
+  "url": "https://triatlon.org.tr",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-20T20:42:29+00:00",
+  "first_seen_at": "2026-08-20T20:42:29+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "305280358134878f",
+  "federation": "kurek",
+  "federation_name": "Türkiye Kürek Federasyonu",
+  "federation_short": "TKF",
+  "title": "TKF faaliyet takviminde değişiklik",
+  "url": "https://tkf.gov.tr/?error=404%20not%20found",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-20T20:42:28+00:00",
+  "first_seen_at": "2026-08-20T20:42:28+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "013226436b486234",
   "federation": "triatlon",
   "federation_name": "Türkiye Triatlon Federasyonu",
@@ -4940,40 +4976,6 @@
   "federation_short": "TSF",
   "title": "Türkiye Emektarlar Satranç Şampiyonası",
   "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-emektarlar-satranc-sampiyonasi",
-  "summary": "Ş a m p i y o n a v e T u r n u v a l a r T ü r k i y e S a t r a n ç S ü p e r L i g i T ü r k i y e S a t r a n ç B i r i n c i L i g i T ü r k i y e S a t r a n ç İ k i n c i L i g i T ü r k i y e K u l ü p l e r S a t r a n ç Ş a m p i y o n a s ı T ü r k i y e S a t r a n ç Ş a m p i y o n a s ı T ü r k i y e K u p a s ı T ü r k i y e K a d ı n l a r S a t r a n ç Ş a m p i y o n a s ı T ü r ",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T21:45:48",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "26b33c6695ef084b",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Gençler Şampiyonası",
-  "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-gencler-sampiyonasi",
-  "summary": "Ş a m p i y o n a v e T u r n u v a l a r T ü r k i y e S a t r a n ç S ü p e r L i g i T ü r k i y e S a t r a n ç B i r i n c i L i g i T ü r k i y e S a t r a n ç İ k i n c i L i g i T ü r k i y e K u l ü p l e r S a t r a n ç Ş a m p i y o n a s ı T ü r k i y e S a t r a n ç Ş a m p i y o n a s ı T ü r k i y e K u p a s ı T ü r k i y e K a d ı n l a r S a t r a n ç Ş a m p i y o n a s ı T ü r ",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T21:45:48",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "586483b9a9adda99",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Yıldızlar Satranç Şampiyonası",
-  "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-yildizlar-satranc-sampiyonasi",
   "summary": "Ş a m p i y o n a v e T u r n u v a l a r T ü r k i y e S a t r a n ç S ü p e r L i g i T ü r k i y e S a t r a n ç B i r i n c i L i g i T ü r k i y e S a t r a n ç İ k i n c i L i g i T ü r k i y e K u l ü p l e r S a t r a n ç Ş a m p i y o n a s ı T ü r k i y e S a t r a n ç Ş a m p i y o n a s ı T ü r k i y e K u p a s ı T ü r k i y e K a d ı n l a r S a t r a n ç Ş a m p i y o n a s ı T ü r ",
   "image": null,
   "category": "musabaka",

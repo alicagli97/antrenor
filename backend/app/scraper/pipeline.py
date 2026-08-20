@@ -128,6 +128,11 @@ async def collect(slugs: Optional[Iterable[str]] = None,
                         if items:
                             results.append(FetchResult(slug, f"adapter:{slug}", items[:MAX_ITEMS_PER_SOURCE], True))
                             return
+                        # Bos donen adaptor sessizce kaybolmasin: kayit birak
+                        if not sources.get(slug):
+                            results.append(FetchResult(slug, f"adapter:{slug}", [], False,
+                                                       "adaptor bos dondu (bot korumasi olabilir)"))
+                            return
                     except Exception as exc:
                         results.append(FetchResult(slug, f"adapter:{slug}", [], False,
                                                    f"{type(exc).__name__}: {exc}"))

@@ -144,6 +144,20 @@ def build_outputs(store: list[dict], stats: dict) -> None:
         write_json(OUT / "category" / f"{category}.json", rows)
 
 
+def only_slugs() -> list[str] | None:
+    """--only basketbol,kickboks  veya  ONLY_SLUGS ortam degiskeni.
+
+    Bot korumasi nedeniyle GitHub sunucusundan erisilemeyen kaynaklar
+    yerel makineden beslenirken kullanilir (bkz. scripts/local_bridge.py).
+    """
+    raw = ""
+    if "--only" in sys.argv:
+        raw = sys.argv[sys.argv.index("--only") + 1]
+    raw = raw or os.getenv("ONLY_SLUGS", "")
+    slugs = [s.strip() for s in raw.split(",") if s.strip()]
+    return slugs or None
+
+
 async def main() -> int:
     store = load_store()
     known = {r["id"] for r in store}
@@ -151,7 +165,10 @@ async def main() -> int:
 
     # Detay sayfasi yalnizca yeni duyurular icin cekilsin diye tam parmak izi seti
     known_full = {r["id"] for r in store}
-    results = await collect(known_fingerprints={fp for fp in known_full})
+    hedef = only_slugs()
+    if hedef:
+        print(f"yalnizca: {', '.join(hedef)}")
+    results = await collect(hedef, known_fingerprints={fp for fp in known_full})
 
     ok = [r for r in results if r.ok]
     failed = sorted({r.slug for r in results if not r.ok and
@@ -159,7 +176,8 @@ async def main() -> int:
 
     # Kutukte olup hic sonuc uretmeyen federasyonlar: kaynak kaybini gorunur kilar
     attempted = {r.slug for r in results}
-    missing = sorted(f.slug for f in FEDERATIONS if f.slug not in attempted)
+    kutuk = [f.slug for f in FEDERATIONS] if not hedef else hedef
+    missing = sorted(s for s in kutuk if s not in attempted)
     empty = sorted({r.slug for r in ok if not r.items} - {r.slug for r in ok if r.items})
 
     new_records: list[dict] = []
@@ -171,7 +189,7 @@ async def main() -> int:
             known.add(record["id"])
             new_records.append(record)
 
-    print(f"calisan kaynak: {len(ok)}/{len(FEDERATIONS)}"
+    print(f"calisan kaynak: {len(ok)}/{len(kutuk)}"
           f"  hata: {failed or '-'}  bos: {empty or '-'}  kaynaksiz: {missing or '-'}")
     print(f"yeni duyuru: {len(new_records)}")
 

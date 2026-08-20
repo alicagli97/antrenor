@@ -15,8 +15,14 @@ async def main(url: str, wait: float = 8.0):
     hits = []
 
     async with async_playwright() as pw:
-        browser = await pw.chromium.launch()
-        page = await browser.new_page(locale="tr-TR")
+        # Bot korumali sitelerde adapters.render_html ile ayni ayarlar sart
+        browser = await pw.chromium.launch(
+            args=["--disable-blink-features=AutomationControlled"])
+        context = await browser.new_context(
+            locale="tr-TR", viewport={"width": 1366, "height": 900},
+            user_agent=("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                        "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"))
+        page = await context.new_page()
 
         async def on_response(resp):
             ctype = (resp.headers or {}).get("content-type", "")
@@ -31,7 +37,7 @@ async def main(url: str, wait: float = 8.0):
 
         page.on("response", lambda r: asyncio.create_task(on_response(r)))
         try:
-            await page.goto(url, timeout=45000, wait_until="networkidle")
+            await page.goto(url, timeout=45000, wait_until="domcontentloaded")
         except Exception as exc:
             print("goto:", type(exc).__name__)
         await page.wait_for_timeout(int(wait * 1000))

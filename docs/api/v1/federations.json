@@ -1,0 +1,974 @@
+[
+ {
+  "slug": "futbol",
+  "name": "Türkiye Futbol Federasyonu",
+  "short": "TFF",
+  "site": "https://www.tff.org",
+  "branches": [
+   "Futbol"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 52,
+  "last_announcement_at": "2026-08-20T18:07:25+00:00",
+  "topic": "fed_futbol"
+ },
+ {
+  "slug": "basketbol",
+  "name": "Türkiye Basketbol Federasyonu",
+  "short": "TBF",
+  "site": "https://www.tbf.org.tr",
+  "branches": [
+   "Basketbol"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 12,
+  "last_announcement_at": "2026-08-20T00:00:00+00:00",
+  "topic": "fed_basketbol"
+ },
+ {
+  "slug": "voleybol",
+  "name": "Türkiye Voleybol Federasyonu",
+  "short": "TVF",
+  "site": "https://www.tvf.org.tr",
+  "branches": [
+   "Voleybol",
+   "Plaj Voleybolu"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 12,
+  "last_announcement_at": "2026-05-17T00:00:00",
+  "topic": "fed_voleybol"
+ },
+ {
+  "slug": "atletizm",
+  "name": "Türkiye Atletizm Federasyonu",
+  "short": "TAF",
+  "site": "https://www.taf.org.tr",
+  "branches": [
+   "Atletizm"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 21,
+  "last_announcement_at": "2026-08-20T07:49:30+00:00",
+  "topic": "fed_atletizm"
+ },
+ {
+  "slug": "hentbol",
+  "name": "Türkiye Hentbol Federasyonu",
+  "short": "THF",
+  "site": "https://thf.org.tr",
+  "branches": [
+   "Hentbol"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 10,
+  "last_announcement_at": "2026-08-19T17:15:17",
+  "topic": "fed_hentbol"
+ },
+ {
+  "slug": "judo",
+  "name": "Türkiye Judo Federasyonu",
+  "short": "TJF",
+  "site": "https://www.judo.org.tr",
+  "branches": [
+   "Judo",
+   "Kuraş"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 40,
+  "last_announcement_at": "2026-08-19T00:00:00",
+  "topic": "fed_judo"
+ },
+ {
+  "slug": "gures",
+  "name": "Türkiye Güreş Federasyonu",
+  "short": "TGF",
+  "site": "https://tgf.tr",
+  "branches": [
+   "Güreş"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-08-07T12:38:40",
+  "topic": "fed_gures"
+ },
+ {
+  "slug": "halter",
+  "name": "Türkiye Halter Federasyonu",
+  "short": "THF",
+  "site": "https://halter.gov.tr",
+  "branches": [
+   "Halter"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-08-17T11:16:05",
+  "topic": "fed_halter"
+ },
+ {
+  "slug": "boks",
+  "name": "Türkiye Boks Federasyonu",
+  "short": "TBF",
+  "site": "https://www.turkboks.gov.tr",
+  "branches": [
+   "Boks"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2025-07-02T07:48:21",
+  "topic": "fed_boks"
+ },
+ {
+  "slug": "taekwondo",
+  "name": "Türkiye Taekwondo Federasyonu",
+  "short": "TTF",
+  "site": "https://turkiyetaekwondofed.gov.tr",
+  "branches": [
+   "Taekwondo",
+   "Hapkido"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-08-11T14:10:36",
+  "topic": "fed_taekwondo"
+ },
+ {
+  "slug": "karate",
+  "name": "Türkiye Karate Federasyonu",
+  "short": "TKF",
+  "site": "https://karate.gov.tr",
+  "branches": [
+   "Karate"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 13,
+  "last_announcement_at": "2026-08-20T00:00:00+00:00",
+  "topic": "fed_karate"
+ },
+ {
+  "slug": "yuzme",
+  "name": "Türkiye Yüzme Federasyonu",
+  "short": "TYF",
+  "site": "https://tyf.gov.tr",
+  "branches": [
+   "Yüzme",
+   "Su Topu",
+   "Artistik Yüzme",
+   "Atlama"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 14,
+  "last_announcement_at": "2026-08-20T18:07:25+00:00",
+  "topic": "fed_yuzme"
+ },
+ {
+  "slug": "tenis",
+  "name": "Türkiye Tenis Federasyonu",
+  "short": "TTF",
+  "site": "https://www.ttf.org.tr",
+  "branches": [
+   "Tenis"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 21,
+  "last_announcement_at": "2026-08-20T00:00:00+00:00",
+  "topic": "fed_tenis"
+ },
+ {
+  "slug": "masatenisi",
+  "name": "Türkiye Masa Tenisi Federasyonu",
+  "short": "TMTF",
+  "site": "https://tmtf.gov.tr",
+  "branches": [
+   "Masa Tenisi"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 39,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_masatenisi"
+ },
+ {
+  "slug": "badminton",
+  "name": "Türkiye Badminton Federasyonu",
+  "short": "TBF",
+  "site": "https://badminton.org.tr",
+  "branches": [
+   "Badminton"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 21,
+  "last_announcement_at": "2026-08-20T08:31:28+00:00",
+  "topic": "fed_badminton"
+ },
+ {
+  "slug": "bisiklet",
+  "name": "Türkiye Bisiklet Federasyonu",
+  "short": "TBF",
+  "site": "https://bisiklet.org.tr",
+  "branches": [
+   "Bisiklet"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-08-19T18:12:26",
+  "topic": "fed_bisiklet"
+ },
+ {
+  "slug": "okculuk",
+  "name": "Türkiye Okçuluk Federasyonu",
+  "short": "TOF",
+  "site": "https://okculuk.org.tr",
+  "branches": [
+   "Okçuluk"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-08-18T06:20:10",
+  "topic": "fed_okculuk"
+ },
+ {
+  "slug": "aticilik",
+  "name": "Türkiye Atıcılık ve Avcılık Federasyonu",
+  "short": "TAAF",
+  "site": "https://taaf.org.tr",
+  "branches": [
+   "Atıcılık",
+   "Avcılık"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 3,
+  "last_announcement_at": "2018-09-02T00:00:00",
+  "topic": "fed_aticilik"
+ },
+ {
+  "slug": "binicilik",
+  "name": "Türkiye Binicilik Federasyonu",
+  "short": "TBF",
+  "site": "https://binicilik.org.tr",
+  "branches": [
+   "Binicilik"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 10,
+  "last_announcement_at": "2026-08-20T00:00:00+00:00",
+  "topic": "fed_binicilik"
+ },
+ {
+  "slug": "cimnastik",
+  "name": "Türkiye Cimnastik Federasyonu",
+  "short": "TCF",
+  "site": "https://tcf.gov.tr",
+  "branches": [
+   "Artistik Cimnastik",
+   "Ritmik Cimnastik",
+   "Aerobik Cimnastik"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 21,
+  "last_announcement_at": "2026-08-20T16:19:22+00:00",
+  "topic": "fed_cimnastik"
+ },
+ {
+  "slug": "eskrim",
+  "name": "Türkiye Eskrim Federasyonu",
+  "short": "TEF",
+  "site": "https://eskrim.org.tr",
+  "branches": [
+   "Eskrim"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 33,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_eskrim"
+ },
+ {
+  "slug": "kurek",
+  "name": "Türkiye Kürek Federasyonu",
+  "short": "TKF",
+  "site": "https://tkf.gov.tr",
+  "branches": [
+   "Kürek"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 12,
+  "last_announcement_at": "2026-07-03T00:00:00",
+  "topic": "fed_kurek"
+ },
+ {
+  "slug": "kano",
+  "name": "Türkiye Kano Federasyonu",
+  "short": "TKF",
+  "site": "https://kano.org.tr",
+  "branches": [
+   "Kano",
+   "Rafting"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 40,
+  "last_announcement_at": "2026-08-17T00:00:00",
+  "topic": "fed_kano"
+ },
+ {
+  "slug": "yelken",
+  "name": "Türkiye Yelken Federasyonu",
+  "short": "TYF",
+  "site": "https://tyf.org.tr",
+  "branches": [
+   "Yelken",
+   "Sörf"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 11,
+  "last_announcement_at": "2026-08-20T00:00:00+00:00",
+  "topic": "fed_yelken"
+ },
+ {
+  "slug": "triatlon",
+  "name": "Türkiye Triatlon Federasyonu",
+  "short": "TTF",
+  "site": "https://triatlon.org.tr",
+  "branches": [
+   "Triatlon",
+   "Duatlon"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 8,
+  "last_announcement_at": "2026-07-13T00:00:00",
+  "topic": "fed_triatlon"
+ },
+ {
+  "slug": "pentatlon",
+  "name": "Türkiye Modern Pentatlon Federasyonu",
+  "short": "TMPF",
+  "site": "https://tmpf.org.tr",
+  "branches": [
+   "Modern Pentatlon"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-08-13T12:52:49",
+  "topic": "fed_pentatlon"
+ },
+ {
+  "slug": "buzpateni",
+  "name": "Türkiye Buz Pateni Federasyonu",
+  "short": "TBPF",
+  "site": "https://buzpateni.org.tr",
+  "branches": [
+   "Buz Pateni",
+   "Artistik Patinaj",
+   "Kısa Kulvar"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 40,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_buzpateni"
+ },
+ {
+  "slug": "buzhokeyi",
+  "name": "Türkiye Buz Hokeyi Federasyonu",
+  "short": "TBHF",
+  "site": "https://www.tbhf.org.tr",
+  "branches": [
+   "Buz Hokeyi"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 12,
+  "last_announcement_at": "2026-08-04T00:00:00",
+  "topic": "fed_buzhokeyi"
+ },
+ {
+  "slug": "curling",
+  "name": "Türkiye Curling Federasyonu",
+  "short": "TCF",
+  "site": "https://curling.gov.tr",
+  "branches": [
+   "Curling"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 25,
+  "last_announcement_at": "2026-06-22T10:23:56",
+  "topic": "fed_curling"
+ },
+ {
+  "slug": "kayak",
+  "name": "Türkiye Kayak Federasyonu",
+  "short": "TKF",
+  "site": "https://tkf.org.tr",
+  "branches": [
+   "Kayak",
+   "Snowboard",
+   "Biatlon"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-07-31T14:00:00",
+  "topic": "fed_kayak"
+ },
+ {
+  "slug": "dagcilik",
+  "name": "Türkiye Dağcılık Federasyonu",
+  "short": "TDF",
+  "site": "https://tdf.tr",
+  "branches": [
+   "Dağcılık",
+   "Spor Tırmanış"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 21,
+  "last_announcement_at": "2026-08-20T10:11:31+00:00",
+  "topic": "fed_dagcilik"
+ },
+ {
+  "slug": "golf",
+  "name": "Türkiye Golf Federasyonu",
+  "short": "TGF",
+  "site": "https://tgf.org.tr",
+  "branches": [
+   "Golf"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 33,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_golf"
+ },
+ {
+  "slug": "satranc",
+  "name": "Türkiye Satranç Federasyonu",
+  "short": "TSF",
+  "site": "https://www.tsf.org.tr",
+  "branches": [
+   "Satranç"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 40,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_satranc"
+ },
+ {
+  "slug": "bric",
+  "name": "Türkiye Briç Federasyonu",
+  "short": "TBF",
+  "site": "https://tbricfed.org.tr",
+  "branches": [
+   "Briç"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 9,
+  "last_announcement_at": "2026-08-14T00:00:00",
+  "topic": "fed_bric"
+ },
+ {
+  "slug": "bocce",
+  "name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "short": "TBBDF",
+  "site": "https://tbbdf.gov.tr",
+  "branches": [
+   "Bocce",
+   "Bowling",
+   "Dart"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 30,
+  "last_announcement_at": "2026-08-19T00:00:00",
+  "topic": "fed_bocce"
+ },
+ {
+  "slug": "bilardo",
+  "name": "Türkiye Bilardo Federasyonu",
+  "short": "TBF",
+  "site": "https://bilardo.gov.tr",
+  "branches": [
+   "Bilardo"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 24,
+  "last_announcement_at": "2026-08-18T00:00:00",
+  "topic": "fed_bilardo"
+ },
+ {
+  "slug": "motosiklet",
+  "name": "Türkiye Motosiklet Federasyonu",
+  "short": "TMF",
+  "site": "https://tmf.org.tr",
+  "branches": [
+   "Motosiklet"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 35,
+  "last_announcement_at": "2026-08-17T00:00:00",
+  "topic": "fed_motosiklet"
+ },
+ {
+  "slug": "otomobil",
+  "name": "Türkiye Otomobil Sporları Federasyonu",
+  "short": "TOSFED",
+  "site": "https://www.tosfed.org.tr",
+  "branches": [
+   "Otomobil Sporları",
+   "Ralli",
+   "Pist"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 40,
+  "last_announcement_at": "2026-08-17T16:43:49",
+  "topic": "fed_otomobil"
+ },
+ {
+  "slug": "sualti",
+  "name": "Türkiye Sualtı Sporları Federasyonu",
+  "short": "TSSF",
+  "site": "https://tssf.gov.tr",
+  "branches": [
+   "Sualtı Sporları",
+   "Dalış",
+   "Paletli Yüzme"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-08-12T20:46:34",
+  "topic": "fed_sualti"
+ },
+ {
+  "slug": "vucutgelistirme",
+  "name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
+  "short": "TVGFBF",
+  "site": "https://tvgfbf.gov.tr",
+  "branches": [
+   "Vücut Geliştirme",
+   "Fitness",
+   "Bilek Güreşi"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 14,
+  "last_announcement_at": "2026-08-20T00:00:00+00:00",
+  "topic": "fed_vucutgelistirme"
+ },
+ {
+  "slug": "wushu",
+  "name": "Türkiye Wushu Kung Fu Federasyonu",
+  "short": "TWKF",
+  "site": "https://twkf.gov.tr",
+  "branches": [
+   "Wushu",
+   "Kung Fu"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 12,
+  "last_announcement_at": "2026-04-13T00:00:00",
+  "topic": "fed_wushu"
+ },
+ {
+  "slug": "muaythai",
+  "name": "Türkiye Muaythai Federasyonu",
+  "short": "TMF",
+  "site": "https://muaythai.gov.tr",
+  "branches": [
+   "Muaythai"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-08-19T09:11:47",
+  "topic": "fed_muaythai"
+ },
+ {
+  "slug": "kickboks",
+  "name": "Türkiye Kick Boks Federasyonu",
+  "short": "TKBF",
+  "site": "https://www.kickboks.gov.tr",
+  "branches": [
+   "Kick Boks"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 0,
+  "last_announcement_at": null,
+  "topic": "fed_kickboks"
+ },
+ {
+  "slug": "bedenselengelliler",
+  "name": "Türkiye Bedensel Engelliler Spor Federasyonu",
+  "short": "TBESF",
+  "site": "https://www.tbesf.org.tr/tr/",
+  "branches": [
+   "Ampute Futbol",
+   "Tekerlekli Sandalye Basketbol",
+   "Para Yüzme",
+   "Boccia"
+  ],
+  "olympic": false,
+  "para": true,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_bedenselengelliler"
+ },
+ {
+  "slug": "isitmeengelliler",
+  "name": "Türkiye İşitme Engelliler Spor Federasyonu",
+  "short": "TİESF",
+  "site": "https://tiesf.org.tr",
+  "branches": [
+   "İşitme Engelliler Sporları"
+  ],
+  "olympic": false,
+  "para": true,
+  "announcement_count": 6,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_isitmeengelliler"
+ },
+ {
+  "slug": "gormeengelliler",
+  "name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "short": "GESF",
+  "site": "https://www.gesf.org.tr",
+  "branches": [
+   "Goalball",
+   "Görme Engelliler Sporları"
+  ],
+  "olympic": false,
+  "para": true,
+  "announcement_count": 40,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_gormeengelliler"
+ },
+ {
+  "slug": "ozelsporcular",
+  "name": "Türkiye Özel Sporcular Spor Federasyonu",
+  "short": "TÖSSF",
+  "site": "https://tossfed.gov.tr",
+  "branches": [
+   "Özel Sporcular"
+  ],
+  "olympic": false,
+  "para": true,
+  "announcement_count": 10,
+  "last_announcement_at": "2026-08-11T14:03:30",
+  "topic": "fed_ozelsporcular"
+ },
+ {
+  "slug": "herkesicinspor",
+  "name": "Türkiye Herkes İçin Spor Federasyonu",
+  "short": "HİS",
+  "site": "https://his.gov.tr",
+  "branches": [
+   "Herkes İçin Spor",
+   "Yoga",
+   "Wellness"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 9,
+  "last_announcement_at": "2026-06-17T00:00:00",
+  "topic": "fed_herkesicinspor"
+ },
+ {
+  "slug": "gelenekselguresler",
+  "name": "Türkiye Geleneksel Güreşler Federasyonu",
+  "short": "TGGF",
+  "site": "https://tggf.org.tr",
+  "branches": [
+   "Yağlı Güreş",
+   "Aba Güreşi",
+   "Karakucak"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-08-16T18:38:56",
+  "topic": "fed_gelenekselguresler"
+ },
+ {
+  "slug": "gelenekselsporlar",
+  "name": "Türkiye Geleneksel Spor Dalları Federasyonu",
+  "short": "GSDF",
+  "site": "https://www.gsdf.gov.tr/tr",
+  "branches": [
+   "Atlı Cirit",
+   "Rahvan Binicilik",
+   "Atlı Okçuluk",
+   "Mas Güreşi"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 40,
+  "last_announcement_at": "2026-08-14T00:00:00",
+  "topic": "fed_gelenekselsporlar"
+ },
+ {
+  "slug": "halkoyunlari",
+  "name": "Türkiye Halk Oyunları Federasyonu",
+  "short": "THOF",
+  "site": "https://thof.gov.tr",
+  "branches": [
+   "Halk Oyunları"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 9,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_halkoyunlari"
+ },
+ {
+  "slug": "hokey",
+  "name": "Türkiye Hokey Federasyonu",
+  "short": "THF",
+  "site": "https://www.turkhokey.gov.tr",
+  "branches": [
+   "Çim Hokeyi",
+   "Salon Hokeyi"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_hokey"
+ },
+ {
+  "slug": "beyzbol",
+  "name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
+  "short": "TBSF",
+  "site": "https://tbsf.org.tr",
+  "branches": [
+   "Beyzbol",
+   "Softbol",
+   "Korumalı Futbol"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 40,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_beyzbol"
+ },
+ {
+  "slug": "ragbi",
+  "name": "Türkiye Ragbi Federasyonu",
+  "short": "TRF",
+  "site": "https://trf.gov.tr",
+  "branches": [
+   "Ragbi"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 22,
+  "last_announcement_at": "2026-08-20T13:54:12+00:00",
+  "topic": "fed_ragbi"
+ },
+ {
+  "slug": "oryantiring",
+  "name": "Türkiye Oryantiring Federasyonu",
+  "short": "TOF",
+  "site": "https://oryantiring.org.tr",
+  "branches": [
+   "Oryantiring"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 0,
+  "last_announcement_at": null,
+  "topic": "fed_oryantiring"
+ },
+ {
+  "slug": "universitesporlari",
+  "name": "Türkiye Üniversite Sporları Federasyonu",
+  "short": "TÜSF",
+  "site": "https://tusf.org.tr",
+  "branches": [
+   "Üniversite Sporları"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 8,
+  "last_announcement_at": "2026-08-18T00:00:00",
+  "topic": "fed_universitesporlari"
+ },
+ {
+  "slug": "danssporlari",
+  "name": "Türkiye Dans Sporları Federasyonu",
+  "short": "TDSF",
+  "site": "https://tdsf.org.tr",
+  "branches": [
+   "Dans Sporları"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 15,
+  "last_announcement_at": "2026-08-20T00:00:00+00:00",
+  "topic": "fed_danssporlari"
+ },
+ {
+  "slug": "gelismekteolan",
+  "name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "short": "GOSBF",
+  "site": "https://www.gosbf.org.tr",
+  "branches": [
+   "Korfbol",
+   "Floorball",
+   "Halat Çekme",
+   "Sumo"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 40,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_gelismekteolan"
+ },
+ {
+  "slug": "havasporlari",
+  "name": "Türkiye Hava Sporları Federasyonu",
+  "short": "THSF",
+  "site": "https://thsf.org.tr",
+  "branches": [
+   "Yamaç Paraşütü",
+   "Paraşüt",
+   "Planör",
+   "Model Uçak"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 21,
+  "last_announcement_at": "2026-07-13T14:18:53",
+  "topic": "fed_havasporlari"
+ },
+ {
+  "slug": "izcilik",
+  "name": "Türkiye İzcilik Federasyonu",
+  "short": "TİF",
+  "site": "https://tif.org.tr",
+  "branches": [
+   "İzcilik"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 18,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_izcilik"
+ },
+ {
+  "slug": "kaykay",
+  "name": "Türkiye Kaykay Federasyonu",
+  "short": "TKF",
+  "site": "https://kaykay.org.tr",
+  "branches": [
+   "Kaykay",
+   "Skateboard"
+  ],
+  "olympic": true,
+  "para": false,
+  "announcement_count": 8,
+  "last_announcement_at": "2026-08-13T00:00:00",
+  "topic": "fed_kaykay"
+ },
+ {
+  "slug": "shgm",
+  "name": "Spor Hizmetleri Genel Müdürlüğü",
+  "short": "SHGM",
+  "site": "https://shgm.gsb.gov.tr",
+  "branches": [
+   "Mevzuat",
+   "Antrenör Eğitimi"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 19,
+  "last_announcement_at": "2026-08-20T18:07:25+00:00",
+  "topic": "fed_shgm"
+ },
+ {
+  "slug": "gsb",
+  "name": "Gençlik ve Spor Bakanlığı",
+  "short": "GSB",
+  "site": "https://gsb.gov.tr",
+  "branches": [
+   "Bakanlık Duyuruları"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 11,
+  "last_announcement_at": "2026-08-20T00:00:00+00:00",
+  "topic": "fed_gsb"
+ },
+ {
+  "slug": "tmok",
+  "name": "Türkiye Milli Olimpiyat Komitesi",
+  "short": "TMOK",
+  "site": "https://olimpiyat.org.tr",
+  "branches": [
+   "Olimpik Hareket"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 40,
+  "last_announcement_at": "2026-08-19T21:45:48",
+  "topic": "fed_tmok"
+ },
+ {
+  "slug": "paralimpik",
+  "name": "Türkiye Milli Paralimpik Komitesi",
+  "short": "TMPK",
+  "site": "https://www.tmpk.org.tr",
+  "branches": [
+   "Paralimpik Hareket"
+  ],
+  "olympic": false,
+  "para": true,
+  "announcement_count": 20,
+  "last_announcement_at": "2026-07-06T11:49:56",
+  "topic": "fed_paralimpik"
+ },
+ {
+  "slug": "sportoto",
+  "name": "Spor Toto Teşkilat Başkanlığı",
+  "short": "Spor Toto",
+  "site": "https://sportoto.gov.tr",
+  "branches": [
+   "Kurumsal"
+  ],
+  "olympic": false,
+  "para": false,
+  "announcement_count": 6,
+  "last_announcement_at": "2026-08-20T00:00:00+00:00",
+  "topic": "fed_sportoto"
+ }
+]

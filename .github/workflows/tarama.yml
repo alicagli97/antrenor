@@ -1,0 +1,93 @@
+# Federasyon duyurularini saatte bir tarar ve docs/ altina JSON olarak yayinlar.
+# Sonuc GitHub Pages uzerinden mobil uygulamaya sunulur.
+name: Duyuru taramasi
+
+on:
+  schedule:
+    # Her saat basi 7. dakikada (GitHub sirasi yogunsa gecikebilir)
+    - cron: "7 * * * *"
+  workflow_dispatch:          # elle calistirma
+  push:
+    branches: [main]
+    paths:
+      - "backend/app/scraper/**"
+      - "backend/scripts/ci_update.py"
+      - ".github/workflows/tarama.yml"
+
+permissions:
+  contents: write             # sonuclari depoya yazabilmek icin
+
+concurrency:
+  group: tarama
+  cancel-in-progress: false   # yarim kalan tur veriyi bozmasin
+
+jobs:
+  tara:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    # secrets baglami adim kosullarinda dogrudan kullanilamadigi icin env'e tasiyoruz
+    env:
+      FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+      FCM_PROJECT_ID: ${{ secrets.FCM_PROJECT_ID }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: backend/requirements.txt
+
+      - name: Bagimliliklari kur
+        run: pip install -r backend/requirements.txt
+
+      - name: Tarayici onbellegi
+        id: pw-cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('backend/requirements.txt') }}
+
+      - name: Chromium kur
+        run: python -m playwright install --with-deps chromium
+
+      - name: Bildirim anahtarini yaz
+        if: env.FCM_SERVICE_ACCOUNT != ''
+        run: |
+          mkdir -p backend/secrets
+          # Degeri kabuga gomek yerine ortam degiskeninden yaziyoruz (JSON tirnaklari bozulmasin)
+          printf '%s' "$FCM_SERVICE_ACCOUNT" > backend/secrets/fcm.json
+          echo "PUSH_ENABLED=1" >> "$GITHUB_ENV"
+          echo "FCM_CREDENTIALS_JSON=$PWD/backend/secrets/fcm.json" >> "$GITHUB_ENV"
+
+      - name: Federasyonlari tara
+        working-directory: backend
+        env:
+          PYTHONIOENCODING: utf-8
+          SCRAPE_CONCURRENCY: "6"
+        run: python scripts/ci_update.py
+
+      - name: Statik sayfalari uret
+        working-directory: backend
+        run: python scripts/build_site.py
+
+      - name: Anahtari sil
+        if: always()
+        run: rm -f backend/secrets/fcm.json
+
+      - name: Degisiklikleri yayinla
+        run: |
+          git config user.name "antrenor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs
+          if git diff --staged --quiet; then
+            echo "yeni duyuru yok, commit atlaniyor"
+          else
+            SAYI=$(git diff --staged --numstat -- docs/api/v1/announcements.json | awk '{print $1}')
+            git commit -m "duyuru guncellemesi: ${SAYI:-0} satir"
+            # Bu arada baska bir tur push etmis olabilir
+            git pull --rebase --autostash origin main || true
+            git push
+          fi

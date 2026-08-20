@@ -1,0 +1,29 @@
+# Otomatik HTTPS (Let's Encrypt). API_DOMAIN ortam degiskeninden gelir.
+{$API_DOMAIN} {
+	encode gzip
+
+	# Kaba hiz siniri yerine basit koruma: buyuk govdeleri reddet
+	request_body {
+		max_size 256KB
+	}
+
+	header {
+		Strict-Transport-Security "max-age=31536000; includeSubDomains"
+		X-Content-Type-Options "nosniff"
+		X-Frame-Options "DENY"
+		Referrer-Policy "no-referrer-when-downgrade"
+		-Server
+	}
+
+	reverse_proxy api:8000 {
+		health_uri /health
+		health_interval 30s
+	}
+
+	log {
+		output file /data/access.log {
+			roll_size 20MB
+			roll_keep 5
+		}
+	}
+}

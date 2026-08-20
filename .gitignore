@@ -1,0 +1,32 @@
+# Ortam ve sırlar
+.env
+.env.production
+backend/secrets/
+*.pem
+*.key
+
+# Veri ve günlükler
+backend/data/*.db
+backend/data/*.log
+backend/data/*.txt
+backend/data/*.html
+backend/data/coverage.json
+backend/research/*.json
+backend/research/*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Derleme çıktıları
+*.apk
+*.aab
+build/
+
+# Depoya girmeyecek yerel dosyalar
+Antrenör_*.zip
+*.docx
+backend/data/rapor.html
+backend/data/*.err

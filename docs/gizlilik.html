@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Gizlilik Politikası — Antrenör</title><style>
+:root{--bg:#EDF0F3;--card:#fff;--line:#DCE2E8;--ink:#101720;--ink2:#4C5966;
+      --ink3:#7A8794;--accent:#A8201A;--ok:#12674A}
+@media (prefers-color-scheme:dark){:root{--bg:#0C1015;--card:#141A21;--line:#28323D;
+      --ink:#E7ECF1;--ink2:#A7B3BF;--ink3:#7B8896;--accent:#E4635A;--ok:#4CBE92}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+     font:16px/1.62 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:760px;margin:0 auto;padding:40px 20px 80px;display:flex;
+      flex-direction:column;gap:24px}
+.eyebrow{font:600 11px/1 ui-monospace,Consolas,monospace;letter-spacing:.16em;
+         text-transform:uppercase;color:var(--accent)}
+h1{font-size:32px;line-height:1.12;letter-spacing:-.02em;margin:8px 0 0}
+h2{font-size:19px;margin:0 0 6px}
+p,ul{margin:0}
+ul{padding-left:20px;display:flex;flex-direction:column;gap:6px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;
+      padding:20px 22px;display:flex;flex-direction:column;gap:10px}
+.muted{color:var(--ink3);font-size:14px}
+a{color:var(--accent)}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+.stat .k{font:600 10px/1 ui-monospace,Consolas,monospace;letter-spacing:.12em;
+         text-transform:uppercase;color:var(--ink3)}
+.stat .v{font:700 26px/1.1 ui-monospace,Consolas,monospace;margin-top:8px;
+         font-variant-numeric:tabular-nums}
+code{background:var(--bg);border:1px solid var(--line);border-radius:5px;
+     padding:2px 6px;font-size:13.5px}
+nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;border-top:1px solid var(--line);
+    padding-top:16px}
+</style></head>
+<body><div class="wrap">
+<h1>Gizlilik Politikası</h1>
+<p class="muted">Son güncelleme: 20.08.2026</p>
+
+<div class="card">
+  <h2>Kısa özet</h2>
+  <p><strong>Antrenör kişisel veri toplamaz.</strong> Uygulamada hesap oluşturulmaz,
+  giriş yapılmaz. Takip ettiğiniz federasyonlar ve okuma tercihleriniz yalnızca
+  kendi telefonunuzda saklanır; bize gönderilmez.</p>
+</div>
+
+<div class="card">
+  <h2>Bildirimler</h2>
+  <p>Bildirim açtığınızda uygulama, seçtiğiniz federasyonun Firebase Cloud Messaging
+  konusuna abone olur. Bu abonelik cihazınız ile Google'ın bildirim servisi arasındadır;
+  bizde cihaz kimliği veya iletişim bilgisi saklanmaz. Bildirimleri telefon ayarlarından
+  kapatabilirsiniz.</p>
+</div>
+
+<div class="card">
+  <h2>Toplanmayan veriler</h2>
+  <ul>
+    <li>Ad, e-posta, telefon</li>
+    <li>Konum, kişiler, kamera, mikrofon, sağlık verisi</li>
+    <li>Reklam kimliği, izleme çerezleri</li>
+  </ul>
+  <p>Veriler üçüncü taraflara satılmaz veya pazarlama amacıyla paylaşılmaz.</p>
+</div>
+
+<div class="card">
+  <h2>İçerik kaynağı</h2>
+  <p>Duyurular Türkiye'deki spor federasyonlarının herkese açık resmî sitelerinden
+  derlenir. Uygulama özet gösterir ve kaynağa bağlantı verir.</p>
+</div>
+
+<div class="card">
+  <h2>Haklarınız ve iletişim</h2>
+  <p>KVKK ve GDPR kapsamındaki talepleriniz için
+  <a href="mailto:destek@antrenorapp.com">destek@antrenorapp.com</a>. Uygulama hesabı olmadığından
+  silinecek sunucu kaydı bulunmaz; ayrıntı için
+  <a href="/veri-silme.html">veri silme sayfası</a>.</p>
+</div>
+<nav><a href="/">Ana sayfa</a><a href="/gizlilik.html">Gizlilik</a>
+<a href="/veri-silme.html">Veri silme</a><a href="/destek.html">Destek</a></nav>
+</div></body></html>

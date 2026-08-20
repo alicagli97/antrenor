@@ -1,0 +1,23 @@
+[Unit]
+Description=Antrenor API (FastAPI)
+After=network-online.target postgresql.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=antrenor
+Group=antrenor
+WorkingDirectory=/opt/antrenor/backend
+EnvironmentFile=/opt/antrenor/backend/.env.production
+Environment=ENABLE_SCHEDULER=0
+ExecStart=/opt/antrenor/venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8000 --workers 2
+Restart=always
+RestartSec=5
+# Guvenlik siniri
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/opt/antrenor/backend/data
+
+[Install]
+WantedBy=multi-user.target

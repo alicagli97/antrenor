@@ -1,0 +1,22 @@
+[Unit]
+Description=Antrenor tarama iscisi (federasyon duyurulari)
+After=network-online.target postgresql.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=antrenor
+Group=antrenor
+WorkingDirectory=/opt/antrenor/backend
+EnvironmentFile=/opt/antrenor/backend/.env.production
+ExecStart=/opt/antrenor/venv/bin/python scripts/worker.py
+Restart=always
+RestartSec=15
+TimeoutStopSec=180
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/opt/antrenor/backend/data
+
+[Install]
+WantedBy=multi-user.target

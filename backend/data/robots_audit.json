@@ -1,0 +1,429 @@
+[
+ {
+  "slug": "futbol",
+  "url": "https://www.tff.org/default.aspx?pageID=937",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "boks",
+  "url": "https://www.turkboks.gov.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "dagcilik",
+  "url": "https://tdf.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "gures",
+  "url": "https://tgf.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "atletizm",
+  "url": "https://taf.org.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "hentbol",
+  "durum": "kaynak yok"
+ },
+ {
+  "slug": "basketbol",
+  "durum": "kaynak yok"
+ },
+ {
+  "slug": "judo",
+  "url": "https://www.judo.org.tr/duyurular",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "voleybol",
+  "url": "https://tvf.org.tr/icerikler/mhgk-duyurular/",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "karate",
+  "url": "https://karate.gov.tr/haberler.php",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "yuzme",
+  "url": "https://www.tyf.gov.tr/haberler/",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "tenis",
+  "url": "http://www.ttf.org.tr/tr/duyurular/hakem-duyurulari",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "masatenisi",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "aticilik",
+  "url": "https://taaf.org.tr/",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "bisiklet",
+  "url": "https://bisiklet.org.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "taekwondo",
+  "url": "https://turkiyetaekwondofed.gov.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "badminton",
+  "url": "https://www.badminton.org.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "binicilik",
+  "url": "https://binicilik.org.tr/duyurular",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "kano",
+  "url": "https://kano.org.tr/duyurular",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "eskrim",
+  "url": "https://www.eskrim.org.tr/odeme-islemleri-hakkinda-onemli-duyuru-2455.html",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "okculuk",
+  "url": "https://www.okculuk.org.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "yelken",
+  "url": "https://www.tyf.org.tr/duyurular/",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "triatlon",
+  "url": "https://triatlon.org.tr",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "buzpateni",
+  "url": "https://buzpateni.org.tr/haber-detay/junior-grand-prix-secme-yarismasi-ankara-13",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "buzhokeyi",
+  "url": "https://www.tbhf.org.tr/news",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "curling",
+  "url": "https://www.curling.gov.tr/rss",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "cimnastik",
+  "url": "https://www.tcf.gov.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "pentatlon",
+  "url": "https://tmpf.org.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "kayak",
+  "url": "https://tkf.org.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "golf",
+  "url": "https://tgf.org.tr/tr/duyurular/?yil=2026",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "bocce",
+  "url": "https://tbbdf.org.tr/duyurular",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "satranc",
+  "url": "https://www.tsf.org.tr/federasyon/duyurular",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "bilardo",
+  "url": "https://www.bilardo.org.tr/haberler.html",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "halter",
+  "url": "https://halter.gov.tr/?rest_route=/wp/v2/posts&per_page=20",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "vucutgelistirme",
+  "url": "https://tvgfbf.gov.tr/vucut-gelistirme-duyurulari",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "wushu",
+  "url": "https://twkf.gov.tr/haberler",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "bric",
+  "url": "https://tbricfed.org.tr/posts",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "motosiklet",
+  "url": "https://www.tmf.org.tr/",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "bedenselengelliler",
+  "url": "https://www.tbesf.org.tr/tr/duyurular",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "isitmeengelliler",
+  "url": "https://tiesf.org.tr/haberlerimiz/",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "gormeengelliler",
+  "url": "https://www.gesf.org.tr/haberler",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "kickboks",
+  "durum": "kaynak yok"
+ },
+ {
+  "slug": "sualti",
+  "url": "https://www.tssf.gov.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "herkesicinspor",
+  "url": "https://his.gov.tr/haberler",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "otomobil",
+  "url": "https://www.tosfed.org.tr/feed/",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "muaythai",
+  "url": "https://muaythai.gov.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "hokey",
+  "url": "https://www.turkhokey.gov.tr",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "gelenekselguresler",
+  "url": "https://tggf.org.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "halkoyunlari",
+  "url": "https://thof.gov.tr/tr/news",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "beyzbol",
+  "url": "https://tbsf.org.tr/kategori.php?id=11",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "ragbi",
+  "url": "https://trf.gov.tr/?rest_route=/wp/v2/posts&per_page=20",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "ozelsporcular",
+  "url": "https://tossfed.gov.tr/feed/",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "danssporlari",
+  "url": "https://tdsf.org.tr/haberler",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "gelismekteolan",
+  "url": "https://www.gosbf.org.tr/haberler-faaliyetler-faaliyetler",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "universitesporlari",
+  "url": "https://tusf.org.tr/Haber?b=40d32a06-0d4d-47d2-a105-346e5e23b137&bid=4383&_=BA%C5%9EKAN%20T%C3%9CRKMEN:%20GEN%C3%87LERE%20YEN%C4%B0%20YOLCULUKLARINDA%20BA%C5%9EARILAR",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "izcilik",
+  "url": "https://tif.org.tr/duyurular",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "oryantiring",
+  "url": "https://oryantiring.org.tr/",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "gsb",
+  "url": "https://gsb.gov.tr/tr/haberler",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "tmok",
+  "url": "https://olimpiyat.org.tr/Haberler",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "kaykay",
+  "url": "https://kaykay.org.tr",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "havasporlari",
+  "url": "https://thsf.org.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ },
+ {
+  "slug": "shgm",
+  "url": "https://shgm.gsb.gov.tr/HaberListesi/1",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "sportoto",
+  "durum": "kaynak yok"
+ },
+ {
+  "slug": "paralimpik",
+  "url": "https://www.tmpk.org.tr/wp-json/wp/v2/posts?per_page=20&_embed",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "gelenekselsporlar",
+  "url": "https://www.gsdf.gov.tr/tr/haberler",
+  "durum": "robots.txt yok",
+  "izin": true
+ },
+ {
+  "slug": "kurek",
+  "url": "https://tkf.gov.tr/tr/haberler",
+  "durum": "izinli",
+  "izin": true,
+  "crawl_delay": null
+ }
+]

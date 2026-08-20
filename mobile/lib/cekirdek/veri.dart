@@ -7,31 +7,37 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'modeller.dart';
 
 /// Veri kaynağı: GitHub Pages üzerinde yayınlanan statik JSON uçları.
-/// Sunucu yok; uygulama dosyaları indirir, yerelde saklar ve çevrimdışı okur.
+/// Sunucu yok; uygulama dosyaları indirir, tercihleri yerelde saklar.
 class Veri extends ChangeNotifier {
   static const kok = 'https://alicagli97.github.io/antrenor/api/v1';
 
   final List<Duyuru> duyurular = [];
   final List<Federasyon> federasyonlar = [];
-  final List<Takvim> takvimler = [];
-  final List<MevzuatKutuphanesi> mevzuat = [];
+  Afis afis = Afis.bos;
+
+  /// Federasyon başına ayrıntılar (istendikçe indirilir)
+  final Map<String, List<Duyuru>> _fedDuyurulari = {};
+  final Map<String, Takvim?> _fedTakvimi = {};
+  final Map<String, MevzuatKutuphanesi?> _fedMevzuati = {};
 
   Set<String> takipEdilen = {};
+  bool koyuTema = true;
   bool yukleniyor = true;
   String? hata;
   DateTime? sonGuncelleme;
 
-  Map<String, String> _etiketler = {}; // slug -> görünen ad
+  Map<String, String> _etiketler = {};
 
   Future<void> baslat() async {
     yukleniyor = true;
     notifyListeners();
     try {
-      await _takipYukle();
-      await Future.wait([_federasyonlariGetir(), _akisGetir()]);
+      await _tercihleriYukle();
+      await _federasyonlariGetir();
+      await Future.wait([_akisGetir(), _afisGetir()]);
       hata = null;
     } catch (e) {
-      hata = 'Veri alınamadı: $e';
+      hata = 'Veri alınamadı. İnternet bağlantısını kontrol edin.';
     }
     yukleniyor = false;
     notifyListeners();
@@ -41,9 +47,7 @@ class Veri extends ChangeNotifier {
     final yanit = await http
         .get(Uri.parse('$kok/$yol'))
         .timeout(const Duration(seconds: 20));
-    if (yanit.statusCode != 200) {
-      throw 'HTTP ${yanit.statusCode}';
-    }
+    if (yanit.statusCode != 200) throw 'HTTP ${yanit.statusCode}';
     return jsonDecode(utf8.decode(yanit.bodyBytes));
   }
 
@@ -67,33 +71,67 @@ class Veri extends ChangeNotifier {
     sonGuncelleme = DateTime.now();
   }
 
-  Future<void> takvimleriGetir() async {
-    if (takvimler.isNotEmpty) return;
-    final veri = await _getir('calendars.json') as Map<String, dynamic>;
-    takvimler
-      ..clear()
-      ..addAll((veri['calendars'] as List)
-          .map((e) => Takvim.jsondan(e as Map<String, dynamic>)));
-    notifyListeners();
+  Future<void> _afisGetir() async {
+    try {
+      afis = Afis.jsondan(await _getir('banner.json') as Map<String, dynamic>);
+    } catch (_) {
+      afis = Afis.bos; // afişin olmaması hata değil
+    }
   }
 
-  Future<void> mevzuatGetir() async {
-    if (mevzuat.isNotEmpty) return;
-    final veri = await _getir('rules.json') as Map<String, dynamic>;
-    mevzuat
-      ..clear()
-      ..addAll((veri['libraries'] as List)
-          .map((e) => MevzuatKutuphanesi.jsondan(e as Map<String, dynamic>)));
-    notifyListeners();
+  // --- Federasyon ayrıntıları --------------------------------------------
+
+  Future<List<Duyuru>> fedDuyurulari(String slug) async {
+    if (_fedDuyurulari.containsKey(slug)) return _fedDuyurulari[slug]!;
+    try {
+      final liste = await _getir('fed/$slug.json') as List;
+      _fedDuyurulari[slug] = liste
+          .map((e) => Duyuru.jsondan(e as Map<String, dynamic>,
+              etiket: _etiketler[slug]))
+          .toList();
+    } catch (_) {
+      _fedDuyurulari[slug] = const [];
+    }
+    return _fedDuyurulari[slug]!;
+  }
+
+  Future<Takvim?> fedTakvimi(String slug) async {
+    if (_fedTakvimi.containsKey(slug)) return _fedTakvimi[slug];
+    try {
+      _fedTakvimi[slug] = Takvim.jsondan(
+          await _getir('takvim/$slug.json') as Map<String, dynamic>);
+    } catch (_) {
+      _fedTakvimi[slug] = null;
+    }
+    return _fedTakvimi[slug];
+  }
+
+  Future<MevzuatKutuphanesi?> fedMevzuati(String slug) async {
+    if (_fedMevzuati.containsKey(slug)) return _fedMevzuati[slug];
+    try {
+      _fedMevzuati[slug] = MevzuatKutuphanesi.jsondan(
+          await _getir('kural/$slug.json') as Map<String, dynamic>);
+    } catch (_) {
+      _fedMevzuati[slug] = null;
+    }
+    return _fedMevzuati[slug];
   }
 
   String etiketAdi(String slug) => _etiketler[slug] ?? slug;
 
-  // --- Takip -----------------------------------------------------------
+  Federasyon? federasyon(String slug) {
+    for (final f in federasyonlar) {
+      if (f.slug == slug) return f;
+    }
+    return null;
+  }
 
-  Future<void> _takipYukle() async {
+  // --- Tercihler ----------------------------------------------------------
+
+  Future<void> _tercihleriYukle() async {
     final kayit = await SharedPreferences.getInstance();
     takipEdilen = (kayit.getStringList('takip') ?? const []).toSet();
+    koyuTema = kayit.getBool('koyu_tema') ?? true;
   }
 
   Future<void> takibiDegistir(String slug) async {
@@ -105,22 +143,24 @@ class Veri extends ChangeNotifier {
     notifyListeners();
   }
 
-  // --- Filtreler -------------------------------------------------------
+  Future<void> temayiDegistir(bool koyu) async {
+    koyuTema = koyu;
+    final kayit = await SharedPreferences.getInstance();
+    await kayit.setBool('koyu_tema', koyu);
+    notifyListeners();
+  }
 
-  /// Anasayfa akışı: takip edilenler varsa onlar önce gelir.
-  List<Duyuru> akis({String? kategori}) {
-    var liste = duyurular.where((d) {
-      if (kategori != null && kategori != 'tumu' && d.kategori != kategori) {
-        return false;
-      }
-      return true;
-    }).toList();
+  // --- Akış ve süzgeçler --------------------------------------------------
 
+  List<Duyuru> akis({String kategori = 'tumu'}) {
+    final liste = duyurular
+        .where((d) => kategori == 'tumu' || d.kategori == kategori)
+        .toList();
     if (takipEdilen.isNotEmpty) {
       liste.sort((a, b) {
-        final aTakip = takipEdilen.contains(a.federasyon) ? 0 : 1;
-        final bTakip = takipEdilen.contains(b.federasyon) ? 0 : 1;
-        if (aTakip != bTakip) return aTakip - bTakip;
+        final fark = (takipEdilen.contains(a.federasyon) ? 0 : 1) -
+            (takipEdilen.contains(b.federasyon) ? 0 : 1);
+        if (fark != 0) return fark;
         return (b.yayinTarihi ?? DateTime(2000))
             .compareTo(a.yayinTarihi ?? DateTime(2000));
       });
@@ -128,6 +168,22 @@ class Veri extends ChangeNotifier {
     return liste;
   }
 
-  List<Duyuru> get kurslar =>
-      duyurular.where((d) => d.antrenorIcin || d.kategori == 'kurs').toList();
+  /// Bildirimler sekmesi: seçili federasyonların duyuruları — akışta kalmayan
+  /// eski kayıtlar dâhil (her federasyonun kendi dosyasından geçmiş alınır).
+  Future<List<Duyuru>> takipEdilenlerinGecmisi() async {
+    if (takipEdilen.isEmpty) return const [];
+    final hepsi = <String, Duyuru>{};
+    for (final slug in takipEdilen) {
+      for (final d in await fedDuyurulari(slug)) {
+        hepsi[d.id] = d;
+      }
+    }
+    for (final d in duyurular) {
+      if (takipEdilen.contains(d.federasyon)) hepsi[d.id] = d;
+    }
+    final liste = hepsi.values.toList()
+      ..sort((a, b) => (b.yayinTarihi ?? DateTime(2000))
+          .compareTo(a.yayinTarihi ?? DateTime(2000)));
+    return liste;
+  }
 }

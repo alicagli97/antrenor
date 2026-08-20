@@ -3,13 +3,14 @@ import 'package:url_launcher/url_launcher.dart';
 
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
-import 'federasyon_secimi.dart';
 
-/// Profil: takip ayarları ve mağazaların zorunlu tuttuğu sayfalar.
-/// Hesap yok — bu yüzden giriş/çıkış veya hesap silme ekranı da yok.
-class ProfilEkrani extends StatelessWidget {
+/// Ayarlar: tema, bildirim, federasyon seçimi ve mağazaların zorunlu tuttuğu
+/// sayfalar. Hesap yok — giriş/çıkış veya hesap silme ekranı da yok.
+class AyarlarEkrani extends StatelessWidget {
   final Veri veri;
-  const ProfilEkrani({super.key, required this.veri});
+  final VoidCallback federasyonlaraGit;
+  const AyarlarEkrani(
+      {super.key, required this.veri, required this.federasyonlaraGit});
 
   static const site = 'https://alicagli97.github.io/antrenor';
 
@@ -17,30 +18,47 @@ class ProfilEkrani extends StatelessWidget {
   Widget build(BuildContext context) {
     return ListView(
       children: [
-        const _Baslik('Takip'),
+        const _Baslik('Tercihler'),
+        SwitchListTile(
+          value: veri.koyuTema,
+          onChanged: veri.temayiDegistir,
+          activeThumbColor: Renkler.kurs,
+          secondary: Icon(
+              veri.koyuTema ? Icons.dark_mode_outlined : Icons.light_mode_outlined,
+              color: Renkler.metinIkincil),
+          title: const Text('Koyu tema',
+              style: TextStyle(color: Renkler.metin, fontSize: 14.5)),
+          subtitle: Text(veri.koyuTema ? 'Açık' : 'Kapalı',
+              style:
+                  const TextStyle(color: Renkler.metinSolgun, fontSize: 12.5)),
+        ),
         ListTile(
-          leading: const Icon(Icons.sports_outlined, color: Renkler.metinIkincil),
-          title: const Text('Federasyonlarım',
+          leading: const Icon(Icons.star_border, color: Renkler.metinIkincil),
+          title: const Text('Takip ettiğim federasyonlar',
               style: TextStyle(color: Renkler.metin, fontSize: 14.5)),
           subtitle: Text(
               veri.takipEdilen.isEmpty
                   ? 'Henüz federasyon seçilmedi'
-                  : '${veri.takipEdilen.length} federasyon takip ediliyor',
+                  : '${veri.takipEdilen.length} federasyon',
               style:
                   const TextStyle(color: Renkler.metinSolgun, fontSize: 12.5)),
           trailing: const Icon(Icons.chevron_right, color: Renkler.metinSolgun),
-          onTap: () => Navigator.of(context).push(MaterialPageRoute(
-              builder: (_) => FederasyonSecimi(veri: veri))),
+          onTap: federasyonlaraGit,
         ),
         ListTile(
           leading:
               const Icon(Icons.notifications_none, color: Renkler.metinIkincil),
           title: const Text('Bildirimler',
               style: TextStyle(color: Renkler.metin, fontSize: 14.5)),
-          subtitle: const Text('Yakında',
+          subtitle: const Text(
+              'Takip edilen federasyonlarda yeni duyuru olduğunda haber ver',
               style: TextStyle(color: Renkler.metinSolgun, fontSize: 12.5)),
-          trailing: const Icon(Icons.chevron_right, color: Renkler.metinSolgun),
-          onTap: () {},
+          trailing: const Text('Yakında',
+              style: TextStyle(color: Renkler.metinSolgun, fontSize: 12)),
+          onTap: () => ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+                content: Text('Bildirimler bir sonraki adımda açılacak')),
+          ),
         ),
         const Divider(height: 28),
         const _Baslik('Uygulama'),
@@ -73,6 +91,11 @@ class ProfilEkrani extends StatelessWidget {
             applicationVersion: '1.0.0',
           ),
         ),
+        _Satir(
+          simge: Icons.cleaning_services_outlined,
+          baslik: 'Verileri sıfırla',
+          onTap: () => _sifirla(context),
+        ),
         const SizedBox(height: 20),
         const Padding(
           padding: EdgeInsets.symmetric(horizontal: 18),
@@ -100,6 +123,36 @@ class ProfilEkrani extends StatelessWidget {
             'Türkiye spor federasyonlarının duyuru, faaliyet takvimi ve '
             'mevzuatını tek yerde toplar.\n\nFederasyonlarla resmî bağlantısı '
             'olmayan bağımsız bir uygulamadır.',
+      );
+
+  void _sifirla(BuildContext context) => showDialog(
+        context: context,
+        builder: (c) => AlertDialog(
+          backgroundColor: Renkler.yuzey,
+          title: const Text('Verileri sıfırla',
+              style: TextStyle(color: Renkler.metin, fontSize: 17)),
+          content: const Text(
+              'Takip listesi ve tercihler silinecek. Bu veriler yalnızca bu '
+              'cihazda tutuluyor.',
+              style: TextStyle(color: Renkler.metinIkincil, fontSize: 14)),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.pop(c),
+              child: const Text('Vazgeç',
+                  style: TextStyle(color: Renkler.metinIkincil)),
+            ),
+            TextButton(
+              onPressed: () async {
+                for (final slug in veri.takipEdilen.toList()) {
+                  await veri.takibiDegistir(slug);
+                }
+                if (c.mounted) Navigator.pop(c);
+              },
+              child: const Text('Sıfırla',
+                  style: TextStyle(color: Renkler.kurs)),
+            ),
+          ],
+        ),
       );
 }
 

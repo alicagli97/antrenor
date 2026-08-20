@@ -3,11 +3,9 @@ import 'package:flutter/material.dart';
 import 'cekirdek/tema.dart';
 import 'cekirdek/veri.dart';
 import 'ekranlar/anasayfa.dart';
-import 'ekranlar/federasyon_secimi.dart';
-import 'ekranlar/kurslar.dart';
-import 'ekranlar/mevzuat.dart';
-import 'ekranlar/profil.dart';
-import 'ekranlar/takvim.dart';
+import 'ekranlar/ayarlar.dart';
+import 'ekranlar/bildirimler.dart';
+import 'ekranlar/federasyonlar.dart';
 
 void main() => runApp(const AntrenorUygulamasi());
 
@@ -23,7 +21,9 @@ class AntrenorUygulamasi extends StatelessWidget {
       );
 }
 
-/// Beş sekmeli ana kabuk: Anasayfa · Kurslar · Takvim · Mevzuat · Profil
+/// Dört sekme: Anasayfa · Federasyonlar · Bildirimler · Ayarlar
+/// Üstte ayrı bir başlık çubuğu yok; her ekran kendi başlığını taşır ve
+/// kaydırınca kaybolur, böylece tek menü hissi korunur.
 class AnaKabuk extends StatefulWidget {
   const AnaKabuk({super.key});
 
@@ -34,14 +34,6 @@ class AnaKabuk extends StatefulWidget {
 class _AnaKabukDurumu extends State<AnaKabuk> {
   final _veri = Veri();
   int _sekme = 0;
-
-  static const _basliklar = [
-    'ANTRENÖR',
-    'Kurslar',
-    'Takvim',
-    'Mevzuat',
-    'Profil',
-  ];
 
   @override
   void initState() {
@@ -58,22 +50,25 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
     super.dispose();
   }
 
+  void _sekmeyeGit(String hedef) {
+    final indeks = switch (hedef) {
+      'federasyonlar' => 1,
+      'bildirimler' => 2,
+      'ayarlar' => 3,
+      _ => 0,
+    };
+    setState(() => _sekme = indeks);
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text(_basliklar[_sekme]),
-        actions: [
-          if (_sekme == 0)
-            IconButton(
-              icon: const Icon(Icons.tune, color: Renkler.metinIkincil),
-              tooltip: 'Federasyonlarım',
-              onPressed: () => Navigator.of(context).push(MaterialPageRoute(
-                  builder: (_) => FederasyonSecimi(veri: _veri))),
-            ),
-        ],
-      ),
-      body: _govde(),
+      // Anasayfa kendi başlığını sliver olarak taşır; diğer sekmelerde
+      // sade bir başlık yeterli
+      appBar: _sekme == 0
+          ? null
+          : AppBar(title: Text(_baslik(_sekme))),
+      body: SafeArea(child: _govde()),
       bottomNavigationBar: NavigationBar(
         selectedIndex: _sekme,
         onDestinationSelected: (i) => setState(() => _sekme = i),
@@ -83,25 +78,27 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
               selectedIcon: Icon(Icons.home),
               label: 'Anasayfa'),
           NavigationDestination(
-              icon: Icon(Icons.school_outlined),
-              selectedIcon: Icon(Icons.school),
-              label: 'Kurslar'),
+              icon: Icon(Icons.shield_outlined),
+              selectedIcon: Icon(Icons.shield),
+              label: 'Federasyonlar'),
           NavigationDestination(
-              icon: Icon(Icons.event_outlined),
-              selectedIcon: Icon(Icons.event),
-              label: 'Takvim'),
+              icon: Icon(Icons.notifications_none),
+              selectedIcon: Icon(Icons.notifications),
+              label: 'Bildirimler'),
           NavigationDestination(
-              icon: Icon(Icons.gavel_outlined),
-              selectedIcon: Icon(Icons.gavel),
-              label: 'Mevzuat'),
-          NavigationDestination(
-              icon: Icon(Icons.person_outline),
-              selectedIcon: Icon(Icons.person),
-              label: 'Profil'),
+              icon: Icon(Icons.settings_outlined),
+              selectedIcon: Icon(Icons.settings),
+              label: 'Ayarlar'),
         ],
       ),
     );
   }
+
+  static String _baslik(int sekme) => switch (sekme) {
+        1 => 'Federasyonlar',
+        2 => 'Bildirimler',
+        _ => 'Ayarlar',
+      };
 
   Widget _govde() {
     if (_veri.yukleniyor) {
@@ -111,11 +108,12 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
       return _HataDurumu(mesaj: _veri.hata!, tekrar: _veri.baslat);
     }
     return switch (_sekme) {
-      0 => Anasayfa(veri: _veri),
-      1 => KurslarEkrani(veri: _veri),
-      2 => TakvimEkrani(veri: _veri),
-      3 => MevzuatEkrani(veri: _veri),
-      _ => ProfilEkrani(veri: _veri),
+      0 => Anasayfa(veri: _veri, sekmeyeGit: _sekmeyeGit),
+      1 => FederasyonlarEkrani(veri: _veri),
+      2 => BildirimlerEkrani(
+          veri: _veri, federasyonlaraGit: () => _sekmeyeGit('federasyonlar')),
+      _ => AyarlarEkrani(
+          veri: _veri, federasyonlaraGit: () => _sekmeyeGit('federasyonlar')),
     };
   }
 }
@@ -132,8 +130,7 @@ class _HataDurumu extends StatelessWidget {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              const Icon(Icons.cloud_off,
-                  size: 42, color: Renkler.metinSolgun),
+              const Icon(Icons.cloud_off, size: 42, color: Renkler.metinSolgun),
               const SizedBox(height: 14),
               Text(mesaj,
                   textAlign: TextAlign.center,

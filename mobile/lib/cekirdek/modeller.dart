@@ -1,3 +1,5 @@
+library;
+
 /// Sunucudaki JSON uçlarının karşılıkları.
 /// Kaynak: https://alicagli97.github.io/antrenor/api/v1/
 
@@ -193,5 +195,49 @@ class MevzuatKutuphanesi {
                 ?.map((e) => Belge.jsondan(e as Map<String, dynamic>))
                 .toList() ??
             const [],
+      );
+}
+
+/// Anasayfadaki afiş: içeriği sunucudan yönetilir (banner.json).
+class Afis {
+  final bool aktif;
+  final String tur; // bilgi | sponsor | uyari
+  final String baslik;
+  final String metin;
+  final String butonMetni;
+  final String butonHedefi; // federasyonlar | bildirimler | ayarlar | url
+  final String url;
+  final String renk;
+
+  const Afis({
+    required this.aktif,
+    required this.tur,
+    required this.baslik,
+    required this.metin,
+    required this.butonMetni,
+    required this.butonHedefi,
+    required this.url,
+    required this.renk,
+  });
+
+  static const bos = Afis(
+      aktif: false,
+      tur: 'bilgi',
+      baslik: '',
+      metin: '',
+      butonMetni: '',
+      butonHedefi: '',
+      url: '',
+      renk: '#E0A33C');
+
+  factory Afis.jsondan(Map<String, dynamic> j) => Afis(
+        aktif: j['aktif'] as bool? ?? false,
+        tur: j['tur'] as String? ?? 'bilgi',
+        baslik: j['baslik'] as String? ?? '',
+        metin: j['metin'] as String? ?? '',
+        butonMetni: j['buton_metni'] as String? ?? '',
+        butonHedefi: j['buton_hedefi'] as String? ?? '',
+        url: j['url'] as String? ?? '',
+        renk: j['renk'] as String? ?? '#E0A33C',
       );
 }

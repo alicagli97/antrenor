@@ -1,5 +1,59 @@
 [
  {
+  "id": "fc757eabbe344f1a",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 329 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-21T07:52:41+00:00",
+  "first_seen_at": "2026-08-21T07:52:41+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "e81cbd0da0a93570",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-21T07:52:39+00:00",
+  "first_seen_at": "2026-08-21T07:52:39+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "84a0998854a2474f",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-21T07:52:39+00:00",
+  "first_seen_at": "2026-08-21T07:52:39+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "df5725116332dce4",
   "federation": "triatlon",
   "federation_name": "Türkiye Triatlon Federasyonu",

@@ -1,5 +1,74 @@
 [
  {
+  "id": "0ebc5d5b7e7649b1",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "9. MALİ GENEL KURUL ÇAĞRISI VE GÜNDEMİ",
+  "url": "https://tbbdf.org.tr/9-mali-genel-kurul-cagrisi-ve-gundemi",
+  "summary": ", Cumartesi Türkiye Bocce Bowling ve Dart Federasyonu 9. Mali Genel Kurul Toplantısı, 22 Eylül 2026 Salı günü saat 10.30’da, Gençlik ve Spor...",
+  "image": "https://tbbdf.org.tr/images/tr.gif",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-21T07:54:36+00:00",
+  "first_seen_at": "2026-08-21T07:54:36+00:00",
+  "source": "html"
+ },
+ {
+  "id": "fc757eabbe344f1a",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 329 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-21T07:52:41+00:00",
+  "first_seen_at": "2026-08-21T07:52:41+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "e81cbd0da0a93570",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-21T07:52:39+00:00",
+  "first_seen_at": "2026-08-21T07:52:39+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "84a0998854a2474f",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-21T07:52:39+00:00",
+  "first_seen_at": "2026-08-21T07:52:39+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "b8b2903b7b2a0955",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -4916,72 +4985,6 @@
   "image": null,
   "category": "duyuru",
   "tags": [],
-  "published_at": "2026-08-19T21:45:48",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "1730df2f143ea12c",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Kulüpler Satranç Şampiyonası",
-  "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-kulupler-satranc-sampiyonasi",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T21:45:48",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "488bdd704f1a5824",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Satranç Şampiyonası",
-  "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-sampiyonasi",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T21:45:48",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "e05fe43a4e40169b",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Kupası",
-  "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-kupasi",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-19T21:45:48",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "5ba9b4e6ce0110bb",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Kadınlar Satranç Şampiyonası",
-  "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-kadinlar-satranc-sampiyonasi",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
   "published_at": "2026-08-19T21:45:48",
   "first_seen_at": "2026-08-19T21:45:48",
   "source": "html"

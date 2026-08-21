@@ -15,6 +15,70 @@
   "source": "api"
  },
  {
+  "id": "1d909bb5d91b6a2e",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U15 Kızlar Gelişim Ligi Genel Esasları ve Yol Haritası Belirlenmiştir",
+  "url": "https://www.tff.org/default.aspx?pageID=341&ftxtID=51188",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-21T14:49:36+00:00",
+  "first_seen_at": "2026-08-21T14:49:36+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d032e9f4e259b794",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U20 Millî Takımımız, Fas Maçı Hazırlıklarını Tamamladı",
+  "url": "https://www.tff.org/default.aspx?pageID=648&ftxtID=51189",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-21T14:49:36+00:00",
+  "first_seen_at": "2026-08-21T14:49:36+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ceebc68155de6c5c",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Taranto 2026’da bayrağımız Nesrin Baş ve Emre Sakçı’da!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302597/taranto-2026da-bayragimiz-nesrin-bas-ve-emre-sakcida.aspx",
+  "summary": "İtalya’nın Taranto kentinde, 21 Ağustos– tarihleri arasında düzenlenecek 20’nci Akdeniz Oyunları’nın Açılış Seremonisi’nde şanlı bayrağımızı millî güreşçimiz Nesrin Baş ve millî yüzücümüz Emre Sakçı taşıyacak. Haberi Oku",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-21T14:49:36+00:00",
+  "first_seen_at": "2026-08-21T14:49:36+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f5ccaa25ba7935e1",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "18-20 Eylül 2026 Manisa Sualtı Ragbisi Elit Türkiye Şampiyonası ve Milli Takım Seçmeleri Yarışma Reglamanı",
+  "url": "https://www.tssf.gov.tr/18-20-eylul-2026-manisa-sualti-ragbisi-elit-turkiye-sampiyonasi-ve-milli-takim-secmeleri-yarisma-reglamani/",
+  "summary": "Yarışma Reglamanı için TIKLAYINIZ. Sualtı Ragbisi Esame listesi için TIKLAYINIZ. Katılım Başvuru Formu için TIKLAYINIZ. Karar Defteri Metni Örneği",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka",
+   "milli_takim",
+   "burs"
+  ],
+  "published_at": "2026-08-21T14:24:24+00:00",
+  "first_seen_at": "2026-08-21T14:49:36+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "b84c59614f8b0f90",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -4970,78 +5034,6 @@
   "federation_short": "TGF",
   "title": "Yarışma Talimatı-2026 TGF 15 Temmuz Demokrasi ve Milli Birlik Turnuvası (Revize Hali)",
   "url": "https://tgf.org.tr/upload/revize-yarisma-talimati-tgf-15-temmuz-demokrasi-ve-milli-birlik-turnuvasi-2026_f25490_duyuru.pdf",
-  "summary": "",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T21:45:48",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "bbb0255a371938db",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "TGF 15 Temmuz Demokrasi ve Milli Birlik Turnuvası Talimatı",
-  "url": "https://tgf.org.tr/upload/yarisma-talimati-tgf-15-temmuz-demokrasi-ve-milli-birlik-turnuvasi-2026_97a0b7_duyuru.pdf",
-  "summary": "",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T21:45:48",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "e03db55de2fc7637",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Türkiye Golf Federasyonu Milli Takım Turnuva Katılımcı Listesi",
-  "url": "https://tgf.org.tr/upload/2026-turkiye-golf-federasyonu-milli-takim-turnuva-katilimci-listesi_1fda36_duyuru.pdf",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "milli_takim"
-  ],
-  "published_at": "2026-08-19T21:45:48",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "fe31dcc0267173e8",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "TGF Türkiye Senior Şampiyonası Talimatı",
-  "url": "https://tgf.org.tr/upload/yarisma-talimati-tgf-turkiye-senior-sampiyonasi-2026_0f2151_duyuru.pdf",
-  "summary": "",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T21:45:48",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "b4460965188f8ed7",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "TGF Türkiye Gençler Şampiyonası Talimatı",
-  "url": "https://tgf.org.tr/upload/2026-tgf-türkiye-gençler-şampiyonasi-katilim-şartlari_9d21dd_duyuru.pdf",
   "summary": "",
   "image": null,
   "category": "mevzuat",

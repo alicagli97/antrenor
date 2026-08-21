@@ -23,7 +23,6 @@ class _AnasayfaDurumu extends State<Anasayfa> {
 
   static const _kategoriler = [
     ('tumu', 'Tümü'),
-    ('kurs', 'Kurs'),
     ('musabaka', 'Müsabaka'),
     ('mevzuat', 'Mevzuat'),
     ('takvim', 'Takvim'),

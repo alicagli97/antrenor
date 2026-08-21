@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-21T17:40:35+00:00",
- "total": 1506,
- "new_in_last_run": 2,
+ "generated_at": "2026-08-21T18:53:33+00:00",
+ "total": 1509,
+ "new_in_last_run": 3,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -10,21 +10,21 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-21T17:40:35+00:00",
+ "latest_published_at": "2026-08-21T18:53:33+00:00",
  "categories": {
+  "haber": 35,
   "kurs": 250,
   "duyuru": 800,
   "takvim": 46,
   "musabaka": 328,
-  "mevzuat": 50,
-  "haber": 32
+  "mevzuat": 50
  },
  "federation_counts": {
+  "shgm": 23,
   "futbol": 55,
   "halter": 23,
   "sualti": 23,
   "hentbol": 15,
-  "shgm": 20,
   "golf": 34,
   "eskrim": 39,
   "badminton": 24,

@@ -7,8 +7,7 @@ import '../cekirdek/veri.dart';
 import '../parcalar/duyuru_karti.dart';
 import 'duyuru_detay.dart';
 
-/// Anasayfa: duyuru akışı. Üstte sunucudan yönetilen afiş alanı var;
-/// içeriği banner.json ile değişir, uygulama güncellemesi gerekmez.
+/// Anasayfa: günün özeti, sunucudan yönetilen afiş ve duyuru akışı.
 class Anasayfa extends StatefulWidget {
   final Veri veri;
   final ValueChanged<String> sekmeyeGit;
@@ -40,29 +39,7 @@ class _AnasayfaDurumu extends State<Anasayfa> {
       backgroundColor: Renkler.yuzey,
       child: CustomScrollView(
         slivers: [
-          // Başlık kaydırınca yukarı kaçar: alttaki menüyle çakışan
-          // ikinci bir menü hissi vermesin
-          SliverAppBar(
-            floating: true,
-            snap: true,
-            titleSpacing: 16,
-            title: const Text('ANTRENÖR',
-                style: TextStyle(
-                    fontSize: 19,
-                    fontWeight: FontWeight.w800,
-                    letterSpacing: 1.0)),
-            actions: [
-              if (veri.sonGuncelleme != null)
-                Padding(
-                  padding: const EdgeInsets.only(right: 16),
-                  child: Center(
-                    child: Text(_guncelleme(veri.sonGuncelleme!),
-                        style: const TextStyle(
-                            color: Renkler.metinSolgun, fontSize: 11.5)),
-                  ),
-                ),
-            ],
-          ),
+          SliverToBoxAdapter(child: _Tepe(veri: veri)),
           if (veri.afis.aktif)
             SliverToBoxAdapter(
               child: _AfisKarti(
@@ -70,7 +47,7 @@ class _AnasayfaDurumu extends State<Anasayfa> {
             ),
           SliverPersistentHeader(
             pinned: true,
-            delegate: _KategoriBasligi(
+            delegate: _SuzgecSeridi(
               secili: _kategori,
               kategoriler: _kategoriler,
               sec: (k) => setState(() => _kategori = k),
@@ -80,10 +57,7 @@ class _AnasayfaDurumu extends State<Anasayfa> {
             const SliverFillRemaining(
               hasScrollBody: false,
               child: Center(
-                child: Text('Bu kategoride duyuru yok',
-                    style:
-                        TextStyle(color: Renkler.metinSolgun, fontSize: 14)),
-              ),
+                  child: Text('Bu kategoride duyuru yok', style: Yazi.govde)),
             )
           else
             SliverList.builder(
@@ -95,17 +69,128 @@ class _AnasayfaDurumu extends State<Anasayfa> {
                     builder: (_) => DuyuruDetay(duyuru: liste[i]))),
               ),
             ),
+          const SliverToBoxAdapter(child: SizedBox(height: 12)),
         ],
       ),
     );
   }
+}
 
-  static String _guncelleme(DateTime t) {
-    final fark = DateTime.now().difference(t);
-    if (fark.inMinutes < 1) return 'şimdi güncellendi';
-    if (fark.inMinutes < 60) return '${fark.inMinutes} dk önce';
-    return '${fark.inHours} sa önce';
+/// Üst blok: marka, güncellik ve günün sayıları
+class _Tepe extends StatelessWidget {
+  final Veri veri;
+  const _Tepe({required this.veri});
+
+  @override
+  Widget build(BuildContext context) {
+    final bugun = DateTime.now();
+    final sonGun = veri.duyurular
+        .where((d) =>
+            d.yayinTarihi != null &&
+            bugun.difference(d.yayinTarihi!).inHours < 24)
+        .toList();
+    final kurs = veri.duyurular.where((d) => d.antrenorIcin).length;
+
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(Olcu.kenar, 8, Olcu.kenar, 14),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text('ANTRENÖR',
+                        style: Yazi.dev.copyWith(letterSpacing: 1.2)),
+                    const SizedBox(height: 4),
+                    Text(
+                      veri.takipEdilen.isEmpty
+                          ? '${veri.federasyonlar.length} federasyon izleniyor'
+                          : '${veri.takipEdilen.length} federasyon takipte',
+                      style: Yazi.kucuk,
+                    ),
+                  ],
+                ),
+              ),
+              if (veri.sonGuncelleme != null)
+                Container(
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+                  decoration: BoxDecoration(
+                    color: Renkler.takvim.withValues(alpha: 0.10),
+                    borderRadius: BorderRadius.circular(20),
+                    border: Border.all(
+                        color: Renkler.takvim.withValues(alpha: 0.25)),
+                  ),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Container(
+                        width: 6,
+                        height: 6,
+                        decoration: const BoxDecoration(
+                            color: Renkler.takvim, shape: BoxShape.circle),
+                      ),
+                      const SizedBox(width: 6),
+                      Text('GÜNCEL',
+                          style: Yazi.etiket
+                              .copyWith(color: Renkler.takvim, fontSize: 9.5)),
+                    ],
+                  ),
+                ),
+            ],
+          ),
+          const SizedBox(height: 16),
+          Row(
+            children: [
+              _SayiKutusu(
+                  sayi: sonGun.length,
+                  etiket: 'SON 24 SAAT',
+                  renk: Renkler.musabaka),
+              const SizedBox(width: 10),
+              _SayiKutusu(
+                  sayi: kurs, etiket: 'ANTRENÖR', renk: Renkler.kurs),
+              const SizedBox(width: 10),
+              _SayiKutusu(
+                  sayi: veri.duyurular.length,
+                  etiket: 'AKIŞTA',
+                  renk: Renkler.duyuru),
+            ],
+          ),
+        ],
+      ),
+    );
   }
+}
+
+class _SayiKutusu extends StatelessWidget {
+  final int sayi;
+  final String etiket;
+  final Color renk;
+  const _SayiKutusu(
+      {required this.sayi, required this.etiket, required this.renk});
+
+  @override
+  Widget build(BuildContext context) => Expanded(
+        child: Container(
+          padding: const EdgeInsets.symmetric(vertical: 12, horizontal: 12),
+          decoration: kartYuzeyi(vurgu: renk),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text('$sayi', style: Yazi.rakam.copyWith(color: renk)),
+              const SizedBox(height: 5),
+              Text(etiket,
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                  style: Yazi.etiket.copyWith(fontSize: 9.5)),
+            ],
+          ),
+        ),
+      );
 }
 
 /// Sunucudan yönetilen afiş: bilgi kartı, sponsor alanı veya uyarı.
@@ -117,59 +202,70 @@ class _AfisKarti extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final renk = _renk(afis.renk);
-    return Container(
-      margin: const EdgeInsets.fromLTRB(14, 6, 14, 10),
-      padding: const EdgeInsets.fromLTRB(15, 14, 15, 14),
-      decoration: BoxDecoration(
-        color: renk.withValues(alpha: 0.09),
-        borderRadius: BorderRadius.circular(12),
-        border: Border.all(color: renk.withValues(alpha: 0.32)),
-      ),
-      child: Column(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          Row(
-            children: [
-              Icon(_simge(afis.tur), size: 16, color: renk),
-              const SizedBox(width: 7),
-              Expanded(
-                child: Text(afis.baslik,
-                    style: TextStyle(
-                        color: renk,
-                        fontSize: 14,
-                        fontWeight: FontWeight.w700)),
-              ),
-              if (afis.tur == 'sponsor')
-                const Text('Sponsorlu',
-                    style:
-                        TextStyle(color: Renkler.metinSolgun, fontSize: 10.5)),
-            ],
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(Olcu.kenar, 0, Olcu.kenar, 16),
+      child: GestureDetector(
+        onTap: () => _tikla(context),
+        child: Container(
+          decoration: BoxDecoration(
+            gradient: LinearGradient(
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
+              colors: [
+                renk.withValues(alpha: 0.16),
+                renk.withValues(alpha: 0.04),
+              ],
+            ),
+            borderRadius: BorderRadius.circular(Olcu.kartYaricap),
+            border: Border.all(color: renk.withValues(alpha: 0.30)),
           ),
-          if (afis.metin.isNotEmpty) ...[
-            const SizedBox(height: 7),
-            Text(afis.metin,
-                style: const TextStyle(
-                    color: Renkler.metinIkincil, fontSize: 13, height: 1.4)),
-          ],
-          if (afis.butonMetni.isNotEmpty) ...[
-            const SizedBox(height: 10),
-            GestureDetector(
-              onTap: () => _tikla(context),
-              child: Row(
-                mainAxisSize: MainAxisSize.min,
+          padding: const EdgeInsets.fromLTRB(16, 15, 16, 15),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Row(
                 children: [
-                  Text(afis.butonMetni,
-                      style: TextStyle(
-                          color: renk,
-                          fontSize: 13,
-                          fontWeight: FontWeight.w600)),
-                  const SizedBox(width: 4),
-                  Icon(Icons.arrow_forward, size: 14, color: renk),
+                  Container(
+                    padding: const EdgeInsets.all(6),
+                    decoration: BoxDecoration(
+                      color: renk.withValues(alpha: 0.16),
+                      borderRadius: BorderRadius.circular(8),
+                    ),
+                    child: Icon(_simge(afis.tur), size: 15, color: renk),
+                  ),
+                  const SizedBox(width: 10),
+                  Expanded(
+                    child: Text(afis.baslik,
+                        style: Yazi.kartBaslik
+                            .copyWith(color: renk, fontSize: 15)),
+                  ),
+                  if (afis.tur == 'sponsor')
+                    Text('SPONSORLU',
+                        style: Yazi.etiket.copyWith(fontSize: 9)),
                 ],
               ),
-            ),
-          ],
-        ],
+              if (afis.metin.isNotEmpty) ...[
+                const SizedBox(height: 9),
+                Text(afis.metin, style: Yazi.govde.copyWith(fontSize: 13.5)),
+              ],
+              if (afis.butonMetni.isNotEmpty) ...[
+                const SizedBox(height: 12),
+                Row(
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Text(afis.butonMetni,
+                        style: Yazi.govde.copyWith(
+                            color: renk,
+                            fontWeight: FontWeight.w700,
+                            fontSize: 13.5)),
+                    const SizedBox(width: 5),
+                    Icon(Icons.arrow_forward_rounded, size: 15, color: renk),
+                  ],
+                ),
+              ],
+            ],
+          ),
+        ),
       ),
     );
   }
@@ -183,38 +279,39 @@ class _AfisKarti extends StatelessWidget {
   }
 
   static IconData _simge(String tur) => switch (tur) {
-        'sponsor' => Icons.campaign_outlined,
-        'uyari' => Icons.warning_amber_outlined,
-        _ => Icons.info_outline,
+        'sponsor' => Icons.campaign_rounded,
+        'uyari' => Icons.warning_amber_rounded,
+        _ => Icons.bolt_rounded,
       };
 
   static Color _renk(String kod) {
     final temiz = kod.replaceAll('#', '');
-    return Color(int.tryParse('FF$temiz', radix: 16) ?? 0xFFE0A33C);
+    return Color(int.tryParse('FF$temiz', radix: 16) ?? 0xFFF2A93B);
   }
 }
 
-class _KategoriBasligi extends SliverPersistentHeaderDelegate {
+/// Yapışkan süzgeç şeridi — seçili olan dolu, diğerleri hatlı
+class _SuzgecSeridi extends SliverPersistentHeaderDelegate {
   final String secili;
   final List<(String, String)> kategoriler;
   final ValueChanged<String> sec;
 
-  _KategoriBasligi(
+  _SuzgecSeridi(
       {required this.secili, required this.kategoriler, required this.sec});
 
   @override
-  double get minExtent => 52;
+  double get minExtent => 56;
   @override
-  double get maxExtent => 52;
+  double get maxExtent => 56;
 
   @override
   Widget build(BuildContext context, double shrinkOffset, bool overlaps) =>
       Container(
-        height: 52,
+        height: 56,
         color: Renkler.zemin,
         child: ListView.separated(
           scrollDirection: Axis.horizontal,
-          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 9),
+          padding: const EdgeInsets.fromLTRB(Olcu.kenar, 8, Olcu.kenar, 12),
           itemCount: kategoriler.length,
           separatorBuilder: (_, _) => const SizedBox(width: 8),
           itemBuilder: (_, i) {
@@ -224,22 +321,40 @@ class _KategoriBasligi extends SliverPersistentHeaderDelegate {
                 deger == 'tumu' ? Renkler.metin : Renkler.kategoriRengi(deger);
             return GestureDetector(
               onTap: () => sec(deger),
-              child: Container(
-                padding: const EdgeInsets.symmetric(horizontal: 14),
+              child: AnimatedContainer(
+                duration: const Duration(milliseconds: 160),
+                padding: const EdgeInsets.symmetric(horizontal: 15),
                 alignment: Alignment.center,
                 decoration: BoxDecoration(
-                  color: aktif ? renk.withValues(alpha: 0.15) : Renkler.yuzey,
-                  borderRadius: BorderRadius.circular(8),
+                  color: aktif
+                      ? renk.withValues(alpha: 0.16)
+                      : Renkler.yuzey.withValues(alpha: 0.6),
+                  borderRadius: BorderRadius.circular(24),
                   border: Border.all(
-                      color:
-                          aktif ? renk.withValues(alpha: 0.5) : Renkler.cizgi),
+                      color: aktif
+                          ? renk.withValues(alpha: 0.45)
+                          : Renkler.cizgi),
                 ),
-                child: Text(ad,
-                    style: TextStyle(
-                        color: aktif ? renk : Renkler.metinIkincil,
-                        fontSize: 13.5,
-                        fontWeight:
-                            aktif ? FontWeight.w600 : FontWeight.w400)),
+                child: Row(
+                  children: [
+                    if (deger != 'tumu') ...[
+                      Container(
+                        width: 6,
+                        height: 6,
+                        decoration:
+                            BoxDecoration(color: renk, shape: BoxShape.circle),
+                      ),
+                      const SizedBox(width: 7),
+                    ],
+                    Text(ad,
+                        style: Yazi.govde.copyWith(
+                          fontSize: 13.5,
+                          color: aktif ? renk : Renkler.metinIkincil,
+                          fontWeight:
+                              aktif ? FontWeight.w700 : FontWeight.w500,
+                        )),
+                  ],
+                ),
               ),
             );
           },
@@ -247,5 +362,5 @@ class _KategoriBasligi extends SliverPersistentHeaderDelegate {
       );
 
   @override
-  bool shouldRebuild(covariant _KategoriBasligi eski) => eski.secili != secili;
+  bool shouldRebuild(covariant _SuzgecSeridi eski) => eski.secili != secili;
 }

@@ -42,7 +42,7 @@ class DuyuruDetay extends StatelessWidget {
             ),
             const Spacer(),
             Text(_tarih(duyuru.yayinTarihi),
-                style: const TextStyle(color: Renkler.metinSolgun, fontSize: 12.5)),
+                style: Yazi.kucuk),
           ]),
           const SizedBox(height: 14),
           Text(duyuru.baslik,
@@ -59,7 +59,7 @@ class DuyuruDetay extends StatelessWidget {
           const SizedBox(height: 26),
           FilledButton.icon(
             style: FilledButton.styleFrom(
-              backgroundColor: Renkler.yuzeyAcik,
+              backgroundColor: Renkler.yuzeyYuksek,
               foregroundColor: Renkler.metin,
               padding: const EdgeInsets.symmetric(vertical: 15),
               shape: RoundedRectangleBorder(

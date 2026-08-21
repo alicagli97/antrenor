@@ -139,12 +139,12 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
         ListTile(
           leading: const Icon(Icons.description_outlined,
               color: Renkler.metinIkincil),
-          title: const Text('Kaynak takvim belgesi',
-              style: TextStyle(color: Renkler.metin, fontSize: 14.5)),
+          title: Text('Kaynak takvim belgesi',
+              style: Yazi.govde.copyWith(color: Renkler.metin, fontSize: 15)),
           subtitle: Text(
               '${t.tur.toUpperCase()}${t.etkinlikSayisi > 0 ? " · ${t.etkinlikSayisi} faaliyet" : ""}',
               style:
-                  const TextStyle(color: Renkler.metinSolgun, fontSize: 12.5)),
+                  Yazi.kucuk),
           trailing: const Icon(Icons.open_in_new,
               size: 16, color: Renkler.metinSolgun),
           onTap: () =>
@@ -156,7 +156,7 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
             padding: EdgeInsets.all(20),
             child: Text(
                 'Takvim belgeden okunamadı; kaynağı açarak görüntüleyebilirsiniz.',
-                style: TextStyle(color: Renkler.metinSolgun, fontSize: 13)),
+                style: Yazi.govde),
           )
         else
           ...tarihliler.map((e) => Container(

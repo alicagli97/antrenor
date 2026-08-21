@@ -58,7 +58,7 @@ class _BildirimlerDurumu extends State<BildirimlerEkrani> {
                   size: 44, color: Renkler.metinSolgun),
               const SizedBox(height: 14),
               const Text('Henüz federasyon takip etmiyorsun',
-                  style: TextStyle(color: Renkler.metin, fontSize: 15.5)),
+                  style: Yazi.kartBaslik),
               const SizedBox(height: 8),
               const Text(
                 'Federasyonlar sekmesinden yıldıza dokun; buraya o '

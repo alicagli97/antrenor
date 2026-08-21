@@ -5,8 +5,8 @@ import '../cekirdek/bildirim.dart';
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
 
-/// Ayarlar: tema, bildirim, federasyon seçimi ve mağazaların zorunlu tuttuğu
-/// sayfalar. Hesap yok — giriş/çıkış veya hesap silme ekranı da yok.
+/// Ayarlar: tercihler ve mağazaların zorunlu tuttuğu sayfalar.
+/// Hesap yok — giriş/çıkış veya hesap silme ekranı da yok.
 class AyarlarEkrani extends StatelessWidget {
   final Veri veri;
   final VoidCallback federasyonlaraGit;
@@ -18,103 +18,99 @@ class AyarlarEkrani extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListView(
+      padding: const EdgeInsets.fromLTRB(Olcu.kenar, 4, Olcu.kenar, 28),
       children: [
-        const _Baslik('Tercihler'),
-        SwitchListTile(
-          value: veri.koyuTema,
-          onChanged: veri.temayiDegistir,
-          activeThumbColor: Renkler.kurs,
-          secondary: Icon(
-              veri.koyuTema ? Icons.dark_mode_outlined : Icons.light_mode_outlined,
-              color: Renkler.metinIkincil),
-          title: const Text('Koyu tema',
-              style: TextStyle(color: Renkler.metin, fontSize: 14.5)),
-          subtitle: Text(veri.koyuTema ? 'Açık' : 'Kapalı',
-              style:
-                  const TextStyle(color: Renkler.metinSolgun, fontSize: 12.5)),
-        ),
-        ListTile(
-          leading: const Icon(Icons.star_border, color: Renkler.metinIkincil),
-          title: const Text('Takip ettiğim federasyonlar',
-              style: TextStyle(color: Renkler.metin, fontSize: 14.5)),
-          subtitle: Text(
-              veri.takipEdilen.isEmpty
-                  ? 'Henüz federasyon seçilmedi'
-                  : '${veri.takipEdilen.length} federasyon',
-              style:
-                  const TextStyle(color: Renkler.metinSolgun, fontSize: 12.5)),
-          trailing: const Icon(Icons.chevron_right, color: Renkler.metinSolgun),
-          onTap: federasyonlaraGit,
-        ),
-        ListTile(
-          leading:
-              const Icon(Icons.notifications_none, color: Renkler.metinIkincil),
-          title: const Text('Bildirimler',
-              style: TextStyle(color: Renkler.metin, fontSize: 14.5)),
-          subtitle: Text(
-              veri.takipEdilen.isEmpty
-                  ? 'Önce federasyon takip et, sonra bildirim aç'
-                  : 'Takip ettiğin ${veri.takipEdilen.length} federasyonda yeni '
-                      'duyuru olduğunda haber verilir',
-              style:
-                  const TextStyle(color: Renkler.metinSolgun, fontSize: 12.5)),
-          trailing: const Icon(Icons.chevron_right, color: Renkler.metinSolgun),
-          onTap: () => _bildirimIzni(context),
-        ),
-        const Divider(height: 28),
-        const _Baslik('Uygulama'),
-        _Satir(
-          simge: Icons.info_outline,
-          baslik: 'Hakkında',
-          onTap: () => _hakkinda(context),
-        ),
-        _Satir(
-          simge: Icons.privacy_tip_outlined,
-          baslik: 'Gizlilik Politikası',
-          onTap: () => _ac('$site/gizlilik.html'),
-        ),
-        _Satir(
-          simge: Icons.delete_outline,
-          baslik: 'Verilerin silinmesi',
-          onTap: () => _ac('$site/veri-silme.html'),
-        ),
-        _Satir(
-          simge: Icons.support_agent_outlined,
-          baslik: 'Destek',
-          onTap: () => _ac('$site/destek.html'),
-        ),
-        _Satir(
-          simge: Icons.description_outlined,
-          baslik: 'Lisanslar',
-          onTap: () => showLicensePage(
-            context: context,
-            applicationName: 'Antrenör',
-            applicationVersion: '1.0.0',
+        const _BolumBasligi('Tercihler'),
+        _Kart(children: [
+          _Satir(
+            simge: veri.koyuTema
+                ? Icons.dark_mode_rounded
+                : Icons.light_mode_rounded,
+            renk: Renkler.mevzuat,
+            baslik: 'Koyu tema',
+            alt: veri.koyuTema ? 'Açık' : 'Kapalı',
+            son: Switch(
+              value: veri.koyuTema,
+              onChanged: veri.temayiDegistir,
+              activeThumbColor: Renkler.kurs,
+            ),
           ),
-        ),
-        _Satir(
-          simge: Icons.cleaning_services_outlined,
-          baslik: 'Verileri sıfırla',
-          onTap: () => _sifirla(context),
-        ),
-        const SizedBox(height: 20),
-        const Padding(
-          padding: EdgeInsets.symmetric(horizontal: 18),
-          child: Text(
-            'Antrenör bağımsız bir duyuru uygulamasıdır; federasyonlarla resmî '
-            'bir bağlantısı yoktur. Duyurular kamuya açık resmî sayfalardan '
-            'derlenir, içeriğin resmî hâli kaynaktadır.',
-            style:
-                TextStyle(color: Renkler.metinSolgun, fontSize: 12, height: 1.5),
+          const _Ayrac(),
+          _Satir(
+            simge: Icons.star_rounded,
+            renk: Renkler.kurs,
+            baslik: 'Takip ettiğim federasyonlar',
+            alt: veri.takipEdilen.isEmpty
+                ? 'Henüz federasyon seçilmedi'
+                : '${veri.takipEdilen.length} federasyon',
+            onTap: federasyonlaraGit,
           ),
+          const _Ayrac(),
+          _Satir(
+            simge: Icons.notifications_active_rounded,
+            renk: Renkler.musabaka,
+            baslik: 'Bildirimler',
+            alt: veri.takipEdilen.isEmpty
+                ? 'Önce federasyon takip et'
+                : 'Takip ettiğin federasyonlarda yeni duyuru olunca haber ver',
+            onTap: () => _bildirimIzni(context),
+          ),
+        ]),
+        const _BolumBasligi('Uygulama'),
+        _Kart(children: [
+          _Satir(
+              simge: Icons.info_rounded,
+              renk: Renkler.duyuru,
+              baslik: 'Hakkında',
+              onTap: () => _hakkinda(context)),
+          const _Ayrac(),
+          _Satir(
+              simge: Icons.shield_rounded,
+              renk: Renkler.takvim,
+              baslik: 'Gizlilik Politikası',
+              onTap: () => _ac('$site/gizlilik.html')),
+          const _Ayrac(),
+          _Satir(
+              simge: Icons.delete_sweep_rounded,
+              renk: Renkler.duyuru,
+              baslik: 'Verilerin silinmesi',
+              onTap: () => _ac('$site/veri-silme.html')),
+          const _Ayrac(),
+          _Satir(
+              simge: Icons.support_agent_rounded,
+              renk: Renkler.duyuru,
+              baslik: 'Destek',
+              onTap: () => _ac('$site/destek.html')),
+          const _Ayrac(),
+          _Satir(
+              simge: Icons.article_rounded,
+              renk: Renkler.duyuru,
+              baslik: 'Lisanslar',
+              onTap: () => showLicensePage(
+                    context: context,
+                    applicationName: 'Antrenör',
+                    applicationVersion: '1.0.0',
+                  )),
+          const _Ayrac(),
+          _Satir(
+              simge: Icons.restart_alt_rounded,
+              renk: Renkler.duyuru,
+              baslik: 'Verileri sıfırla',
+              onTap: () => _sifirla(context)),
+        ]),
+        const SizedBox(height: 18),
+        Text(
+          'Antrenör bağımsız bir duyuru uygulamasıdır; federasyonlarla resmî '
+          'bir bağlantısı yoktur. Duyurular kamuya açık resmî sayfalardan '
+          'derlenir, içeriğin resmî hâli kaynaktadır.',
+          style: Yazi.kucuk.copyWith(height: 1.55),
         ),
-        const SizedBox(height: 30),
       ],
     );
   }
 
-  /// iOS ve Android 13+ izin ister. Neden istediğimizi önce açıklıyoruz:
-  /// sistem penceresi bir kez çıkıyor, reddedilirse geri dönüşü zor.
+  /// Sistem izin penceresinden önce nedenini açıklıyoruz: izin bir kez
+  /// soruluyor, reddedilirse geri dönüşü zor.
   Future<void> _bildirimIzni(BuildContext context) async {
     if (!Bildirim.hazir) {
       ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
@@ -124,23 +120,27 @@ class AyarlarEkrani extends StatelessWidget {
     final onay = await showDialog<bool>(
       context: context,
       builder: (c) => AlertDialog(
-        backgroundColor: Renkler.yuzey,
-        title: const Text('Bildirimlere izin ver',
-            style: TextStyle(color: Renkler.metin, fontSize: 17)),
-        content: const Text(
+        backgroundColor: Renkler.yuzeyYuksek,
+        shape: RoundedRectangleBorder(
+            borderRadius: BorderRadius.circular(Olcu.kartYaricap)),
+        title: Text('Bildirimlere izin ver', style: Yazi.baslik),
+        content: Text(
             'Takip ettiğin federasyonlarda yeni kurs, vize veya talimat '
             'yayımlandığında haber veririz. Sadece seçtiğin federasyonlar '
             'için bildirim gönderilir.',
-            style: TextStyle(color: Renkler.metinIkincil, fontSize: 14, height: 1.45)),
+            style: Yazi.govde),
         actions: [
           TextButton(
             onPressed: () => Navigator.pop(c, false),
-            child: const Text('Şimdi değil',
-                style: TextStyle(color: Renkler.metinIkincil)),
+            child: Text('Şimdi değil',
+                style: Yazi.govde.copyWith(color: Renkler.metinIkincil)),
           ),
-          TextButton(
+          FilledButton(
+            style: FilledButton.styleFrom(
+                backgroundColor: Renkler.kurs.withValues(alpha: 0.18),
+                foregroundColor: Renkler.kurs),
             onPressed: () => Navigator.pop(c, true),
-            child: const Text('İzin ver', style: TextStyle(color: Renkler.kurs)),
+            child: const Text('İzin ver'),
           ),
         ],
       ),
@@ -173,18 +173,19 @@ class AyarlarEkrani extends StatelessWidget {
   void _sifirla(BuildContext context) => showDialog(
         context: context,
         builder: (c) => AlertDialog(
-          backgroundColor: Renkler.yuzey,
-          title: const Text('Verileri sıfırla',
-              style: TextStyle(color: Renkler.metin, fontSize: 17)),
-          content: const Text(
+          backgroundColor: Renkler.yuzeyYuksek,
+          shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(Olcu.kartYaricap)),
+          title: Text('Verileri sıfırla', style: Yazi.baslik),
+          content: Text(
               'Takip listesi ve tercihler silinecek. Bu veriler yalnızca bu '
               'cihazda tutuluyor.',
-              style: TextStyle(color: Renkler.metinIkincil, fontSize: 14)),
+              style: Yazi.govde),
           actions: [
             TextButton(
               onPressed: () => Navigator.pop(c),
-              child: const Text('Vazgeç',
-                  style: TextStyle(color: Renkler.metinIkincil)),
+              child: Text('Vazgeç',
+                  style: Yazi.govde.copyWith(color: Renkler.metinIkincil)),
             ),
             TextButton(
               onPressed: () async {
@@ -193,43 +194,101 @@ class AyarlarEkrani extends StatelessWidget {
                 }
                 if (c.mounted) Navigator.pop(c);
               },
-              child: const Text('Sıfırla',
-                  style: TextStyle(color: Renkler.kurs)),
+              child:
+                  Text('Sıfırla', style: Yazi.govde.copyWith(color: Renkler.kurs)),
             ),
           ],
         ),
       );
 }
 
-class _Baslik extends StatelessWidget {
+class _BolumBasligi extends StatelessWidget {
   final String metin;
-  const _Baslik(this.metin);
+  const _BolumBasligi(this.metin);
 
   @override
   Widget build(BuildContext context) => Padding(
-        padding: const EdgeInsets.fromLTRB(18, 18, 18, 6),
-        child: Text(metin.toUpperCase(),
-            style: const TextStyle(
-                color: Renkler.metinSolgun,
-                fontSize: 11.5,
-                letterSpacing: 1.1,
-                fontWeight: FontWeight.w600)),
+        padding: const EdgeInsets.fromLTRB(4, 18, 4, 10),
+        child: Text(metin.toUpperCase(), style: Yazi.etiket),
+      );
+}
+
+class _Kart extends StatelessWidget {
+  final List<Widget> children;
+  const _Kart({required this.children});
+
+  @override
+  Widget build(BuildContext context) => Container(
+        decoration: kartYuzeyi(),
+        child: Column(children: children),
+      );
+}
+
+class _Ayrac extends StatelessWidget {
+  const _Ayrac();
+  @override
+  Widget build(BuildContext context) => const Padding(
+        padding: EdgeInsets.only(left: 58),
+        child: Divider(height: 1),
       );
 }
 
 class _Satir extends StatelessWidget {
   final IconData simge;
+  final Color renk;
   final String baslik;
-  final VoidCallback onTap;
-  const _Satir(
-      {required this.simge, required this.baslik, required this.onTap});
+  final String? alt;
+  final Widget? son;
+  final VoidCallback? onTap;
+
+  const _Satir({
+    required this.simge,
+    required this.renk,
+    required this.baslik,
+    this.alt,
+    this.son,
+    this.onTap,
+  });
 
   @override
-  Widget build(BuildContext context) => ListTile(
-        leading: Icon(simge, color: Renkler.metinIkincil),
-        title: Text(baslik,
-            style: const TextStyle(color: Renkler.metin, fontSize: 14.5)),
-        trailing: const Icon(Icons.chevron_right, color: Renkler.metinSolgun),
+  Widget build(BuildContext context) => InkWell(
         onTap: onTap,
+        borderRadius: BorderRadius.circular(Olcu.kartYaricap),
+        child: Padding(
+          padding: const EdgeInsets.fromLTRB(14, 13, 14, 13),
+          child: Row(
+            children: [
+              Container(
+                width: 32,
+                height: 32,
+                decoration: BoxDecoration(
+                  color: renk.withValues(alpha: 0.13),
+                  borderRadius: BorderRadius.circular(10),
+                ),
+                child: Icon(simge, size: 17, color: renk),
+              ),
+              const SizedBox(width: 12),
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(baslik,
+                        style: Yazi.govde.copyWith(
+                            color: Renkler.metin,
+                            fontSize: 15,
+                            fontWeight: FontWeight.w600)),
+                    if (alt != null) ...[
+                      const SizedBox(height: 2),
+                      Text(alt!, style: Yazi.kucuk),
+                    ],
+                  ],
+                ),
+              ),
+              son ??
+                  const Icon(Icons.chevron_right_rounded,
+                      color: Renkler.metinSolgun, size: 20),
+            ],
+          ),
+        ),
       );
 }

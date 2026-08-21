@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
+import '../parcalar/duyuru_karti.dart';
 import 'federasyon_detay.dart';
 
-/// Federasyonlar: 65 kurumun tamamı. Yıldız ile takibe alınır; takip edilenler
-/// akışta öne çıkar ve bildirim gönderilir. Karta dokununca federasyonun
-/// duyuru, takvim, mevzuat ve oyun kuralları sayfası açılır.
+/// Federasyonlar: 65 kurum kart listesinde. Yıldız takibe alır; karta
+/// dokununca federasyonun duyuru, takvim, mevzuat ve kural sayfası açılır.
 class FederasyonlarEkrani extends StatefulWidget {
   final Veri veri;
   const FederasyonlarEkrani({super.key, required this.veri});
@@ -35,93 +35,147 @@ class _FederasyonlarDurumu extends State<FederasyonlarEkrani> {
     return Column(
       children: [
         Padding(
-          padding: const EdgeInsets.fromLTRB(14, 10, 14, 8),
-          child: TextField(
-            style: const TextStyle(color: Renkler.metin, fontSize: 14.5),
-            decoration: InputDecoration(
-              hintText: 'Branş ara — ör. yüzme, hentbol',
-              hintStyle:
-                  const TextStyle(color: Renkler.metinSolgun, fontSize: 14),
-              prefixIcon: const Icon(Icons.search,
-                  size: 20, color: Renkler.metinSolgun),
-              filled: true,
-              fillColor: Renkler.yuzey,
-              contentPadding: const EdgeInsets.symmetric(vertical: 4),
-              border: OutlineInputBorder(
-                borderRadius: BorderRadius.circular(9),
-                borderSide: const BorderSide(color: Renkler.cizgi),
-              ),
-              enabledBorder: OutlineInputBorder(
-                borderRadius: BorderRadius.circular(9),
-                borderSide: const BorderSide(color: Renkler.cizgi),
-              ),
+          padding: const EdgeInsets.fromLTRB(Olcu.kenar, 4, Olcu.kenar, 10),
+          child: Container(
+            decoration: BoxDecoration(
+              color: Renkler.yuzey,
+              borderRadius: BorderRadius.circular(14),
+              border: Border.all(color: Renkler.cizgi),
             ),
-            onChanged: (d) => setState(() => _arama = d),
+            child: TextField(
+              style: Yazi.govde.copyWith(color: Renkler.metin, fontSize: 15),
+              decoration: InputDecoration(
+                hintText: 'Branş ara — yüzme, hentbol, atletizm…',
+                hintStyle: Yazi.govde.copyWith(color: Renkler.metinSolgun),
+                prefixIcon: const Icon(Icons.search_rounded,
+                    size: 20, color: Renkler.metinSolgun),
+                border: InputBorder.none,
+                contentPadding: const EdgeInsets.symmetric(vertical: 14),
+              ),
+              onChanged: (d) => setState(() => _arama = d),
+            ),
           ),
         ),
-        Row(
-          children: [
-            const SizedBox(width: 14),
-            FilterChip(
-              label: Text('Takip ettiklerim (${veri.takipEdilen.length})'),
-              selected: _sadeceTakip,
-              onSelected: (d) => setState(() => _sadeceTakip = d),
-              backgroundColor: Renkler.yuzey,
-              selectedColor: Renkler.kurs.withValues(alpha: 0.16),
-              checkmarkColor: Renkler.kurs,
-              labelStyle: TextStyle(
-                  color: _sadeceTakip ? Renkler.kurs : Renkler.metinIkincil,
-                  fontSize: 12.5),
-              side: BorderSide(
-                  color: _sadeceTakip
-                      ? Renkler.kurs.withValues(alpha: 0.4)
-                      : Renkler.cizgi),
-            ),
-            const Spacer(),
-            Padding(
-              padding: const EdgeInsets.only(right: 16),
-              child: Text('${liste.length} kurum',
-                  style: const TextStyle(
-                      color: Renkler.metinSolgun, fontSize: 12.5)),
-            ),
-          ],
-        ),
-        const SizedBox(height: 4),
-        Expanded(
-          child: ListView.builder(
-            itemCount: liste.length,
-            itemBuilder: (_, i) {
-              final f = liste[i];
-              final takipte = veri.takipEdilen.contains(f.slug);
-              return ListTile(
-                title: Text(f.etiket,
-                    style:
-                        const TextStyle(color: Renkler.metin, fontSize: 15)),
-                subtitle: Text(
-                  [
-                    if (f.olimpik) 'Olimpik',
-                    if (f.para) 'Paralimpik',
-                    '${f.duyuruSayisi} duyuru',
-                  ].join(' · '),
-                  style: const TextStyle(
-                      color: Renkler.metinSolgun, fontSize: 12.5),
+        Padding(
+          padding: const EdgeInsets.symmetric(horizontal: Olcu.kenar),
+          child: Row(
+            children: [
+              GestureDetector(
+                onTap: () => setState(() => _sadeceTakip = !_sadeceTakip),
+                child: AnimatedContainer(
+                  duration: const Duration(milliseconds: 160),
+                  padding: const EdgeInsets.symmetric(
+                      horizontal: 13, vertical: 8),
+                  decoration: BoxDecoration(
+                    color: _sadeceTakip
+                        ? Renkler.kurs.withValues(alpha: 0.16)
+                        : Renkler.yuzey,
+                    borderRadius: BorderRadius.circular(22),
+                    border: Border.all(
+                        color: _sadeceTakip
+                            ? Renkler.kurs.withValues(alpha: 0.45)
+                            : Renkler.cizgi),
+                  ),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Icon(
+                          _sadeceTakip
+                              ? Icons.star_rounded
+                              : Icons.star_border_rounded,
+                          size: 15,
+                          color: _sadeceTakip
+                              ? Renkler.kurs
+                              : Renkler.metinSolgun),
+                      const SizedBox(width: 6),
+                      Text('Takip ettiklerim  ${veri.takipEdilen.length}',
+                          style: Yazi.govde.copyWith(
+                              fontSize: 13,
+                              fontWeight: FontWeight.w600,
+                              color: _sadeceTakip
+                                  ? Renkler.kurs
+                                  : Renkler.metinIkincil)),
+                    ],
+                  ),
                 ),
-                trailing: IconButton(
-                  icon: Icon(takipte ? Icons.star : Icons.star_border,
-                      color: takipte ? Renkler.kurs : Renkler.metinSolgun,
-                      size: 22),
-                  tooltip: takipte ? 'Takibi bırak' : 'Takip et',
-                  onPressed: () async {
-                    await veri.takibiDegistir(f.slug);
-                    if (mounted) setState(() {});
+              ),
+              const Spacer(),
+              Text('${liste.length} KURUM', style: Yazi.etiket),
+            ],
+          ),
+        ),
+        const SizedBox(height: 12),
+        Expanded(
+          child: liste.isEmpty
+              ? const Center(child: Text('Sonuç yok', style: Yazi.govde))
+              : ListView.builder(
+                  padding: const EdgeInsets.only(bottom: 12),
+                  itemCount: liste.length,
+                  itemBuilder: (_, i) {
+                    final f = liste[i];
+                    final takipte = veri.takipEdilen.contains(f.slug);
+                    return Padding(
+                      padding: const EdgeInsets.fromLTRB(
+                          Olcu.kenar, 0, Olcu.kenar, 10),
+                      child: GestureDetector(
+                        onTap: () => Navigator.of(context).push(
+                            MaterialPageRoute(
+                                builder: (_) => FederasyonDetay(
+                                    veri: veri, federasyon: f))),
+                        child: Container(
+                          decoration: kartYuzeyi(
+                              vurgu: takipte
+                                  ? Renkler.federasyonRengi(f.slug)
+                                  : null),
+                          padding:
+                              const EdgeInsets.fromLTRB(14, 12, 8, 12),
+                          child: Row(
+                            children: [
+                              FederasyonRozeti(slug: f.slug, ad: f.etiket),
+                              const SizedBox(width: 12),
+                              Expanded(
+                                child: Column(
+                                  crossAxisAlignment:
+                                      CrossAxisAlignment.start,
+                                  children: [
+                                    Text(f.etiket,
+                                        style: Yazi.kartBaslik
+                                            .copyWith(fontSize: 15.5)),
+                                    const SizedBox(height: 3),
+                                    Text(
+                                      [
+                                        if (f.olimpik) 'Olimpik',
+                                        if (f.para) 'Paralimpik',
+                                        '${f.duyuruSayisi} duyuru',
+                                      ].join('  ·  '),
+                                      style: Yazi.kucuk,
+                                    ),
+                                  ],
+                                ),
+                              ),
+                              IconButton(
+                                icon: Icon(
+                                    takipte
+                                        ? Icons.star_rounded
+                                        : Icons.star_border_rounded,
+                                    color: takipte
+                                        ? Renkler.kurs
+                                        : Renkler.metinSolgun,
+                                    size: 23),
+                                tooltip:
+                                    takipte ? 'Takibi bırak' : 'Takip et',
+                                onPressed: () async {
+                                  await veri.takibiDegistir(f.slug);
+                                  if (context.mounted) setState(() {});
+                                },
+                              ),
+                            ],
+                          ),
+                        ),
+                      ),
+                    );
                   },
                 ),
-                onTap: () => Navigator.of(context).push(MaterialPageRoute(
-                    builder: (_) =>
-                        FederasyonDetay(veri: veri, federasyon: f))),
-              );
-            },
-          ),
         ),
       ],
     );

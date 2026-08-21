@@ -181,7 +181,7 @@ def main() -> None:
         print("yazildi:", ad)
 
     # Android uyarlanabilir simge: gorsel guvenli alanda kalmali
-    amblem(432, dolgu=0.50, seffaf=True).save(BURASI / "adaptive-foreground.png")
+    amblem(432, dolgu=0.58, seffaf=True).save(BURASI / "adaptive-foreground.png")
     Image.new("RGB", (432, 432), ZEMIN).save(BURASI / "adaptive-background.png")
     print("yazildi: adaptive-foreground.png + adaptive-background.png")
 

@@ -1,14 +1,32 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-21T03:17:08+00:00",
+ "generated_at": "2026-08-21T05:04:40+00:00",
  "total": 1449,
  "new_in_last_run": 0,
- "sources_ok": 63,
+ "sources_ok": 48,
  "sources_failed": [
+  "atletizm",
   "basketbol",
-  "okculuk"
+  "bisiklet",
+  "boks",
+  "dagcilik",
+  "danssporlari",
+  "gelismekteolan",
+  "gormeengelliler",
+  "havasporlari",
+  "herkesicinspor",
+  "hokey",
+  "isitmeengelliler",
+  "kano",
+  "masatenisi",
+  "okculuk",
+  "satranc",
+  "sualti",
+  "vucutgelistirme"
  ],
- "sources_empty": [],
+ "sources_empty": [
+  "bric"
+ ],
  "sources_missing": [],
  "partial_run": null,
  "latest_published_at": "2026-08-20T21:37:46+00:00",

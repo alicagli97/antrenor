@@ -1,5 +1,22 @@
 [
  {
+  "id": "715287668e9b0368",
+  "federation": "halter",
+  "federation_name": "Türkiye Halter Federasyonu",
+  "federation_short": "THF",
+  "title": "GENÇ KULÜPLER TÜRKİYE HALTER ŞAMPİYONASI (K-E)REGLAMAN DUYURUSU",
+  "url": "https://halter.gov.tr/genc-kulupler-turkiye-halter-sampiyonasi-k-ereglaman-duyurusu/",
+  "summary": "15-20 Eylül 2026 tarihleri arasında Konya Karatay Spor ve Kongre Merkezi Spor Salonunda yapılacak olan Genç Kulüpler Türkiye Halter Şampiyonası Reglamanı aşağıya çıkarılmıştır.",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-21T12:22:08+00:00",
+  "first_seen_at": "2026-08-21T13:08:12+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "21a2bc158b0794df",
   "federation": "gelismekteolan",
   "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
@@ -15,6 +32,23 @@
   "published_at": "2026-08-21T08:55:18+00:00",
   "first_seen_at": "2026-08-21T08:55:18+00:00",
   "source": "html"
+ },
+ {
+  "id": "4fbdb17a6228bb7a",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "Veteranlar Dünya Şampiyonası Katılımı Hakkında",
+  "url": "https://tgf.tr/2026/08/21/veteranlar-dunya-sampiyonasi-katilimi-hakkinda/",
+  "summary": "06-12 Ekim 2026 tarihleri arasında Ürdün’ün Amman kentinde düzenlenecek olan Veteranlar Güreş Dünya Şampiyonası’na katılmak isteyen kişilerin, duyuruda",
+  "image": "https://tgf.tr/wp-content/uploads/2025/07/TGF-Duyuru.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-21T00:04:00+00:00",
+  "first_seen_at": "2026-08-21T13:08:12+00:00",
+  "source": "wp_json"
  },
  {
   "id": "ea9f43a2926a8383",
@@ -3389,40 +3423,6 @@
    "musabaka"
   ],
   "published_at": "2026-08-02T07:00:10",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "wp_json"
- },
- {
-  "id": "55546af7867c898d",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Avrupa Atletizm Şampiyonası’na rekor katılım!",
-  "url": "https://taf.org.tr/avrupa-atletizm-sampiyonasina-rekor-katilim/",
-  "summary": "İngiltere’nin Birmingham şehrinde düzenlenecek olan Avrupa Atletizm Şampiyonası’na Türkiye, tarihinin en kalabalık sporcu grubuyla katılma hakkı elde etti. 🇹🇷10-16 Ağustos tarihleri arasında düzenlenecek şampiyonada ülkemizi 31 erkek ve 19 kadın olmak üzere 50 atletimiz temsil edecek. Türkiye, 50 sporcuyla şampiyona tarihindeki katılım sayısı rekorunu da kırmış oldu. Daha önceki rekor 2016 yılında 46 sporcuydu.🌍Türkiye, ilk […]",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-01-at-12.53.25.jpeg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-01T10:39:45",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "wp_json"
- },
- {
-  "id": "f8f82e79a2ff69e6",
-  "federation": "bisiklet",
-  "federation_name": "Türkiye Bisiklet Federasyonu",
-  "federation_short": "TBF",
-  "title": "YOL BİSİKLETİ | Yeşilay Türkiye Yol Şampiyonası Yarışları 18-20 Ağustos 2026 / BURDUR",
-  "url": "https://bisiklet.org.tr/yol-bisikleti-yesilay-turkiye-yol-sampiyonasi-yarislari-25-28-haziran-2026-siirt-2/",
-  "summary": "Federasyonumuzun 2026 yılı faaliyet programında yer alan Yeşilay Türkiye Yol Şampiyonası Yarışları 18-20 Ağustos 2026 tarihleri arasında Burdur İlinde bireysel zamana karşı ve yol yarışı olarak yapılacaktır. Yarışların kayıtları Federasyonumuz web sitesi TBF Portal portal.bisiklet.org.tr üzerinden yapılacak olup, ekte yer alan harcırah formunun harcırah işlemleri yapılabilmesi için teknik toplantıda imzalı olarak teslim edilmesi gerekmektedir. Yarışa…",
-  "image": "https://bisiklet.org.tr/wp-content/uploads/2026/03/Yol_Yarisi_Gorsel-scaled.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-07-31T12:10:21",
   "first_seen_at": "2026-08-19T21:45:48",
   "source": "wp_json"
  }

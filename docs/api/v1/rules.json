@@ -1,10 +1,12 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-21T11:36:41+00:00",
+ "generated_at": "2026-08-21T13:06:41+00:00",
  "total_libraries": 49,
- "total_documents": 1423,
- "coach_documents": 380,
- "changed_in_last_run": [],
+ "total_documents": 1411,
+ "coach_documents": 374,
+ "changed_in_last_run": [
+  "eskrim"
+ ],
  "libraries": [
   {
    "federation": "aticilik",
@@ -14,165 +16,95 @@
     "https://www.taf.gov.tr/tr/talimatlar",
     "https://www.taf.gov.tr/tr/issf-kurallari"
    ],
-   "document_count": 30,
-   "coach_document_count": 8,
+   "document_count": 21,
+   "coach_document_count": 5,
    "documents": [
     {
-     "baslik": "-01 HAVALI VE ATEŞLİ SİLAHLAR HAKEM, JÜRİ VE GÖZLEMCİ TALİMATI (21.05.2025)",
+     "baslik": "HAVALI VE ATEŞLİ SİLAHLAR HAKEM, JÜRİ VE GÖZLEMCİ TALİMATI (21.05.2025)",
      "url": "https://www.taf.gov.tr/uploads/files/HavaliAtesliHJGTalimati.pdf",
      "tur": "pdf",
      "onemli": true,
      "parmak_izi": ""
     },
     {
-     "baslik": "-02 PLAK ATIŞLARI HAKEM, JÜRİ VE GÖZLEMCİ TALİMATI (21.05.2025)",
-     "url": "https://www.taf.gov.tr/uploads/files/PlakAtislariHGJTalimati.pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "01- SPOR DALI TESCİL TALİMATI (30.10.2024)",
-     "url": "https://www.taf.gov.tr/uploads/files/SPOR%20DALI%20TESCIL%20TALIMATI.pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "03- ANTRENÖR EĞİTİMİ TALİMATI (27.09.2023)",
-     "url": "https://www.taf.gov.tr/uploads/files/Antrenor_Egtm_Talmat.pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "04- SPORCU LİSANS, VİZE VE TRANSFER TALİMATI (04.10.2022)",
-     "url": "https://www.taf.gov.tr/uploads/files/AticilikveAvcilikFed._1.pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "11- KULÜP AKREDİTASYON TALİMATI (28.03.2018)",
+     "baslik": "KULÜP AKREDİTASYON TALİMATI (28.03.2018)",
      "url": "https://www.taf.gov.tr/uploads/files/97773Kulp_Akreditasyon_Talimat-.pdf",
      "tur": "pdf",
      "onemli": true,
      "parmak_izi": ""
     },
     {
-     "baslik": "14- PLAK ATIŞLARI HAKEM-JÜRİ VE GÖZLEMCİ TALİMATI (03.03.2017)",
-     "url": "https://www.taf.gov.tr/uploads/files/PLAK_ATISLARI_HAKEM_JURI.pdf",
+     "baslik": "PLAK ATIŞLARI HAKEM, JÜRİ VE GÖZLEMCİ TALİMATI (21.05.2025)",
+     "url": "https://www.taf.gov.tr/uploads/files/PlakAtislariHGJTalimati.pdf",
      "tur": "pdf",
      "onemli": true,
      "parmak_izi": ""
     },
     {
-     "baslik": "15- HAVALI ATEŞLİ SİLAHLAR HAKEM-JÜRİ VE GÖZLEMCİ TALİMATI (03.03.2017)",
-     "url": "https://www.taf.gov.tr/uploads/files/HAVALI_ATEL_HAKEM_JURI_GOZLEMCI.pdf",
+     "baslik": "SPOR DALI TESCİL TALİMATI (30.10.2024)",
+     "url": "https://www.taf.gov.tr/uploads/files/SPOR%20DALI%20TESCIL%20TALIMATI.pdf",
      "tur": "pdf",
      "onemli": true,
      "parmak_izi": ""
     },
     {
-     "baslik": "00- MİLLİ TAKIM BELİRLEME KRİTERLERİ TALİMATI (14.03.2025)",
-     "url": "https://www.taf.gov.tr/uploads/files/95826M%C4%B0LL%C4%B0%20SPORCU%20BEL%C4%B0RLEME%20KR%C4%B0TERLER%C4%B0%20TAL%C4%B0MATI.pdf",
+     "baslik": "SPORCU LİSANS, VİZE VE TRANSFER TALİMATI (04.10.2022)",
+     "url": "https://www.taf.gov.tr/uploads/files/AticilikveAvcilikFed._1.pdf",
      "tur": "pdf",
-     "onemli": false,
+     "onemli": true,
      "parmak_izi": ""
     },
     {
-     "baslik": "02- ATICILIK YARIŞMA TALİMATINDA DEĞİŞİKLİK YAPILMASINA DAİR TALİMAT (25.04.2024)",
-     "url": "https://www.taf.gov.tr/uploads/files/ATICILIK%20YARI%C5%9EMA%20TAL%C4%B0MATINDA%20DE%C4%9E%C4%B0%C5%9E%C4%B0KL%C4%B0K%20YAPILMASINA%20DA%C4%B0R%20TAL%C4%B0MAT.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "05- ATICILIK YARIŞMA TALİMATI (04.05.2021)",
-     "url": "https://www.taf.gov.tr/uploads/files/83092aticilik_yarisma_talimati.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "06- POLİGONLAR VE SPOR TESİSLERİ YETERLİLİK TALİMATI (08.11.2019)",
-     "url": "https://www.taf.gov.tr/uploads/files/YETERLLK_TALMATI.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "07- İL TEMSİLCİSİ TALİMATI (25.10.2018)",
-     "url": "https://www.taf.gov.tr/uploads/files/83765il_temsilcisi.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "08- KAMP TALİMATI (16.08.2018)",
-     "url": "https://www.taf.gov.tr/uploads/files/77422KAMP_TALMATI.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "09- TAŞINIR MAL İŞLEMLERİ TALİMATI (16.08.2018)",
-     "url": "https://www.taf.gov.tr/uploads/files/48187tanr_mal_ilemleri.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "10- DİSİPLİN VE CEZA TALİMATI (28.03.2018)",
-     "url": "https://www.taf.gov.tr/uploads/files/26138Disiplin_ve_Ceza_Talimat_2.compressed-min.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "12- SPOR FAALİYETLERİNDE KULLANILAN SİLAHLARIN BELGELENDİRİLMESİ VE TAŞINMASI TALİMATI (26.01.2018)",
-     "url": "https://www.taf.gov.tr/uploads/files/SPOR_FAALYETLERNDE_KULLANILAN_SLAHLAR_HK.TALMAT-min.compressed.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "13- YAN KURULLAR GÖREV YETKİ VE SORUMLULUK TALİMATI (08.05.2017)",
-     "url": "https://www.taf.gov.tr/uploads/files/Yan_Kurullar_Grev_Yetki_ve_Sorumluluk_Talimat.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "16- MÜSABAKA VE ANTRENMANLARDA UYGULANACAK ATIŞ EMNİYET VE GÜVENLİK TALİMATI (07.02.2017)",
-     "url": "https://www.taf.gov.tr/uploads/files/Atis_emniyet_ve_gvenlik_talimat.compressed.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "17- AVCIBAŞI MÜSABAKA TALİMATI (04.06.2015)",
+     "baslik": "AVCIBAŞI MÜSABAKA TALİMATI (04.06.2015)",
      "url": "https://www.taf.gov.tr/uploads/files/AVCIBAI%20MSABAKA%20TALMATI%2004.06.2015.pdf",
      "tur": "pdf",
      "onemli": false,
      "parmak_izi": ""
     },
     {
-     "baslik": "18- SATINALMA VE İHALE TALİMATI (05.05.2015)",
-     "url": "https://www.taf.gov.tr/uploads/files/30457Trkiye%20Atclk%20ve%20Avclk%20Satn%20Alma%20ve%20hale%20Talimat.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "19- BÜTÇE VE MUHASEBE TALİMATI (18.02.2008)",
+     "baslik": "BÜTÇE VE MUHASEBE TALİMATI (18.02.2008)",
      "url": "https://www.taf.gov.tr/uploads/files/butce%20ve%20muhasebe%20talimati%20.pdf",
      "tur": "pdf",
      "onemli": false,
      "parmak_izi": ""
     },
     {
-     "baslik": "20- SÖZLEŞMELİ PERSONEL ÇALIŞTIRILMASI HAKKINDA TALİMAT",
+     "baslik": "DİSİPLİN VE CEZA TALİMATI (28.03.2018)",
+     "url": "https://www.taf.gov.tr/uploads/files/26138Disiplin_ve_Ceza_Talimat_2.compressed-min.pdf",
+     "tur": "pdf",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "MİLLİ TAKIM BELİRLEME KRİTERLERİ TALİMATI (14.03.2025)",
+     "url": "https://www.taf.gov.tr/uploads/files/95826M%C4%B0LL%C4%B0%20SPORCU%20BEL%C4%B0RLEME%20KR%C4%B0TERLER%C4%B0%20TAL%C4%B0MATI.pdf",
+     "tur": "pdf",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "MÜSABAKA VE ANTRENMANLARDA UYGULANACAK ATIŞ EMNİYET VE GÜVENLİK TALİMATI (07.02.2017)",
+     "url": "https://www.taf.gov.tr/uploads/files/Atis_emniyet_ve_gvenlik_talimat.compressed.pdf",
+     "tur": "pdf",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "POLİGONLAR VE SPOR TESİSLERİ YETERLİLİK TALİMATI (08.11.2019)",
+     "url": "https://www.taf.gov.tr/uploads/files/YETERLLK_TALMATI.pdf",
+     "tur": "pdf",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "SPOR FAALİYETLERİNDE KULLANILAN SİLAHLARIN BELGELENDİRİLMESİ VE TAŞINMASI TALİMATI (26.01.2018)",
+     "url": "https://www.taf.gov.tr/uploads/files/SPOR_FAALYETLERNDE_KULLANILAN_SLAHLAR_HK.TALMAT-min.compressed.pdf",
+     "tur": "pdf",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "SÖZLEŞMELİ PERSONEL ÇALIŞTIRILMASI HAKKINDA TALİMAT",
      "url": "https://www.taf.gov.tr/uploads/files/sozlesmeli%20personel%20calistirilmasi%20talimati.pdf",
      "tur": "pdf",
      "onemli": false,
@@ -184,6 +116,13 @@
      "tur": "html",
      "onemli": false,
      "parmak_izi": "3c13981fceec09c6"
+    },
+    {
+     "baslik": "TAŞINIR MAL İŞLEMLERİ TALİMATI (16.08.2018)",
+     "url": "https://www.taf.gov.tr/uploads/files/48187tanr_mal_ilemleri.pdf",
+     "tur": "pdf",
+     "onemli": false,
+     "parmak_izi": ""
     },
     {
      "baslik": "Yönetmelik",
@@ -228,8 +167,8 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-08-21T11:36:29+00:00",
-   "list_fingerprint": "e9f9af016fd9d772"
+   "checked_at": "2026-08-21T13:05:37+00:00",
+   "list_fingerprint": "6843a37da829b58d"
   },
   {
    "federation": "atletizm",
@@ -537,7 +476,7 @@
      "parmak_izi": "35ff73106eebd751"
     }
    ],
-   "checked_at": "2026-08-21T11:36:30+00:00",
+   "checked_at": "2026-08-21T13:05:39+00:00",
    "list_fingerprint": "cfd9beec3daf6332"
   },
   {
@@ -727,7 +666,7 @@
      "parmak_izi": "1ded677f9cd2c0e9"
     }
    ],
-   "checked_at": "2026-08-21T11:36:28+00:00",
+   "checked_at": "2026-08-21T13:05:36+00:00",
    "list_fingerprint": "9fae76e7066a9fb2"
   },
   {
@@ -763,7 +702,7 @@
      "parmak_izi": "dfde645582345636"
     }
    ],
-   "checked_at": "2026-08-21T11:36:36+00:00",
+   "checked_at": "2026-08-21T13:05:44+00:00",
    "list_fingerprint": "29df04c04d00cc58"
   },
   {
@@ -819,7 +758,7 @@
      "parmak_izi": "15a06ec1a7f85e0a"
     }
    ],
-   "checked_at": "2026-08-21T11:36:36+00:00",
+   "checked_at": "2026-08-21T13:05:44+00:00",
    "list_fingerprint": "bf55011e1e2eed02"
   },
   {
@@ -848,7 +787,7 @@
      "parmak_izi": "010ee34acb611b77"
     }
    ],
-   "checked_at": "2026-08-21T11:36:34+00:00",
+   "checked_at": "2026-08-21T13:05:41+00:00",
    "list_fingerprint": "2d67975cd87fce37"
   },
   {
@@ -1059,7 +998,7 @@
      "parmak_izi": "09b5bd0254ea1ec2"
     }
    ],
-   "checked_at": "2026-08-21T11:36:29+00:00",
+   "checked_at": "2026-08-21T13:05:37+00:00",
    "list_fingerprint": "b45110ff6781018b"
   },
   {
@@ -1290,7 +1229,7 @@
      "parmak_izi": "141cc341056e17e4"
     }
    ],
-   "checked_at": "2026-08-21T11:36:27+00:00",
+   "checked_at": "2026-08-21T13:05:36+00:00",
    "list_fingerprint": "6ff9a03ef47bdc7e"
   },
   {
@@ -1613,7 +1552,7 @@
      "parmak_izi": "5cae72e0996685df"
     }
    ],
-   "checked_at": "2026-08-21T11:36:34+00:00",
+   "checked_at": "2026-08-21T13:05:42+00:00",
    "list_fingerprint": "7b5ec3292ac1b4e8"
   },
   {
@@ -1754,7 +1693,7 @@
      "parmak_izi": "294dce8aa68a83c1"
     }
    ],
-   "checked_at": "2026-08-21T11:36:26+00:00",
+   "checked_at": "2026-08-21T13:05:35+00:00",
    "list_fingerprint": "df2826564459a1e8"
   },
   {
@@ -2063,7 +2002,7 @@
      "parmak_izi": "1d866b849d990ae1"
     }
    ],
-   "checked_at": "2026-08-21T11:36:34+00:00",
+   "checked_at": "2026-08-21T13:05:41+00:00",
    "list_fingerprint": "20fcc12a1801473d"
   },
   {
@@ -2232,7 +2171,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-08-21T11:36:31+00:00",
+   "checked_at": "2026-08-21T13:05:40+00:00",
    "list_fingerprint": "b144fed9e9029429"
   },
   {
@@ -2632,7 +2571,7 @@
      "parmak_izi": "48da4e10b135dde1"
     }
    ],
-   "checked_at": "2026-08-21T11:36:34+00:00",
+   "checked_at": "2026-08-21T13:05:42+00:00",
    "list_fingerprint": "848aa56c4eefb319"
   },
   {
@@ -2927,7 +2866,7 @@
      "parmak_izi": "22c93a44910c3961"
     }
    ],
-   "checked_at": "2026-08-21T11:36:38+00:00",
+   "checked_at": "2026-08-21T13:05:46+00:00",
    "list_fingerprint": "ac40349471b189df"
   },
   {
@@ -2938,8 +2877,8 @@
     "https://www.eskrim.org.tr/mevzuat-66.html",
     "https://www.eskrim.org.tr/u10-u12-u14-kilic-federasyon-kupasi-talimati-16-18-ekim-2026-samsun-2602.html"
    ],
-   "document_count": 32,
-   "coach_document_count": 12,
+   "document_count": 29,
+   "coach_document_count": 9,
    "documents": [
     {
      "baslik": "Antrenör Eğitim Talimatı ( 29.05.2025 )",
@@ -2991,32 +2930,11 @@
      "parmak_izi": "31789ace8fdb0fae"
     },
     {
-     "baslik": "Türkiye Eskrim Federasyonu Milli Takım Sporcularının Belirlenmesi ve Temsil Görevi Verilmesi Talimatı(04.08.2025)",
-     "url": "https://www.eskrim.org.tr/resim/extra/Klasmanlar/25_26/talimatlar/MilliTakimSporcularininBelirlenmesi.pdf",
+     "baslik": "Türkiye Eskrim Federasyonu Milli Takım Sporcularının Belirlenmesi ve Temsil Görevi Verilmesi Talimatı(21.08.2026)",
+     "url": "https://shgm.gsb.gov.tr/Public/images/SGM/Federasyon/96417Türkiye%20Eskrim%20Federasyonu%20Milli%20Takım%20Sporcularının%20Belirlenmesi%20ve%20Temsil%20Görevi%20Verilmesi%20Talimatı.pdf",
      "tur": "pdf",
      "onemli": true,
-     "parmak_izi": "31789ace8fdb0fae"
-    },
-    {
-     "baslik": "Türkiye Eskrim Federasyonu Milli Takım Sporcularının Belirlenmesi ve Temsil Görevi Verilmesi Talimatında Değişiklik Yapılmasına Dair Talimat",
-     "url": "https://www.eskrim.org.tr/resim/extra/ebru_haber/17817T%C3%BCrkiye%20Eskrim%20Federasyonu%20Milli%20Tak%C4%B1m%20Sporcular%C4%B1n%C4%B1n%20Belirlenmesi%20ve%20Temsil%20G%C3%B6revi%20Verilmesi%20Talimat%C4%B1nda%20De%C4%9Fi%C5%9Fiklik%20Yap%C4%B1lmas%C4%B1na%20Dair%20Talimat.pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": "adc83b19e793491b"
-    },
-    {
-     "baslik": "Türkiye Eskrim Federasyonu Milli Takım Sporcularının Belirlenmesi ve Temsil Görevi Verilmesi Talimatında Değişiklik Yapılmasına Dair Talimat (22.06.2026)",
-     "url": "https://www.eskrim.org.tr/resim/extra/T%C3%BCrkiye%20Eskrim%20Federasyonu%20Milli%20Tak%C4%B1m%20Sporcular%C4%B1n%C4%B1n%20Belirlenmesi%20ve%20Temsil%20G%C3%B6revi%20Verilmesi%20Talimat%C4%B1nda%20De%C4%9Fi%C5%9Fiklik%20Yap%C4%B1lmas%C4%B1na%20Dair%20Talimat%20(22.06.2026).pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": "620e342a2bbce89e"
-    },
-    {
-     "baslik": "Türkiye Eskrim Federasyonu Milli Takım Sporcularının Belirlenmesi ve Temsil Görevi Verilmesi Talimatında Değişiklik Yapılmasına Dair Talimat (24.11.2025)",
-     "url": "https://www.eskrim.org.tr/resim/extra/Klasmanlar/25_26/talimatlar/T%C3%BCrkiye%20Eskrim%20Federasyonu%20Milli%20Tak%C4%B1m%20Sporcular%C4%B1n%C4%B1n%20Belirlenmesi%20ve%20Temsil%20G%C3%B6revi%20Verilmesi%20Talimat%C4%B1nda%20De%C4%9Fi%C5%9Fiklik%20Yap%C4%B1lmas%C4%B1na%20Dair%20Talimat%202.pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": "14701657aa26fb1c"
+     "parmak_izi": ""
     },
     {
      "baslik": "» Türkiye Eskrim Federasyonu ve Nişantaşı Üniversitesi Eğitimde İş Birliği Protokolü hk.",
@@ -3103,11 +3021,11 @@
      "parmak_izi": "10116dc30a2beb58"
     },
     {
-     "baslik": "Türkiye Eskrim Federasyonu Eskrim Teknik Talimatı ( 04.08.2025 )",
-     "url": "https://www.eskrim.org.tr/resim/extra/Klasmanlar/25_26/talimatlar/T%C3%BCrkiye_Eskrim_Federasyonu_Eskrim_Teknik_Talimat%C4%B1_04_08.pdf",
+     "baslik": "Türkiye Eskrim Federasyonu Eskrim Teknik Talimatı ( 21.08.2026 )",
+     "url": "https://shgm.gsb.gov.tr/Public/images/SGM/Federasyon/28621Türkiye%20Eskrim%20Federasyonu%20Eskrim%20Teknik%20Talimatı.pdf",
      "tur": "pdf",
      "onemli": false,
-     "parmak_izi": "c7f8b6712e3fc3f4"
+     "parmak_izi": ""
     },
     {
      "baslik": "Türkiye Eskrim Federasyonu Hizmet Pasaportu Kullandırılması Talimatı ( 16.02.2026 )",
@@ -3166,8 +3084,8 @@
      "parmak_izi": "395d953a2a8017e7"
     }
    ],
-   "checked_at": "2026-08-21T11:36:30+00:00",
-   "list_fingerprint": "cadf88ef0b11e1d0"
+   "checked_at": "2026-08-21T13:05:38+00:00",
+   "list_fingerprint": "b6b6188dff06746e"
   },
   {
    "federation": "gelenekselguresler",
@@ -3440,7 +3358,7 @@
      "parmak_izi": "4e5a9989032ef6be"
     }
    ],
-   "checked_at": "2026-08-21T11:36:37+00:00",
+   "checked_at": "2026-08-21T13:05:45+00:00",
    "list_fingerprint": "3429db0306ba9776"
   },
   {
@@ -3587,7 +3505,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-08-21T11:36:38+00:00",
+   "checked_at": "2026-08-21T13:05:46+00:00",
    "list_fingerprint": "f18c27cb5af426eb"
   },
   {
@@ -3805,7 +3723,7 @@
      "parmak_izi": "4055b2570944027a"
     }
    ],
-   "checked_at": "2026-08-21T11:36:39+00:00",
+   "checked_at": "2026-08-21T13:05:47+00:00",
    "list_fingerprint": "a4e6bdec9475009b"
   },
   {
@@ -4016,7 +3934,7 @@
      "parmak_izi": "a46598ff17627baf"
     }
    ],
-   "checked_at": "2026-08-21T11:36:33+00:00",
+   "checked_at": "2026-08-21T13:05:41+00:00",
    "list_fingerprint": "7421ac0d16825275"
   },
   {
@@ -5011,7 +4929,7 @@
      "parmak_izi": "adc83b19e793491b"
     }
    ],
-   "checked_at": "2026-08-21T11:36:26+00:00",
+   "checked_at": "2026-08-21T13:05:35+00:00",
    "list_fingerprint": "317067a82e632f1f"
   },
   {
@@ -5201,7 +5119,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-08-21T11:36:41+00:00",
+   "checked_at": "2026-08-21T13:05:48+00:00",
    "list_fingerprint": "b76b9227ba350596"
   },
   {
@@ -5264,7 +5182,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-08-21T11:36:37+00:00",
+   "checked_at": "2026-08-21T13:05:44+00:00",
    "list_fingerprint": "e9b02385c685a478"
   },
   {
@@ -5517,7 +5435,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-08-21T11:36:37+00:00",
+   "checked_at": "2026-08-21T13:05:45+00:00",
    "list_fingerprint": "04034845fb8817a0"
   },
   {
@@ -5700,7 +5618,7 @@
      "parmak_izi": "538e43c5c02c45f4"
     }
    ],
-   "checked_at": "2026-08-21T11:36:36+00:00",
+   "checked_at": "2026-08-21T13:05:44+00:00",
    "list_fingerprint": "9c093fdcef44af52"
   },
   {
@@ -5903,7 +5821,7 @@
      "parmak_izi": "dea9b7e4e23f32a9"
     }
    ],
-   "checked_at": "2026-08-21T11:36:40+00:00",
+   "checked_at": "2026-08-21T13:05:47+00:00",
    "list_fingerprint": "3645d6874a020c3c"
   },
   {
@@ -6197,7 +6115,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-08-21T11:36:24+00:00",
+   "checked_at": "2026-08-21T13:05:33+00:00",
    "list_fingerprint": "dbf5bb0383c0a77f"
   },
   {
@@ -6450,7 +6368,7 @@
      "parmak_izi": "1d30bd2d4d8b718e"
     }
    ],
-   "checked_at": "2026-08-21T11:36:31+00:00",
+   "checked_at": "2026-08-21T13:05:39+00:00",
    "list_fingerprint": "cf22ed521a63e50d"
   },
   {
@@ -6654,7 +6572,7 @@
      "parmak_izi": "7c338ed2840d2bf5"
     }
    ],
-   "checked_at": "2026-08-21T11:36:33+00:00",
+   "checked_at": "2026-08-21T13:05:40+00:00",
    "list_fingerprint": "e47c13b22c03df49"
   },
   {
@@ -6850,7 +6768,7 @@
      "parmak_izi": "7b4c88124c1d3b61"
     }
    ],
-   "checked_at": "2026-08-21T11:36:40+00:00",
+   "checked_at": "2026-08-21T13:05:48+00:00",
    "list_fingerprint": "b431d31ee8fdb5d7"
   },
   {
@@ -7018,7 +6936,7 @@
      "parmak_izi": "1eaff0f6f5cf4d78"
     }
    ],
-   "checked_at": "2026-08-21T11:36:30+00:00",
+   "checked_at": "2026-08-21T13:05:38+00:00",
    "list_fingerprint": "a29d2698c91c6646"
   },
   {
@@ -7306,7 +7224,7 @@
      "parmak_izi": "8adcbb795428cfba"
     }
    ],
-   "checked_at": "2026-08-21T11:36:32+00:00",
+   "checked_at": "2026-08-21T13:05:37+00:00",
    "list_fingerprint": "9908497bbd370bad"
   },
   {
@@ -7524,7 +7442,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-08-21T11:36:36+00:00",
+   "checked_at": "2026-08-21T13:05:44+00:00",
    "list_fingerprint": "523919e58b16a5a4"
   },
   {
@@ -7826,7 +7744,7 @@
      "parmak_izi": "0b8ce0194c53df45"
     }
    ],
-   "checked_at": "2026-08-21T11:36:36+00:00",
+   "checked_at": "2026-08-21T13:05:44+00:00",
    "list_fingerprint": "294402b7b7fc4cde"
   },
   {
@@ -8065,7 +7983,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-08-21T11:36:30+00:00",
+   "checked_at": "2026-08-21T13:05:38+00:00",
    "list_fingerprint": "7425ebed386d27b3"
   },
   {
@@ -8115,7 +8033,7 @@
      "parmak_izi": "5bfa324d98aa5ddc"
     }
    ],
-   "checked_at": "2026-08-21T11:36:39+00:00",
+   "checked_at": "2026-08-21T13:05:47+00:00",
    "list_fingerprint": "1911284454b55748"
   },
   {
@@ -8543,7 +8461,7 @@
      "parmak_izi": "18801731769caa0c"
     }
    ],
-   "checked_at": "2026-08-21T11:36:35+00:00",
+   "checked_at": "2026-08-21T13:05:42+00:00",
    "list_fingerprint": "ad4b43f3317a0c81"
   },
   {
@@ -8705,7 +8623,7 @@
      "parmak_izi": "a868ed782d3848f1"
     }
    ],
-   "checked_at": "2026-08-21T11:36:36+00:00",
+   "checked_at": "2026-08-21T13:05:44+00:00",
    "list_fingerprint": "4b12d8168c4fd7e4"
   },
   {
@@ -8993,7 +8911,7 @@
      "parmak_izi": "522c8d51c4e07ea9"
     }
    ],
-   "checked_at": "2026-08-21T11:36:39+00:00",
+   "checked_at": "2026-08-21T13:05:47+00:00",
    "list_fingerprint": "ee11e3dfab9a329a"
   },
   {
@@ -9050,7 +8968,7 @@
      "parmak_izi": "f1a6a3c792560aeb"
     }
    ],
-   "checked_at": "2026-08-21T11:36:34+00:00",
+   "checked_at": "2026-08-21T13:05:42+00:00",
    "list_fingerprint": "882fd9317e0f61ab"
   },
   {
@@ -9345,7 +9263,7 @@
      "parmak_izi": "a6325d23b68e268a"
     }
    ],
-   "checked_at": "2026-08-21T11:36:35+00:00",
+   "checked_at": "2026-08-21T13:05:43+00:00",
    "list_fingerprint": "15abc399f96347ca"
   },
   {
@@ -9535,7 +9453,7 @@
      "parmak_izi": "7abdc8bb46052200"
     }
    ],
-   "checked_at": "2026-08-21T11:36:25+00:00",
+   "checked_at": "2026-08-21T13:05:34+00:00",
    "list_fingerprint": "5bcb1c6d93af2af5"
   },
   {
@@ -9864,7 +9782,7 @@
      "parmak_izi": "17b7b23916751d22"
     }
    ],
-   "checked_at": "2026-08-21T11:36:26+00:00",
+   "checked_at": "2026-08-21T13:05:35+00:00",
    "list_fingerprint": "1e480bfb1ebea5ee"
   },
   {
@@ -10012,7 +9930,7 @@
      "parmak_izi": "a1caa666f647bfc7"
     }
    ],
-   "checked_at": "2026-08-21T11:36:32+00:00",
+   "checked_at": "2026-08-21T13:05:40+00:00",
    "list_fingerprint": "7dafb563ba0e6428"
   },
   {
@@ -10104,7 +10022,7 @@
      "parmak_izi": "3bafb9afaf82a121"
     }
    ],
-   "checked_at": "2026-08-21T11:36:40+00:00",
+   "checked_at": "2026-08-21T13:05:47+00:00",
    "list_fingerprint": "3889dac0e0ca78cf"
   },
   {
@@ -10357,7 +10275,7 @@
      "parmak_izi": "84960d4227a4be6c"
     }
    ],
-   "checked_at": "2026-08-21T11:36:24+00:00",
+   "checked_at": "2026-08-21T13:05:33+00:00",
    "list_fingerprint": "1ac5ca7aa0dc2abb"
   },
   {
@@ -10406,7 +10324,7 @@
      "parmak_izi": "d3cf3fec82107d34"
     }
    ],
-   "checked_at": "2026-08-21T11:36:34+00:00",
+   "checked_at": "2026-08-21T13:05:43+00:00",
    "list_fingerprint": "fb5d3bdd2eacbeee"
   },
   {
@@ -10442,7 +10360,7 @@
      "parmak_izi": "ccedc312d75a82ed"
     }
    ],
-   "checked_at": "2026-08-21T11:36:31+00:00",
+   "checked_at": "2026-08-21T13:05:39+00:00",
    "list_fingerprint": "f4e635935fc2ab00"
   },
   {
@@ -10688,7 +10606,7 @@
      "parmak_izi": "b469f37d82e77264"
     }
    ],
-   "checked_at": "2026-08-21T11:36:26+00:00",
+   "checked_at": "2026-08-21T13:05:35+00:00",
    "list_fingerprint": "f945f89439b77e80"
   }
  ]

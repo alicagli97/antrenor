@@ -1,11 +1,12 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-20T23:37:01+00:00",
+ "generated_at": "2026-08-21T01:57:35+00:00",
  "total": 1449,
- "new_in_last_run": 1,
- "sources_ok": 64,
+ "new_in_last_run": 0,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "okculuk"
  ],
  "sources_empty": [],
  "sources_missing": [],

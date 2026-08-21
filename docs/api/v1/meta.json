@@ -1,30 +1,31 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-21T20:38:21+00:00",
- "total": 1509,
- "new_in_last_run": 0,
- "sources_ok": 64,
+ "generated_at": "2026-08-21T21:38:25+00:00",
+ "total": 1510,
+ "new_in_last_run": 1,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "paralimpik"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-21T18:53:33+00:00",
+ "latest_published_at": "2026-08-21T21:38:24+00:00",
  "categories": {
+  "duyuru": 801,
   "haber": 35,
   "kurs": 250,
-  "duyuru": 800,
   "takvim": 46,
   "musabaka": 328,
   "mevzuat": 50
  },
  "federation_counts": {
+  "hentbol": 16,
   "shgm": 23,
   "futbol": 55,
   "halter": 23,
   "sualti": 23,
-  "hentbol": 15,
   "golf": 34,
   "eskrim": 39,
   "badminton": 24,

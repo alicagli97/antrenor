@@ -1,26 +1,27 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-21T13:08:12+00:00",
- "total": 1496,
- "new_in_last_run": 9,
- "sources_ok": 64,
+ "generated_at": "2026-08-21T13:58:49+00:00",
+ "total": 1498,
+ "new_in_last_run": 2,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "halkoyunlari"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
  "latest_published_at": "2026-08-21T14:59:01+00:00",
  "categories": {
-  "duyuru": 794,
+  "duyuru": 795,
+  "musabaka": 327,
   "kurs": 249,
   "mevzuat": 50,
   "takvim": 45,
-  "musabaka": 326,
   "haber": 32
  },
  "federation_counts": {
-  "hentbol": 13,
+  "hentbol": 15,
   "golf": 34,
   "eskrim": 39,
   "badminton": 24,

@@ -1,5 +1,23 @@
 [
  {
+  "id": "31d1b77cf43a9443",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Flag Futbol 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Başlıyor!",
+  "url": "https://trf.gov.tr/?p=10780",
+  "summary": "Flag Futbol 1. Kademe Yardımcı Antrenör Yetiştirme Kursu başlıyor! Kurs Tarihi: 21-25 Eylül 2026 Yer: Ankara – Yenimahalle Spor Kompleksi",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-08-21T09:17:25+00:00",
+  "first_seen_at": "2026-08-21T09:50:24+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "e420abb4cc49f3f4",
   "federation": "judo",
   "federation_name": "Türkiye Judo Federasyonu",
@@ -3577,24 +3595,6 @@
    "hakem"
   ],
   "published_at": "2025-12-14T00:00:00",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "79ad797316d53d17",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "08-13 ARALIK 2025 SAMBO 1. KADEME YARDIMCI ANTRENÖR YETİŞTİRME KURSU KATILIMCI LİSTESİ İSTANBUL",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-376-08-13-aralik-2025-sambo-1.-kademe-yardimci-antrenor-yetistirme-kursu-katilimci-listesi-istanbul",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2025-12-13T00:00:00",
   "first_seen_at": "2026-08-19T21:45:48",
   "source": "html"
  }

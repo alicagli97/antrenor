@@ -285,7 +285,7 @@ class _Satir extends StatelessWidget {
                 ),
               ),
               son ??
-                  const Icon(Icons.chevron_right_rounded,
+                  Icon(Icons.chevron_right_rounded,
                       color: Renkler.metinSolgun, size: 20),
             ],
           ),

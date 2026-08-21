@@ -18,7 +18,7 @@ class DuyuruDetay extends StatelessWidget {
         title: Text(duyuru.etiketAdi, style: const TextStyle(fontSize: 16)),
         actions: [
           IconButton(
-            icon: const Icon(Icons.bookmark_border, color: Renkler.metinIkincil),
+            icon: Icon(Icons.bookmark_border, color: Renkler.metinIkincil),
             onPressed: () => ScaffoldMessenger.of(context).showSnackBar(
               const SnackBar(content: Text('Kaydetme yakında')),
             ),
@@ -46,7 +46,7 @@ class DuyuruDetay extends StatelessWidget {
           ]),
           const SizedBox(height: 14),
           Text(duyuru.baslik,
-              style: const TextStyle(
+              style: TextStyle(
                   color: Renkler.metin,
                   fontSize: 21,
                   height: 1.3,
@@ -54,7 +54,7 @@ class DuyuruDetay extends StatelessWidget {
           const SizedBox(height: 14),
           if (duyuru.ozet.isNotEmpty)
             Text(duyuru.ozet,
-                style: const TextStyle(
+                style: TextStyle(
                     color: Renkler.metinIkincil, fontSize: 15, height: 1.55)),
           const SizedBox(height: 26),
           FilledButton.icon(
@@ -64,7 +64,7 @@ class DuyuruDetay extends StatelessWidget {
               padding: const EdgeInsets.symmetric(vertical: 15),
               shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(10),
-                  side: const BorderSide(color: Renkler.cizgi)),
+                  side: BorderSide(color: Renkler.cizgi)),
             ),
             onPressed: () => launchUrl(Uri.parse(duyuru.url),
                 mode: LaunchMode.externalApplication),
@@ -74,7 +74,7 @@ class DuyuruDetay extends StatelessWidget {
           const SizedBox(height: 14),
           Text(
             'Duyurunun resmî ve bağlayıcı hâli ${duyuru.federasyonAdi} sitesindedir.',
-            style: const TextStyle(color: Renkler.metinSolgun, fontSize: 12.5, height: 1.4),
+            style: TextStyle(color: Renkler.metinSolgun, fontSize: 12.5, height: 1.4),
           ),
         ],
       ),

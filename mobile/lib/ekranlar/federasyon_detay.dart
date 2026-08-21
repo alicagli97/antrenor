@@ -77,13 +77,13 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
               },
             ),
             IconButton(
-              icon: const Icon(Icons.public, color: Renkler.metinIkincil),
+              icon: Icon(Icons.public, color: Renkler.metinIkincil),
               tooltip: 'Resmî site',
               onPressed: () => launchUrl(Uri.parse(f.site),
                   mode: LaunchMode.externalApplication),
             ),
           ],
-          bottom: const TabBar(
+          bottom: TabBar(
             isScrollable: true,
             tabAlignment: TabAlignment.start,
             labelColor: Renkler.metin,
@@ -137,7 +137,7 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
     return ListView(
       children: [
         ListTile(
-          leading: const Icon(Icons.description_outlined,
+          leading: Icon(Icons.description_outlined,
               color: Renkler.metinIkincil),
           title: Text('Kaynak takvim belgesi',
               style: Yazi.govde.copyWith(color: Renkler.metin, fontSize: 15)),
@@ -145,14 +145,14 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
               '${t.tur.toUpperCase()}${t.etkinlikSayisi > 0 ? " · ${t.etkinlikSayisi} faaliyet" : ""}',
               style:
                   Yazi.kucuk),
-          trailing: const Icon(Icons.open_in_new,
+          trailing: Icon(Icons.open_in_new,
               size: 16, color: Renkler.metinSolgun),
           onTap: () =>
               launchUrl(Uri.parse(t.url), mode: LaunchMode.externalApplication),
         ),
         const Divider(height: 1),
         if (tarihliler.isEmpty)
-          const Padding(
+          Padding(
             padding: EdgeInsets.all(20),
             child: Text(
                 'Takvim belgeden okunamadı; kaynağı açarak görüntüleyebilirsiniz.',
@@ -161,7 +161,7 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
         else
           ...tarihliler.map((e) => Container(
                 padding: const EdgeInsets.fromLTRB(16, 11, 16, 11),
-                decoration: const BoxDecoration(
+                decoration: BoxDecoration(
                   border: Border(bottom: BorderSide(color: Renkler.cizgi)),
                 ),
                 child: Row(
@@ -171,12 +171,12 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
                       width: 44,
                       child: Column(children: [
                         Text('${e.tarih!.day}',
-                            style: const TextStyle(
+                            style: TextStyle(
                                 color: Renkler.takvim,
                                 fontSize: 18,
                                 fontWeight: FontWeight.w700)),
                         Text(aylar[e.tarih!.month - 1],
-                            style: const TextStyle(
+                            style: TextStyle(
                                 color: Renkler.metinSolgun, fontSize: 10.5)),
                       ]),
                     ),
@@ -186,7 +186,7 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(e.ad,
-                              style: const TextStyle(
+                              style: TextStyle(
                                   color: Renkler.metin,
                                   fontSize: 14,
                                   height: 1.3)),
@@ -194,7 +194,7 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
                             Padding(
                               padding: const EdgeInsets.only(top: 3),
                               child: Text(e.yer,
-                                  style: const TextStyle(
+                                  style: TextStyle(
                                       color: Renkler.metinSolgun,
                                       fontSize: 12)),
                             ),
@@ -223,9 +223,9 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
             color: b.antrenorIcin ? Renkler.kurs : Renkler.metinSolgun,
           ),
           title: Text(b.baslik,
-              style: const TextStyle(
+              style: TextStyle(
                   color: Renkler.metinIkincil, fontSize: 13.5, height: 1.3)),
-          trailing: const Icon(Icons.open_in_new,
+          trailing: Icon(Icons.open_in_new,
               size: 15, color: Renkler.metinSolgun),
           onTap: () =>
               launchUrl(Uri.parse(b.url), mode: LaunchMode.externalApplication),
@@ -245,7 +245,7 @@ class _Bos extends StatelessWidget {
           padding: const EdgeInsets.all(28),
           child: Text(mesaj,
               textAlign: TextAlign.center,
-              style: const TextStyle(
+              style: TextStyle(
                   color: Renkler.metinSolgun, fontSize: 13.5, height: 1.4)),
         ),
       );

@@ -54,7 +54,7 @@ class _AnasayfaDurumu extends State<Anasayfa> {
             ),
           ),
           if (liste.isEmpty)
-            const SliverFillRemaining(
+            SliverFillRemaining(
               hasScrollBody: false,
               child: Center(
                   child: Text('Bu kategoride duyuru yok', style: Yazi.govde)),
@@ -131,7 +131,7 @@ class _Tepe extends StatelessWidget {
                       Container(
                         width: 6,
                         height: 6,
-                        decoration: const BoxDecoration(
+                        decoration: BoxDecoration(
                             color: Renkler.takvim, shape: BoxShape.circle),
                       ),
                       const SizedBox(width: 6),

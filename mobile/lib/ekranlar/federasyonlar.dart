@@ -47,7 +47,7 @@ class _FederasyonlarDurumu extends State<FederasyonlarEkrani> {
               decoration: InputDecoration(
                 hintText: 'Branş ara — yüzme, hentbol, atletizm…',
                 hintStyle: Yazi.govde.copyWith(color: Renkler.metinSolgun),
-                prefixIcon: const Icon(Icons.search_rounded,
+                prefixIcon: Icon(Icons.search_rounded,
                     size: 20, color: Renkler.metinSolgun),
                 border: InputBorder.none,
                 contentPadding: const EdgeInsets.symmetric(vertical: 14),
@@ -107,7 +107,7 @@ class _FederasyonlarDurumu extends State<FederasyonlarEkrani> {
         const SizedBox(height: 12),
         Expanded(
           child: liste.isEmpty
-              ? const Center(child: Text('Sonuç yok', style: Yazi.govde))
+              ? Center(child: Text('Sonuç yok', style: Yazi.govde))
               : ListView.builder(
                   padding: const EdgeInsets.only(bottom: 12),
                   itemCount: liste.length,

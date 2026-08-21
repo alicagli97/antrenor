@@ -54,13 +54,13 @@ class _BildirimlerDurumu extends State<BildirimlerEkrani> {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              const Icon(Icons.star_border,
+              Icon(Icons.star_border,
                   size: 44, color: Renkler.metinSolgun),
               const SizedBox(height: 14),
-              const Text('Henüz federasyon takip etmiyorsun',
+              Text('Henüz federasyon takip etmiyorsun',
                   style: Yazi.kartBaslik),
               const SizedBox(height: 8),
-              const Text(
+              Text(
                 'Federasyonlar sekmesinden yıldıza dokun; buraya o '
                 'federasyonların tüm duyuruları düşsün.',
                 textAlign: TextAlign.center,
@@ -72,7 +72,7 @@ class _BildirimlerDurumu extends State<BildirimlerEkrani> {
                 onPressed: widget.federasyonlaraGit,
                 style: OutlinedButton.styleFrom(
                     foregroundColor: Renkler.metin,
-                    side: const BorderSide(color: Renkler.cizgi)),
+                    side: BorderSide(color: Renkler.cizgi)),
                 child: const Text('Federasyon seç'),
               ),
             ],
@@ -90,17 +90,17 @@ class _BildirimlerDurumu extends State<BildirimlerEkrani> {
         Container(
           width: double.infinity,
           padding: const EdgeInsets.fromLTRB(16, 12, 16, 12),
-          decoration: const BoxDecoration(
+          decoration: BoxDecoration(
             border: Border(bottom: BorderSide(color: Renkler.cizgi)),
           ),
           child: Row(
             children: [
-              const Icon(Icons.star, size: 16, color: Renkler.kurs),
+              Icon(Icons.star, size: 16, color: Renkler.kurs),
               const SizedBox(width: 8),
               Expanded(
                 child: Text(
                   '${veri.takipEdilen.length} federasyon · ${_liste.length} duyuru (geçmiş dâhil)',
-                  style: const TextStyle(
+                  style: TextStyle(
                       color: Renkler.metinIkincil, fontSize: 13),
                 ),
               ),
@@ -109,7 +109,7 @@ class _BildirimlerDurumu extends State<BildirimlerEkrani> {
         ),
         Expanded(
           child: _liste.isEmpty
-              ? const Center(
+              ? Center(
                   child: Text('Takip edilen federasyonlarda duyuru yok',
                       style: TextStyle(
                           color: Renkler.metinSolgun, fontSize: 13.5)),

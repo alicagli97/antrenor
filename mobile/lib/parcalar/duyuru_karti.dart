@@ -107,7 +107,7 @@ class _DuyuruKartiDurumu extends State<DuyuruKarti> {
                         child: Row(
                           mainAxisSize: MainAxisSize.min,
                           children: [
-                            const Icon(Icons.school_rounded,
+                            Icon(Icons.school_rounded,
                                 size: 12, color: Renkler.kurs),
                             const SizedBox(width: 5),
                             Text('ANTRENÖR',

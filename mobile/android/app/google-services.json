@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089745042239",
+    "project_id": "antrenor-app-2026",
+    "storage_bucket": "antrenor-app-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089745042239:android:3cdf115a3d1bf89550318a",
+        "android_client_info": {
+          "package_name": "com.antrenorapp.antrenor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFnEWJ8vns3Qlad7MVh8q3VuprZ42ZfVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

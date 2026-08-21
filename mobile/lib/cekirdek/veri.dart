@@ -4,6 +4,7 @@ import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
+import 'bildirim.dart';
 import 'modeller.dart';
 
 /// Veri kaynağı: GitHub Pages üzerinde yayınlanan statik JSON uçları.
@@ -135,11 +136,18 @@ class Veri extends ChangeNotifier {
   }
 
   Future<void> takibiDegistir(String slug) async {
-    takipEdilen.contains(slug)
-        ? takipEdilen.remove(slug)
-        : takipEdilen.add(slug);
+    final takipteydi = takipEdilen.contains(slug);
+    takipteydi ? takipEdilen.remove(slug) : takipEdilen.add(slug);
+
     final kayit = await SharedPreferences.getInstance();
     await kayit.setStringList('takip', takipEdilen.toList());
+
+    // Bildirim aboneligi: cihaz dogrudan federasyonun konusuna abone olur,
+    // sunucuda cihaz kimligi saklanmaz
+    takipteydi
+        ? await Bildirim.abonelikBirak(slug)
+        : await Bildirim.aboneOl(slug);
+
     notifyListeners();
   }
 

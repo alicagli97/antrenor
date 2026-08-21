@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+import '../cekirdek/bildirim.dart';
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
 
@@ -50,15 +51,15 @@ class AyarlarEkrani extends StatelessWidget {
               const Icon(Icons.notifications_none, color: Renkler.metinIkincil),
           title: const Text('Bildirimler',
               style: TextStyle(color: Renkler.metin, fontSize: 14.5)),
-          subtitle: const Text(
-              'Takip edilen federasyonlarda yeni duyuru olduğunda haber ver',
-              style: TextStyle(color: Renkler.metinSolgun, fontSize: 12.5)),
-          trailing: const Text('Yakında',
-              style: TextStyle(color: Renkler.metinSolgun, fontSize: 12)),
-          onTap: () => ScaffoldMessenger.of(context).showSnackBar(
-            const SnackBar(
-                content: Text('Bildirimler bir sonraki adımda açılacak')),
-          ),
+          subtitle: Text(
+              veri.takipEdilen.isEmpty
+                  ? 'Önce federasyon takip et, sonra bildirim aç'
+                  : 'Takip ettiğin ${veri.takipEdilen.length} federasyonda yeni '
+                      'duyuru olduğunda haber verilir',
+              style:
+                  const TextStyle(color: Renkler.metinSolgun, fontSize: 12.5)),
+          trailing: const Icon(Icons.chevron_right, color: Renkler.metinSolgun),
+          onTap: () => _bildirimIzni(context),
         ),
         const Divider(height: 28),
         const _Baslik('Uygulama'),
@@ -110,6 +111,50 @@ class AyarlarEkrani extends StatelessWidget {
         const SizedBox(height: 30),
       ],
     );
+  }
+
+  /// iOS ve Android 13+ izin ister. Neden istediğimizi önce açıklıyoruz:
+  /// sistem penceresi bir kez çıkıyor, reddedilirse geri dönüşü zor.
+  Future<void> _bildirimIzni(BuildContext context) async {
+    if (!Bildirim.hazir) {
+      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+          content: Text('Bildirim altyapısı bu sürümde kapalı')));
+      return;
+    }
+    final onay = await showDialog<bool>(
+      context: context,
+      builder: (c) => AlertDialog(
+        backgroundColor: Renkler.yuzey,
+        title: const Text('Bildirimlere izin ver',
+            style: TextStyle(color: Renkler.metin, fontSize: 17)),
+        content: const Text(
+            'Takip ettiğin federasyonlarda yeni kurs, vize veya talimat '
+            'yayımlandığında haber veririz. Sadece seçtiğin federasyonlar '
+            'için bildirim gönderilir.',
+            style: TextStyle(color: Renkler.metinIkincil, fontSize: 14, height: 1.45)),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(c, false),
+            child: const Text('Şimdi değil',
+                style: TextStyle(color: Renkler.metinIkincil)),
+          ),
+          TextButton(
+            onPressed: () => Navigator.pop(c, true),
+            child: const Text('İzin ver', style: TextStyle(color: Renkler.kurs)),
+          ),
+        ],
+      ),
+    );
+    if (onay != true || !context.mounted) return;
+
+    final verildi = await Bildirim.izinIste();
+    if (verildi) await Bildirim.esitle(veri.takipEdilen);
+    if (!context.mounted) return;
+    ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+      content: Text(verildi
+          ? 'Bildirimler açıldı'
+          : 'İzin verilmedi; telefon ayarlarından açabilirsin'),
+    ));
   }
 
   static void _ac(String url) =>

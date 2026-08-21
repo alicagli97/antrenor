@@ -37,3 +37,11 @@ mobile/build/
 mobile/.dart_tool/
 mobile/ekran*.png
 mobile/.flutter-plugins*
+
+# Firebase
+# google-services.json ve firebase_options.dart gizli anahtar degildir
+# (APK'nin icinde zaten dagitiliyor) ve derleme icin gerekli, bu yuzden
+# depoda tutuluyor. Bildirim GONDERME yetkisi veren servis hesabi anahtari
+# yalnizca GitHub Secrets'ta: FCM_SERVICE_ACCOUNT
+mobile/**/*-key.json
+mobile/**/service-account*.json

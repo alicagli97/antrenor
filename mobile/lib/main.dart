@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'cekirdek/bildirim.dart';
 import 'cekirdek/tema.dart';
 import 'cekirdek/veri.dart';
 import 'ekranlar/anasayfa.dart';
@@ -7,7 +8,11 @@ import 'ekranlar/ayarlar.dart';
 import 'ekranlar/bildirimler.dart';
 import 'ekranlar/federasyonlar.dart';
 
-void main() => runApp(const AntrenorUygulamasi());
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Bildirim.baslat();
+  runApp(const AntrenorUygulamasi());
+}
 
 class AntrenorUygulamasi extends StatelessWidget {
   const AntrenorUygulamasi({super.key});
@@ -39,7 +44,10 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
   void initState() {
     super.initState();
     _veri.addListener(_yenile);
-    _veri.baslat();
+    _veri.baslat().then((_) => Bildirim.esitle(_veri.takipEdilen));
+    // Bildirime dokunulunca ilgili federasyonun sayfasina degil, akisa
+    // donuyoruz; duyuru kimligiyle derin baglanti sonraki adimda
+    Bildirim.dinle((veri) => _sekmeyeGit('bildirimler'));
   }
 
   void _yenile() => mounted ? setState(() {}) : null;

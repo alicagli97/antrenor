@@ -1,21 +1,23 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T15:55:42+00:00",
- "total": 1781,
- "new_in_last_run": 7,
+ "generated_at": "2026-08-22T16:00:20+00:00",
+ "total": 1782,
+ "new_in_last_run": 1,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-08-22T15:55:42+00:00",
  "categories": {
   "duyuru": 809,
   "kurs": 252,
   "takvim": 49,
-  "musabaka": 329,
+  "musabaka": 330,
   "mevzuat": 307,
   "haber": 35
  },
@@ -57,7 +59,7 @@
   "atletizm": 26,
   "gures": 24,
   "boks": 27,
-  "basketbol": 16,
+  "basketbol": 17,
   "hentbol": 16,
   "shgm": 23,
   "halter": 23,

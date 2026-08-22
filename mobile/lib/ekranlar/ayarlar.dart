@@ -6,6 +6,8 @@ import 'package:url_launcher/url_launcher.dart';
 import '../cekirdek/abonelik.dart';
 import '../cekirdek/tema.dart';
 import '../parcalar/bildirim_istegi.dart';
+import '../parcalar/pil_istegi.dart';
+import '../cekirdek/pil.dart';
 import '../cekirdek/veri.dart';
 import 'premium.dart';
 
@@ -106,6 +108,16 @@ class AyarlarEkrani extends StatelessWidget {
                 : 'Takip ettiğin federasyonlarda yeni duyuru olunca haber ver',
             onTap: () => bildirimIzniSor(context, veri, zorla: true),
           ),
+          if (Pil.desteklenir) ...[
+            const _Ayrac(),
+            _Satir(
+              simge: Icons.battery_saver_rounded,
+              renk: Renkler.takvim,
+              baslik: 'Arka planda çalışma',
+              alt: 'Pil tasarrufu uygulamayı durdurursa bildirimler gelmez',
+              onTap: () => pilIzniSor(context, veri, zorla: true),
+            ),
+          ],
         ]),
         const _BolumBasligi('Uygulama'),
         _Kart(children: [

@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../cekirdek/bildirim.dart';
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
+import 'pil_istegi.dart';
 
 /// Bildirim iznini doğru anda ister: kullanıcı ilk federasyonu takibe
 /// aldığında. Sistem penceresi bir kez çıkıyor ve reddedilirse geri dönüşü
@@ -29,6 +30,9 @@ Future<void> bildirimIzniSor(BuildContext context, Veri veri,
       ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(content: Text('Bildirimler zaten açık')));
     }
+    // İzin var ama telefon uygulamayı arka planda durduruyorsa bildirim
+    // yine gelmez; asıl engel çoğu zaman burası
+    if (context.mounted) await pilIzniSor(context, veri, zorla: zorla);
     return;
   }
 
@@ -128,4 +132,7 @@ Future<void> bildirimIzniSor(BuildContext context, Veri veri,
         ? 'Bildirimler açıldı'
         : 'İzin verilmedi. Telefon ayarlarından sonra açabilirsin.'),
   ));
+
+  // İzin alındıysa sıradaki engel pil kısıtı
+  if (verildi && context.mounted) await pilIzniSor(context, veri);
 }

@@ -35,6 +35,7 @@ class Veri extends ChangeNotifier {
   Set<String> takipEdilen = {};
   bool koyuTema = true;
   bool bildirimSoruldu = false;
+  bool pilSoruldu = false;
   bool yukleniyor = true;
   String? hata;
   DateTime? sonGuncelleme;
@@ -147,6 +148,7 @@ class Veri extends ChangeNotifier {
     takipEdilen = (kayit.getStringList('takip') ?? const []).toSet();
     koyuTema = kayit.getBool('koyu_tema') ?? true;
     bildirimSoruldu = kayit.getBool('bildirim_soruldu') ?? false;
+    pilSoruldu = kayit.getBool('pil_soruldu') ?? false;
   }
 
   Future<void> takibiDegistir(String slug) async {
@@ -174,6 +176,15 @@ class Veri extends ChangeNotifier {
     bildirimSoruldu = true;
     final kayit = await SharedPreferences.getInstance();
     await kayit.setBool('bildirim_soruldu', true);
+  }
+
+  /// Pil kısıtı uyarısı bir kez gösterilir; kullanıcı yok sayarsa
+  /// tekrar tekrar rahatsız edilmez (Ayarlar'dan her zaman açılabilir).
+  Future<void> pilSorulduIsaretle() async {
+    if (pilSoruldu) return;
+    pilSoruldu = true;
+    final kayit = await SharedPreferences.getInstance();
+    await kayit.setBool('pil_soruldu', true);
   }
 
   Future<void> temayiDegistir(bool koyu) async {

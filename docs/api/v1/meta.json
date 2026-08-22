@@ -1,16 +1,32 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T22:34:58+00:00",
+ "generated_at": "2026-08-22T23:41:00+00:00",
  "total": 1788,
  "new_in_last_run": 5,
- "sources_ok": 64,
+ "sources_ok": 53,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "bisiklet",
+  "boks",
+  "dagcilik",
+  "danssporlari",
+  "gelismekteolan",
+  "havasporlari",
+  "herkesicinspor",
+  "isitmeengelliler",
+  "kano",
+  "masatenisi",
+  "satranc",
+  "sualti",
+  "vucutgelistirme"
  ],
- "sources_empty": [],
+ "sources_empty": [
+  "bric",
+  "tmok"
+ ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-22T22:34:58+00:00",
+ "latest_published_at": "2026-08-22T23:41:00+00:00",
  "categories": {
   "duyuru": 812,
   "takvim": 50,

@@ -1,15 +1,17 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T13:56:03+00:00",
+ "generated_at": "2026-08-22T13:59:56+00:00",
  "total": 1777,
- "new_in_last_run": 12,
+ "new_in_last_run": 0,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "yeniden-uretim"
+ ],
  "latest_published_at": "2026-08-22T13:56:03+00:00",
  "categories": {
   "kurs": 250,

@@ -1,5 +1,40 @@
 [
  {
+  "id": "6426cf895344fe84",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-gebze-134141",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-22T14:08:12+00:00",
+  "first_seen_at": "2026-08-22T14:08:12+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f4f3d508b3ec250b",
+  "federation": "kurek",
+  "federation_name": "Türkiye Kürek Federasyonu",
+  "federation_short": "TKF",
+  "title": "Kürek faaliyet takviminde değişiklik",
+  "url": "https://tkf.gov.tr/tr/faaliyetler",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-22T14:03:50+00:00",
+  "first_seen_at": "2026-08-22T14:03:50+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "c2cdc9e56236d97a",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -75,23 +110,6 @@
   "federation_short": "TBPF",
   "title": "Artistik Buz Pateni 2.Bölge Yarışması Tarih Değişi...",
   "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-2bolge-yarismasi--13",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-22T13:56:03+00:00",
-  "first_seen_at": "2026-08-22T13:56:03+00:00",
-  "source": "html"
- },
- {
-  "id": "b4b2eec83e37bce6",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
-  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-gebze-13",
   "summary": "",
   "image": null,
   "category": "duyuru",
@@ -5377,25 +5395,6 @@
   "federation_short": "TAF",
   "title": "Yeni mevzuat: -01 HAVALI VE ATEŞLİ SİLAHLAR HAKEM, JÜRİ VE GÖZLEMCİ TALİMATI (21.05.2025)",
   "url": "https://www.taf.gov.tr/uploads/files/HavaliAtesliHJGTalimati.pdf",
-  "summary": "Atıcılık federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-21T09:48:58+00:00",
-  "first_seen_at": "2026-08-21T09:48:58+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a225e26e3779d61e",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Yeni mevzuat: -02 PLAK ATIŞLARI HAKEM, JÜRİ VE GÖZLEMCİ TALİMATI (21.05.2025)",
-  "url": "https://www.taf.gov.tr/uploads/files/PlakAtislariHGJTalimati.pdf",
   "summary": "Atıcılık federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
   "image": null,
   "category": "mevzuat",

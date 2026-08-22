@@ -1,24 +1,23 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T13:59:56+00:00",
- "total": 1777,
- "new_in_last_run": 0,
- "sources_ok": 64,
+ "generated_at": "2026-08-22T14:08:12+00:00",
+ "total": 1778,
+ "new_in_last_run": 5,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "halkoyunlari"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": [
-  "yeniden-uretim"
- ],
- "latest_published_at": "2026-08-22T13:56:03+00:00",
+ "partial_run": null,
+ "latest_published_at": "2026-08-22T14:08:12+00:00",
  "categories": {
+  "duyuru": 808,
+  "takvim": 49,
   "kurs": 250,
   "musabaka": 329,
-  "duyuru": 808,
   "mevzuat": 307,
-  "takvim": 48,
   "haber": 35
  },
  "silent_sources": [
@@ -29,8 +28,9 @@
   }
  ],
  "federation_counts": {
-  "voleybol": 33,
   "buzpateni": 61,
+  "kurek": 15,
+  "voleybol": 33,
   "sualti": 30,
   "yelken": 18,
   "aticilik": 34,
@@ -66,7 +66,6 @@
   "havasporlari": 24,
   "otomobil": 42,
   "judo": 43,
-  "kurek": 14,
   "kaykay": 9,
   "gelenekselguresler": 22,
   "beyzbol": 41,

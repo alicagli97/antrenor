@@ -1,0 +1,119 @@
+# iOS derlemesi ve TestFlight'a yukleme — Mac gerekmeden.
+#
+# Xcode yalnizca macOS'ta calisiyor, gelistirme makinesi Windows. Bu is akisi
+# GitHub'in macOS makinesinde derliyor (depo herkese acik oldugu icin ucretsiz).
+#
+# Iki kip:
+#   dogrula  -> imzasiz derleme; kod bozuldu mu diye bakar, sir gerektirmez
+#   yukle    -> imzali derleme + App Store Connect'e gonderim (sirlar gerekli)
+#
+# Gerekli depo sirlari (yalnizca "yukle" kipi icin):
+#   IOS_SERTIFIKA_P12       base64 kodlanmis dagitim sertifikasi (.p12)
+#   IOS_SERTIFIKA_SIFRE     .p12 dosyasinin sifresi
+#   IOS_PROVISION_PROFILE   base64 kodlanmis .mobileprovision
+#   APPSTORE_KEY_ID         App Store Connect API anahtar kimligi
+#   APPSTORE_ISSUER_ID      App Store Connect yayinci kimligi
+#   APPSTORE_KEY_P8         .p8 anahtarinin icerigi
+name: iOS
+
+on:
+  workflow_dispatch:
+    inputs:
+      kip:
+        description: "dogrula (imzasiz derleme) veya yukle (TestFlight)"
+        type: choice
+        options: [dogrula, yukle]
+        default: dogrula
+      surum_notu:
+        description: "TestFlight surum notu"
+        required: false
+        default: ""
+
+jobs:
+  derle:
+    runs-on: macos-15
+    timeout-minutes: 60
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Bagimliliklar
+        working-directory: mobile
+        run: flutter pub get
+
+      - name: Kod denetimi
+        working-directory: mobile
+        run: flutter analyze
+
+      # --- Imzasiz dogrulama ------------------------------------------------
+      - name: Imzasiz derleme
+        if: inputs.kip == 'dogrula'
+        working-directory: mobile
+        run: flutter build ios --release --no-codesign
+
+      # --- Imzali derleme ve yukleme ---------------------------------------
+      - name: Imzalama malzemesini kur
+        if: inputs.kip == 'yukle'
+        env:
+          SERTIFIKA: ${{ secrets.IOS_SERTIFIKA_P12 }}
+          SERTIFIKA_SIFRE: ${{ secrets.IOS_SERTIFIKA_SIFRE }}
+          PROFIL: ${{ secrets.IOS_PROVISION_PROFILE }}
+        run: |
+          if [ -z "$SERTIFIKA" ] || [ -z "$PROFIL" ]; then
+            echo "::error::Imzalama sirlari tanimli degil"; exit 1
+          fi
+          # Gecici anahtar zinciri: is bitince makineyle birlikte yok oluyor
+          ZINCIR="$RUNNER_TEMP/imza.keychain-db"
+          ZINCIR_SIFRE="$(openssl rand -base64 24)"
+          security create-keychain -p "$ZINCIR_SIFRE" "$ZINCIR"
+          security set-keychain-settings -lut 3600 "$ZINCIR"
+          security unlock-keychain -p "$ZINCIR_SIFRE" "$ZINCIR"
+
+          echo "$SERTIFIKA" | base64 --decode > "$RUNNER_TEMP/sertifika.p12"
+          security import "$RUNNER_TEMP/sertifika.p12" -k "$ZINCIR" \
+            -P "$SERTIFIKA_SIFRE" -T /usr/bin/codesign
+          security set-key-partition-list -S apple-tool:,apple: \
+            -k "$ZINCIR_SIFRE" "$ZINCIR" > /dev/null
+          security list-keychain -d user -s "$ZINCIR" login.keychain-db
+
+          mkdir -p "$HOME/Library/MobileDevice/Provisioning Profiles"
+          echo "$PROFIL" | base64 --decode \
+            > "$HOME/Library/MobileDevice/Provisioning Profiles/antrenor.mobileprovision"
+
+          rm -f "$RUNNER_TEMP/sertifika.p12"
+
+      - name: IPA uret
+        if: inputs.kip == 'yukle'
+        working-directory: mobile
+        run: |
+          flutter build ipa --release \
+            --export-options-plist=ios/ExportOptions.plist
+
+      - name: App Store Connect'e gonder
+        if: inputs.kip == 'yukle'
+        env:
+          ANAHTAR_KIMLIGI: ${{ secrets.APPSTORE_KEY_ID }}
+          YAYINCI: ${{ secrets.APPSTORE_ISSUER_ID }}
+          ANAHTAR: ${{ secrets.APPSTORE_KEY_P8 }}
+        run: |
+          mkdir -p "$HOME/private_keys"
+          printf '%s' "$ANAHTAR" > "$HOME/private_keys/AuthKey_${ANAHTAR_KIMLIGI}.p8"
+          IPA=$(find mobile/build/ios/ipa -name "*.ipa" | head -1)
+          echo "gonderilen: $IPA"
+          xcrun altool --upload-app -f "$IPA" -t ios \
+            --apiKey "$ANAHTAR_KIMLIGI" --apiIssuer "$YAYINCI"
+          rm -f "$HOME/private_keys"/*.p8
+
+      - name: Derleme ciktisini sakla
+        if: always() && inputs.kip == 'yukle'
+        uses: actions/upload-artifact@v4
+        with:
+          name: antrenor-ipa
+          path: mobile/build/ios/ipa/*.ipa
+          if-no-files-found: ignore
+          retention-days: 7

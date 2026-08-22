@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T18:46:24+00:00",
- "total": 1787,
- "new_in_last_run": 6,
+ "generated_at": "2026-08-22T19:32:35+00:00",
+ "total": 1788,
+ "new_in_last_run": 5,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -10,10 +10,10 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-22T18:46:24+00:00",
+ "latest_published_at": "2026-08-22T19:32:35+00:00",
  "categories": {
   "duyuru": 812,
-  "takvim": 49,
+  "takvim": 50,
   "haber": 37,
   "kurs": 252,
   "musabaka": 330,
@@ -28,6 +28,7 @@
  ],
  "federation_counts": {
   "buzpateni": 61,
+  "gelismekteolan": 46,
   "shgm": 25,
   "badminton": 43,
   "boks": 28,
@@ -40,7 +41,6 @@
   "aticilik": 34,
   "futbol": 58,
   "gsb": 46,
-  "gelismekteolan": 45,
   "ragbi": 28,
   "universitesporlari": 11,
   "ozelsporcular": 17,

@@ -4,6 +4,7 @@ import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
 
+import 'abonelik.dart';
 import 'bildirim.dart';
 import 'modeller.dart';
 
@@ -11,6 +12,16 @@ import 'modeller.dart';
 /// Sunucu yok; uygulama dosyaları indirir, tercihleri yerelde saklar.
 class Veri extends ChangeNotifier {
   static const kok = 'https://alicagli97.github.io/antrenor/api/v1';
+
+  /// Ücretsiz sürümde takip edilebilecek federasyon sayısı
+  static const ucretsizTakipSiniri = 1;
+
+  bool get premium => Abonelik.ornek.premium;
+
+  /// Yeni bir federasyon takibe alınabilir mi? (Zaten takiptekini bırakmak
+  /// her zaman serbest; bu denetim yalnızca ekleme için çağrılır.)
+  bool get takipEklenebilir =>
+      premium || takipEdilen.length < ucretsizTakipSiniri;
 
   final List<Duyuru> duyurular = [];
   final List<Federasyon> federasyonlar = [];
@@ -23,6 +34,7 @@ class Veri extends ChangeNotifier {
 
   Set<String> takipEdilen = {};
   bool koyuTema = true;
+  bool bildirimSoruldu = false;
   bool yukleniyor = true;
   String? hata;
   DateTime? sonGuncelleme;
@@ -69,6 +81,7 @@ class Veri extends ChangeNotifier {
         final j = e as Map<String, dynamic>;
         return Duyuru.jsondan(j, etiket: _etiketler[j['federation']]);
       }));
+    _akisOnbellegi.clear();
     sonGuncelleme = DateTime.now();
   }
 
@@ -133,11 +146,14 @@ class Veri extends ChangeNotifier {
     final kayit = await SharedPreferences.getInstance();
     takipEdilen = (kayit.getStringList('takip') ?? const []).toSet();
     koyuTema = kayit.getBool('koyu_tema') ?? true;
+    bildirimSoruldu = kayit.getBool('bildirim_soruldu') ?? false;
   }
 
   Future<void> takibiDegistir(String slug) async {
     final takipteydi = takipEdilen.contains(slug);
     takipteydi ? takipEdilen.remove(slug) : takipEdilen.add(slug);
+    // Takip edilenler akışta öne alınıyor; sıralama yeniden hesaplanmalı
+    _akisOnbellegi.clear();
 
     final kayit = await SharedPreferences.getInstance();
     await kayit.setStringList('takip', takipEdilen.toList());
@@ -151,6 +167,15 @@ class Veri extends ChangeNotifier {
     notifyListeners();
   }
 
+  /// Bildirim izni bir kez sorulur; kullanıcı reddetse de tekrar tekrar
+  /// sorulmaz (Ayarlar'dan istediğinde açabilir).
+  Future<void> bildirimSorulduIsaretle() async {
+    if (bildirimSoruldu) return;
+    bildirimSoruldu = true;
+    final kayit = await SharedPreferences.getInstance();
+    await kayit.setBool('bildirim_soruldu', true);
+  }
+
   Future<void> temayiDegistir(bool koyu) async {
     koyuTema = koyu;
     final kayit = await SharedPreferences.getInstance();
@@ -160,7 +185,14 @@ class Veri extends ChangeNotifier {
 
   // --- Akış ve süzgeçler --------------------------------------------------
 
+  /// Süzülmüş ve sıralanmış akış, kategori başına bir kez hesaplanır.
+  /// Eskiden her yeniden çizimde 300 kayıt yeniden sıralanıyordu.
+  final Map<String, List<Duyuru>> _akisOnbellegi = {};
+
   List<Duyuru> akis({String kategori = 'tumu'}) {
+    final hazir = _akisOnbellegi[kategori];
+    if (hazir != null) return hazir;
+
     final liste = duyurular
         .where((d) => kategori == 'tumu' || d.kategori == kategori)
         .toList();
@@ -173,6 +205,7 @@ class Veri extends ChangeNotifier {
             .compareTo(a.yayinTarihi ?? DateTime(2000));
       });
     }
+    _akisOnbellegi[kategori] = liste;
     return liste;
   }
 

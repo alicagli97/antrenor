@@ -1,6 +1,10 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 
+import 'cekirdek/abonelik.dart';
 import 'cekirdek/bildirim.dart';
+import 'cekirdek/reklam.dart';
 import 'cekirdek/tema.dart';
 import 'cekirdek/veri.dart';
 import 'ekranlar/anasayfa.dart';
@@ -8,9 +12,10 @@ import 'ekranlar/ayarlar.dart';
 import 'ekranlar/bildirimler.dart';
 import 'ekranlar/federasyonlar.dart';
 
-Future<void> main() async {
+void main() {
   WidgetsFlutterBinding.ensureInitialized();
-  await Bildirim.baslat();
+  // Firebase, magaza ve reklam kurulumu burada beklenmiyor: hepsi ilk kare
+  // cizildikten sonra sirayla baslatiliyor (bkz. _altyapiyiBaslat)
   runApp(const AntrenorUygulamasi());
 }
 
@@ -23,13 +28,73 @@ class AntrenorUygulamasi extends StatefulWidget {
 
 class _AntrenorUygulamasiDurumu extends State<AntrenorUygulamasi> {
   final _veri = Veri();
+  final _abonelik = Abonelik.ornek;
+
+  late final Future<void> _veriHazir;
+  final _mesajAnahtari = GlobalKey<ScaffoldMessengerState>();
 
   @override
   void initState() {
     super.initState();
     // Tema tercihi degisince tum uygulama yeniden cizilir
     _veri.addListener(_temayiUygula);
-    _veri.baslat().then((_) => Bildirim.esitle(_veri.takipEdilen));
+    _abonelik.addListener(_abonelikDegisti);
+    _veriHazir = _veri.baslat();
+
+    // Uygulama acikken gelen bildirim: Android sistem bildirimini
+    // gostermiyor, kullaniciya biz haber veriyoruz
+    Bildirim.onMesaj(_ekrandakiBildirim);
+
+    WidgetsBinding.instance
+        .addPostFrameCallback((_) => unawaited(_altyapiyiBaslat()));
+  }
+
+  /// Agir yerel altyapi ilk kare cizildikten sonra, en ucuzdan en pahaliya
+  /// dogru kuruluyor. Hepsi acilista pesin kurulunca ana is parcacigi
+  /// saniyelerce kilitleniyor ve uygulama donuyordu.
+  Future<void> _altyapiyiBaslat() async {
+    await Bildirim.baslat();
+    await _veriHazir;
+    await Bildirim.esitle(_veri.takipEdilen);
+
+    await _abonelik.baslat();
+
+    // Reklam kutuphanesi en pahalisi: WebView acip Play Services'e baglaniyor.
+    // Premium kullanicida hic kurulmuyor; digerlerinde arayuz yerlestikten
+    // sonra sessizce isiniyor, gerekirse ilk reklamda zaten kurulur.
+    if (!_abonelik.premium) {
+      await Future<void>.delayed(const Duration(seconds: 3));
+      await Reklam.baslat();
+    }
+  }
+
+  void _ekrandakiBildirim(
+      String baslik, String govde, Map<String, dynamic> veri) {
+    // Akista yeni kayit varsa gorunsun
+    unawaited(_veri.baslat());
+    _mesajAnahtari.currentState?.showSnackBar(SnackBar(
+      duration: const Duration(seconds: 5),
+      backgroundColor: Renkler.yuzeyYuksek,
+      behavior: SnackBarBehavior.floating,
+      content: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Text(baslik,
+              style: TextStyle(
+                  color: Renkler.kurs,
+                  fontSize: 12.5,
+                  fontWeight: FontWeight.w700)),
+          if (govde.isNotEmpty) ...[
+            const SizedBox(height: 3),
+            Text(govde,
+                maxLines: 2,
+                overflow: TextOverflow.ellipsis,
+                style: TextStyle(color: Renkler.metin, fontSize: 14)),
+          ],
+        ],
+      ),
+    ));
   }
 
   void _temayiUygula() {
@@ -37,9 +102,16 @@ class _AntrenorUygulamasiDurumu extends State<AntrenorUygulamasi> {
     if (mounted) setState(() {});
   }
 
+  void _abonelikDegisti() {
+    // Premium'a gecildiginde bellekteki reklam birakilir
+    if (_abonelik.premium) Reklam.temizle();
+    if (mounted) setState(() {});
+  }
+
   @override
   void dispose() {
     _veri.removeListener(_temayiUygula);
+    _abonelik.removeListener(_abonelikDegisti);
     super.dispose();
   }
 
@@ -48,6 +120,7 @@ class _AntrenorUygulamasiDurumu extends State<AntrenorUygulamasi> {
     Renkler.paletiDegistir(_veri.koyuTema);
     return MaterialApp(
       title: 'Antrenör',
+      scaffoldMessengerKey: _mesajAnahtari,
       debugShowCheckedModeBanner: false,
       theme: antrenorTemasi(),
       home: AnaKabuk(veri: _veri),

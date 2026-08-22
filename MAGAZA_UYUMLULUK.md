@@ -28,7 +28,7 @@ Durum: ✅ hazır · 🟡 arayüz aşamasında yapılacak · ⬜ hesap/kurumsal 
 | Hassas izin kullanılmaması | ✅ | Konum/kamera/mikrofon/kişiler/sağlık verisi yok |
 | App Privacy etiketleri | ⬜ | App Store Connect'te: "Kişiye bağlı: e-posta"; "Bağlı değil: tanımlayıcılar" |
 | Play Veri Güvenliği formu | ⬜ | Aynı beyan Play Console'da |
-| Reklam kimliği / izleme | ✅ | Kullanılmıyor (form beyanını kolaylaştırır) |
+| Reklam kimliği / izleme | 🟡 | **Ücretsiz sürümde AdMob kullanılıyor** — reklam kimliği ve IP tabanlı yaklaşık konum reklam sağlayıcısı tarafından işleniyor. Gizlilik metnine eklendi; formlarda da beyan edilmeli (bkz. §7) |
 
 ## 3. Teknik gereklilikler
 
@@ -57,7 +57,7 @@ Durum: ✅ hazır · 🟡 arayüz aşamasında yapılacak · ⬜ hesap/kurumsal 
 |---|---|---|
 | Demo hesap | 🟡 | Uygulama girişsiz de çalışacak şekilde tasarlandı; yine de bir demo hesap verilecek |
 | Review Notes / test adımları | ⬜ | "Duyuru akışı → federasyon takibi → hesap silme" adımları yazılacak |
-| IAP / abonelik | — | Şimdilik yok |
+| IAP / abonelik | 🟡 | Premium abonelik var — inceleme ekibine ücretsiz/premium farkı ve test adımları yazılmalı (bkz. §7) |
 
 ## 6. Reddedilme riski taşıyan özel noktalar
 
@@ -72,3 +72,47 @@ Durum: ✅ hazır · 🟡 arayüz aşamasında yapılacak · ⬜ hesap/kurumsal 
 4. **Boş/hatalı kaynak:** Bir federasyon sitesi tasarımını değiştirdiğinde akış
    kesilmemeli — `GET /v1/status/sources` ile izlenir, `discover_sources.py` yeniden
    çalıştırılarak kaynak otomatik güncellenir.
+
+## 7. Para kazanma (reklam + premium abonelik)
+
+Model: **ücretsiz** kullanıcı duyuruyu açarken ödüllü reklam izler ve tek federasyon
+takip edebilir; **premium** kullanıcıda reklam yoktur ve takip sınırsızdır.
+
+### Sizde kalan hesap işleri (kod tarafı hazır)
+
+| İş | Nerede | Not |
+|---|---|---|
+| AdMob hesabı açmak, uygulamayı eklemek | admob.google.com | Play/App Store paketi: `com.antrenorapp.antrenor` |
+| Ödüllü reklam birimi oluşturmak | AdMob | Kimlikleri `mobile/lib/cekirdek/reklam.dart` içindeki `_gercekOdulluAndroid` / `_gercekOdulluIos` alanlarına yazıp `testModu = false` yapın |
+| Uygulama kimliğini yazmak | `AndroidManifest.xml` `APPLICATION_ID` ve `Info.plist` `GADApplicationIdentifier` | Şu an Google'ın test kimlikleri duruyor |
+| Abonelik ürünlerini tanımlamak | Play Console → Ürünler → Abonelikler / App Store Connect → Abonelikler | Kimlikler birebir: `antrenor_premium_aylik`, `antrenor_premium_yillik` |
+| Fiyat belirlemek | Her iki mağaza | Komisyon %15–30 |
+| Vergi ve banka bilgileri | Her iki mağaza | Ödeme alabilmek için zorunlu |
+| Lisans testi hesabı | Play Console → Lisans testi | Gerçek para ödemeden abonelik denemek için |
+
+### Beyan yükümlülükleri
+
+| Gereklilik | Durum | Not |
+|---|---|---|
+| Play "Reklam içerir" işareti | ⬜ | Store listing'de işaretlenmeli |
+| Play Veri Güvenliği: reklam kimliği toplanıyor | ⬜ | "Uygulama etkinliği / cihaz tanımlayıcıları — reklam amaçlı, üçüncü tarafla paylaşılıyor" |
+| App Privacy: "Identifiers → Advertising Data" | ⬜ | App Store Connect'te işaretlenmeli |
+| iOS izleme izni (ATT) | ✅ | `NSUserTrackingUsageDescription` eklendi |
+| Abonelik koşulları sayfası (EULA) | ✅ | `/kosullar.html` — ödeme duvarından ve Ayarlar'dan bağlantılı |
+| Fiyat, süre ve kendiliğinden yenileme bilgisi | ✅ | Ödeme duvarında yazılı |
+| "Satın alımları geri yükle" düğmesi (Apple zorunlu) | ✅ | Ödeme duvarı ve Ayarlar |
+| Abonelik yönetimine kısayol | ✅ | Ayarlar → Aboneliği yönet (mağazanın abonelik sayfası) |
+| Yaş derecelendirmesi güncellemesi | ⬜ | Reklam eklenince anket yeniden doldurulmalı |
+
+### İnceleme ekibine yazılacaklar
+
+> Uygulama ücretsiz kullanılabilir. Ücretsiz sürümde bir duyuru açılırken ödüllü reklam
+> gösterilir ve en fazla 1 federasyon takip edilebilir. Premium abonelik reklamları
+> kaldırır ve takip sınırını kaldırır. Test için: Ayarlar → Antrenör Premium.
+
+### Bilinen sınır
+
+Abonelik doğrulaması sunucusuz yapılıyor: hak sahipliği mağazadan okunup cihazda
+tutuluyor. Android'de açılışta Play'e sorulduğu için biten abonelik düşer; iOS'ta
+kullanıcı "Satın alımları geri yükle" demeden bitiş algılanmaz. Gelir büyürse
+sunucu tarafı makbuz doğrulaması eklenmeli.

@@ -5,7 +5,7 @@ import '../cekirdek/modeller.dart';
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
 import '../parcalar/duyuru_karti.dart';
-import 'duyuru_detay.dart';
+import '../parcalar/erisim.dart';
 
 /// Anasayfa: günün özeti, sunucudan yönetilen afiş ve duyuru akışı.
 class Anasayfa extends StatefulWidget {
@@ -65,8 +65,7 @@ class _AnasayfaDurumu extends State<Anasayfa> {
               itemBuilder: (_, i) => DuyuruKarti(
                 duyuru: liste[i],
                 takipte: veri.takipEdilen.contains(liste[i].federasyon),
-                onTap: () => Navigator.of(context).push(MaterialPageRoute(
-                    builder: (_) => DuyuruDetay(duyuru: liste[i]))),
+                onTap: () => duyuruyuAc(context, liste[i]),
               ),
             ),
           const SliverToBoxAdapter(child: SizedBox(height: 12)),

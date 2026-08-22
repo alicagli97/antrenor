@@ -45,3 +45,6 @@ mobile/.flutter-plugins*
 # yalnizca GitHub Secrets'ta: FCM_SERVICE_ACCOUNT
 mobile/**/*-key.json
 mobile/**/service-account*.json
+
+# Gelistirme sirasinda alinan ekran goruntuleri
+mobile/*.png

@@ -33,8 +33,19 @@ android {
             // TODO: Add your own signing config for the release build.
             // Signing with the debug keys for now, so `flutter run --release` works.
             signingConfig = signingConfigs.getByName("debug")
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
         }
     }
+}
+
+dependencies {
+    // play-services-ads, androidx.work 2.7.0'i (Room 2.2.5) getiriyor; bu surum
+    // R8 ile birlikte acilista "Failed to create an instance of WorkDatabase"
+    // hatasi veriyor. Guncel surum zorlanarak cozuluyor.
+    implementation("androidx.work:work-runtime:2.10.0")
 }
 
 kotlin {

@@ -4,6 +4,7 @@
 Magaza formlarina verilecek genel erisime acik adresler:
     /                 tanitim + veri akisi durumu
     /gizlilik.html    Gizlilik Politikasi (her iki magaza icin zorunlu)
+    /kosullar.html    Kullanim Kosullari / EULA (abonelik satisi icin zorunlu)
     /destek.html      Destek / iletisim (store listing icin zorunlu)
     /veri-silme.html  Kullanici verisi ve silme aciklamasi
 """
@@ -60,6 +61,7 @@ def page(title: str, body: str) -> str:
 <title>{title} — {APP_NAME}</title><style>{STYLE}</style></head>
 <body><div class="wrap">{body}
 <nav><a href="/">Ana sayfa</a><a href="/gizlilik.html">Gizlilik</a>
+<a href="/kosullar.html">Kullanım Koşulları</a>
 <a href="/veri-silme.html">Veri silme</a><a href="/destek.html">Destek</a></nav>
 </div></body></html>"""
 
@@ -109,9 +111,40 @@ def privacy_page() -> str:
 
 <div class="card">
   <h2>Kısa özet</h2>
-  <p><strong>{APP_NAME} kişisel veri toplamaz.</strong> Uygulamada hesap oluşturulmaz,
-  giriş yapılmaz. Takip ettiğiniz federasyonlar ve okuma tercihleriniz yalnızca
-  kendi telefonunuzda saklanır; bize gönderilmez.</p>
+  <p><strong>{APP_NAME} sizden kişisel veri toplamaz.</strong> Uygulamada hesap
+  oluşturulmaz, giriş yapılmaz. Takip ettiğiniz federasyonlar ve okuma
+  tercihleriniz yalnızca kendi telefonunuzda saklanır; bize gönderilmez.</p>
+  <p>Ücretsiz sürümde reklam gösterildiği için reklam sağlayıcısı (Google AdMob)
+  cihazınıza ait bazı verileri kendi adına işler. Aşağıda tam olarak
+  açıklanmıştır.</p>
+</div>
+
+<div class="card">
+  <h2>Reklamlar</h2>
+  <p>Ücretsiz sürümde duyuruları açarken kısa reklamlar gösterilir. Reklamlar
+  <strong>Google AdMob</strong> tarafından sunulur ve AdMob bu sırada cihaz
+  reklam kimliğinizi, yaklaşık konum bilgisini (IP tabanlı, şehir düzeyinde),
+  cihaz ve uygulama bilgilerini reklam gösterimi, ölçüm ve kötüye kullanım
+  önleme amacıyla işler. Bu veriler bize aktarılmaz; biz yalnızca toplam
+  gösterim ve kazanç istatistiklerini görürüz.</p>
+  <p>Google'ın bu verileri nasıl kullandığı:
+  <a href="https://policies.google.com/technologies/partner-sites">Google
+  Gizlilik ve Şartlar</a>. Kişiselleştirilmiş reklamı Android'de
+  <em>Ayarlar → Google → Reklamlar</em>, iOS'ta <em>Ayarlar → Gizlilik ve
+  Güvenlik → İzleme</em> bölümünden kapatabilirsiniz.</p>
+  <p><strong>Premium abonelikte hiç reklam gösterilmez</strong> ve reklam
+  sağlayıcısına hiçbir veri gitmez.</p>
+</div>
+
+<div class="card">
+  <h2>Abonelik ve ödeme</h2>
+  <p>Premium abonelik Google Play veya App Store üzerinden satın alınır.
+  <strong>Ödeme bilgileriniz bize hiçbir zaman ulaşmaz;</strong> kart bilgisi,
+  fatura adresi veya mağaza hesabınızın kimliği tarafımızca görülmez ve
+  saklanmaz. Uygulama mağazadan yalnızca "bu cihazda etkin abonelik var mı"
+  bilgisini alır ve bunu telefonun kendi belleğinde tutar.</p>
+  <p>Aboneliği, telefonunuzun mağaza ayarlarındaki abonelikler bölümünden
+  istediğiniz zaman iptal edebilirsiniz.</p>
 </div>
 
 <div class="card">
@@ -123,13 +156,16 @@ def privacy_page() -> str:
 </div>
 
 <div class="card">
-  <h2>Toplanmayan veriler</h2>
+  <h2>Bizim toplamadığımız veriler</h2>
   <ul>
-    <li>Ad, e-posta, telefon</li>
-    <li>Konum, kişiler, kamera, mikrofon, sağlık verisi</li>
-    <li>Reklam kimliği, izleme çerezleri</li>
+    <li>Ad, e-posta, telefon numarası</li>
+    <li>Kişiler, kamera, mikrofon, sağlık verisi, hassas konum</li>
+    <li>Ödeme ve kart bilgileri</li>
+    <li>Hangi duyuruyu okuduğunuz, ne kadar kullandığınız</li>
   </ul>
-  <p>Veriler üçüncü taraflara satılmaz veya pazarlama amacıyla paylaşılmaz.</p>
+  <p>Bu veriler bizim tarafımızdan toplanmaz, satılmaz veya pazarlama amacıyla
+  paylaşılmaz. Reklam sağlayıcısının kendi adına işlediği veriler yukarıdaki
+  "Reklamlar" bölümünde ayrıca belirtilmiştir.</p>
 </div>
 
 <div class="card">
@@ -144,6 +180,84 @@ def privacy_page() -> str:
   <a href="mailto:{SUPPORT_EMAIL}">{SUPPORT_EMAIL}</a>. Uygulama hesabı olmadığından
   silinecek sunucu kaydı bulunmaz; ayrıntı için
   <a href="/veri-silme.html">veri silme sayfası</a>.</p>
+</div>""")
+
+
+def terms_page() -> str:
+    return page("Kullanım Koşulları", f"""
+<h1>Kullanım Koşulları</h1>
+<p class="muted">Son güncelleme: {datetime.now().strftime('%d.%m.%Y')}</p>
+
+<div class="card">
+  <h2>Uygulama nedir</h2>
+  <p>{APP_NAME}, Türkiye'deki spor federasyonlarının herkese açık resmî
+  sitelerinde yayımlanan duyuru, faaliyet takvimi ve mevzuat belgelerini tek
+  yerde toplayan bağımsız bir uygulamadır. Hiçbir federasyonla, Gençlik ve Spor
+  Bakanlığı ile veya resmî bir kurumla bağlantısı, ortaklığı ya da onay ilişkisi
+  yoktur.</p>
+</div>
+
+<div class="card">
+  <h2>İçeriğin doğruluğu</h2>
+  <p>Uygulamadaki kayıtlar kaynak sitelerden otomatik olarak derlenir ve özet
+  biçiminde sunulur. <strong>Bağlayıcı ve resmî olan, federasyonun kendi
+  sitesindeki asıl metindir.</strong> Kaynakta yapılan değişiklikler uygulamaya
+  gecikmeli yansıyabilir; teknik nedenlerle bir duyuru hiç alınamayabilir.
+  Kurs, vize, seminer veya müsabaka gibi hak doğuran işlemlerde son kontrolü
+  federasyonun resmî sayfasından yapmak kullanıcının sorumluluğundadır.
+  Uygulama, eksik veya gecikmiş bilgiden doğan sonuçlardan sorumlu tutulamaz.</p>
+</div>
+
+<div class="card">
+  <h2>Ücretsiz sürüm ve reklamlar</h2>
+  <p>Ücretsiz sürümde bir duyuruyu açmak için kısa bir ödüllü reklam izlenir ve
+  aynı anda en fazla 1 federasyon takip edilebilir. Reklamlar Google AdMob
+  tarafından sunulur; ayrıntısı
+  <a href="/gizlilik.html">Gizlilik Politikası</a>'ndadır.</p>
+</div>
+
+<div class="card">
+  <h2>Premium abonelik</h2>
+  <ul>
+    <li>Premium abonelikte reklam gösterilmez ve takip edilebilecek federasyon
+    sayısında sınır yoktur.</li>
+    <li>Abonelik aylık veya yıllık olarak, uygulama içinden Google Play ya da
+    App Store üzerinden satın alınır. Güncel fiyat satın alma ekranında,
+    kendi para biriminizde gösterilir.</li>
+    <li>Abonelik, dönem bitiminden en az 24 saat önce iptal edilmediği sürece
+    kendiliğinden yenilenir ve ücret mağaza hesabınızdan tahsil edilir.</li>
+    <li>İptal, telefonunuzun mağaza ayarlarındaki abonelikler bölümünden
+    yapılır. İptal sonrasında premium haklar ödenmiş dönemin sonuna kadar
+    devam eder.</li>
+    <li>İade talepleri, ödemenin alındığı mağazanın (Google Play / Apple)
+    kendi iade kuralları çerçevesinde doğrudan mağazaya iletilir. Ödemeye
+    tarafımızca erişim olmadığından iadeyi biz gerçekleştiremeyiz.</li>
+    <li>Yeni cihaza geçtiğinizde aboneliğinizi, Ayarlar ekranındaki
+    "Satın alımları geri yükle" ile taşıyabilirsiniz.</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>Uygun kullanım</h2>
+  <p>Uygulamayı, hizmeti aksatacak biçimde otomatik araçlarla kullanmamayı,
+  reklam gösterimlerini yapay olarak artırmaya veya ödeme sistemini atlatmaya
+  çalışmamayı kabul edersiniz. Bu tür kullanım tespit edilirse erişim
+  kısıtlanabilir.</p>
+</div>
+
+<div class="card">
+  <h2>Telif ve markalar</h2>
+  <p>Federasyonlara ait duyuru metinleri, belgeler, adlar ve amblemler ilgili
+  kurumlara aittir; uygulamada kaynak gösterilerek ve kaynağa bağlantı verilerek
+  yer alır. Bir federasyon kendisine ait içeriğin kaldırılmasını talep ederse
+  ilgili kayıtlar kaldırılır.</p>
+</div>
+
+<div class="card">
+  <h2>Değişiklikler ve iletişim</h2>
+  <p>Bu koşullar güncellenebilir; güncel sürüm her zaman bu sayfada yayımlanır.
+  Soru ve talepleriniz için
+  <a href="mailto:{SUPPORT_EMAIL}">{SUPPORT_EMAIL}</a>.</p>
 </div>""")
 
 
@@ -201,6 +315,14 @@ def support_page() -> str:
     <li><strong>Federasyon eklenmesini istiyorum.</strong> Kurum adı ve site adresini gönderin.</li>
     <li><strong>Bu resmî bir federasyon uygulaması mı?</strong> Hayır. Bağımsız bir
     duyuru toplayıcıdır; içeriğin resmî hâli federasyonların kendi sitelerindedir.</li>
+    <li><strong>Aboneliğimi nasıl iptal ederim?</strong> Telefonunuzun mağaza
+    ayarlarındaki abonelikler bölümünden. Uygulamada Ayarlar → Aboneliği yönet
+    sizi doğrudan oraya götürür.</li>
+    <li><strong>Yeni telefona geçtim, premium gitti.</strong> Ayarlar →
+    Satın alımları geri yükle. Mağaza hesabınız aynı olmalıdır.</li>
+    <li><strong>Neden duyuru açarken reklam çıkıyor?</strong> Uygulamanın
+    taraması ve yayını ücretsiz sürümde reklamla karşılanıyor. Premium
+    abonelikte hiç reklam gösterilmez.</li>
   </ul>
 </div>""")
 
@@ -211,6 +333,7 @@ def main() -> None:
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
     (DOCS / "index.html").write_text(index_page(meta), encoding="utf-8")
     (DOCS / "gizlilik.html").write_text(privacy_page(), encoding="utf-8")
+    (DOCS / "kosullar.html").write_text(terms_page(), encoding="utf-8")
     (DOCS / "veri-silme.html").write_text(deletion_page(), encoding="utf-8")
     (DOCS / "destek.html").write_text(support_page(), encoding="utf-8")
     print(f"statik sayfalar yazildi -> {DOCS}")

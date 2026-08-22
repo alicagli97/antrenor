@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Apple gizlilik bildirimi (2024'ten beri zorunlu).
+
+  Bu dosya YALNIZCA uygulamanin kendi davranisini anlatir. Kullandigimiz
+  kutuphaneler (GoogleMobileAds, Firebase, shared_preferences...) kendi
+  bildirimlerini kendileri tasiyor; Xcode hepsini birlestirip tek rapor
+  uretiyor.
+
+  Antrenor kendi adina hicbir veri toplamiyor: hesap yok, analitik yok,
+  sunucumuza kullanici verisi gitmiyor. Reklam kimligini isleyen taraf
+  Google AdMob ve bunu kendi bildiriminde beyan ediyor. NSPrivacyTracking
+  burada true, cunku uygulama ATT izni isteyip kisisellestirilmis reklama
+  izin veriyor.
+
+  ONEMLI: Xcode'da bu dosyanin Runner hedefinin "Copy Bundle Resources"
+  listesine eklenmis olmasi gerekiyor. Mac'te projeyi ilk actiginizda
+  dosyayi Runner klasorune surukleyip hedefi isaretlemek yeterli.
+-->
+<plist version="1.0">
+<dict>
+	<key>NSPrivacyTracking</key>
+	<true/>
+
+	<!-- Uygulamanin kendisi izleme amaciyla hicbir alan adina baglanmiyor;
+	     reklam alan adlari GoogleMobileAds'in kendi bildiriminde. -->
+	<key>NSPrivacyTrackingDomains</key>
+	<array/>
+
+	<!-- Uygulamanin kendi topladigi veri yok. -->
+	<key>NSPrivacyCollectedDataTypes</key>
+	<array/>
+
+	<key>NSPrivacyAccessedAPITypes</key>
+	<array>
+		<dict>
+			<!-- Tema tercihi, takip listesi ve bildirim durumu cihazda
+			     UserDefaults ile saklaniyor (shared_preferences). -->
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryUserDefaults</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>CA92.1</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

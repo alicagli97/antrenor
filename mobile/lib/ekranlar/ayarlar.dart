@@ -1,9 +1,13 @@
+import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
-import '../cekirdek/bildirim.dart';
+import '../cekirdek/abonelik.dart';
 import '../cekirdek/tema.dart';
+import '../parcalar/bildirim_istegi.dart';
 import '../cekirdek/veri.dart';
+import 'premium.dart';
 
 /// Ayarlar: tercihler ve mağazaların zorunlu tuttuğu sayfalar.
 /// Hesap yok — giriş/çıkış veya hesap silme ekranı da yok.
@@ -17,9 +21,56 @@ class AyarlarEkrani extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final abonelik = Abonelik.ornek;
+
     return ListView(
       padding: const EdgeInsets.fromLTRB(Olcu.kenar, 4, Olcu.kenar, 28),
       children: [
+        const _BolumBasligi('Abonelik'),
+        _Kart(children: [
+          _Satir(
+            simge: Icons.workspace_premium_rounded,
+            renk: Renkler.kurs,
+            baslik: Abonelik.testPremium
+                ? 'Premium — TEST SÜRÜMÜ'
+                : abonelik.premium
+                    ? 'Premium etkin'
+                    : 'Antrenör Premium',
+            alt: Abonelik.testPremium
+                ? 'Bu paket yalnızca test için üretildi, mağazaya gitmez'
+                : abonelik.premium
+                    ? 'Reklamsız · sınırsız federasyon takibi'
+                    : 'Reklamları kaldır, istediğin kadar federasyonu takip et',
+            onTap: () => PremiumEkrani.ac(context),
+          ),
+          if (abonelik.premium) ...[
+            const _Ayrac(),
+            _Satir(
+              simge: Icons.receipt_long_rounded,
+              renk: Renkler.mevzuat,
+              baslik: 'Aboneliği yönet',
+              alt: 'Yenilemeyi durdurma ve fatura bilgileri mağazada',
+              onTap: _abonelikleriAc,
+            ),
+          ] else ...[
+            const _Ayrac(),
+            _Satir(
+              simge: Icons.restore_rounded,
+              renk: Renkler.mevzuat,
+              baslik: 'Satın alımları geri yükle',
+              alt: 'Daha önce abone olduysan premium bu cihaza taşınır',
+              onTap: () async {
+                final mesajci = ScaffoldMessenger.of(context);
+                await abonelik.geriYukle();
+                mesajci.showSnackBar(SnackBar(
+                  content: Text(abonelik.premium
+                      ? 'Premium geri yüklendi'
+                      : 'Bu hesapta etkin abonelik bulunamadı'),
+                ));
+              },
+            ),
+          ],
+        ]),
         const _BolumBasligi('Tercihler'),
         _Kart(children: [
           _Satir(
@@ -53,7 +104,7 @@ class AyarlarEkrani extends StatelessWidget {
             alt: veri.takipEdilen.isEmpty
                 ? 'Önce federasyon takip et'
                 : 'Takip ettiğin federasyonlarda yeni duyuru olunca haber ver',
-            onTap: () => _bildirimIzni(context),
+            onTap: () => bildirimIzniSor(context, veri, zorla: true),
           ),
         ]),
         const _BolumBasligi('Uygulama'),
@@ -69,6 +120,12 @@ class AyarlarEkrani extends StatelessWidget {
               renk: Renkler.takvim,
               baslik: 'Gizlilik Politikası',
               onTap: () => _ac('$site/gizlilik.html')),
+          const _Ayrac(),
+          _Satir(
+              simge: Icons.gavel_rounded,
+              renk: Renkler.takvim,
+              baslik: 'Kullanım Koşulları',
+              onTap: () => _ac('$site/kosullar.html')),
           const _Ayrac(),
           _Satir(
               simge: Icons.delete_sweep_rounded,
@@ -109,56 +166,14 @@ class AyarlarEkrani extends StatelessWidget {
     );
   }
 
-  /// Sistem izin penceresinden önce nedenini açıklıyoruz: izin bir kez
-  /// soruluyor, reddedilirse geri dönüşü zor.
-  Future<void> _bildirimIzni(BuildContext context) async {
-    if (!Bildirim.hazir) {
-      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
-          content: Text('Bildirim altyapısı bu sürümde kapalı')));
-      return;
-    }
-    final onay = await showDialog<bool>(
-      context: context,
-      builder: (c) => AlertDialog(
-        backgroundColor: Renkler.yuzeyYuksek,
-        shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(Olcu.kartYaricap)),
-        title: Text('Bildirimlere izin ver', style: Yazi.baslik),
-        content: Text(
-            'Takip ettiğin federasyonlarda yeni kurs, vize veya talimat '
-            'yayımlandığında haber veririz. Sadece seçtiğin federasyonlar '
-            'için bildirim gönderilir.',
-            style: Yazi.govde),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.pop(c, false),
-            child: Text('Şimdi değil',
-                style: Yazi.govde.copyWith(color: Renkler.metinIkincil)),
-          ),
-          FilledButton(
-            style: FilledButton.styleFrom(
-                backgroundColor: Renkler.kurs.withValues(alpha: 0.18),
-                foregroundColor: Renkler.kurs),
-            onPressed: () => Navigator.pop(c, true),
-            child: const Text('İzin ver'),
-          ),
-        ],
-      ),
-    );
-    if (onay != true || !context.mounted) return;
-
-    final verildi = await Bildirim.izinIste();
-    if (verildi) await Bildirim.esitle(veri.takipEdilen);
-    if (!context.mounted) return;
-    ScaffoldMessenger.of(context).showSnackBar(SnackBar(
-      content: Text(verildi
-          ? 'Bildirimler açıldı'
-          : 'İzin verilmedi; telefon ayarlarından açabilirsin'),
-    ));
-  }
-
   static void _ac(String url) =>
       launchUrl(Uri.parse(url), mode: LaunchMode.externalApplication);
+
+  /// Aboneliğin yönetildiği yer mağazadır; iptal de oradan yapılır.
+  static void _abonelikleriAc() => _ac(Platform.isIOS
+      ? 'https://apps.apple.com/account/subscriptions'
+      : 'https://play.google.com/store/account/subscriptions'
+          '?package=com.antrenorapp.antrenor');
 
   static void _hakkinda(BuildContext context) => showAboutDialog(
         context: context,

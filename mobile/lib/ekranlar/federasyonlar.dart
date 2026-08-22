@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
+import '../parcalar/bildirim_istegi.dart';
 import '../parcalar/duyuru_karti.dart';
+import '../parcalar/erisim.dart';
 import 'federasyon_detay.dart';
 
 /// Federasyonlar: 65 kurum kart listesinde. Yıldız takibe alır; karta
@@ -165,8 +167,22 @@ class _FederasyonlarDurumu extends State<FederasyonlarEkrani> {
                                 tooltip:
                                     takipte ? 'Takibi bırak' : 'Takip et',
                                 onPressed: () async {
+                                  final yeniTakip = !takipte;
+                                  // Ücretsiz sürümde tek federasyon takibi
+                                  if (yeniTakip &&
+                                      !await takipEklenebilirMi(
+                                          context, veri)) {
+                                    if (mounted) setState(() {});
+                                    return;
+                                  }
                                   await veri.takibiDegistir(f.slug);
-                                  if (context.mounted) setState(() {});
+                                  if (!context.mounted) return;
+                                  setState(() {});
+                                  // İlk takipten hemen sonra: bildirimin
+                                  // anlamlı olduğu tek an burası
+                                  if (yeniTakip) {
+                                    await bildirimIzniSor(context, veri);
+                                  }
                                 },
                               ),
                             ],

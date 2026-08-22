@@ -4,8 +4,9 @@ import 'package:url_launcher/url_launcher.dart';
 import '../cekirdek/modeller.dart';
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
+import '../parcalar/bildirim_istegi.dart';
 import '../parcalar/duyuru_karti.dart';
-import 'duyuru_detay.dart';
+import '../parcalar/erisim.dart';
 
 /// Bir federasyonun her şeyi: duyurular, faaliyet takvimi, mevzuat ve
 /// oyun kuralları. Mevzuat belgeleri başlığına göre ikiye ayrılır —
@@ -72,8 +73,18 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
                   color: takipte ? Renkler.kurs : Renkler.metinIkincil),
               tooltip: takipte ? 'Takibi bırak' : 'Takip et',
               onPressed: () async {
+                final yeniTakip = !takipte;
+                // Takip sınırı yalnızca ekleme için geçerli
+                if (yeniTakip &&
+                    !await takipEklenebilirMi(context, widget.veri)) {
+                  return;
+                }
                 await widget.veri.takibiDegistir(f.slug);
-                if (mounted) setState(() {});
+                if (!mounted) return;
+                setState(() {});
+                if (yeniTakip && context.mounted) {
+                  await bildirimIzniSor(context, widget.veri);
+                }
               },
             ),
             IconButton(
@@ -119,8 +130,7 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
       itemCount: _duyurular.length,
       itemBuilder: (_, i) => DuyuruKarti(
         duyuru: _duyurular[i],
-        onTap: () => Navigator.of(context).push(MaterialPageRoute(
-            builder: (_) => DuyuruDetay(duyuru: _duyurular[i]))),
+        onTap: () => duyuruyuAc(context, _duyurular[i]),
       ),
     );
   }

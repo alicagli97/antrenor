@@ -4,7 +4,7 @@ import '../cekirdek/modeller.dart';
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
 import '../parcalar/duyuru_karti.dart';
-import 'duyuru_detay.dart';
+import '../parcalar/erisim.dart';
 
 /// Bildirimler: takip edilen federasyonların duyuruları — akıştan düşmüş
 /// geçmiş kayıtlar dâhil. Her federasyonun kendi arşiv dosyasından okunur.
@@ -123,10 +123,7 @@ class _BildirimlerDurumu extends State<BildirimlerEkrani> {
                     itemBuilder: (_, i) => DuyuruKarti(
                       duyuru: _liste[i],
                       takipte: true,
-                      onTap: () => Navigator.of(context).push(
-                          MaterialPageRoute(
-                              builder: (_) =>
-                                  DuyuruDetay(duyuru: _liste[i]))),
+                      onTap: () => duyuruyuAc(context, _liste[i]),
                     ),
                   ),
                 ),

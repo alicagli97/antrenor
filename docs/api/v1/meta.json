@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T17:32:39+00:00",
- "total": 1786,
- "new_in_last_run": 7,
+ "generated_at": "2026-08-22T18:46:24+00:00",
+ "total": 1787,
+ "new_in_last_run": 6,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -10,12 +10,12 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-22T17:32:39+00:00",
+ "latest_published_at": "2026-08-22T18:46:24+00:00",
  "categories": {
-  "duyuru": 811,
+  "duyuru": 812,
+  "takvim": 49,
   "haber": 37,
   "kurs": 252,
-  "takvim": 49,
   "musabaka": 330,
   "mevzuat": 307
  },
@@ -28,7 +28,7 @@
  ],
  "federation_counts": {
   "buzpateni": 61,
-  "shgm": 24,
+  "shgm": 25,
   "badminton": 43,
   "boks": 28,
   "oryantiring": 13,

@@ -1,5 +1,23 @@
 [
  {
+  "id": "9ffcfbdb8388459d",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Badminton faaliyet takviminde değişiklik",
+  "url": "https://www.badminton.org.tr/category/faaliyet-programi/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-22T18:44:40+00:00",
+  "first_seen_at": "2026-08-22T18:44:40+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "da6b37aa5416b07b",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
@@ -30,24 +48,6 @@
   "published_at": "2026-08-22T15:56:54+00:00",
   "first_seen_at": "2026-08-22T16:37:25+00:00",
   "source": "wp_json"
- },
- {
-  "id": "09d8bc717d0ad389",
-  "federation": "badminton",
-  "federation_name": "Türkiye Badminton Federasyonu",
-  "federation_short": "TBF",
-  "title": "Badminton faaliyet takviminde değişiklik",
-  "url": "https://www.badminton.org.tr/category/faaliyet-programi/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-22T15:53:40+00:00",
-  "first_seen_at": "2026-08-22T15:53:40+00:00",
-  "source": "takvim-html"
  },
  {
   "id": "ae5249c224f9928f",

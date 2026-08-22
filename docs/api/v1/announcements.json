@@ -1,5 +1,52 @@
 [
  {
+  "id": "b4b2eec83e37bce6",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-gebze-13",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-22T17:32:39+00:00",
+  "first_seen_at": "2026-08-22T17:32:39+00:00",
+  "source": "html"
+ },
+ {
+  "id": "9df241fe0423c7d3",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Cimnastikçimiz Ferhat, Avrupa ikincisi!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302603/cimnastikcimiz-ferhat-avrupa-ikincisi.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-22T17:32:39+00:00",
+  "first_seen_at": "2026-08-22T17:32:39+00:00",
+  "source": "html"
+ },
+ {
+  "id": "da6b37aa5416b07b",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "İşitme Engellilerde 2 Madalya Daha!",
+  "url": "https://www.badminton.org.tr/isitme-engellilerde-2-madalya-daha/13461/",
+  "summary": "18-23 Ağustos 2026 tarihleri arasında Almanya’nın Hannover kentinde düzenlenen İşitme Engelliler Gençlik Oyunları’nda 1 gümüş 1 bronz madalya daha kazandık! Kürsüye çıkarak bizleri gururlandıran sporcularımız: U19 Tek Kadınlar: Buse Kamışlı […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-22-at-18.53.25.jpeg",
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-08-22T17:14:32+00:00",
+  "first_seen_at": "2026-08-22T17:32:39+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "197b74215b616ca5",
   "federation": "boks",
   "federation_name": "Türkiye Boks Federasyonu",
@@ -10,23 +57,6 @@
   "image": null,
   "category": "haber",
   "tags": [],
-  "published_at": "2026-08-22T16:37:25+00:00",
-  "first_seen_at": "2026-08-22T16:37:25+00:00",
-  "source": "html"
- },
- {
-  "id": "6426cf895344fe84",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
-  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-gebze-134141",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
   "published_at": "2026-08-22T16:37:25+00:00",
   "first_seen_at": "2026-08-22T16:37:25+00:00",
   "source": "html"

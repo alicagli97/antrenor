@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T16:37:25+00:00",
- "total": 1784,
+ "generated_at": "2026-08-22T17:32:39+00:00",
+ "total": 1786,
  "new_in_last_run": 7,
  "sources_ok": 64,
  "sources_failed": [
@@ -10,10 +10,10 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-22T16:37:25+00:00",
+ "latest_published_at": "2026-08-22T17:32:39+00:00",
  "categories": {
-  "haber": 36,
-  "duyuru": 810,
+  "duyuru": 811,
+  "haber": 37,
   "kurs": 252,
   "takvim": 49,
   "musabaka": 330,
@@ -27,9 +27,10 @@
   }
  ],
  "federation_counts": {
-  "boks": 28,
   "buzpateni": 61,
-  "badminton": 42,
+  "shgm": 24,
+  "badminton": 43,
+  "boks": 28,
   "oryantiring": 13,
   "muaythai": 25,
   "kurek": 15,
@@ -59,7 +60,6 @@
   "gures": 24,
   "basketbol": 17,
   "hentbol": 16,
-  "shgm": 23,
   "halter": 23,
   "taekwondo": 22,
   "havasporlari": 24,

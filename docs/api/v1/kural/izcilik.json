@@ -5,7 +5,7 @@
  "sources": [
   "https://tif.org.tr/mevzuat"
  ],
- "document_count": 27,
+ "document_count": 26,
  "coach_document_count": 5,
  "documents": [
   {
@@ -51,13 +51,6 @@
    "parmak_izi": "fc25a6ece6b62ec5"
   },
   {
-   "baslik": "Ana Statü İndirmek için tıklayınız...",
-   "url": "https://tif.org.tr/files/izcilikanastatu2025.pdf",
-   "tur": "pdf",
-   "onemli": false,
-   "parmak_izi": "29d13d60e58f3e26"
-  },
-  {
    "baslik": "Disiplin Talimatı",
    "url": "https://tif.org.tr/files/disiplintalimatı.pdf",
    "tur": "pdf",
@@ -100,18 +93,18 @@
    "parmak_izi": "bb3d7322b2e5a233"
   },
   {
+   "baslik": "izcilikanastatu2025",
+   "url": "https://tif.org.tr/files/izcilikanastatu2025.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": "29d13d60e58f3e26"
+  },
+  {
    "baslik": "Norm Kadro İlke ve Standartlarına Dair Talimat",
    "url": "https://tif.org.tr/files/34043IZCILIKNORMKADRO.pdf",
    "tur": "pdf",
    "onemli": false,
    "parmak_izi": "71853c6197a6a7f2"
-  },
-  {
-   "baslik": "Salgın Şartlarında Kurs ve Kamp Kurallarını İndirmek İçin Tıklayınız...",
-   "url": "https://tif.org.tr/files/salginsartlarindakamplar.doc",
-   "tur": "word",
-   "onemli": false,
-   "parmak_izi": "b933ab84d4727e43"
   },
   {
    "baslik": "Satın Alma Talimatı",
@@ -198,6 +191,6 @@
    "parmak_izi": "dea9b7e4e23f32a9"
   }
  ],
- "checked_at": "2026-08-22T13:41:43+00:00",
- "list_fingerprint": "3645d6874a020c3c"
+ "checked_at": "2026-08-22T13:54:54+00:00",
+ "list_fingerprint": "e0044848d299db98"
 }

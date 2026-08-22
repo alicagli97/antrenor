@@ -1,25 +1,23 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T13:53:33+00:00",
- "total": 1763,
- "new_in_last_run": 0,
+ "generated_at": "2026-08-22T13:56:03+00:00",
+ "total": 1777,
+ "new_in_last_run": 12,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": [
-  "yeniden-uretim"
- ],
- "latest_published_at": "2026-08-22T13:39:31+00:00",
+ "partial_run": null,
+ "latest_published_at": "2026-08-22T13:56:03+00:00",
  "categories": {
+  "kurs": 250,
+  "musabaka": 329,
+  "duyuru": 808,
+  "mevzuat": 307,
   "takvim": 48,
-  "mevzuat": 300,
-  "duyuru": 803,
-  "haber": 35,
-  "kurs": 249,
-  "musabaka": 328
+  "haber": 35
  },
  "silent_sources": [
   {
@@ -29,12 +27,14 @@
   }
  ],
  "federation_counts": {
-  "badminton": 40,
+  "voleybol": 33,
+  "buzpateni": 61,
+  "sualti": 30,
+  "yelken": 18,
   "aticilik": 34,
-  "voleybol": 32,
+  "badminton": 40,
   "futbol": 58,
   "gsb": 46,
-  "sualti": 26,
   "gelismekteolan": 45,
   "ragbi": 28,
   "universitesporlari": 11,
@@ -48,9 +48,7 @@
   "bisiklet": 23,
   "dagcilik": 60,
   "golf": 54,
-  "buzpateni": 54,
   "triatlon": 21,
-  "yelken": 16,
   "kano": 44,
   "cimnastik": 24,
   "eskrim": 43,

@@ -1,21 +1,251 @@
 [
  {
-  "id": "065de070b4f6402a",
-  "federation": "badminton",
-  "federation_name": "Türkiye Badminton Federasyonu",
-  "federation_short": "TBF",
-  "title": "Badminton faaliyet takviminde değişiklik",
-  "url": "https://www.badminton.org.tr/category/faaliyet-programi/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "id": "c2cdc9e56236d97a",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "İkinci Kademe Temel Antrenör Uygulama Eğitim Kursu Sınav Sonuçları Açıklandı",
+  "url": "https://tvf.org.tr/icerik/ikinci-kademe-temel-antrenor-uygulama-egitim-kursu-sinav-sonuclari-aciklandi-6",
+  "summary": "",
   "image": null,
-  "category": "takvim",
+  "category": "kurs",
   "tags": [
-   "takvim",
-   "faaliyet"
+   "antrenor",
+   "kurs"
   ],
-  "published_at": "2026-08-22T13:39:31+00:00",
-  "first_seen_at": "2026-08-22T13:39:31+00:00",
-  "source": "takvim-html"
+  "published_at": "2026-08-22T13:56:03+00:00",
+  "first_seen_at": "2026-08-22T13:56:03+00:00",
+  "source": "html"
+ },
+ {
+  "id": "912d5fb5f880b3c8",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Ümitler Türkiye Şampiyonası / ...",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-umitler-turkiye-sampiyonasi-ankara-13",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-22T13:56:03+00:00",
+  "first_seen_at": "2026-08-22T13:56:03+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b47f4cda0d9dffb0",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni 2.Bölge Yarışması İZMİR ...",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-2bolge-yarismasi-izmir--13",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-22T13:56:03+00:00",
+  "first_seen_at": "2026-08-22T13:56:03+00:00",
+  "source": "html"
+ },
+ {
+  "id": "68f1441d28ff8c5b",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni 2. Bölge Yarışması / BURSA...",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-2-bolge-yarismasi-bursa-131616",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-22T13:56:03+00:00",
+  "first_seen_at": "2026-08-22T13:56:03+00:00",
+  "source": "html"
+ },
+ {
+  "id": "6d9d91f8df1ec241",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni 2.Bölge Yarışması Tarih Değişi...",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-2bolge-yarismasi--13",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-22T13:56:03+00:00",
+  "first_seen_at": "2026-08-22T13:56:03+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b4b2eec83e37bce6",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-gebze-13",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-22T13:56:03+00:00",
+  "first_seen_at": "2026-08-22T13:56:03+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d4ccd04f973273ff",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni 2.Bölge Yarışması",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-2bolge-yarismasi-1387987",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-22T13:56:03+00:00",
+  "first_seen_at": "2026-08-22T13:56:03+00:00",
+  "source": "html"
+ },
+ {
+  "id": "542af4b6513d260a",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Yeni mevzuat: TSSF 1 Yildiz Dalis Egitmeni Sinav Rehberi 2025",
+  "url": "https://www.tssf.gov.tr/wp-content/uploads/2025/01/TSSF-1-Yildiz-Dalis-Egitmeni-Sinav-Rehberi-2025.pdf",
+  "summary": "Sualtı Sporları federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-08-22T13:54:49+00:00",
+  "first_seen_at": "2026-08-22T13:54:49+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "a7e0508f80944e39",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Yeni mevzuat: TSSF 2 Yildiz Dalis Egitmeni Sinav Rehberi 2025",
+  "url": "https://www.tssf.gov.tr/wp-content/uploads/2025/01/TSSF-2-Yildiz-Dalis-Egitmeni-Sinav-Rehberi-2025.pdf",
+  "summary": "Sualtı Sporları federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-08-22T13:54:49+00:00",
+  "first_seen_at": "2026-08-22T13:54:49+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "83fe38bf2061336f",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Yeni mevzuat: TSSF Rehber Sinavi Rehberi 2025",
+  "url": "https://www.tssf.gov.tr/wp-content/uploads/2025/01/TSSF-Rehber-Sinavi-Rehberi-2025.pdf",
+  "summary": "Sualtı Sporları federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-08-22T13:54:49+00:00",
+  "first_seen_at": "2026-08-22T13:54:49+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "1a1b636e09cfbd0b",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Yeni mevzuat: tssf sinav rehberi genel kurallar 2019",
+  "url": "https://www.tssf.gov.tr/wp-content/uploads/2025/01/tssf-sinav-rehberi-genel-kurallar-2019.pdf",
+  "summary": "Sualtı Sporları federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-08-22T13:54:49+00:00",
+  "first_seen_at": "2026-08-22T13:54:49+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "dbb74dde36d1363d",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Yeni mevzuat: short track turkiye sampiyonasi yarismasi talimati1778415008910",
+  "url": "https://buzpateni.org.tr/uploads/haberler/short-track-turkiye-sampiyonasi-yarismasi-talimati1778415008910.pdf",
+  "summary": "Buz Pateni federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-08-22T13:54:47+00:00",
+  "first_seen_at": "2026-08-22T13:54:47+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "f34daa6092c58af7",
+  "federation": "yelken",
+  "federation_name": "Türkiye Yelken Federasyonu",
+  "federation_short": "TYF",
+  "title": "Yeni mevzuat: egitim kurulu gprev talimati 29 01 2014",
+  "url": "https://arsiv.tyf.org.tr/dosyalar/menu/egitim-kurulu-gprev-talimati-29-01-2014.pdf",
+  "summary": "Yelken federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-08-22T13:54:46+00:00",
+  "first_seen_at": "2026-08-22T13:54:46+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "5df1c83e42579b16",
+  "federation": "yelken",
+  "federation_name": "Türkiye Yelken Federasyonu",
+  "federation_short": "TYF",
+  "title": "Yeni mevzuat: yelken hakem talimati 10.02.2015",
+  "url": "https://arsiv.tyf.org.tr/dosyalar/menu/yelken-hakem-talimati-10.02.2015.pdf",
+  "summary": "Yelken federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-08-22T13:54:46+00:00",
+  "first_seen_at": "2026-08-22T13:54:46+00:00",
+  "source": "mevzuat"
  },
  {
   "id": "dd07143c3986ac80",
@@ -32,8 +262,8 @@
    "talimat",
    "antrenor"
   ],
-  "published_at": "2026-08-22T12:56:35+00:00",
-  "first_seen_at": "2026-08-22T12:56:35+00:00",
+  "published_at": "2026-08-22T13:54:44+00:00",
+  "first_seen_at": "2026-08-22T13:54:44+00:00",
   "source": "mevzuat"
  },
  {
@@ -51,8 +281,8 @@
    "talimat",
    "antrenor"
   ],
-  "published_at": "2026-08-22T12:56:35+00:00",
-  "first_seen_at": "2026-08-22T12:56:35+00:00",
+  "published_at": "2026-08-22T13:54:44+00:00",
+  "first_seen_at": "2026-08-22T13:54:44+00:00",
   "source": "mevzuat"
  },
  {
@@ -70,8 +300,8 @@
    "talimat",
    "antrenor"
   ],
-  "published_at": "2026-08-22T12:56:35+00:00",
-  "first_seen_at": "2026-08-22T12:56:35+00:00",
+  "published_at": "2026-08-22T13:54:44+00:00",
+  "first_seen_at": "2026-08-22T13:54:44+00:00",
   "source": "mevzuat"
  },
  {
@@ -89,8 +319,8 @@
    "talimat",
    "antrenor"
   ],
-  "published_at": "2026-08-22T12:56:35+00:00",
-  "first_seen_at": "2026-08-22T12:56:35+00:00",
+  "published_at": "2026-08-22T13:54:44+00:00",
+  "first_seen_at": "2026-08-22T13:54:44+00:00",
   "source": "mevzuat"
  },
  {
@@ -108,9 +338,27 @@
    "talimat",
    "antrenor"
   ],
-  "published_at": "2026-08-22T12:56:35+00:00",
-  "first_seen_at": "2026-08-22T12:56:35+00:00",
+  "published_at": "2026-08-22T13:54:44+00:00",
+  "first_seen_at": "2026-08-22T13:54:44+00:00",
   "source": "mevzuat"
+ },
+ {
+  "id": "065de070b4f6402a",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Badminton faaliyet takviminde değişiklik",
+  "url": "https://www.badminton.org.tr/category/faaliyet-programi/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-22T13:39:31+00:00",
+  "first_seen_at": "2026-08-22T13:39:31+00:00",
+  "source": "takvim-html"
  },
  {
   "id": "8d2534b6122ed600",
@@ -5159,256 +5407,5 @@
   "published_at": "2026-08-21T09:48:58+00:00",
   "first_seen_at": "2026-08-21T09:48:58+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "76f07fff3cd5780d",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Yeni mevzuat: 01- SPOR DALI TESCİL TALİMATI (30.10.2024)",
-  "url": "https://www.taf.gov.tr/uploads/files/SPOR%20DALI%20TESCIL%20TALIMATI.pdf",
-  "summary": "Atıcılık federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-21T09:48:58+00:00",
-  "first_seen_at": "2026-08-21T09:48:58+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "97865fffbf323771",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Yeni mevzuat: 03- ANTRENÖR EĞİTİMİ TALİMATI (27.09.2023)",
-  "url": "https://www.taf.gov.tr/uploads/files/Antrenor_Egtm_Talmat.pdf",
-  "summary": "Atıcılık federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-21T09:48:58+00:00",
-  "first_seen_at": "2026-08-21T09:48:58+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cb20984caca7180a",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Yeni mevzuat: 04- SPORCU LİSANS, VİZE VE TRANSFER TALİMATI (04.10.2022)",
-  "url": "https://www.taf.gov.tr/uploads/files/AticilikveAvcilikFed._1.pdf",
-  "summary": "Atıcılık federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-21T09:48:58+00:00",
-  "first_seen_at": "2026-08-21T09:48:58+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "5cd2751699ed29e0",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Gelişmekte Olan Branşlar faaliyet takviminde değişiklik",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-469-10-13-eylul-2026-hemsball-gencler-ve-buyukler-turkiye-sampiyonasi-mugla-mentese",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-21T09:48:51+00:00",
-  "first_seen_at": "2026-08-21T09:48:51+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "31d1b77cf43a9443",
-  "federation": "ragbi",
-  "federation_name": "Türkiye Ragbi Federasyonu",
-  "federation_short": "TRF",
-  "title": "Flag Futbol 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Başlıyor!",
-  "url": "https://trf.gov.tr/?p=10780",
-  "summary": "Flag Futbol 1. Kademe Yardımcı Antrenör Yetiştirme Kursu başlıyor! Kurs Tarihi: 21-25 Eylül 2026 Yer: Ankara – Yenimahalle Spor Kompleksi",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-21T09:17:25+00:00",
-  "first_seen_at": "2026-08-21T09:50:24+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "cec3dfb91e1dc628",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Artistik Buz Pateni 2026-2027 Sezonu Antrenör Vize İşlemleri ve Gelişim Semineri",
-  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-2026-2027-sezonu-antrenor-vize-islemleri-ve-gelisim-semineri-13",
-  "summary": "​ PURE AS ICE Sonuçlar Bilgi Portalı Galeri Sizden Gelenler Vizyon & Misyon 2030 Kayıt Ol Giriş Yap ARTİSTİK BUZ PATENİ 2026-2027 SEZONU ANTRENÖR VİZE İŞLEMLERİ VE GELİŞİM SEMİNERİ Anasayfa Bildiriler ARTİSTİK BUZ PATENİ 2026-2027 SEZONU ANTRENÖR VİZE İŞLEMLERİ VE GELİŞİM SEMİNERİ ARTİSTİK BUZ PATENİ 2026-2027 SEZONU ANTRENÖR VİZE İŞLEMLERİ VE GELİŞİM SEMİNERİ 2026-2027 Sezonunda Antrenörlerimizin sezon boyunca vizeli sayılabilmesi ve yarışmalarda görev alabilmeleri için Federasyonumuz tarafından düzenlenecek olan, iki Antrenör gelişim seminerinden bir tanesine katılarak vize ücretlerini yatır",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "vize"
-  ],
-  "published_at": "2026-08-21T08:55:18+00:00",
-  "first_seen_at": "2026-08-21T08:55:18+00:00",
-  "source": "html"
- },
- {
-  "id": "21a2bc158b0794df",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "12-13 Eylül 2026 Paintbal Büyükler Kulüpler Türkiye Şampiyonaı 3. Ayak Müsabakaları / Yalova Termal",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-470-12-13-eylul-2026-paintbal-buyukler-kulupler-turkiye-sampiyonai-3.-ayak-musabakalari-yalova-termal",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-21T08:55:18+00:00",
-  "first_seen_at": "2026-08-21T08:55:18+00:00",
-  "source": "html"
- },
- {
-  "id": "98131541598edc22",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Yeni mevzuat: DÜNYA ATICILIK PARA SPORU TEKNİK KURALLARI VE YÖNETMELİKLERİ",
-  "url": "https://www.taf.gov.tr/uploads/files/KURALLAR.pdf",
-  "summary": "Atıcılık federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-21T08:53:52+00:00",
-  "first_seen_at": "2026-08-21T08:53:52+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "b6ca9657653a3ff5",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Yeni mevzuat: ISSF Kural Kitabı (Havalı ve Ateşli Silahlar)",
-  "url": "https://www.taf.gov.tr/uploads/files/iss_kural_kitab_12.02.2018-compressed.pdf",
-  "summary": "Atıcılık federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-21T08:53:52+00:00",
-  "first_seen_at": "2026-08-21T08:53:52+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "b39e25cd21937ef2",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Yeni mevzuat: ISSF OFFICAL STATUTES RULES AND REGULATIONS",
-  "url": "https://www.taf.gov.tr/uploads/files/ISSF_Official-Statutes-Rule_Book_2023_Approved_Version.pdf",
-  "summary": "Atıcılık federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-21T08:53:52+00:00",
-  "first_seen_at": "2026-08-21T08:53:52+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "52490d36f64ec450",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Yeni mevzuat: Plak Atışları Müsabaka Kuralları",
-  "url": "https://www.taf.gov.tr/uploads/files/OL%C4%B0MP%C4%B0K%20Y%C4%B0VS%C4%B0Z%20T%C3%9CFEK%20M%C3%9CSABAKA%20KURALLARI%20-%20SON.pdf",
-  "summary": "Atıcılık federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-21T08:53:52+00:00",
-  "first_seen_at": "2026-08-21T08:53:52+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "409f55fe74085313",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Voleybol faaliyet takviminde değişiklik",
-  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-21T08:53:35+00:00",
-  "first_seen_at": "2026-08-21T08:53:35+00:00",
-  "source": "takvim-excel"
- },
- {
-  "id": "0ebc5d5b7e7649b1",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "9. Mali Genel Kurul Çağrısı ve Gündemi",
-  "url": "https://tbbdf.org.tr/9-mali-genel-kurul-cagrisi-ve-gundemi",
-  "summary": ", Cumartesi Türkiye Bocce Bowling ve Dart Federasyonu 9. Mali Genel Kurul Toplantısı, 22 Eylül 2026 Salı günü saat 10.30’da, Gençlik ve Spor...",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-21T07:54:36+00:00",
-  "first_seen_at": "2026-08-21T07:54:36+00:00",
-  "source": "html"
- },
- {
-  "id": "fc757eabbe344f1a",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 329 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-21T07:52:41+00:00",
-  "first_seen_at": "2026-08-21T07:52:41+00:00",
-  "source": "takvim-html"
  }
 ]

@@ -3,11 +3,134 @@
  "federation_name": "Türkiye Atıcılık Federasyonu",
  "federation_short": "TAF",
  "sources": [
+  "https://www.taf.gov.tr/tr/talimatlar",
   "https://www.taf.gov.tr/tr/issf-kurallari"
  ],
- "document_count": 7,
- "coach_document_count": 0,
+ "document_count": 21,
+ "coach_document_count": 5,
  "documents": [
+  {
+   "baslik": "HAVALI VE ATEŞLİ SİLAHLAR HAKEM, JÜRİ VE GÖZLEMCİ TALİMATI (21.05.2025)",
+   "url": "https://www.taf.gov.tr/uploads/files/HavaliAtesliHJGTalimati.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "KULÜP AKREDİTASYON TALİMATI (28.03.2018)",
+   "url": "https://www.taf.gov.tr/uploads/files/97773Kulp_Akreditasyon_Talimat-.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "PLAK ATIŞLARI HAKEM, JÜRİ VE GÖZLEMCİ TALİMATI (21.05.2025)",
+   "url": "https://www.taf.gov.tr/uploads/files/PlakAtislariHGJTalimati.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "SPOR DALI TESCİL TALİMATI (30.10.2024)",
+   "url": "https://www.taf.gov.tr/uploads/files/SPOR%20DALI%20TESCIL%20TALIMATI.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "SPORCU LİSANS, VİZE VE TRANSFER TALİMATI (04.10.2022)",
+   "url": "https://www.taf.gov.tr/uploads/files/AticilikveAvcilikFed._1.pdf",
+   "tur": "pdf",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "AVCIBAŞI MÜSABAKA TALİMATI (04.06.2015)",
+   "url": "https://www.taf.gov.tr/uploads/files/AVCIBAI%20MSABAKA%20TALMATI%2004.06.2015.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "BÜTÇE VE MUHASEBE TALİMATI (18.02.2008)",
+   "url": "https://www.taf.gov.tr/uploads/files/butce%20ve%20muhasebe%20talimati%20.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "DİSİPLİN VE CEZA TALİMATI (28.03.2018)",
+   "url": "https://www.taf.gov.tr/uploads/files/26138Disiplin_ve_Ceza_Talimat_2.compressed-min.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "MİLLİ TAKIM BELİRLEME KRİTERLERİ TALİMATI (14.03.2025)",
+   "url": "https://www.taf.gov.tr/uploads/files/95826M%C4%B0LL%C4%B0%20SPORCU%20BEL%C4%B0RLEME%20KR%C4%B0TERLER%C4%B0%20TAL%C4%B0MATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "MÜSABAKA VE ANTRENMANLARDA UYGULANACAK ATIŞ EMNİYET VE GÜVENLİK TALİMATI (07.02.2017)",
+   "url": "https://www.taf.gov.tr/uploads/files/Atis_emniyet_ve_gvenlik_talimat.compressed.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "POLİGONLAR VE SPOR TESİSLERİ YETERLİLİK TALİMATI (08.11.2019)",
+   "url": "https://www.taf.gov.tr/uploads/files/YETERLLK_TALMATI.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "SPOR FAALİYETLERİNDE KULLANILAN SİLAHLARIN BELGELENDİRİLMESİ VE TAŞINMASI TALİMATI (26.01.2018)",
+   "url": "https://www.taf.gov.tr/uploads/files/SPOR_FAALYETLERNDE_KULLANILAN_SLAHLAR_HK.TALMAT-min.compressed.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "SÖZLEŞMELİ PERSONEL ÇALIŞTIRILMASI HAKKINDA TALİMAT",
+   "url": "https://www.taf.gov.tr/uploads/files/sozlesmeli%20personel%20calistirilmasi%20talimati.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "TAF Mağaza",
+   "url": "https://www.taf.gov.tr/tr/talimatlar",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": "b4f714683bd81d21",
+   "guncellendi": "2026-08-22T04:18:56+00:00"
+  },
+  {
+   "baslik": "TAŞINIR MAL İŞLEMLERİ TALİMATI (16.08.2018)",
+   "url": "https://www.taf.gov.tr/uploads/files/48187tanr_mal_ilemleri.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Yönetmelik",
+   "url": "https://www.taf.gov.tr/tr/yonetmelik",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": "2ad289de068b87bd",
+   "guncellendi": "2026-08-22T04:18:57+00:00"
+  },
+  {
+   "baslik": "ISSF Kuralları",
+   "url": "https://www.taf.gov.tr/tr/issf-kurallari",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": "02c0bfefcfa446e9",
+   "guncellendi": "2026-08-22T04:18:57+00:00"
+  },
   {
    "baslik": "DÜNYA ATICILIK PARA SPORU TEKNİK KURALLARI VE YÖNETMELİKLERİ",
    "url": "https://www.taf.gov.tr/uploads/files/KURALLAR.pdf",
@@ -21,30 +144,6 @@
    "tur": "pdf",
    "onemli": false,
    "parmak_izi": ""
-  },
-  {
-   "baslik": "TAF Mağaza",
-   "url": "https://www.taf.gov.tr/tr/issf-kurallari",
-   "tur": "html",
-   "onemli": false,
-   "parmak_izi": "02c0bfefcfa446e9",
-   "guncellendi": "2026-08-22T04:18:57+00:00"
-  },
-  {
-   "baslik": "Talimatlar",
-   "url": "https://www.taf.gov.tr/tr/talimatlar",
-   "tur": "html",
-   "onemli": false,
-   "parmak_izi": "b4f714683bd81d21",
-   "guncellendi": "2026-08-22T04:18:56+00:00"
-  },
-  {
-   "baslik": "Yönetmelik",
-   "url": "https://www.taf.gov.tr/tr/yonetmelik",
-   "tur": "html",
-   "onemli": false,
-   "parmak_izi": "2ad289de068b87bd",
-   "guncellendi": "2026-08-22T04:18:57+00:00"
   },
   {
    "baslik": "ISSF Kural Kitabı (Havalı ve Ateşli Silahlar)",
@@ -61,6 +160,6 @@
    "parmak_izi": "2669510a2378c16d"
   }
  ],
- "checked_at": "2026-08-22T13:43:14+00:00",
- "list_fingerprint": "124af796f4563aa0"
+ "checked_at": "2026-08-22T13:54:44+00:00",
+ "list_fingerprint": "6843a37da829b58d"
 }

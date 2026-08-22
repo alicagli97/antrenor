@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T09:40:01+00:00",
- "total": 1815,
- "new_in_last_run": 7,
+ "generated_at": "2026-08-22T10:36:24+00:00",
+ "total": 1816,
+ "new_in_last_run": 1,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -12,7 +12,7 @@
  "partial_run": null,
  "latest_published_at": "2026-08-22T09:40:01+00:00",
  "categories": {
-  "duyuru": 809,
+  "duyuru": 810,
   "mevzuat": 346,
   "haber": 35,
   "kurs": 250,
@@ -21,7 +21,7 @@
  },
  "federation_counts": {
   "voleybol": 32,
-  "futbol": 57,
+  "futbol": 58,
   "gsb": 46,
   "sualti": 27,
   "gelismekteolan": 45,

@@ -1,26 +1,27 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T10:36:24+00:00",
- "total": 1816,
- "new_in_last_run": 1,
- "sources_ok": 64,
+ "generated_at": "2026-08-22T11:37:17+00:00",
+ "total": 1817,
+ "new_in_last_run": 0,
+ "sources_ok": 63,
  "sources_failed": [
+  "aticilik",
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-22T09:40:01+00:00",
+ "latest_published_at": "2026-08-22T11:30:50+00:00",
  "categories": {
+  "takvim": 47,
   "duyuru": 810,
   "mevzuat": 346,
   "haber": 35,
   "kurs": 250,
-  "takvim": 46,
   "musabaka": 329
  },
  "federation_counts": {
-  "voleybol": 32,
+  "voleybol": 33,
   "futbol": 58,
   "gsb": 46,
   "sualti": 27,

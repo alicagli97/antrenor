@@ -1,5 +1,23 @@
 [
  {
+  "id": "8d2534b6122ed600",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-22T11:30:50+00:00",
+  "first_seen_at": "2026-08-22T11:30:50+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "69a85fbc3ed82b0f",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -5441,20 +5459,5 @@
   "published_at": "2026-08-22T04:16:29+00:00",
   "first_seen_at": "2026-08-22T04:16:29+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "de08e7e403c927a8",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Ankara'daki Kız Sporcu Tarama Kampı Sona Erdi",
-  "url": "https://thf.org.tr/haber/ankaradaki-kiz-sporcu-tarama-kampi-sona-erdi",
-  "summary": "2012-2013 doğumlu kız sporculara yönelik Tarama Kampı, 17-21 Ağustos tarihleri arasında gerçekleştirildi. Ankara Prof. Dr. Yaşar Sevim Hentbol Salonu’nda düzenlenen kampta 40 kişilik sporcu grubu çalıştı.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-21T21:38:24+00:00",
-  "first_seen_at": "2026-08-21T21:38:24+00:00",
-  "source": "api"
  }
 ]

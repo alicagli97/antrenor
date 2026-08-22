@@ -1,9 +1,9 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T10:35:06+00:00",
+ "generated_at": "2026-08-22T11:34:33+00:00",
  "total_libraries": 49,
- "total_documents": 1411,
- "coach_documents": 374,
+ "total_documents": 1397,
+ "coach_documents": 369,
  "changed_in_last_run": [],
  "libraries": [
   {
@@ -11,134 +11,11 @@
    "federation_name": "Türkiye Atıcılık Federasyonu",
    "federation_short": "TAF",
    "sources": [
-    "https://www.taf.gov.tr/tr/talimatlar",
     "https://www.taf.gov.tr/tr/issf-kurallari"
    ],
-   "document_count": 21,
-   "coach_document_count": 5,
+   "document_count": 7,
+   "coach_document_count": 0,
    "documents": [
-    {
-     "baslik": "HAVALI VE ATEŞLİ SİLAHLAR HAKEM, JÜRİ VE GÖZLEMCİ TALİMATI (21.05.2025)",
-     "url": "https://www.taf.gov.tr/uploads/files/HavaliAtesliHJGTalimati.pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": "3616d88631619b19"
-    },
-    {
-     "baslik": "KULÜP AKREDİTASYON TALİMATI (28.03.2018)",
-     "url": "https://www.taf.gov.tr/uploads/files/97773Kulp_Akreditasyon_Talimat-.pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": "31789ace8fdb0fae"
-    },
-    {
-     "baslik": "PLAK ATIŞLARI HAKEM, JÜRİ VE GÖZLEMCİ TALİMATI (21.05.2025)",
-     "url": "https://www.taf.gov.tr/uploads/files/PlakAtislariHGJTalimati.pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": "31789ace8fdb0fae"
-    },
-    {
-     "baslik": "SPOR DALI TESCİL TALİMATI (30.10.2024)",
-     "url": "https://www.taf.gov.tr/uploads/files/SPOR%20DALI%20TESCIL%20TALIMATI.pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": "5c3ceeb64fea2133"
-    },
-    {
-     "baslik": "SPORCU LİSANS, VİZE VE TRANSFER TALİMATI (04.10.2022)",
-     "url": "https://www.taf.gov.tr/uploads/files/AticilikveAvcilikFed._1.pdf",
-     "tur": "pdf",
-     "onemli": true,
-     "parmak_izi": "31789ace8fdb0fae"
-    },
-    {
-     "baslik": "AVCIBAŞI MÜSABAKA TALİMATI (04.06.2015)",
-     "url": "https://www.taf.gov.tr/uploads/files/AVCIBAI%20MSABAKA%20TALMATI%2004.06.2015.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": "28b81b084d44d847"
-    },
-    {
-     "baslik": "BÜTÇE VE MUHASEBE TALİMATI (18.02.2008)",
-     "url": "https://www.taf.gov.tr/uploads/files/butce%20ve%20muhasebe%20talimati%20.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": "dab4edf185a2c0cb"
-    },
-    {
-     "baslik": "DİSİPLİN VE CEZA TALİMATI (28.03.2018)",
-     "url": "https://www.taf.gov.tr/uploads/files/26138Disiplin_ve_Ceza_Talimat_2.compressed-min.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": "31789ace8fdb0fae"
-    },
-    {
-     "baslik": "MİLLİ TAKIM BELİRLEME KRİTERLERİ TALİMATI (14.03.2025)",
-     "url": "https://www.taf.gov.tr/uploads/files/95826M%C4%B0LL%C4%B0%20SPORCU%20BEL%C4%B0RLEME%20KR%C4%B0TERLER%C4%B0%20TAL%C4%B0MATI.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": ""
-    },
-    {
-     "baslik": "MÜSABAKA VE ANTRENMANLARDA UYGULANACAK ATIŞ EMNİYET VE GÜVENLİK TALİMATI (07.02.2017)",
-     "url": "https://www.taf.gov.tr/uploads/files/Atis_emniyet_ve_gvenlik_talimat.compressed.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": "31789ace8fdb0fae"
-    },
-    {
-     "baslik": "POLİGONLAR VE SPOR TESİSLERİ YETERLİLİK TALİMATI (08.11.2019)",
-     "url": "https://www.taf.gov.tr/uploads/files/YETERLLK_TALMATI.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": "31789ace8fdb0fae"
-    },
-    {
-     "baslik": "SPOR FAALİYETLERİNDE KULLANILAN SİLAHLARIN BELGELENDİRİLMESİ VE TAŞINMASI TALİMATI (26.01.2018)",
-     "url": "https://www.taf.gov.tr/uploads/files/SPOR_FAALYETLERNDE_KULLANILAN_SLAHLAR_HK.TALMAT-min.compressed.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": "31789ace8fdb0fae"
-    },
-    {
-     "baslik": "SÖZLEŞMELİ PERSONEL ÇALIŞTIRILMASI HAKKINDA TALİMAT",
-     "url": "https://www.taf.gov.tr/uploads/files/sozlesmeli%20personel%20calistirilmasi%20talimati.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": "82c8550e439fbe05"
-    },
-    {
-     "baslik": "TAF Mağaza",
-     "url": "https://www.taf.gov.tr/tr/talimatlar",
-     "tur": "html",
-     "onemli": false,
-     "parmak_izi": "b4f714683bd81d21",
-     "guncellendi": "2026-08-22T04:18:56+00:00"
-    },
-    {
-     "baslik": "TAŞINIR MAL İŞLEMLERİ TALİMATI (16.08.2018)",
-     "url": "https://www.taf.gov.tr/uploads/files/48187tanr_mal_ilemleri.pdf",
-     "tur": "pdf",
-     "onemli": false,
-     "parmak_izi": "31789ace8fdb0fae"
-    },
-    {
-     "baslik": "Yönetmelik",
-     "url": "https://www.taf.gov.tr/tr/yonetmelik",
-     "tur": "html",
-     "onemli": false,
-     "parmak_izi": "2ad289de068b87bd",
-     "guncellendi": "2026-08-22T04:18:57+00:00"
-    },
-    {
-     "baslik": "ISSF Kuralları",
-     "url": "https://www.taf.gov.tr/tr/issf-kurallari",
-     "tur": "html",
-     "onemli": false,
-     "parmak_izi": "02c0bfefcfa446e9",
-     "guncellendi": "2026-08-22T04:18:57+00:00"
-    },
     {
      "baslik": "DÜNYA ATICILIK PARA SPORU TEKNİK KURALLARI VE YÖNETMELİKLERİ",
      "url": "https://www.taf.gov.tr/uploads/files/KURALLAR.pdf",
@@ -152,6 +29,30 @@
      "tur": "pdf",
      "onemli": false,
      "parmak_izi": ""
+    },
+    {
+     "baslik": "TAF Mağaza",
+     "url": "https://www.taf.gov.tr/tr/issf-kurallari",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": "02c0bfefcfa446e9",
+     "guncellendi": "2026-08-22T04:18:57+00:00"
+    },
+    {
+     "baslik": "Talimatlar",
+     "url": "https://www.taf.gov.tr/tr/talimatlar",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": "b4f714683bd81d21",
+     "guncellendi": "2026-08-22T04:18:56+00:00"
+    },
+    {
+     "baslik": "Yönetmelik",
+     "url": "https://www.taf.gov.tr/tr/yonetmelik",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": "2ad289de068b87bd",
+     "guncellendi": "2026-08-22T04:18:57+00:00"
     },
     {
      "baslik": "ISSF Kural Kitabı (Havalı ve Ateşli Silahlar)",
@@ -168,8 +69,8 @@
      "parmak_izi": "2669510a2378c16d"
     }
    ],
-   "checked_at": "2026-08-22T10:34:55+00:00",
-   "list_fingerprint": "6843a37da829b58d"
+   "checked_at": "2026-08-22T11:34:33+00:00",
+   "list_fingerprint": "124af796f4563aa0"
   },
   {
    "federation": "atletizm",
@@ -479,7 +380,7 @@
      "parmak_izi": "35ff73106eebd751"
     }
    ],
-   "checked_at": "2026-08-22T10:34:56+00:00",
+   "checked_at": "2026-08-22T11:32:50+00:00",
    "list_fingerprint": "cfd9beec3daf6332"
   },
   {
@@ -685,7 +586,7 @@
      "guncellendi": "2026-08-22T04:17:37+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:34:54+00:00",
+   "checked_at": "2026-08-22T11:32:47+00:00",
    "list_fingerprint": "9fae76e7066a9fb2"
   },
   {
@@ -721,7 +622,7 @@
      "parmak_izi": "dfde645582345636"
     }
    ],
-   "checked_at": "2026-08-22T10:35:02+00:00",
+   "checked_at": "2026-08-22T11:32:58+00:00",
    "list_fingerprint": "29df04c04d00cc58"
   },
   {
@@ -777,7 +678,7 @@
      "parmak_izi": "15a06ec1a7f85e0a"
     }
    ],
-   "checked_at": "2026-08-22T10:35:03+00:00",
+   "checked_at": "2026-08-22T11:32:59+00:00",
    "list_fingerprint": "bf55011e1e2eed02"
   },
   {
@@ -808,7 +709,7 @@
      "guncellendi": "2026-08-22T04:20:46+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:35:00+00:00",
+   "checked_at": "2026-08-22T11:32:56+00:00",
    "list_fingerprint": "2d67975cd87fce37"
   },
   {
@@ -1047,7 +948,7 @@
      "guncellendi": "2026-08-22T04:18:57+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:34:55+00:00",
+   "checked_at": "2026-08-22T11:32:49+00:00",
    "list_fingerprint": "b45110ff6781018b"
   },
   {
@@ -1279,7 +1180,7 @@
      "parmak_izi": "141cc341056e17e4"
     }
    ],
-   "checked_at": "2026-08-22T10:34:54+00:00",
+   "checked_at": "2026-08-22T11:32:47+00:00",
    "list_fingerprint": "6ff9a03ef47bdc7e"
   },
   {
@@ -1642,7 +1543,7 @@
      "guncellendi": "2026-08-22T04:20:55+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:35:00+00:00",
+   "checked_at": "2026-08-22T11:32:55+00:00",
    "list_fingerprint": "7b5ec3292ac1b4e8"
   },
   {
@@ -1784,7 +1685,7 @@
      "parmak_izi": "294dce8aa68a83c1"
     }
    ],
-   "checked_at": "2026-08-22T10:34:53+00:00",
+   "checked_at": "2026-08-22T11:32:48+00:00",
    "list_fingerprint": "df2826564459a1e8"
   },
   {
@@ -2133,7 +2034,7 @@
      "guncellendi": "2026-08-22T04:20:13+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:34:58+00:00",
+   "checked_at": "2026-08-22T11:32:54+00:00",
    "list_fingerprint": "20fcc12a1801473d"
   },
   {
@@ -2303,7 +2204,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-08-22T10:35:00+00:00",
+   "checked_at": "2026-08-22T11:32:53+00:00",
    "list_fingerprint": "b144fed9e9029429"
   },
   {
@@ -2741,7 +2642,7 @@
      "parmak_izi": "48da4e10b135dde1"
     }
    ],
-   "checked_at": "2026-08-22T10:35:00+00:00",
+   "checked_at": "2026-08-22T11:32:55+00:00",
    "list_fingerprint": "848aa56c4eefb319"
   },
   {
@@ -3036,7 +2937,7 @@
      "parmak_izi": "22c93a44910c3961"
     }
    ],
-   "checked_at": "2026-08-22T10:35:04+00:00",
+   "checked_at": "2026-08-22T11:33:01+00:00",
    "list_fingerprint": "ac40349471b189df"
   },
   {
@@ -3258,7 +3159,7 @@
      "parmak_izi": "395d953a2a8017e7"
     }
    ],
-   "checked_at": "2026-08-22T10:34:56+00:00",
+   "checked_at": "2026-08-22T11:32:51+00:00",
    "list_fingerprint": "b6b6188dff06746e"
   },
   {
@@ -3532,7 +3433,7 @@
      "parmak_izi": "4e5a9989032ef6be"
     }
    ],
-   "checked_at": "2026-08-22T10:35:03+00:00",
+   "checked_at": "2026-08-22T11:33:00+00:00",
    "list_fingerprint": "3429db0306ba9776"
   },
   {
@@ -3679,7 +3580,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-08-22T10:35:04+00:00",
+   "checked_at": "2026-08-22T11:32:59+00:00",
    "list_fingerprint": "f18c27cb5af426eb"
   },
   {
@@ -3899,7 +3800,7 @@
      "parmak_izi": "4055b2570944027a"
     }
    ],
-   "checked_at": "2026-08-22T10:35:05+00:00",
+   "checked_at": "2026-08-22T11:33:02+00:00",
    "list_fingerprint": "a4e6bdec9475009b"
   },
   {
@@ -4131,7 +4032,7 @@
      "parmak_izi": "a46598ff17627baf"
     }
    ],
-   "checked_at": "2026-08-22T10:34:59+00:00",
+   "checked_at": "2026-08-22T11:32:55+00:00",
    "list_fingerprint": "7421ac0d16825275"
   },
   {
@@ -4922,7 +4823,7 @@
      "parmak_izi": "e1c42eaeab8c9b44"
     }
    ],
-   "checked_at": "2026-08-22T10:35:06+00:00",
+   "checked_at": "2026-08-22T11:33:03+00:00",
    "list_fingerprint": "20eff8ace21154af"
   },
   {
@@ -5164,7 +5065,7 @@
      "parmak_izi": "adc83b19e793491b"
     }
    ],
-   "checked_at": "2026-08-22T10:34:53+00:00",
+   "checked_at": "2026-08-22T11:32:46+00:00",
    "list_fingerprint": "317067a82e632f1f"
   },
   {
@@ -5354,7 +5255,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-08-22T10:35:06+00:00",
+   "checked_at": "2026-08-22T11:33:03+00:00",
    "list_fingerprint": "b76b9227ba350596"
   },
   {
@@ -5417,7 +5318,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-08-22T10:35:03+00:00",
+   "checked_at": "2026-08-22T11:32:58+00:00",
    "list_fingerprint": "e9b02385c685a478"
   },
   {
@@ -5670,7 +5571,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-08-22T10:35:03+00:00",
+   "checked_at": "2026-08-22T11:32:59+00:00",
    "list_fingerprint": "04034845fb8817a0"
   },
   {
@@ -5853,7 +5754,7 @@
      "parmak_izi": "538e43c5c02c45f4"
     }
    ],
-   "checked_at": "2026-08-22T10:35:02+00:00",
+   "checked_at": "2026-08-22T11:32:58+00:00",
    "list_fingerprint": "9c093fdcef44af52"
   },
   {
@@ -6056,7 +5957,7 @@
      "parmak_izi": "dea9b7e4e23f32a9"
     }
    ],
-   "checked_at": "2026-08-22T10:35:06+00:00",
+   "checked_at": "2026-08-22T11:33:02+00:00",
    "list_fingerprint": "3645d6874a020c3c"
   },
   {
@@ -6350,7 +6251,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-08-22T10:34:52+00:00",
+   "checked_at": "2026-08-22T11:32:45+00:00",
    "list_fingerprint": "dbf5bb0383c0a77f"
   },
   {
@@ -6605,7 +6506,7 @@
      "guncellendi": "2026-08-22T04:19:49+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:34:57+00:00",
+   "checked_at": "2026-08-22T11:32:52+00:00",
    "list_fingerprint": "cf22ed521a63e50d"
   },
   {
@@ -6809,7 +6710,7 @@
      "parmak_izi": "7c338ed2840d2bf5"
     }
    ],
-   "checked_at": "2026-08-22T10:34:59+00:00",
+   "checked_at": "2026-08-22T11:32:54+00:00",
    "list_fingerprint": "e47c13b22c03df49"
   },
   {
@@ -7005,7 +6906,7 @@
      "parmak_izi": "7b4c88124c1d3b61"
     }
    ],
-   "checked_at": "2026-08-22T10:35:06+00:00",
+   "checked_at": "2026-08-22T11:33:03+00:00",
    "list_fingerprint": "b431d31ee8fdb5d7"
   },
   {
@@ -7173,7 +7074,7 @@
      "parmak_izi": "1eaff0f6f5cf4d78"
     }
    ],
-   "checked_at": "2026-08-22T10:34:56+00:00",
+   "checked_at": "2026-08-22T11:32:51+00:00",
    "list_fingerprint": "a29d2698c91c6646"
   },
   {
@@ -7461,7 +7362,7 @@
      "parmak_izi": "8adcbb795428cfba"
     }
    ],
-   "checked_at": "2026-08-22T10:34:57+00:00",
+   "checked_at": "2026-08-22T11:32:50+00:00",
    "list_fingerprint": "9908497bbd370bad"
   },
   {
@@ -7680,7 +7581,7 @@
      "parmak_izi": "cc580cbeef336c4e"
     }
    ],
-   "checked_at": "2026-08-22T10:35:01+00:00",
+   "checked_at": "2026-08-22T11:32:57+00:00",
    "list_fingerprint": "523919e58b16a5a4"
   },
   {
@@ -7988,7 +7889,7 @@
      "parmak_izi": "0b8ce0194c53df45"
     }
    ],
-   "checked_at": "2026-08-22T10:35:02+00:00",
+   "checked_at": "2026-08-22T11:32:58+00:00",
    "list_fingerprint": "294402b7b7fc4cde"
   },
   {
@@ -8227,7 +8128,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-08-22T10:34:56+00:00",
+   "checked_at": "2026-08-22T11:32:52+00:00",
    "list_fingerprint": "7425ebed386d27b3"
   },
   {
@@ -8282,7 +8183,7 @@
      "guncellendi": "2026-08-22T04:23:35+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:35:05+00:00",
+   "checked_at": "2026-08-22T11:33:01+00:00",
    "list_fingerprint": "1911284454b55748"
   },
   {
@@ -8711,7 +8612,7 @@
      "parmak_izi": "18801731769caa0c"
     }
    ],
-   "checked_at": "2026-08-22T10:35:03+00:00",
+   "checked_at": "2026-08-22T11:32:56+00:00",
    "list_fingerprint": "ad4b43f3317a0c81"
   },
   {
@@ -8882,7 +8783,7 @@
      "guncellendi": "2026-08-22T04:22:58+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:35:02+00:00",
+   "checked_at": "2026-08-22T11:32:58+00:00",
    "list_fingerprint": "4b12d8168c4fd7e4"
   },
   {
@@ -9174,7 +9075,7 @@
      "parmak_izi": "522c8d51c4e07ea9"
     }
    ],
-   "checked_at": "2026-08-22T10:35:05+00:00",
+   "checked_at": "2026-08-22T11:33:01+00:00",
    "list_fingerprint": "ee11e3dfab9a329a"
   },
   {
@@ -9236,7 +9137,7 @@
      "guncellendi": "2026-08-22T04:20:45+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:35:00+00:00",
+   "checked_at": "2026-08-22T11:32:55+00:00",
    "list_fingerprint": "882fd9317e0f61ab"
   },
   {
@@ -9535,7 +9436,7 @@
      "guncellendi": "2026-08-22T04:25:55+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:35:01+00:00",
+   "checked_at": "2026-08-22T11:32:57+00:00",
    "list_fingerprint": "15abc399f96347ca"
   },
   {
@@ -9725,7 +9626,7 @@
      "parmak_izi": "7abdc8bb46052200"
     }
    ],
-   "checked_at": "2026-08-22T10:34:52+00:00",
+   "checked_at": "2026-08-22T11:32:46+00:00",
    "list_fingerprint": "5bcb1c6d93af2af5"
   },
   {
@@ -10054,7 +9955,7 @@
      "parmak_izi": "17b7b23916751d22"
     }
    ],
-   "checked_at": "2026-08-22T10:34:53+00:00",
+   "checked_at": "2026-08-22T11:32:46+00:00",
    "list_fingerprint": "1e480bfb1ebea5ee"
   },
   {
@@ -10213,7 +10114,7 @@
      "parmak_izi": "a1caa666f647bfc7"
     }
    ],
-   "checked_at": "2026-08-22T10:34:58+00:00",
+   "checked_at": "2026-08-22T11:32:54+00:00",
    "list_fingerprint": "7dafb563ba0e6428"
   },
   {
@@ -10308,7 +10209,7 @@
      "guncellendi": "2026-08-22T04:23:43+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:35:05+00:00",
+   "checked_at": "2026-08-22T11:33:02+00:00",
    "list_fingerprint": "3889dac0e0ca78cf"
   },
   {
@@ -10566,7 +10467,7 @@
      "guncellendi": "2026-08-22T04:16:50+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:34:52+00:00",
+   "checked_at": "2026-08-22T11:32:45+00:00",
    "list_fingerprint": "1ac5ca7aa0dc2abb"
   },
   {
@@ -10615,7 +10516,7 @@
      "parmak_izi": "d3cf3fec82107d34"
     }
    ],
-   "checked_at": "2026-08-22T10:35:01+00:00",
+   "checked_at": "2026-08-22T11:32:56+00:00",
    "list_fingerprint": "fb5d3bdd2eacbeee"
   },
   {
@@ -10654,7 +10555,7 @@
      "guncellendi": "2026-08-22T04:19:52+00:00"
     }
    ],
-   "checked_at": "2026-08-22T10:34:58+00:00",
+   "checked_at": "2026-08-22T11:32:52+00:00",
    "list_fingerprint": "f4e635935fc2ab00"
   },
   {
@@ -10900,7 +10801,7 @@
      "parmak_izi": "b469f37d82e77264"
     }
    ],
-   "checked_at": "2026-08-22T10:34:53+00:00",
+   "checked_at": "2026-08-22T11:32:46+00:00",
    "list_fingerprint": "f945f89439b77e80"
   }
  ]

@@ -31,11 +31,21 @@ on:
 
 jobs:
   derle:
-    runs-on: macos-15
+    runs-on: macos-26
     timeout-minutes: 60
 
     steps:
       - uses: actions/checkout@v4
+
+      # Apple, iOS 26 SDK'dan eski derlemeleri kabul etmiyor; makinedeki en
+      # yeni Xcode secilir, boylece imaj guncellendiginde de calismaya devam eder
+      - name: En yeni Xcode'u sec
+        run: |
+          ls -d /Applications/Xcode*.app
+          EN_YENI=$(ls -d /Applications/Xcode*.app | sort -V | tail -1)
+          sudo xcode-select -s "$EN_YENI"
+          xcodebuild -version
+          xcrun --sdk iphoneos --show-sdk-version
 
       - uses: subosito/flutter-action@v2
         with:

@@ -12,4 +12,7 @@ pypdf>=5.0
 # Isteğe bağlı: SPA / bot korumalı siteler için tarayıcı ile render
 playwright>=1.45
 # FCM push
-google-auth>=2.30
+# [requests] onemli: google.auth.transport.requests modulu requests
+# kutuphanesini istiyor. Onsuz ice aktarma patliyor ve bildirimler
+# sessizce atlaniyordu.
+google-auth[requests]>=2.30

@@ -39,16 +39,25 @@ def topic_for(slug: str) -> str:
 
 def _access_token() -> Optional[str]:
     if not FCM_CREDENTIALS_JSON:
+        log.error("push: FCM_CREDENTIALS_JSON bos, bildirim gonderilemedi")
         return None
     try:
+        # google.auth.transport.requests, requests kutuphanesini istiyor.
+        # requirements'ta google-auth[requests] yazmazsak burasi ImportError
+        # verir ve bildirimler sessizce atlanir; bir kez basimiza geldi.
         from google.auth.transport.requests import Request
         from google.oauth2 import service_account
-    except ImportError:
-        log.warning("google-auth kurulu degil, push atlandi")
+    except ImportError as exc:
+        log.error("push: google-auth ice aktarilamadi (%s). "
+                  "requirements'ta google-auth[requests] olmali", exc)
         return None
-    creds = service_account.Credentials.from_service_account_file(
-        FCM_CREDENTIALS_JSON, scopes=[FCM_SCOPE])
-    creds.refresh(Request())
+    try:
+        creds = service_account.Credentials.from_service_account_file(
+            FCM_CREDENTIALS_JSON, scopes=[FCM_SCOPE])
+        creds.refresh(Request())
+    except Exception as exc:
+        log.error("push: servis hesabi dogrulanamadi: %s", exc)
+        return None
     return creds.token
 
 

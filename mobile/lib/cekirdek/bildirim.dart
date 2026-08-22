@@ -20,6 +20,7 @@ class Bildirim {
       hazir = false;
       debugPrint('Bildirim altyapısı kapalı: $e');
     }
+    _dinleyiciyiBagla();
   }
 
   /// Android 13+ ve iOS'ta izin ister. İzin verilmezse abonelikler yine
@@ -61,13 +62,52 @@ class Bildirim {
     }
   }
 
+  static void Function(Map<String, dynamic> veri)? _dinleyici;
+  static void Function(String baslik, String govde, Map<String, dynamic> veri)?
+      _onMesaj;
+  static bool _bagli = false;
+  static bool _mesajaBagli = false;
+
+  /// Uygulama ekrandayken gelen bildirim. Android bu durumda sistem
+  /// bildirimini göstermiyor, mesajı yalnızca uygulamaya iletiyor; hiçbir şey
+  /// yapılmazsa kullanıcı açısından "bildirim gelmedi" gibi görünüyor.
+  static void onMesaj(
+      void Function(String baslik, String govde, Map<String, dynamic> veri)
+          geldi) {
+    _onMesaj = geldi;
+    _dinleyiciyiBagla();
+  }
+
   /// Bildirime dokunulduğunda gelen veriyi dinler.
   /// `data.announcement_id` ile ilgili duyuruya gidilir.
+  ///
+  /// Firebase artık ilk kareden sonra kuruluyor; arayüz bundan önce dinlemek
+  /// isterse istek saklanır ve altyapı hazır olunca bağlanır.
   static void dinle(void Function(Map<String, dynamic> veri) acildi) {
+    _dinleyici = acildi;
+    _dinleyiciyiBagla();
+  }
+
+  /// Her iki dinleyici birbirinden bağımsız bağlanır: hangisi önce
+  /// kaydedilirse diğeri sonradan da bağlanabilsin.
+  static void _dinleyiciyiBagla() {
     if (!hazir) return;
-    FirebaseMessaging.onMessageOpenedApp.listen((m) => acildi(m.data));
-    FirebaseMessaging.instance.getInitialMessage().then((m) {
-      if (m != null) acildi(m.data);
-    });
+    final acildi = _bagli ? null : _dinleyici;
+    final geldi = _mesajaBagli ? null : _onMesaj;
+
+    if (acildi != null) {
+      _bagli = true;
+      FirebaseMessaging.onMessageOpenedApp.listen((m) => acildi(m.data));
+      FirebaseMessaging.instance.getInitialMessage().then((m) {
+        if (m != null) acildi(m.data);
+      });
+    }
+    if (geldi != null) {
+      _mesajaBagli = true;
+      FirebaseMessaging.onMessage.listen((m) {
+        final b = m.notification;
+        geldi(b?.title ?? 'Yeni duyuru', b?.body ?? '', m.data);
+      });
+    }
   }
 }

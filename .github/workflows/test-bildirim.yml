@@ -1,0 +1,56 @@
+# Elle test bildirimi gonderir.
+#
+# Normal akista bildirim yalnizca yeni bir duyuru yakalandiginda gidiyor.
+# "Bildirim gelmedi" sikayetinin sebebi cogu zaman gonderilecek yeni duyuru
+# olmamasi; bu is akisi o belirsizligi kaldirip hattin calistigini kanitliyor.
+#
+# Calistirma: Actions -> Test bildirimi -> Run workflow
+name: Test bildirimi
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: "Federasyon slug (uygulamada takip ettiginiz federasyon)"
+        required: true
+        default: "atletizm"
+      baslik:
+        description: "Bildirim metni (bos birakilirsa saat yazilir)"
+        required: false
+        default: ""
+
+jobs:
+  gonder:
+    runs-on: ubuntu-latest
+    env:
+      FCM_SERVICE_ACCOUNT: ${{ secrets.FCM_SERVICE_ACCOUNT }}
+      FCM_PROJECT_ID: ${{ secrets.FCM_PROJECT_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bagimliliklari kur
+        run: pip install httpx google-auth
+
+      - name: Bildirim anahtarini yaz
+        run: |
+          if [ -z "$FCM_SERVICE_ACCOUNT" ]; then
+            echo "FCM_SERVICE_ACCOUNT gizli degiskeni tanimli degil"; exit 1
+          fi
+          mkdir -p backend/secrets
+          printf '%s' "$FCM_SERVICE_ACCOUNT" > backend/secrets/fcm.json
+          echo "PUSH_ENABLED=1" >> "$GITHUB_ENV"
+          echo "FCM_CREDENTIALS_JSON=$PWD/backend/secrets/fcm.json" >> "$GITHUB_ENV"
+
+      - name: Bildirimi gonder
+        run: |
+          python backend/scripts/test_push.py \
+            --slug "${{ inputs.slug }}" \
+            --baslik "${{ inputs.baslik }}"
+
+      - name: Anahtari sil
+        if: always()
+        run: rm -f backend/secrets/fcm.json

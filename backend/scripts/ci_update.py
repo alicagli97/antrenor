@@ -282,7 +282,13 @@ async def main() -> int:
             "url": r["url"],
             "category": r["category"],
         } for r in new_records])
-        print(f"bildirim gonderildi: {sent}")
+        print(f"bildirim gonderildi: {sent}/{len(new_records)}")
+        if sent == 0:
+            # Sessiz basarisizlik uzun sure fark edilmedi: yeni duyuru vardi
+            # ama tek bildirim gitmiyordu. Artik is akisini kirmiyoruz (veri
+            # yayini surmeli) ama Actions ozetinde hata olarak isaretliyoruz.
+            print("::error::Yeni duyuru var ama hic bildirim gonderilemedi"
+                  " - yukaridaki push hatalarina bakin")
 
     for record in new_records[:10]:
         print(f'  + [{record["category"]:9}] {record["federation_short"]:8} {record["title"][:60]}')

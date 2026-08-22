@@ -1,20 +1,37 @@
 [
  {
-  "id": "b4b2eec83e37bce6",
+  "id": "6426cf895344fe84",
   "federation": "buzpateni",
   "federation_name": "Türkiye Buz Pateni Federasyonu",
   "federation_short": "TBPF",
   "title": "Artistik Buz Pateni Test Yarışması / Gebze",
-  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-gebze-13",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-gebze-134141",
   "summary": "",
   "image": null,
   "category": "duyuru",
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-08-22T14:34:12+00:00",
-  "first_seen_at": "2026-08-22T14:34:12+00:00",
+  "published_at": "2026-08-22T15:34:09+00:00",
+  "first_seen_at": "2026-08-22T15:34:09+00:00",
   "source": "html"
+ },
+ {
+  "id": "ae5249c224f9928f",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Genç Milli Takımımızdan Tarihi Derece!",
+  "url": "https://www.badminton.org.tr/genc-milli-takimimizdan-tarihi-derece/13454/",
+  "summary": "Avrupa Gençler Badminton Şampiyonası’nda mücadele eden Türk Milli Takımımız, organizasyon tarihinde ilk defa Avrupa üçüncülüğü elde ederek büyük bir başarıya imza attı! Kürsüye çıkarak bayrağımızı dalgalandıran tüm sporcularımızı ve bu […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/08/IMG_2099-scaled.jpeg",
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-22T15:18:51+00:00",
+  "first_seen_at": "2026-08-22T15:34:09+00:00",
+  "source": "wp_json"
  },
  {
   "id": "f4f3d508b3ec250b",
@@ -5387,24 +5404,5 @@
   "published_at": "2026-08-21T10:01:08+00:00",
   "first_seen_at": "2026-08-21T10:30:26+00:00",
   "source": "rss"
- },
- {
-  "id": "dd07143c3986ac80",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Yeni mevzuat: -01 HAVALI VE ATEŞLİ SİLAHLAR HAKEM, JÜRİ VE GÖZLEMCİ TALİMATI (21.05.2025)",
-  "url": "https://www.taf.gov.tr/uploads/files/HavaliAtesliHJGTalimati.pdf",
-  "summary": "Atıcılık federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-21T09:48:58+00:00",
-  "first_seen_at": "2026-08-21T09:48:58+00:00",
-  "source": "mevzuat"
  }
 ]

@@ -1,5 +1,20 @@
 [
  {
+  "id": "69a85fbc3ed82b0f",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "2026-2027 Voleybol Sezonu Altyapı Faaliyet Programı Duyurusu",
+  "url": "https://tvf.org.tr/icerik/2026-2027-voleybol-sezonu-altyapi-faaliyet-programi-duyurusu",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-22T09:40:01+00:00",
+  "first_seen_at": "2026-08-22T09:40:01+00:00",
+  "source": "html"
+ },
+ {
   "id": "dc1238df19f2fbae",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -5441,20 +5456,5 @@
   "published_at": "2026-08-21T21:38:24+00:00",
   "first_seen_at": "2026-08-21T21:38:24+00:00",
   "source": "api"
- },
- {
-  "id": "603cb4d244ff38fc",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "İşitme Engelliler Gençlik Oyunları’nda 2 madalya!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302599/isitme-engelliler-genclik-oyunlarinda-2-madalya.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-08-21T18:53:33+00:00",
-  "first_seen_at": "2026-08-21T18:53:33+00:00",
-  "source": "html"
  }
 ]

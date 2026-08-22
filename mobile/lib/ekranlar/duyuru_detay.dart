@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
 
+import '../cekirdek/baglanti.dart';
 import '../cekirdek/modeller.dart';
 import '../cekirdek/tema.dart';
 
@@ -66,8 +66,7 @@ class DuyuruDetay extends StatelessWidget {
                   borderRadius: BorderRadius.circular(10),
                   side: BorderSide(color: Renkler.cizgi)),
             ),
-            onPressed: () => launchUrl(Uri.parse(duyuru.url),
-                mode: LaunchMode.externalApplication),
+            onPressed: () => Baglanti.ac(context, duyuru.url),
             icon: const Icon(Icons.open_in_new, size: 18),
             label: const Text('Kaynakta aç'),
           ),

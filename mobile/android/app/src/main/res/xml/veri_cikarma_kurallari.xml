@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Android 12+ icin yedekleme/cihaz aktarimi kurallari.
+
+  Uygulama verisi yalnizca cihazda duruyor ve tasinmasi gerekmiyor:
+  takip listesi, tema tercihi ve magazadan okunan abonelik durumu.
+  Abonelik durumunun yedekle tasinmasi, odeme yapilmamis bir cihaza
+  premium gecirilmesine yol acabilir; dogru kaynak her zaman magazadir
+  ("Satin alimlari geri yukle").
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="sharedpref" path="." />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="sharedpref" path="." />
+    </device-transfer>
+</data-extraction-rules>

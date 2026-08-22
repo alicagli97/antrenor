@@ -47,10 +47,17 @@ jobs:
           echo "FCM_CREDENTIALS_JSON=$PWD/backend/secrets/fcm.json" >> "$GITHUB_ENV"
 
       - name: Bildirimi gonder
+        # Girdiler dogrudan kabuk satirina yazilmiyor: ${{ }} ifadesi komutun
+        # icine gomuldugunde, girdiye kabuk komutu sikistirilarak o anda diskte
+        # duran FCM anahtari disari sizdirilabilir. Ortam degiskeni uzerinden
+        # gecirmek bu yolu kapatiyor.
+        env:
+          GIRDI_SLUG: ${{ inputs.slug }}
+          GIRDI_BASLIK: ${{ inputs.baslik }}
         run: |
           python backend/scripts/test_push.py \
-            --slug "${{ inputs.slug }}" \
-            --baslik "${{ inputs.baslik }}"
+            --slug "$GIRDI_SLUG" \
+            --baslik "$GIRDI_BASLIK"
 
       - name: Anahtari sil
         if: always()

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
 
+import '../cekirdek/baglanti.dart';
 import '../cekirdek/modeller.dart';
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
@@ -271,7 +271,7 @@ class _AfisKarti extends StatelessWidget {
 
   void _tikla(BuildContext context) {
     if (afis.url.isNotEmpty) {
-      launchUrl(Uri.parse(afis.url), mode: LaunchMode.externalApplication);
+      Baglanti.ac(context, afis.url);
       return;
     }
     if (afis.butonHedefi.isNotEmpty) sekmeyeGit(afis.butonHedefi);

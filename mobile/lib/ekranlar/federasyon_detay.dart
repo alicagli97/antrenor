@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
 
+import '../cekirdek/baglanti.dart';
 import '../cekirdek/modeller.dart';
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
@@ -90,8 +90,7 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
             IconButton(
               icon: Icon(Icons.public, color: Renkler.metinIkincil),
               tooltip: 'Resmî site',
-              onPressed: () => launchUrl(Uri.parse(f.site),
-                  mode: LaunchMode.externalApplication),
+              onPressed: () => Baglanti.ac(context, f.site),
             ),
           ],
           bottom: TabBar(
@@ -157,8 +156,7 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
                   Yazi.kucuk),
           trailing: Icon(Icons.open_in_new,
               size: 16, color: Renkler.metinSolgun),
-          onTap: () =>
-              launchUrl(Uri.parse(t.url), mode: LaunchMode.externalApplication),
+          onTap: () => Baglanti.ac(context, t.url),
         ),
         const Divider(height: 1),
         if (tarihliler.isEmpty)
@@ -237,8 +235,7 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
                   color: Renkler.metinIkincil, fontSize: 13.5, height: 1.3)),
           trailing: Icon(Icons.open_in_new,
               size: 15, color: Renkler.metinSolgun),
-          onTap: () =>
-              launchUrl(Uri.parse(b.url), mode: LaunchMode.externalApplication),
+          onTap: () => Baglanti.ac(context, b.url),
         );
       },
     );

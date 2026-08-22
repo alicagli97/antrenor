@@ -1,22 +1,20 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T15:52:48+00:00",
- "total": 1779,
- "new_in_last_run": 0,
+ "generated_at": "2026-08-22T15:55:42+00:00",
+ "total": 1781,
+ "new_in_last_run": 7,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": [
-  "yeniden-uretim"
- ],
- "latest_published_at": "2026-08-22T15:34:09+00:00",
+ "partial_run": null,
+ "latest_published_at": "2026-08-22T15:55:42+00:00",
  "categories": {
   "duyuru": 809,
+  "kurs": 252,
   "takvim": 49,
-  "kurs": 250,
   "musabaka": 329,
   "mevzuat": 307,
   "haber": 35
@@ -30,7 +28,9 @@
  ],
  "federation_counts": {
   "buzpateni": 61,
+  "oryantiring": 13,
   "badminton": 41,
+  "muaythai": 25,
   "kurek": 15,
   "voleybol": 33,
   "sualti": 30,
@@ -41,8 +41,6 @@
   "gelismekteolan": 45,
   "ragbi": 28,
   "universitesporlari": 11,
-  "oryantiring": 12,
-  "muaythai": 24,
   "ozelsporcular": 17,
   "motosiklet": 37,
   "bocce": 52,

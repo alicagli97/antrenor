@@ -1,5 +1,22 @@
 [
  {
+  "id": "e67fd0ffdd3adc0d",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "Milli Sporcularımız Ukrayna’da Ringe Çıkıyor",
+  "url": "https://muaythai.gov.tr/2026/08/22/milli-sporcularimiz-ukraynada-ringe-cikiyor/",
+  "summary": "22 Ağustos 2026 tarihinde Ukrayna’nın Vinnytsia şehrinde gerçekleştirilen Dünya Muaythai Konseyi- WMC organizasyonuna Türkiye’den 4 sporcu, 2 antrenör,",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/08/2a30219c-64fa-42a1-800b-f4c2afc4b80d.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-08-22T15:37:15+00:00",
+  "first_seen_at": "2026-08-22T15:55:42+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "c2cdc9e56236d97a",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -3621,23 +3638,5 @@
   "published_at": "2026-07-16T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
- },
- {
-  "id": "e3737348ef198e38",
-  "federation": "kayak",
-  "federation_name": "Türkiye Kayak Federasyonu",
-  "federation_short": "TKF",
-  "title": "Kayaklı Koşu ve Biathlon 3.kademe Antrenörlük Kursu Duyurusu",
-  "url": "https://tkf.org.tr/2026/07/12/kayakli-kosu-ve-biathlon-3-kademe-antrenorluk-kursu-duyurusu/",
-  "summary": "",
-  "image": "https://tkf.org.tr/wp-content/uploads/2024/03/onemli-duyuru_002.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-07-12T12:18:33+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
  }
 ]

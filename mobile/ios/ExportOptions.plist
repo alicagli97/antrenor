@@ -6,7 +6,6 @@
   teamID gizli bir bilgi degil, uygulama ustverisinde zaten gorunur.
   Apple Developer hesabinda Membership details altinda yaziyor.
 
-  Su an yer tutucu: hesaptaki Team ID girilmeden imzali derleme yapilamaz.
 -->
 <plist version="1.0">
 <dict>
@@ -14,7 +13,7 @@
 	<string>app-store-connect</string>
 
 	<key>teamID</key>
-	<string>TAKIM_KIMLIGI_BURAYA</string>
+	<string>U6ST935722</string>
 
 	<key>signingStyle</key>
 	<string>manual</string>

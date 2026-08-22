@@ -16,7 +16,7 @@ Kullanim
 """
 from __future__ import annotations
 
-import asyncio
+import json
 import os
 import pathlib
 import subprocess
@@ -32,6 +32,10 @@ KOPRU_SLUGS = ["basketbol"]
 WATCH_INTERVAL_HOURS = 6
 MAX_PUSH_RETRY = 3
 
+# Bildirim anahtari burada duruyorsa kopru de bildirim gonderir.
+# backend/secrets/ .gitignore'da; anahtar depoya girmiyor.
+FCM_ANAHTARI = REPO / "backend" / "secrets" / "fcm.json"
+
 
 def git(*args: str, check: bool = True) -> str:
     result = subprocess.run(["git", *args], cwd=REPO, capture_output=True,
@@ -41,9 +45,33 @@ def git(*args: str, check: bool = True) -> str:
     return (result.stdout or "").strip()
 
 
+def bildirim_ortami() -> dict:
+    """Yerel FCM anahtari varsa bildirim gonderimini acar.
+
+    Proje kimligi anahtarin icinde zaten yaziyor; ayrica ayar tutmuyoruz.
+    Anahtar yoksa kopru sessizce bildirimsiz calisir: veri yine yayinlanir,
+    yalnizca o kaynagin takipcilerine anlik bildirim gitmez.
+    """
+    if not FCM_ANAHTARI.exists():
+        print("bildirim anahtari yok -> bu turda bildirim gonderilmeyecek")
+        return {}
+    try:
+        proje = json.loads(FCM_ANAHTARI.read_text(encoding="utf-8"))["project_id"]
+    except Exception as exc:
+        print(f"bildirim anahtari okunamadi ({exc}) -> bildirim kapali")
+        return {}
+    print(f"bildirim acik (proje: {proje})")
+    return {
+        "PUSH_ENABLED": "1",
+        "FCM_CREDENTIALS_JSON": str(FCM_ANAHTARI),
+        "FCM_PROJECT_ID": proje,
+    }
+
+
 def calistir_tarama() -> int:
     """ci_update.py'yi yalnizca kopru kaynaklari icin calistirir."""
-    env = dict(os.environ, PYTHONIOENCODING="utf-8", ONLY_SLUGS=",".join(KOPRU_SLUGS))
+    env = dict(os.environ, PYTHONIOENCODING="utf-8",
+               ONLY_SLUGS=",".join(KOPRU_SLUGS), **bildirim_ortami())
     result = subprocess.run([sys.executable, str(HERE / "ci_update.py")],
                             cwd=HERE.parent, env=env, capture_output=True,
                             text=True, encoding="utf-8", errors="replace")

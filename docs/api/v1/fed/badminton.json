@@ -180,24 +180,6 @@
   "source": "mevzuat"
  },
  {
-  "id": "13b6bd5a71a54062",
-  "federation": "badminton",
-  "federation_name": "Türkiye Badminton Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: Federasyon",
-  "url": "https://www.badminton.org.tr/talimatlar/",
-  "summary": "Türkiye Badminton Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-22T04:17:26+00:00",
-  "first_seen_at": "2026-08-22T04:17:26+00:00",
-  "source": "mevzuat"
- },
- {
   "id": "6cf57227ebe53e07",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
@@ -392,8 +374,8 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-08-19T12:44:39",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-19T12:44:39+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -409,8 +391,8 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-08-16T18:52:46",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-16T18:52:46+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -427,8 +409,8 @@
    "musabaka",
    "milli_takim"
   ],
-  "published_at": "2026-08-16T16:35:36",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-16T16:35:36+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -444,8 +426,8 @@
   "tags": [
    "milli_takim"
   ],
-  "published_at": "2026-08-15T17:34:44",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-15T17:34:44+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -461,8 +443,8 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-08-14T17:13:33",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-14T17:13:33+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -479,8 +461,8 @@
    "musabaka",
    "milli_takim"
   ],
-  "published_at": "2026-08-14T13:37:39",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-14T13:37:39+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -496,8 +478,8 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-08-12T17:26:21",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-12T17:26:21+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -514,8 +496,8 @@
    "antrenor",
    "milli_takim"
   ],
-  "published_at": "2026-08-12T14:01:07",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-12T14:01:07+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -531,8 +513,8 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-08-12T07:06:14",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-12T07:06:14+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -548,8 +530,8 @@
   "tags": [
    "milli_takim"
   ],
-  "published_at": "2026-08-06T07:35:39",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-06T07:35:39+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -566,8 +548,8 @@
    "antrenor",
    "milli_takim"
   ],
-  "published_at": "2026-08-05T15:52:13",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-05T15:52:13+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -584,8 +566,8 @@
    "mevzuat",
    "musabaka"
   ],
-  "published_at": "2026-08-05T12:58:20",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-05T12:58:20+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -601,8 +583,8 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-08-03T08:40:12",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-03T08:40:12+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -618,8 +600,8 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-08-01T16:00:39",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-08-01T16:00:39+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -635,8 +617,8 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-07-31T09:11:35",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-07-31T09:11:35+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -650,8 +632,8 @@
   "image": "https://www.badminton.org.tr/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-28-at-21.45.54.jpeg",
   "category": "duyuru",
   "tags": [],
-  "published_at": "2026-07-29T19:29:50",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-07-29T19:29:50+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -668,8 +650,8 @@
    "musabaka",
    "milli_takim"
   ],
-  "published_at": "2026-07-29T19:25:29",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-07-29T19:25:29+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -685,8 +667,8 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-07-27T14:34:01",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-07-27T14:34:01+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -703,8 +685,8 @@
    "antrenor",
    "musabaka"
   ],
-  "published_at": "2026-07-21T19:21:21",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-07-21T19:21:21+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  },
  {
@@ -720,8 +702,8 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-07-21T19:17:11",
-  "first_seen_at": "2026-08-19T21:45:48",
+  "published_at": "2026-07-21T19:17:11+03:00",
+  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  }
 ]

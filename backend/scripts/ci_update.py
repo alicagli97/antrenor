@@ -24,12 +24,13 @@ import re
 import sys
 import warnings
 from collections import Counter, defaultdict
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1]))
 warnings.filterwarnings("ignore")
 
 from app.scraper import extract
+from app.scraper.rules import baslik_copu_mu
 from app.scraper.pipeline import collect, fingerprint, sane_date
 from app.scraper.registry import BY_SLUG, ETIKETLER, FEDERATIONS
 
@@ -115,6 +116,182 @@ def sort_key(record: dict) -> str:
     return record.get("published_at") or record.get("first_seen_at") or ""
 
 
+# --- Kayit duzeltmeleri -----------------------------------------------------
+# Kaynaklardan gelen veri her zaman derli toplu degil; asagidaki uc duzeltme
+# yayindan once uygulaniyor.
+
+TR_BUYUK = "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ"
+# Kisaltmalar buyuk harf kalmali
+KISALTMALAR = {
+    "TFF", "TBF", "THF", "TVF", "TJF", "TKF", "TMF", "TSF", "TDF", "GSB", "SGM",
+    "TSSF", "TOKI", "TMOK", "AB", "TC", "TR", "U14", "U15", "U16", "U17", "U18",
+    "U19", "U20", "U21", "U23", "K-E", "PDF", "SMS", "IPC", "IOC", "WADA",
+}
+
+
+def _tr_kucuk(metin: str) -> str:
+    return metin.replace("I", "ı").replace("İ", "i").lower()
+
+
+# Baglaclar baslik icinde kucuk kalir
+KUCUK_KALAN = {"ve", "ile", "veya", "ya", "için", "icin", "de", "da", "ki", "mi"}
+
+# Turkce'de buyuk I -> kucuk ı'dir ve bu Turkce kelimelerde dogru sonuc verir
+# (KATILIMCI -> katilimci). Yabanci kelimelerde yanlis: MUAYTHAI -> muaythaı.
+# Asagidaki liste yalnizca o istisnalar icin.
+YABANCI_DUZELTME = {
+    "muaythaı": "muaythai", "junıor": "junior", "prıx": "prix",
+    "ıce": "ice", "ındoor": "indoor", "mını": "mini", "sprınt": "sprint",
+    "ınternational": "international", "ınvitational": "invitational",
+    "champıons": "champions", "quallfıcation": "quallfication",
+    "qualıfıcation": "qualification", "wushu": "wushu",
+}
+
+
+def _tr_baslik(metin: str) -> str:
+    """Turkce'ye uygun baslik bicimi. Python'un title() metodu I/ı ayrimini
+    bozdugu icin kelime kelime yapiliyor."""
+    parcalar = []
+    for sira, kelime in enumerate(metin.split(" ")):
+        cip = kelime.strip(".,;:()[]\"'")
+        if not kelime:
+            parcalar.append(kelime)
+        elif cip in KISALTMALAR or (len(cip) <= 3 and any(c.isdigit() for c in cip)):
+            parcalar.append(kelime)
+        else:
+            kucuk = YABANCI_DUZELTME.get(_tr_kucuk(kelime), _tr_kucuk(kelime))
+            if sira and _tr_kucuk(cip) in KUCUK_KALAN:
+                parcalar.append(kucuk)
+                continue
+            ilk = kucuk[0]
+            parcalar.append(("İ" if ilk == "i" else ilk.upper()) + kucuk[1:])
+    return " ".join(parcalar)
+
+
+def _yabanci_duzelt(baslik: str) -> str:
+    """Turkce I kurali yuzunden bozulmus yabanci kelimeleri onarir."""
+    parcalar = []
+    for kelime in baslik.split(" "):
+        dogru = YABANCI_DUZELTME.get(_tr_kucuk(kelime))
+        if dogru and kelime[:1].isupper():
+            dogru = dogru[0].upper() + dogru[1:]
+        parcalar.append(dogru or kelime)
+    return " ".join(parcalar)
+
+
+def baslik_duzelt(baslik: str) -> str:
+    """Tamami buyuk harfle yazilmis basliklari okunur hale getirir.
+
+    Akista kayitlarin bes'te biri BAGIRIR GIBI duruyordu. Kisa basliklara ve
+    icinde kucuk harf bulunanlara dokunulmuyor.
+    """
+    baslik = _yabanci_duzelt(baslik)
+    if len(baslik) < 20:
+        return baslik
+    harfler = [c for c in baslik if c.isalpha()]
+    if not harfler or any(c in "abcçdefgğhıijklmnoöprsştuüvyz" for c in harfler):
+        return baslik
+    return _tr_baslik(baslik)
+
+
+def tarih_duzelt(metin: str) -> str:
+    """Saat dilimi yazilmamis tarihleri Turkiye saatine sabitler.
+
+    Kayitlarin cogunda saat dilimi yoktu; uygulama bunlari UTC sayinca ayni
+    gunun duyurulari uc saate kadar yanlis siralanabiliyordu.
+    """
+    if not metin or metin.endswith("Z") or "+" in metin[10:]:
+        return metin
+    return metin + "+03:00"
+
+
+def _tekil_anahtar(record: dict) -> tuple:
+    baslik = re.sub(r"\s+", " ", _tr_kucuk(record.get("title", ""))).strip()
+    gun = (record.get("published_at") or "")[:10]
+    return (record.get("federation"), baslik, gun)
+
+
+MEVZUAT_ONEKLERI = ("Mevzuat güncellendi: ", "Yeni mevzuat: ")
+
+
+def cop_kayit_mi(record: dict) -> bool:
+    """Belge adi yerine "Devamı...", "Tıklayın" gibi baglanti metni yakalanmis
+    mevzuat kayitlari akista anlamsiz duruyordu."""
+    baslik = record.get("title", "")
+    for onek in MEVZUAT_ONEKLERI:
+        if baslik.startswith(onek):
+            return baslik_copu_mu(baslik[len(onek):])
+    return False
+
+
+def kayitlari_duzelt(store: list[dict]) -> tuple[list[dict], dict]:
+    """Basliklari duzeltir, tarihleri sabitler, tekrar ve cop kayitlari eler."""
+    sayac = {"baslik": 0, "tarih": 0, "tekrar": 0, "cop": 0}
+    gorulen: dict[tuple, dict] = {}
+
+    for record in store:
+        if cop_kayit_mi(record):
+            sayac["cop"] += 1
+            continue
+        yeni_baslik = baslik_duzelt(record.get("title", ""))
+        if yeni_baslik != record.get("title"):
+            record["title"] = yeni_baslik
+            sayac["baslik"] += 1
+        for alan in ("published_at", "first_seen_at"):
+            duzeltilmis = tarih_duzelt(record.get(alan) or "")
+            if duzeltilmis != (record.get(alan) or ""):
+                record[alan] = duzeltilmis
+                if alan == "published_at":
+                    sayac["tarih"] += 1
+
+        anahtar = _tekil_anahtar(record)
+        onceki = gorulen.get(anahtar)
+        if onceki is None:
+            gorulen[anahtar] = record
+        else:
+            sayac["tekrar"] += 1
+            # Ozeti dolu olani tut; esitse ilk goruleni birak
+            if len(record.get("summary") or "") > len(onceki.get("summary") or ""):
+                gorulen[anahtar] = record
+
+    return list(gorulen.values()), sayac
+
+
+SESSIZ_GUN = 60
+
+
+def sessiz_kaynaklar(store: list[dict]) -> list[dict]:
+    """Uzun suredir yeni kayit gelmeyen federasyonlar.
+
+    Kaynak teknik olarak "calisiyor" gorunup icerik uretmemeye baslayabiliyor
+    (site yapisi degisti, liste bosaldi). Bunu ancak aylar sonra fark ederiz;
+    meta.json'a yazarak gorunur kiliyoruz.
+    """
+    son: dict[str, str] = {}
+    for record in store:
+        an = record.get("published_at") or ""
+        slug = record.get("federation")
+        if an and (slug not in son or an > son[slug]):
+            son[slug] = an
+
+    esik = (datetime.now(timezone.utc) - timedelta(days=SESSIZ_GUN)).isoformat()
+    sessiz = []
+    for slug in sorted(BY_SLUG):
+        an = son.get(slug)
+        if an is None:
+            sessiz.append({"federation": slug, "last_published_at": None,
+                           "days": None})
+        elif an < esik:
+            try:
+                gun = (datetime.now(timezone.utc)
+                       - datetime.fromisoformat(an)).days
+            except ValueError:
+                gun = None
+            sessiz.append({"federation": slug, "last_published_at": an,
+                           "days": gun})
+    return sessiz
+
+
 def merge_health(stats: dict) -> dict:
     """Kismi tarama kaynak sagligi ozetini bozmasin.
 
@@ -178,6 +355,7 @@ def build_outputs(store: list[dict], stats: dict) -> None:
         "partial_run": stats.get("partial_slugs") or None,
         "latest_published_at": store[0]["published_at"] if store else None,
         "categories": dict(categories),
+        "silent_sources": sessiz_kaynaklar(store),
         "federation_counts": counts,
     })
     write_json(OUT / "federations.json", federations)
@@ -216,9 +394,13 @@ def sadece_yeniden_uret() -> None:
     Cakisma cozumunde kullanilir: uzak surumle birlestirilen store'dan
     feed/tag/category dosyalarini tutarli sekilde yeniden yazar.
     """
-    store = sorted(load_store(), key=sort_key, reverse=True)
+    store, duzeltme = kayitlari_duzelt(sorted(load_store(), key=sort_key,
+                                              reverse=True))
+    store.sort(key=sort_key, reverse=True)
     build_outputs(store, {"new": 0, "partial": True, "partial_slugs": ["yeniden-uretim"]})
-    print(f"ciktilar yeniden uretildi: {len(store)} kayit")
+    print(f"ciktilar yeniden uretildi: {len(store)} kayit "
+          f"(baslik {duzeltme['baslik']}, tarih {duzeltme['tarih']}, "
+          f"elenen tekrar {duzeltme['tekrar']}, elenen cop {duzeltme['cop']})")
 
 
 async def main() -> int:
@@ -262,6 +444,12 @@ async def main() -> int:
         store = sorted(new_records + store, key=sort_key, reverse=True)[:MAX_STORE]
     elif store:
         store = sorted(store, key=sort_key, reverse=True)[:MAX_STORE]
+
+    store, duzeltme = kayitlari_duzelt(store)
+    store.sort(key=sort_key, reverse=True)
+    if any(duzeltme.values()):
+        print(f"duzeltme: baslik {duzeltme['baslik']}, tarih {duzeltme['tarih']}, "
+              f"elenen tekrar {duzeltme['tekrar']}, elenen cop {duzeltme['cop']}")
 
     build_outputs(store, {"new": len(new_records),
                           "sources_ok": len(ok),

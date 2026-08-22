@@ -355,10 +355,25 @@ def html_ozu(html: str) -> str:
     return metin
 
 
+# Bazi siteler olmayan sayfayi 404 yerine 200 ile "hata sayfasina" yonlendiriyor.
+# Adres bunu ele veriyor; yoksa kullaniciya takvim diye bozuk baglanti gosteriyoruz.
+HATA_ADRESI = re.compile(
+    r"(error=|/404\b|404\.|not[-+%20 ]?found|sayfa[-_]?bulunamadi|page[-_]not[-_]found)",
+    re.I)
+
+
+def hata_sayfasi_mi(url: str) -> bool:
+    return bool(HATA_ADRESI.search(url or ""))
+
+
 async def kaynak_cek(client, kaynak: TakvimKaynagi) -> Optional[TakvimDurumu]:
     """Takvim kaynagini ceker, parmak izi ve (varsa) etkinlik listesi uretir."""
     r = await get(client, kaynak.url)
     if not r:
+        return None
+
+    # Yonlendirme sonrasi adres hata sayfasini gosteriyorsa takvim degildir
+    if hata_sayfasi_mi(str(r.url)):
         return None
 
     if kaynak.tur == "html":

@@ -21,7 +21,7 @@ import re
 from dataclasses import dataclass, field
 from datetime import datetime
 from typing import List, Optional
-from urllib.parse import urljoin, urlparse
+from urllib.parse import unquote, urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
@@ -53,6 +53,33 @@ MEVZUAT_DISI = ("faaliyet takvimi", "faaliyet programı", "başvuru formu",
 # Antrenoru dogrudan ilgilendiren belgeler one cikarilir
 ONCELIKLI = ("antrenör", "antrenor", "hakem", "kademe", "vize", "eğitim", "egitim",
              "lisans", "tescil", "kulüp", "kulup", "sporcu")
+
+# Baglanti metni belge adi degil, "tikla/devam" gibi yonlendirme oldugunda
+# akista "Mevzuat guncellendi: Devami..." gibi anlamsiz kayitlar olusuyordu.
+BAGLANTI_COPU = (
+    "devamı", "devami", "devamını oku", "devamini oku", "tıklayın", "tiklayin",
+    "tıklayınız", "tiklayiniz", "buraya tıkla", "buraya tikla", "kayıt ol",
+    "kayit ol", "detay", "detaylar", "daha fazla", "görüntüle", "goruntule",
+    "indir", "oku", "incele", "başvur", "basvur", "ayrıntı", "ayrinti",
+    "devamı için", "devami icin", "click here", "read more", "download",
+    # Site menusu / hesap baglantilari
+    "giriş yap", "giris yap", "üye ol", "uye ol", "anasayfa", "ana sayfa",
+    "iletişim", "iletisim", "site haritası", "site haritasi", "federasyon",
+    "duyurular", "haberler", "galeri", "sıkça sorulan sorular",
+)
+
+
+def baslik_copu_mu(baslik: str) -> bool:
+    """Baglanti metni belge adi mi, yoksa yonlendirme yazisi mi?"""
+    b = _lower_tr(baslik).strip(" .·–—->…")
+    if not b:
+        return True
+    if b in BAGLANTI_COPU:
+        return True
+    # "... icin tiklayin", "detay icin tiklayiniz" gibi kuyruklar
+    return any(b.endswith(k) or b.startswith(k) for k in
+               ("için tıklayın", "icin tiklayin", "için tıklayınız",
+                "icin tiklayiniz", "devamı...", "devami..."))
 
 
 @dataclass
@@ -129,11 +156,15 @@ def sayfadaki_belgeler(base_url: str, html: str) -> List[KuralBelgesi]:
             continue
         tur = belge_turu(tam)
 
-        # Baslik bostaysa dosya adindan uret
-        if not baslik and tur:
-            baslik = urlparse(tam).path.rstrip("/").rsplit("/", 1)[-1]
-            baslik = re.sub(r"[-_]+", " ", baslik.rsplit(".", 1)[0])[:120]
-        if len(baslik) < 8:
+        # Baslik bos ya da "Devami...", "Tiklayin" gibi yonlendirme metniyse
+        # dosya adindan gercek bir ad uretmeye calisiyoruz
+        if (not baslik or baslik_copu_mu(baslik)) and tur:
+            dosya = urlparse(tam).path.rstrip("/").rsplit("/", 1)[-1]
+            dosya = re.sub(r"[-_%]+", " ", dosya.rsplit(".", 1)[0])
+            dosya = clean(unquote(dosya))[:120]
+            if len(dosya) >= 8:
+                baslik = dosya
+        if len(baslik) < 8 or baslik_copu_mu(baslik):
             continue
         if not kural_belgesi_mi(baslik, tam):
             continue

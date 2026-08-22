@@ -33,7 +33,8 @@ jobs:
           python-version: "3.12"
 
       - name: Bagimliliklari kur
-        run: pip install httpx google-auth
+        # [requests] sart: google.auth.transport.requests onsuz ice aktarilamiyor
+        run: pip install httpx "google-auth[requests]"
 
       - name: Bildirim anahtarini yaz
         run: |

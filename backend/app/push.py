@@ -18,15 +18,20 @@ from __future__ import annotations
 
 import json
 import logging
-from typing import Dict, Iterable, List, Optional
+from typing import TYPE_CHECKING, Dict, Iterable, List, Optional
 
 import httpx
-from sqlalchemy import select
-from sqlalchemy.orm import Session
 
 from .config import (FCM_CREDENTIALS_JSON, FCM_PROJECT_ID, PUSH_ENABLED,
                      PUSH_MAX_PER_RUN, PUSH_MODE)
-from .models import Announcement, Device, Federation, Follow
+
+# Veritabani katmani yalnizca "token" modunda gerekiyor. GitHub Actions
+# hattinda ORM hic kullanilmiyor; modul seviyesinde ice aktarilirsa
+# sqlalchemy kurulu olmayan ortamlarda push modulu hic yuklenemiyor.
+if TYPE_CHECKING:  # pragma: no cover
+    from sqlalchemy.orm import Session
+
+    from .models import Announcement, Device, Federation
 
 FCM_SCOPE = "https://www.googleapis.com/auth/firebase.messaging"
 log = logging.getLogger("antrenor.push")
@@ -61,8 +66,12 @@ def _access_token() -> Optional[str]:
     return creds.token
 
 
-def targets_for(db: Session, announcement: Announcement) -> List[Device]:
+def targets_for(db: "Session", announcement: "Announcement") -> List["Device"]:
     """token modunda: ilgili federasyonu takip eden cihazlar."""
+    from sqlalchemy import select
+
+    from .models import Device, Follow
+
     rows = db.execute(
         select(Device).join(Follow, Follow.device_id == Device.id)
         .where(Follow.federation_id == announcement.federation_id)
@@ -70,7 +79,7 @@ def targets_for(db: Session, announcement: Announcement) -> List[Device]:
     return list({d.id: d for d in rows}.values())
 
 
-def build_message(announcement: Announcement, fed: Federation, *,
+def build_message(announcement: "Announcement", fed: "Federation", *,
                   token: Optional[str] = None, topic: Optional[str] = None) -> Dict:
     message: Dict = {
         "notification": {
@@ -141,8 +150,10 @@ def push_items(entries: List[Dict]) -> int:
     return sent
 
 
-def send_new(db: Session, announcements: Iterable[Announcement]) -> int:
+def send_new(db: "Session", announcements: Iterable["Announcement"]) -> int:
     """Yeni duyurular icin bildirim gonderir ve gonderilenleri isaretler."""
+    from .models import Federation
+
     pending = [a for a in announcements if not a.notified][:PUSH_MAX_PER_RUN]
     if not pending:
         return 0

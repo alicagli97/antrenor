@@ -36,6 +36,23 @@
   "source": "wp_json"
  },
  {
+  "id": "b5cc816b8abd9206",
+  "federation": "basketbol",
+  "federation_name": "Türkiye Basketbol Federasyonu",
+  "federation_short": "TBF",
+  "title": "Basketbol Yönetici Gelişim Semineri Kayıtları Başlıyor 21.08.2026",
+  "url": "https://www.tbf.org.tr/haber/basketbol-yonetici-gelisim-semineri-kayitlari-basliyor-2026-08-21",
+  "summary": "Türkiye Basketbol Federasyonu Yönetici Eğitim Programı kapsamında düzenlenecek Basketbol Yönetici Gelişim Semineri, 3 Ekim 2026 tarihinde gerçekleştirilecektir. Seminer kayıtları, 22 Ağustos – 22 Eylül 2026 tarihleri arasında alınacaktır. Devamını Gör",
+  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/6c9fcd752fa145adbf568308c69381b8_TBFAkademi.png",
+  "category": "kurs",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-08-21T00:00:00+00:00",
+  "first_seen_at": "2026-08-22T13:30:16+00:00",
+  "source": "html"
+ },
+ {
   "id": "da43d579df551b13",
   "federation": "judo",
   "federation_name": "Türkiye Judo Federasyonu",
@@ -3576,24 +3593,6 @@
    "hakem"
   ],
   "published_at": "2025-12-28T00:00:00",
-  "first_seen_at": "2026-08-19T21:45:48",
-  "source": "html"
- },
- {
-  "id": "7314f2cc925d15d6",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "13-14 ARALIK 2025 HEMSBALL ADAY HAKEM KURSU KATILIMCI LİSTESİ ERZURUM",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-379-13-14-aralik-2025-hemsball-aday-hakem-kursu-katilimci-listesi-erzurum",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2025-12-14T00:00:00",
   "first_seen_at": "2026-08-19T21:45:48",
   "source": "html"
  }

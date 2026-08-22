@@ -48,3 +48,8 @@ mobile/**/service-account*.json
 
 # Gelistirme sirasinda alinan ekran goruntuleri
 mobile/*.png
+
+# Yayin imzalama sirlari
+mobile/android/key.properties
+*.jks
+*.keystore

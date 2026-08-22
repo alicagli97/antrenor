@@ -1,3 +1,14 @@
+import java.util.Properties
+
+// Yayin imzalama bilgileri depoya girmiyor: key.properties .gitignore'da,
+// anahtar dosyasi da depo disinda duruyor. Dosya yoksa (baska bir makinede
+// veya CI'da) derleme hata ika etmez, hata ayiklama anahtariyla imzalanir.
+val imzaAyarlari = Properties().apply {
+    val dosya = rootProject.file("key.properties")
+    if (dosya.exists()) dosya.inputStream().use { load(it) }
+}
+val yayinImzasiVar = imzaAyarlari.getProperty("storeFile") != null
+
 plugins {
     id("com.android.application")
     // START: FlutterFire Configuration
@@ -28,11 +39,26 @@ android {
         versionName = flutter.versionName
     }
 
+    signingConfigs {
+        if (yayinImzasiVar) {
+            create("yayin") {
+                storeFile = file(imzaAyarlari.getProperty("storeFile"))
+                storePassword = imzaAyarlari.getProperty("storePassword")
+                keyAlias = imzaAyarlari.getProperty("keyAlias")
+                keyPassword = imzaAyarlari.getProperty("keyPassword")
+            }
+        }
+    }
+
     buildTypes {
         release {
-            // TODO: Add your own signing config for the release build.
-            // Signing with the debug keys for now, so `flutter run --release` works.
-            signingConfig = signingConfigs.getByName("debug")
+            // Hata ayiklama anahtari herkeste ayni oldugu icin magaza bunu
+            // reddediyor; ayrica sahte "guncelleme" paketi uretilebiliyor.
+            signingConfig = if (yayinImzasiVar) {
+                signingConfigs.getByName("yayin")
+            } else {
+                signingConfigs.getByName("debug")
+            }
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"

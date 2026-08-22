@@ -198,6 +198,19 @@ async def main() -> int:
     for kayit in kayitlar:
         yaz(OUT / "kural" / f'{kayit["federation"]}.json', kayit)
 
+    # Ayni belge birden fazla kaynak sayfasinda listelenebiliyor; tekrarli
+    # kayit hem akista hem bildirimde ikilemeye yol aciyordu.
+    tekil, gorulen = [], set()
+    for d in duyurular:
+        anahtar = (d["federation"], d["title"].strip().lower())
+        if anahtar in gorulen:
+            continue
+        gorulen.add(anahtar)
+        tekil.append(d)
+    if len(tekil) < len(duyurular):
+        print(f"elenen tekrar mevzuat kaydi: {len(duyurular) - len(tekil)}")
+    duyurular = tekil
+
     if duyurular:
         store = yukle(STORE, [])
         yaz(STORE, duyurular + store)

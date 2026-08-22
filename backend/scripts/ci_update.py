@@ -459,8 +459,16 @@ async def main() -> int:
                           "partial": bool(hedef),
                           "partial_slugs": hedef})
 
-    # Bildirim: yalnizca gercekten yeni olanlar icin
-    if new_records and os.getenv("PUSH_ENABLED") == "1":
+    # Bildirim: yalnizca yayinda kalan yeni kayitlar icin.
+    # Tekrar elemesinden once gonderirsek kullanici ayni duyuru icin iki
+    # bildirim aliyordu (bazi siteler ayni duyuruyu farkli URL'lerle veriyor).
+    kalan = {r["id"] for r in store}
+    duyurulacak = [r for r in new_records if r["id"] in kalan]
+    if len(duyurulacak) < len(new_records):
+        print(f"bildirim disi birakilan tekrar: "
+              f"{len(new_records) - len(duyurulacak)}")
+
+    if duyurulacak and os.getenv("PUSH_ENABLED") == "1":
         from app.push import push_items
         sent = push_items([{
             "federation_slug": r["federation"],
@@ -469,8 +477,8 @@ async def main() -> int:
             "id": r["id"],
             "url": r["url"],
             "category": r["category"],
-        } for r in new_records])
-        print(f"bildirim gonderildi: {sent}/{len(new_records)}")
+        } for r in duyurulacak])
+        print(f"bildirim gonderildi: {sent}/{len(duyurulacak)}")
         if sent == 0:
             # Sessiz basarisizlik uzun sure fark edilmedi: yeni duyuru vardi
             # ama tek bildirim gitmiyordu. Artik is akisini kirmiyoruz (veri

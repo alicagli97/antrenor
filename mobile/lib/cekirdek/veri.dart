@@ -83,6 +83,7 @@ class Veri extends ChangeNotifier {
         return Duyuru.jsondan(j, etiket: _etiketler[j['federation']]);
       }));
     _akisOnbellegi.clear();
+    _kategoriOnbellegi.clear();
     sonGuncelleme = DateTime.now();
   }
 
@@ -156,6 +157,9 @@ class Veri extends ChangeNotifier {
     takipteydi ? takipEdilen.remove(slug) : takipEdilen.add(slug);
     // Takip edilenler akışta öne alınıyor; sıralama yeniden hesaplanmalı
     _akisOnbellegi.clear();
+    for (final liste in _kategoriOnbellegi.values) {
+      _sirala(liste);
+    }
 
     final kayit = await SharedPreferences.getInstance();
     await kayit.setStringList('takip', takipEdilen.toList());
@@ -199,6 +203,47 @@ class Veri extends ChangeNotifier {
   /// Süzülmüş ve sıralanmış akış, kategori başına bir kez hesaplanır.
   /// Eskiden her yeniden çizimde 300 kayıt yeniden sıralanıyordu.
   final Map<String, List<Duyuru>> _akisOnbellegi = {};
+
+  /// Kategori uçları (her biri 200 kayıt). Açılış akışı yalnızca son 300
+  /// kaydı taşıdığı için, ondan süzmek bir kategoriden avuç dolusu sonuç
+  /// veriyordu: 250 kurs duyurusu varken akışta 3 tanesi görünüyordu.
+  final Map<String, List<Duyuru>> _kategoriOnbellegi = {};
+
+  Future<List<Duyuru>> kategoriAkisi(String kategori) async {
+    if (kategori == 'tumu') return akis();
+    final hazir = _kategoriOnbellegi[kategori];
+    if (hazir != null) return hazir;
+
+    List<Duyuru> liste;
+    try {
+      final ham = await _getir('category/$kategori.json') as List;
+      liste = ham
+          .map((e) {
+            final j = e as Map<String, dynamic>;
+            return Duyuru.jsondan(j, etiket: _etiketler[j['federation']]);
+          })
+          .toList();
+    } catch (_) {
+      // Bağlantı yoksa elimizdeki akıştan süzmek hiç yoktan iyidir
+      liste = akis(kategori: kategori);
+    }
+    _sirala(liste);
+    _kategoriOnbellegi[kategori] = liste;
+    return liste;
+  }
+
+  /// Takip edilenler öne, sonra tarihe göre yeniden eskiye
+  void _sirala(List<Duyuru> liste) {
+    liste.sort((a, b) {
+      if (takipEdilen.isNotEmpty) {
+        final fark = (takipEdilen.contains(a.federasyon) ? 0 : 1) -
+            (takipEdilen.contains(b.federasyon) ? 0 : 1);
+        if (fark != 0) return fark;
+      }
+      return (b.yayinTarihi ?? DateTime(2000))
+          .compareTo(a.yayinTarihi ?? DateTime(2000));
+    });
+  }
 
   List<Duyuru> akis({String kategori = 'tumu'}) {
     final hazir = _akisOnbellegi[kategori];

@@ -292,6 +292,41 @@ def sessiz_kaynaklar(store: list[dict]) -> list[dict]:
     return sessiz
 
 
+# Acilis akisinda tek bir kategorinin payi bu orani gecmesin
+AKIS_KATEGORI_PAYI = 0.35
+
+
+def akis_dengele(store: list[dict]) -> list[dict]:
+    """Acilis akisini tek bir kategorinin doldurmasini engeller.
+
+    Mevzuat kayitlarinin yayin tarihi yok; belge degisikligi yakalandigi an
+    damgalaniyor. Toplu bir kontrolde yuzlerce belge ayni ana dusunce akisin
+    tepesi tamamen mevzuat oluyordu: 300 kaydin 261'i mevzuat, kurs duyurusu
+    yalnizca 3 taneydi. Sira korunuyor, yalnizca bir kategori kotasini
+    doldurdugunda sonraki kayitlara yer aciliyor.
+    """
+    kota = max(1, int(FEED_SIZE * AKIS_KATEGORI_PAYI))
+    secilen: list[dict] = []
+    sayac: Counter = Counter()
+    tasan: list[dict] = []
+
+    for record in store:
+        if len(secilen) >= FEED_SIZE:
+            break
+        kategori = record.get("category", "duyuru")
+        if sayac[kategori] >= kota:
+            tasan.append(record)
+            continue
+        sayac[kategori] += 1
+        secilen.append(record)
+
+    # Akis dolmadiysa kotayi asanlarla tamamla
+    if len(secilen) < FEED_SIZE:
+        secilen.extend(tasan[:FEED_SIZE - len(secilen)])
+        secilen.sort(key=sort_key, reverse=True)
+    return secilen
+
+
 def merge_health(stats: dict) -> dict:
     """Kismi tarama kaynak sagligi ozetini bozmasin.
 
@@ -360,7 +395,7 @@ def build_outputs(store: list[dict], stats: dict) -> None:
     })
     write_json(OUT / "federations.json", federations)
     write_json(STORE, store)
-    write_json(OUT / "feed.json", store[:FEED_SIZE])
+    write_json(OUT / "feed.json", akis_dengele(store))
 
     for slug, rows in by_fed.items():
         write_json(OUT / "fed" / f"{slug}.json", rows[:PER_FEDERATION])

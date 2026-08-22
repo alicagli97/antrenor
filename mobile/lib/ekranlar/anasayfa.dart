@@ -20,18 +20,41 @@ class Anasayfa extends StatefulWidget {
 class _AnasayfaDurumu extends State<Anasayfa> {
   String _kategori = 'tumu';
 
+  // Kurs, vize ve seminer duyurulari antrenor icin uygulamanin asil sebebi;
+  // bu yuzden "Tümü"den hemen sonra geliyor.
   static const _kategoriler = [
     ('tumu', 'Tümü'),
+    ('kurs', 'Kurs & seminer'),
     ('musabaka', 'Müsabaka'),
     ('mevzuat', 'Mevzuat'),
     ('takvim', 'Takvim'),
     ('duyuru', 'Duyuru'),
   ];
 
+  List<Duyuru>? _kategoriListesi;   // null: "Tümü" seçili
+  bool _kategoriYukleniyor = false;
+
+  Future<void> _kategoriSec(String kategori) async {
+    if (kategori == _kategori) return;
+    setState(() {
+      _kategori = kategori;
+      _kategoriListesi = null;
+      _kategoriYukleniyor = kategori != 'tumu';
+    });
+    if (kategori == 'tumu') return;
+
+    final liste = await widget.veri.kategoriAkisi(kategori);
+    if (!mounted || _kategori != kategori) return;
+    setState(() {
+      _kategoriListesi = liste;
+      _kategoriYukleniyor = false;
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
     final veri = widget.veri;
-    final liste = veri.akis(kategori: _kategori);
+    final liste = _kategori == 'tumu' ? veri.akis() : (_kategoriListesi ?? const <Duyuru>[]);
 
     return RefreshIndicator(
       onRefresh: veri.baslat,
@@ -50,10 +73,15 @@ class _AnasayfaDurumu extends State<Anasayfa> {
             delegate: _SuzgecSeridi(
               secili: _kategori,
               kategoriler: _kategoriler,
-              sec: (k) => setState(() => _kategori = k),
+              sec: _kategoriSec,
             ),
           ),
-          if (liste.isEmpty)
+          if (_kategoriYukleniyor)
+            const SliverFillRemaining(
+              hasScrollBody: false,
+              child: Center(child: CircularProgressIndicator(strokeWidth: 2)),
+            )
+          else if (liste.isEmpty)
             SliverFillRemaining(
               hasScrollBody: false,
               child: Center(

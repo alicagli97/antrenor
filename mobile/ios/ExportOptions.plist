@@ -18,6 +18,16 @@
 	<key>signingStyle</key>
 	<string>manual</string>
 
+	<!-- Elle imzalamada profil eslesmesi acikca yazilmali -->
+	<key>signingCertificate</key>
+	<string>Apple Distribution</string>
+
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.antrenorapp.antrenor</key>
+		<string>Antrenor App Store</string>
+	</dict>
+
 	<!-- Bitcode Xcode 14'ten beri kullanilmiyor -->
 	<key>uploadBitcode</key>
 	<false/>

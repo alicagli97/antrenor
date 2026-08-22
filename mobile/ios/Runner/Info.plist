@@ -273,6 +273,12 @@
 				<string>3qcr597p9d.skadnetwork</string>
 			</dict>
 		</array>
+		<!-- Bildirim geldiginde uygulama arka planda uyanip icerigi
+		     tazeleyebilsin diye -->
+		<key>UIBackgroundModes</key>
+		<array>
+			<string>remote-notification</string>
+		</array>
 		<key>UIStatusBarHidden</key>
 		<false/>
 	</dict>

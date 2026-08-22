@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Uygulama yetkileri.
+
+  aps-environment olmadan iOS, uygulamanin APNs'e kaydolmasina izin
+  vermiyor: cihaz jeton alamiyor, konuya abone olamiyor ve bildirim hic
+  ulasmiyor. Xcode'da "Push Notifications" yetkisi eklenince bu dosya
+  kendiliginden olusuyor; Mac kullanilmadigi icin elle yazildi.
+
+  Deger "production": TestFlight ve App Store surumleri uretim APNs
+  ortamini kullaniyor (dagitim profilimiz de production).
+-->
+<plist version="1.0">
+<dict>
+	<key>aps-environment</key>
+	<string>production</string>
+</dict>
+</plist>

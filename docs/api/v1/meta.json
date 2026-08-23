@@ -1,21 +1,22 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-23T19:37:53+00:00",
- "total": 2050,
+ "generated_at": "2026-08-23T20:36:30+00:00",
+ "total": 2054,
  "new_in_last_run": 6,
- "sources_ok": 64,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "cimnastik"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-23T19:31:10+00:00",
+ "latest_published_at": "2026-08-23T20:35:17+00:00",
  "categories": {
-  "duyuru": 825,
+  "mevzuat": 553,
+  "duyuru": 827,
   "musabaka": 333,
   "takvim": 52,
-  "mevzuat": 551,
   "haber": 37,
   "kurs": 252
  },
@@ -27,11 +28,11 @@
   }
  ],
  "federation_counts": {
-  "atletizm": 30,
+  "gelenekselguresler": 26,
+  "atletizm": 31,
   "muaythai": 31,
   "boks": 30,
   "shgm": 27,
-  "gelenekselguresler": 23,
   "otomobil": 43,
   "cimnastik": 28,
   "badminton": 62,

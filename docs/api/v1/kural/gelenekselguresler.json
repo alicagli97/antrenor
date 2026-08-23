@@ -3,9 +3,10 @@
  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
  "federation_short": "TGGF",
  "sources": [
-  "https://tggf.org.tr/tggf-talimatlari/"
+  "https://tggf.org.tr/tggf-talimatlari/",
+  "https://tggf.org.tr/tggf-ana-statu/"
  ],
- "document_count": 35,
+ "document_count": 37,
  "coach_document_count": 6,
  "documents": [
   {
@@ -252,8 +253,22 @@
    "tur": "pdf",
    "onemli": false,
    "parmak_izi": "31789ace8fdb0fae"
+  },
+  {
+   "baslik": "Türkiye Geleneksel Güreşler Federasyonu Ana Statü (01 Temmuz 2025)",
+   "url": "https://tggf.org.tr/wp-content/uploads/2025/07/tggf_ana_statu_01072025.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Türkiye Geleneksel Güreşler Federasyonu Ana Statü (03 Haziran 2022)",
+   "url": "https://tggf.org.tr/wp-content/uploads/2023/11/tggf-ana-statu.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
   }
  ],
- "checked_at": "2026-08-23T19:34:53+00:00",
- "list_fingerprint": "285d374221e6063f"
+ "checked_at": "2026-08-23T20:35:17+00:00",
+ "list_fingerprint": "3429db0306ba9776"
 }

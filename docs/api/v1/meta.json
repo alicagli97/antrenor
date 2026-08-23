@@ -1,20 +1,21 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-23T17:31:31+00:00",
- "total": 2045,
- "new_in_last_run": 5,
- "sources_ok": 64,
+ "generated_at": "2026-08-23T18:53:27+00:00",
+ "total": 2048,
+ "new_in_last_run": 7,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "gelenekselguresler"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-23T17:25:31+00:00",
+ "latest_published_at": "2026-08-23T18:53:27+00:00",
  "categories": {
-  "duyuru": 821,
+  "musabaka": 333,
+  "duyuru": 823,
   "takvim": 52,
-  "musabaka": 332,
   "mevzuat": 551,
   "haber": 37,
   "kurs": 252
@@ -27,6 +28,8 @@
   }
  ],
  "federation_counts": {
+  "boks": 30,
+  "shgm": 27,
   "gelenekselguresler": 23,
   "atletizm": 29,
   "otomobil": 43,
@@ -54,9 +57,7 @@
   "okculuk": 22,
   "gures": 27,
   "voleybol": 38,
-  "boks": 29,
   "karate": 15,
-  "shgm": 25,
   "kurek": 15,
   "sualti": 30,
   "futbol": 58,

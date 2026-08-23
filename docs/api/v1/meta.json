@@ -1,21 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-23T16:00:30+00:00",
- "total": 2042,
- "new_in_last_run": 0,
+ "generated_at": "2026-08-23T16:39:09+00:00",
+ "total": 2044,
+ "new_in_last_run": 6,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": [
-  "basketbol"
- ],
- "latest_published_at": "2026-08-23T13:41:09+00:00",
+ "partial_run": null,
+ "latest_published_at": "2026-08-23T16:08:39+00:00",
  "categories": {
+  "duyuru": 820,
   "takvim": 52,
-  "duyuru": 818,
   "musabaka": 332,
   "mevzuat": 551,
   "haber": 37,
@@ -29,6 +27,8 @@
   }
  ],
  "federation_counts": {
+  "atletizm": 29,
+  "otomobil": 43,
   "cimnastik": 28,
   "badminton": 62,
   "gsb": 82,
@@ -51,7 +51,6 @@
   "binicilik": 69,
   "aticilik": 37,
   "okculuk": 22,
-  "atletizm": 28,
   "gures": 27,
   "voleybol": 38,
   "boks": 29,
@@ -67,7 +66,6 @@
   "halter": 23,
   "taekwondo": 22,
   "havasporlari": 24,
-  "otomobil": 42,
   "judo": 43,
   "kaykay": 9,
   "gelenekselguresler": 22,

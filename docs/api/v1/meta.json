@@ -1,34 +1,18 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-22T23:41:00+00:00",
- "total": 1788,
+ "generated_at": "2026-08-23T01:59:15+00:00",
+ "total": 1789,
  "new_in_last_run": 5,
- "sources_ok": 53,
+ "sources_ok": 64,
  "sources_failed": [
-  "basketbol",
-  "bisiklet",
-  "boks",
-  "dagcilik",
-  "danssporlari",
-  "gelismekteolan",
-  "havasporlari",
-  "herkesicinspor",
-  "isitmeengelliler",
-  "kano",
-  "masatenisi",
-  "satranc",
-  "sualti",
-  "vucutgelistirme"
+  "basketbol"
  ],
- "sources_empty": [
-  "bric",
-  "tmok"
- ],
+ "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-22T23:41:00+00:00",
+ "latest_published_at": "2026-08-23T01:59:15+00:00",
  "categories": {
-  "duyuru": 812,
+  "duyuru": 813,
   "takvim": 50,
   "haber": 37,
   "kurs": 252,
@@ -43,7 +27,7 @@
   }
  ],
  "federation_counts": {
-  "buzpateni": 61,
+  "buzpateni": 62,
   "gelismekteolan": 46,
   "shgm": 25,
   "badminton": 43,

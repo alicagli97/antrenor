@@ -1,15 +1,17 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-23T10:37:03+00:00",
+ "generated_at": "2026-08-23T11:00:33+00:00",
  "total": 2037,
- "new_in_last_run": 6,
+ "new_in_last_run": 0,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-08-23T09:57:06+00:00",
  "categories": {
   "musabaka": 331,

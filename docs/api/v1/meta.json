@@ -1,19 +1,21 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-23T05:40:27+00:00",
- "total": 2033,
- "new_in_last_run": 4,
+ "generated_at": "2026-08-23T06:00:29+00:00",
+ "total": 2035,
+ "new_in_last_run": 2,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-08-23T04:27:12+00:00",
  "categories": {
   "mevzuat": 551,
-  "duyuru": 813,
+  "duyuru": 815,
   "takvim": 50,
   "haber": 37,
   "kurs": 252,
@@ -59,7 +61,7 @@
   "futbol": 58,
   "bisiklet": 23,
   "eskrim": 43,
-  "basketbol": 17,
+  "basketbol": 19,
   "hentbol": 16,
   "halter": 23,
   "taekwondo": 22,

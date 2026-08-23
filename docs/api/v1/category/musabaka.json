@@ -17,6 +17,23 @@
   "source": "wp_json"
  },
  {
+  "id": "7ee1b8f661644ed6",
+  "federation": "karate",
+  "federation_name": "Türkiye Karate Federasyonu",
+  "federation_short": "TKF",
+  "title": "Uluslararası Turkısh Open Karate Turnuvası Tamamlandı",
+  "url": "https://karate.gov.tr/blog_detay.php?id=87",
+  "summary": "HABER Ulusal Haberler Uluslararası Turkish Open Karate Turnuvası, üç gün süren heyecan dolu müsabakaların ardından tamamlandı.... DEVAMINI OKU",
+  "image": "https://karate.gov.tr/uploads/blog/blog_1787496313_699.webp",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-23T00:00:00+00:00",
+  "first_seen_at": "2026-08-23T15:33:59+00:00",
+  "source": "html"
+ },
+ {
   "id": "912d5fb5f880b3c8",
   "federation": "buzpateni",
   "federation_name": "Türkiye Buz Pateni Federasyonu",
@@ -3409,22 +3426,5 @@
   "published_at": "2026-08-04T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
- },
- {
-  "id": "e6244a8b952ce90c",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "Jujıtsu Milli Takımımız Dünya Şampiyonası için Abu Dhabi’de",
-  "url": "https://muaythai.gov.tr/2026/08/03/jujitsu-milli-takimimiz-dunya-sampiyonasi-icin-abu-dhabide/",
-  "summary": "JJIF Gençler ve Büyükler Dünya Jujitsu Şampiyonası, 1-9 Ağustos 2026 tarihleri arasında Birleşik Arap Emirlikleri’nin Abu Dhabi kentinde",
-  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/08/jujitsu-abudhabi-2.jpeg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-03T10:22:44+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
  }
 ]

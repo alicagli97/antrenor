@@ -1,17 +1,15 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-23T06:00:29+00:00",
+ "generated_at": "2026-08-23T06:58:08+00:00",
  "total": 2035,
- "new_in_last_run": 2,
+ "new_in_last_run": 4,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": [
-  "basketbol"
- ],
+ "partial_run": null,
  "latest_published_at": "2026-08-23T04:27:12+00:00",
  "categories": {
   "mevzuat": 551,

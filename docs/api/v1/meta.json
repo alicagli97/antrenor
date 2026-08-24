@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-24T19:39:40+00:00",
- "total": 2376,
+ "generated_at": "2026-08-24T20:44:03+00:00",
+ "total": 2377,
  "new_in_last_run": 5,
  "sources_ok": 64,
  "sources_failed": [
@@ -10,12 +10,12 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-24T19:37:58+00:00",
+ "latest_published_at": "2026-08-24T20:44:03+00:00",
  "categories": {
+  "duyuru": 857,
   "takvim": 55,
   "haber": 40,
   "kurs": 263,
-  "duyuru": 856,
   "mevzuat": 824,
   "musabaka": 338
  },
@@ -27,6 +27,7 @@
   }
  ],
  "federation_counts": {
+  "shgm": 33,
   "eskrim": 53,
   "halter": 26,
   "hentbol": 20,
@@ -35,7 +36,6 @@
   "ozelsporcular": 32,
   "cimnastik": 31,
   "pentatlon": 22,
-  "shgm": 32,
   "voleybol": 44,
   "hokey": 22,
   "gormeengelliler": 41,

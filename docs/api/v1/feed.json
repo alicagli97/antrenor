@@ -1,5 +1,20 @@
 [
  {
+  "id": "b1b9353e936b7aea",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302632/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-24T20:44:03+00:00",
+  "first_seen_at": "2026-08-24T20:44:03+00:00",
+  "source": "html"
+ },
+ {
   "id": "40838667ed8cee48",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -5160,21 +5175,6 @@
   "tags": [
    "burs"
   ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "b9a5073a17da5e44",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Forma ve Şort Standartları Güncellendi",
-  "url": "https://tvf.org.tr/icerik/forma-ve-sort-standartlari-guncellendi",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-08-20T19:23:27+00:00",
   "first_seen_at": "2026-08-20T19:23:27+00:00",
   "source": "html"

@@ -1,5 +1,22 @@
 [
  {
+  "id": "683f3a2b6ed8ac5e",
+  "federation": "gelenekselsporlar",
+  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
+  "federation_short": "GSDF",
+  "title": "Yıldız Genç Kadınlar ve Erkekler Mas Güreşi Türkiye Şampiyonası İstanbul’da",
+  "url": "https://www.gsdf.gov.tr/tr/haber/yildiz-genc-kadinlar-ve-erkekler-mas-guresi-turkiye-sampiyonasi-istanbulda",
+  "summary": "",
+  "image": "https://www.gsdf.gov.tr/uploads/default/blog/24472a9614d9ff492c18d5746505208f_mid_r.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-24T21:40:36+00:00",
+  "first_seen_at": "2026-08-24T21:40:36+00:00",
+  "source": "html"
+ },
+ {
   "id": "17da93e354231a5f",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -3403,24 +3420,6 @@
    "musabaka"
   ],
   "published_at": "2026-08-06T19:43:34+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "3ad0943178264fe7",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "28-30 Ağustos 2026 Samsun Cankurtarma Sportif Deniz Açık Yaş Bireysel ve Kulüpler Arası Türkiye Şampiyonası Milli Takım Seçmeleri Yarışma Reglamanı",
-  "url": "https://www.tssf.gov.tr/28-30-agustos-2026-samsun-cankurtarma-sportif-deniz-acik-yas-bireysel-ve-kulupler-arasi-turkiye-sampiyonasi-milli-takim-secmeleri-yarisma-reglamani/",
-  "summary": "Müsabakalara Katılacak Spor Kulüplerinin Dikkatine (Branş Akreditasyonu) Federasyonumuz faaliyet programında yer alan müsabakalara katılım sağlayacak spor kulüplerinin, aşağıda",
-  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "milli_takim"
-  ],
-  "published_at": "2026-08-06T19:04:53+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  }

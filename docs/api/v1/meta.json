@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-24T05:50:23+00:00",
- "total": 2323,
- "new_in_last_run": 4,
+ "generated_at": "2026-08-24T07:17:21+00:00",
+ "total": 2325,
+ "new_in_last_run": 6,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -13,7 +13,7 @@
  "latest_published_at": "2026-08-24T04:36:06+00:00",
  "categories": {
   "mevzuat": 822,
-  "duyuru": 827,
+  "duyuru": 829,
   "musabaka": 333,
   "takvim": 52,
   "haber": 37,
@@ -41,7 +41,7 @@
   "ozelsporcular": 31,
   "isitmeengelliler": 8,
   "otomobil": 47,
-  "motosiklet": 40,
+  "motosiklet": 41,
   "okculuk": 32,
   "bilardo": 31,
   "golf": 98,
@@ -51,7 +51,7 @@
   "triatlon": 42,
   "buzpateni": 104,
   "kano": 53,
-  "yelken": 26,
+  "yelken": 27,
   "cimnastik": 30,
   "eskrim": 46,
   "judo": 44,

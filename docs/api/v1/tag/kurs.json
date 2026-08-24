@@ -1,5 +1,24 @@
 [
  {
+  "id": "537b97ae25440ffb",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Cumhurbaşkanlığı Kupası Hakem ve Gözlemci Hazırlık Semineri Başladı",
+  "url": "https://thf.org.tr/haber/cumhurbaskanligi-kupasi-hakem-ve-gozlemci-hazirlik-semineri-basladi",
+  "summary": "Merkez Hakem ve Gözlemci Kurulu (MHGK) tarafından, Cumhurbaşkanlığı Kupası’nda görev alacak hakem ve gözlemcilere yönelik hazırlık ve eğitim semineri başladı. Program kapsamında hakem ve gözlemcilere yönelik hazırlık ve eğitim çalışmaları, yarın başlayacak Cumhurbaşkanlığı Kupası yarı final müsabakaları öncesinde de devam edecek. MHGK tarafından yürütülen çalışmalar, perşembe günü oynanacak final müsabakaları öncesinde gerçekleştirilecek son eğitim ve hazırlık programıyla tamamlanacak. Seminer programıyla, görevli hakem ve gözlemcilerin müsabakalara en iyi şekilde hazırlanması, uygulama birlik",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "kurs",
+   "hakem",
+   "musabaka"
+  ],
+  "published_at": "2026-08-24T19:18:56+00:00",
+  "first_seen_at": "2026-08-24T17:41:18+00:00",
+  "source": "api"
+ },
+ {
   "id": "3444a2e62d109d0a",
   "federation": "halter",
   "federation_name": "Türkiye Halter Federasyonu",
@@ -3576,24 +3595,6 @@
    "hakem"
   ],
   "published_at": "2026-01-18T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "4c56dfd93672b8a7",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Mas Güreşi Aday Hakem Kursu",
-  "url": "https://www.gsdf.gov.tr/tr/haber/mas-guresi-aday-hakem-kursu",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/130a67e9c6c5b2cec31704d6d0e39974_mid_r.jpg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-01-15T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

@@ -37,6 +37,23 @@
   "source": "wp_json"
  },
  {
+  "id": "e016d367c6495d4b",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Stand Up Paddle(sup) 1. Kademe Yardımcı Tur Liderliği Eğitimi Sınav Sonuçları",
+  "url": "https://kano.org.tr/stand-up-paddle-antrenorluk-ve-tur-liderligi-egitimleri-sinav-sonuclari-1",
+  "summary": ", Pazartesi Federasyonumuz tarafından 10-14 Ağustos 2026 Tarihlerinde İzmir'de düzenlenen \"STAND UP PADDLE (SUP) 1. KADEME YARDIMCI TUR LİDERLİĞİ EĞİTİMİ SINAV SONUÇLARI\" sonuçları yayınlandı.",
+  "image": "https://kano.org.tr/uploads/sup-duyuru.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-08-24T14:56:00+00:00",
+  "source": "html"
+ },
+ {
   "id": "2b73740c4031d946",
   "federation": "kano",
   "federation_name": "Türkiye Kano Federasyonu",
@@ -3489,24 +3506,6 @@
    "kurs"
   ],
   "published_at": "2026-06-03T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "b93d21bcd16e2af8",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Mangala Oyunu 1. Kademe Yardımcı Antrrnör Yetiştirme Kursu",
-  "url": "https://www.gsdf.gov.tr/tr/haber/mangala-oyunu-1.-kademe-yardimci-antrrnor-yetistirme-kursu",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/f28a4805adf64602ce16957002a06073_mid_r.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-06-02T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

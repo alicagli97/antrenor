@@ -1,5 +1,40 @@
 [
  {
+  "id": "e44a8bd69a34baa0",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 333 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-24T14:54:14+00:00",
+  "first_seen_at": "2026-08-24T14:54:14+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "ebf9eec1faafe841",
+  "federation": "pentatlon",
+  "federation_name": "Türkiye Modern Pentatlon Federasyonu",
+  "federation_short": "TMPF",
+  "title": "Yılı 7. Mali Genel Kurul – Faal Olmayan Hakemler İçin Noter Huzurunda Kura Çekimi Duyurusu",
+  "url": "https://tmpf.org.tr/2026-yili-7-mali-genel-kurul-faal-olmayan-hakemler-icin-noter-huzurunda-kura-cekimi-duyurusu/",
+  "summary": "Türkiye Modern Pentatlon Federasyonu 7. Mali Genel Kurul – Faal Olmayan Hakemler İçin Kura Çekimi Duyurusu FAAL OLMAYAN HAKEMLER İÇİN NOTER HUZURUNDA KURA ÇEKİMİ DUYURUSU 25.07.2024 […]",
+  "image": "https://tmpf.org.tr/wp-content/uploads/2026/08/7-mali-genel-kurul-faal-olmayan-hakemler-icin-noter-huzurunda-kura-cekimi-duyurusu-kapak.webp",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-24T13:52:23+00:00",
+  "first_seen_at": "2026-08-24T14:56:00+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "8f211b2862562602",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -5245,6 +5280,38 @@
   "published_at": "2026-08-24T04:26:29+00:00",
   "first_seen_at": "2026-08-24T04:26:29+00:00",
   "source": "mevzuat"
+ },
+ {
+  "id": "e016d367c6495d4b",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Stand Up Paddle(sup) 1. Kademe Yardımcı Tur Liderliği Eğitimi Sınav Sonuçları",
+  "url": "https://kano.org.tr/stand-up-paddle-antrenorluk-ve-tur-liderligi-egitimleri-sinav-sonuclari-1",
+  "summary": ", Pazartesi Federasyonumuz tarafından 10-14 Ağustos 2026 Tarihlerinde İzmir'de düzenlenen \"STAND UP PADDLE (SUP) 1. KADEME YARDIMCI TUR LİDERLİĞİ EĞİTİMİ SINAV SONUÇLARI\" sonuçları yayınlandı.",
+  "image": "https://kano.org.tr/uploads/sup-duyuru.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-08-24T14:56:00+00:00",
+  "source": "html"
+ },
+ {
+  "id": "86353854d41b10b9",
+  "federation": "vucutgelistirme",
+  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
+  "federation_short": "TVGFBF",
+  "title": "Ifbb World Fıtness Sport Games 2026...",
+  "url": "https://tvgfbf.gov.tr/duyurular/ifbb-world-fitness-sport-games-2026-yarisma-reglamani",
+  "summary": "Vücut Geliştirme Duyuruları IFBB WORLD FITNESS SPORT GAMES 2026 YARIŞMA REGLAMANI... Devamını Oku 20.08.2026 Vücut Geliştirme Duyuruları YARIŞMA PROGRAMINDA BAZI KATEGORİLE... ... Devamını Oku 19.08.2026 Vücut Geliştirme Duyuruları ANTENÖR GELİŞİM SEMİNERİ 30.08.2026... V.G FİTNESS ANTRENÖR GELİŞİM SEMİNERİ 30 AĞUSTOS 2026 (İSTANBUL FITNESS WEEK)Ön Kayıt: 19-27 Ağust... Devamını Oku 18.08.2026 Vüc",
+  "image": "https://tvgfbf.gov.tr/public/announcement/ifbb-world-fitness-sport-games-2026-yarisma-reglamani/kapak/WhatsAppImage2026-08-24at1743461_1787582800_6a8c5950df9c6.jpeg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-08-24T14:56:00+00:00",
+  "source": "html"
  },
  {
   "id": "2511ace857046d58",

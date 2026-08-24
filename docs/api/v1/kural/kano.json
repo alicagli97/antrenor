@@ -3,10 +3,9 @@
  "federation_name": "Türkiye Kano Federasyonu",
  "federation_short": "TKF",
  "sources": [
-  "https://kano.org.tr/mevzuatlar",
-  "https://kano.org.tr"
+  "https://kano.org.tr/mevzuatlar"
  ],
- "document_count": 34,
+ "document_count": 32,
  "coach_document_count": 13,
  "documents": [
   {
@@ -237,24 +236,8 @@
    "tur": "pdf",
    "onemli": false,
    "parmak_izi": "813bf5e5cb9da85c"
-  },
-  {
-   "baslik": "Güncel Haberler PLANLAMA REHBERİ",
-   "url": "https://kano.org.tr/kariyer-planlama",
-   "tur": "html",
-   "onemli": false,
-   "parmak_izi": "1167fbe5e4ab729a",
-   "guncellendi": "2026-08-24T04:29:26+00:00"
-  },
-  {
-   "baslik": "KAYSERİ NEHİR REHBERLİĞİ KURSU",
-   "url": "https://kano.org.tr/kayseri-kano-nehir-rehberligi-kursu",
-   "tur": "html",
-   "onemli": false,
-   "parmak_izi": "dd32d6638172404b",
-   "guncellendi": "2026-08-24T04:29:27+00:00"
   }
  ],
- "checked_at": "2026-08-24T13:08:26+00:00",
- "list_fingerprint": "cf22ed521a63e50d"
+ "checked_at": "2026-08-24T14:54:31+00:00",
+ "list_fingerprint": "d5ad51a054fa44bb"
 }

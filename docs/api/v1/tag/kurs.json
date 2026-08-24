@@ -1,5 +1,24 @@
 [
  {
+  "id": "3444a2e62d109d0a",
+  "federation": "halter",
+  "federation_name": "Türkiye Halter Federasyonu",
+  "federation_short": "THF",
+  "title": "Hakem Kursu Başlıyor",
+  "url": "https://halter.gov.tr/hakem-kursu-basliyor/",
+  "summary": "2026 Yılı Halter Hakem Kursu, 04-05 Eylül 2026 tarihlerinde Bursa’da gerçekleştirilecektir. Kursa ilişkin başvuru şartları ve diğer tüm detaylar ekte yer almaktadır.📢 Başvurular yarın başlıyor! 2026 YILI HALTER HAKEM KURSUVE BAŞVURU BİLGİLERİ Türkiye Halter Federasyonu Başkanlığınca2026 yılı Halter Hakem Kursu,04-05 Eylül 2026 tarihlerinde Bursa’dayapılacaktır. Kurs Kayıt Ücreti Yatırılma Tarihleri Başvuru Başlangıç Tarihi : 25 AĞUSTOS […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem",
+   "burs"
+  ],
+  "published_at": "2026-08-24T15:48:48+00:00",
+  "first_seen_at": "2026-08-24T15:52:27+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "94e2d5dad5bb6253",
   "federation": "dagcilik",
   "federation_name": "Türkiye Dağcılık Federasyonu",
@@ -3575,25 +3594,6 @@
    "kurs"
   ],
   "published_at": "2026-01-04T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "ef9004eae2da0c89",
-  "federation": "judo",
-  "federation_name": "Türkiye Judo Federasyonu",
-  "federation_short": "TJF",
-  "title": "Ankara’da Düzenlenen Hakem Terfi Kurs ve Sınavının Sonuçları Açıklandı",
-  "url": "https://www.judo.org.tr/duyuru/3441",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "kurs",
-   "terfi",
-   "hakem"
-  ],
-  "published_at": "2026-01-01T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

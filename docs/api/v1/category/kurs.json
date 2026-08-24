@@ -1,5 +1,23 @@
 [
  {
+  "id": "2f0528667d91cea9",
+  "federation": "ozelsporcular",
+  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
+  "federation_short": "TÖSSF",
+  "title": "Özbekistan Spor Bakanlığı’ndan Federasyonumuza Ziyaret!",
+  "url": "https://tossfed.gov.tr/ozbekistan-spor-bakanligindan-federasyonumuza-ziyaret/",
+  "summary": "Özbekistan Spor Bakanlığı Yöneticileri, Üniversite Temsilcileri ve Kulüp Yöneticilerinden oluşan heyet, Türkiye Özel Sporcular Spor Federasyonunu ziyaret etti. Federasyon Başkanı ve Türk Devletleri Özel Sporcular Spor Federasyonu Başkanı Birol Aydın’ın ev sahipliğinde gerçekleştirilen ziyarette; Başkan Vekili, Asbaşkanlar, Yönetim Kurulu Üyeleri, Başkan Danışmanı ve Yüksek Performans Direktörü de yer aldı. Gerçekleştirilen ziyarette, Federasyonumuzun antrenör eğitim sistemi, …",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kulup"
+  ],
+  "published_at": "2026-08-24T15:17:59+00:00",
+  "first_seen_at": "2026-08-24T15:52:27+00:00",
+  "source": "rss"
+ },
+ {
   "id": "5664779e6f8fc7ab",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -3490,23 +3508,5 @@
   "published_at": "2026-06-03T10:50:54+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
- },
- {
-  "id": "f21368dec61caf67",
-  "federation": "judo",
-  "federation_name": "Türkiye Judo Federasyonu",
-  "federation_short": "TJF",
-  "title": "1. Kademe Yardımcı Antrenör Yetiştirme Kursu Uygulama Eğitimi ve Sınavı / 22-29 Haziran 2026 / Burdur",
-  "url": "https://www.judo.org.tr/duyuru/3554",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-06-03T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
  }
 ]

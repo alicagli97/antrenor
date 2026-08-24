@@ -1,19 +1,21 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-24T15:52:27+00:00",
- "total": 2359,
- "new_in_last_run": 6,
+ "generated_at": "2026-08-24T16:00:27+00:00",
+ "total": 2363,
+ "new_in_last_run": 4,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-08-24T15:48:48+00:00",
  "categories": {
-  "duyuru": 848,
-  "kurs": 257,
+  "duyuru": 851,
+  "kurs": 258,
   "takvim": 55,
   "musabaka": 337,
   "haber": 39,
@@ -71,12 +73,12 @@
   "gures": 30,
   "yuzme": 23,
   "boks": 35,
+  "basketbol": 23,
   "vucutgelistirme": 15,
   "gelismekteolan": 48,
   "binicilik": 69,
   "karate": 15,
   "kurek": 15,
-  "basketbol": 19,
   "kaykay": 9,
   "wushu": 22,
   "bedenselengelliler": 21,

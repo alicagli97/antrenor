@@ -55,6 +55,21 @@
   "source": "wp_json"
  },
  {
+  "id": "7a517ca8d4f73e0a",
+  "federation": "basketbol",
+  "federation_name": "Türkiye Basketbol Federasyonu",
+  "federation_short": "TBF",
+  "title": "Eğitim Kurulu Eylül Ayı Faaliyet Programı 24.08.2026",
+  "url": "https://www.tbf.org.tr/haber/egitim-kurulu-eylul-ayi-faaliyet-programi-2026-08-24",
+  "summary": "",
+  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/0a432d521db74bea99fa10755a358083_Web.jpg",
+  "category": "kurs",
+  "tags": [],
+  "published_at": "2026-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-08-24T16:00:27+00:00",
+  "source": "html"
+ },
+ {
   "id": "e016d367c6495d4b",
   "federation": "kano",
   "federation_name": "Türkiye Kano Federasyonu",
@@ -3489,23 +3504,6 @@
    "burs"
   ],
   "published_at": "2026-06-03T16:21:02+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "7343100f58a1aa6c",
-  "federation": "pentatlon",
-  "federation_name": "Türkiye Modern Pentatlon Federasyonu",
-  "federation_short": "TMPF",
-  "title": "Vakıf Üniversiteleri Milli Sporcu Eğitim Bursu 2026 Başvuruları Başladı",
-  "url": "https://tmpf.org.tr/vakif-universiteleri-milli-sporcu-egitim-bursu-2026-basvurulari-basladi/",
-  "summary": "Gençlik ve Spor Bakanlığı ile vakıf üniversiteleri arasında imzalanan mutabakat metni kapsamında yürütülen Vakıf Üniversiteleri Milli Sporcu Eğitim Bursu Programı için 2026 yılı başvuruları başlamıştır. Program […]",
-  "image": "https://tmpf.org.tr/wp-content/uploads/2026/06/vakif-universiteleri-milli-sporcu-egitim-bursu-2026-basvurulari-basladi-kapak.webp",
-  "category": "kurs",
-  "tags": [
-   "burs"
-  ],
-  "published_at": "2026-06-03T10:50:54+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  }

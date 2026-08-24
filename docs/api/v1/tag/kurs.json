@@ -19,6 +19,24 @@
   "source": "wp_json"
  },
  {
+  "id": "2b73740c4031d946",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Deniz Kanosu 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Sınav Sonuçları",
+  "url": "https://kano.org.tr/deniz-kanosu-1-kademe-yardimci-antrenor-yetistirme-kursu-sinav-sonuclari",
+  "summary": ", Pazartesi Federasyonumuz tarafından 12-16 Ağustos 2026 Tarihlerinde İstanbul'da düzenlenen \"DENİZ KANOSU 1. KADEME YARDIMCI ANTRENÖR YETİŞTİRME KURSU\" sonuçları yayınlandı.",
+  "image": "https://kano.org.tr/uploads/deniz-kanosu-duyuru.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-08-24T11:40:25+00:00",
+  "source": "html"
+ },
+ {
   "id": "03ff2d8857e6c6cc",
   "federation": "bocce",
   "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
@@ -3576,24 +3594,6 @@
    "hakem"
   ],
   "published_at": "2026-01-01T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "0bbbe6ec725ec1e8",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "27-28 Aralık 2025 Hemsball Aday Hakem Kursu Eskişehir Katılımcı Listesi",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-381-27-28-aralik-2025-hemsball-aday-hakem-kursu-eskisehir-katilimci-listesi",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2025-12-28T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

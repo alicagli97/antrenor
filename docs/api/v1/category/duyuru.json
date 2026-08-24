@@ -1,5 +1,35 @@
 [
  {
+  "id": "8f211b2862562602",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U20 Millî Takımımız, Akdeniz Oyunları'nda Kuzey Makedonya Karşısında",
+  "url": "https://www.tff.org/default.aspx?pageID=648&ftxtID=51195",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-24T11:40:25+00:00",
+  "first_seen_at": "2026-08-24T11:40:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "1f2b966036bb1c46",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Cumhurbaşkanlığı Kupası Heyecanı Başlıyor",
+  "url": "https://thf.org.tr/haber/cumhurbaskanligi-kupasi-heyecani-basliyor",
+  "summary": "Hentbol Cumhurbaşkanlığı Kupası’nda heyecan başlıyor. Kadınlar ve erkekler kategorilerinde mücadele edecek sekiz takım, 25 Ağustos Salı günü Ankara Prof. Dr. Yaşar Sevim Hentbol Salonu'nda sahaya çıkacak. Ziraat Bankası ana sponsorluğunda ve Cumhurbaşkanlığı himayelerinde düzenlenecek Cumhurbaşkanlığı Kupası’nda kadınlar ve erkeklerde kupaya uzanmak isteyen takımlar, final yolunda ilk sınavlarını yarın verecek. Yarı Final Programı Kadınlar Yarı Final 12.00 | Bursa BBSK – Ortahisar Bld. SK (TRT Spor Yıldız) 14.15 | Armada Praxis Yalıkavak SK – Üsküdar Bld. SK (TRT Spor Yıldız) Erkekler Yarı Fin",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-24T11:40:25+00:00",
+  "first_seen_at": "2026-08-24T11:40:25+00:00",
+  "source": "api"
+ },
+ {
   "id": "ee86339c86d4cc24",
   "federation": "halter",
   "federation_name": "Türkiye Halter Federasyonu",
@@ -3098,40 +3128,6 @@
   "url": "https://tiesf.org.tr/haberlerimiz/isitme-engelliler-genclik-oyunlari-basketbol-3x3-mill-takimi-secme-ve-degerlendirme-kampi-hakkinda-ilgili-sporcularin-dikkatine",
   "summary": "Bize Ulaşın 0312 311 08 19 bilgi@tiesf.org.tr Ehlibeyt Mah. Tekstilciler Cad. Bayraktar Center C Blok No: 17/10 Çankaya – Ankara Bizi Takip Edin Bilgilendirme",
   "image": "https://tiesf.org.tr/haberlerimiz/dosya/haber/6a394c35d3950_online-5-slider.png",
-  "category": "duyuru",
-  "tags": [
-   "milli_takim"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "13f29eb2faf3b965",
-  "federation": "isitmeengelliler",
-  "federation_name": "Türkiye İşitme Engelliler Spor Federasyonu",
-  "federation_short": "TİESF",
-  "title": "İşitme Engelliler Gençlik Oyunları Masa Tenisi Millî Takımı Seçme Ve Değerlendirme Kampı Hakkında İlgili Sporcuların Dikkatine | TİESF",
-  "url": "https://tiesf.org.tr/haberlerimiz/isitme-engelliler-genclik-oyunlari-masa-tenisi-mill-takimi-secme-ve-degerlendirme-kampi-hakkinda-ilgili-sporcularin-dikkatine",
-  "summary": "Bize Ulaşın 0312 311 08 19 bilgi@tiesf.org.tr Ehlibeyt Mah. Tekstilciler Cad. Bayraktar Center C Blok No: 17/10 Çankaya – Ankara Bizi Takip Edin Bilgilendirme",
-  "image": "https://tiesf.org.tr/haberlerimiz/dosya/haber/6a392a54b8155_online-4-slider_1_.png",
-  "category": "duyuru",
-  "tags": [
-   "milli_takim"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "f93fcf815d157ec9",
-  "federation": "isitmeengelliler",
-  "federation_name": "Türkiye İşitme Engelliler Spor Federasyonu",
-  "federation_short": "TİESF",
-  "title": "İşitme Engelliler Atletizm Millî Takımı Seçme ve Değerlendirme Kampı Hakkında İlgili Sporcuların Dikkatine, | TİESF",
-  "url": "https://tiesf.org.tr/haberlerimiz/isitme-engelliler-atletizm-mill-takimi-secme-ve-degerlendirme-kampi-hakkinda-ilgili-sporcularin-dikkatine",
-  "summary": "Bize Ulaşın 0312 311 08 19 bilgi@tiesf.org.tr Ehlibeyt Mah. Tekstilciler Cad. Bayraktar Center C Blok No: 17/10 Çankaya – Ankara Bizi Takip Edin Bilgilendirme",
-  "image": "https://tiesf.org.tr/haberlerimiz/dosya/haber/6a2ab13528256_online-4-slider.png",
   "category": "duyuru",
   "tags": [
    "milli_takim"

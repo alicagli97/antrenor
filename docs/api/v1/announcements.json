@@ -1,5 +1,35 @@
 [
  {
+  "id": "8f211b2862562602",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U20 Millî Takımımız, Akdeniz Oyunları'nda Kuzey Makedonya Karşısında",
+  "url": "https://www.tff.org/default.aspx?pageID=648&ftxtID=51195",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-24T11:40:25+00:00",
+  "first_seen_at": "2026-08-24T11:40:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "1f2b966036bb1c46",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Cumhurbaşkanlığı Kupası Heyecanı Başlıyor",
+  "url": "https://thf.org.tr/haber/cumhurbaskanligi-kupasi-heyecani-basliyor",
+  "summary": "Hentbol Cumhurbaşkanlığı Kupası’nda heyecan başlıyor. Kadınlar ve erkekler kategorilerinde mücadele edecek sekiz takım, 25 Ağustos Salı günü Ankara Prof. Dr. Yaşar Sevim Hentbol Salonu'nda sahaya çıkacak. Ziraat Bankası ana sponsorluğunda ve Cumhurbaşkanlığı himayelerinde düzenlenecek Cumhurbaşkanlığı Kupası’nda kadınlar ve erkeklerde kupaya uzanmak isteyen takımlar, final yolunda ilk sınavlarını yarın verecek. Yarı Final Programı Kadınlar Yarı Final 12.00 | Bursa BBSK – Ortahisar Bld. SK (TRT Spor Yıldız) 14.15 | Armada Praxis Yalıkavak SK – Üsküdar Bld. SK (TRT Spor Yıldız) Erkekler Yarı Fin",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-24T11:40:25+00:00",
+  "first_seen_at": "2026-08-24T11:40:25+00:00",
+  "source": "api"
+ },
+ {
   "id": "e0c352390046da30",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -5215,6 +5245,24 @@
   "published_at": "2026-08-24T04:26:29+00:00",
   "first_seen_at": "2026-08-24T04:26:29+00:00",
   "source": "mevzuat"
+ },
+ {
+  "id": "2b73740c4031d946",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Deniz Kanosu 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Sınav Sonuçları",
+  "url": "https://kano.org.tr/deniz-kanosu-1-kademe-yardimci-antrenor-yetistirme-kursu-sinav-sonuclari",
+  "summary": ", Pazartesi Federasyonumuz tarafından 12-16 Ağustos 2026 Tarihlerinde İstanbul'da düzenlenen \"DENİZ KANOSU 1. KADEME YARDIMCI ANTRENÖR YETİŞTİRME KURSU\" sonuçları yayınlandı.",
+  "image": "https://kano.org.tr/uploads/deniz-kanosu-duyuru.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-08-24T11:40:25+00:00",
+  "source": "html"
  },
  {
   "id": "ab4d34396f0ae369",

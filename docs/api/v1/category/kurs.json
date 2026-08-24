@@ -37,6 +37,24 @@
   "source": "wp_json"
  },
  {
+  "id": "2b73740c4031d946",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Deniz Kanosu 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Sınav Sonuçları",
+  "url": "https://kano.org.tr/deniz-kanosu-1-kademe-yardimci-antrenor-yetistirme-kursu-sinav-sonuclari",
+  "summary": ", Pazartesi Federasyonumuz tarafından 12-16 Ağustos 2026 Tarihlerinde İstanbul'da düzenlenen \"DENİZ KANOSU 1. KADEME YARDIMCI ANTRENÖR YETİŞTİRME KURSU\" sonuçları yayınlandı.",
+  "image": "https://kano.org.tr/uploads/deniz-kanosu-duyuru.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-08-24T11:40:25+00:00",
+  "source": "html"
+ },
+ {
   "id": "53533b54c2a1acb1",
   "federation": "oryantiring",
   "federation_name": "Türkiye Oryantiring Federasyonu",
@@ -3489,23 +3507,6 @@
    "kurs"
   ],
   "published_at": "2026-06-02T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "100876509ecebe24",
-  "federation": "judo",
-  "federation_name": "Türkiye Judo Federasyonu",
-  "federation_short": "TJF",
-  "title": "Mayıs 2026 tarihinde online olarak düzenlenen Antrenör Gelişim Telafi Semineri’nin sonuçları açıklanmıştır.",
-  "url": "https://www.judo.org.tr/duyuru/3552",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-06-01T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

@@ -1,5 +1,22 @@
 [
  {
+  "id": "ee86339c86d4cc24",
+  "federation": "halter",
+  "federation_name": "Türkiye Halter Federasyonu",
+  "federation_short": "THF",
+  "title": "İrem Selçuk’tan Avrupa İkinciliği",
+  "url": "https://halter.gov.tr/irem-selcuktan-avrupa-ikinciligi/",
+  "summary": "Kosova’nın Priştine kentinde devam eden U-15 ve Yıldızlar Avrupa Halter Şampiyonası’nda Milli sporcularımız 7 altın, 6 gümüş ve 7 bronz olmak üzere toplam 20 madalya kazandı. Organizasyon 4. gününde U-15 kadınlar 57 kiloda milli sporcumuz İrem Selçuk, koparmada 77 kilo ile 5’inci, silkmede 96 kilo ile 2’nci, toplamda ise 173 kilo ile 2’nci olarak Avrupa […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-24T10:06:17+00:00",
+  "first_seen_at": "2026-08-24T10:50:36+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "e014ee9bb26a41a1",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -75,6 +92,21 @@
   "published_at": "2026-08-24T09:01:39+00:00",
   "first_seen_at": "2026-08-24T09:01:39+00:00",
   "source": "html"
+ },
+ {
+  "id": "36c6380d543b10b8",
+  "federation": "dagcilik",
+  "federation_name": "Türkiye Dağcılık Federasyonu",
+  "federation_short": "TDF",
+  "title": "Mevlid Kandilimiz Mübarek Olsun",
+  "url": "https://tdf.tr/mevlid-kandilimiz-mubarek-olsun-2/",
+  "summary": "Âlemlere rahmet olarak gönderilen Sevgili Peygamberimiz Hz. Muhammed’in (s.a.v.) dünyayı teşrif ettiği bu mübarek gecenin; spor camiamıza, aziz milletimize ve tüm İslam âlemine sağlık, barış, huzur ve kardeşlik getirmesini temenni ediyorum. Birlik ve beraberliğimizin pekiştiği bu kutlu gecede edilen tüm duaların kabul olması dileğiyle, Mevlid Kandilimiz mübarek olsun. Ali Şenkaynağı Federasyon Başkanı",
+  "image": "https://tdf.tr/wp-content/uploads/2025/09/2025-09-03_180005.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-24T08:58:48+00:00",
+  "first_seen_at": "2026-08-24T10:50:36+00:00",
+  "source": "wp_json"
  },
  {
   "id": "6d0747f4e833b36a",
@@ -359,6 +391,23 @@
   "published_at": "2026-08-23T13:11:09+00:00",
   "first_seen_at": "2026-08-23T13:43:03+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "9f91a7ab8983cc4a",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Başkan Üçlertoprağı Sporseverler ile Bir Araya Geldi",
+  "url": "https://www.tosfed.org.tr/baskan-uclertopragi-sporseverler-ile-bir-araya-geldi/",
+  "summary": "TOSFED Başkanı Eren Üçlertoprağı, 23 Ağustos pazar günü Akasya AVM’de düzenlenen Hollanda GP buluşması etkinliğinde Motorsport.com Türkiye Direktörü Cihangir Perperik ile söyleşi gerçekleştirdi. Kalabalık bir Formula takipçi kitlesinin katılımıyla gerçekleşen etkinlikte, Üçlertoprağı, hem merak edilen sorulara yanıt oldu, hem de Formula 1’in Türkiye’ye dönüş süreci hakkındaki detayları paylaştı. Söyleşinin ardından bir de F1 Bilgi Yarışması […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-23T12:30:46+00:00",
+  "first_seen_at": "2026-08-24T10:50:36+00:00",
+  "source": "rss"
  },
  {
   "id": "d94252eadff1c798",
@@ -3087,51 +3136,6 @@
   "tags": [
    "milli_takim"
   ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "1e02f6403b78eac4",
-  "federation": "halkoyunlari",
-  "federation_name": "Türkiye Halk Oyunları Federasyonu",
-  "federation_short": "THOF",
-  "title": "Yönetim Kurulu",
-  "url": "https://thof.gov.tr/tr/about/yonetim-kurulu",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "f0113586f32ee1ab",
-  "federation": "halkoyunlari",
-  "federation_name": "Türkiye Halk Oyunları Federasyonu",
-  "federation_short": "THOF",
-  "title": "İl Temsilcileri",
-  "url": "https://thof.gov.tr/tr/representatives",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "abd4fb0175fa007d",
-  "federation": "halkoyunlari",
-  "federation_name": "Türkiye Halk Oyunları Federasyonu",
-  "federation_short": "THOF",
-  "title": "Ceza Tahtası",
-  "url": "https://thof.gov.tr/tr/penalties",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-08-19T21:45:48+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"

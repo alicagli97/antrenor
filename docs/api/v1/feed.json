@@ -1,5 +1,40 @@
 [
  {
+  "id": "e0c352390046da30",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-24T10:48:42+00:00",
+  "first_seen_at": "2026-08-24T10:48:42+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "ee86339c86d4cc24",
+  "federation": "halter",
+  "federation_name": "Türkiye Halter Federasyonu",
+  "federation_short": "THF",
+  "title": "İrem Selçuk’tan Avrupa İkinciliği",
+  "url": "https://halter.gov.tr/irem-selcuktan-avrupa-ikinciligi/",
+  "summary": "Kosova’nın Priştine kentinde devam eden U-15 ve Yıldızlar Avrupa Halter Şampiyonası’nda Milli sporcularımız 7 altın, 6 gümüş ve 7 bronz olmak üzere toplam 20 madalya kazandı. Organizasyon 4. gününde U-15 kadınlar 57 kiloda milli sporcumuz İrem Selçuk, koparmada 77 kilo ile 5’inci, silkmede 96 kilo ile 2’nci, toplamda ise 173 kilo ile 2’nci olarak Avrupa […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-24T10:06:17+00:00",
+  "first_seen_at": "2026-08-24T10:50:36+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "e014ee9bb26a41a1",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -177,6 +212,21 @@
   "published_at": "2026-08-24T09:01:39+00:00",
   "first_seen_at": "2026-08-24T09:01:39+00:00",
   "source": "html"
+ },
+ {
+  "id": "36c6380d543b10b8",
+  "federation": "dagcilik",
+  "federation_name": "Türkiye Dağcılık Federasyonu",
+  "federation_short": "TDF",
+  "title": "Mevlid Kandilimiz Mübarek Olsun",
+  "url": "https://tdf.tr/mevlid-kandilimiz-mubarek-olsun-2/",
+  "summary": "Âlemlere rahmet olarak gönderilen Sevgili Peygamberimiz Hz. Muhammed’in (s.a.v.) dünyayı teşrif ettiği bu mübarek gecenin; spor camiamıza, aziz milletimize ve tüm İslam âlemine sağlık, barış, huzur ve kardeşlik getirmesini temenni ediyorum. Birlik ve beraberliğimizin pekiştiği bu kutlu gecede edilen tüm duaların kabul olması dileğiyle, Mevlid Kandilimiz mübarek olsun. Ali Şenkaynağı Federasyon Başkanı",
+  "image": "https://tdf.tr/wp-content/uploads/2025/09/2025-09-03_180005.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-24T08:58:48+00:00",
+  "first_seen_at": "2026-08-24T10:50:36+00:00",
+  "source": "wp_json"
  },
  {
   "id": "f0bb99ad745a1266",
@@ -2159,6 +2209,23 @@
   "source": "mevzuat"
  },
  {
+  "id": "ab4d34396f0ae369",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Durgunsu Kano 2026 Türkiye Şampiyonası Tamamlandı",
+  "url": "https://kano.org.tr/durgunsu-kano-2026-turkiye-sampiyonasi-tamamlandi",
+  "summary": "Duyuru ve Etkinlikler Anasayfa Duyuru ve Etkinlikler DURGUNSU KANO 2026 TÜRKİYE ŞAMPİYONASI TAMAMLANDI 24 Ağustos 2026, Pazartesi Paylaş × Kapat DURGUNSU KANO 2026 TÜRKİYE ŞAMPİYONASI TAMAMLANDI Durgunsu Kano 2026 Türkiye Şampiyonası 18-21 Ağustos 2026 tarihleri arasında Eskişehir'de yapıldı. Sarısungur Göleti’nde Türkiye Şampiyonu Belli Oldu! Türkiye Kano Federasyonu ile Eskişehir Büyükşehir Belediyesi iş birliğinde düzenlenen Durgunsu Kano Türkiye Şampiyonası , 18-21 Ağustos 2026 tarihleri arasında Eskişehir Sarısungur Göleti’nde başarıyla tamamlandı. Türkiye’nin farklı illerinden 55 kulüp v",
+  "image": "https://kano.org.tr/uploads/2026/durgunsu-kano/eskiehir-18-21-austos/toplu.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-08-24T10:50:36+00:00",
+  "source": "html"
+ },
+ {
   "id": "03ff2d8857e6c6cc",
   "federation": "bocce",
   "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
@@ -2431,6 +2498,23 @@
   "published_at": "2026-08-23T13:11:09+00:00",
   "first_seen_at": "2026-08-23T13:43:03+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "9f91a7ab8983cc4a",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Başkan Üçlertoprağı Sporseverler ile Bir Araya Geldi",
+  "url": "https://www.tosfed.org.tr/baskan-uclertopragi-sporseverler-ile-bir-araya-geldi/",
+  "summary": "TOSFED Başkanı Eren Üçlertoprağı, 23 Ağustos pazar günü Akasya AVM’de düzenlenen Hollanda GP buluşması etkinliğinde Motorsport.com Türkiye Direktörü Cihangir Perperik ile söyleşi gerçekleştirdi. Kalabalık bir Formula takipçi kitlesinin katılımıyla gerçekleşen etkinlikte, Üçlertoprağı, hem merak edilen sorulara yanıt oldu, hem de Formula 1’in Türkiye’ye dönüş süreci hakkındaki detayları paylaştı. Söyleşinin ardından bir de F1 Bilgi Yarışması […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-23T12:30:46+00:00",
+  "first_seen_at": "2026-08-24T10:50:36+00:00",
+  "source": "rss"
  },
  {
   "id": "78aa31de46a1d21d",
@@ -5100,85 +5184,5 @@
   "published_at": "2026-08-20T18:07:25+00:00",
   "first_seen_at": "2026-08-20T18:07:25+00:00",
   "source": "html"
- },
- {
-  "id": "3296e0346f7564ff",
-  "federation": "yuzme",
-  "federation_name": "Türkiye Yüzme Federasyonu",
-  "federation_short": "TYF",
-  "title": "1. Kademe Yüzme Antrenörü Yetiştirme Kursu 7-11 Eylül 2026 Ankara",
-  "url": "https://www.tyf.gov.tr/haber/1-kademe-yuzme-antrenoru-yetistirme-kursu-7-11-eylul-2026-ankara.html",
-  "summary": "BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
-  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-08/1482/1787181689_y.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-20T18:07:25+00:00",
-  "first_seen_at": "2026-08-20T18:07:25+00:00",
-  "source": "html"
- },
- {
-  "id": "73b13e7b9235670e",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Yelkencimiz Derin, dünya şampiyonu!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302565/yelkencimiz-derin-dunya-sampiyonu.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-20T18:07:25+00:00",
-  "first_seen_at": "2026-08-20T18:07:25+00:00",
-  "source": "html"
- },
- {
-  "id": "14437a3807bc645d",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Oryantiringde bronz madalya!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302566/oryantiringde-bronz-madalya.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-08-20T18:07:25+00:00",
-  "first_seen_at": "2026-08-20T18:07:25+00:00",
-  "source": "html"
- },
- {
-  "id": "26023fb15307a8a9",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Taranto 2026 Akdeniz Oyunları başlıyor!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302567/taranto-2026-akdeniz-oyunlari-basliyor.aspx",
-  "summary": "İtalya’nın Taranto kentinde, 21 Ağustos– tarihleri arasında düzenlenecek 20. Akdeniz Oyunları’nda ülkemizi 29 spor dalında 137 kadın ve 197 erkek olmak üzere toplam 334 millî sporcumuz temsil edecek. Haberi Oku",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-20T18:07:25+00:00",
-  "first_seen_at": "2026-08-20T18:07:25+00:00",
-  "source": "html"
- },
- {
-  "id": "d61d4ebc03fda2dd",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Artistik Cimnastik Kadın ve Erkek Anadolu Yıldızlar Ligi (Analig) Final Yarışması Ankara’da sona erdi.",
-  "url": "https://www.tcf.gov.tr/artistik-cimnastik-kadin-ve-erkek-anadolu-yildizlar-ligi-analig-final-yarismasi-ankarada-sona-erdi/",
-  "summary": "24 takımdan 96 sporcunun katıldığı, Artistik Cimnastik Kadın ve Erkek Anadolu Yıldızlar Ligi (Analig) Final Yarışması Ankara’da sona erdi. Sonuçlar şu şekilde:Artistik Cimnastik Kadın ve Erkek Anadolu Yıldızlar Ligi (Analig) Final Yarışması Minik KızlarGenel Tasnif1-Ada Korkmaztürk (İzmir)2-Nisa Çerçi (İzmir)2-Özge Karasoy (İzmir)4-Melisa Yeşilova (İzmir) Artistik Cimnastik Kadın ve Erkek Anadolu Yıldızlar Ligi (Analig) Final Yarışması Minik KızlarTakım1-İzmir2-İstanbul Avrupa3-İstanbul […]",
-  "image": "https://www.tcf.gov.tr/wp-content/uploads/2026/08/img_0127.jpg-scaled.jpeg",
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-20T16:19:22+00:00",
-  "first_seen_at": "2026-08-20T18:07:25+00:00",
-  "source": "wp_json"
  }
 ]

@@ -34,6 +34,23 @@
   "source": "wp_json"
  },
  {
+  "id": "ab4d34396f0ae369",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Durgunsu Kano 2026 Türkiye Şampiyonası Tamamlandı",
+  "url": "https://kano.org.tr/durgunsu-kano-2026-turkiye-sampiyonasi-tamamlandi",
+  "summary": "Duyuru ve Etkinlikler Anasayfa Duyuru ve Etkinlikler DURGUNSU KANO 2026 TÜRKİYE ŞAMPİYONASI TAMAMLANDI 24 Ağustos 2026, Pazartesi Paylaş × Kapat DURGUNSU KANO 2026 TÜRKİYE ŞAMPİYONASI TAMAMLANDI Durgunsu Kano 2026 Türkiye Şampiyonası 18-21 Ağustos 2026 tarihleri arasında Eskişehir'de yapıldı. Sarısungur Göleti’nde Türkiye Şampiyonu Belli Oldu! Türkiye Kano Federasyonu ile Eskişehir Büyükşehir Belediyesi iş birliğinde düzenlenen Durgunsu Kano Türkiye Şampiyonası , 18-21 Ağustos 2026 tarihleri arasında Eskişehir Sarısungur Göleti’nde başarıyla tamamlandı. Türkiye’nin farklı illerinden 55 kulüp v",
+  "image": "https://kano.org.tr/uploads/2026/durgunsu-kano/eskiehir-18-21-austos/toplu.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-08-24T10:50:36+00:00",
+  "source": "html"
+ },
+ {
   "id": "e3015ed9fcfdcfcc",
   "federation": "boks",
   "federation_name": "Türkiye Boks Federasyonu",
@@ -3407,24 +3424,5 @@
   "published_at": "2026-08-05T13:33:24+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "rss"
- },
- {
-  "id": "97151298f288e49b",
-  "federation": "ragbi",
-  "federation_name": "Türkiye Ragbi Federasyonu",
-  "federation_short": "TRF",
-  "title": "2026 Anadolu Yıldızlar Ligi Beyzbol5 Türkiye Birinciliği Müsabakaları Hakem Başvurusu",
-  "url": "https://trf.gov.tr/?p=10711",
-  "summary": "2026 Anadolu Yıldızlar Ligi Beyzbol5 Türkiye Birinciliği Müsabakaları Hakem Başvurusu 2026 Anadolu Yıldızlar Ligi Beyzbol5 Türkiye Birinciliği Müsabakaları 19-23 Ağustos 2026",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "hakem",
-   "musabaka",
-   "burs"
-  ],
-  "published_at": "2026-08-05T07:37:24+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
  }
 ]

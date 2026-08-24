@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-24T11:40:25+00:00",
- "total": 2352,
- "new_in_last_run": 7,
+ "generated_at": "2026-08-24T13:09:50+00:00",
+ "total": 2353,
+ "new_in_last_run": 5,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -12,7 +12,7 @@
  "partial_run": null,
  "latest_published_at": "2026-08-24T11:40:25+00:00",
  "categories": {
-  "duyuru": 845,
+  "duyuru": 846,
   "takvim": 54,
   "haber": 39,
   "mevzuat": 823,
@@ -64,7 +64,7 @@
   "yelken": 27,
   "cimnastik": 30,
   "judo": 44,
-  "aticilik": 40,
+  "aticilik": 41,
   "badminton": 78,
   "atletizm": 33,
   "gures": 30,

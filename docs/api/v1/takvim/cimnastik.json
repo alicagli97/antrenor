@@ -6,8 +6,40 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "0767088c17f41be9",
- "event_count": 329,
+ "event_count": 333,
  "events": [
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-09-07",
+   "tarih_metni": "2026.09.12 07.09.2026 - 12.09.2026",
+   "yer": "Ankara",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.09.12 07.09.2026 - 12.09.2026 | İncele"
+  },
+  {
+   "ad": "2026.09.12 07.09.2026 - 12.09.2026",
+   "tarih": "2026-09-07",
+   "tarih_metni": "2026.09.12 07.09.2026 - 12.09.2026",
+   "yer": "Antalya",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | Antalya | 2026.09.12 07.09.2026 - 12.09.2026 | İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-09-07",
+   "tarih_metni": "2026.09.12 07.09.2026 - 12.09.2026",
+   "yer": "İstanbul",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | İstanbul | 2026.09.12 07.09.2026 - 12.09.2026 | İncele"
+  },
+  {
+   "ad": "2026.09.12 07.09.2026 - 12.09.2026",
+   "tarih": "2026-09-07",
+   "tarih_metni": "2026.09.12 07.09.2026 - 12.09.2026",
+   "yer": "İzmir",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | İzmir | 2026.09.12 07.09.2026 - 12.09.2026 | İncele"
+  },
   {
    "ad": "Kulüpler Türkiye Şampiyonası (YGB)",
    "tarih": "2026-10-01",
@@ -2641,8 +2673,8 @@
    "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
   }
  ],
- "checked_at": "2026-08-24T11:38:33",
- "bekleyen_iz": null,
+ "checked_at": "2026-08-24T13:08:08",
+ "bekleyen_iz": "f965100cbd421a8c",
  "changed_at": "2026-08-23T13:41:09+00:00",
  "parmak_izi": "0767088c17f41be9"
 }

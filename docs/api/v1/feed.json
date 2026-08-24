@@ -1,5 +1,40 @@
 [
  {
+  "id": "40838667ed8cee48",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-24T19:37:58+00:00",
+  "first_seen_at": "2026-08-24T19:37:58+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "5624cf3aceaaf6b3",
+  "federation": "halter",
+  "federation_name": "Türkiye Halter Federasyonu",
+  "federation_short": "THF",
+  "title": "Türkiye’den Priştine’de 32 Madalyalık Gurur",
+  "url": "https://halter.gov.tr/turkiyeden-pristinede-32-madalyalik-gurur/",
+  "summary": "Kosova’nın başkenti Priştine’de devam eden U15 ve Yıldızlar Avrupa Halter Şampiyonası’nda milli sporcularımız önemli bir başarıya imza attı. Türkiye, organizasyonda şu ana kadar 12 altın, 10 gümüş ve 10 bronz olmak üzere toplam 32 madalya kazandı.Toprak Köleoğlu Avrupa ikincisiYıldız erkekler 70 kiloda mücadele eden milli sporcumuz Toprak Köleoğlu, koparmada 128 kiloluk derecesiyle rekor kırarak altın […]",
+  "image": null,
+  "category": "haber",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-24T19:35:46+00:00",
+  "first_seen_at": "2026-08-24T19:39:40+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "537b97ae25440ffb",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -256,24 +291,6 @@
   "published_at": "2026-08-24T11:40:25+00:00",
   "first_seen_at": "2026-08-24T11:40:25+00:00",
   "source": "api"
- },
- {
-  "id": "e0c352390046da30",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-24T10:48:42+00:00",
-  "first_seen_at": "2026-08-24T10:48:42+00:00",
-  "source": "takvim-html"
  },
  {
   "id": "ee86339c86d4cc24",
@@ -5158,24 +5175,6 @@
   "image": null,
   "category": "duyuru",
   "tags": [],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "45a2e5bad0f91afb",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "CEV Kadınlar Avrupa Şampiyonası Gönüllü Başvuruları Açıldı",
-  "url": "https://tvf.org.tr/icerik/2026-cev-kadinlar-avrupa-sampiyonasi-gonullu-basvurulari-acildi",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "burs"
-  ],
   "published_at": "2026-08-20T19:23:27+00:00",
   "first_seen_at": "2026-08-20T19:23:27+00:00",
   "source": "html"

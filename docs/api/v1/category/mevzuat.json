@@ -1,5 +1,24 @@
 [
  {
+  "id": "d44b746d3062f7a0",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Yeni mevzuat: Eskrim Hakem Talimatı(25.09.2019)",
+  "url": "https://www.eskrim.org.tr/resim/extra/mevzuat/12389ESKR%C4%B0M%20HAKEM%20TAL%C4%B0MATI%20(1).pdf",
+  "summary": "Eskrim federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-08-24T09:58:35+00:00",
+  "first_seen_at": "2026-08-24T09:58:35+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "35520d183a5dd503",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -3628,24 +3647,6 @@
   ],
   "published_at": "2026-08-24T04:29:28+00:00",
   "first_seen_at": "2026-08-24T04:29:28+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "8c6b9fd71b2649f2",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Mevzuat güncellendi: KAYSERİ NEHİR REHBERLİĞİ KURSU",
-  "url": "https://kano.org.tr/kayseri-kano-nehir-rehberligi-kursu",
-  "summary": "Türkiye Kano Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-24T04:29:27+00:00",
-  "first_seen_at": "2026-08-24T04:29:27+00:00",
   "source": "mevzuat"
  }
 ]

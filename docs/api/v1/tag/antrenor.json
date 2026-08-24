@@ -1,5 +1,24 @@
 [
  {
+  "id": "d44b746d3062f7a0",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Yeni mevzuat: Eskrim Hakem Talimatı(25.09.2019)",
+  "url": "https://www.eskrim.org.tr/resim/extra/mevzuat/12389ESKR%C4%B0M%20HAKEM%20TAL%C4%B0MATI%20(1).pdf",
+  "summary": "Eskrim federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-08-24T09:58:35+00:00",
+  "first_seen_at": "2026-08-24T09:58:35+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "5664779e6f8fc7ab",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -3774,25 +3793,6 @@
   ],
   "published_at": "2026-08-22T04:17:23+00:00",
   "first_seen_at": "2026-08-22T04:17:23+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "c3d6cde4a7015726",
-  "federation": "badminton",
-  "federation_name": "Türkiye Badminton Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: Antrenör Eğitim Talimatı",
-  "url": "https://www.badminton.org.tr/talimatlar/#1588641292296-538ca472-4376",
-  "summary": "Türkiye Badminton Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:17:22+00:00",
-  "first_seen_at": "2026-08-22T04:17:22+00:00",
   "source": "mevzuat"
  }
 ]

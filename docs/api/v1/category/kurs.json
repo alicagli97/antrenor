@@ -490,6 +490,24 @@
   "source": "wp_json"
  },
  {
+  "id": "e9bf245dcb62d22c",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Dans Sporu (lt&std) 3. Kademe Kıdemli Antrenörlük Uygulama Kursu - Ankara",
+  "url": "https://tdsf.org.tr/haberler/dans-sporu-ltstd-3-kademe-kidemli-antrenorluk-uygulama-kursu-ankara",
+  "summary": "DANS SPORU (LATİN&STANDART) 2. KADEME TEMEL ANTRENÖRLÜK UYGULAMA KURSU DANS SPORU (LT&STD) 1. KADEME YARDIMCI ANTRENÖRLÜK UYGULAMA KURSU - ANKARA 19 Ağustos 2026 ARJANTİN TANGO HAKEM VİZE SEMİNERİ - 11 EYLÜL 2026 26 Haziran 2026 HIP HOP BATTLE TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI HAKKINDA 26 Haziran 2026 BREAK DANS TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI 26 Haziran 2026 SERBES",
+  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-20-agustos-03-1787180035.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-08-20T00:00:00+00:00",
+  "first_seen_at": "2026-08-24T16:52:32+00:00",
+  "source": "html"
+ },
+ {
   "id": "1bcf903a1775a199",
   "federation": "yuzme",
   "federation_name": "Türkiye Yüzme Federasyonu",
@@ -3486,25 +3504,5 @@
   "published_at": "2026-06-04T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
- },
- {
-  "id": "dc9029ea1d9c3d30",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Akrobatik Cimnastikte Bir İlk",
-  "url": "https://www.tcf.gov.tr/akrobatik-cimnastikte-bir-ilk/",
-  "summary": "Federasyonumuz bünyesinde ilk kez Akrobatik Cimnastik 1. Kademe Yardımcı Antrenörlük Kursu düzenlenecek. Dünya Cimnastik Federasyonu (WG) Akrobatik Cimnastik Teknik Kurulu Başkanı Nikolina Hristova ile Milli Takım Antrenörü Marian Gabrovski’nin eğitmen olarak görev alacağı kurs, 06-11 Temmuz tarihleri arasında İstanbul’da gerçekleştirilecek. 📍 İstanbul📅 Kurs Tarihi: 06-11 Temmuz 2026📝 Başvuru Tarihleri: 15-25 Haziran 2026",
-  "image": "https://www.tcf.gov.tr/wp-content/uploads/2026/06/whatsapp-image-2026-06-03-at-19.15.13.jpeg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs",
-   "milli_takim",
-   "burs"
-  ],
-  "published_at": "2026-06-03T16:21:02+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
  }
 ]

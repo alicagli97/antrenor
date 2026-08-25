@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-25T07:55:29+00:00",
- "total": 2585,
- "new_in_last_run": 6,
+ "generated_at": "2026-08-25T08:56:04+00:00",
+ "total": 2586,
+ "new_in_last_run": 5,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -10,13 +10,13 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-25T07:53:55+00:00",
+ "latest_published_at": "2026-08-25T08:56:03+00:00",
  "categories": {
+  "haber": 41,
   "takvim": 58,
   "mevzuat": 1026,
   "duyuru": 858,
   "musabaka": 340,
-  "haber": 40,
   "kurs": 263
  },
  "silent_sources": [
@@ -27,6 +27,7 @@
   }
  ],
  "federation_counts": {
+  "shgm": 34,
   "cimnastik": 33,
   "voleybol": 50,
   "gsb": 158,
@@ -52,7 +53,6 @@
   "gures": 33,
   "boks": 36,
   "gelenekselsporlar": 41,
-  "shgm": 33,
   "halter": 26,
   "hentbol": 20,
   "futbol": 61,

@@ -1,5 +1,22 @@
 [
  {
+  "id": "b304c956a85c3184",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U18 Millî Takımımızın Hazırlık Kampı İstanbul'da Başladı",
+  "url": "https://www.tff.org/default.aspx?pageID=275&ftxtID=51200",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "milli_takim"
+  ],
+  "published_at": "2026-08-25T11:39:22+00:00",
+  "first_seen_at": "2026-08-25T11:39:22+00:00",
+  "source": "html"
+ },
+ {
   "id": "537b97ae25440ffb",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -3488,23 +3505,5 @@
   "published_at": "2026-06-10T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
- },
- {
-  "id": "eb43e99c94ba1616",
-  "federation": "pentatlon",
-  "federation_name": "Türkiye Modern Pentatlon Federasyonu",
-  "federation_short": "TMPF",
-  "title": "2. Kademe Antrenör Kursu Duyurusu",
-  "url": "https://tmpf.org.tr/2-kademe-antrenor-kursu-duyurusu/",
-  "summary": "Federasyonumuzun düzenleyeceği, “2. Kademe Temel Antrenör Yetiştirme Kursu” 08-13 Haziran 2026 tarihleri arasında Ankara’da Eryaman Olimpiyat Hazırlık Merkezinde (TOHM) yapılacaktır. Söz konusu kursa başvuran kursiyerlerden 21 […]",
-  "image": "https://tmpf.org.tr/wp-content/uploads/2026/06/2-kademe-antrenor-kursu-duyurusu-kapak.webp",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-06-05T10:44:19+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
  }
 ]

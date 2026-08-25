@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-25T17:41:43+00:00",
- "total": 2607,
- "new_in_last_run": 5,
+ "generated_at": "2026-08-25T18:54:45+00:00",
+ "total": 2609,
+ "new_in_last_run": 6,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -10,10 +10,10 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-25T16:52:20+00:00",
+ "latest_published_at": "2026-08-25T18:54:45+00:00",
  "categories": {
+  "duyuru": 876,
   "haber": 42,
-  "duyuru": 874,
   "takvim": 60,
   "kurs": 264,
   "mevzuat": 1026,
@@ -27,8 +27,9 @@
   }
  ],
  "federation_counts": {
+  "hentbol": 23,
+  "ozelsporcular": 40,
   "shgm": 35,
-  "hentbol": 22,
   "otomobil": 49,
   "futbol": 63,
   "cimnastik": 33,
@@ -42,7 +43,6 @@
   "universitesporlari": 23,
   "oryantiring": 22,
   "muaythai": 44,
-  "ozelsporcular": 39,
   "motosiklet": 43,
   "bocce": 114,
   "bilardo": 33,

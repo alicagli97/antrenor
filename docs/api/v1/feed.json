@@ -1,5 +1,35 @@
 [
  {
+  "id": "8b720acd8f351b4e",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Erkekler Cumhurbaşkanlığı Kupası’nda Finalistler Belli Oldu",
+  "url": "https://thf.org.tr/haber/erkekler-cumhurbaskanligi-kupasinda-finalistler-belli-oldu",
+  "summary": "Cumhurbaşkanlığı himayelerinde ve Ziraat Bankası ana sponsorluğunda düzenlenen Hentbol Cumhurbaşkanlığı Kupası’nda erkekler kategorisinde finalistler belli oldu. Ankara’daki Prof. Dr. Yaşar Sevim Hentbol Salonu’nda oynanan erkekler yarı final karşılaşmalarında Beşiktaş Jimnastik Kulübü ve Nilüfer Belediyesi Spor Kulübü rakiplerini mağlup ederek finale yükseldi. Günün ilk yarı final karşılaşmasında Beşiktaş Jimnastik Kulübü, İstanbul Gençlik Spor Kulübü’nü 35-30 mağlup etti. Karşılaşmanın ilk yarısı Beşiktaş’ın 17-14 üstünlüğüyle tamamlandı. Karşılaşmanın en değerli oyuncusu Beşiktaş’tan Eyüp A",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-25T18:54:45+00:00",
+  "first_seen_at": "2026-08-25T18:54:45+00:00",
+  "source": "api"
+ },
+ {
+  "id": "8c9a61a798e1d06e",
+  "federation": "ozelsporcular",
+  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
+  "federation_short": "TÖSSF",
+  "title": "Federasyon Başkanımız Birol Aydın’dan Sincan Belediye Başkan Vekili Fırat Aslanbaş’a Hayırlı Olsun Ziyareti",
+  "url": "https://tossfed.gov.tr/federasyon-baskanimiz-birol-aydindan-sincan-belediye-baskan-vekili-firat-aslanbasa-hayirli-olsun-ziyareti/",
+  "summary": "Türkiye Özel Sporcular Spor Federasyonu Başkanımız Birol Aydın, Sincan Belediye Başkan Vekilliği görevine getirilen Federasyonumuz Yönetim Kurulu Üyesi ve Sincan Belediye Başkan Vekili Sayın Fırat Aslanbaş’ı makamında ziyaret ederek yeni görevinin hayırlı olmasını diledi. Gerçekleştirilen ziyarete Federasyon Başkanımız Birol Aydın’ın ve Asbaşkanlarımız katılım sağladı. Ziyarette, Federasyonumuz Yönetim Kurulu Üyesi ve Sincan Belediye Başkan Vekili Sayın …",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-25T17:54:26+00:00",
+  "first_seen_at": "2026-08-25T18:54:45+00:00",
+  "source": "rss"
+ },
+ {
   "id": "93fb62d2c4d145b0",
   "federation": "shgm",
   "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
@@ -5102,42 +5132,6 @@
   "federation_short": "TMTF",
   "title": "Masa Tenisi faaliyet takvimi yayında",
   "url": "https://tmtf.gov.tr/haberler-35",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:49+00:00",
-  "first_seen_at": "2026-08-20T20:10:49+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "3eef7902245c7b93",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takvimi yayında",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:49+00:00",
-  "first_seen_at": "2026-08-20T20:10:49+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "04d080cce064096b",
-  "federation": "kurek",
-  "federation_name": "Türkiye Kürek Federasyonu",
-  "federation_short": "TKF",
-  "title": "Kürek faaliyet takvimi yayında",
-  "url": "https://tkf.gov.tr/?error=404%20not%20found",
   "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi.",
   "image": null,
   "category": "takvim",

@@ -1,15 +1,11 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-25T05:50:49+00:00",
+ "generated_at": "2026-08-25T07:05:03+00:00",
  "total": 2581,
- "new_in_last_run": 3,
- "sources_ok": 60,
+ "new_in_last_run": 4,
+ "sources_ok": 64,
  "sources_failed": [
-  "atletizm",
-  "basketbol",
-  "cimnastik",
-  "gormeengelliler",
-  "hokey"
+  "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],

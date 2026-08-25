@@ -1,5 +1,41 @@
 [
  {
+  "id": "a14f03b8951682ef",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 333 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-25T07:53:55+00:00",
+  "first_seen_at": "2026-08-25T07:53:55+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "ca9d0596a8695f93",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-25T07:53:51+00:00",
+  "first_seen_at": "2026-08-25T07:53:51+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "4bfe2cd07f8d140a",
   "federation": "triatlon",
   "federation_name": "Türkiye Triatlon Federasyonu",

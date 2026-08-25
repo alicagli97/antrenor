@@ -1,5 +1,22 @@
 [
  {
+  "id": "080d84a187732d27",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "EUSA Kürek Şampiyonası Zagreb'de Başladı",
+  "url": "https://tusf.org.tr/Haber.aspx?b=52bc54b0-8681-408d-9e33-83d84d595932&bid=4384&_=EUSA Kürek Şampiyonası Zagreb'de Başladı",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-25T00:00:00+00:00",
+  "first_seen_at": "2026-08-25T07:55:29+00:00",
+  "source": "html"
+ },
+ {
   "id": "683f3a2b6ed8ac5e",
   "federation": "gelenekselsporlar",
   "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
@@ -3403,23 +3420,6 @@
    "milli_takim"
   ],
   "published_at": "2026-08-07T08:30:07+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "cbac99705009dc7b",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "Gençler Karakucak Türkiye Şampiyonası Taşköprü’de Sona Erdi",
-  "url": "https://tggf.org.tr/11324-2/",
-  "summary": "Gençler Karakucak Türkiye Şampiyonası Taşköprü’de sona … Devamını Oku",
-  "image": "https://tggf.org.tr/wp-content/uploads/2026/08/genc_karakucak_gur_2026_kastamonu-4.jpeg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-06T19:43:34+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  }

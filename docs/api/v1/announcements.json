@@ -1,5 +1,41 @@
 [
  {
+  "id": "a14f03b8951682ef",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 333 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-25T07:53:55+00:00",
+  "first_seen_at": "2026-08-25T07:53:55+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "ca9d0596a8695f93",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-25T07:53:51+00:00",
+  "first_seen_at": "2026-08-25T07:53:51+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "a3e080522712bb1b",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -3705,6 +3741,40 @@
   "published_at": "2026-08-25T01:47:19+00:00",
   "first_seen_at": "2026-08-25T01:47:19+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "486a3dafce22a5df",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak GSB Yurt Başvurularının Başladığını Duyurdu",
+  "url": "https://gsb.gov.tr/tr/haber-detay/302633-bakan-bak-gsb-yurt-basvurularinin-basladigini-duyurdu",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/img_0656_17.jpg",
+  "category": "duyuru",
+  "tags": [
+   "burs"
+  ],
+  "published_at": "2026-08-25T00:00:00+00:00",
+  "first_seen_at": "2026-08-25T07:55:29+00:00",
+  "source": "html"
+ },
+ {
+  "id": "080d84a187732d27",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "EUSA Kürek Şampiyonası Zagreb'de Başladı",
+  "url": "https://tusf.org.tr/Haber.aspx?b=52bc54b0-8681-408d-9e33-83d84d595932&bid=4384&_=EUSA Kürek Şampiyonası Zagreb'de Başladı",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-25T00:00:00+00:00",
+  "first_seen_at": "2026-08-25T07:55:29+00:00",
+  "source": "html"
  },
  {
   "id": "683f3a2b6ed8ac5e",

@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-25T07:05:03+00:00",
- "total": 2581,
- "new_in_last_run": 4,
+ "generated_at": "2026-08-25T07:55:29+00:00",
+ "total": 2585,
+ "new_in_last_run": 6,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -10,12 +10,12 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-25T04:29:32+00:00",
+ "latest_published_at": "2026-08-25T07:53:55+00:00",
  "categories": {
+  "takvim": 58,
   "mevzuat": 1026,
-  "takvim": 56,
-  "musabaka": 339,
-  "duyuru": 857,
+  "duyuru": 858,
+  "musabaka": 340,
   "haber": 40,
   "kurs": 263
  },
@@ -23,13 +23,15 @@
   {
    "federation": "curling",
    "last_published_at": "2026-06-22T10:23:56+03:00",
-   "days": 63
+   "days": 64
   }
  ],
  "federation_counts": {
-  "gsb": 157,
+  "cimnastik": 33,
+  "voleybol": 50,
+  "gsb": 158,
   "ragbi": 40,
-  "universitesporlari": 20,
+  "universitesporlari": 21,
   "oryantiring": 22,
   "okculuk": 34,
   "muaythai": 44,
@@ -45,12 +47,10 @@
   "yelken": 30,
   "bisiklet": 27,
   "eskrim": 58,
-  "cimnastik": 32,
   "aticilik": 44,
   "atletizm": 35,
   "gures": 33,
   "boks": 36,
-  "voleybol": 49,
   "gelenekselsporlar": 41,
   "shgm": 33,
   "halter": 26,

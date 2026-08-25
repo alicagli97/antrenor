@@ -1,5 +1,23 @@
 [
  {
+  "id": "352dc95317b1e678",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Badminton faaliyet takviminde değişiklik",
+  "url": "https://www.badminton.org.tr/category/faaliyet-programi/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-25T10:43:40+00:00",
+  "first_seen_at": "2026-08-25T10:43:40+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "d63f3d7c592b8fd9",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
@@ -1057,23 +1075,6 @@
   ],
   "published_at": "2026-08-20T08:31:28+00:00",
   "first_seen_at": "2026-08-20T18:07:25+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "102bc7bc724900b9",
-  "federation": "badminton",
-  "federation_name": "Türkiye Badminton Federasyonu",
-  "federation_short": "TBF",
-  "title": "Avrupa’da İlk Maç, İlk Galibiyet",
-  "url": "https://www.badminton.org.tr/avrupada-ilk-mac-ilk-galibiyet/13421/",
-  "summary": "Avrupa Gençler Badminton Şampiyonası’nda millilerimiz gruptaki ilk maçını Hırvatistan ile yaptı. Müsabakayı 2-0 kazanan sporcularımızı ve teknik ekibimizi tebrik ediyoruz.",
-  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-18-at-15.41.42.jpeg",
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T12:44:39+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  }
 ]

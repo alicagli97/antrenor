@@ -1,6 +1,6 @@
 [
  {
-  "id": "a14f03b8951682ef",
+  "id": "2ab890276d4ff998",
   "federation": "cimnastik",
   "federation_name": "Türkiye Cimnastik Federasyonu",
   "federation_short": "TCF",
@@ -13,8 +13,44 @@
    "takvim",
    "faaliyet"
   ],
-  "published_at": "2026-08-25T07:53:55+00:00",
-  "first_seen_at": "2026-08-25T07:53:55+00:00",
+  "published_at": "2026-08-25T10:43:41+00:00",
+  "first_seen_at": "2026-08-25T10:43:41+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "e0427b4dc6006549",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-25T10:43:41+00:00",
+  "first_seen_at": "2026-08-25T10:43:41+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "352dc95317b1e678",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Badminton faaliyet takviminde değişiklik",
+  "url": "https://www.badminton.org.tr/category/faaliyet-programi/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-25T10:43:40+00:00",
+  "first_seen_at": "2026-08-25T10:43:40+00:00",
   "source": "takvim-html"
  },
  {

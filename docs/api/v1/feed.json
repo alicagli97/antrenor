@@ -1,5 +1,77 @@
 [
  {
+  "id": "2ab890276d4ff998",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 333 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-25T10:43:41+00:00",
+  "first_seen_at": "2026-08-25T10:43:41+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "e0427b4dc6006549",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-25T10:43:41+00:00",
+  "first_seen_at": "2026-08-25T10:43:41+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "352dc95317b1e678",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Badminton faaliyet takviminde değişiklik",
+  "url": "https://www.badminton.org.tr/category/faaliyet-programi/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-25T10:43:40+00:00",
+  "first_seen_at": "2026-08-25T10:43:40+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "ea2d0ba1fc47e760",
+  "federation": "dagcilik",
+  "federation_name": "Türkiye Dağcılık Federasyonu",
+  "federation_short": "TDF",
+  "title": "Yaz Yürüyüş Liderliği Kursu – İstanbul Başvuruları",
+  "url": "https://tdf.tr/kis-yuruyus-liderligi-kursu-4-2/",
+  "summary": "Federasyonumuzun 2026 yılı faaliyet programında yer alan Yaz Yürüyüş Liderliği Kursu, 14-20 Eylül 2026 tarihleri arasında İstanbul ilinde düzenlenecektir. 📅 Kurs Bilgileri Kurs Tarihi: 14-20 Eylül 2026 Son Başvuru: 07 Eylül 2026 | Saat: 07:00 Kontenjan : 30 Kişi Kurs Ücreti: 4000 TL İletişim: BÜLENT AKSU (İl Temsilcisi) / 0532 609 28 97 📝 Başvuru […]",
+  "image": "https://tdf.tr/wp-content/uploads/2025/08/Ekran-Resmi-2025-08-23-01.50.24.png",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "burs"
+  ],
+  "published_at": "2026-08-25T10:00:55+00:00",
+  "first_seen_at": "2026-08-25T10:45:25+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "d63f3d7c592b8fd9",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
@@ -28,24 +100,6 @@
   "published_at": "2026-08-25T08:56:03+00:00",
   "first_seen_at": "2026-08-25T08:56:03+00:00",
   "source": "html"
- },
- {
-  "id": "a14f03b8951682ef",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 333 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-25T07:53:55+00:00",
-  "first_seen_at": "2026-08-25T07:53:55+00:00",
-  "source": "takvim-html"
  },
  {
   "id": "ca9d0596a8695f93",
@@ -5118,53 +5172,6 @@
    "antrenor",
    "kurs"
   ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "6705e8867b4b2b94",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "1. Kademe Boks Antrenör Uygulama Eğitimi Kursları Muğla İlinde Yapılacaktır",
-  "url": "https://www.turkboks.gov.tr/1-kademe-boks-antrenor-uygulama-egitimi-kurslari-mugla-ilinde-yapilacaktir/",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "25b10b1056d55d52",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "8’inci Cısm Dünya Askeri Oyunları Hakkında Önemli Duyuru",
-  "url": "https://www.turkboks.gov.tr/8inci-cism-dunya-askeri-oyunlari-hakkinda-onemli-duyuru/",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "65ab85de4dbabe4d",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "Milli Takımımız Akdeniz Oyunları’na Hazır!",
-  "url": "https://www.turkboks.gov.tr/milli-takimimiz-akdeniz-oyunlarina-hazir/",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-08-20T19:23:27+00:00",
   "first_seen_at": "2026-08-20T19:23:27+00:00",
   "source": "html"

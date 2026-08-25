@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-25T13:08:07+00:00",
- "total": 2599,
+ "generated_at": "2026-08-25T14:02:19+00:00",
+ "total": 2601,
  "new_in_last_run": 6,
  "sources_ok": 64,
  "sources_failed": [
@@ -10,11 +10,11 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-25T12:36:04+00:00",
+ "latest_published_at": "2026-08-25T14:02:19+00:00",
  "categories": {
-  "duyuru": 867,
-  "kurs": 264,
+  "duyuru": 869,
   "takvim": 60,
+  "kurs": 264,
   "haber": 41,
   "mevzuat": 1026,
   "musabaka": 341
@@ -27,9 +27,10 @@
   }
  ],
  "federation_counts": {
-  "okculuk": 35,
-  "futbol": 62,
+  "futbol": 63,
+  "hentbol": 21,
   "cimnastik": 33,
+  "okculuk": 35,
   "eskrim": 59,
   "badminton": 80,
   "dagcilik": 180,
@@ -56,7 +57,6 @@
   "boks": 36,
   "gelenekselsporlar": 41,
   "halter": 26,
-  "hentbol": 20,
   "pentatlon": 22,
   "hokey": 22,
   "gormeengelliler": 41,

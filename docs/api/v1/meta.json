@@ -1,12 +1,11 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-25T01:50:32+00:00",
+ "generated_at": "2026-08-25T03:10:16+00:00",
  "total": 2379,
  "new_in_last_run": 4,
- "sources_ok": 63,
+ "sources_ok": 64,
  "sources_failed": [
-  "basketbol",
-  "gelenekselguresler"
+  "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],

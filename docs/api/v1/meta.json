@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-25T21:39:49+00:00",
- "total": 2610,
+ "generated_at": "2026-08-25T22:39:54+00:00",
+ "total": 2611,
  "new_in_last_run": 5,
  "sources_ok": 64,
  "sources_failed": [
@@ -10,12 +10,12 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-25T18:54:45+00:00",
+ "latest_published_at": "2026-08-25T21:57:18+00:00",
  "categories": {
+  "kurs": 265,
   "duyuru": 877,
   "haber": 42,
   "takvim": 60,
-  "kurs": 264,
   "mevzuat": 1026,
   "musabaka": 341
  },
@@ -27,8 +27,8 @@
   }
  ],
  "federation_counts": {
+  "ozelsporcular": 41,
   "hentbol": 23,
-  "ozelsporcular": 40,
   "shgm": 35,
   "otomobil": 49,
   "futbol": 64,

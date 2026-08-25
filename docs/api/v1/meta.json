@@ -1,21 +1,18 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-25T15:02:57+00:00",
- "total": 2603,
- "new_in_last_run": 6,
- "sources_ok": 61,
+ "generated_at": "2026-08-25T15:56:17+00:00",
+ "total": 2604,
+ "new_in_last_run": 5,
+ "sources_ok": 64,
  "sources_failed": [
-  "basketbol",
-  "halter",
-  "taekwondo",
-  "wushu"
+  "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
  "latest_published_at": "2026-08-25T15:02:57+00:00",
  "categories": {
-  "duyuru": 871,
+  "duyuru": 872,
   "takvim": 60,
   "kurs": 264,
   "haber": 41,
@@ -59,6 +56,7 @@
   "atletizm": 35,
   "gures": 33,
   "boks": 36,
+  "vucutgelistirme": 16,
   "gelenekselsporlar": 41,
   "halter": 26,
   "pentatlon": 22,
@@ -77,7 +75,6 @@
   "yuzme": 23,
   "kaykay": 10,
   "basketbol": 23,
-  "vucutgelistirme": 15,
   "gelismekteolan": 48,
   "binicilik": 69,
   "karate": 15,

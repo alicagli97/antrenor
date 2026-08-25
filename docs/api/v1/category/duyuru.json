@@ -112,6 +112,21 @@
   "source": "wp_json"
  },
  {
+  "id": "a4376071f8828d9d",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "2024 - 2025 Öğretim Yılı 2025 - 2026 Öğretim Yılı Üniversitelerin Faaliyet Katılım Listesi",
+  "url": "https://tusf.org.tr/Haber.aspx?b=3eaf8523-e1cd-4f06-b71b-5157732ece7d&bid=4385&_=2024 - 2025 Öğretim Yılı 2025 - 2026 Öğretim Yılı Üniversitelerin Faaliyet Katılım Listesi",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-25T00:00:00+00:00",
+  "first_seen_at": "2026-08-25T17:41:43+00:00",
+  "source": "html"
+ },
+ {
   "id": "c2086c9b968d66cb",
   "federation": "yelken",
   "federation_name": "Türkiye Yelken Federasyonu",
@@ -3124,23 +3139,6 @@
   "image": null,
   "category": "duyuru",
   "tags": [],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "e590a7eb55a4a8bf",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Merkez Hakem Kurulu",
-  "url": "https://www.tsf.org.tr/mhk",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "hakem"
-  ],
   "published_at": "2026-08-19T21:45:48+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"

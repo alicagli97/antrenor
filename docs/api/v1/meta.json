@@ -1,18 +1,21 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-25T14:02:19+00:00",
- "total": 2601,
+ "generated_at": "2026-08-25T15:02:57+00:00",
+ "total": 2603,
  "new_in_last_run": 6,
- "sources_ok": 64,
+ "sources_ok": 61,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "halter",
+  "taekwondo",
+  "wushu"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-25T14:02:19+00:00",
+ "latest_published_at": "2026-08-25T15:02:57+00:00",
  "categories": {
-  "duyuru": 869,
+  "duyuru": 871,
   "takvim": 60,
   "kurs": 264,
   "haber": 41,
@@ -27,8 +30,9 @@
   }
  ],
  "federation_counts": {
+  "hentbol": 22,
+  "otomobil": 49,
   "futbol": 63,
-  "hentbol": 21,
   "cimnastik": 33,
   "okculuk": 35,
   "eskrim": 59,
@@ -68,7 +72,6 @@
   "gelenekselguresler": 28,
   "herkesicinspor": 11,
   "isitmeengelliler": 8,
-  "otomobil": 48,
   "kano": 56,
   "judo": 44,
   "yuzme": 23,

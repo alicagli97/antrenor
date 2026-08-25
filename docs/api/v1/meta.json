@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-25T20:42:22+00:00",
- "total": 2609,
- "new_in_last_run": 4,
+ "generated_at": "2026-08-25T21:39:49+00:00",
+ "total": 2610,
+ "new_in_last_run": 5,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -12,7 +12,7 @@
  "partial_run": null,
  "latest_published_at": "2026-08-25T18:54:45+00:00",
  "categories": {
-  "duyuru": 876,
+  "duyuru": 877,
   "haber": 42,
   "takvim": 60,
   "kurs": 264,
@@ -31,7 +31,7 @@
   "ozelsporcular": 40,
   "shgm": 35,
   "otomobil": 49,
-  "futbol": 63,
+  "futbol": 64,
   "cimnastik": 33,
   "okculuk": 35,
   "eskrim": 59,

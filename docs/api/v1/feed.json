@@ -1,5 +1,23 @@
 [
  {
+  "id": "4bfe2cd07f8d140a",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Triatlon faaliyet takviminde değişiklik",
+  "url": "https://triatlon.org.tr",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-25T01:47:19+00:00",
+  "first_seen_at": "2026-08-25T01:47:19+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "683f3a2b6ed8ac5e",
   "federation": "gelenekselsporlar",
   "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
@@ -5157,23 +5175,6 @@
   "category": "kurs",
   "tags": [
    "antrenor"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "18b556f1b853a14d",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "CEV Kadınlar Avrupa Şampiyonası Medya Akreditasyonu Sona Erdi",
-  "url": "https://tvf.org.tr/icerik/2026-cev-kadinlar-avrupa-sampiyonasi-medya-akreditasyonu-sona-erdi",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
   ],
   "published_at": "2026-08-20T19:23:27+00:00",
   "first_seen_at": "2026-08-20T19:23:27+00:00",

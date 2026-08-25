@@ -1,20 +1,21 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-24T23:32:41+00:00",
- "total": 2378,
+ "generated_at": "2026-08-25T01:50:32+00:00",
+ "total": 2379,
  "new_in_last_run": 4,
- "sources_ok": 64,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "gelenekselguresler"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-24T21:40:36+00:00",
+ "latest_published_at": "2026-08-25T01:47:19+00:00",
  "categories": {
+  "takvim": 56,
   "musabaka": 339,
   "duyuru": 857,
-  "takvim": 55,
   "haber": 40,
   "kurs": 263,
   "mevzuat": 824
@@ -27,6 +28,7 @@
   }
  ],
  "federation_counts": {
+  "triatlon": 43,
   "gelenekselsporlar": 41,
   "shgm": 33,
   "eskrim": 53,
@@ -61,7 +63,6 @@
   "golf": 98,
   "bocce": 93,
   "satranc": 52,
-  "triatlon": 42,
   "buzpateni": 104,
   "kano": 56,
   "yelken": 27,

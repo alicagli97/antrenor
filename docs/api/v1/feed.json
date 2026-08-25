@@ -1,5 +1,20 @@
 [
  {
+  "id": "93fb62d2c4d145b0",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Judocularımızdan 2 gümüş madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302658/judocularimizdan-2-gumus-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-08-25T16:52:20+00:00",
+  "first_seen_at": "2026-08-25T16:52:20+00:00",
+  "source": "html"
+ },
+ {
   "id": "d950a76ec772b455",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -2147,6 +2162,21 @@
   "published_at": "2026-08-25T01:47:19+00:00",
   "first_seen_at": "2026-08-25T01:47:19+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "c2086c9b968d66cb",
+  "federation": "yelken",
+  "federation_name": "Türkiye Yelken Federasyonu",
+  "federation_short": "TYF",
+  "title": "2026-2027 Yılı TYF Yelken Ligi 2. ve 3. Ayak Yarışları Ev Sahipliği Talep Toplama Duyurusu",
+  "url": "https://www.tyf.org.tr/duyurular/yaris/2026-2027-yili-tyf-yelken-ligi-2-ve-3-ayak-yarislari-ev-sahipligi-talep-toplama/315718/",
+  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular 2026-2027 Yılı TYF Yelken Ligi 2. ve 3. Ayak Yarışları Ev Sahipliği Talep Toplama Duyurusu 2026-2027 Yılı TYF Yelken Ligi 2. ve 3. Ayak Yarışları Ev Sahipliği Talep Toplama Duyurusu 25.08.2026 Duyurular 47 Paylaş Tweetle 2026-2027 Yılı TYF Yelken Ligi 2. ve 3. Ayak Yarışlarının gerçekleştirileceği yerleri",
+  "image": "https://portal.tyf.org.tr/content/images/pageimages/image-not-found.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-25T00:00:00+00:00",
+  "first_seen_at": "2026-08-25T16:52:20+00:00",
+  "source": "html"
  },
  {
   "id": "2465f9f0971e93ec",
@@ -5120,42 +5150,6 @@
   ],
   "published_at": "2026-08-20T20:10:49+00:00",
   "first_seen_at": "2026-08-20T20:10:49+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "c8df0dbed05734de",
-  "federation": "tenis",
-  "federation_name": "Türkiye Tenis Federasyonu",
-  "federation_short": "TTF",
-  "title": "Tenis faaliyet takvimi yayında",
-  "url": "https://www.ttf.org.tr/public/documents/Takvim_2026_-_05_05_2026_1777983778.pdf",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi. Takvimde 65 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:48+00:00",
-  "first_seen_at": "2026-08-20T20:10:48+00:00",
-  "source": "takvim-pdf"
- },
- {
-  "id": "55c3963965386844",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Atıcılık faaliyet takvimi yayında",
-  "url": "https://www.taf.gov.tr/tr/faaliyetler",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi. Takvimde 79 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:48+00:00",
-  "first_seen_at": "2026-08-20T20:10:48+00:00",
   "source": "takvim-html"
  }
 ]

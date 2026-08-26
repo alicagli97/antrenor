@@ -1,5 +1,41 @@
 [
  {
+  "id": "d50066f905beb344",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Rafting 2. Kademe Temel Antrenör Kursu Uygulama Eğitimi",
+  "url": "https://kano.org.tr/rafting-2-kademe-temel-antrenor-kursu-uygulama-egitimi-1",
+  "summary": ", Çarşamba Rafting 2. Kademe Temel Antrenör Kursu Uygulama Eğitimi'nin 12 -16 Eylül 2026 tarihleri arasında Tunceli’de yapılması planlanmaktadır.",
+  "image": "https://kano.org.tr/uploads/rafting-duyuru-.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-08-26T00:00:00+00:00",
+  "first_seen_at": "2026-08-26T08:58:14+00:00",
+  "source": "html"
+ },
+ {
+  "id": "a2a3c8e6f7803f70",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Stand Up Paddle (sup) 1. Kademe Yardımcı Antrenör Kursu Uygulama Eğitimi",
+  "url": "https://kano.org.tr/stand-up-paddle-sup-1-kademe-yardimci-antrenor-kursu-uygulama-egitimi-2",
+  "summary": ", Çarşamba Stand Up Paddle (SUP) 1. Kademe Yardımcı Antrenör Kursu Uygulama Eğitiminin 09 – 13 Eylül 2026 tarihleri arasında İstanbul/Kadıköy'de yapılması planlanmaktadır.",
+  "image": "https://kano.org.tr/uploads/sup-duyuru.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-08-26T00:00:00+00:00",
+  "first_seen_at": "2026-08-26T08:58:14+00:00",
+  "source": "html"
+ },
+ {
   "id": "ea2d0ba1fc47e760",
   "federation": "dagcilik",
   "federation_name": "Türkiye Dağcılık Federasyonu",
@@ -3559,42 +3595,6 @@
    "kurs"
   ],
   "published_at": "2026-01-24T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "64d0bb6aed06ec3d",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Geleneksel Kızak 1. Kademe Yardımcı Antrenör Yetiştirme Kursu",
-  "url": "https://www.gsdf.gov.tr/tr/haber/geleneksel-kizak-1.-kademe-yardimci-antrenor-yetistirme-kursu",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/f1f7eba9707dc7185d6f396e552f4f02_mid_r.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-01-24T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "286869ef0b51c3d4",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "17-18 Ocak 2026 Sambo Aday Hakem Kursu Katılımcı Listesi / Bursa",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-389-17-18-ocak-2026-sambo-aday-hakem-kursu-katilimci-listesi-bursa",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-01-18T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

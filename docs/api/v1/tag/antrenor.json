@@ -1,5 +1,22 @@
 [
  {
+  "id": "40e666f2f6b99c92",
+  "federation": "oryantiring",
+  "federation_name": "Türkiye Oryantiring Federasyonu",
+  "federation_short": "TOF",
+  "title": "2026- 2027 Sezonu Antrenör Gelişim Telafi Semineri",
+  "url": "https://oryantiring.org.tr/haberler#2026-2027-sezonu-antrenor-gelisim-telafi-semineri",
+  "summary": "Federasyonumuzun 2026-2027 sezonu için, Antrenör Vize-Gelişim Telafi Semineri, 09 - 10 Eylül 2026 tarihlerinde “Türkiye Oryantiring Federasyonu Uzaktan Eğitim Merkezi” uzem.oryantiring.org.tr üzerinden yapılacaktır. Eğitimin izlenilmesi durumunda seminer tamamlanmış sayılacaktır. Sistem 09 Eylül 2026 Çarşamba saat 14.00’da açılacak ve 10 Eylül 2026 Perşembe günü 23.00’ a kadar yayında kalacaktır. ",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-08-26T08:58:14+00:00",
+  "first_seen_at": "2026-08-26T08:58:14+00:00",
+  "source": "headings"
+ },
+ {
   "id": "6e17004bbd311533",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -1100,6 +1117,42 @@
   "published_at": "2026-08-26T04:21:41+00:00",
   "first_seen_at": "2026-08-26T04:21:41+00:00",
   "source": "mevzuat"
+ },
+ {
+  "id": "d50066f905beb344",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Rafting 2. Kademe Temel Antrenör Kursu Uygulama Eğitimi",
+  "url": "https://kano.org.tr/rafting-2-kademe-temel-antrenor-kursu-uygulama-egitimi-1",
+  "summary": ", Çarşamba Rafting 2. Kademe Temel Antrenör Kursu Uygulama Eğitimi'nin 12 -16 Eylül 2026 tarihleri arasında Tunceli’de yapılması planlanmaktadır.",
+  "image": "https://kano.org.tr/uploads/rafting-duyuru-.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-08-26T00:00:00+00:00",
+  "first_seen_at": "2026-08-26T08:58:14+00:00",
+  "source": "html"
+ },
+ {
+  "id": "a2a3c8e6f7803f70",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Stand Up Paddle (sup) 1. Kademe Yardımcı Antrenör Kursu Uygulama Eğitimi",
+  "url": "https://kano.org.tr/stand-up-paddle-sup-1-kademe-yardimci-antrenor-kursu-uygulama-egitimi-2",
+  "summary": ", Çarşamba Stand Up Paddle (SUP) 1. Kademe Yardımcı Antrenör Kursu Uygulama Eğitiminin 09 – 13 Eylül 2026 tarihleri arasında İstanbul/Kadıköy'de yapılması planlanmaktadır.",
+  "image": "https://kano.org.tr/uploads/sup-duyuru.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-08-26T00:00:00+00:00",
+  "first_seen_at": "2026-08-26T08:58:14+00:00",
+  "source": "html"
  },
  {
   "id": "18c34dc83ce2c83c",
@@ -3727,63 +3780,6 @@
   ],
   "published_at": "2026-08-23T04:25:36+00:00",
   "first_seen_at": "2026-08-23T04:25:36+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "9f8e1839cb0ac3bb",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Kamu Taşınmazları Üzerinde Eğitim ve Yurt Faaliyetleri İçin İrtifak Hakkı Tesis Edilmesine ve Kullanma İzni Verilmesine İlişkin Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23773&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-23T04:25:35+00:00",
-  "first_seen_at": "2026-08-23T04:25:35+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "4e265d60cbdd4a73",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Millî Sporcu Belgesi Verilmesi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34607&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-23T04:25:35+00:00",
-  "first_seen_at": "2026-08-23T04:25:35+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "0b50156d0bd73867",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Olimpik, Paralimpik ve Deaflimpik Sporcu Yetiştirilmesine Dair Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38618&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-23T04:25:35+00:00",
-  "first_seen_at": "2026-08-23T04:25:35+00:00",
   "source": "mevzuat"
  }
 ]

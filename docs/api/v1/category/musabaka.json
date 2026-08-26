@@ -1,5 +1,39 @@
 [
  {
+  "id": "2d8580bbe53b2d4c",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Duyuru ve Kararlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=687&ftxtID=51215",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-26T15:00:39+00:00",
+  "first_seen_at": "2026-08-26T15:00:39+00:00",
+  "source": "html"
+ },
+ {
+  "id": "e92c0fb71287a192",
+  "federation": "taekwondo",
+  "federation_name": "Türkiye Taekwondo Federasyonu",
+  "federation_short": "TTF",
+  "title": "2026 Ümitler Taekwondo Grup Müsabakaları",
+  "url": "https://turkiyetaekwondofed.gov.tr/2026-umitler-taekwondo-grup-musabakalari/",
+  "summary": "Türkiye Taekwondo Federasyonu’nun 2026 Yılı Faaliyet Programında yer alan Ümitler Taekwondo Grup Müsabakaları’nın; Ankara Grubu 16-17 Eylül 2026, İstanbul Grubu 23-24 Eylül 2026,Doğu Grubu 19-20 Eylül 2026 Sivas ve Batı Grubu 23-24 Eylül İzmir olmak üzere 4 farklı grup halinde yapılması planlanmaktadır. Müsabaka Programları ve Online Kayıt ÜMİTLER TAEKWONDO ANKARA GRUBU MÜSABAKALARI 16-17 EYLÜL 2026 […]",
+  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/08/UMITLER-2026-GRUP.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-26T14:42:54+00:00",
+  "first_seen_at": "2026-08-26T15:00:39+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "14baf7e7869306e5",
   "federation": "sualti",
   "federation_name": "Türkiye Sualtı Sporları Federasyonu",
@@ -99,6 +133,23 @@
   ],
   "published_at": "2026-08-26T05:45:42+00:00",
   "first_seen_at": "2026-08-26T05:45:42+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0ae3054d742646b9",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "2026-2027 Sezonu Ziraat Türkiye Kupası Müsabakaları Statüsü'nde Değişiklik",
+  "url": "https://www.tff.org/default.aspx?pageID=687&ftxtID=51214",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-26T00:00:00+00:00",
+  "first_seen_at": "2026-08-26T15:00:39+00:00",
   "source": "html"
  },
  {
@@ -3367,58 +3418,5 @@
   "published_at": "2026-08-11T18:30:18+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "api"
- },
- {
-  "id": "6f6f5dda1f3cf12e",
-  "federation": "taekwondo",
-  "federation_name": "Türkiye Taekwondo Federasyonu",
-  "federation_short": "TTF",
-  "title": "Gazi Kulüpler Türkiye Taekwondo Şampiyonası (Seremoni)",
-  "url": "https://turkiyetaekwondofed.gov.tr/gazi-kulupler-turkiye-taekwondo-sampiyonasi-seremoni/",
-  "summary": "Türkiye Taekwondo Federasyonu 2026 yılı faaliyet takviminde yer alan Gazi Kulüpler Türkiye Taekwondo Şampiyonası, Gaziantep Kamil Ocak Spor Salonu’nda düzenlenen açılış seremonisiyle başladı. 68 ilden 711 kulüp ve 2 binin üzerinde sporcunun katılımıyla gerçekleştirilen şampiyonanın açılış seremonisine; Gaziantep Valisi Kemal Çeber, Gaziantep Büyükşehir Belediye Başkanı Fatma Şahin, Gaziantep Gençlik ve Spor İl Müdürü Numan Nafiz […]",
-  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/08/1-1.jpeg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "kulup"
-  ],
-  "published_at": "2026-08-11T14:10:36+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "1169b7cb3cdd5b5d",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Avrupa Atletizm Şampiyonası (1. Gün)",
-  "url": "https://taf.org.tr/avrupa-atletizm-sampiyonasi-1-gun/",
-  "summary": "İngiltere’nin Birmingham şehrinde düzenlenen Avrupa Atletizm Şampiyonası’nda ilk gün sona erdi. İlk gün 10 sporcumuz mücadele ederken Tuğba Danışmaz ve Tuğba Yenigün finale yükseldi.👏🏻 🌙AKŞAM SEANSI 🏃‍♀️Tuğba Danışmaz: Üç Adım Atlama, 14.23m -SB- (Grubunda 3. – Genel Sıralama 5.) 🏃‍♀️Tuğba Yenigün: 3000m Engel, 9:33.27 (Serisinde 7. – Genel Sıralama 11.) 🏃‍♀️Derya Kunur: 3000m Engel, 9:54.68 […]",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/08/7618f6d7-6ff5-4034-a613-e01a5241daea.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-11T12:20:05+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "d31eac7b8ee4daf3",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "TBF Duyuru No: 115/2026 Atlı Dayanıklılık Balkan Şampiyonası Milli Takım Kadroları Belirlendi",
-  "url": "https://binicilik.org.tr/duyurular/tbf-duyuru-no-1152026-atli-dayaniklilik-balkan-sampiyonasi-milli-takim-kadrolari-belirlendi",
-  "summary": "11 AĞUSTOS - Salı Atlı Dayanıklılık Balkan Şampiyonası’nda ülkemizi temsil edecek Milli Takım aday kadroları belirlenmiştir.",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "milli_takim"
-  ],
-  "published_at": "2026-08-11T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
  }
 ]

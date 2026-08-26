@@ -1,5 +1,23 @@
 [
  {
+  "id": "c88af85b9154fdba",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-26T10:47:09+00:00",
+  "first_seen_at": "2026-08-26T10:47:09+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "42f300dbe84b0d06",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -5098,23 +5116,5 @@
   "published_at": "2026-08-20T20:10:53+00:00",
   "first_seen_at": "2026-08-20T20:10:53+00:00",
   "source": "takvim-excel"
- },
- {
-  "id": "696e08ce6ca5b46c",
-  "federation": "danssporlari",
-  "federation_name": "Türkiye Dans Sporları Federasyonu",
-  "federation_short": "TDSF",
-  "title": "Dans Sporları faaliyet takvimi yayında",
-  "url": "https://tdsf.org.tr/faaliyet-takvimi",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi. Takvimde 56 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:53+00:00",
-  "first_seen_at": "2026-08-20T20:10:53+00:00",
-  "source": "takvim-html"
  }
 ]

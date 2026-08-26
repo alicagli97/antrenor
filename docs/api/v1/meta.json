@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-26T09:57:35+00:00",
- "total": 2846,
- "new_in_last_run": 7,
+ "generated_at": "2026-08-26T10:51:46+00:00",
+ "total": 2847,
+ "new_in_last_run": 4,
  "sources_ok": 63,
  "sources_failed": [
   "atletizm",
@@ -11,14 +11,14 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-26T09:57:35+00:00",
+ "latest_published_at": "2026-08-26T10:47:09+00:00",
  "categories": {
+  "takvim": 61,
   "musabaka": 347,
   "kurs": 270,
   "duyuru": 883,
   "mevzuat": 1244,
-  "haber": 42,
-  "takvim": 60
+  "haber": 42
  },
  "silent_sources": [
   {
@@ -28,8 +28,8 @@
   }
  ],
  "federation_counts": {
+  "eskrim": 69,
   "futbol": 68,
-  "eskrim": 68,
   "oryantiring": 26,
   "hentbol": 24,
   "bisiklet": 29,

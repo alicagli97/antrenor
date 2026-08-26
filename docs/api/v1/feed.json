@@ -1,5 +1,22 @@
 [
  {
+  "id": "1268862518b9c1ce",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U-17 Milli Takım Haber Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=276&ftxtID=51210",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-26T05:45:42+00:00",
+  "first_seen_at": "2026-08-26T05:45:42+00:00",
+  "source": "html"
+ },
+ {
   "id": "35520d183a5dd503",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -5118,23 +5135,5 @@
   "published_at": "2026-08-20T20:10:50+00:00",
   "first_seen_at": "2026-08-20T20:10:50+00:00",
   "source": "takvim-pdf"
- },
- {
-  "id": "1d26751e98febadc",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Buz Pateni faaliyet takvimi yayında",
-  "url": "https://buzpateni.org.tr/faaliyet-programi-artistik",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi. Takvimde 27 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:50+00:00",
-  "first_seen_at": "2026-08-20T20:10:50+00:00",
-  "source": "takvim-html"
  }
 ]

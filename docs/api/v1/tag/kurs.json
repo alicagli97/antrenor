@@ -1,5 +1,22 @@
 [
  {
+  "id": "7619a07cec458b1c",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "23–27 Eylül 2026 Tarihleri Arasında Antalya İlinde Cankurtarma Eğitmenleri Gelişim Semineri Düzenlenecektir",
+  "url": "https://www.tssf.gov.tr/23-27-eylul-2026-tarihleri-arasinda-antalya-ilinde-cankurtarma-egitmenleri-gelisim-semineri-duzenlenecektir/",
+  "summary": "Cankurtarma eğitmenlerinin mesleki bilgi ve becerilerinin geliştirilmesi, güncel uygulamalar hakkında bilgi edinmelerinin sağlanması ve eğitim süreçlerinin daha etkin",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "kurs",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-08-26T20:05:32+00:00",
+  "first_seen_at": "2026-08-26T23:27:17+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "ae358762ed27f54f",
   "federation": "dagcilik",
   "federation_name": "Türkiye Dağcılık Federasyonu",
@@ -3578,24 +3595,6 @@
    "hakem"
   ],
   "published_at": "2026-02-15T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "f5a85044b19dd84f",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Aday Hakem Telafi Kursu",
-  "url": "https://www.gsdf.gov.tr/tr/haber/aday-hakem-telafi-kursu",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/11842ec245ab8e64ab1daf52b20a24b8_mid_r.jpg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-02-13T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

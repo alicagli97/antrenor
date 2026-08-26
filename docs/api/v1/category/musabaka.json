@@ -1,5 +1,22 @@
 [
  {
+  "id": "9e18ae2ed44a230a",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF'den Mesajlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51207",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-26T23:27:16+00:00",
+  "first_seen_at": "2026-08-26T23:27:16+00:00",
+  "source": "html"
+ },
+ {
   "id": "d383868f80d5d87b",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3399,23 +3416,6 @@
    "musabaka"
   ],
   "published_at": "2026-08-12T07:06:14+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "922029bc72185a5a",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Avrupa Atletizm Şampiyonası (2. Gün)",
-  "url": "https://taf.org.tr/avrupa-atletizm-sampiyonasi-2-gun/",
-  "summary": "Avrupa Atletizm Şampiyonası (2. Gün) 💫İngiltere’nin Birmingham şehrinde düzenlenen Avrupa Atletizm Şampiyonası’nda ikinci gün sona erdi. 🏃🏼‍♂️🏃🏼‍♀️İkinci gün sabah seansında 5 sporcumuz mücadele ederken Berke Akçam ve Kayhan Özer yarı finale yükseldi. Erkekler 400m engelde seribaşı olan İsmail Nezir de doğrudan yarı final bileti aldı.👏🏻 Akşam seansında 100m yarı finali için ısınan Kayhan Özer, sakatlık […]",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/08/75c2e201-625b-4592-aa5c-f34dc567d268.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-11T20:04:41+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  }

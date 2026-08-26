@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-26T19:20:09+00:00",
- "total": 2876,
- "new_in_last_run": 14,
+ "generated_at": "2026-08-26T23:27:17+00:00",
+ "total": 2878,
+ "new_in_last_run": 6,
  "sources_ok": 63,
  "sources_failed": [
   "atletizm",
@@ -11,13 +11,13 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-26T21:09:12+00:00",
+ "latest_published_at": "2026-08-26T23:27:16+00:00",
  "categories": {
+  "musabaka": 354,
   "duyuru": 899,
+  "kurs": 273,
   "haber": 44,
-  "musabaka": 353,
   "takvim": 64,
-  "kurs": 272,
   "mevzuat": 1244
  },
  "silent_sources": [
@@ -28,8 +28,9 @@
   }
  ],
  "federation_counts": {
+  "futbol": 76,
   "hentbol": 26,
-  "futbol": 75,
+  "sualti": 34,
   "shgm": 37,
   "halter": 28,
   "gelenekselguresler": 29,
@@ -39,7 +40,6 @@
   "havasporlari": 26,
   "cimnastik": 35,
   "dagcilik": 219,
-  "sualti": 33,
   "eskrim": 69,
   "oryantiring": 26,
   "okculuk": 38,

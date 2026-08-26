@@ -1,5 +1,22 @@
 [
  {
+  "id": "9e18ae2ed44a230a",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF'den Mesajlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51207",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-26T23:27:16+00:00",
+  "first_seen_at": "2026-08-26T23:27:16+00:00",
+  "source": "html"
+ },
+ {
   "id": "e518ab0d725c4017",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -13,6 +30,23 @@
   "published_at": "2026-08-26T21:09:12+00:00",
   "first_seen_at": "2026-08-26T19:20:09+00:00",
   "source": "api"
+ },
+ {
+  "id": "7619a07cec458b1c",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "23–27 Eylül 2026 Tarihleri Arasında Antalya İlinde Cankurtarma Eğitmenleri Gelişim Semineri Düzenlenecektir",
+  "url": "https://www.tssf.gov.tr/23-27-eylul-2026-tarihleri-arasinda-antalya-ilinde-cankurtarma-egitmenleri-gelisim-semineri-duzenlenecektir/",
+  "summary": "Cankurtarma eğitmenlerinin mesleki bilgi ve becerilerinin geliştirilmesi, güncel uygulamalar hakkında bilgi edinmelerinin sağlanması ve eğitim süreçlerinin daha etkin",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "kurs",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-08-26T20:05:32+00:00",
+  "first_seen_at": "2026-08-26T23:27:17+00:00",
+  "source": "wp_json"
  },
  {
   "id": "c7a3ad6f69c91ed8",

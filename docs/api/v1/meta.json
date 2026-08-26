@@ -1,18 +1,19 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-26T08:58:14+00:00",
- "total": 2843,
- "new_in_last_run": 10,
- "sources_ok": 64,
+ "generated_at": "2026-08-26T09:57:35+00:00",
+ "total": 2846,
+ "new_in_last_run": 7,
+ "sources_ok": 63,
  "sources_failed": [
+  "atletizm",
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-26T08:58:14+00:00",
+ "latest_published_at": "2026-08-26T09:57:35+00:00",
  "categories": {
-  "musabaka": 344,
+  "musabaka": 347,
   "kurs": 270,
   "duyuru": 883,
   "mevzuat": 1244,
@@ -27,12 +28,12 @@
   }
  ],
  "federation_counts": {
-  "eskrim": 66,
+  "futbol": 68,
+  "eskrim": 68,
   "oryantiring": 26,
   "hentbol": 24,
   "bisiklet": 29,
   "okculuk": 38,
-  "futbol": 67,
   "gsb": 194,
   "ragbi": 44,
   "universitesporlari": 27,

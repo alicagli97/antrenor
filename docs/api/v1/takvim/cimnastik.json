@@ -6,8 +6,16 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "4f42f68f87673e57",
- "event_count": 333,
+ "event_count": 334,
  "events": [
+  {
+   "ad": "Aerobik Cimnastik Büyükler Milli Takım Hazırlık Kampı",
+   "tarih": "2026-09-04",
+   "tarih_metni": "2026.09.08 04.09.2026 - 08.09.2026",
+   "yer": "İSTANBUL",
+   "brans": "Kamp",
+   "satir": "2026 | Kamp | Aerobik Cimnastik Büyükler Milli Takım Hazırlık Kampı | Aerobik Cimnastik | İSTANBUL | 2026.09.08 04.09.2026 - 08.09.2026 | İncele"
+  },
   {
    "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
    "tarih": "2026-09-07",
@@ -50,11 +58,11 @@
   },
   {
    "ad": "Genç – Büyük Türkiye Şampiyonası (Final Etabı)",
-   "tarih": "2026-09-20",
-   "tarih_metni": "2026.09.22 20.09.2026 - 22.09.2026",
+   "tarih": "2026-09-25",
+   "tarih_metni": "2026.09.27 25.09.2026 - 27.09.2026",
    "yer": "İstanbul",
    "brans": "Yarışma",
-   "satir": "2026 | Yarışma | Genç – Büyük Türkiye Şampiyonası (Final Etabı) | Parkur | İstanbul | 2026.09.22 20.09.2026 - 22.09.2026 | İncele"
+   "satir": "2026 | Yarışma | Genç – Büyük Türkiye Şampiyonası (Final Etabı) | Parkur | İstanbul | 2026.09.27 25.09.2026 - 27.09.2026 | İncele"
   },
   {
    "ad": "Kulüplerarası Küçükler Türkiye Şampiyonası",
@@ -121,12 +129,12 @@
    "satir": "2026 | Yarışma | Kulüpler Türkiye Şampiyonası (YGB) | Trampolin Cimnastik | İzmir | 2026.09.13 11.09.2026 - 13.09.2026 | İncele"
   },
   {
-   "ad": "2026.09.13 11.09.2026 - 13.09.2026",
+   "ad": "Yaş Grupları Final Etabı Müsabakası",
    "tarih": "2026-09-11",
    "tarih_metni": "2026.09.13 11.09.2026 - 13.09.2026",
    "yer": "Van",
    "brans": "Yarışma",
-   "satir": "2026 | Yarışma | Yaş Grupları 2.Etap Müsabakası | Parkur | Van | 2026.09.13 11.09.2026 - 13.09.2026 | İncele"
+   "satir": "2026 | Yarışma | Yaş Grupları Final Etabı Müsabakası | Parkur | Van | 2026.09.13 11.09.2026 - 13.09.2026 | İncele"
   },
   {
    "ad": "2026.09.05 31.08.2026 - 05.09.2026",
@@ -2673,8 +2681,8 @@
    "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
   }
  ],
- "checked_at": "2026-08-26T10:47:09",
- "bekleyen_iz": null,
+ "checked_at": "2026-08-26T11:39:05",
+ "bekleyen_iz": "7ecf845538e01f95",
  "changed_at": "2026-08-25T14:00:37+00:00",
  "parmak_izi": "4f42f68f87673e57"
 }

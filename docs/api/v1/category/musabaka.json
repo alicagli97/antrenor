@@ -1,5 +1,22 @@
 [
  {
+  "id": "d383868f80d5d87b",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Suwen Kadın Futbol Süper Ligi'nde Haftanın Canlı Yayınlanacak Maçları Belirlendi",
+  "url": "https://www.tff.org/default.aspx?pageID=341&ftxtID=51198",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-26T16:30:29+00:00",
+  "first_seen_at": "2026-08-26T16:30:29+00:00",
+  "source": "html"
+ },
+ {
   "id": "2d8580bbe53b2d4c",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3401,22 +3418,5 @@
   "published_at": "2026-08-11T20:04:41+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
- },
- {
-  "id": "758ff9728f0580fd",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "2026-2027 Sezonu Süper Lig Fikstürleri Belli Oldu",
-  "url": "https://thf.org.tr/haber/2026-2027-sezonu-super-lig-fiksturleri-belli-oldu",
-  "summary": "Hentbol Kadınlar Süper Ligi ve Hentbol Erkekler Süper Ligi’nde 2026-2027 sezonu fikstür çekimi gerçekleştirildi. Türkiye Hentbol Federasyonu (THF) Prof. Dr. Yaşar Sevim Hentbol Salonu’nda gerçekleştirilen fikstür çekimine, Süper Liglerde mücadele edecek kulüplerin başkan, yönetici ve temsilcileri katıldı. Program kapsamında Kadınlar Süper Ligi ve Erkekler Süper Ligi’nin 2026-2027 sezonu fikstürleri belirlenirken; Türkiye Hentbol Federasyonu Genel Sekreteri Murat Çelik ve Genel Koordinatörü Prof. Dr. Serdar Eler, 2026-2027 sezonuna dair bilgilendirmelerde bulundu. Kadınlar Süper Ligi ve Erkekle",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-11T18:30:18+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "api"
  }
 ]

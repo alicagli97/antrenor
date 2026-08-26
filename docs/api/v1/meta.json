@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-26T05:45:42+00:00",
- "total": 2830,
- "new_in_last_run": 5,
+ "generated_at": "2026-08-26T07:05:27+00:00",
+ "total": 2832,
+ "new_in_last_run": 6,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -10,12 +10,12 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-08-26T05:45:42+00:00",
+ "latest_published_at": "2026-08-26T07:05:27+00:00",
  "categories": {
+  "duyuru": 879,
   "musabaka": 342,
   "mevzuat": 1244,
   "kurs": 265,
-  "duyuru": 877,
   "haber": 42,
   "takvim": 60
  },
@@ -27,7 +27,7 @@
   }
  ],
  "federation_counts": {
-  "futbol": 65,
+  "futbol": 67,
   "gsb": 194,
   "ragbi": 44,
   "universitesporlari": 26,

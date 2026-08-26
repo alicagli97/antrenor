@@ -1,5 +1,58 @@
 [
  {
+  "id": "a96c68aced7c29cd",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-26T13:11:20+00:00",
+  "first_seen_at": "2026-08-26T13:11:20+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "9442ff9461824f3f",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 334 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-26T13:11:09+00:00",
+  "first_seen_at": "2026-08-26T13:11:09+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "14baf7e7869306e5",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Cankurtarma Sportif Deniz Türkiye Şampiyonası Samsun’da Yapılacak",
+  "url": "https://www.tssf.gov.tr/cankurtarma-sportif-deniz-turkiye-sampiyonasi-samsunda-yapilacak/",
+  "summary": "Türkiye Sualtı Sporları Federasyonumuzun etkinlik takviminde yer alan Cankurtarma Sportif Deniz Açık Yaş Bireysel ve Kulüpler Arası Türkiye",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-26T12:59:32+00:00",
+  "first_seen_at": "2026-08-26T13:15:33+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "c88af85b9154fdba",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -2109,6 +2162,23 @@
   "published_at": "2026-08-26T04:24:34+00:00",
   "first_seen_at": "2026-08-26T04:24:34+00:00",
   "source": "mevzuat"
+ },
+ {
+  "id": "233b165f43b8cdb5",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! Haber 26.08.2026",
+  "url": "https://www.tbhf.org.tr/news/2026-2027-sezonu-lig-statuleri-yayinlandi",
+  "summary": "Haber Ankara 3.Kademe Kursu Ders Programı Haber 04.08.2026 Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! Haber 30.07.2026 Duyuru Kademe Kursları Ders Programları! Duyuru 27.06.2026 Duyuru Kaleci Gelişim Çalışmaları Buz Adası'nda! Duyuru 25.06.2026 Haber Yıldız B Şampiyonu Buz Korsanları SK! Haber 24.06.2026 Haber Minikler Türkiye Şampiyonası Sona Erdi! Haber 22.06.2026 Haber U16 Erkekler Ligi",
+  "image": "https://tbhf-public.sporpano.com/news/a705ca5c837b4dc3b891111adbb80dd0.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-26T00:00:00+00:00",
+  "first_seen_at": "2026-08-26T13:15:33+00:00",
+  "source": "html"
  },
  {
   "id": "159d5bfff9099f00",
@@ -5044,77 +5114,5 @@
   "published_at": "2026-08-20T20:10:54+00:00",
   "first_seen_at": "2026-08-20T20:10:54+00:00",
   "source": "takvim-pdf"
- },
- {
-  "id": "dacd0d788dde670d",
-  "federation": "kaykay",
-  "federation_name": "Türkiye Kaykay Federasyonu",
-  "federation_short": "TKF",
-  "title": "Kaykay faaliyet takvimi yayında",
-  "url": "https://kaykay.org.tr/public/uploads/belgeler/1785783607526-faaliyet-programi-yeni.pdf",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi. Takvimde 39 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:54+00:00",
-  "first_seen_at": "2026-08-20T20:10:54+00:00",
-  "source": "takvim-pdf"
- },
- {
-  "id": "86b50a797c8785b8",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "Geleneksel Güreşler faaliyet takvimi yayında",
-  "url": "https://tggf.org.tr/gelisim-ligi-2026-yili-faaliyet-takvimi/",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi. Takvimde 10 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:53+00:00",
-  "first_seen_at": "2026-08-20T20:10:53+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "a4730de4c5322414",
-  "federation": "beyzbol",
-  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
-  "federation_short": "TBSF",
-  "title": "Beyzbol & Softbol faaliyet takvimi yayında",
-  "url": "https://tbsf.org.tr/",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi. Takvimde 41 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:53+00:00",
-  "first_seen_at": "2026-08-20T20:10:53+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "f9077c010c5725bf",
-  "federation": "ragbi",
-  "federation_name": "Türkiye Ragbi Federasyonu",
-  "federation_short": "TRF",
-  "title": "Ragbi faaliyet takvimi yayında",
-  "url": "https://trf.gov.tr/wp-content/uploads/2026/06/2026-yili-faaliyet-takvimi-08.06.2026.xlsx",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:53+00:00",
-  "first_seen_at": "2026-08-20T20:10:53+00:00",
-  "source": "takvim-excel"
  }
 ]

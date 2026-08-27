@@ -1,5 +1,63 @@
 [
  {
+  "id": "50c3562b3c9b4366",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Antrenör Altyapı Vize/Gelişim Semineri Hakkında Duyuru",
+  "url": "https://tvf.org.tr/icerik/antrenor-altyapi-vizegelisim-semineri-hakkinda-duyuru",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "vize"
+  ],
+  "published_at": "2026-08-27T20:22:16+00:00",
+  "first_seen_at": "2026-08-27T20:22:16+00:00",
+  "source": "html"
+ },
+ {
+  "id": "9ef28bbd48c51e27",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "İşitme Engelliler ve Para Badminton Denklik Başvuruları",
+  "url": "https://www.badminton.org.tr/isitme-engelliler-ve-para-badminton-denklik-basvurulari/13481/",
+  "summary": "Antrenör eğitim talimatımızda yapılan değişikliğe istinaden badminton branşı antrenörlerimiz, bulundukları kademede federasyonumuza bağlı engelli branşlardan tercih edilecek yalnızca tek bir branşta denklik başvurusu yapabileceklerdir. (işitme engelliler badminton veya para badminton) Yukarıda belirtilen açıklama doğrultusunda […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/03/duyuru11.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "vize",
+   "mevzuat",
+   "burs"
+  ],
+  "published_at": "2026-08-27T12:18:07+00:00",
+  "first_seen_at": "2026-08-27T20:22:16+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "b5cb1ed4d3952910",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Taranto 2026 Akdeniz Oyunları",
+  "url": "https://taf.org.tr/taranto-2026-akdeniz-oyunlari/",
+  "summary": "Taranto 2026 Akdeniz Oyunları 💫İtalya’nın Taranto şehrinde düzenlenen 20. Akdeniz Oyunları’nda atletizm yarışmaları 30 Ağustos-03 Eylül tarihleri arasında düzenlenecek. 🏃‍♀️🏃‍♂️Taranto 2026 Akdeniz Oyunları’nda ülkemizi 39 atletimiz temsil edecek. Milli takım kafilemiz şu şekilde: 📍Federasyon Başkanı: Dr. Ahmet Karadağ 📍Takım Lideri: Ayşegül Baklacı 📍Takım Temsilcisi/Koordinatör: Mustafa Onur Demir 📍Antrenörler: Ahmet Dalak, Bekir Karayel, Cahit Yüksel, Güner […]",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/08/5d9205d0-f753-4348-9554-35826747c4dc.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-08-27T11:04:31+00:00",
+  "first_seen_at": "2026-08-27T20:22:16+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "b709ceeee3d69202",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -34,6 +92,23 @@
   ],
   "published_at": "2026-08-27T09:31:20+00:00",
   "first_seen_at": "2026-08-27T09:31:20+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ac40b023138d6d01",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Samsun - Stand Up Paddle (sup) 1. Kademe Yardımcı Tur Liderliği Eğitimi Sınav Sonuçları",
+  "url": "https://kano.org.tr/stand-up-paddlesup-1-kademe-yardimci-tur-liderligi-egitimi-sinav-sonuclari",
+  "summary": ", Perşembe Federasyonumuz tarafından 17-21 Ağustos 2026 Tarihlerinde Samsun'da düzenlenen \"STAND UP PADDLE (SUP) 1. KADEME YARDIMCI TUR LİDERLİĞİ EĞİTİMİ SINAV SONUÇLARI\" sonuçları yayınlandı.",
+  "image": "https://kano.org.tr/uploads/sup-duyuru.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-08-27T00:00:00+00:00",
+  "first_seen_at": "2026-08-27T20:22:16+00:00",
   "source": "html"
  },
  {
@@ -3440,74 +3515,6 @@
    "hakem"
   ],
   "published_at": "2026-06-27T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "3ba688ab1feaaaba",
-  "federation": "kayak",
-  "federation_name": "Türkiye Kayak Federasyonu",
-  "federation_short": "TKF",
-  "title": "Alp Dı̇sı̇plı̇nı̇ Kayak Öğretı̇cı̇ Kurs Sonuçları",
-  "url": "https://tkf.org.tr/2026/06/26/alp-disiplini-kayak-ogretici-kurs-sonuclari-2/",
-  "summary": "ALP DİSİPLİNİ KAYAK ÖĞRETİCİ KURS SONUÇLARI İndir Bir yanıt yazın Yanıtı iptal et",
-  "image": "https://tkf.org.tr/wp-content/uploads/2024/04/onemli-duyuru_2.jpg",
-  "category": "kurs",
-  "tags": [
-   "kurs"
-  ],
-  "published_at": "2026-06-26T11:31:43+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "161bae652e473320",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "İzmir’de 2. Kademe Temel Antrenör Kursu - Türkiye Triatlon Federasyonu",
-  "url": "https://triatlon.org.tr/i-zmir-de-2-kademe-temel-antrenor-kursu-1525.html",
-  "summary": "Türkiye Triatlon Federasyonu Eğitim Kurulu koordinatörlüğünde düzenlenecek Triatlon 2. Kademe Temel Antrenör Yetiştirme Uygulama Eğitim Kursu İzmir'de yapılacaktır. Gençlik ve Spor Bakanlığı Spor Genel Müdürlüğü bünyesinde gerçekleşecek kursla ilgili programa, istenen belgelere, aranan şartlara ve genel bilgilendirmeye aşağıdaki bağlantılar üzerinden ulaşabilirsiniz. Kurs için ön kayıt işlemleri 26 Haziran - 05 Temmuz 2026 tarihleri arasında yapılacaktır. Genel Bilgilendirme Kurs Programı",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-06-26T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "94cf45e70bd93cdd",
-  "federation": "danssporlari",
-  "federation_name": "Türkiye Dans Sporları Federasyonu",
-  "federation_short": "TDSF",
-  "title": "2026/2 Antrenör Temel Eğitim Sınavı",
-  "url": "https://tdsf.org.tr/haberler/20262-antrenor-temel-egitim-sinavi",
-  "summary": "HIP HOP BATTLE TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI HAKKINDA BREAK DANS TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI SERBEST STİL (HIP HOP) TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI 24 Haziran 2026 SERBEST STİL (DANS ŞOV) TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI 22 Haziran 2026 KARAYİP DANSLAR-SALSA TÜRKİYE ŞAMPİYONASI YARIŞMALARI SPORCU LİSTESİ VE PROGRAMI 22 Hazira",
-  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-baslik-3-1781791525.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-06-26T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "b7663beaf5e2a238",
-  "federation": "danssporlari",
-  "federation_name": "Türkiye Dans Sporları Federasyonu",
-  "federation_short": "TDSF",
-  "title": "Dans Sporlarında Mental Performans ve Psikolojik Dayanıklılık Semineri",
-  "url": "https://tdsf.org.tr/haberler/dans-sporlarinda-mental-performans-ve-psikolojik-dayaniklilik-semineri",
-  "summary": "HIP HOP BATTLE TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI HAKKINDA BREAK DANS TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI SERBEST STİL (HIP HOP) TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI 24 Haziran 2026 SERBEST STİL (DANS ŞOV) TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI 22 Haziran 2026 KARAYİP DANSLAR-SALSA TÜRKİYE ŞAMPİYONASI YARIŞMALARI SPORCU LİSTESİ VE PROGRAMI 22 Hazira",
-  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-seminer-1781770988.jpg",
-  "category": "kurs",
-  "tags": [],
-  "published_at": "2026-06-26T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

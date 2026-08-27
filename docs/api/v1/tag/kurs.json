@@ -1,5 +1,24 @@
 [
  {
+  "id": "50c3562b3c9b4366",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Antrenör Altyapı Vize/Gelişim Semineri Hakkında Duyuru",
+  "url": "https://tvf.org.tr/icerik/antrenor-altyapi-vizegelisim-semineri-hakkinda-duyuru",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "vize"
+  ],
+  "published_at": "2026-08-27T20:22:16+00:00",
+  "first_seen_at": "2026-08-27T20:22:16+00:00",
+  "source": "html"
+ },
+ {
   "id": "ad1c7ba375f705c7",
   "federation": "gelismekteolan",
   "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
@@ -3577,24 +3596,6 @@
    "kurs"
   ],
   "published_at": "2026-02-26T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "e4c7b2320d5acd16",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Mas Güreşi Aday Hakem Telafi Kursu Sınav Sonuçları",
-  "url": "https://www.gsdf.gov.tr/tr/haber/mas-guresi-aday-hakem-telafi-kursu-sinav-sonuclari",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/2ead1950b53a513cc5ce5bba7282e487_mid_r.jpg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-02-25T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

@@ -1,5 +1,42 @@
 [
  {
+  "id": "ad1c7ba375f705c7",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "Hemsball 1. Kademe Yardımcı Antrenör Yetiştirme Kursu 22-27 Eylül 2026 / Denizli",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-472-hemsball-1.-kademe-yardimci-antrenor-yetistirme-kursu-22-27-eylul-2026-denizli",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-08-27T09:31:20+00:00",
+  "first_seen_at": "2026-08-27T09:31:20+00:00",
+  "source": "html"
+ },
+ {
+  "id": "3d4f26ff0bc68906",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Samsun 2.kademe Antrenör Kursu Açılıyor",
+  "url": "https://taf.org.tr/samsun-2-kademe-antrenor-kursu-aciliyor/",
+  "summary": "21-27 Eylül 2026 tarihleri arasında Samsun ilinde 2.Kademe Temel Antrenör Yetiştirme Kursu uygulama eğitimi açılıyor. Başvurular 31 Ağustos 2026 Pazartesi günü saat 10.00‘da başlayacaktır. Ödeme yöntemi, asil listeye hak kazanan kişilere 07 Eylül 2026 Pazartesi günü gönderilecektir. Başvuru duyuru metni ve ödeme yöntemi ekte yer almaktadır. Lütfen inceleyiniz. ÖNEMLİ: Kurs ücretini ödeyen kursiyerlerin, ödeme dekont yada fişlerini kursun ilk […]",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/06/DUYURU-1.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "burs"
+  ],
+  "published_at": "2026-08-26T14:54:24+00:00",
+  "first_seen_at": "2026-08-27T09:31:20+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "ae358762ed27f54f",
   "federation": "dagcilik",
   "federation_name": "Türkiye Dağcılık Federasyonu",
@@ -3742,44 +3779,6 @@
   ],
   "published_at": "2026-08-23T04:25:37+00:00",
   "first_seen_at": "2026-08-23T04:25:37+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "201795fa45c6aad0",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri Tarafından Tutulacak Defter ve Kayıtlar Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39705&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-23T04:25:36+00:00",
-  "first_seen_at": "2026-08-23T04:25:36+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "fa8d93b1ea8e3763",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri ve Spor Anonim Şirketlerinin Borçlanma Sınırlamalarından Muafiyetlerine İlişkin Usul ve Esaslar Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39902&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-23T04:25:36+00:00",
-  "first_seen_at": "2026-08-23T04:25:36+00:00",
   "source": "mevzuat"
  }
 ]

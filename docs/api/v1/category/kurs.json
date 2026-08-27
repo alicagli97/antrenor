@@ -1,5 +1,42 @@
 [
  {
+  "id": "b709ceeee3d69202",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ziraat Türkiye Kupası 1. Eleme Turu Kura Çekimi Bugün Yapılacak",
+  "url": "https://www.tff.org/default.aspx?pageID=267&ftxtID=51213",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "musabaka",
+   "milli_takim",
+   "kulup"
+  ],
+  "published_at": "2026-08-27T09:31:20+00:00",
+  "first_seen_at": "2026-08-27T09:31:20+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ad1c7ba375f705c7",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "Hemsball 1. Kademe Yardımcı Antrenör Yetiştirme Kursu 22-27 Eylül 2026 / Denizli",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-472-hemsball-1.-kademe-yardimci-antrenor-yetistirme-kursu-22-27-eylul-2026-denizli",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-08-27T09:31:20+00:00",
+  "first_seen_at": "2026-08-27T09:31:20+00:00",
+  "source": "html"
+ },
+ {
   "id": "7619a07cec458b1c",
   "federation": "sualti",
   "federation_name": "Türkiye Sualtı Sporları Federasyonu",
@@ -14,6 +51,25 @@
   ],
   "published_at": "2026-08-26T20:05:32+00:00",
   "first_seen_at": "2026-08-26T23:27:17+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "3d4f26ff0bc68906",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Samsun 2.kademe Antrenör Kursu Açılıyor",
+  "url": "https://taf.org.tr/samsun-2-kademe-antrenor-kursu-aciliyor/",
+  "summary": "21-27 Eylül 2026 tarihleri arasında Samsun ilinde 2.Kademe Temel Antrenör Yetiştirme Kursu uygulama eğitimi açılıyor. Başvurular 31 Ağustos 2026 Pazartesi günü saat 10.00‘da başlayacaktır. Ödeme yöntemi, asil listeye hak kazanan kişilere 07 Eylül 2026 Pazartesi günü gönderilecektir. Başvuru duyuru metni ve ödeme yöntemi ekte yer almaktadır. Lütfen inceleyiniz. ÖNEMLİ: Kurs ücretini ödeyen kursiyerlerin, ödeme dekont yada fişlerini kursun ilk […]",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/06/DUYURU-1.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "burs"
+  ],
+  "published_at": "2026-08-26T14:54:24+00:00",
+  "first_seen_at": "2026-08-27T09:31:20+00:00",
   "source": "wp_json"
  },
  {
@@ -3452,58 +3508,6 @@
   "category": "kurs",
   "tags": [],
   "published_at": "2026-06-26T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "175dda389527aaa7",
-  "federation": "danssporlari",
-  "federation_name": "Türkiye Dans Sporları Federasyonu",
-  "federation_short": "TDSF",
-  "title": "Breakıng Hakem Vize Semineri \"ertelendi!\"",
-  "url": "https://tdsf.org.tr/haberler/breaking-hakem-vize-semineri-ertelendi",
-  "summary": "HIP HOP BATTLE TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI HAKKINDA BREAK DANS TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI SERBEST STİL (HIP HOP) TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI 24 Haziran 2026 SERBEST STİL (DANS ŞOV) TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI 22 Haziran 2026 KARAYİP DANSLAR-SALSA TÜRKİYE ŞAMPİYONASI YARIŞMALARI SPORCU LİSTESİ VE PROGRAMI 22 Hazira",
-  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri1-1781271111.jpg",
-  "category": "kurs",
-  "tags": [
-   "vize",
-   "hakem"
-  ],
-  "published_at": "2026-06-26T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "e730edc7eb297de7",
-  "federation": "yuzme",
-  "federation_name": "Türkiye Yüzme Federasyonu",
-  "federation_short": "TYF",
-  "title": "Türkiye Yüzme Federasyonu 10-11-12 Yaş Ulusal Gelişim Ligi Müsabakası Onlıne Seminer",
-  "url": "https://www.tyf.gov.tr/haber/turkiye-yuzme-federasyonu-10-11-12-yas-ulusal-gelisim-ligi-musabakasi-online-seminer.html",
-  "summary": "",
-  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-06/1466/1782381144_y.jpg",
-  "category": "kurs",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-06-25T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "3450c145ae9e6d58",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Durgunsu Kano Antrenörlük Eğitimleri Sınav Sonuçları",
-  "url": "https://kano.org.tr/durgunsu-kano-antrenorluk-egitimleri-sinav-sonuclari",
-  "summary": ", Perşembe Durgunsu Kano 2. Kademe Antrenör Uygulama Eğitimi (Sakarya / Serdivan, 15-19 Haziran 2026) Durgunsu Kano 3. Kademe Antrenör Uygulama Eğitimi (İstanbul / Fatih, 15-20 Haziran 2026) sınav sonuçları açıklanmıştır",
-  "image": "https://kano.org.tr/uploads/2026/durgunsu-kano/durgunsu-duyuru.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-06-25T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

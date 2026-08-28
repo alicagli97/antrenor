@@ -239,6 +239,24 @@
   "source": "wp_json"
  },
  {
+  "id": "420ab451b48f66f6",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Arjantin Tango Aday Hakem Kursu Açılıyor",
+  "url": "https://tdsf.org.tr/haberler/arjantin-tango-aday-hakem-kursu-aciliyor",
+  "summary": "20 Ağustos 2026 DANS SPORU (LT&STD) 3. KADEME KIDEMLİ ANTRENÖRLÜK UYGULAMA KURSU - ANKARA 20 Ağustos 2026 DANS SPORU (LATİN&STANDART) 2. KADEME TEMEL ANTRENÖRLÜK UYGULAMA KURSU 20 Ağustos 2026 DANS SPORU (LT&STD) 1. KADEME YARDIMCI ANTRENÖRLÜK UYGULAMA KURSU - ANKARA 19 Ağustos 2026 ARJANTİN TANGO HAKEM VİZE SEMİNERİ - 11 EYLÜL 2026 26 Haziran 2026 HIP HOP BATTLE TÜRKİYE ŞAMPİYONASI SPORCU LİSTELE",
+  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-24-08-1787588251.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-08-24T00:00:00+00:00",
+  "first_seen_at": "2026-08-28T05:20:52+00:00",
+  "source": "html"
+ },
+ {
   "id": "2b73740c4031d946",
   "federation": "kano",
   "federation_name": "Türkiye Kano Federasyonu",
@@ -3580,23 +3598,5 @@
   "published_at": "2026-02-26T12:10:58+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "rss"
- },
- {
-  "id": "42dc41d64e7067dc",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Geleneksel Kızak branşımızın 1. Kademe Yardımcı Antrenör Yetiştirme Kursu",
-  "url": "https://www.gsdf.gov.tr/tr/haber/geleneksel-kizak-bransimizin-1.-kademe-yardimci-antrenor-yetistirme-kursu",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/468e0da29682f61d187d264e8dab9539_mid_r.png",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-02-26T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
  }
 ]

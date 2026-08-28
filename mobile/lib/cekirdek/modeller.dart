@@ -241,3 +241,49 @@ class Afis {
         renk: j['renk'] as String? ?? '#E0A33C',
       );
 }
+
+/// Çevrimdışı aramanın tek tip sonucu: duyuru, etkinlik veya belge.
+class AramaSonucu {
+  final String baslik;
+  final String altBilgi;
+  final String url;
+  final AramaTuru tur;
+  final Duyuru? duyuruKaydi;
+  final Etkinlik? etkinlikKaydi;
+
+  const AramaSonucu._({
+    required this.baslik,
+    required this.altBilgi,
+    required this.url,
+    required this.tur,
+    this.duyuruKaydi,
+    this.etkinlikKaydi,
+  });
+
+  factory AramaSonucu.duyuru(Duyuru d) => AramaSonucu._(
+        baslik: d.baslik,
+        altBilgi: d.etiketAdi,
+        url: d.url,
+        tur: AramaTuru.duyuru,
+        duyuruKaydi: d,
+      );
+
+  factory AramaSonucu.etkinlik(Etkinlik e, String federasyon) => AramaSonucu._(
+        baslik: e.ad,
+        altBilgi: [federasyon, e.tarihMetni, e.yer]
+            .where((s) => s.isNotEmpty)
+            .join(' · '),
+        url: '',
+        tur: AramaTuru.etkinlik,
+        etkinlikKaydi: e,
+      );
+
+  factory AramaSonucu.belge(Belge b, String federasyon) => AramaSonucu._(
+        baslik: b.baslik,
+        altBilgi: '$federasyon · ${b.tur.toUpperCase()}',
+        url: b.url,
+        tur: AramaTuru.belge,
+      );
+}
+
+enum AramaTuru { duyuru, etkinlik, belge }

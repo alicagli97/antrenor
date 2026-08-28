@@ -6,6 +6,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 import 'abonelik.dart';
 import 'bildirim.dart';
+import 'depo.dart';
 import 'modeller.dart';
 
 /// Veri kaynağı: GitHub Pages üzerinde yayınlanan statik JSON uçları.
@@ -40,6 +41,14 @@ class Veri extends ChangeNotifier {
   String? hata;
   DateTime? sonGuncelleme;
 
+  /// Veri ağdan değil diskteki kopyadan geldiyse true; arayüz bunu
+  /// kullanıcıya söyler, bayat veriyi taze gibi göstermeyiz.
+  bool cevrimdisi = false;
+  DateTime? onbellekTarihi;
+
+  /// Kullanıcının kaydettiği duyuruların kimlikleri (cihazda saklanır)
+  Set<String> kayitliDuyurular = {};
+
   Map<String, String> _etiketler = {};
 
   Future<void> baslat() async {
@@ -57,12 +66,25 @@ class Veri extends ChangeNotifier {
     notifyListeners();
   }
 
+  /// Ağdan indirir ve diske yazar. Bağlantı yoksa son inen kopyayı döndürür;
+  /// böylece uygulama internetsiz de açılır, akış ve mevzuat okunabilir.
   Future<dynamic> _getir(String yol) async {
-    final yanit = await http
-        .get(Uri.parse('$kok/$yol'))
-        .timeout(const Duration(seconds: 20));
-    if (yanit.statusCode != 200) throw 'HTTP ${yanit.statusCode}';
-    return jsonDecode(utf8.decode(yanit.bodyBytes));
+    try {
+      final yanit = await http
+          .get(Uri.parse('$kok/$yol'))
+          .timeout(const Duration(seconds: 20));
+      if (yanit.statusCode != 200) throw 'HTTP ${yanit.statusCode}';
+      final metin = utf8.decode(yanit.bodyBytes);
+      await Depo.yaz(yol, metin);
+      cevrimdisi = false;
+      return jsonDecode(metin);
+    } catch (_) {
+      final yedek = await Depo.oku(yol);
+      if (yedek == null) rethrow;
+      cevrimdisi = true;
+      onbellekTarihi = await Depo.tarih(yol);
+      return jsonDecode(yedek);
+    }
   }
 
   Future<void> _federasyonlariGetir() async {
@@ -150,7 +172,67 @@ class Veri extends ChangeNotifier {
     koyuTema = kayit.getBool('koyu_tema') ?? true;
     bildirimSoruldu = kayit.getBool('bildirim_soruldu') ?? false;
     pilSoruldu = kayit.getBool('pil_soruldu') ?? false;
+    kayitliDuyurular = await Depo.kayitliKimlikler();
   }
+
+  // --- Kaydedilen duyurular ------------------------------------------------
+
+  bool kayitli(Duyuru d) => kayitliDuyurular.contains(d.id);
+
+  /// Kayıtlıysa çıkarır, değilse ekler. Dönen değer: artık kayıtlı mı?
+  Future<bool> kaydiDegistir(Duyuru d) async {
+    final sonuc = await Depo.kaydiDegistir(d);
+    sonuc ? kayitliDuyurular.add(d.id) : kayitliDuyurular.remove(d.id);
+    notifyListeners();
+    return sonuc;
+  }
+
+  Future<List<Duyuru>> kaydedilenler() => Depo.kaydedilenler();
+
+  /// Çevrimdışı arama: indirilen her şeyin içinde tam metin arar.
+  /// Ağ isteği yapmaz, uçak modunda da çalışır.
+  Future<List<AramaSonucu>> ara(String sorgu) async {
+    final k = _kucult(sorgu.trim());
+    if (k.length < 2) return const [];
+
+    final sonuclar = <AramaSonucu>[];
+
+    for (final d in duyurular) {
+      if (_kucult('${d.baslik} ${d.ozet} ${d.federasyonAdi}').contains(k)) {
+        sonuclar.add(AramaSonucu.duyuru(d));
+      }
+    }
+    for (final liste in _kategoriOnbellegi.values) {
+      for (final d in liste) {
+        if (sonuclar.any((s) => s.duyuruKaydi?.id == d.id)) continue;
+        if (_kucult('${d.baslik} ${d.ozet} ${d.federasyonAdi}').contains(k)) {
+          sonuclar.add(AramaSonucu.duyuru(d));
+        }
+      }
+    }
+    for (final girdi in _fedTakvimi.entries) {
+      for (final e in girdi.value?.etkinlikler ?? const <Etkinlik>[]) {
+        if (_kucult('${e.ad} ${e.yer} ${e.brans}').contains(k)) {
+          sonuclar.add(AramaSonucu.etkinlik(e, etiketAdi(girdi.key)));
+        }
+      }
+    }
+    for (final girdi in _fedMevzuati.entries) {
+      for (final b in girdi.value?.belgeler ?? const <Belge>[]) {
+        if (_kucult(b.baslik).contains(k)) {
+          sonuclar.add(AramaSonucu.belge(b, etiketAdi(girdi.key)));
+        }
+      }
+    }
+    return sonuclar;
+  }
+
+  /// Türkçe'de `I`/`ı` ve `İ`/`i` çiftleri İngilizce kurallarıyla bozuluyor;
+  /// arama "İSTANBUL" ile "istanbul"u eşleştirebilsin diye elle katlıyoruz.
+  static String _kucult(String s) => s
+      .replaceAll('İ', 'i')
+      .replaceAll('I', 'ı')
+      .toLowerCase();
 
   Future<void> takibiDegistir(String slug) async {
     final takipteydi = takipEdilen.contains(slug);

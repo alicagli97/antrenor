@@ -11,7 +11,13 @@ import '../parcalar/erisim.dart';
 class Anasayfa extends StatefulWidget {
   final Veri veri;
   final ValueChanged<String> sekmeyeGit;
-  const Anasayfa({super.key, required this.veri, required this.sekmeyeGit});
+  final VoidCallback aramayaGit;
+  const Anasayfa({
+    super.key,
+    required this.veri,
+    required this.sekmeyeGit,
+    required this.aramayaGit,
+  });
 
   @override
   State<Anasayfa> createState() => _AnasayfaDurumu();
@@ -62,7 +68,10 @@ class _AnasayfaDurumu extends State<Anasayfa> {
       backgroundColor: Renkler.yuzey,
       child: CustomScrollView(
         slivers: [
-          SliverToBoxAdapter(child: _Tepe(veri: veri)),
+          SliverToBoxAdapter(
+              child: _Tepe(veri: veri, aramayaGit: widget.aramayaGit)),
+          if (veri.cevrimdisi)
+            SliverToBoxAdapter(child: _CevrimdisiSeridi(veri: veri)),
           if (veri.afis.aktif)
             SliverToBoxAdapter(
               child: _AfisKarti(
@@ -106,7 +115,8 @@ class _AnasayfaDurumu extends State<Anasayfa> {
 /// Üst blok: marka, güncellik ve günün sayıları
 class _Tepe extends StatelessWidget {
   final Veri veri;
-  const _Tepe({required this.veri});
+  final VoidCallback aramayaGit;
+  const _Tepe({required this.veri, required this.aramayaGit});
 
   @override
   Widget build(BuildContext context) {
@@ -141,6 +151,11 @@ class _Tepe extends StatelessWidget {
                     ),
                   ],
                 ),
+              ),
+              IconButton(
+                tooltip: 'Ara',
+                icon: Icon(Icons.search, color: Renkler.metinIkincil),
+                onPressed: aramayaGit,
               ),
               if (veri.sonGuncelleme != null)
                 Container(
@@ -390,4 +405,45 @@ class _SuzgecSeridi extends SliverPersistentHeaderDelegate {
 
   @override
   bool shouldRebuild(covariant _SuzgecSeridi eski) => eski.secili != secili;
+}
+
+/// Veri diskteki kopyadan geliyorsa dürüstçe söyler: kullanıcı bayat
+/// bilgiyle kurs başvurusu kaçırmasın.
+class _CevrimdisiSeridi extends StatelessWidget {
+  final Veri veri;
+  const _CevrimdisiSeridi({required this.veri});
+
+  @override
+  Widget build(BuildContext context) {
+    final t = veri.onbellekTarihi;
+    final ne = t == null
+        ? 'kayıtlı kopya'
+        : '${t.day.toString().padLeft(2, '0')}.'
+            '${t.month.toString().padLeft(2, '0')} '
+            '${t.hour.toString().padLeft(2, '0')}:'
+            '${t.minute.toString().padLeft(2, '0')} kopyası';
+
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(Olcu.kenar, 0, Olcu.kenar, 12),
+      child: Container(
+        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+        decoration: BoxDecoration(
+          color: Renkler.mevzuat.withValues(alpha: 0.10),
+          borderRadius: BorderRadius.circular(10),
+          border: Border.all(color: Renkler.mevzuat.withValues(alpha: 0.28)),
+        ),
+        child: Row(children: [
+          Icon(Icons.cloud_off, size: 17, color: Renkler.mevzuat),
+          const SizedBox(width: 10),
+          Expanded(
+            child: Text(
+              'Çevrimdışısınız — $ne gösteriliyor',
+              style: TextStyle(
+                  color: Renkler.metinIkincil, fontSize: 12.5, height: 1.35),
+            ),
+          ),
+        ]),
+      ),
+    );
+  }
 }

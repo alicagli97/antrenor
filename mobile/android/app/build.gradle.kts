@@ -26,6 +26,9 @@ android {
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
+        // flutter_local_notifications, eski Android surumlerinde java.time
+        // kullanabilmek icin bunu sart kosuyor
+        isCoreLibraryDesugaringEnabled = true
     }
 
     defaultConfig {
@@ -72,6 +75,7 @@ dependencies {
     // R8 ile birlikte acilista "Failed to create an instance of WorkDatabase"
     // hatasi veriyor. Guncel surum zorlanarak cozuluyor.
     implementation("androidx.work:work-runtime:2.10.0")
+    coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.5")
 }
 
 kotlin {

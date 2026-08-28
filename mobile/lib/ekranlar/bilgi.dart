@@ -9,7 +9,12 @@ import '../cekirdek/veri.dart';
 ///
 /// İki ayrı kategori var — talimat/yönetmelik ve oyun kuralları — çünkü
 /// antrenörün aradığı şey genelde ikisinden biri, karışık liste işe yaramıyor.
-/// Belgeler günlük olarak parmak iziyle denetleniyor; son kontrolde değişen
+///
+/// Belgeler federasyona göre kümelenir ve kümeler kapalı açılır: 1.400 belge
+/// düz liste hâlinde okunmuyordu. Arama yapılınca eşleşen kümeler kendiliğinden
+/// açılır.
+///
+/// Belgeler her gün parmak iziyle denetleniyor; son kontrolde değişen
 /// federasyonlar "güncellendi" rozetiyle işaretli.
 class BilgiEkrani extends StatefulWidget {
   final Veri veri;
@@ -26,6 +31,9 @@ class _BilgiEkraniDurumu extends State<BilgiEkrani>
 
   MevzuatDeposu? _depo;
   String _sorgu = '';
+
+  /// Elle açılmış kümeler. Arama sırasında hepsi zaten açık sayılır.
+  final Set<String> _acik = {};
 
   @override
   void initState() {
@@ -45,40 +53,45 @@ class _BilgiEkraniDurumu extends State<BilgiEkrani>
     if (mounted) setState(() => _depo = d);
   }
 
+  bool get _araniyor => _sorgu.trim().length >= 2;
+
   /// Türkçe I/i çiftini elle katlıyoruz; aksi hâlde "İZİN" ile "izin"
   /// eşleşmiyor.
   static String _kucult(String s) =>
       s.replaceAll('İ', 'i').replaceAll('I', 'ı').toLowerCase();
 
-  List<_Kayit> _liste({required bool oyunKurali}) {
+  List<_Grup> _gruplar({required bool oyunKurali}) {
     final d = _depo;
     if (d == null) return const [];
     final k = _kucult(_sorgu.trim());
 
-    final cikti = <_Kayit>[];
+    final gruplar = <_Grup>[];
     for (final kut in d.kutuphaneler) {
       final ad = kut.kisaAd.isNotEmpty ? kut.kisaAd : kut.federasyonAdi;
+      final fedUyuyor = _araniyor && _kucult(ad).contains(k);
+
+      final belgeler = <Belge>[];
       for (final b in kut.belgeler) {
         if (oyunKuraliMi(b) != oyunKurali) continue;
-        if (k.length >= 2 &&
-            !_kucult('${b.baslik} $ad').contains(k)) {
-          continue;
-        }
-        cikti.add(_Kayit(
-          belge: b,
-          federasyon: ad,
-          slug: kut.federasyon,
-          degisti: d.degisenler.contains(kut.federasyon),
-        ));
+        // Federasyon adı eşleşiyorsa o kümenin tamamı gösterilir
+        if (_araniyor && !fedUyuyor && !_kucult(b.baslik).contains(k)) continue;
+        belgeler.add(b);
       }
+      if (belgeler.isEmpty) continue;
+
+      // Antrenoru ilgilendirenler kumenin basinda
+      belgeler.sort((a, b) =>
+          (a.antrenorIcin ? 0 : 1) - (b.antrenorIcin ? 0 : 1));
+
+      gruplar.add(_Grup(
+        ad: ad,
+        slug: kut.federasyon,
+        degisti: d.degisenler.contains(kut.federasyon),
+        belgeler: belgeler,
+      ));
     }
-    // Antrenoru ilgilendirenler basa, sonra federasyon adina gore
-    cikti.sort((a, b) {
-      final fark = (a.belge.antrenorIcin ? 0 : 1) - (b.belge.antrenorIcin ? 0 : 1);
-      if (fark != 0) return fark;
-      return a.federasyon.compareTo(b.federasyon);
-    });
-    return cikti;
+    gruplar.sort((a, b) => a.ad.compareTo(b.ad));
+    return gruplar;
   }
 
   @override
@@ -138,21 +151,21 @@ class _BilgiEkraniDurumu extends State<BilgiEkrani>
           child: TabBarView(
             controller: _sekme,
             children: [
-              _belgeler(_liste(oyunKurali: false), 'talimat ve yönetmelik'),
-              _belgeler(_liste(oyunKurali: true), 'oyun kuralı'),
+              _kumeler(_gruplar(oyunKurali: false), 'talimat ve yönetmelik'),
+              _kumeler(_gruplar(oyunKurali: true), 'oyun kuralı'),
             ],
           ),
         ),
     ]);
   }
 
-  Widget _belgeler(List<_Kayit> kayitlar, String tur) {
-    if (kayitlar.isEmpty) {
+  Widget _kumeler(List<_Grup> gruplar, String tur) {
+    if (gruplar.isEmpty) {
       return Center(
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 40),
           child: Text(
-            _sorgu.trim().length >= 2
+            _araniyor
                 ? 'Aramanıza uyan $tur belgesi yok.'
                 : 'Henüz $tur belgesi indirilmedi.',
             textAlign: TextAlign.center,
@@ -163,103 +176,183 @@ class _BilgiEkraniDurumu extends State<BilgiEkrani>
       );
     }
 
+    final toplam =
+        gruplar.fold<int>(0, (t, g) => t + g.belgeler.length);
+
     return ListView.builder(
       padding: const EdgeInsets.fromLTRB(Olcu.kenar, 10, Olcu.kenar, 28),
-      itemCount: kayitlar.length + 1,
+      itemCount: gruplar.length + 1,
       itemBuilder: (c, i) {
         if (i == 0) {
           return Padding(
-            padding: const EdgeInsets.only(bottom: 8),
-            child: Text('${kayitlar.length} belge', style: Yazi.kucuk),
+            padding: const EdgeInsets.only(bottom: 10),
+            child: Text(
+                '${gruplar.length} federasyon · $toplam belge',
+                style: Yazi.kucuk),
           );
         }
-        return _BelgeSatiri(kayit: kayitlar[i - 1]);
+        final g = gruplar[i - 1];
+        return _Kume(
+          grup: g,
+          acik: _araniyor || _acik.contains(g.slug),
+          degistir: () => setState(() {
+            _acik.contains(g.slug) ? _acik.remove(g.slug) : _acik.add(g.slug);
+          }),
+        );
       },
     );
   }
 }
 
-class _Kayit {
-  final Belge belge;
-  final String federasyon;
+class _Grup {
+  final String ad;
   final String slug;
   final bool degisti;
+  final List<Belge> belgeler;
 
-  const _Kayit({
-    required this.belge,
-    required this.federasyon,
+  const _Grup({
+    required this.ad,
     required this.slug,
     required this.degisti,
+    required this.belgeler,
   });
+
+  int get antrenorSayisi => belgeler.where((b) => b.antrenorIcin).length;
 }
 
-class _BelgeSatiri extends StatelessWidget {
-  final _Kayit kayit;
-  const _BelgeSatiri({required this.kayit});
+/// Federasyon kümesi: başlığa dokununca belgeler açılır.
+class _Kume extends StatelessWidget {
+  final _Grup grup;
+  final bool acik;
+  final VoidCallback degistir;
+
+  const _Kume({
+    required this.grup,
+    required this.acik,
+    required this.degistir,
+  });
 
   @override
   Widget build(BuildContext context) {
-    final b = kayit.belge;
     return Padding(
       padding: const EdgeInsets.only(bottom: 8),
-      child: Material(
-        color: Renkler.yuzey,
-        borderRadius: BorderRadius.circular(10),
-        child: InkWell(
-          borderRadius: BorderRadius.circular(10),
-          onTap: () => Baglanti.ac(context, b.url),
-          child: Container(
-            padding: const EdgeInsets.symmetric(horizontal: 13, vertical: 12),
-            decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(10),
-              border: Border.all(color: Renkler.cizgi),
-            ),
-            child: Row(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Padding(
-                  padding: const EdgeInsets.only(top: 2),
-                  child: Icon(
-                    b.tur == 'pdf'
-                        ? Icons.picture_as_pdf_outlined
-                        : Icons.description_outlined,
-                    size: 18,
-                    color: b.antrenorIcin ? Renkler.kurs : Renkler.mevzuat,
+      child: Container(
+        decoration: BoxDecoration(
+          color: Renkler.yuzey,
+          borderRadius: BorderRadius.circular(12),
+          border: Border.all(
+              color: acik ? Renkler.cizgiParlak : Renkler.cizgi),
+        ),
+        child: Column(children: [
+          Material(
+            color: Colors.transparent,
+            child: InkWell(
+              borderRadius: BorderRadius.circular(12),
+              onTap: degistir,
+              child: Padding(
+                padding:
+                    const EdgeInsets.symmetric(horizontal: 14, vertical: 13),
+                child: Row(children: [
+                  Icon(
+                    acik ? Icons.folder_open : Icons.folder_outlined,
+                    size: 19,
+                    color: Renkler.mevzuat,
                   ),
-                ),
-                const SizedBox(width: 11),
-                Expanded(
-                  child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text(b.baslik,
-                          maxLines: 3,
-                          overflow: TextOverflow.ellipsis,
-                          style: Yazi.kartBaslik),
-                      const SizedBox(height: 4),
-                      Row(children: [
-                        Flexible(
-                          child: Text(kayit.federasyon,
-                              maxLines: 1,
-                              overflow: TextOverflow.ellipsis,
-                              style: Yazi.kucuk),
+                  const SizedBox(width: 11),
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Row(children: [
+                          Flexible(
+                            child: Text(grup.ad,
+                                maxLines: 1,
+                                overflow: TextOverflow.ellipsis,
+                                style: Yazi.kartBaslik),
+                          ),
+                          if (grup.degisti) ...[
+                            const SizedBox(width: 7),
+                            _Rozet(
+                                metin: 'GÜNCELLENDİ', renk: Renkler.takvim),
+                          ],
+                        ]),
+                        const SizedBox(height: 3),
+                        Text(
+                          grup.antrenorSayisi > 0
+                              ? '${grup.belgeler.length} belge · '
+                                  '${grup.antrenorSayisi} antrenör belgesi'
+                              : '${grup.belgeler.length} belge',
+                          style: Yazi.kucuk,
                         ),
-                        if (b.antrenorIcin) ...[
-                          const SizedBox(width: 8),
-                          _Rozet(metin: 'ANTRENÖR', renk: Renkler.kurs),
-                        ],
-                        if (kayit.degisti) ...[
-                          const SizedBox(width: 6),
-                          _Rozet(metin: 'GÜNCELLENDİ', renk: Renkler.takvim),
-                        ],
-                      ]),
-                    ],
+                      ],
+                    ),
+                  ),
+                  Icon(acik ? Icons.expand_less : Icons.expand_more,
+                      size: 20, color: Renkler.metinSolgun),
+                ]),
+              ),
+            ),
+          ),
+          if (acik)
+            Padding(
+              padding: const EdgeInsets.fromLTRB(10, 0, 10, 8),
+              child: Column(
+                children: [
+                  for (final b in grup.belgeler) _BelgeSatiri(belge: b),
+                ],
+              ),
+            ),
+        ]),
+      ),
+    );
+  }
+}
+
+class _BelgeSatiri extends StatelessWidget {
+  final Belge belge;
+  const _BelgeSatiri({required this.belge});
+
+  @override
+  Widget build(BuildContext context) {
+    return Material(
+      color: Colors.transparent,
+      child: InkWell(
+        borderRadius: BorderRadius.circular(8),
+        onTap: () => Baglanti.ac(context, belge.url),
+        child: Padding(
+          padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 9),
+          child: Row(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Padding(
+                padding: const EdgeInsets.only(top: 1),
+                child: Icon(
+                  belge.tur == 'pdf'
+                      ? Icons.picture_as_pdf_outlined
+                      : Icons.description_outlined,
+                  size: 16,
+                  color:
+                      belge.antrenorIcin ? Renkler.kurs : Renkler.metinSolgun,
+                ),
+              ),
+              const SizedBox(width: 10),
+              Expanded(
+                child: Text(
+                  belge.baslik,
+                  maxLines: 3,
+                  overflow: TextOverflow.ellipsis,
+                  style: TextStyle(
+                    color: Renkler.metinIkincil,
+                    fontSize: 13.5,
+                    height: 1.35,
+                    fontWeight:
+                        belge.antrenorIcin ? FontWeight.w600 : FontWeight.w400,
                   ),
                 ),
-                const SizedBox(width: 6),
-                Icon(Icons.open_in_new, size: 15, color: Renkler.metinSolgun),
-              ],
-            ),
+              ),
+              const SizedBox(width: 6),
+              Icon(Icons.open_in_new, size: 14, color: Renkler.metinSolgun),
+            ],
           ),
         ),
       ),

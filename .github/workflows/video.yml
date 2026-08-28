@@ -13,7 +13,7 @@ on:
       cihaz:
         description: "Simulator modeli"
         type: string
-        default: "iPhone 16 Pro"
+        default: "iPhone 16 Pro Max"
 
 jobs:
   kaydet:
@@ -60,6 +60,12 @@ jobs:
           # Durum cubugu videoda derli toplu gorunsun
           xcrun simctl status_bar "$UDID" override --time "09:41" --batteryState charged --batteryLevel 100 --cellularMode active --cellularBars 4 --wifiBars 3 || true
 
+      # Derleme yedi dakika suruyor; kayit once baslarsa videonun tamami
+      # bos ana ekran oluyor. Once derleyip sonra kaydediyoruz.
+      - name: Uygulamayi onceden derle
+        working-directory: mobile
+        run: flutter build ios --simulator --debug --dart-define=TEST_PREMIUM=true
+
       - name: Ekran kaydini baslat
         run: |
           xcrun simctl io ${{ steps.simulator.outputs.udid }} recordVideo --codec h264 --force tanitim.mp4 &
@@ -88,6 +94,25 @@ jobs:
             sleep 8
           fi
           ls -lh tanitim.mp4 || echo "video uretilemedi"
+
+      - name: Video karelerini cikar
+        if: always()
+        continue-on-error: true
+        run: |
+          # 1290x2796 kareler dogrudan App Store gorseli olarak kullanilabilir
+          mkdir -p kareler
+          ffmpeg -hide_banner -loglevel error -i tanitim.mp4             -vf fps=1/2 kareler/kare_%03d.png
+          ls kareler | head -40
+          echo "kare sayisi: $(ls kareler | wc -l)"
+
+      - name: Kareleri sakla
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: video-kareleri
+          path: kareler/
+          if-no-files-found: warn
+          retention-days: 14
 
       - name: Videoyu sakla
         if: always()

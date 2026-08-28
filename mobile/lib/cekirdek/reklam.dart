@@ -10,7 +10,9 @@ import 'package:google_mobile_ads/google_mobile_ads.dart';
 /// reklam sunucusuna ulaşılamadığı için uygulamanın kilitlenmesi hem kullanıcı
 /// için hem de mağaza incelemesi için kabul edilemez.
 class Reklam {
-  /// Yayın kimliği: pub-4393007832677575
+  /// Yayın kimliği: pub-2714712901713521 (alicagli97 — onaylı hesap).
+  /// Onceki pub-4393007832677575 hesabinin basvurusu reddedildi:
+  /// Google kisi basina tek AdSense/AdMob hesabi veriyor.
   ///
   /// [testModu] açıkken Google'ın resmî test birimleri kullanılır: gerçek
   /// reklam gösterilmez, geçersiz tıklama sayılmaz, hesap kapanma riski olmaz.
@@ -21,8 +23,8 @@ class Reklam {
   static const _testOdulluAndroid = 'ca-app-pub-3940256099942544/5224354917';
   static const _testOdulluIos = 'ca-app-pub-3940256099942544/1712485313';
   static const _gercekOdulluAndroid =
-      'ca-app-pub-4393007832677575/4879838845';
-  static const _gercekOdulluIos = 'ca-app-pub-4393007832677575/6168869788';
+      'ca-app-pub-2714712901713521/3795282457';
+  static const _gercekOdulluIos = 'ca-app-pub-2714712901713521/2405239819';
 
   /// Gerçek reklamlara geçildikten sonra geliştirme/test telefonlarının
   /// kimlikleri buraya yazılır; bu cihazlara test reklamı gider ve gösterim

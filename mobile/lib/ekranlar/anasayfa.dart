@@ -2,10 +2,12 @@ import 'package:flutter/material.dart';
 
 import '../cekirdek/baglanti.dart';
 import '../cekirdek/modeller.dart';
+import '../cekirdek/profil.dart';
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
 import '../parcalar/duyuru_karti.dart';
 import '../parcalar/erisim.dart';
+import 'vize.dart';
 
 /// Anasayfa: günün özeti, sunucudan yönetilen afiş ve duyuru akışı.
 class Anasayfa extends StatefulWidget {
@@ -72,6 +74,7 @@ class _AnasayfaDurumu extends State<Anasayfa> {
               child: _Tepe(veri: veri, aramayaGit: widget.aramayaGit)),
           if (veri.cevrimdisi)
             SliverToBoxAdapter(child: _CevrimdisiSeridi(veri: veri)),
+          SliverToBoxAdapter(child: _VizeKarti(veri: veri)),
           if (veri.afis.aktif)
             SliverToBoxAdapter(
               child: _AfisKarti(
@@ -443,6 +446,126 @@ class _CevrimdisiSeridi extends StatelessWidget {
             ),
           ),
         ]),
+      ),
+    );
+  }
+}
+
+/// Uygulamanin kullaniciya ozel tek karti: vize geri sayimi.
+///
+/// Akisin en ustunde duruyor. Kurulu degilse cagri, kuruluysa kalan gun.
+class _VizeKarti extends StatefulWidget {
+  final Veri veri;
+  const _VizeKarti({required this.veri});
+
+  @override
+  State<_VizeKarti> createState() => _VizeKartiDurumu();
+}
+
+class _VizeKartiDurumu extends State<_VizeKarti> {
+  final _profil = Profil.ornek;
+
+  @override
+  void initState() {
+    super.initState();
+    _profil.addListener(_yenile);
+  }
+
+  void _yenile() => mounted ? setState(() {}) : null;
+
+  @override
+  void dispose() {
+    _profil.removeListener(_yenile);
+    super.dispose();
+  }
+
+  Future<void> _ac() async {
+    await Navigator.of(context).push(MaterialPageRoute(
+        builder: (_) => VizeEkrani(veri: widget.veri)));
+    if (mounted) setState(() {});
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    final kurulu = _profil.kurulu;
+    final kalan = _profil.kalanGun;
+    final renk = switch (_profil.durum) {
+      VizeDurumu.gecti || VizeDurumu.acil => Renkler.musabaka,
+      VizeDurumu.yaklasiyor => Renkler.kurs,
+      VizeDurumu.rahat => Renkler.takvim,
+      VizeDurumu.bilinmiyor => Renkler.kurs,
+    };
+
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(Olcu.kenar, 0, Olcu.kenar, 12),
+      child: Material(
+        color: renk.withValues(alpha: 0.10),
+        borderRadius: BorderRadius.circular(Olcu.kartYaricap),
+        child: InkWell(
+          borderRadius: BorderRadius.circular(Olcu.kartYaricap),
+          onTap: _ac,
+          child: Container(
+            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 15),
+            decoration: BoxDecoration(
+              borderRadius: BorderRadius.circular(Olcu.kartYaricap),
+              border: Border.all(color: renk.withValues(alpha: 0.32)),
+            ),
+            child: Row(children: [
+              if (kurulu) ...[
+                Column(
+                  crossAxisAlignment: CrossAxisAlignment.center,
+                  children: [
+                    Text(
+                      kalan! < 0 ? '${-kalan}' : '$kalan',
+                      style: TextStyle(
+                          color: renk,
+                          fontSize: 30,
+                          height: 1,
+                          fontWeight: FontWeight.w800,
+                          fontFamily: Yazi.aile),
+                    ),
+                    const SizedBox(height: 2),
+                    Text(kalan < 0 ? 'gün geçti' : 'gün',
+                        style: TextStyle(
+                            color: Renkler.metinSolgun, fontSize: 10.5)),
+                  ],
+                ),
+                const SizedBox(width: 16),
+              ] else ...[
+                Icon(Icons.badge_outlined, size: 24, color: renk),
+                const SizedBox(width: 14),
+              ],
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      kurulu ? 'Vize Takibim' : 'Vizeni takip edelim',
+                      style: TextStyle(
+                          color: renk,
+                          fontSize: 14,
+                          fontWeight: FontWeight.w700),
+                    ),
+                    const SizedBox(height: 4),
+                    Text(
+                      kurulu
+                          ? 'Branşındaki kurs ve vize duyuruları burada; '
+                              'son güne kala hatırlatılacak.'
+                          : 'Branşını ve vize tarihini gir; geri sayımı '
+                              'tutalım, son güne kala hatırlatalım.',
+                      style: TextStyle(
+                          color: Renkler.metinIkincil,
+                          fontSize: 12.5,
+                          height: 1.4),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(width: 8),
+              Icon(Icons.chevron_right, size: 20, color: renk),
+            ]),
+          ),
+        ),
       ),
     );
   }

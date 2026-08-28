@@ -6,6 +6,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'cekirdek/abonelik.dart';
 import 'cekirdek/bildirim.dart';
 import 'cekirdek/hatirlatici.dart';
+import 'cekirdek/profil.dart';
 import 'cekirdek/reklam.dart';
 import 'cekirdek/tema.dart';
 import 'cekirdek/veri.dart';
@@ -60,6 +61,7 @@ class _AntrenorUygulamasiDurumu extends State<AntrenorUygulamasi> {
     await Bildirim.baslat();
     // Yerel hatirlatmalar: ucuz, sunucuya bagli degil
     await Hatirlatici.baslat();
+    await Profil.ornek.yukle();
     await _veriHazir;
     await Bildirim.esitle(_veri.takipEdilen);
 

@@ -67,7 +67,7 @@
 			<string>UIInterfaceOrientationLandscapeRight</string>
 		</array>
 		<key>GADApplicationIdentifier</key>
-		<string>ca-app-pub-4393007832677575~3821857717</string>
+		<string>ca-app-pub-2714712901713521~6821785526</string>
 		<key>SKAdNetworkItems</key>
 		<array>
 			<dict>
@@ -277,6 +277,12 @@
 		<array>
 			<string>remote-notification</string>
 		</array>
+		<!-- Etkinligi kullanicinin kendi takvimine yazmak icin; uygulama
+		     takvimi okumaz, yalnizca sistem ekranini onceden doldurur -->
+		<key>NSCalendarsUsageDescription</key>
+		<string>Federasyon etkinliklerini takviminize eklemek için kullanılır.</string>
+		<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
+		<string>Federasyon etkinliklerini takviminize eklemek için kullanılır.</string>
 		<key>UIStatusBarHidden</key>
 		<false/>
 	</dict>

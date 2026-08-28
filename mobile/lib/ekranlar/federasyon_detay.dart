@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../cekirdek/baglanti.dart';
 import '../cekirdek/modeller.dart';
+import '../cekirdek/takvime.dart';
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
 import '../parcalar/bildirim_istegi.dart';
@@ -209,11 +210,29 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
                         ],
                       ),
                     ),
+                    IconButton(
+                      tooltip: 'Telefon takvimine ekle',
+                      icon: Icon(Icons.event_available,
+                          size: 19, color: Renkler.metinSolgun),
+                      onPressed: () => _takvimeEkle(e),
+                    ),
                   ],
                 ),
               )),
       ],
     );
+  }
+
+  /// Etkinliği telefonun kendi takvimine yazar; onay sistem ekranında verilir.
+  Future<void> _takvimeEkle(Etkinlik e) async {
+    final eklendi =
+        await Takvime.etkinlikEkle(e, kaynak: widget.federasyon.ad);
+    if (!mounted) return;
+    if (!eklendi) {
+      ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+        content: Text('Takvim uygulaması açılamadı'),
+      ));
+    }
   }
 
   Widget _belgeListesi(List<Belge> belgeler, String bosMesaj) {

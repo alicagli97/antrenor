@@ -1,16 +1,20 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
 
 import 'cekirdek/abonelik.dart';
 import 'cekirdek/bildirim.dart';
+import 'cekirdek/hatirlatici.dart';
 import 'cekirdek/reklam.dart';
 import 'cekirdek/tema.dart';
 import 'cekirdek/veri.dart';
 import 'ekranlar/anasayfa.dart';
+import 'ekranlar/arama.dart';
 import 'ekranlar/ayarlar.dart';
 import 'ekranlar/bildirimler.dart';
 import 'ekranlar/federasyonlar.dart';
+import 'ekranlar/kaydedilenler.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -54,6 +58,8 @@ class _AntrenorUygulamasiDurumu extends State<AntrenorUygulamasi> {
   /// saniyelerce kilitleniyor ve uygulama donuyordu.
   Future<void> _altyapiyiBaslat() async {
     await Bildirim.baslat();
+    // Yerel hatirlatmalar: ucuz, sunucuya bagli degil
+    await Hatirlatici.baslat();
     await _veriHazir;
     await Bildirim.esitle(_veri.takipEdilen);
 
@@ -123,12 +129,19 @@ class _AntrenorUygulamasiDurumu extends State<AntrenorUygulamasi> {
       scaffoldMessengerKey: _mesajAnahtari,
       debugShowCheckedModeBanner: false,
       theme: antrenorTemasi(),
+      locale: const Locale('tr', 'TR'),
+      supportedLocales: const [Locale('tr', 'TR'), Locale('en', 'US')],
+      localizationsDelegates: const [
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+      ],
       home: AnaKabuk(veri: _veri),
     );
   }
 }
 
-/// Dört sekme: Anasayfa · Federasyonlar · Bildirimler · Ayarlar
+/// Beş sekme: Anasayfa · Federasyonlar · Bildirimler · Kayıtlar · Ayarlar
 /// Üstte ayrı bir başlık çubuğu yok; her ekran kendi başlığını taşır ve
 /// kaydırınca kaybolur, böylece tek menü hissi korunur.
 class AnaKabuk extends StatefulWidget {
@@ -164,11 +177,15 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
     final indeks = switch (hedef) {
       'federasyonlar' => 1,
       'bildirimler' => 2,
-      'ayarlar' => 3,
+      'kayitlar' => 3,
+      'ayarlar' => 4,
       _ => 0,
     };
     setState(() => _sekme = indeks);
   }
+
+  void _aramayaGit() => Navigator.of(context).push(
+      MaterialPageRoute(builder: (_) => AramaEkrani(veri: _veri)));
 
   @override
   Widget build(BuildContext context) {
@@ -177,7 +194,16 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
       // sade bir başlık yeterli
       appBar: _sekme == 0
           ? null
-          : AppBar(title: Text(_baslik(_sekme))),
+          : AppBar(
+              title: Text(_baslik(_sekme)),
+              actions: [
+                IconButton(
+                  tooltip: 'Ara',
+                  icon: const Icon(Icons.search),
+                  onPressed: _aramayaGit,
+                ),
+              ],
+            ),
       body: SafeArea(child: _govde()),
       bottomNavigationBar: NavigationBar(
         selectedIndex: _sekme,
@@ -196,6 +222,10 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
               selectedIcon: Icon(Icons.notifications),
               label: 'Bildirimler'),
           NavigationDestination(
+              icon: Icon(Icons.bookmark_border),
+              selectedIcon: Icon(Icons.bookmark),
+              label: 'Kayıtlar'),
+          NavigationDestination(
               icon: Icon(Icons.settings_outlined),
               selectedIcon: Icon(Icons.settings),
               label: 'Ayarlar'),
@@ -207,6 +237,7 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
   static String _baslik(int sekme) => switch (sekme) {
         1 => 'Federasyonlar',
         2 => 'Bildirimler',
+        3 => 'Kayıtlar',
         _ => 'Ayarlar',
       };
 
@@ -218,10 +249,12 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
       return _HataDurumu(mesaj: _veri.hata!, tekrar: _veri.baslat);
     }
     return switch (_sekme) {
-      0 => Anasayfa(veri: _veri, sekmeyeGit: _sekmeyeGit),
+      0 => Anasayfa(
+          veri: _veri, sekmeyeGit: _sekmeyeGit, aramayaGit: _aramayaGit),
       1 => FederasyonlarEkrani(veri: _veri),
       2 => BildirimlerEkrani(
           veri: _veri, federasyonlaraGit: () => _sekmeyeGit('federasyonlar')),
+      3 => KaydedilenlerEkrani(veri: _veri),
       _ => AyarlarEkrani(
           veri: _veri, federasyonlaraGit: () => _sekmeyeGit('federasyonlar')),
     };

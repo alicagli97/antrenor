@@ -1,0 +1,108 @@
+# App Review icin tanitim videosu uretir.
+#
+# iOS simulatoru yalnizca macOS'ta calisiyor, gelistirme makinesi Windows.
+# Bu is akisi GitHub'in Mac makinesinde bir iPhone simulatoru acar,
+# uygulamayi otomatik gezer (integration_test) ve ekrani kaydeder.
+#
+# Cikti: is akisinin "Artifacts" bolumunde tanitim.mp4
+name: Tanitim videosu
+
+on:
+  workflow_dispatch:
+    inputs:
+      cihaz:
+        description: "Simulator modeli"
+        type: string
+        default: "iPhone 16 Pro"
+
+jobs:
+  kaydet:
+    runs-on: macos-26
+    timeout-minutes: 45
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: En yeni Xcode'u sec
+        run: |
+          EN_YENI=$(ls -d /Applications/Xcode*.app | sort -V | tail -1)
+          sudo xcode-select -s "$EN_YENI"
+          xcodebuild -version
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Bagimliliklar
+        working-directory: mobile
+        run: flutter pub get
+
+      - name: Simulatoru ac
+        id: simulator
+        env:
+          CIHAZ: ${{ inputs.cihaz }}
+        run: |
+          xcrun simctl list devices available | head -40
+          # Istenen model yoksa mevcut ilk iPhone'a duselim
+          UDID=$(xcrun simctl list devices available -j \
+            | python3 -c "
+import json,sys,os
+istek = os.environ['CIHAZ']
+veri = json.load(sys.stdin)['devices']
+hepsi = [c for liste in veri.values() for c in liste]
+for c in hepsi:
+    if c['name'] == istek:
+        print(c['udid']); break
+else:
+    for c in hepsi:
+        if c['name'].startswith('iPhone'):
+            print(c['udid']); break
+")
+          echo "secilen simulator: $UDID"
+          echo "udid=$UDID" >> "$GITHUB_OUTPUT"
+          xcrun simctl boot "$UDID" || true
+          xcrun simctl bootstatus "$UDID" -b
+          # Durum cubugu videoda derli toplu gorunsun
+          xcrun simctl status_bar "$UDID" override \
+            --time "09:41" --batteryState charged --batteryLevel 100 \
+            --cellularMode active --cellularBars 4 --wifiBars 3 || true
+
+      - name: Ekran kaydini baslat
+        run: |
+          xcrun simctl io ${{ steps.simulator.outputs.udid }} recordVideo \
+            --codec h264 --force tanitim.mp4 &
+          echo $! > kayit.pid
+          sleep 3
+
+      # TEST_PREMIUM: odullu reklam kapisi turu kesmesin; amac yerel
+      # islevleri gostermek, reklam akisini degil
+      - name: Tanitim turunu calistir
+        working-directory: mobile
+        continue-on-error: true
+        run: |
+          flutter drive \
+            --driver=test_driver/integration_test.dart \
+            --target=integration_test/tanitim_test.dart \
+            -d ${{ steps.simulator.outputs.udid }} \
+            --dart-define=TEST_PREMIUM=true \
+            --no-pub
+
+      - name: Kaydi durdur
+        if: always()
+        run: |
+          if [ -f kayit.pid ]; then
+            kill -INT "$(cat kayit.pid)" || true
+            # simctl dosyayi kapatirken biraz zaman istiyor
+            sleep 8
+          fi
+          ls -lh tanitim.mp4 || echo "video uretilemedi"
+
+      - name: Videoyu sakla
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tanitim-videosu
+          path: tanitim.mp4
+          if-no-files-found: warn
+          retention-days: 14

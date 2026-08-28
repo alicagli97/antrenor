@@ -287,3 +287,76 @@ class AramaSonucu {
 }
 
 enum AramaTuru { duyuru, etkinlik, belge }
+
+/// Bilgi Deposu: 65 federasyonun mevzuat ve oyun kuralları belgeleri tek
+/// uçtan (rules.json) gelir. Federasyon federasyon indirmek 49 istek
+/// demekti; toplu uç tek istekle iniyor ve çevrimdışı saklanabiliyor.
+class MevzuatDeposu {
+  final int kutuphaneSayisi;
+  final int belgeSayisi;
+  final int antrenorBelgesi;
+
+  /// Son günlük kontrolde belgesi değişen federasyonların slug'ları
+  final Set<String> degisenler;
+  final List<Kutuphane> kutuphaneler;
+
+  const MevzuatDeposu({
+    required this.kutuphaneSayisi,
+    required this.belgeSayisi,
+    required this.antrenorBelgesi,
+    required this.degisenler,
+    required this.kutuphaneler,
+  });
+
+  static const bos = MevzuatDeposu(
+      kutuphaneSayisi: 0,
+      belgeSayisi: 0,
+      antrenorBelgesi: 0,
+      degisenler: {},
+      kutuphaneler: []);
+
+  factory MevzuatDeposu.jsondan(Map<String, dynamic> j) => MevzuatDeposu(
+        kutuphaneSayisi: j['total_libraries'] as int? ?? 0,
+        belgeSayisi: j['total_documents'] as int? ?? 0,
+        antrenorBelgesi: j['coach_documents'] as int? ?? 0,
+        degisenler: ((j['changed_in_last_run'] as List?) ?? const [])
+            .map((e) => e.toString())
+            .toSet(),
+        kutuphaneler: ((j['libraries'] as List?) ?? const [])
+            .map((e) => Kutuphane.jsondan(e as Map<String, dynamic>))
+            .toList(),
+      );
+}
+
+class Kutuphane {
+  final String federasyon;
+  final String federasyonAdi;
+  final String kisaAd;
+  final List<Belge> belgeler;
+  final DateTime? kontrolTarihi;
+
+  const Kutuphane({
+    required this.federasyon,
+    required this.federasyonAdi,
+    required this.kisaAd,
+    required this.belgeler,
+    this.kontrolTarihi,
+  });
+
+  factory Kutuphane.jsondan(Map<String, dynamic> j) => Kutuphane(
+        federasyon: j['federation'] as String? ?? '',
+        federasyonAdi: j['federation_name'] as String? ?? '',
+        kisaAd: j['federation_short'] as String? ?? '',
+        belgeler: ((j['documents'] as List?) ?? const [])
+            .map((e) => Belge.jsondan(e as Map<String, dynamic>))
+            .toList(),
+        kontrolTarihi: DateTime.tryParse(j['checked_at'] as String? ?? ''),
+      );
+}
+
+/// Belge başlığına göre ayrım: "kural" veya "oyun" geçenler oyun kuralı,
+/// geri kalanı talimat/yönetmelik. Kaynaklar bu ayrımı kendileri yapmıyor.
+bool oyunKuraliMi(Belge b) {
+  final t = b.baslik.toLowerCase().replaceAll('İ', 'i').replaceAll('I', 'ı');
+  return t.contains('kural') || t.contains('oyun');
+}

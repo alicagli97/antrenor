@@ -13,6 +13,7 @@ import 'cekirdek/veri.dart';
 import 'ekranlar/anasayfa.dart';
 import 'ekranlar/arama.dart';
 import 'ekranlar/ayarlar.dart';
+import 'ekranlar/bilgi.dart';
 import 'ekranlar/bildirimler.dart';
 import 'ekranlar/federasyonlar.dart';
 import 'ekranlar/kaydedilenler.dart';
@@ -143,7 +144,9 @@ class _AntrenorUygulamasiDurumu extends State<AntrenorUygulamasi> {
   }
 }
 
-/// Beş sekme: Anasayfa · Federasyonlar · Bildirimler · Kayıtlar · Ayarlar
+/// Beş sekme: Anasayfa · Federasyonlar · Bilgi · Bildirimler · Kayıtlar
+/// Ayarlar sekme yerine üst çubuktaki dişli simgesinde: günde bir kez
+/// açılan bir ekran için sekme yeri harcamak yazık.
 /// Üstte ayrı bir başlık çubuğu yok; her ekran kendi başlığını taşır ve
 /// kaydırınca kaybolur, böylece tek menü hissi korunur.
 class AnaKabuk extends StatefulWidget {
@@ -176,15 +179,34 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
   }
 
   void _sekmeyeGit(String hedef) {
+    if (hedef == 'ayarlar') {
+      _ayarlaraGit();
+      return;
+    }
     final indeks = switch (hedef) {
       'federasyonlar' => 1,
-      'bildirimler' => 2,
-      'kayitlar' => 3,
-      'ayarlar' => 4,
+      'bilgi' => 2,
+      'bildirimler' => 3,
+      'kayitlar' => 4,
       _ => 0,
     };
     setState(() => _sekme = indeks);
   }
+
+  void _ayarlaraGit() => Navigator.of(context).push(MaterialPageRoute(
+        builder: (_) => Scaffold(
+          appBar: AppBar(title: const Text('Ayarlar')),
+          body: SafeArea(
+            child: AyarlarEkrani(
+              veri: _veri,
+              federasyonlaraGit: () {
+                Navigator.of(context).pop();
+                _sekmeyeGit('federasyonlar');
+              },
+            ),
+          ),
+        ),
+      ));
 
   void _aramayaGit() => Navigator.of(context).push(
       MaterialPageRoute(builder: (_) => AramaEkrani(veri: _veri)));
@@ -204,6 +226,11 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
                   icon: const Icon(Icons.search),
                   onPressed: _aramayaGit,
                 ),
+                IconButton(
+                  tooltip: 'Ayarlar',
+                  icon: const Icon(Icons.settings_outlined),
+                  onPressed: _ayarlaraGit,
+                ),
               ],
             ),
       body: SafeArea(child: _govde()),
@@ -220,6 +247,10 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
               selectedIcon: Icon(Icons.shield),
               label: 'Federasyonlar'),
           NavigationDestination(
+              icon: Icon(Icons.menu_book_outlined),
+              selectedIcon: Icon(Icons.menu_book),
+              label: 'Bilgi'),
+          NavigationDestination(
               icon: Icon(Icons.notifications_none),
               selectedIcon: Icon(Icons.notifications),
               label: 'Bildirimler'),
@@ -227,10 +258,6 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
               icon: Icon(Icons.bookmark_border),
               selectedIcon: Icon(Icons.bookmark),
               label: 'Kayıtlar'),
-          NavigationDestination(
-              icon: Icon(Icons.settings_outlined),
-              selectedIcon: Icon(Icons.settings),
-              label: 'Ayarlar'),
         ],
       ),
     );
@@ -238,9 +265,9 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
 
   static String _baslik(int sekme) => switch (sekme) {
         1 => 'Federasyonlar',
-        2 => 'Bildirimler',
-        3 => 'Kayıtlar',
-        _ => 'Ayarlar',
+        2 => 'Bilgi Deposu',
+        3 => 'Bildirimler',
+        _ => 'Kayıtlar',
       };
 
   Widget _govde() {
@@ -254,11 +281,10 @@ class _AnaKabukDurumu extends State<AnaKabuk> {
       0 => Anasayfa(
           veri: _veri, sekmeyeGit: _sekmeyeGit, aramayaGit: _aramayaGit),
       1 => FederasyonlarEkrani(veri: _veri),
-      2 => BildirimlerEkrani(
+      2 => BilgiEkrani(veri: _veri),
+      3 => BildirimlerEkrani(
           veri: _veri, federasyonlaraGit: () => _sekmeyeGit('federasyonlar')),
-      3 => KaydedilenlerEkrani(veri: _veri),
-      _ => AyarlarEkrani(
-          veri: _veri, federasyonlaraGit: () => _sekmeyeGit('federasyonlar')),
+      _ => KaydedilenlerEkrani(veri: _veri),
     };
   }
 }

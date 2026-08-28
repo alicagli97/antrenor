@@ -155,6 +155,24 @@ class Veri extends ChangeNotifier {
     return _fedMevzuati[slug];
   }
 
+  // --- Bilgi Deposu -------------------------------------------------------
+
+  MevzuatDeposu? _depo;
+
+  /// Tum federasyonlarin mevzuat ve oyun kurali belgeleri, tek istekte.
+  /// Cevrimdisi de acilir; _getir zaten diske yaziyor.
+  Future<MevzuatDeposu> mevzuatDeposu() async {
+    final hazir = _depo;
+    if (hazir != null) return hazir;
+    try {
+      _depo = MevzuatDeposu.jsondan(
+          await _getir('rules.json') as Map<String, dynamic>);
+    } catch (_) {
+      _depo = MevzuatDeposu.bos;
+    }
+    return _depo!;
+  }
+
   String etiketAdi(String slug) => _etiketler[slug] ?? slug;
 
   Federasyon? federasyon(String slug) {
@@ -221,6 +239,15 @@ class Veri extends ChangeNotifier {
       for (final b in girdi.value?.belgeler ?? const <Belge>[]) {
         if (_kucult(b.baslik).contains(k)) {
           sonuclar.add(AramaSonucu.belge(b, etiketAdi(girdi.key)));
+        }
+      }
+    }
+    // Bilgi Deposu indirildiyse 1400 belgenin tamami aranabilir
+    for (final kut in _depo?.kutuphaneler ?? const <Kutuphane>[]) {
+      for (final b in kut.belgeler) {
+        if (sonuclar.any((s) => s.url == b.url)) continue;
+        if (_kucult(b.baslik).contains(k)) {
+          sonuclar.add(AramaSonucu.belge(b, etiketAdi(kut.federasyon)));
         }
       }
     }

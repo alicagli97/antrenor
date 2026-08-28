@@ -67,7 +67,19 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
       length: 4,
       child: Scaffold(
         appBar: AppBar(
-          title: Text(f.etiket, style: const TextStyle(fontSize: 17)),
+          // Etiket kisa ve okunakli, ama resmi ad da gorunsun
+          title: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Text(f.etiket, style: const TextStyle(fontSize: 17)),
+              Text(f.ad,
+                  maxLines: 1,
+                  overflow: TextOverflow.ellipsis,
+                  style: TextStyle(
+                      fontSize: 11, color: Renkler.metinSolgun)),
+            ],
+          ),
           actions: [
             IconButton(
               icon: Icon(takipte ? Icons.star : Icons.star_border,

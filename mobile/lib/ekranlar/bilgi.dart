@@ -67,7 +67,9 @@ class _BilgiEkraniDurumu extends State<BilgiEkrani>
 
     final gruplar = <_Grup>[];
     for (final kut in d.kutuphaneler) {
-      final ad = kut.kisaAd.isNotEmpty ? kut.kisaAd : kut.federasyonAdi;
+      // Kisaltmalar benzersiz degil: Aticilik ve Atletizm ikisi de "TAF",
+      // Badminton ve Bilardo ikisi de "TBF". Tam ad yaziliyor.
+      final ad = kut.federasyonAdi.isNotEmpty ? kut.federasyonAdi : kut.federasyon;
       final fedUyuyor = _araniyor && _kucult(ad).contains(k);
 
       final belgeler = <Belge>[];
@@ -266,7 +268,7 @@ class _Kume extends StatelessWidget {
                         Row(children: [
                           Flexible(
                             child: Text(grup.ad,
-                                maxLines: 1,
+                                maxLines: 2,
                                 overflow: TextOverflow.ellipsis,
                                 style: Yazi.kartBaslik),
                           ),

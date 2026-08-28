@@ -143,6 +143,11 @@ class _FederasyonlarDurumu extends State<FederasyonlarEkrani> {
                                     Text(f.etiket,
                                         style: Yazi.kartBaslik
                                             .copyWith(fontSize: 15.5)),
+                                    const SizedBox(height: 2),
+                                    Text(f.ad,
+                                        maxLines: 1,
+                                        overflow: TextOverflow.ellipsis,
+                                        style: Yazi.kucuk),
                                     const SizedBox(height: 3),
                                     Text(
                                       [

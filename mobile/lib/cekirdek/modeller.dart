@@ -354,6 +354,13 @@ class Kutuphane {
       );
 }
 
+/// Gerçek bir belge dosyası mı, yoksa yalnızca bir web sayfası bağlantısı mı?
+///
+/// Tarayıcı kayıtlarının 339'u ("TAF Mağaza" gibi) belge değil, federasyonun
+/// bir sayfasına giden bağlantı. Bunlar listede yer alınca uygulama bağlantı
+/// dizinine dönüyor ve dokunan kişi boş bir Safari sayfasına düşüyor.
+bool belgeDosyasiMi(Belge b) => b.tur != 'html';
+
 /// Belge başlığına göre ayrım: "kural" veya "oyun" geçenler oyun kuralı,
 /// geri kalanı talimat/yönetmelik. Kaynaklar bu ayrımı kendileri yapmıyor.
 bool oyunKuraliMi(Belge b) {

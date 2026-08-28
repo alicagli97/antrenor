@@ -60,7 +60,10 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
   Widget build(BuildContext context) {
     final f = widget.federasyon;
     final takipte = widget.veri.takipEdilen.contains(f.slug);
-    final belgeler = _mevzuat?.belgeler ?? const <Belge>[];
+    // Web sayfasi baglantilarini disarida birakiyoruz; burasi belge listesi
+    final belgeler = (_mevzuat?.belgeler ?? const <Belge>[])
+        .where(belgeDosyasiMi)
+        .toList();
     final kurallar = belgeler.where(_oyunKurali).toList();
     final talimatlar = belgeler.where((b) => !_oyunKurali(b)).toList();
 

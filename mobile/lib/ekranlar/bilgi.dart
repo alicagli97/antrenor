@@ -74,6 +74,7 @@ class _BilgiEkraniDurumu extends State<BilgiEkrani>
 
       final belgeler = <Belge>[];
       for (final b in kut.belgeler) {
+        if (!belgeDosyasiMi(b)) continue;
         if (oyunKuraliMi(b) != oyunKurali) continue;
         // Federasyon adı eşleşiyorsa o kümenin tamamı gösterilir
         if (_araniyor && !fedUyuyor && !_kucult(b.baslik).contains(k)) continue;

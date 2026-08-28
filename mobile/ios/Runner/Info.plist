@@ -283,6 +283,11 @@
 		<string>Federasyon etkinliklerini takviminize eklemek için kullanılır.</string>
 		<key>NSCalendarsWriteOnlyAccessUsageDescription</key>
 		<string>Federasyon etkinliklerini takviminize eklemek için kullanılır.</string>
+		<!-- Yalnizca standart HTTPS kullaniliyor; ihracat kisitlamasi
+		     kapsamina girmiyor. Bu anahtar olmayinca TestFlight her
+		     derlemede beyan sorup dagitimi bekletiyor. -->
+		<key>ITSAppUsesNonExemptEncryption</key>
+		<false/>
 		<key>UIStatusBarHidden</key>
 		<false/>
 	</dict>

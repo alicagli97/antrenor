@@ -4,6 +4,7 @@ import '../cekirdek/baglanti.dart';
 import '../cekirdek/modeller.dart';
 import '../cekirdek/takvime.dart';
 import '../cekirdek/tema.dart';
+import 'belge_goruntule.dart';
 import '../cekirdek/veri.dart';
 import '../parcalar/bildirim_istegi.dart';
 import '../parcalar/duyuru_karti.dart';
@@ -264,9 +265,12 @@ class _FederasyonDetayDurumu extends State<FederasyonDetay> {
           title: Text(b.baslik,
               style: TextStyle(
                   color: Renkler.metinIkincil, fontSize: 13.5, height: 1.3)),
-          trailing: Icon(Icons.open_in_new,
-              size: 15, color: Renkler.metinSolgun),
-          onTap: () => Baglanti.ac(context, b.url),
+          trailing: Icon(
+              b.tur == 'pdf' ? Icons.chevron_right : Icons.open_in_new,
+              size: b.tur == 'pdf' ? 18 : 15,
+              color: Renkler.metinSolgun),
+          onTap: () =>
+              BelgeGoruntule.ac(context, b, widget.federasyon.ad),
         );
       },
     );

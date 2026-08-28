@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import '../cekirdek/baglanti.dart';
 import '../cekirdek/modeller.dart';
 import '../cekirdek/tema.dart';
 import '../cekirdek/veri.dart';
+import 'belge_goruntule.dart';
 
 /// Bilgi Deposu: 65 federasyonun mevzuatı ve oyun kuralları tek yerde.
 ///
@@ -300,7 +300,8 @@ class _Kume extends StatelessWidget {
               padding: const EdgeInsets.fromLTRB(10, 0, 10, 8),
               child: Column(
                 children: [
-                  for (final b in grup.belgeler) _BelgeSatiri(belge: b),
+                  for (final b in grup.belgeler)
+                    _BelgeSatiri(belge: b, federasyon: grup.ad),
                 ],
               ),
             ),
@@ -312,7 +313,8 @@ class _Kume extends StatelessWidget {
 
 class _BelgeSatiri extends StatelessWidget {
   final Belge belge;
-  const _BelgeSatiri({required this.belge});
+  final String federasyon;
+  const _BelgeSatiri({required this.belge, required this.federasyon});
 
   @override
   Widget build(BuildContext context) {
@@ -320,7 +322,7 @@ class _BelgeSatiri extends StatelessWidget {
       color: Colors.transparent,
       child: InkWell(
         borderRadius: BorderRadius.circular(8),
-        onTap: () => Baglanti.ac(context, belge.url),
+        onTap: () => BelgeGoruntule.ac(context, belge, federasyon),
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 9),
           child: Row(

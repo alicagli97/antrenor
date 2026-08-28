@@ -98,7 +98,12 @@ class Hatirlatici {
             importance: Importance.high,
             priority: Priority.high,
           ),
-          iOS: const DarwinNotificationDetails(),
+          // Uygulama acikken de banner gorunsun; varsayilan sessiz
+          iOS: const DarwinNotificationDetails(
+            presentAlert: true,
+            presentBadge: true,
+            presentSound: true,
+          ),
         ),
         // Tam saatli alarm ayrı izin ister; dakikalık sapma bizim için sorun
         // değil, izin istemek gereksiz sürtünme olurdu

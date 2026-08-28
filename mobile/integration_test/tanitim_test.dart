@@ -1,9 +1,16 @@
-// Tanitim turu: uygulamayi otomatik gezerek App Review icin video uretir.
+// Tanitim turu: uygulamayi otomatik gezerek App Review videosu ve magaza
+// gorselleri icin kareler uretir.
 //
-// Amaci test etmek degil, uygulamanin tarayicida yapilamayacak yerel
-// islevlerini gostermek: cevrimdisi arama, cihaza kaydetme, yerel hatirlatma,
-// takvime ekleme. Ekran kaydi is akisinda simctl ile alinir; buradaki
-// bekleme sureleri videonun izlenebilir olmasi icin bilerek uzun tutuldu.
+// Amaci test etmek degil; uygulamanin tarayicida yapilamayacak yerel
+// islevlerini gostermek. Ekran kaydi is akisinda simctl ile aliniyor, bu
+// yuzden bekleme sureleri videonun izlenebilirligi icin uzun tutuldu.
+//
+// Vize profili ve kaydedilen duyuru dogrudan cekirdek uzerinden kuruluyor:
+// acilir listelerle ve tarih seciciyle bogusmak turu kirilgan yapiyordu,
+// ekranlarin dolu gorunmesi yeterli.
+import 'package:antrenor/cekirdek/depo.dart';
+import 'package:antrenor/cekirdek/profil.dart';
+import 'package:antrenor/cekirdek/veri.dart';
 import 'package:antrenor/main.dart' as uygulama;
 import 'package:antrenor/parcalar/duyuru_karti.dart';
 import 'package:flutter/material.dart';
@@ -14,77 +21,101 @@ void main() {
   IntegrationTestWidgetsFlutterBinding.ensureInitialized();
 
   testWidgets('tanitim turu', (WidgetTester tester) async {
+    // Vize panosu dolu gorunsun diye veriyi once cekiyoruz
+    final veri = Veri();
+    await veri.baslat();
+    if (veri.federasyonlar.isNotEmpty) {
+      await Profil.ornek.kaydet(
+        brans: veri.federasyonlar.first.slug,
+        kademe: 2,
+        vizeBitis: DateTime.now().add(const Duration(days: 47)),
+      );
+    }
+    if (veri.duyurular.isNotEmpty) {
+      await Depo.kaydiDegistir(veri.duyurular.first);
+    }
+
     uygulama.main();
-
-    // Veri agdan iniyor; akista kart cikana kadar bekle
     await _kadar(tester, () => find.byType(DuyuruKarti).evaluate().isNotEmpty,
-        enFazlaSaniye: 40);
-    await _bekle(tester, 3);
+        enFazla: 45);
+    await _bekle(tester, 5); // ANASAYFA: vize geri sayimi + akis
 
-    // --- 1. Kategori suzgeci --------------------------------------------
+    // --- Kategori suzgeci ------------------------------------------------
     await _dokun(tester, find.text('Kurs & seminer'));
     await _bekle(tester, 5);
     await _dokun(tester, find.text('Tümü'));
     await _bekle(tester, 3);
 
-    // --- 2. Cevrimdisi arama --------------------------------------------
+    // --- Vize Takibim panosu ---------------------------------------------
+    await _dokun(tester, find.text('Vize Takibim'));
+    await _kadar(tester, () => find.text('Branş').evaluate().isNotEmpty,
+        enFazla: 10);
+    await _bekle(tester, 7); // GORSEL: geri sayim panosu
+    await _geriDon(tester);
+    await _bekle(tester, 3);
+
+    // --- Bilgi Deposu -----------------------------------------------------
+    await _dokun(tester, find.text('Bilgi'));
+    await _kadar(tester, () => find.textContaining('federasyon ·').evaluate().isNotEmpty,
+        enFazla: 40);
+    await _bekle(tester, 6); // GORSEL: kumeler
+
+    // Ilk kumeyi ac
+    final kumeler = find.byIcon(Icons.folder_outlined);
+    if (kumeler.evaluate().isNotEmpty) {
+      await _dokun(tester, kumeler.first);
+      await _bekle(tester, 6); // GORSEL: acilmis kume
+    }
+
+    // Oyun kurallari sekmesi
+    await _dokun(tester, find.text('Oyun kuralları'));
+    await _bekle(tester, 6);
+    await _dokun(tester, find.text('Mevzuat'));
+    await _bekle(tester, 3);
+
+    // Bir PDF belgesini uygulama icinde ac
+    final belgeler = find.byIcon(Icons.picture_as_pdf_outlined);
+    if (belgeler.evaluate().isNotEmpty) {
+      await _dokun(tester, belgeler.first);
+      await _bekle(tester, 18); // GORSEL: PDF uygulama icinde
+      await _geriDon(tester);
+      await _bekle(tester, 3);
+    }
+
+    // --- Cevrimdisi arama --------------------------------------------------
     await _dokun(tester, find.byIcon(Icons.search).first);
     await _bekle(tester, 2);
     final kutu = find.byType(TextField);
     if (kutu.evaluate().isNotEmpty) {
       await tester.enterText(kutu.first, 'vize');
-      await _bekle(tester, 5);
-      await tester.enterText(kutu.first, 'antrenor');
-      await _bekle(tester, 5);
+      await _bekle(tester, 6); // GORSEL: arama sonuclari
+      await tester.enterText(kutu.first, 'antrenör');
+      await _bekle(tester, 6);
     }
     await _geriDon(tester);
     await _bekle(tester, 3);
 
-    // --- 3. Duyuru: kaydet ve hatirlatici --------------------------------
-    await _dokun(tester, find.byType(DuyuruKarti).first);
-    // Detay acildi mi? Reklam kapisi cikarsa "Reklam izle" gelir; TEST_PREMIUM
-    // ile kapali olmali
-    await _kadar(tester, () => find.text('Kaynakta aç').evaluate().isNotEmpty,
-        enFazlaSaniye: 15);
-    await _bekle(tester, 3);
-
-    await _dokun(tester, find.text('Kaydet'));
-    await _bekle(tester, 4);
-
-    await _dokun(tester, find.text('Hatırlatıcı kur'));
-    await _bekle(tester, 3);
-    // Tarih secici: yarin onceden secili gelir
-    await _dokun(tester, find.text('Tamam'));
-    await _bekle(tester, 3);
-    // Saat secici
-    await _dokun(tester, find.text('Tamam'));
-    await _bekle(tester, 5);
-
-    await _geriDon(tester);
-    await _bekle(tester, 3);
-
-    // --- 4. Kayitlar sekmesi ---------------------------------------------
+    // --- Kayitlar ----------------------------------------------------------
     await _dokun(tester, find.text('Kayıtlar'));
-    await _bekle(tester, 7);
+    await _bekle(tester, 7); // GORSEL: kaydedilenler ve hatirlatmalar
 
-    // --- 5. Federasyon takvimi -------------------------------------------
+    // --- Federasyonlar -----------------------------------------------------
     await _dokun(tester, find.text('Federasyonlar'));
-    await _bekle(tester, 5);
+    await _bekle(tester, 7); // GORSEL: 65 kurum, tam adlariyla
   });
 }
 
 /// pumpAndSettle kullanilamiyor: ag ve reklam istekleri yuzunden animasyon
-/// hic durmuyor, test zaman asimina ugruyor. Sabit sureli pump ile ilerliyoruz.
+/// hic durmuyor, test zaman asimina ugruyor.
 Future<void> _bekle(WidgetTester tester, int saniye) async {
   for (var i = 0; i < saniye * 4; i++) {
     await tester.pump(const Duration(milliseconds: 250));
   }
 }
 
-/// Kosul saglanana kadar bekler; saglanmazsa turu kesmeden devam eder.
 Future<void> _kadar(WidgetTester tester, bool Function() kosul,
-    {required int enFazlaSaniye}) async {
-  for (var i = 0; i < enFazlaSaniye * 4; i++) {
+    {required int enFazla}) async {
+  for (var i = 0; i < enFazla * 4; i++) {
     if (kosul()) return;
     await tester.pump(const Duration(milliseconds: 250));
   }

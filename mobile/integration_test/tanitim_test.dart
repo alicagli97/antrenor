@@ -16,6 +16,7 @@ import 'package:antrenor/parcalar/duyuru_karti.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:integration_test/integration_test.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
   IntegrationTestWidgetsFlutterBinding.ensureInitialized();
@@ -25,11 +26,14 @@ void main() {
     final veri = Veri();
     await veri.baslat();
     if (veri.federasyonlar.isNotEmpty) {
-      await Profil.ornek.kaydet(
-        brans: veri.federasyonlar.first.slug,
-        kademe: 2,
-        vizeBitis: DateTime.now().add(const Duration(days: 47)),
-      );
+      // Profil.kaydet hatirlatma kuruyor, o da izin penceresi aciyor ve
+      // otomasyon kilitleniyor. Tercihlere dogrudan yaziyoruz.
+      final kayit = await SharedPreferences.getInstance();
+      await kayit.setString('profil_brans', veri.federasyonlar.first.slug);
+      await kayit.setInt('profil_kademe', 2);
+      await kayit.setString('profil_vize',
+          DateTime.now().add(const Duration(days: 47)).toIso8601String());
+      await Profil.ornek.yukle();
     }
     if (veri.duyurular.isNotEmpty) {
       await Depo.kaydiDegistir(veri.duyurular.first);

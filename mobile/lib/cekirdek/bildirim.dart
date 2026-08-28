@@ -25,8 +25,13 @@ class Bildirim {
 
   /// Android 13+ ve iOS'ta izin ister. İzin verilmezse abonelikler yine
   /// kaydedilir; kullanıcı sonradan izin verirse bildirimler gelmeye başlar.
+  /// Tanitim videosu cekiminde sistem izin penceresi otomasyonu kilitliyor:
+  /// pencere Flutter'in disinda, test kapatamiyor. Yalnizca o cekimde
+  /// (--dart-define=TANITIM=true) izin istenmiyor.
+  static const tanitimKipi = bool.fromEnvironment('TANITIM');
+
   static Future<bool> izinIste() async {
-    if (!hazir) return false;
+    if (!hazir || tanitimKipi) return false;
     final ayar = await FirebaseMessaging.instance.requestPermission(
       alert: true,
       badge: true,

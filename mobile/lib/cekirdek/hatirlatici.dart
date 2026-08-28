@@ -15,6 +15,9 @@ class Hatirlatici {
   Hatirlatici._();
 
   static final _eklenti = FlutterLocalNotificationsPlugin();
+
+  /// bkz. [Bildirim.tanitimKipi] — tanitim cekiminde izin penceresi acilmaz
+  static const tanitimKipi = bool.fromEnvironment('TANITIM');
   static bool _hazir = false;
 
   static const _kanal = AndroidNotificationChannel(
@@ -57,6 +60,7 @@ class Hatirlatici {
 
   /// iOS'ta izin ayrı istenir; Android'de POST_NOTIFICATIONS zaten alınıyor.
   static Future<bool> izinIste() async {
+    if (tanitimKipi) return false;
     await baslat();
     try {
       final ios = _eklenti.resolvePlatformSpecificImplementation<

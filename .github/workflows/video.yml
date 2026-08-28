@@ -64,7 +64,7 @@ jobs:
       # bos ana ekran oluyor. Once derleyip sonra kaydediyoruz.
       - name: Uygulamayi onceden derle
         working-directory: mobile
-        run: flutter build ios --simulator --debug --dart-define=TEST_PREMIUM=true --dart-define=TANITIM=true \n            --dart-define=TANITIM=true
+        run: flutter build ios --simulator --debug --dart-define=TEST_PREMIUM=true --dart-define=TANITIM=true
 
       - name: Ekran kaydini baslat
         run: |
@@ -82,7 +82,8 @@ jobs:
             --driver=test_driver/integration_test.dart \
             --target=integration_test/tanitim_test.dart \
             -d ${{ steps.simulator.outputs.udid }} \
-            --dart-define=TEST_PREMIUM=true \n            --dart-define=TANITIM=true \
+            --dart-define=TEST_PREMIUM=true \
+            --dart-define=TANITIM=true \
             --no-pub
 
       - name: Kaydi durdur

@@ -1,32 +1,21 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-29T06:00:25+00:00",
- "total": 3434,
- "new_in_last_run": 10,
- "sources_ok": 52,
+ "generated_at": "2026-08-29T09:09:02+00:00",
+ "total": 3435,
+ "new_in_last_run": 3,
+ "sources_ok": 61,
  "sources_failed": [
+  "atletizm",
   "basketbol",
-  "boks",
-  "dagcilik",
-  "danssporlari",
-  "gelismekteolan",
-  "herkesicinspor",
-  "isitmeengelliler",
-  "kano",
-  "masatenisi",
-  "paralimpik",
-  "satranc",
-  "sualti",
-  "vucutgelistirme"
+  "gormeengelliler",
+  "hokey"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": [
-  "basketbol"
- ],
- "latest_published_at": "2026-08-29T02:06:27+00:00",
+ "partial_run": null,
+ "latest_published_at": "2026-08-29T08:59:28+00:00",
  "categories": {
-  "takvim": 70,
+  "takvim": 71,
   "duyuru": 948,
   "musabaka": 372,
   "kurs": 283,
@@ -37,14 +26,14 @@
   {
    "federation": "curling",
    "last_published_at": "2026-06-22T10:23:56+03:00",
-   "days": 67
+   "days": 68
   }
  ],
  "federation_counts": {
+  "badminton": 136,
   "havasporlari": 29,
   "bilardo": 40,
   "eskrim": 85,
-  "badminton": 135,
   "futbol": 91,
   "boks": 39,
   "golf": 183,

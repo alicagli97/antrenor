@@ -1,5 +1,76 @@
 [
  {
+  "id": "0a6500a32d63d437",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-29T02:06:27+00:00",
+  "first_seen_at": "2026-08-29T02:06:27+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "253e32c034a5ba4b",
+  "federation": "bilardo",
+  "federation_name": "Türkiye Bilardo Federasyonu",
+  "federation_short": "TBF",
+  "title": "Bilardo faaliyet takviminde değişiklik",
+  "url": "https://www.bilardo.org.tr/haberler/turkiye-bilardo-federasyonu-2026-agustos-aralik-ayi-faaliyet-takvimi-1141",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-29T02:06:21+00:00",
+  "first_seen_at": "2026-08-29T02:06:21+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "034e3c709c685b65",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-29T02:06:17+00:00",
+  "first_seen_at": "2026-08-29T02:06:17+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "5d267c059830ff7d",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Navek Türkiye Challenge 2026 Reglamanı Yayınlandı",
+  "url": "https://www.badminton.org.tr/navek-turkiye-challenge-2026-reglamani-yayinlandi/13505/",
+  "summary": "7-11 Ekim 2026 tarihleri arasında İstanbul’da yapılacak olan Navek Türkiye International Challenge 2026 turnuvası reglamanı yayınlandı. Reglaman için tıklayınız…",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2025/12/duyuru2-scaled-e1774358743409.png",
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-08-28T21:50:49+00:00",
+  "first_seen_at": "2026-08-29T02:10:03+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "91a665c6d731a30f",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -2256,6 +2327,36 @@
   "published_at": "2026-08-28T05:19:00+00:00",
   "first_seen_at": "2026-08-28T05:19:00+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "a2177388da30c13e",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Tahkim Kurulu Kararları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=247&ftxtID=51231",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-28T00:00:00+00:00",
+  "first_seen_at": "2026-08-29T02:10:03+00:00",
+  "source": "html"
+ },
+ {
+  "id": "dcc5022d9f69eaca",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "Erzurum 2029 Yolunda Önemli Adım",
+  "url": "https://tusf.org.tr/Haber.aspx?b=ab5017a7-4cfc-4429-aead-725162e88960&bid=4387&_=Erzurum 2029 Yolunda Önemli Adım",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-28T00:00:00+00:00",
+  "first_seen_at": "2026-08-29T02:10:03+00:00",
+  "source": "html"
  },
  {
   "id": "f9f9359220abad2d",
@@ -5017,106 +5118,6 @@
   "tags": [],
   "published_at": "2026-08-24T00:00:00+00:00",
   "first_seen_at": "2026-08-24T14:56:00+00:00",
-  "source": "html"
- },
- {
-  "id": "2511ace857046d58",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Trap 3.bölgesel Yaz Kupası (1. Bölge) Yarışma Sonuçları",
-  "url": "https://www.taf.gov.tr/tr/trap-yaz-kupasi-1-bolge-sonucu",
-  "summary": "21-23 Ağustos 2026 tarihleri arasında Bursa ilinde düzenlenen Trap 3.Bölgesel Yaz Kupası 1.Bölge yarışma sonuçları için TIKLAYINIZ",
-  "image": "https://www.taf.gov.tr/thumbnail?image=uploads/images/202608/upload_6a8c3fe8e1187.jpg&resize=600x400",
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-24T00:00:00+00:00",
-  "first_seen_at": "2026-08-24T13:09:50+00:00",
-  "source": "html"
- },
- {
-  "id": "2b73740c4031d946",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Deniz Kanosu 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Sınav Sonuçları",
-  "url": "https://kano.org.tr/deniz-kanosu-1-kademe-yardimci-antrenor-yetistirme-kursu-sinav-sonuclari",
-  "summary": ", Pazartesi Federasyonumuz tarafından 12-16 Ağustos 2026 Tarihlerinde İstanbul'da düzenlenen \"DENİZ KANOSU 1. KADEME YARDIMCI ANTRENÖR YETİŞTİRME KURSU\" sonuçları yayınlandı.",
-  "image": "https://kano.org.tr/uploads/deniz-kanosu-duyuru.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-24T00:00:00+00:00",
-  "first_seen_at": "2026-08-24T11:40:25+00:00",
-  "source": "html"
- },
- {
-  "id": "ab4d34396f0ae369",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Durgunsu Kano 2026 Türkiye Şampiyonası Tamamlandı",
-  "url": "https://kano.org.tr/durgunsu-kano-2026-turkiye-sampiyonasi-tamamlandi",
-  "summary": "Duyuru ve Etkinlikler Anasayfa Duyuru ve Etkinlikler DURGUNSU KANO 2026 TÜRKİYE ŞAMPİYONASI TAMAMLANDI 24 Ağustos 2026, Pazartesi Paylaş × Kapat DURGUNSU KANO 2026 TÜRKİYE ŞAMPİYONASI TAMAMLANDI Durgunsu Kano 2026 Türkiye Şampiyonası 18-21 Ağustos 2026 tarihleri arasında Eskişehir'de yapıldı. Sarısungur Göleti’nde Türkiye Şampiyonu Belli Oldu! Türkiye Kano Federasyonu ile Eskişehir Büyükşehir Belediyesi iş birliğinde düzenlenen Durgunsu Kano Türkiye Şampiyonası , 18-21 Ağustos 2026 tarihleri arasında Eskişehir Sarısungur Göleti’nde başarıyla tamamlandı. Türkiye’nin farklı illerinden 55 kulüp v",
-  "image": "https://kano.org.tr/uploads/2026/durgunsu-kano/eskiehir-18-21-austos/toplu.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-24T00:00:00+00:00",
-  "first_seen_at": "2026-08-24T10:50:36+00:00",
-  "source": "html"
- },
- {
-  "id": "03ff2d8857e6c6cc",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Karaman'da Dart Aday Hakem Yetiştirme Kursu Yapılacak. - Duyurular",
-  "url": "https://tbbdf.org.tr/karamanda-dart-aday-hakem-yetistirme-kursu-yapilacak--2",
-  "summary": "TBBDF Haberler Duyurular Karaman'da Dart Aday Hakem Yetiştirme Kursu Yapılacak. Karaman'da Dart Aday Hakem Yetiştirme Kursu Yapılacak. Karaman'da, 12 - 13 Eylül 2026 tarihlerinde Dart Aday Hakem Yetiştirme Kursu yapılacaktır. Hakem Kursuna katılacaklar, kurs bedeli olan 3000 TL'yi (2300 kurs + 700 TL belge ücreti), 12 Eylül 2026 tarihine kadar Federasyonumuzun ( İBAN TR76 0003 2000 0000 0122 0451 17 - TEB / TUNALI HİLMİ ŞUBESİ ) no'lu gelirler hesabına ödemelidir. Katılımcılar, en az 18 yaşını doldurmuş ve 55 yaşından gün almamış olmalıdır, söz konusu kurslara en az lise veya dengi okul mezunu",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-08-24T00:00:00+00:00",
-  "first_seen_at": "2026-08-24T09:59:55+00:00",
-  "source": "html"
- },
- {
-  "id": "d47f105a31c88c92",
-  "federation": "motosiklet",
-  "federation_name": "Türkiye Motosiklet Federasyonu",
-  "federation_short": "TMF",
-  "title": "Mavi Sularda Büyük Rekabet Yaşanacak",
-  "url": "https://www.tmf.org.tr/Haberler/Mavi-Sularda-Buyuk-Rekabet-Yasanacak/",
-  "summary": "Mavi Sularda Büyük Rekabet",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-24T00:00:00+00:00",
-  "first_seen_at": "2026-08-24T09:01:39+00:00",
-  "source": "html"
- },
- {
-  "id": "bf4187495aba7608",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Taranto 2026 Akdeniz Oyunları Duyurusu",
-  "url": "https://www.tyf.org.tr/duyurular/yaris/taranto-2026-akdeniz-oyunlari-duyurusu/315713/",
-  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular Taranto 2026 Akdeniz Oyunları Duyurusu Taranto 2026 Akdeniz Oyunları Duyurusu 24.08.2026 Duyurular 1 Paylaş Tweetle Türkiye Yelken Federasyonu 202 6 Faaliyet Programı’nda yer alan Taranto 2026 Akdeniz Oyunları faaliyeti, 24 Ağustos – 3 Eylül tarihleri arasında Taranto / İtalya ‘ da gerçekleşecektir. Yarış",
-  "image": "https://portal.tyf.org.tr/content/images/pageimages/image-not-found.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-24T00:00:00+00:00",
-  "first_seen_at": "2026-08-24T07:17:21+00:00",
   "source": "html"
  }
 ]

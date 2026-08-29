@@ -1,5 +1,23 @@
 [
  {
+  "id": "2a72200969a3c81e",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Trendyol Süper Lig'de 4. Hafta Programı Güncellendi",
+  "url": "https://www.tff.org/default.aspx?pageID=201&ftxtID=51232",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka",
+   "burs"
+  ],
+  "published_at": "2026-08-29T18:24:25+00:00",
+  "first_seen_at": "2026-08-29T18:24:25+00:00",
+  "source": "html"
+ },
+ {
   "id": "91a665c6d731a30f",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3397,23 +3415,6 @@
    "milli_takim"
   ],
   "published_at": "2026-08-14T13:37:39+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "a04190e5e8e98242",
-  "federation": "bisiklet",
-  "federation_name": "Türkiye Bisiklet Federasyonu",
-  "federation_short": "TBF",
-  "title": "DAĞ BİSİKLETİ | Türkiye Şampiyonası 6.Etap Ulusal Dağ Bisikleti Yarışı ve Kahramanmaraş Ulusal Dağ Bisikleti Yarış Serisi 26 - 28 Ağustos 2026 Kahramanmaraş - Türkiye Bisiklet Federasyonu",
-  "url": "https://bisiklet.org.tr/dag-bisikleti-turkiye-sampiyonasi-6-etap-ulusal-dag-bisikleti-yarisi-ve-kahramanmaras-ulusal-dag-bisikleti-yaris-serisi-26-28-agustos-2026-kahramanmaras/",
-  "summary": "Federasyonumuzun 2026 yılı faaliyet programında yer alan Türkiye Şampiyonası 6.Etap Ulusal Dağ Bisikleti Yarışı ve Kahramanmaraş Ulusal Dağ Bisikleti Yarış Seris 26-28 Ağustos 2026 tarihlerinde Kahramanmaraş’ta gerçekleştirilecektir. Yarışa ilişkin detaylı bilgiler ekte yer almaktadır. Federasyon Faaliyet Programı’nda yer alan Türkiye Şampiyonası 6.Etap Ulusal Dağ Bisikleti Yarışı ve Kahramanmaraş Ulusal Dağ Bisikleti Yarış Serisi‘nın kayıtları Federasyonumuzun…",
-  "image": "https://bisiklet.org.tr/wp-content/uploads/2026/01/2150815939.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-14T11:29:27+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  }

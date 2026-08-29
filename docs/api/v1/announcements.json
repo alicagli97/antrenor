@@ -1,5 +1,88 @@
 [
  {
+  "id": "34683d65f69931bb",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U17 Kız Millî Takımımızın Hazırlık Kampı Tamamlandı",
+  "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51233",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "milli_takim"
+  ],
+  "published_at": "2026-08-29T18:24:25+00:00",
+  "first_seen_at": "2026-08-29T18:24:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "2a72200969a3c81e",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Trendyol Süper Lig'de 4. Hafta Programı Güncellendi",
+  "url": "https://www.tff.org/default.aspx?pageID=201&ftxtID=51232",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka",
+   "burs"
+  ],
+  "published_at": "2026-08-29T18:24:25+00:00",
+  "first_seen_at": "2026-08-29T18:24:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0f7ed424c9c6d7b6",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-29T18:22:29+00:00",
+  "first_seen_at": "2026-08-29T18:22:29+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "00a3f9d968346514",
+  "federation": "bisiklet",
+  "federation_name": "Türkiye Bisiklet Federasyonu",
+  "federation_short": "TBF",
+  "title": "Tour of Samsun 2026’da Üçüncü Etap Tamamlandı",
+  "url": "https://bisiklet.org.tr/tour-of-samsun-2026da-ucuncu-etap-tamamlandi/",
+  "summary": "UCI’nin ve Federasyonumuzun 2026 yılı faaliyet takviminde yer alan Tour of Samsun 2026 kapsamında düzenlenen yarışın üçüncü etabı, 130,6 kilometrelik Doğupark – Alaçam (Geyikkoşan) etabı ile tamamlandı. Samsun Doğupark’tan verilen startın ardından sporcular, Alaçam Geyikkoşan’a uzanan zorlu parkurda mücadele etti. Büyük çekişmeye sahne olan etapta Konya Büyükşehir Belediye Spor Kulübü sporcusu ve milli sporcumuz Ramazan…",
+  "image": "https://bisiklet.org.tr/wp-content/uploads/2026/08/DSC06912-1-scaled.jpeg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-29T16:52:22+00:00",
+  "first_seen_at": "2026-08-29T18:24:25+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "77543e1ac8439889",
+  "federation": "gelenekselguresler",
+  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
+  "federation_short": "TGGF",
+  "title": "5.ulugazi Yağlı Güreşleri",
+  "url": "https://tggf.org.tr/5-ulugazi-yagli-guresleri/",
+  "summary": "Benzer Haberler ... İPSALA BELEDİYESİ YAĞLI GÜREŞLERİ Duyurular , Haberler ATAKUM BELEDİYESİ YAĞLI GÜREŞLERİ Duyurular , Haberler ÇARDAK BELEDİYESİ 292. GELENEKSEL YAĞLI GÜREŞLERİ Duyurular , Haberler",
+  "image": "https://tggf.org.tr/wp-content/uploads/2026/08/ulugazi_ilk_dort.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-29T16:14:47+00:00",
+  "first_seen_at": "2026-08-29T18:24:25+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "6986c469c8721622",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -4011,22 +4094,19 @@
   "source": "takvim-html"
  },
  {
-  "id": "034e3c709c685b65",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-29T02:06:17+00:00",
-  "first_seen_at": "2026-08-29T02:06:17+00:00",
-  "source": "takvim-html"
+  "id": "38c2d8658586171e",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "2026-2027 SEZONUNDA PETANK LİGLERİNDE YARIŞACAK OLAN TAKIMLAR - Duyurular",
+  "url": "https://tbbdf.org.tr/2026-2027-sezonunda-petank-liglerinde-yarisacak-olan-takimlar",
+  "summary": "TBBDF Haberler Duyurular 2026-2027 SEZONUNDA PETANK LİGLERİNDE YARIŞACAK OLAN TAKIMLAR 2026-2027 SEZONUNDA PETANK LİGLERİNDE YARIŞACAK OLAN TAKIMLAR 2026-2027 Sezonunda Petank Liglerinde yarışacak olan takımlar aşağıda yayınlanmıştır. Federasyon Başkanlığımızın 2026-2027 Sezonunda Petank 1.Ligi ve 2. Liginde yarışacak olan takımlar aşağıda yayınlanmıştır. Katılacak olan tüm sporcularımıza başarılar dileriz. 2026-2027 bocce Ligleri takımlar #2026-2027 #takimlar #yarişacak #olan #sezonunda #liglerinde #petank Toplam Görüntülenme 12 29 Ağustos 2026, Cumartesi TÜMÜNÜ GÖRÜNTÜLE Duyurular 2026-2027 ",
+  "image": "https://tbbdf.org.tr/images/tr.gif",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-29T00:00:00+00:00",
+  "first_seen_at": "2026-08-29T18:24:25+00:00",
+  "source": "html"
  },
  {
   "id": "44e6317a2667d0ee",

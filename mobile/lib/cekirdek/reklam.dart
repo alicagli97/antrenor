@@ -16,9 +16,14 @@ class Reklam {
   ///
   /// [testModu] açıkken Google'ın resmî test birimleri kullanılır: gerçek
   /// reklam gösterilmez, geçersiz tıklama sayılmaz, hesap kapanma riski olmaz.
-  /// Play'de yayına çıkarken false yapılacak — uygulama mağazada listelenene
-  /// kadar AdMob zaten gerçek reklam sunmuyor, o yüzden acelesi yok.
-  static const bool testModu = true;
+  ///
+  /// Uygulama 29 Ağustos 2026'da App Store'da yayına girdi ve AdMob'a mağaza
+  /// bağlantısı eklendi; artık gerçek reklam sunulabiliyor.
+  ///
+  /// UYARI: Kendi telefonunuzda gerçek reklama dokunmayın. AdMob bunu
+  /// "geçersiz trafik" sayıp hesabı kapatabiliyor. Test edeceğiniz cihazın
+  /// kimliğini [testCihazlari] listesine ekleyin.
+  static const bool testModu = false;
 
   static const _testOdulluAndroid = 'ca-app-pub-3940256099942544/5224354917';
   static const _testOdulluIos = 'ca-app-pub-3940256099942544/1712485313';

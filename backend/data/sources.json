@@ -8,30 +8,51 @@
    "dated_ratio": 0.12,
    "label": "TÜM HABERLER İÇİN TIKLAYINIZ...",
    "sample": [
-    "UEFA, 2026-2027 sezonunda Şampiyonlar Ligi’nde mücadele edecek kulüplere yönelik yeni oyun kuralları eğitim programı kapsamında Galatasaray’a verilecek eğitim için, Merkez Hakem Kurulu (MHK) Elit Hakem Direktörü Anthony Taylor’ı görevlendirdi.",
-    "U16 Millî Takımımız, Trabzon’da Gürcistan ile oynayacağı özel maçların hazırlıklarını Özkan Sümer Futbol Akademisi Tesisleri’nde yaptığı antrenmanlarla tamamladı.",
-    "Elim bir trafik kazası sonucu genç yaşta vefat eden çalışma arkadaşımız Türkiye Futbol Federasyonu Stadyum Güvenlik Birim Sorumlusu Ebubekir Uçar’ın anısına 21-24 Ağustos tarihleri arasında oynanacak tüm Profesyonel Lig müsabakaları öncesinde 1 dakik..."
+    "Trendyol 1. Lig’de 5. hafta maçlarının müsabaka görevlileri belirlenmiştir.",
+    "Trendyol Süper Lig Adnan Süvari Sezonu 3. hafta son gün müsabakaları 31 Ağustos’ta, Trendyol Süper Lig Adnan Süvari Sezonu 4. hafta müsabakaları 4…",
+    "U17 Millî Takımımız, Macaristan’da düzenlenen Telki Cup Turnuvası’nın son maçında Suudi Arabistan’ı 4-0 mağlup etti."
    ]
   }
  ],
  "boks": [
   {
-   "url": "https://www.turkboks.gov.tr/category/haber/",
-   "kind": "html",
-   "score": 40,
-   "item_count": 12,
-   "dated_ratio": 0,
-   "label": "haber kategorisi",
-   "sample": []
-  },
-  {
    "url": "https://www.turkboks.gov.tr/wp-json/wp/v2/posts?per_page=20&_embed",
    "kind": "wp_json",
-   "score": 40,
-   "item_count": 12,
-   "dated_ratio": 0,
+   "score": 61.0,
+   "item_count": 20,
+   "dated_ratio": 1.0,
    "label": "WordPress REST",
-   "sample": []
+   "sample": [
+    "İhaleler",
+    "PLANLAMA VE KOORDİNASYON KURULU",
+    "BİLİM KURULU"
+   ]
+  },
+  {
+   "url": "https://www.turkboks.gov.tr/feed/",
+   "kind": "rss",
+   "score": 55.0,
+   "item_count": 10,
+   "dated_ratio": 1.0,
+   "label": "RSS",
+   "sample": [
+    "Akdeniz Oyunları’nı 6 Madalya ile Tamamladık!",
+    "YEŞİLAY U-23 KADINLAR VE ERKEKLER TÜRKİYE FERDİ BOKS ŞAMPİYONASI RİZE’DE BAŞLIYOR!",
+    "MİLLİ BOKSÖRLERİMİZDEN SIRBİSTAN’DA 6 MADALYA"
+   ]
+  },
+  {
+   "url": "https://www.turkboks.gov.tr/rss",
+   "kind": "rss",
+   "score": 55.0,
+   "item_count": 10,
+   "dated_ratio": 1.0,
+   "label": "RSS",
+   "sample": [
+    "Akdeniz Oyunları’nı 6 Madalya ile Tamamladık!",
+    "YEŞİLAY U-23 KADINLAR VE ERKEKLER TÜRKİYE FERDİ BOKS ŞAMPİYONASI RİZE’DE BAŞLIYOR!",
+    "MİLLİ BOKSÖRLERİMİZDEN SIRBİSTAN’DA 6 MADALYA"
+   ]
   }
  ],
  "dagcilik": [
@@ -43,9 +64,9 @@
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "Spor Tırmanış İleri Seviye Eğitimi – Nevşehir – Katılımcı Listesi",
-    "Malazgirt Zaferi Anma Süphan Dağı Tırmanışı Katılımcı Listesi",
-    "Spor Tırmanış 3. Kademe Antrenör Yetiştirme Kursu – Çanakkale Başvuruları"
+    "Malazgirt Zaferi Anma Tırmanışı Başarıyla Tamamlandı",
+    "📣 SPOR TIRMANIŞ ANTRENÖR GELİŞİM SEMİNERİ KATILIMCI LİSTESİ",
+    "Yaz Yürüyüş Liderliği Kursu – İstanbul Başvuruları"
    ]
   },
   {
@@ -56,22 +77,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Spor Tırmanış İleri Seviye Eğitimi – Nevşehir – Katılımcı Listesi",
-    "Malazgirt Zaferi Anma Süphan Dağı Tırmanışı Katılımcı Listesi",
-    "Spor Tırmanış 3. Kademe Antrenör Yetiştirme Kursu – Çanakkale Başvuruları"
-   ]
-  },
-  {
-   "url": "https://tdf.tr/rss",
-   "kind": "rss",
-   "score": 55.0,
-   "item_count": 10,
-   "dated_ratio": 1.0,
-   "label": "RSS",
-   "sample": [
-    "Spor Tırmanış İleri Seviye Eğitimi – Nevşehir – Katılımcı Listesi",
-    "Malazgirt Zaferi Anma Süphan Dağı Tırmanışı Katılımcı Listesi",
-    "Spor Tırmanış 3. Kademe Antrenör Yetiştirme Kursu – Çanakkale Başvuruları"
+    "Malazgirt Zaferi Anma Tırmanışı Başarıyla Tamamlandı",
+    "📣 SPOR TIRMANIŞ ANTRENÖR GELİŞİM SEMİNERİ KATILIMCI LİSTESİ",
+    "Yaz Yürüyüş Liderliği Kursu – İstanbul Başvuruları"
    ]
   }
  ],
@@ -84,9 +92,9 @@
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
+    "Veteranlar Dünya Şampiyonası Katılımı Hakkında",
     "Minikler Gelişim Kampı Hakkında",
-    "2. Kademe Antrenörlük Kursu Hakkında",
-    "3. KADEME GÜREŞ ANTRENÖRLÜĞÜ HAKKINDA"
+    "2. Kademe Antrenörlük Kursu Hakkında"
    ]
   },
   {
@@ -97,9 +105,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
+    "Veteranlar Dünya Şampiyonası Katılımı Hakkında",
     "Minikler Gelişim Kampı Hakkında",
-    "2. Kademe Antrenörlük Kursu Hakkında",
-    "3. KADEME GÜREŞ ANTRENÖRLÜĞÜ HAKKINDA"
+    "2. Kademe Antrenörlük Kursu Hakkında"
    ]
   },
   {
@@ -110,9 +118,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
+    "Veteranlar Dünya Şampiyonası Katılımı Hakkında",
     "Minikler Gelişim Kampı Hakkında",
-    "2. Kademe Antrenörlük Kursu Hakkında",
-    "3. KADEME GÜREŞ ANTRENÖRLÜĞÜ HAKKINDA"
+    "2. Kademe Antrenörlük Kursu Hakkında"
    ]
   }
  ],
@@ -120,40 +128,40 @@
   {
    "url": "https://taf.org.tr/wp-json/wp/v2/posts?per_page=20&_embed",
    "kind": "wp_json",
-   "score": 70.0,
+   "score": 69.5,
    "item_count": 20,
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "39.SADİ GÜLÇELİK YARIŞMALARI",
-    "U20 KULÜPLER LİGİ FİNAL YARIŞMASI STATÜSÜ",
-    "U18 KULÜPLER TÜRKİYE ŞAMPİYONASI"
+    "2026 Akdeniz Oyunları (1. Gün)",
+    "Şilan Ayyıldız Akdeniz Oyunları 3’üncüsü!",
+    "AKDENİZ OYUNLARI’NDA TARİHİ ŞAMPİYONLUK!"
    ]
   },
   {
    "url": "https://taf.org.tr/feed/",
    "kind": "rss",
-   "score": 55.0,
+   "score": 54.0,
    "item_count": 10,
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "39.SADİ GÜLÇELİK YARIŞMALARI",
-    "U20 KULÜPLER LİGİ FİNAL YARIŞMASI STATÜSÜ",
-    "U18 KULÜPLER TÜRKİYE ŞAMPİYONASI"
+    "2026 Akdeniz Oyunları (1. Gün)",
+    "Şilan Ayyıldız Akdeniz Oyunları 3’üncüsü!",
+    "AKDENİZ OYUNLARI’NDA TARİHİ ŞAMPİYONLUK!"
    ]
   },
   {
    "url": "https://taf.org.tr/rss",
    "kind": "rss",
-   "score": 55.0,
+   "score": 54.0,
    "item_count": 10,
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "39.SADİ GÜLÇELİK YARIŞMALARI",
-    "U20 KULÜPLER LİGİ FİNAL YARIŞMASI STATÜSÜ",
-    "U18 KULÜPLER TÜRKİYE ŞAMPİYONASI"
+    "2026 Akdeniz Oyunları (1. Gün)",
+    "Şilan Ayyıldız Akdeniz Oyunları 3’üncüsü!",
+    "AKDENİZ OYUNLARI’NDA TARİHİ ŞAMPİYONLUK!"
    ]
   }
  ],
@@ -168,9 +176,9 @@
    "dated_ratio": 1.0,
    "label": "Duyurular",
    "sample": [
-    "2. ve 3. Kademe Antrenör Yetiştirme Kursları Kursiyer Listeleri - Rize",
-    "Federasyonumuzun 2026 yılı faaliyet programında yer alan 1. ve 2.Dan Kursu ve Sınavı, 20-23 Ağustos 2026 tarihleri arasında İzmir'de düzenlenecektir.",
-    "20-23 Ağustos 2026 tarihleri arasında Diyarbakır'da yapılması planlanan 3. Dan Kursu ve Uygulama Eğitimi’nin kursa yeterli sayıda başvuru sağlanmadığı için İPTAL EDİLMİŞTİR"
+    "2. ve 3. Kademe Antrenör Yetiştirme Kursları Rize’de Başladı",
+    "1. ve 2. Dan Kursu ve Sınavı İzmir’de Başladı",
+    "SİYAH KUŞAK 1. 2. ve 3. DAN KURS ve SINAVI 4-7 Eylül 2026 BİLECİK"
    ]
   },
   {
@@ -181,70 +189,91 @@
    "dated_ratio": 1.0,
    "label": "haberler",
    "sample": [
-    "Ümit Millî Takımımız Dünya Şampiyonası İçin Ekvador’da Tatamiye Çıkacak",
-    "IBSA Judo Avrupa Şampiyonası’nı 7 Madalya ile Tamamladık",
-    "IBSA Judo Avrupa Şampiyonası’nın İlk Gününde 4 Madalya!"
+    "Millilerimizden Akdeniz Oyunları Takım Müsabakalarında Bronz Madalya!",
+    "İbrahim Tataroğlu Akdeniz Oyunları Şampiyonu!",
+    "Tuana Gülenay Akdeniz Oyunları Şampiyonu!"
    ]
   },
   {
-   "url": "https://www.judo.org.tr/duyuru/3636",
+   "url": "https://www.judo.org.tr/duyuru/3650",
    "kind": "html",
-   "score": 54.0,
-   "item_count": 19,
+   "score": 55.0,
+   "item_count": 20,
    "dated_ratio": 1.0,
-   "label": "2. ve 3. Kademe Antrenör Yetiştirme Kursları Kursiyer Listel",
+   "label": "2. ve 3. Kademe Antrenör Yetiştirme Kursları Rize’de Başladı",
    "sample": [
-    "Federasyonumuzun 2026 yılı faaliyet programında yer alan 1. ve 2.Dan Kursu ve Sınavı, 20-23 Ağustos 2026 tarihleri arasında İzmir'de düzenlenecektir.",
-    "20-23 Ağustos 2026 tarihleri arasında Diyarbakır'da yapılması planlanan 3. Dan Kursu ve Uygulama Eğitimi’nin kursa yeterli sayıda başvuru sağlanmadığı için İPTAL EDİLMİŞTİR",
-    "SİYAH KUŞAK 1. 2. DAN KURS ve SINAVI / 20-23 Ağustos 2026 İZMİR"
+    "1. ve 2. Dan Kursu ve Sınavı İzmir’de Başladı",
+    "SİYAH KUŞAK 1. 2. ve 3. DAN KURS ve SINAVI 4-7 Eylül 2026 BİLECİK",
+    "2. ve 3. Kademe Antrenör Yetiştirme Kursları Kursiyer Listeleri - Rize"
    ]
   }
  ],
  "voleybol": [
   {
-   "url": "https://tvf.org.tr/icerikler/tvf-duyurular",
+   "url": "https://tvf.org.tr/icerikler/mhgk-duyurular/",
    "kind": "html",
-   "score": 40,
+   "score": 47.0,
    "item_count": 12,
-   "dated_ratio": 0,
-   "label": "TVF duyurular",
-   "sample": []
+   "dated_ratio": 1.0,
+   "label": "MHGK Duyurular",
+   "sample": [
+    "Ulusal Hakemliğe Terfi Ön Sınavı Duyurusu",
+    "2026-2027 Sezonu Çevrim İçi Voleybol Hakem ve Gözlemci Klasman Sınavı Duyurusu",
+    "Aday Hakem Kursu Duyurusu: 15 – 17 Mayıs 2026, Erzincan"
+   ]
   },
   {
-   "url": "https://tvf.org.tr/icerikler/haberler",
+   "url": "https://tvf.org.tr/icerik/30-agustos-zafer-bayramimiz-kutlu-olsun-9",
    "kind": "html",
-   "score": 40,
-   "item_count": 12,
-   "dated_ratio": 0,
-   "label": "haberler",
-   "sample": []
+   "score": 43.0,
+   "item_count": 8,
+   "dated_ratio": 1.0,
+   "label": "Haber 30 Ağustos Zafer Bayramımız Kutlu Olsun",
+   "sample": [
+    "Ağustos Zafer Bayramımız Kutlu Olsun 29 Ağustos 2026",
+    "Kadın Milli Takımımız, 2026 Akdeniz Oyunları'nda Finalde İtalya ile Karşılaşacak 30 Ağustos 2026",
+    "Erkek Milli Takımımız, 2026 Akdeniz Oyunları'nı Dördüncü Tamamladı 30 Ağustos 2026"
+   ]
+  },
+  {
+   "url": "https://tvf.org.tr/icerik/2026-bioderma-pro-beach-tour-bartin-etabi-sona-erdi",
+   "kind": "html",
+   "score": 43.0,
+   "item_count": 8,
+   "dated_ratio": 1.0,
+   "label": "Haber 2026 Bioderma Pro Beach Tour Bartın Etabı Sona Erdi",
+   "sample": [
+    "Ağustos Zafer Bayramımız Kutlu Olsun 29 Ağustos 2026",
+    "Kadın Milli Takımımız, 2026 Akdeniz Oyunları'nda Finalde İtalya ile Karşılaşacak 30 Ağustos 2026",
+    "Erkek Milli Takımımız, 2026 Akdeniz Oyunları'nı Dördüncü Tamamladı 30 Ağustos 2026"
+   ]
   }
  ],
  "karate": [
   {
    "url": "https://karate.gov.tr/haberler.php",
    "kind": "html",
-   "score": 46.0,
-   "item_count": 11,
+   "score": 47.0,
+   "item_count": 12,
    "dated_ratio": 1.0,
    "label": "TÜM HABERLER",
    "sample": [
-    "HABER 15.08.2026 SİLİVRİ CEZAEVLERİYLE DEĞİL, SPORLA ANILACAK Ulusal Haberler Türkiye Ümit, U21 ve Büyükler Açık Sıklet Kyokushin Şampiyonasının açılış töreni gerçekleştirildi.... DEVAMINI OKU",
-    "HABER 10.08.2026 Uluslararası Dövüş Sporları ve Spor Bilimleri Sempozyumu Malatya’da Ulusal Haberler Uluslararası Dövüş Sporları ve Spor Bilimleri Sempozyumu, 20–21 Ekim’de Malatya’da düzenlenecek.... DEVAMINI OKU",
-    "HABER 05.08.2026 Türkiye Kulüpler Karate Süper Ligi Ulusal Haberler Türkiye Süper Ligi... DEVAMINI OKU"
+    "ULUSLARARASI TURKISH OPEN KARATE TURNUVASI TAMAMLANDI",
+    "Turkish Open Öncesi Üç Milli Takımdan Ortak Antrenman",
+    "SİLİVRİ CEZAEVLERİYLE DEĞİL, SPORLA ANILACAK"
    ]
   },
   {
    "url": "https://karate.gov.tr/duyurular.php",
    "kind": "html",
-   "score": 46.0,
-   "item_count": 11,
+   "score": 47.0,
+   "item_count": 12,
    "dated_ratio": 1.0,
    "label": "TÜM DUYURULAR",
    "sample": [
-    "DUYURU 11.08.2026 KIRKLARELİ SPOR ŞENLİGİ MİNİK YILDIZ MÜSABAKASI YARIŞMA Minikler, Yıldızlar Kırklareli Spor Şenliği... DEVAMINI OKU",
-    "DUYURU 21.07.2026 BASEL OPEN KARATE TURNUVASI FEDERASYON Basel Open Karate Turnuvası... DEVAMINI OKU",
-    "DUYURU 01.07.2026 DUYURU FEDERASYON CAMİAMIZA DUYURULUR... DEVAMINI OKU"
+    "KIRKLARELİ SPOR ŞENLİGİ MİNİK YILDIZ MÜSABAKASI",
+    "BASEL OPEN KARATE TURNUVASI",
+    "KARATEYE BİLİMSEL KATKI: NESLİHAN EKŞİ’NİN ÇALIŞMASI YAYIMLANDI"
    ]
   },
   {
@@ -255,8 +284,8 @@
    "dated_ratio": 1.0,
    "label": "KIRKLARELİ SPOR ŞENLİGİ MİNİK YILDIZ MÜSABAKASI 11.08.2026",
    "sample": [
-    "FEDERASYON 21.07.2026 BASEL OPEN KARATE TURNUVASI",
-    "FEDERASYON 18.07.2026 KARATEYE BİLİMSEL KATKI: NESLİHAN EKŞİ’NİN ÇALIŞMASI YAYIMLANDI",
+    "BASEL OPEN KARATE TURNUVASI",
+    "KARATEYE BİLİMSEL KATKI: NESLİHAN EKŞİ’NİN ÇALIŞMASI YAYIMLANDI",
     "FEDERASYON 01.07.2026 DUYURU"
    ]
   }
@@ -265,113 +294,91 @@
   {
    "url": "https://www.tyf.gov.tr/haberler/",
    "kind": "html",
-   "score": 44.916666666666664,
-   "item_count": 12,
-   "dated_ratio": 0.9166666666666666,
+   "score": 46.0,
+   "item_count": 11,
+   "dated_ratio": 1.0,
    "label": "Haberler",
    "sample": [
-    "BEBEK YÜZME GELİŞİM SEMİNERİ DUYURUSU",
-    "2026-2027 SEZONU YÜZME FAALİYET TAKVİMİ YAYINDA!",
-    "2. KADEME YÜZME ANTRENÖRÜ YETİŞTİRME KURSU 24-28 AĞUSTOS 2026 ANKARA"
+    "YÜZME BRANŞI ADAY HAKEM YETİŞTİRME KURSLARI KÜTAHYA, DİYARBAKIR, ORDU",
+    "2026-2027 (SEM) SPORCU EĞİTİM MERKEZLERİ SPORCU ALIMLARI BAŞLIYOR",
+    "1. KADEME YÜZME ANTRENÖRÜ YETİŞTİRME KURSU 7-11 EYLÜL 2026 ANKARA"
    ]
   },
   {
-   "url": "https://www.tyf.gov.tr/haber/bebek-yuzme-gelisim-semineri-duyurusu.html",
-   "kind": "html",
-   "score": 43.0,
-   "item_count": 8,
-   "dated_ratio": 1.0,
-   "label": "BEBEK YÜZME GELİŞİM SEMİNERİ DUYURUSU",
-   "sample": [
-    "2026-2027 SEZONU YÜZME FAALİYET TAKVİMİ YAYINDA!",
-    "2. KADEME YÜZME ANTRENÖRÜ YETİŞTİRME KURSU 24-28 AĞUSTOS 2026 ANKARA",
-    "TÜRKİYE YÜZME FEDERASYONU PARA YÜZME ve DEAF YÜZME GÜNCEL SINIFLANDIRMA LİSTESİ"
-   ]
-  },
-  {
-   "url": "https://www.tyf.gov.tr/haber/2-kademe-yuzme-antrenoru-yetistirme-kursu-24-28-agustos-2026-ankara.html",
+   "url": "https://www.tyf.gov.tr/haber/2026-2027-sezonu-vize-ve-akreditasyon-islemleri-basladi.html",
    "kind": "html",
    "score": 43.0,
    "item_count": 8,
    "dated_ratio": 1.0,
    "label": "liste",
    "sample": [
-    "BEBEK YÜZME GELİŞİM SEMİNERİ DUYURUSU",
-    "2026-2027 SEZONU YÜZME FAALİYET TAKVİMİ YAYINDA!",
-    "TÜRKİYE YÜZME FEDERASYONU PARA YÜZME ve DEAF YÜZME GÜNCEL SINIFLANDIRMA LİSTESİ"
+    "YÜZME BRANŞI ADAY HAKEM YETİŞTİRME KURSLARI KÜTAHYA, DİYARBAKIR, ORDU",
+    "2026-2027 (SEM) SPORCU EĞİTİM MERKEZLERİ SPORCU ALIMLARI BAŞLIYOR",
+    "1. KADEME YÜZME ANTRENÖRÜ YETİŞTİRME KURSU 7-11 EYLÜL 2026 ANKARA"
+   ]
+  },
+  {
+   "url": "https://www.tyf.gov.tr/haber/2026-2027-sem-sporcu-egitim-merkezleri-sporcu-alimlari-basliyor.html",
+   "kind": "html",
+   "score": 43.0,
+   "item_count": 8,
+   "dated_ratio": 1.0,
+   "label": "2026-2027 (SEM) SPORCU EĞİTİM MERKEZLERİ SPORCU ALIMLARI BAŞ",
+   "sample": [
+    "YÜZME BRANŞI ADAY HAKEM YETİŞTİRME KURSLARI KÜTAHYA, DİYARBAKIR, ORDU",
+    "1. KADEME YÜZME ANTRENÖRÜ YETİŞTİRME KURSU 7-11 EYLÜL 2026 ANKARA",
+    "BEBEK YÜZME GELİŞİM SEMİNERİ DUYURUSU"
    ]
   }
  ],
  "tenis": [
   {
-   "url": "http://www.ttf.org.tr/tr/haberler",
+   "url": "http://www.ttf.org.tr/tr/duyurular/performans-duyurulari",
    "kind": "html",
-   "score": 30,
+   "score": 45.0,
    "item_count": 10,
-   "dated_ratio": 0,
-   "label": "haberler",
-   "sample": []
+   "dated_ratio": 1.0,
+   "label": "Performans Duyuruları",
+   "sample": [
+    "Pickleball Milli Takım Belirleme Turnuvası",
+    "Yaş Altı Türkiye Takım Şampiyonası Final Müsabakaları Takım Listeleri",
+    "Pickleball Türkiye Şampiyonası'na Başvurular Başladı"
+   ]
+  },
+  {
+   "url": "http://www.ttf.org.tr/tr/duyurular/masters-duyurulari",
+   "kind": "html",
+   "score": 45.0,
+   "item_count": 10,
+   "dated_ratio": 1.0,
+   "label": "Masters Duyuruları",
+   "sample": [
+    "Türkiye Bireysel Masters Şampiyonası",
+    "Yılı Avrupa Takımlar Şampiyonası Duyurusu",
+    "21. Masters Kulüplerarası Türkiye Takımlar Şampiyonası Sonuçları"
+   ]
   },
   {
    "url": "http://www.ttf.org.tr/tr/duyurular/hakem-duyurulari",
    "kind": "html",
-   "score": 44.0,
-   "item_count": 9,
+   "score": 45.0,
+   "item_count": 10,
    "dated_ratio": 1.0,
    "label": "Hakem Duyuruları",
    "sample": [
-    "Ocak-Ekim Uluslararası Hakem Atamaları Ocak-Ekim Uluslararası Hakem Atamaları 15 Ağustos 2026 Detaylar",
-    "WTA 125 Türk Telekom Ankara Cup Çizgi Hakemliği Başvurusu WTA 125 Türk Telekom Ankara Cup turnuvası 20-27 Eylül 2026 tarihleri arasında Ankara Topspin Spor Kulübü'nde düzenlenecektir. 14 Ağustos 2026 Detaylar",
-    "Istanbul Challenger TED Open ve ATİK Antalya Open WTA 125 Çizgi Hakemliği Başvuruları Istanbul Challenger TED Open ve ATİK Antalya Open WTA 125 turnuvaları 6-13 Eylül tarihleri arasında düzenlenecektir. 08 Ağustos 2026 Detaylar"
-   ]
-  },
-  {
-   "url": "http://www.ttf.org.tr/tr/duyurular/antrenor-duyurulari",
-   "kind": "html",
-   "score": 42.0,
-   "item_count": 7,
-   "dated_ratio": 1.0,
-   "label": "Antrenör Duyuruları",
-   "sample": [
-    "3.Kademe Kıdemli Antrenör Yetiştirme Kursu-Iğdır Türkiye Tenis Federasyonu tarafından Iğdır'da düzenlenecek olan 3. Kademe Kıdemli Antrenör Yetiştirme Kursu ile ilgili bilgiye aşağıdaki dokümandan erişebilirsiniz. 06 Ağustos 2026 Detaylar",
-    "1.Kademe Yardımcı Antrenör Yetiştirme Kursu Pickleball Muğla Muğla ilinde gerçekleştirilecek olan Pickleball 1. Kademe Yardımcı Antrenör Yetiştirme Kursu’na ilişkin bilgiye aşağıdaki dökümandan erişebilirsiniz. 22 Temmuz 2026 Detaylar",
-    "3.Kademe Kıdemli Antrenör Yetiştirme Kursu-Muğla Türkiye Tenis Federasyonu tarafından Muğla'da düzenlenecek olan 3. Kademe Kıdemli Antrenör Yetiştirme Kursu ile ilgili bilgiye aşağıdaki dosyadan erişebilirsiniz. 03 Temmuz 2026 Detaylar"
-   ]
-  },
-  {
-   "url": "http://www.ttf.org.tr/tr/haber-bulteni",
-   "kind": "html",
-   "score": 42.0,
-   "item_count": 7,
-   "dated_ratio": 1.0,
-   "label": "Haber Bülteni",
-   "sample": [
-    "Mayıs Haber Bülteni Mayıs Haber Bülteni 01 Mayıs 2026 Detaylar",
-    "Nisan Haber Bülteni Nisan Haber Bülteni 25 Nisan 2026 Detaylar",
-    "Mart Haber Bülteni Mart Haber Bülteni 13 Nisan 2026 Detaylar"
+    "Muğla Pickleball Aday Hakem Yetiştirme Kursu",
+    "WTA 125 Adana Open Çizgi Hakemliği Başvurusu",
+    "Şubat-Eylül 2026 Masters Hakem Atamaları"
    ]
   }
  ],
  "masatenisi": [
   {
-   "url": "https://tmtf.gov.tr/haberler-35",
-   "kind": "html",
-   "score": 51.25,
-   "item_count": 40,
-   "dated_ratio": 0.05,
-   "label": "Fikstür",
-   "sample": [
-    "NAVEK Elit Süper Grup’ta Sezon Tamamlandı",
-    "Navek Elit Süper Lig 4. Etap Sona Erdi",
-    "Süper Lig Süper Grup 1. Etap Müsabakaları Tamamlandı"
-   ]
-  },
-  {
    "url": "https://tmtf.gov.tr/haberler-33",
    "kind": "html",
-   "score": 50.72727272727273,
-   "item_count": 55,
-   "dated_ratio": 0.03636363636363636,
+   "score": 50.283018867924525,
+   "item_count": 53,
+   "dated_ratio": 0.018867924528301886,
    "label": "SÜPER LİG",
    "sample": [
     "NAVEK Elit Süper Grup’ta Sezon Tamamlandı",
@@ -380,11 +387,24 @@
    ]
   },
   {
+   "url": "https://tmtf.gov.tr/haberler-35",
+   "kind": "html",
+   "score": 49.64102564102564,
+   "item_count": 39,
+   "dated_ratio": 0.02564102564102564,
+   "label": "Fikstür",
+   "sample": [
+    "NAVEK Elit Süper Grup’ta Sezon Tamamlandı",
+    "Navek Elit Süper Lig 4. Etap Sona Erdi",
+    "Süper Lig Süper Grup 1. Etap Müsabakaları Tamamlandı"
+   ]
+  },
+  {
    "url": "https://tmtf.gov.tr/haberler-34",
    "kind": "html",
-   "score": 49.31578947368421,
-   "item_count": 38,
-   "dated_ratio": 0.05263157894736842,
+   "score": 47.67567567567568,
+   "item_count": 37,
+   "dated_ratio": 0.02702702702702703,
    "label": "Puan Durumu",
    "sample": [
     "NAVEK Elit Süper Grup’ta Sezon Tamamlandı",
@@ -397,20 +417,41 @@
   {
    "url": "https://www.taf.gov.tr/tr/duyurular",
    "kind": "html",
-   "score": 40,
+   "score": 47.0,
    "item_count": 12,
-   "dated_ratio": 1,
-   "label": "duyurular",
-   "sample": []
+   "dated_ratio": 1.0,
+   "label": "tüm duyurular >",
+   "sample": [
+    "YENİ E-TAF SİSTEMİ ŞİFRE TALEBİ VE YARIŞMA BAŞVURU İŞLEMLERİ",
+    "TRAP-SKEET TÜRKİYE ŞAMPİYONASI YARIŞMALARI REGLAMANI",
+    "TRAP TÜRKİYE ŞAMPİYONASINA KATILMAYA HAK KAZANAN SPORCU LİSTESİ"
+   ]
   },
   {
-   "url": "https://www.taf.gov.tr/tr/haberler",
+   "url": "https://www.taf.gov.tr/duyurular",
    "kind": "html",
-   "score": 38,
+   "score": 47.0,
    "item_count": 12,
-   "dated_ratio": 1,
-   "label": "haberler",
-   "sample": []
+   "dated_ratio": 1.0,
+   "label": "duyurular",
+   "sample": [
+    "YENİ E-TAF SİSTEMİ ŞİFRE TALEBİ VE YARIŞMA BAŞVURU İŞLEMLERİ",
+    "TRAP-SKEET TÜRKİYE ŞAMPİYONASI YARIŞMALARI REGLAMANI",
+    "TRAP TÜRKİYE ŞAMPİYONASINA KATILMAYA HAK KAZANAN SPORCU LİSTESİ"
+   ]
+  },
+  {
+   "url": "https://www.taf.gov.tr/Duyurular",
+   "kind": "html",
+   "score": 47.0,
+   "item_count": 12,
+   "dated_ratio": 1.0,
+   "label": "Duyurular",
+   "sample": [
+    "YENİ E-TAF SİSTEMİ ŞİFRE TALEBİ VE YARIŞMA BAŞVURU İŞLEMLERİ",
+    "TRAP-SKEET TÜRKİYE ŞAMPİYONASI YARIŞMALARI REGLAMANI",
+    "TRAP TÜRKİYE ŞAMPİYONASINA KATILMAYA HAK KAZANAN SPORCU LİSTESİ"
+   ]
   }
  ],
  "bisiklet": [
@@ -422,9 +463,9 @@
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "Yol Bisikleti Milli Takımımız 20. Akdeniz Oyunları İçin İtalya’da",
-    "PİST BİSİKLETİ | 2026 Gençler Pist Bisikleti Dünya Şampiyonası Belçika’da",
-    "YOL BİSİKLETİ | Ordu Black Sea Classic Tamamlandı"
+    "YOL BİSİKLETİ | Tour of Samsun 2026 Tamamlandı",
+    "Tour of Samsun 2026’da Üçüncü Etap Tamamlandı",
+    "Samsun Valisi Sayın Orhan Tavlı’ya Ziyaret"
    ]
   },
   {
@@ -435,9 +476,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Yol Bisikleti Milli Takımımız 20. Akdeniz Oyunları İçin İtalya’da",
-    "PİST BİSİKLETİ | 2026 Gençler Pist Bisikleti Dünya Şampiyonası Belçika’da",
-    "YOL BİSİKLETİ | Ordu Black Sea Classic Tamamlandı"
+    "YOL BİSİKLETİ | Tour of Samsun 2026 Tamamlandı",
+    "Tour of Samsun 2026’da Üçüncü Etap Tamamlandı",
+    "Samsun Valisi Sayın Orhan Tavlı’ya Ziyaret"
    ]
   },
   {
@@ -448,9 +489,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Yol Bisikleti Milli Takımımız 20. Akdeniz Oyunları İçin İtalya’da",
-    "PİST BİSİKLETİ | 2026 Gençler Pist Bisikleti Dünya Şampiyonası Belçika’da",
-    "YOL BİSİKLETİ | Ordu Black Sea Classic Tamamlandı"
+    "YOL BİSİKLETİ | Tour of Samsun 2026 Tamamlandı",
+    "Tour of Samsun 2026’da Üçüncü Etap Tamamlandı",
+    "Samsun Valisi Sayın Orhan Tavlı’ya Ziyaret"
    ]
   }
  ],
@@ -458,40 +499,40 @@
   {
    "url": "https://turkiyetaekwondofed.gov.tr/wp-json/wp/v2/posts?per_page=20&_embed",
    "kind": "wp_json",
-   "score": 69.0,
+   "score": 68.5,
    "item_count": 20,
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "Gazi Kulüpler Türkiye Taekwondo Şampiyonası (Seremoni)",
-    "2026 Gazi Türkiye Kulüpler Taekwondo Şampiyonası",
-    "Gazi Türkiye Kulüpler Taekwondo Şampiyonası (İşitme Engelli Sporcular)"
+    "30 Ağustos Zafer Bayramı",
+    "2026 Ümitler Taekwondo Grup Müsabakaları",
+    "Anadolu Yıldızlar Ligi Taekwondo Türkiye Şampiyonası"
    ]
   },
   {
    "url": "https://turkiyetaekwondofed.gov.tr/feed/",
    "kind": "rss",
-   "score": 55.0,
+   "score": 54.0,
    "item_count": 10,
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Gazi Kulüpler Türkiye Taekwondo Şampiyonası (Seremoni)",
-    "2026 Gazi Türkiye Kulüpler Taekwondo Şampiyonası",
-    "Gazi Türkiye Kulüpler Taekwondo Şampiyonası (İşitme Engelli Sporcular)"
+    "30 Ağustos Zafer Bayramı",
+    "2026 Ümitler Taekwondo Grup Müsabakaları",
+    "Anadolu Yıldızlar Ligi Taekwondo Türkiye Şampiyonası"
    ]
   },
   {
    "url": "https://turkiyetaekwondofed.gov.tr/rss",
    "kind": "rss",
-   "score": 55.0,
+   "score": 54.0,
    "item_count": 10,
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Gazi Kulüpler Türkiye Taekwondo Şampiyonası (Seremoni)",
-    "2026 Gazi Türkiye Kulüpler Taekwondo Şampiyonası",
-    "Gazi Türkiye Kulüpler Taekwondo Şampiyonası (İşitme Engelli Sporcular)"
+    "30 Ağustos Zafer Bayramı",
+    "2026 Ümitler Taekwondo Grup Müsabakaları",
+    "Anadolu Yıldızlar Ligi Taekwondo Türkiye Şampiyonası"
    ]
   }
  ],
@@ -499,14 +540,14 @@
   {
    "url": "https://www.badminton.org.tr/wp-json/wp/v2/posts?per_page=20&_embed",
    "kind": "wp_json",
-   "score": 70.0,
+   "score": 69.0,
    "item_count": 20,
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "Avrupa’da İlk Maç, İlk Galibiyet",
-    "Azerbaijan Junior Open 2026 Turnuvası Sona Erdi",
-    "Milliler Dünya Şampiyonası İçin Hindistan’da"
+    "Veteranlar Türkiye Badminton Şampiyonası Sona Erdi",
+    "30 Ağustos Zafer Bayramı",
+    "Navek Türkiye Challenge 2026 Reglamanı Yayınlandı"
    ]
   },
   {
@@ -545,65 +586,39 @@
    "dated_ratio": 1.0,
    "label": "Duyurular",
    "sample": [
-    "18 AĞUSTOS 18 Ağustos 2026 - Salı TBF DUYURU NO: 118/2026 8. CISM DÜNYA ASKERİ OYUNLARI HAKKINDA 25 Haziran - 04 Temmuz 2027 tarihlerinde Amerika Birleşik Devletleri'nde gerçekleştirilecek 8. CISM ünya Askeri Oyunları Hakkında",
-    "18 AĞUSTOS 18 Ağustos 2026 - Salı TBF DUYURU NO: 117/2026 AT TERBİYESİ – PARA AT TERBİYESİ WORLD CHALLENGE YARIŞMALARI At Terbiyesi – Para At Terbiyesi World Challenge Yarışmaları düzenlenecektir.",
-    "14 AĞUSTOS 14 Ağustos 2026 - Cuma TBF DUYURU NO: 116/2026 BAŞKENT BİNİCİLİK KULÜBÜ KATEGORİ BELGESİ SINAVI 19 Ağustos 2026 Çarşamba günü saat 13.00 'da Başkent Binicilik Kulübü’nde kategori belgesi sınavı yapılacaktır."
+    "TBF DUYURU NO: 121/2026 OLAĞAN MALİ GENEL KURUL KESİN DELEGE LİSTESİ",
+    "TBF DUYURU NO: 120/2026 OLAĞAN MALİ GENEL KURUL ÇAĞRI, GÜNDEM VE GEÇİCİ DELEGE LİSTESİ",
+    "TBF DUYURU NO: 119/2026 KULÜPLERİN İLETİŞİM BİLGİLERİNİN GÜNCELLENMESİ"
    ]
   },
   {
    "url": "https://binicilik.org.tr/haberler",
    "kind": "html",
-   "score": 42.0,
-   "item_count": 7,
+   "score": 42.888888888888886,
+   "item_count": 9,
    "dated_ratio": 1.0,
    "label": "Haberler",
    "sample": [
-    "ÜÇ GÜNLÜK YARIŞMA TÜRKİYE ŞAMPİYONASI TAMAMLANDI Üç Günlük Yarışma Türkiye Şampiyonası başarı ile tamamlandı. 27 Temmuz 2026 - Pazartesi",
-    "BORUSAN OTOMOTİV SPONSORLUĞUNDA TÜRKİYE KUPASI SAHİPLERİNİ BULDU Kadın, Veteran ve Yetişkin Biniciler Türkiye Kupaları Sahiplerini Buldu. 20 Temmuz 2026 - Pazartesi",
-    "60. YIL ATATÜRK KUPASI ENGEL ATLAMA YARIŞMALARI TAMAMLANDI 60. Yıl Atatürk Kupası Engel Atlama Yarışmaları başarı ile tamamlandı. 13 Temmuz 2026 - Pazartesi"
+    "TBF VETERİNER KURULU BAŞKANI DR. ALİ TAŞKIN ÖZDEMİR, AEF SEMİNER SERİSİ’NDE",
+    "ÜÇ GÜNLÜK YARIŞMA TÜRKİYE ŞAMPİYONASI TAMAMLANDI",
+    "BORUSAN OTOMOTİV SPONSORLUĞUNDA TÜRKİYE KUPASI SAHİPLERİNİ BULDU"
    ]
   },
   {
-   "url": "https://binicilik.org.tr/duyurular/tbf-duyuru-no-1182026-8-cism-dunya-askeri-oyunlari-hakkinda",
+   "url": "https://binicilik.org.tr/duyurular/tbf-duyuru-no-121-2026-olagan-mali-genel-kurul-kesin-delege-listesi",
    "kind": "html",
    "score": 41.0,
    "item_count": 6,
    "dated_ratio": 1.0,
-   "label": "18 AĞUSTOS 18 Ağustos 2026 - Salı TBF DUYURU NO: 118/2026 8.",
+   "label": "28 AĞUSTOS 28 Ağustos 2026 - Cuma TBF DUYURU NO: 121/2026 OL",
    "sample": [
-    "TBF DUYURU NO: 117/2026 AT TERBİYESİ – PARA AT TERBİYESİ WORLD CHALLENGE YARIŞMALARI 18 Ağustos 2026 - Salı",
-    "TBF DUYURU NO: 116/2026 BAŞKENT BİNİCİLİK KULÜBÜ KATEGORİ BELGESİ SINAVI 14 Ağustos 2026 - Cuma",
-    "TBF DUYURU NO: 115/2026 ATLI DAYANIKLILIK BALKAN ŞAMPİYONASI MİLLİ TAKIM KADROLARI BELİRLENDİ 11 Ağustos 2026 - Salı"
+    "TBF DUYURU NO: 120/2026 OLAĞAN MALİ GENEL KURUL ÇAĞRI, GÜNDEM VE GEÇİCİ DELEGE LİSTESİ",
+    "TBF DUYURU NO: 119/2026 KULÜPLERİN İLETİŞİM BİLGİLERİNİN GÜNCELLENMESİ",
+    "TBF DUYURU NO: 118/2026 8. CISM DÜNYA ASKERİ OYUNLARI HAKKINDA"
    ]
   }
  ],
  "kano": [
-  {
-   "url": "https://kano.org.tr/duyurular",
-   "kind": "html",
-   "score": 74.91666666666667,
-   "item_count": 120,
-   "dated_ratio": 1.0,
-   "label": "Duyuru ve Etkinlikler",
-   "sample": [
-    "TUNCELİ RAFTİNG NEHİR REHBERLİĞİ SINAV SONUÇLARI",
-    "İSTANBUL - DRAGON BOT DÜMENCİ EĞİTİMİ",
-    "AKARSU SLALOM TÜRKİYE ŞAMPİYONASI YARIŞLARI TAMAMLANDI"
-   ]
-  },
-  {
-   "url": "https://kano.org.tr/Duyurular",
-   "kind": "html",
-   "score": 74.91666666666667,
-   "item_count": 120,
-   "dated_ratio": 1.0,
-   "label": "Duyurular",
-   "sample": [
-    "TUNCELİ RAFTİNG NEHİR REHBERLİĞİ SINAV SONUÇLARI",
-    "İSTANBUL - DRAGON BOT DÜMENCİ EĞİTİMİ",
-    "AKARSU SLALOM TÜRKİYE ŞAMPİYONASI YARIŞLARI TAMAMLANDI"
-   ]
-  },
   {
    "url": "https://kano.org.tr/durgunsu-kano-duyuru",
    "kind": "html",
@@ -616,46 +631,72 @@
     "DURGUNSU KANO 2022 ADAY MİLLİ TAKIM SEÇME VE DEĞERLENDİRME TESTİ",
     "DURGUNSU KANO ADAY MİLLİ TAKIM SEÇME VE DEĞERLENDİRME TESTİ"
    ]
+  },
+  {
+   "url": "https://kano.org.tr/duyurular",
+   "kind": "html",
+   "score": 74.83333333333333,
+   "item_count": 120,
+   "dated_ratio": 1.0,
+   "label": "Duyuru ve Etkinlikler",
+   "sample": [
+    "9.MALİ GENEL KURUL KESİN DELEGE LİSTESİ BELİRLENDİ",
+    "İSTANBUL - DRAGON BOT DÜMENCİ EĞİTİMİ KATILIMCI LİSTESİ YAYINLANDI",
+    "SAMSUN - STAND UP PADDLE (SUP) 1. KADEME YARDIMCI TUR LİDERLİĞİ EĞİTİMİ SINAV SONUÇLARI"
+   ]
+  },
+  {
+   "url": "https://kano.org.tr/Duyurular",
+   "kind": "html",
+   "score": 74.83333333333333,
+   "item_count": 120,
+   "dated_ratio": 1.0,
+   "label": "Duyurular",
+   "sample": [
+    "9.MALİ GENEL KURUL KESİN DELEGE LİSTESİ BELİRLENDİ",
+    "İSTANBUL - DRAGON BOT DÜMENCİ EĞİTİMİ KATILIMCI LİSTESİ YAYINLANDI",
+    "SAMSUN - STAND UP PADDLE (SUP) 1. KADEME YARDIMCI TUR LİDERLİĞİ EĞİTİMİ SINAV SONUÇLARI"
+   ]
   }
  ],
  "eskrim": [
   {
-   "url": "https://www.eskrim.org.tr/odeme-islemleri-hakkinda-onemli-duyuru-2455.html",
+   "url": "https://www.eskrim.org.tr/sporda-koruma-safeguarding-hakkinda-duyuru-2621.html",
    "kind": "html",
-   "score": 66.6875,
-   "item_count": 32,
-   "dated_ratio": 1.0,
-   "label": "» ÖDEME İŞLEMLERİ HAKKINDA ÖNEMLİ DUYURU!",
+   "score": 47.12903225806452,
+   "item_count": 31,
+   "dated_ratio": 0.25806451612903225,
+   "label": "» Sporda Koruma / Safeguarding Hakkında Duyuru",
    "sample": [
-    "» U10 - U12 - U14 Kılıç Federasyon Kupası Talimatı - 16 - 18 Ekim 2026 Samsun",
-    "» U10 - U12 - U14 Flöre Federasyon Kupası Talimatı - 23 - 25 Ekim 2026 Şanlıurfa",
-    "» Veteranlar V1-V2-V3 Epe, Flöre ve Kılıç Türkiye Şampiyonası - 20 Eylül 2026 İstanbul"
+    "» Yıldızlar U14 - U17 Kılıç Circuit Turnuvası 02 - 04 Ekim 2026 İstanbul",
+    "» U10 - U12 - U14 Epe Federasyon Kupası Talimatı - 23 - 25 Ekim 2026 Erzurum",
+    "» U10 - U12 - U14 Kılıç Federasyon Kupası Talimatı - 16 - 18 Ekim 2026 Samsun"
+   ]
+  },
+  {
+   "url": "https://www.eskrim.org.tr/2026-yili-antrenor-vize-duyurusu-ve-basvuru-rehberi-hk-2611.html",
+   "kind": "html",
+   "score": 47.12903225806452,
+   "item_count": 31,
+   "dated_ratio": 0.25806451612903225,
+   "label": "» 2026 Yılı Antrenör Vize Duyurusu ve Başvuru Rehberi Hk.",
+   "sample": [
+    "» Yıldızlar U14 - U17 Kılıç Circuit Turnuvası 02 - 04 Ekim 2026 İstanbul",
+    "» U10 - U12 - U14 Epe Federasyon Kupası Talimatı - 23 - 25 Ekim 2026 Erzurum",
+    "» U10 - U12 - U14 Kılıç Federasyon Kupası Talimatı - 16 - 18 Ekim 2026 Samsun"
    ]
   },
   {
    "url": "https://www.eskrim.org.tr/2026-yili-vize-islemleri-icin-tesis-yeterlilik-belgesi-duyurusu-2425.html",
    "kind": "html",
-   "score": 66.6875,
-   "item_count": 32,
-   "dated_ratio": 1.0,
+   "score": 47.12903225806452,
+   "item_count": 31,
+   "dated_ratio": 0.25806451612903225,
    "label": "» 2026 Yılı Vize İşlemleri İçin Tesis Yeterlilik Belgesi Duy",
    "sample": [
-    "» U10 - U12 - U14 Kılıç Federasyon Kupası Talimatı - 16 - 18 Ekim 2026 Samsun",
-    "» U10 - U12 - U14 Flöre Federasyon Kupası Talimatı - 23 - 25 Ekim 2026 Şanlıurfa",
-    "» Veteranlar V1-V2-V3 Epe, Flöre ve Kılıç Türkiye Şampiyonası - 20 Eylül 2026 İstanbul"
-   ]
-  },
-  {
-   "url": "https://www.eskrim.org.tr/antrenor-akreditasyon-karti-duyurusu-2275.html",
-   "kind": "html",
-   "score": 66.6875,
-   "item_count": 32,
-   "dated_ratio": 1.0,
-   "label": "» Antrenör Akreditasyon Kartı Duyurusu",
-   "sample": [
-    "» U10 - U12 - U14 Kılıç Federasyon Kupası Talimatı - 16 - 18 Ekim 2026 Samsun",
-    "» U10 - U12 - U14 Flöre Federasyon Kupası Talimatı - 23 - 25 Ekim 2026 Şanlıurfa",
-    "» Veteranlar V1-V2-V3 Epe, Flöre ve Kılıç Türkiye Şampiyonası - 20 Eylül 2026 İstanbul"
+    "» Yıldızlar U14 - U17 Kılıç Circuit Turnuvası 02 - 04 Ekim 2026 İstanbul",
+    "» U10 - U12 - U14 Epe Federasyon Kupası Talimatı - 23 - 25 Ekim 2026 Erzurum",
+    "» U10 - U12 - U14 Kılıç Federasyon Kupası Talimatı - 16 - 18 Ekim 2026 Samsun"
    ]
   }
  ],
@@ -668,9 +709,9 @@
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "8. Mali Genel Kurul Duyurusu",
-    "U15 & U18 Okçuluk Ligi 2026 – 2027 Sezonu Katılım Esasları, Yarışma Takvimi ve Uygulama Kuralları Duyurusu",
-    "Milli Sporcularımızdan Ahmet Kütahyalı’yı Kaybettik"
+    "30 Ağustos Zafer Bayramımız Kutlu Olsun",
+    "Akdeniz Oyunları’nın Ardından Madalya Sayımız 70’e Yükseldi",
+    "Serdar Şatır, Para Okçuluk Gençlik Kampı’nda Eğitmen Olarak Görev Aldı"
    ]
   },
   {
@@ -681,9 +722,9 @@
    "dated_ratio": 1.0,
    "label": "Haberler",
    "sample": [
-    "Milli Sporcularımızdan Ahmet Kütahyalı’yı Kaybettik",
-    "Hüseyin Topbaş, Bezmiâlem Vakıf Üniversitesi Mütevelli Heyet Başkanlığına Seçildi",
-    "2026 Yeşilay Açık Hava Türkiye Şampiyonası (TSP3) Reglaman Duyurusu"
+    "Akdeniz Oyunları’nın Ardından Madalya Sayımız 70’e Yükseldi",
+    "Serdar Şatır, Para Okçuluk Gençlik Kampı’nda Eğitmen Olarak Görev Aldı",
+    "Akdeniz Oyunları’nda Finaldeyiz"
    ]
   },
   {
@@ -694,9 +735,9 @@
    "dated_ratio": 1.0,
    "label": "Duyurular",
    "sample": [
+    "8. Mali Genel Kurul Duyurusu",
     "U15 & U18 Okçuluk Ligi 2026 – 2027 Sezonu Katılım Esasları, Yarışma Takvimi...",
-    "2026 Yeşilay Açık Hava Türkiye Şampiyonası (TSP3) Reglaman Duyurusu",
-    "2026 Para Okçuluk Türkiye Şampiyonası (TSP-3) Reglaman Duyurusu"
+    "Yeşilay Açık Hava Türkiye Şampiyonası (TSP3) Reglaman Duyurusu"
    ]
   }
  ],
@@ -709,9 +750,9 @@
    "dated_ratio": 1.0,
    "label": "Duyurular",
    "sample": [
-    "19 Ağustos 2026",
-    "19 Ağustos 2026",
-    "19 Ağustos 2026"
+    "Ağustos 2026",
+    "Ağustos 2026",
+    "Ağustos 2026"
    ]
   },
   {
@@ -722,9 +763,9 @@
    "dated_ratio": 1.0,
    "label": "Haberler",
    "sample": [
-    "19 Ağustos 2026",
-    "18 Ağustos 2026",
-    "18 Ağustos 2026"
+    "Ağustos 2026",
+    "Ağustos 2026",
+    "Ağustos 2026"
    ]
   },
   {
@@ -735,9 +776,9 @@
    "dated_ratio": 1.0,
    "label": "Haberler",
    "sample": [
-    "25 Temmuz 2024",
-    "12 Haziran 2024",
-    "12 Haziran 2024"
+    "Temmuz 2024",
+    "Haziran 2024",
+    "Haziran 2024"
    ]
   }
  ],
@@ -750,9 +791,9 @@
    "dated_ratio": 1.0,
    "label": "duyurular",
    "sample": [
-    "Oral-B Uluslararası Boğaziçi Triatlonu Koordinasyon toplantısı yapıldı",
-    "2026 SEM Gelişim Kampı Başlıyor",
-    "Eğirdir Triatlonu Koordinasyon Toplantısı yapıldı"
+    "Afyon'da 2. Kademe Temel Antrenör Kursu",
+    "Adalar Triatlonu Hakkında Duyuru",
+    "2026 15 Temmuz Yeşilay Eğirdir Triatlonu fotoğraf arşivi"
    ]
   },
   {
@@ -763,9 +804,9 @@
    "dated_ratio": 1.0,
    "label": "Duyurular",
    "sample": [
-    "2026 Uluslararası Oral-B Boğaziçi Triatlonu fotoğraf arşivi",
-    "2026 Mudanya Triatlonu için kayıtlar başladı",
-    "Oral-B Boğaziçi Triatlonu Takım Listesi"
+    "İzmir'de 1. Kademe Yardımcı Antrenör Kursu",
+    "Gelibolu Triatlonu ve Aquatlonu için kayıtlar başladı",
+    "Uluslararası Oral-B Boğaziçi Triatlonu fotoğraf arşivi"
    ]
   },
   {
@@ -784,41 +825,41 @@
  ],
  "buzpateni": [
   {
+   "url": "https://buzpateni.org.tr/haber-detay/artistik-buz-pateni-2026-2027-sezonu-antrenor-vize-islemleri-ve-gelisim-semineri-13",
+   "kind": "html",
+   "score": 51.070640176600435,
+   "item_count": 906,
+   "dated_ratio": 0.05739514348785872,
+   "label": "ARTİSTİK BUZ PATENİ 2026-2027 SEZONU ANT...",
+   "sample": [
+    "Junior Grand Prix Seçme Yarışması / ANKARA",
+    "2026 - 2027 Sezonu Artistik Buz Pateni Hakem Vize ...",
+    "ARTİSTİK BUZ PATENİ (TEKLER) BRANŞI JUNIOR GRAND P..."
+   ]
+  },
+  {
    "url": "https://buzpateni.org.tr/haber-detay/junior-grand-prix-secme-yarismasi-ankara-13",
    "kind": "html",
-   "score": 51.07182320441989,
-   "item_count": 905,
-   "dated_ratio": 0.057458563535911604,
+   "score": 51.070640176600435,
+   "item_count": 906,
+   "dated_ratio": 0.05739514348785872,
    "label": "Junior Grand Prix Seçme Yarışması / ANKA...",
    "sample": [
+    "ARTİSTİK BUZ PATENİ 2026-2027 SEZONU ANTRENÖR VİZE...",
     "2026 - 2027 Sezonu Artistik Buz Pateni Hakem Vize ...",
-    "ARTİSTİK BUZ PATENİ (TEKLER) BRANŞI JUNIOR GRAND P...",
     "ARTİSTİK BUZ PATENİ (TEKLER) BRANŞI JUNIOR GRAND P..."
    ]
   },
   {
    "url": "https://buzpateni.org.tr/haber-detay/2026-2027-sezonu-hakem-vize-semineri-13-null",
    "kind": "html",
-   "score": 51.07182320441989,
-   "item_count": 905,
-   "dated_ratio": 0.057458563535911604,
+   "score": 51.070640176600435,
+   "item_count": 906,
+   "dated_ratio": 0.05739514348785872,
    "label": "2026 - 2027 Sezonu Artistik Buz Pateni H...",
    "sample": [
+    "ARTİSTİK BUZ PATENİ 2026-2027 SEZONU ANTRENÖR VİZE...",
     "Junior Grand Prix Seçme Yarışması / ANKARA",
-    "ARTİSTİK BUZ PATENİ (TEKLER) BRANŞI JUNIOR GRAND P...",
-    "ARTİSTİK BUZ PATENİ (TEKLER) BRANŞI JUNIOR GRAND P..."
-   ]
-  },
-  {
-   "url": "https://buzpateni.org.tr/haber-detay/artistik-buz-pateni-tekler-bransi-junior-grand-prix-junior-bayan-junior-bay-secme-yarismasi-135648745615",
-   "kind": "html",
-   "score": 51.07182320441989,
-   "item_count": 905,
-   "dated_ratio": 0.057458563535911604,
-   "label": "ARTİSTİK BUZ PATENİ (TEKLER) BRANŞI JUNI...",
-   "sample": [
-    "Junior Grand Prix Seçme Yarışması / ANKARA",
-    "2026 - 2027 Sezonu Artistik Buz Pateni Hakem Vize ...",
     "ARTİSTİK BUZ PATENİ (TEKLER) BRANŞI JUNIOR GRAND P..."
    ]
   }
@@ -832,9 +873,9 @@
    "dated_ratio": 1.0,
    "label": "Haberler (render)",
    "sample": [
+    "Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! Haber 26.08.2026",
     "Haber Ankara 3.Kademe Kursu Ders Programı Haber 04.08.2026",
-    "Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! Haber 30.07.2026",
-    "Duyuru Kademe Kursları Ders Programları! Duyuru 27.06.2026"
+    "Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! Haber 30.07.2026"
    ]
   },
   {
@@ -845,9 +886,9 @@
    "dated_ratio": 1.0,
    "label": "ana sayfa (render)",
    "sample": [
+    "Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! Haber 26.08.2026",
     "Haber Ankara 3.Kademe Kursu Ders Programı Haber 04.08.2026",
-    "Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! Haber 30.07.2026",
-    "Duyuru Kademe Kursları Ders Programları! Duyuru 27.06.2026"
+    "Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! Haber 30.07.2026"
    ]
   }
  ],
@@ -876,8 +917,8 @@
    "label": "WordPress REST",
    "sample": [
     "6. Mali Genel Kurul",
-    "Sporcu Sağlık Raporları Yönetmeliği, 11 Ağustos 2026 tarihli ve 33337 sayılı Resmî Gazete’de yayımlanarak yürürlüğe girmiştir.",
-    "2026 Yılı Türk Dünyası Turizm Başkenti Ankara Teknik Destek Programı’nda ilk imzalar atıldı"
+    "Ferhat Arıcan Avrupa İkincisi!",
+    "Derviş Çatalbaş Yaş Grupları Federasyon Kupası İstanbul’da sona erdi"
    ]
   },
   {
@@ -888,9 +929,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Sporcu Sağlık Raporları Yönetmeliği, 11 Ağustos 2026 tarihli ve 33337 sayılı Resmî Gazete’de yayımlanarak yürürlüğe girmiştir.",
-    "2026 Yılı Türk Dünyası Turizm Başkenti Ankara Teknik Destek Programı’nda ilk imzalar atıldı",
-    "İstanbul’da düzenlenen Aerobik Cimnastik Küçükler 15 Temmuz Demokrasi̇ ve Mi̇lli̇ Bi̇rli̇k Kupası sona erdi"
+    "6. Mali Genel Kurul",
+    "Ferhat Arıcan Avrupa İkincisi!",
+    "Derviş Çatalbaş Yaş Grupları Federasyon Kupası İstanbul’da sona erdi"
    ]
   },
   {
@@ -901,9 +942,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Sporcu Sağlık Raporları Yönetmeliği, 11 Ağustos 2026 tarihli ve 33337 sayılı Resmî Gazete’de yayımlanarak yürürlüğe girmiştir.",
-    "2026 Yılı Türk Dünyası Turizm Başkenti Ankara Teknik Destek Programı’nda ilk imzalar atıldı",
-    "İstanbul’da düzenlenen Aerobik Cimnastik Küçükler 15 Temmuz Demokrasi̇ ve Mi̇lli̇ Bi̇rli̇k Kupası sona erdi"
+    "6. Mali Genel Kurul",
+    "Ferhat Arıcan Avrupa İkincisi!",
+    "Derviş Çatalbaş Yaş Grupları Federasyon Kupası İstanbul’da sona erdi"
    ]
   }
  ],
@@ -916,9 +957,9 @@
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "Triathle Ulusal Sıralama 2 – Masterlar Ulusal Sıralama 2 ve Spor Toto Türkiye Şampiyonası Hk.",
-    "30 Ağustos Zafer Bayramı Lazer Run Yarışması – Adıyaman Hk.",
-    "Yeşilay Tetratlon Türkiye Şampiyonası Sporcu Kontrol Listesi"
+    "30 Ağustos Zafer Bayramı Laser Run Yarışması Sporcu Kontrol Listesi",
+    "7. Olağan Mali Genel Kurul Çağrısı ve Gündemi",
+    "2026 Yılı 7. Mali Genel Kurul – Faal Olmayan Hakemler İçin Noter Huzurunda Kura Çekimi Duyurusu"
    ]
   },
   {
@@ -929,9 +970,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Triathle Ulusal Sıralama 2 – Masterlar Ulusal Sıralama 2 ve Spor Toto Türkiye Şampiyonası Hk.",
-    "30 Ağustos Zafer Bayramı Lazer Run Yarışması – Adıyaman Hk.",
-    "Yeşilay Tetratlon Türkiye Şampiyonası Sporcu Kontrol Listesi"
+    "30 Ağustos Zafer Bayramı Laser Run Yarışması Sporcu Kontrol Listesi",
+    "7. Olağan Mali Genel Kurul Çağrısı ve Gündemi",
+    "2026 Yılı 7. Mali Genel Kurul – Faal Olmayan Hakemler İçin Noter Huzurunda Kura Çekimi Duyurusu"
    ]
   },
   {
@@ -942,9 +983,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Triathle Ulusal Sıralama 2 – Masterlar Ulusal Sıralama 2 ve Spor Toto Türkiye Şampiyonası Hk.",
-    "30 Ağustos Zafer Bayramı Lazer Run Yarışması – Adıyaman Hk.",
-    "Yeşilay Tetratlon Türkiye Şampiyonası Sporcu Kontrol Listesi"
+    "30 Ağustos Zafer Bayramı Laser Run Yarışması Sporcu Kontrol Listesi",
+    "7. Olağan Mali Genel Kurul Çağrısı ve Gündemi",
+    "2026 Yılı 7. Mali Genel Kurul – Faal Olmayan Hakemler İçin Noter Huzurunda Kura Çekimi Duyurusu"
    ]
   }
  ],
@@ -993,31 +1034,31 @@
   {
    "url": "https://tgf.org.tr/tr/duyurular/?yil=2026",
    "kind": "html",
-   "score": 51.33333333333333,
-   "item_count": 33,
-   "dated_ratio": 0.3333333333333333,
+   "score": 52.857142857142854,
+   "item_count": 35,
+   "dated_ratio": 0.3142857142857143,
    "label": "Duyurular",
    "sample": [
-    "20. Turkish Amateur Open 2026",
-    "Katılmaya Hak Kazanan Oyuncu İsim Listesi-2026 TGF Türkiye 18 Yaş Altı Şampiyonası (Gençler)",
-    "Yedek Liste-2026 TGF Türkiye 18 Yaş Altı Şampiyonası (Gençler)"
+    "TGF Hakemlik Terfi Sınav Duyurusu",
+    "TGF 30 Ağustos Zafer Bayramı Turnuvası Talimatı (Revize Hali)",
+    "20. Turkish Amateur Open 2026"
    ]
   },
   {
    "url": "https://tgf.org.tr/tr/haberler/?yil=2026",
    "kind": "html",
-   "score": 49.6,
+   "score": 49.8,
    "item_count": 50,
    "dated_ratio": 0.0,
    "label": "Haberler",
    "sample": [
-    "Milli Golfçümüz Deniz Sapmaz, 2026 Slovakya Kadınlar Golf Açık Turnuvası’nda Ülkemizi Temsil Edecek",
-    "Milli Golfçümüz Rüzgar Turgun, R&A 18 Yaş Altı Erkekler Amatör Şampiyonası’nda Ülkemizi Temsil Edecek",
-    "Milli Golfçümüz Ada Narin, R&A 18 Yaş Altı Kızlar Amatör Şampiyonası’nda Ülkemizi Temsil Edecek"
+    "TGF 30 Ağustos Zafer Bayramı Turnuvası Minikler Müsabakası Tamamlandı",
+    "TGF 30 Ağustos Zafer Bayramı Turnuvası Yetişkinler Müsabakası Tamamlandı",
+    "TGF 30 Ağustos Zafer Bayramı Turnuvası 18 Yaş Altı Müsabakası Tamamlandı"
    ]
   },
   {
-   "url": "https://tgf.org.tr/tr/haber/milli-golfcumuz-deniz-sapmaz-2026-slovakya-kadinlar-golf-acik-turnuvasi%E2%80%99nda-ulkemizi-temsil-edecek",
+   "url": "https://tgf.org.tr/tr/haber/tgf-30-agustos-zafer-bayrami-turnuvasi-yetiskinler-musabakasi-tamamlandi-2026",
    "kind": "html",
    "score": 35.57142857142857,
    "item_count": 35,
@@ -1039,9 +1080,9 @@
    "dated_ratio": 1.0,
    "label": "Tümü",
    "sample": [
-    "İzmir'de 2. Kademe Bocce Temel Antrenör Uygulama Eğitimi Yapılacak.",
-    "İzmir'de 1. Kademe Bocce Yardımcı Antrenör Uygulama Eğitimi Yapılacak.",
-    "İzmir'de Boccia Aday Hakem Yetiştirme Kursu Yapılacak."
+    "2026-2027 SEZONUNDA PETANK LİGLERİNDE YARIŞACAK OLAN TAKIMLAR",
+    "2026 – 2027 Bocce ( Raffa-Volo-Petank ) Milli Takımlar Seçme Kriterleri",
+    "Şehit Eren BÜLBÜL Dart Şampiyonası Sıralama Turları 1. Ayak Turnuvaları Yapılacak."
    ]
   },
   {
@@ -1114,42 +1155,42 @@
  ],
  "bilardo": [
   {
-   "url": "https://www.bilardo.org.tr/haberler.html",
+   "url": "https://www.bilardo.org.tr/haberler/uluslararasi-turnuva-haberleri",
    "kind": "html",
-   "score": 59.0,
+   "score": 58.583333333333336,
    "item_count": 24,
    "dated_ratio": 1.0,
-   "label": "HABERLER",
+   "label": "Uluslararası Turnuva Haberleri",
    "sample": [
-    "2026 ARALIK AYI TÜRKİYE ŞAMPİYONASI KIRŞEHİR Haber Tarihi: 18 August 2026",
-    "Türkiye Bilardo Federasyonu 2026 Ağustos - Aralık Ayı Faaliyet Takvimi Ankara Haber Tarihi: 18 August 2026",
-    "ARTİSTİK BİLARDO 1. ETAP 2026 Yılı Artistik Bilardo Türkiye Şampiyonası 1. Etap başvuruları açılmıştır. Haber Tarihi: 10 August 2026"
+    "1. KADEME VE 2. KADEME ANTRENÖR YETİŞTİRME KURSLARI BAŞLIYOR!",
+    "Kadın Milli Takımımız Avrupa Şampiyonası’nı Gümüş Madalya ile Tamamladı!",
+    "Tayfun Taşdemir’den Avrupa Şampiyonası’nda Bronz Madalya"
    ]
   },
   {
    "url": "https://www.bilardo.org.tr/haberler/kurs-ve-seminer-haberleri",
    "kind": "html",
-   "score": 59.0,
+   "score": 58.166666666666664,
    "item_count": 24,
    "dated_ratio": 1.0,
    "label": "Kurs ve Seminer Haberleri",
    "sample": [
-    "3. KADEME VE 4. KADEME ANTRENÖR YETİŞTİRME KURSLARI BAŞLIYOR! Gölbaşı/ANKARA Haber Tarihi: 24 June 2026",
-    "ANTRENÖR TEMEL EĞİTİM 2026/2 DÖNEMİ 2026/2 DÖNEMİ Haber Tarihi: 11 May 2026",
-    "Antrenör Meslek Standartları Kamuoyu Görüşüne Açılıyor! Ankara Haber Tarihi: 03 April 2026"
+    "3. KADEME VE 4. KADEME ANTRENÖR YETİŞTİRME KURSLARI BAŞLIYOR!",
+    "ANTRENÖR TEMEL EĞİTİM 2026/2 DÖNEMİ",
+    "Antrenör Meslek Standartları Kamuoyu Görüşüne Açılıyor!"
    ]
   },
   {
-   "url": "https://www.bilardo.org.tr/haberler/resmi-turnuva-haberleri",
+   "url": "https://www.bilardo.org.tr/haberler/federasyondan-haberler",
    "kind": "html",
-   "score": 59.0,
+   "score": 58.166666666666664,
    "item_count": 24,
    "dated_ratio": 1.0,
-   "label": "Resmi Turnuva Haberleri",
+   "label": "Federasyon'dan Haberler",
    "sample": [
-    "2026 ARALIK AYI TÜRKİYE ŞAMPİYONASI KIRŞEHİR Haber Tarihi: 18 August 2026",
-    "ARTİSTİK BİLARDO 1. ETAP 2026 Yılı Artistik Bilardo Türkiye Şampiyonası 1. Etap başvuruları açılmıştır. Haber Tarihi: 10 August 2026",
-    "GENÇ MİLLİ TAKIMIMIZDAN AVRUPA’DA ÇİFTE MADALYA! YUNANİSTAN Haber Tarihi: 10 August 2026"
+    "Türkiye Bilardo Federasyonu 2026 Ağustos - Aralık Ayı Faaliyet Takvimi",
+    "POOL BİLARDO TÜRKİYE ŞAMPİYONASI 3. ETAP MÜSABAKALARI",
+    "TÜRKİYE POOL BİLARDO ŞAMPİYONASI II. ETAP MÜSABAKALARI / 8 TOP"
    ]
   }
  ],
@@ -1157,14 +1198,14 @@
   {
    "url": "https://halter.gov.tr/?rest_route=/wp/v2/posts&per_page=20",
    "kind": "wp_json",
-   "score": 69.5,
+   "score": 69.0,
    "item_count": 20,
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "Milli Sporcularımız Priştine’de Avrupa Şampiyonası İçin Podyuma Çıkacak",
-    "KURS DUYURUSU",
-    "Milli Takımlarımıza Moral Ziyareti…"
+    "CANSEL ÖZKAN TARANTO’DA 1 ALTIN 1 BRONZ KAZANDI",
+    "Milli Sporcularımız Akdeniz Oyunları İçin İtalya’da",
+    "PRİŞTİNE’DE AVRUPA’NIN ZİRVESİNDEYİZ…"
    ]
   },
   {
@@ -1175,9 +1216,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Milli Sporcularımız Priştine’de Avrupa Şampiyonası İçin Podyuma Çıkacak",
-    "KURS DUYURUSU",
-    "Milli Takımlarımıza Moral Ziyareti…"
+    "CANSEL ÖZKAN TARANTO’DA 1 ALTIN 1 BRONZ KAZANDI",
+    "Milli Sporcularımız Akdeniz Oyunları İçin İtalya’da",
+    "PRİŞTİNE’DE AVRUPA’NIN ZİRVESİNDEYİZ…"
    ]
   },
   {
@@ -1188,9 +1229,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Milli Sporcularımız Priştine’de Avrupa Şampiyonası İçin Podyuma Çıkacak",
-    "KURS DUYURUSU",
-    "Milli Takımlarımıza Moral Ziyareti…"
+    "CANSEL ÖZKAN TARANTO’DA 1 ALTIN 1 BRONZ KAZANDI",
+    "Milli Sporcularımız Akdeniz Oyunları İçin İtalya’da",
+    "PRİŞTİNE’DE AVRUPA’NIN ZİRVESİNDEYİZ…"
    ]
   }
  ],
@@ -1203,9 +1244,9 @@
    "dated_ratio": 1.0,
    "label": "Vücut Geliştirme ve Fitness",
    "sample": [
-    "19.08.2026 Vücut Geliştirme Duyuruları ANTENÖR GELİŞİM SEMİNERİ 30.08.2026... V.G FİTNESS ANTRENÖR GELİŞİM SEMİNERİ 30 AĞUSTOS 2026 (İSTANBUL FITNESS WEEK)Ön Kayıt: 19-27 Ağust... Devamını Oku",
-    "18.08.2026 Vücut Geliştirme Duyuruları ANKARA 1.KADEME Antrenör Kurs Duyur... ... Devamını Oku",
-    "18.08.2026 Vücut Geliştirme Duyuruları ONLİNE VÜCUT GELİŞTİRME ve FİTNESS ... Ön Kayıt: 18-20 Ağustos 2026Vize Eğitimi: 21.08.2026 Başvurular; E-Devlet/Spor Bilgi Sistemi/... Devamını Oku"
+    "TARTI ve KAYIT ÖNCESİ, TARTI ESNAS...",
+    "IFBB WORLD FITNESS SPORT GAMES 2026...",
+    "YARIŞMA PROGRAMINDA BAZI KATEGORİLE..."
    ]
   },
   {
@@ -1216,9 +1257,9 @@
    "dated_ratio": 1.0,
    "label": "Bilek Güreşi",
    "sample": [
-    "18.08.2026 Bilek Güreşi Duyuruları ANKARA 2. KADEME Antrenör Kurs Duyu... ... Devamını Oku",
-    "06.07.2026 Bilek Güreşi Duyuruları DÜNYA BİLEK GÜREŞİ ŞAMPİYONASI’NA K... 26 EKİM - 7 KASIM 2026 TARİHLERİ ARASINDA, HİNDİSTAN‘IN YENİ DELHİ ŞEHRİNDE DÜZENLENECEK OLAN, DÜNYA Bİ... Devamını Oku",
-    "20.05.2026 Bilek Güreşi Duyuruları Bilek Güreşi Aday Hakem Kursu 5- 6-... Bilek Güreşi Aday Hakem Kursu 5- 6- 7 HAZİRAN OSMANİYEKURS YERİ: Prof. ... Devamını Oku"
+    "DÜNYA BİLEK GÜREŞİ ŞAMPİYONASI’NA K...",
+    "Bilek Güreşi Aday Hakem Kursu 5- 6-...",
+    "AVRUPA BİLEK GÜREŞİ ŞAMPİYONAS..."
    ]
   },
   {
@@ -1229,9 +1270,9 @@
    "dated_ratio": 1.0,
    "label": "Çocuk Fitness",
    "sample": [
-    "15.05.2026 Çocuk Fitness Duyuruları 08-10 Mayıs 2026 tarihleri arasında... 08-10 Mayıs 2026 tarihleri arasında Muğla ili Marmaris ilçesinde gerçekleştirilen Türkiye Çocuk Fitness Şamp... Devamını Oku",
-    "14.05.2026 Çocuk Fitness Duyuruları ÇOCUK FITNESS MİLLİ TAKIM KADROSU 12-15 Haziran 2026 tarihlerinde Sırbistan' da düzenlenecek olan Dünya Çocuk Fitness Şampiyonası için ülkemizi... Devamını Oku",
-    "08.05.2026 Çocuk Fitness Duyuruları Türkiye Çocuk Fitness Şampiyonası M... 08-10 Mayıs 2026 tarihleri arasında düzenlenecek olan Türkiye Çocuk Fitness Şampiyonası Milli Takım Seçmeler... Devamını Oku"
+    "08-10 Mayıs 2026 tarihleri arasında...",
+    "ÇOCUK FITNESS MİLLİ TAKIM KADROSU",
+    "Türkiye Çocuk Fitness Şampiyonası M..."
    ]
   }
  ],
@@ -1239,20 +1280,28 @@
   {
    "url": "https://twkf.gov.tr/duyurular",
    "kind": "html",
-   "score": 40,
+   "score": 47.0,
    "item_count": 12,
-   "dated_ratio": 0,
-   "label": "duyurular",
-   "sample": []
+   "dated_ratio": 1.0,
+   "label": "DUYURULAR",
+   "sample": [
+    "9. Açık Balkan Wushu Kungfu Şampiyonası hakkında bilgilendirme",
+    "T.C. MİLLÎ SAVUNMA BAKANLIĞI 2026 Yılı (2026-2 Dönem) Kara, Deniz ve Hava Kuvvetleri Komutanlıkları Wushu Kung Fu Sporcu Branşı Sözleşmeli Er Temini…",
+    "DUYURU: 9. Açık Balkan Wushu Kung Fu Şampiyonası Avrasya Kupası (19–23 Ağustos 2026 · Yalova)"
+   ]
   },
   {
    "url": "https://twkf.gov.tr/haberler",
    "kind": "html",
-   "score": 40,
+   "score": 46.166666666666664,
    "item_count": 12,
-   "dated_ratio": 0,
-   "label": "haberler",
-   "sample": []
+   "dated_ratio": 1.0,
+   "label": "Haberler",
+   "sample": [
+    "Budokaido Milli Takımı’na Dünya Şampiyonası Öncesi Milli Moral",
+    "Şubat: Unutmadık, Unutmayacağız",
+    "Yeniden Büyük Türkiye İçin Erbakan'ın Planlarını Erdoğan İle Bugün Gerçekleştiriyoruz"
+   ]
   }
  ],
  "bric": [
@@ -1277,9 +1326,9 @@
    "dated_ratio": 1.0,
    "label": "Duyurular (render)",
    "sample": [
+    "Yabancı Uyruklu Sporcuların Çalışma İzni Muafiyeti Başvuruları İle İlgili Duyuru 27 Ağustos 2026",
     "Sporcu Sağlık Raporları Yönetmeliği 11 Ağustos 2026",
-    "Yılı Mali Genel Kurulu Delege Kura Çekimi Yapıldı 11 Ağustos 2026",
-    "Türkiye Briç Federasyonu 2026 Mali Genel Kurul Çağırısı 11 Ağustos 2026"
+    "Yılı Mali Genel Kurulu Delege Kura Çekimi Yapıldı 11 Ağustos 2026"
    ]
   },
   {
@@ -1298,20 +1347,20 @@
  ],
  "motosiklet": [
   {
-   "url": "https://www.tmf.org.tr/",
+   "url": "https://tmf.org.tr",
    "kind": "html",
-   "score": 70.0,
-   "item_count": 35,
+   "score": 66.375,
+   "item_count": 32,
    "dated_ratio": 1.0,
    "label": "Haberler",
    "sample": [
-    "İstanbul Park’ta Şampiyon Türkiye İstanbul Park’ta Şampiyon Türkiye 16.08.2026",
-    "Hızın Zirvesi İstanbul’da Buluşuyor Hızın Zirvesi İstanbul’da Buluşuyor 10.08.2026",
-    "İstanbul Park’ta Büyük Buluşma İstanbul Park’ta Büyük Buluşma 20.07.2026"
+    "İstanbul Park’ta Şampiyon Türkiye",
+    "Hızın Zirvesi İstanbul’da Buluşuyor",
+    "İstanbul Park’ta Büyük Buluşma"
    ]
   },
   {
-   "url": "https://www.tmf.org.tr/Haberler/",
+   "url": "https://tmf.org.tr/Haberler/",
    "kind": "html",
    "score": 10.0,
    "item_count": 10,
@@ -1324,7 +1373,7 @@
    ]
   },
   {
-   "url": "https://www.tmf.org.tr/Duyurular/",
+   "url": "https://tmf.org.tr/Duyurular/",
    "kind": "html",
    "score": 10.0,
    "item_count": 10,
@@ -1341,14 +1390,27 @@
   {
    "url": "https://www.tbesf.org.tr/tr/duyurular",
    "kind": "html",
-   "score": 35.0,
+   "score": 33.75,
    "item_count": 20,
-   "dated_ratio": 0.2,
+   "dated_ratio": 0.15,
    "label": "Duyurular",
    "sample": [
-    "AMPUTE FUTBOL MİLLİ TAKIMIMIZ RİVA'DA KAMPA GİRİYOR",
-    "TEKERLEKLİ SANDALYE BASKETBOL SPOR KULÜPLERİMİZİN DİKKATİNE",
-    "OTURARAK VOLEYBOL ANTRENÖR KURSU"
+    "JOY IN SPORT ANTRENÖR EĞİTİM KİTABI YAYIMLANDI!",
+    "TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU BAŞKANLIĞI SPOR DALI TESCİLİ HAKKINDA DUYURU!!!",
+    "AMPUTE FUTBOL MİLLİ TAKIMIMIZ RİVA'DA KAMPA GİRİYOR"
+   ]
+  },
+  {
+   "url": "https://www.tbesf.org.tr/tr/Duyurular",
+   "kind": "html",
+   "score": 33.75,
+   "item_count": 20,
+   "dated_ratio": 0.15,
+   "label": "Duyurular",
+   "sample": [
+    "JOY IN SPORT ANTRENÖR EĞİTİM KİTABI YAYIMLANDI!",
+    "TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU BAŞKANLIĞI SPOR DALI TESCİLİ HAKKINDA DUYURU!!!",
+    "AMPUTE FUTBOL MİLLİ TAKIMIMIZ RİVA'DA KAMPA GİRİYOR"
    ]
   },
   {
@@ -1359,9 +1421,9 @@
    "dated_ratio": 0.05,
    "label": "Haberler",
    "sample": [
+    "OTURARAK VOLEYBOL KADIN A MİLLÎ TAKIMIMIZDAN BRNO’DA ÇİFTE ŞAMPİYONLUK!",
     "2025-2026 Sezonu Tekerlekli Sandalye Basketbol Süper Ligi Sona Erdi",
-    "Oturarak Voleybol 1. Lig 2. Etap Müsabakaları Bolu'da Tamamlandı",
-    "AMPUTE FUTBOL MİLLİ TAKIMI 2026 DÜNYA KUPASI HAZIRLIK KAMP PROGRAMI"
+    "Oturarak Voleybol 1. Lig 2. Etap Müsabakaları Bolu'da Tamamlandı"
    ]
   }
  ],
@@ -1384,27 +1446,27 @@
   {
    "url": "https://www.gesf.org.tr/haberler",
    "kind": "render",
-   "score": 76.42028985507247,
-   "item_count": 69,
+   "score": 76.43661971830986,
+   "item_count": 71,
    "dated_ratio": 1.0,
    "label": "Haberler (render)",
    "sample": [
-    "Türkiye B1 Futbol Erkek Millî Takımımız Avrupa Şampiyonası’nda Sahaya Çıkıyor",
-    "Kadın Görme Engelliler Futbol Millî Takımımız Kayseri’de Kampa Giriyor",
-    "ÇORUM 9-13 AĞUSTOS 2026 ERKEKLER GOALBALL 1. LİG GÖREVLİ HAKEM LİSTESİ"
+    "Genç Erkek Goalball Millî Takımımız Isparta’da Kampa Giriyor",
+    "B2-B3 AZGÖRENLER FUTSAL 2. LİG REGLEMANI YAYINLANDI",
+    "Türkiye B1 Futbol Erkek Millî Takımımız Avrupa Şampiyonası’nda Sahaya Çıkıyor"
    ]
   },
   {
    "url": "https://www.gesf.org.tr",
    "kind": "render",
-   "score": 35.0,
-   "item_count": 3,
+   "score": 26.0,
+   "item_count": 4,
    "dated_ratio": 1.0,
    "label": "ana sayfa (render)",
    "sample": [
-    "Ağustos Ayı Göz Muayenesi ANKARA",
-    "Türkiye B1 Futbol Erkek Millî Takımımız Avrupa Şampiyonası’nda Sahaya Çıkıyor",
-    "Milli Takım Faaliyetlerine Katılım Esasları Hakkında"
+    "HABERİ OKU →",
+    "HABERİ OKU →",
+    "HABERİ OKU →"
    ]
   }
  ],
@@ -1417,9 +1479,9 @@
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "04-06 Eylül 2026 İstanbul / Silivri Paletli Yüzme Açık Su Bireysel Türkiye Şampiyonası ve Milli Takım Seçmeleri Yarışma Reglamanı",
-    "09-12 Eylül 2026 Kaş / Antalya Altın Palet Sualtı Görüntüleme Türkiye Şampiyonası ve Millî Takım Seçmeleri Yarışma Bilgilendirme",
-    "09-12 Eylül 2026 Kaş / Antalya Altın Palet Sualtı Görüntüleme Türkiye Şampiyonası ve Millî Takım Seçmeleri Yarışma Reglamanı"
+    "Paletli Yüzmede 20. Akdeniz Oyunları’nı 1 Altın, 1 Gümüş ve 2 Bronz Madalyayla Tamamladık",
+    "23–27 Eylül 2026 Tarihleri Arasında Antalya İlinde Cankurtarma Eğitmenleri Gelişim Semineri Düzenlenecektir",
+    "Cankurtarma Sportif Deniz Türkiye Şampiyonası Samsun’da Yapılacak"
    ]
   },
   {
@@ -1430,9 +1492,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "04-06 Eylül 2026 İstanbul / Silivri Paletli Yüzme Açık Su Bireysel Türkiye Şampiyonası ve Milli Takım Seçmeleri Yarışma Reglamanı",
-    "09-12 Eylül 2026 Kaş / Antalya Altın Palet Sualtı Görüntüleme Türkiye Şampiyonası ve Millî Takım Seçmeleri Yarışma Bilgilendirme",
-    "09-12 Eylül 2026 Kaş / Antalya Altın Palet Sualtı Görüntüleme Türkiye Şampiyonası ve Millî Takım Seçmeleri Yarışma Reglamanı"
+    "Paletli Yüzmede 20. Akdeniz Oyunları’nı 1 Altın, 1 Gümüş ve 2 Bronz Madalyayla Tamamladık",
+    "23–27 Eylül 2026 Tarihleri Arasında Antalya İlinde Cankurtarma Eğitmenleri Gelişim Semineri Düzenlenecektir",
+    "Cankurtarma Sportif Deniz Türkiye Şampiyonası Samsun’da Yapılacak"
    ]
   },
   {
@@ -1458,9 +1520,9 @@
    "dated_ratio": 1.0,
    "label": "Haberler",
    "sample": [
-    "GENÇLER 81 İLDE GENÇLİK VE SPOR FESTİVALLERİ İLE BULUŞUYOR 17 Haziran 2026, Çarşamba",
-    "ANTRENÖR TEMEL EĞİTİM 2026/2 DÖNEMİ BAŞLIYOR! 11 Mayıs 2026, Pazartesi",
-    "Tebrik ve Başarı Dileklerimizle 04 Nisan 2026, Cumartesi"
+    "GENÇLER 81 İLDE GENÇLİK VE SPOR FESTİVALLERİ İLE BULUŞUYOR",
+    "ANTRENÖR TEMEL EĞİTİM 2026/2 DÖNEMİ BAŞLIYOR!",
+    "Tebrik ve Başarı Dileklerimizle"
    ]
   },
   {
@@ -1469,11 +1531,11 @@
    "score": 44.0,
    "item_count": 9,
    "dated_ratio": 1.0,
-   "label": "tr/duyurular",
+   "label": "tr/haberler",
    "sample": [
-    "17 Haziran 2026, Çarşamba GENÇLER 81 İLDE GENÇLİK VE SPOR FESTİVALLERİ İLE BULUŞUYOR",
-    "11 Mayıs 2026, Pazartesi ANTRENÖR TEMEL EĞİTİM 2026/2 DÖNEMİ BAŞLIYOR!",
-    "04 Nisan 2026, Cumartesi Tebrik ve Başarı Dileklerimizle"
+    "GENÇLER 81 İLDE GENÇLİK VE SPOR FESTİVALLERİ İLE BULUŞUYOR",
+    "ANTRENÖR TEMEL EĞİTİM 2026/2 DÖNEMİ BAŞLIYOR!",
+    "Tebrik ve Başarı Dileklerimizle"
    ]
   },
   {
@@ -1499,9 +1561,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Ralli Şampiyonası Kapadokya’da Toprağa Çıkıyor",
-    "2026 Extreme Kupası Bolu’da Başladı",
-    "Extreme Sezonu Bolu’da Açılıyor"
+    "TOSFED İstanbul Park’ta Büyük Heyecan",
+    "TransAnatolia 16. Kez Start Alıyor",
+    "Kazaz Kapadokya Zaferi ile Liderliğini Sürdürdü"
    ]
   },
   {
@@ -1512,9 +1574,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Ralli Şampiyonası Kapadokya’da Toprağa Çıkıyor",
-    "2026 Extreme Kupası Bolu’da Başladı",
-    "Extreme Sezonu Bolu’da Açılıyor"
+    "TOSFED İstanbul Park’ta Büyük Heyecan",
+    "TransAnatolia 16. Kez Start Alıyor",
+    "Kazaz Kapadokya Zaferi ile Liderliğini Sürdürdü"
    ]
   },
   {
@@ -1525,9 +1587,9 @@
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "Ralli Şampiyonası Kapadokya’da Toprağa Çıkıyor",
-    "2026 Extreme Kupası Bolu’da Başladı",
-    "Extreme Sezonu Bolu’da Açılıyor"
+    "TOSFED İstanbul Park’ta Büyük Heyecan",
+    "TransAnatolia 16. Kez Start Alıyor",
+    "Kazaz Kapadokya Zaferi ile Liderliğini Sürdürdü"
    ]
   }
  ],
@@ -1535,40 +1597,40 @@
   {
    "url": "https://muaythai.gov.tr/wp-json/wp/v2/posts?per_page=20&_embed",
    "kind": "wp_json",
-   "score": 66.5,
+   "score": 67.0,
    "item_count": 20,
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "JUJİTSU EĞİTİM KÖŞESİ",
-    "Jujitsu Dan Terfi Sınavı",
-    "JUJİTSU Antrenör Uygulama Eğitimi"
-   ]
-  },
-  {
-   "url": "https://muaythai.gov.tr/2023/05/30/jujitsu-haber/",
-   "kind": "html",
-   "score": 45.0,
-   "item_count": 10,
-   "dated_ratio": 1.0,
-   "label": "JUJİTSU HABER",
-   "sample": [
-    "İlgili yazı için tıklayınız…",
-    "Jujitsu Bilgi Belge Başvuru Listesi için tıklayınız…",
-    "Sonuçlar için tıklayınız…"
+    "7.OLAĞAN MALİ GENEL KURUL",
+    "AVRUPA MUAYTHAİ ŞAMPİYONASI",
+    "GENÇLER DÜNYA MUAYTHAI ŞAMPİYONASI"
    ]
   },
   {
    "url": "https://muaythai.gov.tr/feed/",
    "kind": "rss",
-   "score": 44.857142857142854,
+   "score": 50.57142857142857,
    "item_count": 7,
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "JUJİTSU EĞİTİM KÖŞESİ",
-    "Jujitsu Dan Terfi Sınavı",
-    "JUJİTSU Antrenör Uygulama Eğitimi"
+    "7.OLAĞAN MALİ GENEL KURUL",
+    "AVRUPA MUAYTHAİ ŞAMPİYONASI",
+    "GENÇLER DÜNYA MUAYTHAI ŞAMPİYONASI"
+   ]
+  },
+  {
+   "url": "https://muaythai.gov.tr/rss",
+   "kind": "rss",
+   "score": 50.57142857142857,
+   "item_count": 7,
+   "dated_ratio": 1.0,
+   "label": "RSS",
+   "sample": [
+    "7.OLAĞAN MALİ GENEL KURUL",
+    "AVRUPA MUAYTHAİ ŞAMPİYONASI",
+    "GENÇLER DÜNYA MUAYTHAI ŞAMPİYONASI"
    ]
   }
  ],
@@ -1576,14 +1638,14 @@
   {
    "url": "https://www.turkhokey.gov.tr",
    "kind": "html",
-   "score": 33.5,
-   "item_count": 20,
-   "dated_ratio": 0.4,
+   "score": 35.285714285714285,
+   "item_count": 21,
+   "dated_ratio": 0.42857142857142855,
    "label": "ana sayfa",
    "sample": [
-    "2025-2026 SEZONU U16 HOKEY 5S 1. LİG 2. ETAP VE 2. LİG 2. ETAP DUYURUSU",
-    "2. KADEME ANTRENÖRLÜK KURS DUYURUSU",
-    "KADINLAR AÇIK ALAN SÜPER LİG SÜPER FİNAL"
+    "MİLLİLERİMİZ AVRUPA’DA TARİH YAZDI",
+    "EUROHOCKEY U15 5S CHAMPIONSHIP BOYS and GIRLS 2026",
+    "2025-2026 SEZONU U16 HOKEY 5S 1. LİG 2. ETAP VE 2. LİG 2. ETAP DUYURUSU"
    ]
   }
  ],
@@ -1596,35 +1658,35 @@
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "KARAKUCAK GÜREŞİ DÜNYA ŞAMPİYONASI ANKARA’DA SONA ERDİ",
-    "GELİŞİM LİGİ-33. GELENEKSEL SEYDİKEMER SEKİ YAĞLI GÜREŞLERİ",
-    "KARAMÜRSEL BELEDİYESİ 42. GELENEKSEL ALTIN KEMER YAĞLI GÜREŞLERİ-KARAMÜRSEL-KOCAELİ"
+    "KORKUTELİ BELEDİYESİ 35.ALTIN KİRAZ YAĞLI GÜREŞLERİ",
+    "ÇATALCA BELEDİYESİ YAĞLI GÜREŞLERİ",
+    "30 AĞUSTOS ZAFER BAYRAMI KUTLU OLSUN"
    ]
   },
   {
    "url": "https://tggf.org.tr/feed/",
    "kind": "rss",
-   "score": 54.0,
+   "score": 55.0,
    "item_count": 10,
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "KARAKUCAK GÜREŞİ DÜNYA ŞAMPİYONASI ANKARA’DA SONA ERDİ",
-    "GELİŞİM LİGİ-33. GELENEKSEL SEYDİKEMER SEKİ YAĞLI GÜREŞLERİ",
-    "KARAMÜRSEL BELEDİYESİ 42. GELENEKSEL ALTIN KEMER YAĞLI GÜREŞLERİ-KARAMÜRSEL-KOCAELİ"
+    "KORKUTELİ BELEDİYESİ 35.ALTIN KİRAZ YAĞLI GÜREŞLERİ",
+    "ÇATALCA BELEDİYESİ YAĞLI GÜREŞLERİ",
+    "30 AĞUSTOS ZAFER BAYRAMI KUTLU OLSUN"
    ]
   },
   {
    "url": "https://tggf.org.tr/rss",
    "kind": "rss",
-   "score": 54.0,
+   "score": 55.0,
    "item_count": 10,
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "KARAKUCAK GÜREŞİ DÜNYA ŞAMPİYONASI ANKARA’DA SONA ERDİ",
-    "GELİŞİM LİGİ-33. GELENEKSEL SEYDİKEMER SEKİ YAĞLI GÜREŞLERİ",
-    "KARAMÜRSEL BELEDİYESİ 42. GELENEKSEL ALTIN KEMER YAĞLI GÜREŞLERİ-KARAMÜRSEL-KOCAELİ"
+    "KORKUTELİ BELEDİYESİ 35.ALTIN KİRAZ YAĞLI GÜREŞLERİ",
+    "ÇATALCA BELEDİYESİ YAĞLI GÜREŞLERİ",
+    "30 AĞUSTOS ZAFER BAYRAMI KUTLU OLSUN"
    ]
   }
  ],
@@ -1693,9 +1755,9 @@
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "Ragbi İl Hakemlik Kursu Başvuruları Başladı!",
-    "Ragbi Aday Hakemlik Kursu Başvuruları Başladı!",
-    "Milli Takım Kampları Sosyal Medya Kullanım Talimatı Yayınlanmıştır."
+    "Flag Futbol 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Başlıyor!",
+    "‘’ Gelirlerin Temini, Tahsili ile Harcırah ve Görev Ücretleri Talimatı’’ Yayınlanmıştır.",
+    "Büyük Erkekler Türkiye Şampiyonası 2. Etap ve Final Etabı"
    ]
   },
   {
@@ -1706,9 +1768,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Ragbi İl Hakemlik Kursu Başvuruları Başladı!",
-    "Ragbi Aday Hakemlik Kursu Başvuruları Başladı!",
-    "Milli Takım Kampları Sosyal Medya Kullanım Talimatı Yayınlanmıştır."
+    "Flag Futbol 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Başlıyor!",
+    "‘’ Gelirlerin Temini, Tahsili ile Harcırah ve Görev Ücretleri Talimatı’’ Yayınlanmıştır.",
+    "Büyük Erkekler Türkiye Şampiyonası 2. Etap ve Final Etabı"
    ]
   },
   {
@@ -1719,9 +1781,9 @@
    "dated_ratio": 1.0,
    "label": "Duyurular",
    "sample": [
+    "Flag Futbol 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Başlıyor!",
     "Flag Futbol Büyük Kadınlar Milli Takımı İlk Kampına Katılmaya Hak Kazanan Sporcular Belli Oldu",
-    "FLAG FUTBOL MİLLİ TAKIM SEÇMELERİ",
-    "Flag Futbol Büyük Kadınlar Yeşilay Türkiye Şampiyonası 1. Lig Final Etabı!"
+    "FLAG FUTBOL MİLLİ TAKIM SEÇMELERİ"
    ]
   }
  ],
@@ -1734,9 +1796,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Sporcu Sağlık Raporları Yönetmeliği Resmî Gazete’de Yayımlandı",
-    "SUDS Dünya Şampiyonu olan Özel Sporcular Judown Milli Takımımız Yurda dönüşte Coşkuyla karşılandı 👏 🇹🇷🏆🥋",
-    "Özel Sporcular Down Judo Millî Takımımız Namağlup Dünya Şampiyonu! 🏆🇹🇷"
+    "Denetleme Kurulu Toplantısı Gerçekleştirildi!",
+    "Özbekistan Heyetinin Ankara Programı Kapsamlı Ziyaretlerle Devam Etti!",
+    "Federasyon Başkanımız Birol Aydın’dan Sincan Belediye Başkan Vekili Fırat Aslanbaş’a Hayırlı Olsun Ziyareti"
    ]
   },
   {
@@ -1747,9 +1809,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Sporcu Sağlık Raporları Yönetmeliği Resmî Gazete’de Yayımlandı",
-    "SUDS Dünya Şampiyonu olan Özel Sporcular Judown Milli Takımımız Yurda dönüşte Coşkuyla karşılandı 👏 🇹🇷🏆🥋",
-    "Özel Sporcular Down Judo Millî Takımımız Namağlup Dünya Şampiyonu! 🏆🇹🇷"
+    "Denetleme Kurulu Toplantısı Gerçekleştirildi!",
+    "Özbekistan Heyetinin Ankara Programı Kapsamlı Ziyaretlerle Devam Etti!",
+    "Federasyon Başkanımız Birol Aydın’dan Sincan Belediye Başkan Vekili Fırat Aslanbaş’a Hayırlı Olsun Ziyareti"
    ]
   },
   {
@@ -1775,9 +1837,9 @@
    "dated_ratio": 1.0,
    "label": "DUYURULAR",
    "sample": [
-    "26 Haziran 2026 HIP HOP BATTLE TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI HAKKINDA",
-    "26 Haziran 2026 BREAK DANS TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI",
-    "26 Haziran 2026 SERBEST STİL (HIP HOP) TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI"
+    "ARJANTİN TANGO ADAY HAKEM KURSU AÇILIYOR",
+    "DANS SPORU (LT&STD) 3. KADEME KIDEMLİ ANTRENÖRLÜK UYGULAMA KURSU - ANKARA",
+    "DANS SPORU (LATİN&STANDART) 2. KADEME TEMEL ANTRENÖRLÜK UYGULAMA KURSU"
    ]
   },
   {
@@ -1788,9 +1850,9 @@
    "dated_ratio": 1.0,
    "label": "Haberler",
    "sample": [
-    "9 Haziran 2026 SERBEST STİL (DANS ŞOV) YARIŞMA MÜZİKLERİ",
-    "5 Mayıs 2026 2025-2026 SEZONU SERBEST STİL (DANS ŞOV) TÜRKİYE ŞAMPİYONASI SPORCU KAYITLARI",
-    "23 Mart 2026 2025-2026 SEZONU SERBEST STİL DANSLAR TÜRKİYE ŞAMPİYONALARI"
+    "SERBEST STİL (DANS ŞOV) YARIŞMA MÜZİKLERİ",
+    "2025-2026 SEZONU SERBEST STİL (DANS ŞOV) TÜRKİYE ŞAMPİYONASI SPORCU KAYITLARI",
+    "2025-2026 SEZONU SERBEST STİL DANSLAR TÜRKİYE ŞAMPİYONALARI"
    ]
   },
   {
@@ -1801,9 +1863,9 @@
    "dated_ratio": 1.0,
    "label": "Haberler",
    "sample": [
-    "26 Haziran 2026 SERBEST STİL (HIP HOP) TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI",
-    "10 Haziran 2026 2025-2026 SEZONU SERBEST STİL (HIP HOP) TÜRKİYE ŞAMPİYONASI SPORCU KAYITLARI",
-    "13 Mayıs 2026 2025-2026 SEZONU SERBEST STİL (HIP HOP) ADAY HAKEM KURSU VE VİZE SEMİNERİ"
+    "SERBEST STİL (HIP HOP) TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI",
+    "2025-2026 SEZONU SERBEST STİL (HIP HOP) TÜRKİYE ŞAMPİYONASI SPORCU KAYITLARI",
+    "2025-2026 SEZONU SERBEST STİL (HIP HOP) ADAY HAKEM KURSU VE VİZE SEMİNERİ"
    ]
   }
  ],
@@ -1816,76 +1878,76 @@
    "dated_ratio": 0.59,
    "label": "FAALİYETLER",
    "sample": [
-    "10-13 EYLÜL 2026 HEMSBALL GENÇLER VE BÜYÜKLER TÜRKİYE ŞAMPİYONASI / MUĞLA-MENTEŞE",
-    "HEMSBALL 2026/2027 SEZONU ONLİNE HAKEM VİZE SEMİNERİ / 23 AĞUSTOS 2026",
-    "SAVATE BÜYÜKLER ASSAUT MİLLİ TAKIM SEÇMELERİ TALİMATI"
+    "HEMSBALL 1. KADEME YARDIMCI ANTRENÖR YETİŞTİRME KURSU 22-27 EYLÜL 2026 / DENİZLİ",
+    "12-13 EYLÜL 2026 PAİNTBAL BÜYÜKLER KULÜPLER TÜRKİYE ŞAMPİYONAI 3. AYAK MÜSABAKALARI / YALOVA TERMAL",
+    "10-13 EYLÜL 2026 HEMSBALL GENÇLER VE BÜYÜKLER TÜRKİYE ŞAMPİYONASI / MUĞLA-MENTEŞE"
    ]
   },
   {
    "url": "https://www.gosbf.org.tr/haberler-duyurular",
    "kind": "html",
-   "score": 64.15,
+   "score": 64.4,
    "item_count": 100,
-   "dated_ratio": 0.57,
+   "dated_ratio": 0.58,
    "label": "Tüm Duyurular",
    "sample": [
-    "10-13 EYLÜL 2026 HEMSBALL GENÇLER VE BÜYÜKLER TÜRKİYE ŞAMPİYONASI / MUĞLA-MENTEŞE",
-    "HEMSBALL 2026/2027 SEZONU ONLİNE HAKEM VİZE SEMİNERİ / 23 AĞUSTOS 2026",
-    "SAVATE BÜYÜKLER ASSAUT MİLLİ TAKIM SEÇMELERİ TALİMATI"
+    "HEMSBALL 1. KADEME YARDIMCI ANTRENÖR YETİŞTİRME KURSU 22-27 EYLÜL 2026 / DENİZLİ",
+    "HEMSBALL 2026/2027 SEZONU ONLİNE HAKEM VİZE SEMİNERİ / 23 AĞUSTOS 2026 KATILIMCI LİSTESİ",
+    "12-13 EYLÜL 2026 PAİNTBAL BÜYÜKLER KULÜPLER TÜRKİYE ŞAMPİYONAI 3. AYAK MÜSABAKALARI / YALOVA TERMAL"
    ]
   },
   {
    "url": "https://www.gosbf.org.tr/haberdetay-duyurular-467-savate-buyukler-assaut-milli-takim-secmeleri-talimati",
    "kind": "html",
-   "score": 46.666666666666664,
+   "score": 49.166666666666664,
    "item_count": 30,
-   "dated_ratio": 0.26666666666666666,
+   "dated_ratio": 0.36666666666666664,
    "label": "SAVATE BÜYÜKLER ASSAUT MİLLİ TAKIM SEÇMELERİ TALİMATI",
    "sample": [
-    "10-13 EYLÜL 2026 HEMSBALL GENÇLER VE BÜYÜKLER TÜRKİYE ŞAMPİYONASI / MUĞLA-MENTEŞE",
-    "HEMSBALL 2026/2027 SEZONU ONLİNE HAKEM VİZE SEMİNERİ / 23 AĞUSTOS 2026",
-    "SAVATE GENÇLER COMBAT TÜRKİYE ŞAMPİYONASI 13-16 AĞUSTOS 2026 ÇANKIRI"
+    "HEMSBALL 1. KADEME YARDIMCI ANTRENÖR YETİŞTİRME KURSU 22-27 EYLÜL 2026 / DENİZLİ",
+    "HEMSBALL 2026/2027 SEZONU ONLİNE HAKEM VİZE SEMİNERİ / 23 AĞUSTOS 2026 KATILIMCI LİSTESİ",
+    "12-13 EYLÜL 2026 PAİNTBAL BÜYÜKLER KULÜPLER TÜRKİYE ŞAMPİYONAI 3. AYAK MÜSABAKALARI / YALOVA TERMAL"
    ]
   }
  ],
  "universitesporlari": [
   {
-   "url": "https://tusf.org.tr/Haber?b=40d32a06-0d4d-47d2-a105-346e5e23b137&bid=4383&_=BA%C5%9EKAN%20T%C3%9CRKMEN:%20GEN%C3%87LERE%20YEN%C4%B0%20YOLCULUKLARINDA%20BA%C5%9EARILAR",
+   "url": "https://tusf.org.tr/Haber?b=075cb0ee-8cfa-40bd-ac58-ec525f983dbe&bid=4388&_=30%20A%C4%9Fustos%20Zafer%20Bayram%C4%B1%20Kutlu%20Olsun",
    "kind": "html",
    "score": 43.0,
    "item_count": 8,
    "dated_ratio": 1.0,
-   "label": "BAŞKAN TÜRKMEN: GENÇLERE YENİ YOLCULUKLARINDA BAŞARILAR",
+   "label": "30 AĞUSTOS ZAFER BAYRAMI KUTLU OLSUN",
    "sample": [
-    "BAŞKAN TÜRKMEN: GENÇLERE YENİ YOLCULUKLARINDA BAŞARILAR",
-    "Başkan Türkmen’den 17 Ağustos Mesajı",
-    "TÜSF Triatlon Milli Kafilesini İsviçre'ye Uğurladı"
+    "Ağustos Zafer Bayramı Kutlu Olsun",
+    "Erzurum 2029 Yolunda Önemli Adım",
+    "Malazgirt Zaferi'nin 955. Yılı Kutlu Olsun"
    ]
   },
   {
-   "url": "https://tusf.org.tr/Haber?b=14ddd9cb-6a8a-4a6c-b492-207482291b42&bid=4382&_=Ba%C5%9Fkan%20T%C3%BCrkmen%E2%80%99den%2017%20A%C4%9Fustos%20Mesaj%C4%B1",
+   "url": "https://tusf.org.tr/Haber?b=ab5017a7-4cfc-4429-aead-725162e88960&bid=4387&_=Erzurum%202029%20Yolunda%20%C3%96nemli%20Ad%C4%B1m",
    "kind": "html",
    "score": 43.0,
    "item_count": 8,
    "dated_ratio": 1.0,
-   "label": "BAŞKAN TÜRKMEN’DEN 17 AĞUSTOS MESAJI",
+   "label": "ERZURUM 2029 YOLUNDA ÖNEMLİ ADIM",
    "sample": [
-    "BAŞKAN TÜRKMEN: GENÇLERE YENİ YOLCULUKLARINDA BAŞARILAR",
-    "Başkan Türkmen’den 17 Ağustos Mesajı",
-    "TÜSF Triatlon Milli Kafilesini İsviçre'ye Uğurladı"
+    "Ağustos Zafer Bayramı Kutlu Olsun",
+    "Erzurum 2029 Yolunda Önemli Adım",
+    "Malazgirt Zaferi'nin 955. Yılı Kutlu Olsun"
    ]
   },
   {
-   "url": "https://tusf.org.tr/Haber?b=023d7079-def7-40ff-a156-30124f1db311&bid=4380&_=T%C3%9CSF%20Triatlon%20Milli%20Kafilesini%20%C4%B0svi%C3%A7re",
+   "url": "https://tusf.org.tr/Haber?b=7922f638-c81f-4068-b76f-a2f77ec29567&bid=4386&_=Malazgirt%20Zaferi",
    "kind": "html",
    "score": 43.0,
    "item_count": 8,
    "dated_ratio": 1.0,
-   "label": "TÜSF TRİATLON MİLLİ KAFİLESİNİ İSVİÇRE'YE UĞURLADI",
+   "label": "MALAZGİRT ZAFERİ'NİN 955. YILI KUTLU OLSUN",
    "sample": [
-    "BAŞKAN TÜRKMEN: GENÇLERE YENİ YOLCULUKLARINDA BAŞARILAR",
-    "Başkan Türkmen’den 17 Ağustos Mesajı",
-    "TÜSF Triatlon Milli Kafilesini İsviçre'ye Uğurladı"
+    "Ağustos Zafer Bayramı Kutlu Olsun",
+    "Erzurum 2029 Yolunda Önemli Adım",
+    "Malazgirt Zaferi'nin 955. Yılı Kutlu Olsun"
    ]
   }
  ],
@@ -1904,30 +1966,33 @@
    ]
   },
   {
+   "url": "https://tif.org.tr/Duyurular",
+   "kind": "html",
+   "score": 43.55555555555556,
+   "item_count": 18,
+   "dated_ratio": 0.7777777777777778,
+   "label": "Duyurular",
+   "sample": [
+    "OLAĞAN MALİ GENEL KURUL DUYURUSU",
+    "ÖNEMLİ DUYURU – SAĞLIK RAPORU HAKKINDA",
+    "İLK YARDIM KURSU"
+   ]
+  },
+  {
    "url": "https://tif.org.tr/haberler",
    "kind": "html",
-   "score": 31.0,
+   "score": 30.6,
    "item_count": 25,
    "dated_ratio": 0.0,
    "label": "Tüm Haberler",
    "sample": [
-    "ZİYARET - KONYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ",
-    "ZİYARET - ANKARA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ",
-    "ZİYARET - TİKA"
+    "AĞUSTOS ZAFER BAYRAMI",
+    "MALAZGİRT ZAFERİ",
+    "ZİYARET - KONYA GENÇLİK VE SPOR İL MÜDÜRLÜĞÜ"
    ]
   }
  ],
- "oryantiring": [
-  {
-   "url": "https://oryantiring.org.tr/haberler",
-   "kind": "headings",
-   "score": 30,
-   "item_count": 10,
-   "dated_ratio": 0,
-   "label": "baslik listesi",
-   "sample": []
-  }
- ],
+ "oryantiring": [],
  "gsb": [
   {
    "url": "https://gsb.gov.tr/tr/haberler",
@@ -1937,35 +2002,35 @@
    "dated_ratio": 1.0,
    "label": "Basın Odası",
    "sample": [
-    "BAKAN BAK AKDENİZ OYUNLARI’NDA MÜCADELE EDECEK MİLLİ SPORCULARA BAŞARI DİLEDİ",
-    "BAKAN BAK’TAN SÜPER LİG 2026-2027 SEZONU AÇILIŞ MESAJI",
-    "COP31 GENÇLİK İKLİM İDEATHONU BAŞVURULARI BAŞLADI"
+    "BAKAN BAK KÜTAHYA'DA 30 AĞUSTOS ZAFER BAYRAMI TÖRENİNE KATILDI",
+    "BAKAN BAK: “ÇOCUKLARIMIZIN SPOR YAPMASINI İSTİYORUZ”",
+    "BAKAN BAK SULTANGAZİ'DE TEMEL ATMA TÖRENİNDE KONUŞTU"
    ]
   },
   {
-   "url": "https://gsb.gov.tr/tr/haber-detay/302555-bakan-bak-akdeniz-oyunlarinda-mucadele-edecek-milli-sporculara-basari-diledi",
+   "url": "https://gsb.gov.tr/tr/haber-detay/302739-bakan-bak-kutahyada-30-agustos-zafer-bayrami-torenine-katildi",
    "kind": "html",
    "score": 43.0,
    "item_count": 8,
    "dated_ratio": 1.0,
    "label": "Devamını Oku",
    "sample": [
-    "BAKAN BAK AKDENİZ OYUNLARI’NDA MÜCADELE EDECEK MİLLİ SPORCULARA BAŞARI DİLEDİ",
-    "BAKAN BAK’TAN SÜPER LİG 2026-2027 SEZONU AÇILIŞ MESAJI",
-    "COP31 GENÇLİK İKLİM İDEATHONU BAŞVURULARI BAŞLADI"
+    "BAKAN BAK KÜTAHYA'DA 30 AĞUSTOS ZAFER BAYRAMI TÖRENİNE KATILDI",
+    "BAKAN BAK: “ÇOCUKLARIMIZIN SPOR YAPMASINI İSTİYORUZ”",
+    "BAKAN BAK SULTANGAZİ'DE TEMEL ATMA TÖRENİNDE KONUŞTU"
    ]
   },
   {
-   "url": "https://gsb.gov.tr/tr/haber-detay/302455-bakan-baktan-super-lig-2026-2027-sezonu-acilis-mesaji",
+   "url": "https://gsb.gov.tr/tr/haber-detay/302720-bakan-bak-cocuklarimizin-spor-yapmasini-istiyoruz",
    "kind": "html",
    "score": 43.0,
    "item_count": 8,
    "dated_ratio": 1.0,
    "label": "Devamını Oku",
    "sample": [
-    "BAKAN BAK AKDENİZ OYUNLARI’NDA MÜCADELE EDECEK MİLLİ SPORCULARA BAŞARI DİLEDİ",
-    "BAKAN BAK’TAN SÜPER LİG 2026-2027 SEZONU AÇILIŞ MESAJI",
-    "COP31 GENÇLİK İKLİM İDEATHONU BAŞVURULARI BAŞLADI"
+    "BAKAN BAK KÜTAHYA'DA 30 AĞUSTOS ZAFER BAYRAMI TÖRENİNE KATILDI",
+    "BAKAN BAK: “ÇOCUKLARIMIZIN SPOR YAPMASINI İSTİYORUZ”",
+    "BAKAN BAK SULTANGAZİ'DE TEMEL ATMA TÖRENİNDE KONUŞTU"
    ]
   }
  ],
@@ -1984,7 +2049,7 @@
    ]
   },
   {
-   "url": "https://olimpiyat.org.tr/Haber-Detay/tmok-destegiyle-plaj-voleybolu-antrenor-gelisim-kursu-duzenlendi/12053",
+   "url": "https://olimpiyat.org.tr/Haber-Detay/team-turkiye-taranto-2026nin-ucuncu-gununu-7-madalya-ile-tamamladi/12063",
    "kind": "render",
    "score": 48.25,
    "item_count": 56,
@@ -1997,7 +2062,7 @@
    ]
   },
   {
-   "url": "https://olimpiyat.org.tr/Haber-Detay/los-angeles-2028-olimpiyat-oyunlarina-son-2-yil/12049",
+   "url": "https://olimpiyat.org.tr/Haber-Detay/team-turkiye-taranto-2026nin-ikinci-gununde-13-madalya-kazandi/12062",
    "kind": "render",
    "score": 48.25,
    "item_count": 56,
@@ -2019,22 +2084,22 @@
    "dated_ratio": 1.0,
    "label": "duyurular",
    "sample": [
-    "Kayseri’de Kaykay ile Değişen Hayatlar TRT Spor Yıldız’... 13 Ağustos 2026",
-    "Karaman’da Tekerlekli Sürat Pateni Heyecanı Sona Erdi 12 Ağustos 2026",
-    "Tekerlekli Paten Türkiye Şampiyonası Final Etabı 12 Ağustos 2026"
+    "Yeşilay 10 KM Yol Yarışı İstanbul’da Gerçekleştirildi",
+    "Kayseri’de Kaykay ile Değişen Hayatlar TRT Spor Yıldız’...",
+    "Karaman’da Tekerlekli Sürat Pateni Heyecanı Sona Erdi"
    ]
   },
   {
    "url": "https://kaykay.org.tr/blog",
    "kind": "html",
-   "score": 42.0,
+   "score": 32.0,
    "item_count": 7,
    "dated_ratio": 1.0,
    "label": "Duyurular",
    "sample": [
-    "Adana İl Temsilcimiz Resul Bozkurt, Başkanımız Fahrettin Yıldız'ı Makamında Ziyaret Etti",
-    "Mutlu Patenler Projesi Tekerlekli Paten 1. Kademe Yardımcı Antrenörlük Kursu",
-    "Başkanımız Fahrettin Yıldız, Yatırım ve İşletmeler Genel Müdürü Prof. Dr. Süleyman Şahin’i Makamında Ziyaret Etti"
+    "Daha Fazla Gör",
+    "Daha Fazla Gör",
+    "Daha Fazla Gör"
    ]
   }
  ],
@@ -2047,9 +2112,9 @@
    "dated_ratio": 1.0,
    "label": "WordPress REST",
    "sample": [
-    "Türkiye Yamaç Paraşütü Mesafe Yarışması Karapınar 2026 Başvuru Süresi Uzatıldı",
-    "Yamaç Paraşütü Kanatlarının Uçabilirlik Kontrolleri ve Teknik Uygunluk Testleri Yetkilendirme Süreci Hakkında Önemli Duyuru",
-    "İnsansız Hava Araçları (Drone Soccer) Yarışma Talimatı Yayımlandı"
+    "TANDEM UÇUŞLARDA UÇUŞ EMNİYETİ VE GÜVENLİĞİNE İLİŞKİN DUYURU",
+    "YAMAÇ PARAŞÜTÜ KANAT KONTROLÜ YETKİLENDİRME SÜRECİ TAMAMLANDI",
+    "Yamaç Paraşütü Kanatlarının Uçabilirlik Kontrolleri ve Teknik Uygunluk Testleri Yetkilendirme Süreci Hakkında Önemli Duyuru"
    ]
   },
   {
@@ -2060,9 +2125,9 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Türkiye Yamaç Paraşütü Mesafe Yarışması Karapınar 2026 Başvuru Süresi Uzatıldı",
-    "Yamaç Paraşütü Kanatlarının Uçabilirlik Kontrolleri ve Teknik Uygunluk Testleri Yetkilendirme Süreci Hakkında Önemli Duyuru",
-    "İnsansız Hava Araçları (Drone Soccer) Yarışma Talimatı Yayımlandı"
+    "TANDEM UÇUŞLARDA UÇUŞ EMNİYETİ VE GÜVENLİĞİNE İLİŞKİN DUYURU",
+    "YAMAÇ PARAŞÜTÜ KANAT KONTROLÜ YETKİLENDİRME SÜRECİ TAMAMLANDI",
+    "Yamaç Paraşütü Kanatlarının Uçabilirlik Kontrolleri ve Teknik Uygunluk Testleri Yetkilendirme Süreci Hakkında Önemli Duyuru"
    ]
   },
   {
@@ -2073,30 +2138,51 @@
    "dated_ratio": 1.0,
    "label": "RSS",
    "sample": [
-    "Türkiye Yamaç Paraşütü Mesafe Yarışması Karapınar 2026 Başvuru Süresi Uzatıldı",
-    "Yamaç Paraşütü Kanatlarının Uçabilirlik Kontrolleri ve Teknik Uygunluk Testleri Yetkilendirme Süreci Hakkında Önemli Duyuru",
-    "İnsansız Hava Araçları (Drone Soccer) Yarışma Talimatı Yayımlandı"
+    "TANDEM UÇUŞLARDA UÇUŞ EMNİYETİ VE GÜVENLİĞİNE İLİŞKİN DUYURU",
+    "YAMAÇ PARAŞÜTÜ KANAT KONTROLÜ YETKİLENDİRME SÜRECİ TAMAMLANDI",
+    "Yamaç Paraşütü Kanatlarının Uçabilirlik Kontrolleri ve Teknik Uygunluk Testleri Yetkilendirme Süreci Hakkında Önemli Duyuru"
    ]
   }
  ],
  "shgm": [
   {
-   "url": "https://shgm.gsb.gov.tr/HaberListesi/1",
-   "kind": "render",
-   "score": 30,
-   "item_count": 16,
-   "dated_ratio": 0,
-   "label": "haber listesi (render)",
-   "sample": []
-  },
-  {
    "url": "https://shgm.gsb.gov.tr/Federasyonlar/28/2/Federasyonlar",
    "kind": "render",
-   "score": 20,
+   "score": 74.84313725490196,
    "item_count": 153,
-   "dated_ratio": 0,
-   "label": "federasyon duyurulari (render)",
-   "sample": []
+   "dated_ratio": 1.0,
+   "label": "Federasyon Duyuruları (render)",
+   "sample": [
+    "6. Olağan ve Mali Genel Kurulu Başkan Adayları",
+    "TASLAK ANA STATÜ",
+    "YÖNETİM KURULU FAALİYET RAPORU"
+   ]
+  },
+  {
+   "url": "https://shgm.gsb.gov.tr",
+   "kind": "render",
+   "score": 40.0,
+   "item_count": 8,
+   "dated_ratio": 1.0,
+   "label": "ana sayfa (render)",
+   "sample": [
+    "Ağustos 2026 Pazar İtalya’nın Taranto kentinde düzenlenen 20’nci Akdeniz Oyunları’nda yarışan milli sporcularımız, 2 altın ve 4 bronz olmak üzere…",
+    "Ağustos 2026 Cumartesi İtalya’nın Taranto kentinde düzenlenen 20’nci Akdeniz Oyunları’nda yarışan milli sporcularımız, 3 altın ve 1 bronz olmak üzere…",
+    "Ağustos 2026 Perşembe İtalya’nın Taranto kentinde düzenlenen 20’nci Akdeniz Oyunları’nda yarışan milli sporcularımız, 3 altın, 2 gümüş ve 3 bronz…"
+   ]
+  },
+  {
+   "url": "https://shgm.gsb.gov.tr/HaberListesi/1",
+   "kind": "render",
+   "score": 29.5625,
+   "item_count": 16,
+   "dated_ratio": 0.0625,
+   "label": "SHGM Gündemi (render)",
+   "sample": [
+    "Kadın Kriket Milli Takımımız Avrupa şampiyonu!",
+    "Milli golfçülerimizden 5 madalya!",
+    "20’nci Akdeniz Oyunları’nda günün özeti!"
+   ]
   }
  ],
  "sportoto": [
@@ -2108,9 +2194,9 @@
    "dated_ratio": 1.0,
    "label": "Haberler (render)",
    "sample": [
-    "BAKAN BAK’TAN SÜPER LİG 2026-2027 SEZONU AÇILIŞ MESAJI",
-    "BAKAN BAK’TAN DOWN JUDO MİLLİ TAKIMI İÇİN TEBRİK MESAJI",
-    "BAKAN BAK’TAN AVRUPA ŞAMPİYONU İLKE ÖZYÜKSEL MİHRİOĞLU İÇİN TEBRİK MESAJI"
+    "BAKAN BAK SULTANGAZİ'DE TEMEL ATMA TÖRENİNDE KONUŞTU",
+    "BAKAN BAK’TAN HENTBOLDA CUMHURBAŞKANLIĞI KUPASI'NI KAZANAN KULÜPLERE TEBRİK",
+    "BAKAN BAK’TAN MİLLİ SPORCULAR FERİHA DİLHÜBA BABIROĞLU VE AHMET EMREM’E TEBRİK MESAJI"
    ]
   },
   {
@@ -2121,9 +2207,9 @@
    "dated_ratio": 0.0,
    "label": "ana sayfa (render)",
    "sample": [
-    "BAKAN BAK, ÖZEL SPORCULAR İLE BİR ARAYA GELDİ",
-    "BAKAN BAK’TAN MİLLİ ATICILAR İÇİN TEBRİK MESAJI.",
-    "BAKAN BAK 18 YAŞ ALTI KADIN VOLEYBOL MİLLİ TAKIMINI TEBRİK ETTİ"
+    "BAKAN BAK TFF MERKEZ HAKEM KURULU YAZ SEMİNERİNDE KONUŞTU",
+    "BAKAN BAK’TAN MİLLETLER LİGİ ŞAMPİYONU A MİLLİ KADIN VOLEYBOL TAKIMI’NA TEBRİK",
+    "BAKAN BAK’TAN MİLLİ PARA BİSİKLETÇİLER İÇİN TEBRİK MESAJI"
    ]
   }
  ],
@@ -2170,16 +2256,42 @@
  ],
  "gelenekselsporlar": [
   {
-   "url": "https://www.gsdf.gov.tr/tr/haberler",
+   "url": "https://www.gsdf.gov.tr/tr/haberler/haberler",
    "kind": "html",
-   "score": 74.06323185011709,
-   "item_count": 427,
-   "dated_ratio": 0.9625292740046838,
-   "label": "tr/haberler",
+   "score": 75.0,
+   "item_count": 177,
+   "dated_ratio": 1.0,
+   "label": "HABERLER",
    "sample": [
-    "Halat Çekme Aday Hakem Kursu Ağustos 2026 14.08.2026 Duyurular",
-    "Mangala Oyunu Aday Hakem Kursu Sonuçları 2026 03.07.2026 Duyurular",
-    "Büyük Heyecanın İkinci Adımı: Minikler ve Yıldızlar Türkiye Şampiyonası 15.06.2026 Duyurular"
+    "Mas Güreşi Türkiye Şampiyonası Yozgat 2026",
+    "Mangala Oyunu Müsabaka Talimatı yayınlandı.",
+    "Onikitaş Oyunu Müsabaka Talimatı yayınlandı."
+   ]
+  },
+  {
+   "url": "https://www.gsdf.gov.tr/tr/haberler/duyurular",
+   "kind": "html",
+   "score": 72.93650793650794,
+   "item_count": 252,
+   "dated_ratio": 0.9365079365079365,
+   "label": "DUYURULAR",
+   "sample": [
+    "TGSDF 9. Mali Genel Kurul Geçici Delege Duyurusu",
+    "Halat Oyunu Aday Hakem Kursu Sınav Sonuçları Ağustos 2026",
+    "Yıldız Genç Kadınlar ve Erkekler Mas Güreşi Türkiye Şampiyonası İstanbul’da"
+   ]
+  },
+  {
+   "url": "https://www.gsdf.gov.tr/tr#tab-haberler",
+   "kind": "html",
+   "score": 48.983050847457626,
+   "item_count": 59,
+   "dated_ratio": 0.0,
+   "label": "HABERLER",
+   "sample": [
+    "TGSDF 9. Mali Genel Kurul Geçici Delege Duyurusu",
+    "Halat Oyunu Aday Hakem Kursu Sınav Sonuçları Ağustos 2026",
+    "Yıldız Genç Kadınlar ve Erkekler Mas Güreşi Türkiye Şampiyonası İstanbul’da"
    ]
   }
  ],
@@ -2192,9 +2304,9 @@
    "dated_ratio": 1.0,
    "label": "MEDYA MERKEZİ",
    "sample": [
-    "03 Temmuz 2026 Olimpik Eğitimde Yeni Dönem - detay >",
-    "17 Nisan 2026 Federasyon Başkanımız Sayın Erhan Ertürk'ten Adana Valisi Sayın Mustafa Yavuz'a ziyaret - detay >",
-    "11 Şubat 2026 Los Angeles 2028 Olimpiyatlarında Kürek Dalında 1500 Metrelik Yarışma Mesafesi Neleri Değiştirebilir? - Makale - Sn. Recep Selim AKICI - detay >"
+    "Olimpik Eğitimde Yeni Dönem",
+    "Federasyon Başkanımız Sayın Erhan Ertürk'ten Adana Valisi Sayın Mustafa Yavuz'a ziyaret",
+    "Los Angeles 2028 Olimpiyatlarında Kürek Dalında 1500 Metrelik Yarışma Mesafesi Neleri Değiştirebilir? - Makale - Sn. Recep Selim AKICI"
    ]
   },
   {
@@ -2205,9 +2317,9 @@
    "dated_ratio": 1.0,
    "label": "DUYURULAR",
    "sample": [
-    "9. MALİ GENEL KURUL",
-    "2026 Yeşilay Gençler Türkiye Şampiyonası Hakem Görevlendirme",
-    "9. MALİ GENEL KURUL KURA ÇEKİMİ"
+    "9. Mali Genel Kurul Kesin Delege Listesi",
+    "Balkan Şampiyonası Milli Takım Kadrosu",
+    "9. Mali Genel Kurul Geçici Delege Listesi"
    ]
   }
  ]

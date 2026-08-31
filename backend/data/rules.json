@@ -54,16 +54,16 @@
  "basketbol": [],
  "gures": [
   {
-   "url": "https://tgf.tr/turkiye-sampiyonalari-2025/",
-   "label": "2025 Türkiye Şampiyonaları Talimatları",
-   "belge_sayisi": 19,
-   "score": 19
-  },
-  {
    "url": "https://tgf.tr/talimatlar/",
    "label": "Talimatlar",
    "belge_sayisi": 13,
-   "score": 13
+   "score": 31
+  },
+  {
+   "url": "https://tgf.tr/talimatlar/",
+   "label": "yaygın yol /talimat",
+   "belge_sayisi": 13,
+   "score": 31
   }
  ],
  "halter": [],
@@ -85,14 +85,14 @@
   {
    "url": "https://turkiyetaekwondofed.gov.tr/talimatlar-ve-dokumanlar/",
    "label": "Talimatlar ve Dökümanlar",
-   "belge_sayisi": 25,
-   "score": 46
+   "belge_sayisi": 26,
+   "score": 47
   },
   {
    "url": "https://turkiyetaekwondofed.gov.tr/talimatlar-ve-dokumanlar/",
    "label": "Talimatlar ve Dökümanlar",
-   "belge_sayisi": 25,
-   "score": 46
+   "belge_sayisi": 26,
+   "score": 47
   }
  ],
  "karate": [],
@@ -122,14 +122,14 @@
   {
    "url": "https://www.badminton.org.tr/talimatlar/",
    "label": "Talimatlar",
-   "belge_sayisi": 25,
-   "score": 37
+   "belge_sayisi": 24,
+   "score": 42
   },
   {
    "url": "https://www.badminton.org.tr/talimatlar/",
    "label": "yaygın yol /tr/talimatlar",
-   "belge_sayisi": 25,
-   "score": 37
+   "belge_sayisi": 24,
+   "score": 42
   }
  ],
  "bisiklet": [
@@ -144,22 +144,22 @@
   {
    "url": "https://www.okculuk.org.tr/federasyon/talimatlar/",
    "label": "Talimatlar",
-   "belge_sayisi": 32,
-   "score": 50
+   "belge_sayisi": 31,
+   "score": 49
   },
   {
    "url": "https://www.okculuk.org.tr/federasyon/talimatlar/",
    "label": "yaygın yol /talimatlar",
-   "belge_sayisi": 32,
-   "score": 50
+   "belge_sayisi": 31,
+   "score": 49
   }
  ],
  "aticilik": [
   {
    "url": "https://www.taf.gov.tr/tr/talimatlar",
    "label": "Talimatlar",
-   "belge_sayisi": 26,
-   "score": 50
+   "belge_sayisi": 24,
+   "score": 45
   },
   {
    "url": "https://www.taf.gov.tr/tr/issf-kurallari",
@@ -200,14 +200,14 @@
   {
    "url": "https://www.eskrim.org.tr/mevzuat-66.html",
    "label": "MEVZUAT",
-   "belge_sayisi": 30,
-   "score": 66
+   "belge_sayisi": 29,
+   "score": 59
   },
   {
-   "url": "https://www.eskrim.org.tr/u10-u12-u14-kilic-federasyon-kupasi-talimati-16-18-ekim-2026-samsun-2602.html",
-   "label": "» U10 - U12 - U14 Kılıç Federasyon Kupası Talimatı - 16 - 18 Ekim 2026 Samsun",
-   "belge_sayisi": 5,
-   "score": 8
+   "url": "https://www.eskrim.org.tr/u10-u12-u14-epe-federasyon-kupasi-talimati-23-25-ekim-2026-erzurum-2608.html",
+   "label": "» U10 - U12 - U14 Epe Federasyon Kupası Talimatı - 23 - 25 Ekim 2026 Erzurum",
+   "belge_sayisi": 7,
+   "score": 13
   }
  ],
  "kurek": [
@@ -224,34 +224,28 @@
    "label": "MEVZUAT",
    "belge_sayisi": 32,
    "score": 71
-  },
-  {
-   "url": "https://kano.org.tr",
-   "label": "Müsabaka Kuralları",
-   "belge_sayisi": 2,
-   "score": 2
   }
  ],
  "yelken": [
   {
    "url": "https://www.tyf.org.tr/sayfalar/yelken-hakem-talimati/",
    "label": "YELKEN HAKEM TALİMATI",
-   "belge_sayisi": 2,
-   "score": 5
+   "belge_sayisi": 3,
+   "score": 9
   },
   {
    "url": "https://www.tyf.org.tr/sayfalar/egitim-kurulu-gorev-talimati/",
    "label": "EĞİTİM KURULU GÖREV TALİMATI",
-   "belge_sayisi": 2,
-   "score": 5
+   "belge_sayisi": 3,
+   "score": 9
   }
  ],
  "triatlon": [
   {
    "url": "https://triatlon.org.tr/talimatlar.html",
    "label": "Talimatlar",
-   "belge_sayisi": 17,
-   "score": 41
+   "belge_sayisi": 18,
+   "score": 42
   },
   {
    "url": "https://triatlon.org.tr/kural-kitabi.html",
@@ -265,14 +259,14 @@
   {
    "url": "https://buzpateni.org.tr/haber-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-1115959",
    "label": "mevzuat",
-   "belge_sayisi": 36,
-   "score": 39
+   "belge_sayisi": 34,
+   "score": 37
   },
   {
    "url": "https://buzpateni.org.tr/duyuru-detay/cocuk-koruma-kurulu-talimati-d",
    "label": "Çocuk Koruma Kurulu Talimatı",
-   "belge_sayisi": 6,
-   "score": 6
+   "belge_sayisi": 3,
+   "score": 3
   }
  ],
  "buzhokeyi": [],
@@ -291,20 +285,7 @@
    "score": 48
   }
  ],
- "dagcilik": [
-  {
-   "url": "https://tdf.tr/mevzuat/",
-   "label": "Mevzuat",
-   "belge_sayisi": 55,
-   "score": 115
-  },
-  {
-   "url": "https://tdf.tr/Mevzuat/",
-   "label": "Mevzuat",
-   "belge_sayisi": 55,
-   "score": 115
-  }
- ],
+ "dagcilik": [],
  "golf": [
   {
    "url": "https://tgf.org.tr/tr/talimatlar",
@@ -313,10 +294,10 @@
    "score": 56
   },
   {
-   "url": "https://tgf.org.tr/tr/golf-kurallari",
-   "label": "Golf Kuralları",
+   "url": "https://tgf.org.tr/tr",
+   "label": "Kurallar",
    "belge_sayisi": 8,
-   "score": 8
+   "score": 11
   }
  ],
  "satranc": [
@@ -364,13 +345,13 @@
  ],
  "motosiklet": [
   {
-   "url": "https://www.tmf.org.tr/tmf/mevzuat/",
+   "url": "https://tmf.org.tr/tmf/mevzuat/",
    "label": "Mevzuat",
    "belge_sayisi": 29,
    "score": 68
   },
   {
-   "url": "https://www.tmf.org.tr/mevzuat/",
+   "url": "https://tmf.org.tr/mevzuat/",
    "label": "yaygın yol /mevzuat",
    "belge_sayisi": 29,
    "score": 68
@@ -378,16 +359,16 @@
  ],
  "otomobil": [
   {
-   "url": "https://www.tosfed.org.tr/tosfed/ana-statu-ve-idari-talimatlar/",
-   "label": "İdari Talimatlar",
-   "belge_sayisi": 22,
-   "score": 37
-  },
-  {
    "url": "https://www.tosfed.org.tr/sportif/2026-kurallar-kitaplari/",
    "label": "2026 Kurallar Kitapları",
    "belge_sayisi": 37,
    "score": 37
+  },
+  {
+   "url": "https://www.tosfed.org.tr/tosfed/ana-statu-ve-idari-talimatlar/",
+   "label": "İdari Talimatlar",
+   "belge_sayisi": 21,
+   "score": 36
   }
  ],
  "sualti": [
@@ -400,8 +381,8 @@
   {
    "url": "https://www.tssf.gov.tr/donanimli-dalis-sinav-rehberi-genel-kurallari/",
    "label": "Sınav Rehberi",
-   "belge_sayisi": 2,
-   "score": 2
+   "belge_sayisi": 6,
+   "score": 6
   }
  ],
  "vucutgelistirme": [
@@ -409,7 +390,7 @@
    "url": "https://tvgfbf.gov.tr/talimatlar-yonetmelikler",
    "label": "Talimatlar",
    "belge_sayisi": 5,
-   "score": 5
+   "score": 11
   }
  ],
  "wushu": [],
@@ -455,7 +436,20 @@
    "score": 19
   }
  ],
- "gormeengelliler": [],
+ "gormeengelliler": [
+  {
+   "url": "https://www.gesf.org.tr/mevzuat",
+   "label": "yaygın yol /mevzuat",
+   "belge_sayisi": 4,
+   "score": 7
+  },
+  {
+   "url": "https://www.gesf.org.tr/mevzuat/",
+   "label": "yaygın yol /mevzuat/",
+   "belge_sayisi": 4,
+   "score": 7
+  }
+ ],
  "ozelsporcular": [
   {
    "url": "https://tossfed.gov.tr/yonetmelikler/",
@@ -494,7 +488,7 @@
  ],
  "gelenekselsporlar": [
   {
-   "url": "https://gsdf.gov.tr/tr/dokumanlar/mevzuatlar",
+   "url": "https://www.gsdf.gov.tr/tr/dokumanlar/mevzuatlar",
    "label": "MEVZUATLAR",
    "belge_sayisi": 19,
    "score": 37
@@ -611,8 +605,8 @@
   {
    "url": "https://tif.org.tr/mevzuat",
    "label": "Mevzuat",
-   "belge_sayisi": 27,
-   "score": 42
+   "belge_sayisi": 26,
+   "score": 41
   }
  ],
  "kaykay": [

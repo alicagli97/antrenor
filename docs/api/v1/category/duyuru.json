@@ -1,5 +1,52 @@
 [
  {
+  "id": "4e5a554bf5d458a6",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "2026-2027 Sezonu Basın Akreditasyon Başvuru Süreci Sona Eriyor",
+  "url": "https://tvf.org.tr/icerik/2026-2027-sezonu-basin-akreditasyon-basvuru-sureci-sona-eriyor",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "burs"
+  ],
+  "published_at": "2026-08-31T20:00:36+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
+  "source": "html"
+ },
+ {
+  "id": "7b30c0cb74780773",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302761/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-31T20:00:36+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
+  "source": "html"
+ },
+ {
+  "id": "3b249dc5cd9b2d33",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Kadınlar Süper Ligi’nde 2026-2027 Sezonu Başladı",
+  "url": "https://thf.org.tr/haber/kadinlar-super-liginde-2026-2027-sezonu-basladi",
+  "summary": "Hentbol Kadınlar Süper Ligi’nde 2026-2027 sezonu, hafta sonu oynanan karşılaşmalarla başladı. Sezonun ilk haftasında dört karşılaşma oynanırken, Armada Praxis Yalıkavak Spor Kulübü, Bursa Büyükşehir Belediyesi Spor Kulübü ve Manisa Büyükşehir Belediyesi haftayı galibiyetle tamamladı. Göztepe ile Bursa Büyükşehir Belediyesi Spor Kulübü arasındaki mücadele ise beraberlikle sonuçlandı. İlk haftada alınan sonuçlar şöyle: Ortahisar Belediyesi Spor Kulübü 17-36 Armada Praxis Yalıkavak Spor Kulübü Göztepe 30-30 Bursa Büyükşehir Belediyesi Spor Kulübü Yozgat GSK 31-25 Odunpazarı SK Üsküdar Belediyesi ",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-31T17:42:55+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
+  "source": "api"
+ },
+ {
   "id": "0c8ce7523eb08778",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -36,21 +83,6 @@
   "federation_short": "SHGM",
   "title": "Kadın Kriket Milli Takımımız Avrupa şampiyonu!",
   "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302748/kadin-kriket-milli-takimimiz-avrupa-sampiyonu.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-31T13:35:58+00:00",
-  "first_seen_at": "2026-08-31T13:35:58+00:00",
-  "source": "html"
- },
- {
-  "id": "351ce7331b3bdbc3",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302738/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
   "summary": "",
   "image": null,
   "category": "duyuru",
@@ -807,20 +839,20 @@
   "source": "html"
  },
  {
-  "id": "5d267c059830ff7d",
+  "id": "4e74b42c722e9b9e",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
   "federation_short": "TBF",
   "title": "Navek Türkiye Challenge 2026 Reglamanı Yayınlandı",
-  "url": "https://www.badminton.org.tr/navek-turkiye-challenge-2026-reglamani-yayinlandi/13505/",
+  "url": "https://www.badminton.org.tr/navek-turkiye-challenge-2026-reglamani-yayinlandi/",
   "summary": "7-11 Ekim 2026 tarihleri arasında İstanbul’da yapılacak olan Navek Türkiye International Challenge 2026 turnuvası reglamanı yayınlandı. Reglaman için tıklayınız…",
-  "image": "https://www.badminton.org.tr/wp-content/uploads/2025/12/duyuru2-scaled-e1774358743409.png",
+  "image": null,
   "category": "duyuru",
   "tags": [
    "musabaka"
   ],
   "published_at": "2026-08-28T21:50:49+00:00",
-  "first_seen_at": "2026-08-29T02:10:03+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
   "source": "wp_json"
  },
  {
@@ -1162,37 +1194,37 @@
   "source": "html"
  },
  {
-  "id": "32a98cfde83281ec",
+  "id": "7c5ad372172c9efc",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
   "federation_short": "TBF",
   "title": "Çift Kadınlarda Avrupa Şampiyonuyuz!",
-  "url": "https://www.badminton.org.tr/cift-kadinlar-avrupa-sampiyonuyuz/13493/",
-  "summary": "Macaristan’da düzenlenen Avrupa Gençler Badminton Şampiyonası’nda milli sporcularımız tarih yazdı! Çift kadınlar finalinde İsviçreli rakiplerini 2-0 yenen Zeynep Berre Ocakoğlu-Elifnur Demir ikilisi Avrupa Şampiyonu olarak altın madalyayı kazandılar! Aynı kategoride […]",
+  "url": "https://www.badminton.org.tr/cift-kadinlar-avrupa-sampiyonuyuz/",
+  "summary": "Macaristan’da düzenlenen Avrupa Gençler Badminton Şampiyonası’nda milli sporcularımız tarih yazdı! Çift kadınlar finalinde İsviçreli rakiplerini 2-0 yenen Zeynep Berre Ocakoğlu-Elifnur Demir ikilisi Avrupa Şampiyonu olarak altın madalyayı kazandılar! Aynı kategoride mücadele eden Irmak Rana Yemişen-Yağmur Tuana Yemişen çiftimiz ise bronz madalya kazanarak kürsüdeki yerlerini aldılar. Ülkemize bu çifte gururu yaşatan şampiyonlarımızı ve teknik ekibi gönülden […]",
   "image": "https://www.badminton.org.tr/wp-content/uploads/2026/08/55491352328_f42476ec35_k.jpg",
   "category": "duyuru",
   "tags": [
    "musabaka"
   ],
   "published_at": "2026-08-27T19:35:12+00:00",
-  "first_seen_at": "2026-08-27T20:22:16+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
   "source": "wp_json"
  },
  {
-  "id": "dc3cb8bfc8aaabff",
+  "id": "2b8151a2dd8e8660",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
   "federation_short": "TBF",
   "title": "Karışık Çiftlerde Avrupa Şampiyonuyuz!",
-  "url": "https://www.badminton.org.tr/karisik-ciftlerde-avrupa-sampiyonuyuz/13491/",
-  "summary": "Macaristan’da düzenlenen Avrupa Gençler Badminton Şampiyonası’nda milli sporcularımız tarih yazdı! Karışık çiftler finalinde Fransız rakiplerini 2-0 yenen Gökay Göl – Nisa Nur Çimen ikilisi Avrupa Şampiyonu olarak altın madalyayı kazandılar! […]",
+  "url": "https://www.badminton.org.tr/karisik-ciftlerde-avrupa-sampiyonuyuz/",
+  "summary": "Macaristan’da düzenlenen Avrupa Gençler Badminton Şampiyonası’nda milli sporcularımız tarih yazdı! Karışık çiftler finalinde Fransız rakiplerini 2-0 yenen Gökay Göl – Nisa Nur Çimen ikilisi Avrupa Şampiyonu olarak altın madalyayı kazandılar! Aynı kategoride mücadele eden Mert Seven – Aysu Arslan çiftimiz ise bronz madalya kazanarak kürsüdeki yerlerini aldılar. Ülkemize bu çifte gururu yaşatan şampiyonlarımızı ve teknik […]",
   "image": "https://www.badminton.org.tr/wp-content/uploads/2026/08/55491631520_7b6ca3aadf_k.jpg",
   "category": "duyuru",
   "tags": [
    "musabaka"
   ],
   "published_at": "2026-08-27T19:33:25+00:00",
-  "first_seen_at": "2026-08-27T20:22:16+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
   "source": "wp_json"
  },
  {
@@ -1241,6 +1273,21 @@
   "published_at": "2026-08-27T17:00:00+00:00",
   "first_seen_at": "2026-08-28T18:36:31+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "e7a98fccd2ef5fbc",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "2026-2027 Sezonu İtibariyle Uygulanacak Olan Güncel “Mücadele Etmeme İsteği” (Passivité) Kuralı Hk.",
+  "url": "https://www.eskrim.org.tr/2026-2027-sezonu-itibariyle-uygulanacak-olan-guncel-mucadele-etmeme-istegi-passivite-kurali-hk-2623.html",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-27T15:07:00+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
+  "source": "html"
  },
  {
   "id": "4379847ce4149aa3",
@@ -1993,18 +2040,18 @@
   "source": "wp_json"
  },
  {
-  "id": "d63f3d7c592b8fd9",
+  "id": "ae650b9cb7567a89",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
   "federation_short": "TBF",
   "title": "Badminton’da Yeni Dönem: 15’lik Sayı Sistemi",
-  "url": "https://www.badminton.org.tr/badmintonda-yeni-donem-15lik-sayi-sistemi/13475/",
+  "url": "https://www.badminton.org.tr/badmintonda-yeni-donem-15lik-sayi-sistemi/",
   "summary": "3×15 Sayı Sistemi ve Oyunun Geleceği, Teknik Analiz, Bilimsel Değerlendirme ve Türk Badmintonuna Etkileri konulu çalışma için tıklayınız…",
   "image": "https://www.badminton.org.tr/wp-content/uploads/2026/08/15sayisistemi-1-scaled.png",
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-08-25T09:44:19+00:00",
-  "first_seen_at": "2026-08-25T09:48:33+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
   "source": "wp_json"
  },
  {
@@ -2776,18 +2823,18 @@
   "source": "rss"
  },
  {
-  "id": "d94252eadff1c798",
+  "id": "cbea260ce0db21e0",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
   "federation_short": "TBF",
   "title": "Akdeniz Oyunları’nda Karışık Çiftlerde Finaldeyiz",
-  "url": "https://www.badminton.org.tr/akdeniz-oyunlarinda-karisik-ciftlerde-finaldeyiz/13466/",
+  "url": "https://www.badminton.org.tr/akdeniz-oyunlarinda-karisik-ciftlerde-finaldeyiz/",
   "summary": "Emre Sönmez – Yasemen Bektaş çiftimiz, Sırbistan’dan Mihajlo TOMIC-Andela VITMAN çiftini 2-0 mağlup ederek finale yükseldi. Sporcularımıza finalde başarılar diliyoruz.",
   "image": "https://www.badminton.org.tr/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-23-at-12.12.53-e1787477956248.jpeg",
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-08-23T09:39:41+00:00",
-  "first_seen_at": "2026-08-23T10:37:03+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
   "source": "wp_json"
  },
  {
@@ -2900,37 +2947,37 @@
   "source": "html"
  },
  {
-  "id": "711ade9f8b105c44",
+  "id": "71ce5741e17db5c2",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
   "federation_short": "TBF",
   "title": "Akdeniz Oyunları Karışık Çiftler Yarı Finalde",
-  "url": "https://www.badminton.org.tr/akdeniz-oyunlari-karisik-ciftler-yari-finalde/13457/",
-  "summary": "22-28 Ağustos 2026 tarihleri arasında İtalya’nın Taranto şehrinde yapılacak olan Akdeniz Oyunları Badminton müsabakalarının ilk gününde karışık çiftlerdeki temsilcimiz Emre Sönmez-Yasemen Bektaş ilk turu bye geçti. İkinci turda Güney Kıbrıslı […]",
+  "url": "https://www.badminton.org.tr/akdeniz-oyunlari-karisik-ciftler-yari-finalde/",
+  "summary": "22-28 Ağustos 2026 tarihleri arasında İtalya’nın Taranto şehrinde yapılacak olan Akdeniz Oyunları Badminton müsabakalarının ilk gününde karışık çiftlerdeki temsilcimiz Emre Sönmez-Yasemen Bektaş ilk turu bye geçti. İkinci turda Güney Kıbrıslı Ioannis Tambourlas – Ioanna Pissi’yi 2-0, çeyrek finalde de İtalyan rakipleri David Salutt-MartinaIoannis Corsini’yi 2-1 yenerek yarı finale yükseldiler. Sporcularımızı tebrik ediyor, yarı final maçında […]",
   "image": "https://www.badminton.org.tr/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-22-at-18.38.18-1-e1787414179665.jpeg",
   "category": "duyuru",
   "tags": [
    "musabaka"
   ],
   "published_at": "2026-08-22T15:56:54+00:00",
-  "first_seen_at": "2026-08-22T16:37:25+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
   "source": "wp_json"
  },
  {
-  "id": "ae5249c224f9928f",
+  "id": "3c43aec43ecc47b1",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
   "federation_short": "TBF",
   "title": "Genç Milli Takımımızdan Tarihi Derece!",
-  "url": "https://www.badminton.org.tr/genc-milli-takimimizdan-tarihi-derece/13454/",
-  "summary": "Avrupa Gençler Badminton Şampiyonası’nda mücadele eden Türk Milli Takımımız, organizasyon tarihinde ilk defa Avrupa üçüncülüğü elde ederek büyük bir başarıya imza attı! Kürsüye çıkarak bayrağımızı dalgalandıran tüm sporcularımızı ve bu […]",
+  "url": "https://www.badminton.org.tr/genc-milli-takimimizdan-tarihi-derece/",
+  "summary": "Avrupa Gençler Badminton Şampiyonası’nda mücadele eden Türk Milli Takımımız, organizasyon tarihinde ilk defa Avrupa üçüncülüğü elde ederek büyük bir başarıya imza attı! Kürsüye çıkarak bayrağımızı dalgalandıran tüm sporcularımızı ve bu başarıda emeği geçen teknik ekibimizi tebrik ederiz. Şimdi sıra ferdi müsabakalarda! Ferdi müsabakalara çıkacak milli sporcularımıza yürekten başarılar dileriz. #Badminton #AvrupaŞampiyonası #Türkiye #Gurur #GençMilliTakım #Spor",
   "image": "https://www.badminton.org.tr/wp-content/uploads/2026/08/IMG_2099-scaled.jpeg",
   "category": "duyuru",
   "tags": [
    "musabaka"
   ],
   "published_at": "2026-08-22T15:18:51+00:00",
-  "first_seen_at": "2026-08-22T15:34:09+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
   "source": "wp_json"
  },
  {
@@ -3060,50 +3107,5 @@
   "published_at": "2026-08-22T00:00:00+00:00",
   "first_seen_at": "2026-08-23T06:00:29+00:00",
   "source": "html"
- },
- {
-  "id": "a65133436b2b38db",
-  "federation": "basketbol",
-  "federation_name": "Türkiye Basketbol Federasyonu",
-  "federation_short": "TBF",
-  "title": "A Erkek Milli Takımımız Türk Hava Yolları DBB Süper Kupa’yı Üçüncü Sırada Tamamladı 22.08.2026",
-  "url": "https://www.tbf.org.tr/haber/a-erkek-milli-takimimiz-turk-hava-yollari-dbb-super-kupa-yi-ucuncu-sirada-tamamladi-2026-08-22",
-  "summary": "A Erkek Milli Takımımız, Türk Hava Yolları DBB Süper Kupa’daki son maçında Çekya’yı 99-84 yenerek organizasyonu üçüncü sırada tamamladı. Devamını Gör",
-  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/184318e71f094850aa26c6389a055ad1_1kopya.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-22T00:00:00+00:00",
-  "first_seen_at": "2026-08-23T06:00:29+00:00",
-  "source": "html"
- },
- {
-  "id": "d791e711a98ace9d",
-  "federation": "basketbol",
-  "federation_name": "Türkiye Basketbol Federasyonu",
-  "federation_short": "TBF",
-  "title": "İstatistik ve Video Analiz Uzmanlığı Sertifika Programı Tamamlandı 22.08.2026",
-  "url": "https://www.tbf.org.tr/haber/istatistik-ve-video-analiz-uzmanligi-sertifika-programi-tamamlandi-2026-08-22",
-  "summary": "Türkiye Basketbol Federasyonu (TBF) Eğitim Kurulu tarafından ilk kez hayata geçirilen İstatistik ve Video Analiz Uzmanlığı Sertifika Programı, 19-21 Ağustos 2026 tarihleri arasında Turkcell Basketbol Gelişim Merkezinde gerçekleştirildi. Devamını Gör",
-  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/846665efe8cf4e17800268612cf0a49a_1.jpeg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-22T00:00:00+00:00",
-  "first_seen_at": "2026-08-22T13:30:16+00:00",
-  "source": "html"
- },
- {
-  "id": "de08e7e403c927a8",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Ankara'daki Kız Sporcu Tarama Kampı Sona Erdi",
-  "url": "https://thf.org.tr/haber/ankaradaki-kiz-sporcu-tarama-kampi-sona-erdi",
-  "summary": "2012-2013 doğumlu kız sporculara yönelik Tarama Kampı, 17-21 Ağustos tarihleri arasında gerçekleştirildi. Ankara Prof. Dr. Yaşar Sevim Hentbol Salonu’nda düzenlenen kampta 40 kişilik sporcu grubu çalıştı.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-21T21:38:24+00:00",
-  "first_seen_at": "2026-08-21T21:38:24+00:00",
-  "source": "api"
  }
 ]

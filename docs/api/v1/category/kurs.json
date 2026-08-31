@@ -1,5 +1,24 @@
 [
  {
+  "id": "8ad383e4b801b469",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» 2026 Yılı Hakem Geç Vize İşlemleri hk.",
+  "url": "https://www.eskrim.org.tr/2026-yili-hakem-gec-vize-islemleri-hk-2622.html",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "vize",
+   "hakem",
+   "transfer"
+  ],
+  "published_at": "2026-08-31T20:00:36+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
+  "source": "html"
+ },
+ {
   "id": "9d7cbdea1bd4481c",
   "federation": "basketbol",
   "federation_name": "Türkiye Basketbol Federasyonu",
@@ -160,23 +179,24 @@
   "source": "html"
  },
  {
-  "id": "9ef28bbd48c51e27",
+  "id": "768ac766b9d7a8d4",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
   "federation_short": "TBF",
   "title": "İşitme Engelliler ve Para Badminton Denklik Başvuruları",
-  "url": "https://www.badminton.org.tr/isitme-engelliler-ve-para-badminton-denklik-basvurulari/13481/",
-  "summary": "Antrenör eğitim talimatımızda yapılan değişikliğe istinaden badminton branşı antrenörlerimiz, bulundukları kademede federasyonumuza bağlı engelli branşlardan tercih edilecek yalnızca tek bir branşta denklik başvurusu yapabileceklerdir. (işitme engelliler badminton veya para badminton) Yukarıda belirtilen açıklama doğrultusunda […]",
-  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/03/duyuru11.jpeg",
+  "url": "https://www.badminton.org.tr/isitme-engelliler-ve-para-badminton-denklik-basvurulari/",
+  "summary": "Antrenör eğitim talimatımızda yapılan değişikliğe istinaden badminton branşı antrenörlerimiz, bulundukları kademede federasyonumuza bağlı engelli branşlardan tercih edilecek yalnızca tek bir branşta denklik başvurusu yapabileceklerdir. (işitme engelliler badminton veya para badminton) Yukarıda belirtilen açıklama doğrultusunda 2. Ve 3 kademe para badminton ile 2. Ve 3. Kademe işitme engelliler badminton kursu açılacak olup 2. Kademe badminton temel antrenör ve 3. Kademe badminton kıdemli […]",
+  "image": null,
   "category": "kurs",
   "tags": [
    "antrenor",
+   "kurs",
    "vize",
    "mevzuat",
    "burs"
   ],
   "published_at": "2026-08-27T12:18:07+00:00",
-  "first_seen_at": "2026-08-27T20:22:16+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
   "source": "wp_json"
  },
  {
@@ -3497,23 +3517,5 @@
   "published_at": "2026-07-07T09:09:29+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
- },
- {
-  "id": "9d8a0b86dbf2f41f",
-  "federation": "judo",
-  "federation_name": "Türkiye Judo Federasyonu",
-  "federation_short": "TJF",
-  "title": "Burdur 1. Kademe Yardımcı Antrenör Kursu / 22-29 Haziran 2026 / Sonuçlandı",
-  "url": "https://www.judo.org.tr/duyuru/3595",
-  "summary": "Burdur 1. Kademe Yardımcı Antrenör Kursu / 22-29 Haziran 2026 / Sonuçlandı 7/7/2026 14:06 Federasyonumuzun 2026 yılı faaliyet programında yer alan 22-29 Haziran 2026 tarihleri arasında Burdur'da düzenlenen 1. Kademe Yardımcı Antrenör Kursu başarıyla tamamlanmıştır. Sonuçlara ulaşmak için aşağıdaki bağlantıları kullanabilirsiniz: TIKLAYINIZ 3/7/2026 21:59 Burdur'da yapılan 1. Kademe Yardımcı Antrenör Kursu Uygulama Eğitiminin sonuçları belli oldu. 3/7/2026 12:17 Büyükler ve Veteranlar Balkan Judo Şampiyonası Duyurusu 18/6/2026 17:07 Federasyonumuzun 2026 yılı faaliyet programında yer alan Judo ",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-07-07T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
  }
 ]

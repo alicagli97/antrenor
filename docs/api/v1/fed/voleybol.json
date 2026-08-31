@@ -1,5 +1,40 @@
 [
  {
+  "id": "4e5a554bf5d458a6",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "2026-2027 Sezonu Basın Akreditasyon Başvuru Süreci Sona Eriyor",
+  "url": "https://tvf.org.tr/icerik/2026-2027-sezonu-basin-akreditasyon-basvuru-sureci-sona-eriyor",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "burs"
+  ],
+  "published_at": "2026-08-31T20:00:36+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d03a61251a4fc09c",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-31T19:58:50+00:00",
+  "first_seen_at": "2026-08-31T19:58:50+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "0c8ce7523eb08778",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -1037,41 +1072,5 @@
   "published_at": "2026-08-21T08:53:35+00:00",
   "first_seen_at": "2026-08-21T08:53:35+00:00",
   "source": "takvim-excel"
- },
- {
-  "id": "94339ecf13195345",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Voleybol faaliyet takvimi yayında",
-  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:47+00:00",
-  "first_seen_at": "2026-08-20T20:10:47+00:00",
-  "source": "takvim-excel"
- },
- {
-  "id": "f4b84d63784c84c9",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "İkinci Kademe Temel Antrenör Uygulama Eğitim Kursu Sınav Sonuçları Açıklandı",
-  "url": "https://tvf.org.tr/icerik/ikinci-kademe-temel-antrenor-uygulama-egitim-kursu-sinav-sonuclari-aciklandi-7",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
  }
 ]

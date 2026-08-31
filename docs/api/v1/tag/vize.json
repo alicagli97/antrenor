@@ -1,5 +1,24 @@
 [
  {
+  "id": "8ad383e4b801b469",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» 2026 Yılı Hakem Geç Vize İşlemleri hk.",
+  "url": "https://www.eskrim.org.tr/2026-yili-hakem-gec-vize-islemleri-hk-2622.html",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "vize",
+   "hakem",
+   "transfer"
+  ],
+  "published_at": "2026-08-31T20:00:36+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
+  "source": "html"
+ },
+ {
   "id": "50c3562b3c9b4366",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -19,23 +38,24 @@
   "source": "html"
  },
  {
-  "id": "9ef28bbd48c51e27",
+  "id": "768ac766b9d7a8d4",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
   "federation_short": "TBF",
   "title": "İşitme Engelliler ve Para Badminton Denklik Başvuruları",
-  "url": "https://www.badminton.org.tr/isitme-engelliler-ve-para-badminton-denklik-basvurulari/13481/",
-  "summary": "Antrenör eğitim talimatımızda yapılan değişikliğe istinaden badminton branşı antrenörlerimiz, bulundukları kademede federasyonumuza bağlı engelli branşlardan tercih edilecek yalnızca tek bir branşta denklik başvurusu yapabileceklerdir. (işitme engelliler badminton veya para badminton) Yukarıda belirtilen açıklama doğrultusunda […]",
-  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/03/duyuru11.jpeg",
+  "url": "https://www.badminton.org.tr/isitme-engelliler-ve-para-badminton-denklik-basvurulari/",
+  "summary": "Antrenör eğitim talimatımızda yapılan değişikliğe istinaden badminton branşı antrenörlerimiz, bulundukları kademede federasyonumuza bağlı engelli branşlardan tercih edilecek yalnızca tek bir branşta denklik başvurusu yapabileceklerdir. (işitme engelliler badminton veya para badminton) Yukarıda belirtilen açıklama doğrultusunda 2. Ve 3 kademe para badminton ile 2. Ve 3. Kademe işitme engelliler badminton kursu açılacak olup 2. Kademe badminton temel antrenör ve 3. Kademe badminton kıdemli […]",
+  "image": null,
   "category": "kurs",
   "tags": [
    "antrenor",
+   "kurs",
    "vize",
    "mevzuat",
    "burs"
   ],
   "published_at": "2026-08-27T12:18:07+00:00",
-  "first_seen_at": "2026-08-27T20:22:16+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
   "source": "wp_json"
  },
  {

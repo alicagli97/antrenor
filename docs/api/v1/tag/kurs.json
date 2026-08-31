@@ -57,6 +57,27 @@
   "source": "html"
  },
  {
+  "id": "768ac766b9d7a8d4",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "İşitme Engelliler ve Para Badminton Denklik Başvuruları",
+  "url": "https://www.badminton.org.tr/isitme-engelliler-ve-para-badminton-denklik-basvurulari/",
+  "summary": "Antrenör eğitim talimatımızda yapılan değişikliğe istinaden badminton branşı antrenörlerimiz, bulundukları kademede federasyonumuza bağlı engelli branşlardan tercih edilecek yalnızca tek bir branşta denklik başvurusu yapabileceklerdir. (işitme engelliler badminton veya para badminton) Yukarıda belirtilen açıklama doğrultusunda 2. Ve 3 kademe para badminton ile 2. Ve 3. Kademe işitme engelliler badminton kursu açılacak olup 2. Kademe badminton temel antrenör ve 3. Kademe badminton kıdemli […]",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "vize",
+   "mevzuat",
+   "burs"
+  ],
+  "published_at": "2026-08-27T12:18:07+00:00",
+  "first_seen_at": "2026-08-31T20:00:36+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "ad1c7ba375f705c7",
   "federation": "gelismekteolan",
   "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
@@ -3580,24 +3601,6 @@
    "hakem"
   ],
   "published_at": "2026-03-12T10:32:17+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "rss"
- },
- {
-  "id": "f8a6e7900edf683f",
-  "federation": "curling",
-  "federation_name": "Türkiye Curling Federasyonu",
-  "federation_short": "TCF",
-  "title": "Floor Curling Aday Hakem Kursu - Bursa...",
-  "url": "http://curling.gov.tr/detaymobil/858/haber/",
-  "summary": "Floor Curling Aday Hakem Kursu 28-29 Mart 2026 tarihlerinde Bursa ilinde yapılacaktır.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-03-09T20:16:16+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "rss"
  }

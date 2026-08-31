@@ -1,22 +1,24 @@
 {
  "schema_version": 1,
- "generated_at": "2026-08-31T13:35:58+00:00",
- "total": 4183,
- "new_in_last_run": 30,
+ "generated_at": "2026-08-31T16:00:26+00:00",
+ "total": 4193,
+ "new_in_last_run": 10,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-08-31T13:35:58+00:00",
  "categories": {
   "musabaka": 382,
-  "duyuru": 993,
+  "duyuru": 1002,
   "haber": 52,
   "mevzuat": 2396,
-  "kurs": 287,
+  "kurs": 288,
   "takvim": 73
  },
  "silent_sources": [
@@ -61,6 +63,7 @@
   "yuzme": 25,
   "boks": 42,
   "halter": 31,
+  "basketbol": 44,
   "judo": 46,
   "sportoto": 9,
   "masatenisi": 43,
@@ -68,7 +71,6 @@
   "gormeengelliler": 42,
   "taekwondo": 26,
   "havasporlari": 29,
-  "basketbol": 34,
   "bedenselengelliler": 23,
   "gelismekteolan": 52,
   "beyzbol": 43,

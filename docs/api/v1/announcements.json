@@ -1,5 +1,68 @@
 [
  {
+  "id": "351ce7331b3bdbc3",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302738/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-31T23:48:18+00:00",
+  "first_seen_at": "2026-08-31T23:48:18+00:00",
+  "source": "html"
+ },
+ {
+  "id": "74260f87ff769bf0",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-08-31T23:46:13+00:00",
+  "first_seen_at": "2026-08-31T23:46:13+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "527ead903abce1d6",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Erkek Bayrak Takımımız Akdeniz Oyunları 2’ncisi!",
+  "url": "https://taf.org.tr/erkek-bayrak-takimimiz-akdeniz-oyunlari-2ncisi/",
+  "summary": "Erkek Bayrak Takımımız Akdeniz Oyunları 2’ncisi! 🏃‍♂️Taranto 2026 Akdeniz Oyunları’nda Ertan Özkan & Kayhan & Batuhan Altıntaş ve Oğuz Uyar’dan oluşan 4x100m Erkek Bayrak Takımımız, 39.09’luk derecesiyle gümüş madalya kazandı.🇹🇷 👏🏻Sporcularımızı ve tüm emeği geçenleri kutluyoruz.",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/09/c42f836f-c6fb-4c11-abae-9a63601e0c86.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-31T21:17:24+00:00",
+  "first_seen_at": "2026-08-31T23:48:18+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "163e77c7af99ab68",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Kadın Bayrak Takımımız rekorla Akdeniz Oyunları 3’üncüsü!",
+  "url": "https://taf.org.tr/kadin-bayrak-takimimiz-rekorla-akdeniz-oyunlari-3uncusu/",
+  "summary": "Kadın Bayrak Takımımız rekorla Akdeniz Oyunları 3’üncüsü! 🏃‍♀️Taranto 2026 Akdeniz Oyunları’nda Büşra Akay & Sıla Koloğlu & Simay Özçiftçi ve Elif Polat’tan oluşan 4x100m Kadın Bayrak Takımımız, 44.05’lik Türkiye rekoru derecesiyle (Önceki rekor 44.38) bronz madalya kazandı.🇹🇷 👏🏻Sporcularımızı ve tüm emeği geçenleri kutluyoruz.",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/09/f7dcabd3-aa17-4c71-99ab-fa3850ef8575.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-31T21:14:18+00:00",
+  "first_seen_at": "2026-08-31T23:48:18+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "4e5a554bf5d458a6",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -31,21 +94,6 @@
    "hakem",
    "transfer"
   ],
-  "published_at": "2026-08-31T20:00:36+00:00",
-  "first_seen_at": "2026-08-31T20:00:36+00:00",
-  "source": "html"
- },
- {
-  "id": "7b30c0cb74780773",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302761/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-08-31T20:00:36+00:00",
   "first_seen_at": "2026-08-31T20:00:36+00:00",
   "source": "html"

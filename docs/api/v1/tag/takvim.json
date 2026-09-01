@@ -1,5 +1,41 @@
 [
  {
+  "id": "8433f52fce7170c1",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-01T18:24:13+00:00",
+  "first_seen_at": "2026-09-01T18:24:13+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "4a706d3ed0f5bae4",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 344 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-01T18:24:01+00:00",
+  "first_seen_at": "2026-09-01T18:24:01+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "e6e798fc0d8b57bb",
   "federation": "gelismekteolan",
   "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",

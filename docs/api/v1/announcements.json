@@ -1,5 +1,73 @@
 [
  {
+  "id": "cb4d7994bab45696",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302737/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-01T18:25:59+00:00",
+  "first_seen_at": "2026-09-01T18:25:59+00:00",
+  "source": "html"
+ },
+ {
+  "id": "8433f52fce7170c1",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-01T18:24:13+00:00",
+  "first_seen_at": "2026-09-01T18:24:13+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "4a706d3ed0f5bae4",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 344 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-01T18:24:01+00:00",
+  "first_seen_at": "2026-09-01T18:24:01+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "c1a31fdb2a9aaf69",
+  "federation": "taekwondo",
+  "federation_name": "Türkiye Taekwondo Federasyonu",
+  "federation_short": "TTF",
+  "title": "Türkiye Taekwondo Federasyonu 9. Mali Genel Kurulu (Delege Listeleri Duyurusu)",
+  "url": "https://turkiyetaekwondofed.gov.tr/turkiye-taekwondo-federasyonu-9-mali-genel-kurulu-delege-listeleri-duyurusu/",
+  "summary": "Türkiye Taekwondo Federasyonunun 2026 yılı Ekim ayında yapılması planlanan 9. Mali Genel Kurulunda oy kullanacak delegeleri belirlemek amacıyla; Federasyonumuz Ana Statüsünün “Genel kurulun oluşumu” başlıklı 9 uncu maddesinin dokuzuncu fıkrası uyarınca noter huzurunda çekilecek kuraya girecek delege listeleri yayımlanmıştır. İlgili listeler, Ana Statü’nün 9 uncu maddesinin birinci fıkrasındaki; kapsamaktadır. Kuraya girecek delege listelerine ilişkin itirazlar, […]",
+  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/09/9.-MALI-GENEL-KURUL.jpg",
+  "category": "duyuru",
+  "tags": [
+   "mevzuat"
+  ],
+  "published_at": "2026-09-01T16:00:23+00:00",
+  "first_seen_at": "2026-09-01T18:25:59+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "098d2342878ebe68",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -74,21 +142,6 @@
   "federation_short": "SHGM",
   "title": "A Erkek Milli Takımımız Dünya Kupası'nda!",
   "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302768/a-erkek-milli-takimimiz-dunya-kupasinda.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-01T14:47:46+00:00",
-  "first_seen_at": "2026-09-01T14:47:46+00:00",
-  "source": "html"
- },
- {
-  "id": "7b30c0cb74780773",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302761/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
   "summary": "",
   "image": null,
   "category": "duyuru",

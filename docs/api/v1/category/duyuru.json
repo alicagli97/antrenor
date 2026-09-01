@@ -1,26 +1,43 @@
 [
  {
+  "id": "cb4d7994bab45696",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302737/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-01T18:25:59+00:00",
+  "first_seen_at": "2026-09-01T18:25:59+00:00",
+  "source": "html"
+ },
+ {
+  "id": "c1a31fdb2a9aaf69",
+  "federation": "taekwondo",
+  "federation_name": "Türkiye Taekwondo Federasyonu",
+  "federation_short": "TTF",
+  "title": "Türkiye Taekwondo Federasyonu 9. Mali Genel Kurulu (Delege Listeleri Duyurusu)",
+  "url": "https://turkiyetaekwondofed.gov.tr/turkiye-taekwondo-federasyonu-9-mali-genel-kurulu-delege-listeleri-duyurusu/",
+  "summary": "Türkiye Taekwondo Federasyonunun 2026 yılı Ekim ayında yapılması planlanan 9. Mali Genel Kurulunda oy kullanacak delegeleri belirlemek amacıyla; Federasyonumuz Ana Statüsünün “Genel kurulun oluşumu” başlıklı 9 uncu maddesinin dokuzuncu fıkrası uyarınca noter huzurunda çekilecek kuraya girecek delege listeleri yayımlanmıştır. İlgili listeler, Ana Statü’nün 9 uncu maddesinin birinci fıkrasındaki; kapsamaktadır. Kuraya girecek delege listelerine ilişkin itirazlar, […]",
+  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/09/9.-MALI-GENEL-KURUL.jpg",
+  "category": "duyuru",
+  "tags": [
+   "mevzuat"
+  ],
+  "published_at": "2026-09-01T16:00:23+00:00",
+  "first_seen_at": "2026-09-01T18:25:59+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "96d572a98ebfed82",
   "federation": "shgm",
   "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
   "federation_short": "SHGM",
   "title": "A Erkek Milli Takımımız Dünya Kupası'nda!",
   "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302768/a-erkek-milli-takimimiz-dunya-kupasinda.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-01T14:47:46+00:00",
-  "first_seen_at": "2026-09-01T14:47:46+00:00",
-  "source": "html"
- },
- {
-  "id": "7b30c0cb74780773",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302761/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
   "summary": "",
   "image": null,
   "category": "duyuru",
@@ -3087,21 +3104,6 @@
   "tags": [],
   "published_at": "2026-08-23T00:00:00+00:00",
   "first_seen_at": "2026-08-24T16:00:27+00:00",
-  "source": "html"
- },
- {
-  "id": "abe8a6ae9f46ab0e",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Milli golfçülerimizden 4 şampiyonluk!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302618/milli-golfculerimizden-4-sampiyonluk.aspx",
-  "summary": "Çekya'nın Lipa Golf Sahası'nda 21- tarihleri arasında düzenlenen 2026 Çek Engelliler Açık Turnuvası'nda yarışan milli golfçülerimizden Mehmet Kazan, \"Strokeplay Gross\" ve \"Çekya Uluslararası Strokeplay Champion\" kategorilerinde 2 şampiyonluk kupası kazanırken; Karahan Yıldırım ise \"Strokeplay Nett\" ve \"Open Stableford\" kategorilerinde iki şampiyonluk elde etti. Haberi Oku",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-23T00:00:00+00:00",
-  "first_seen_at": "2026-08-24T09:01:39+00:00",
   "source": "html"
  }
 ]

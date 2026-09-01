@@ -6,7 +6,7 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "d12de1712c1f857a",
- "event_count": 342,
+ "event_count": 344,
  "events": [
   {
    "ad": "2026.09.19 14.09.2026 - 19.09.2026",
@@ -44,6 +44,14 @@
    "ad": "2026.09.19 14.09.2026 - 19.09.2026",
    "tarih": "2026-09-14",
    "tarih_metni": "2026.09.19 14.09.2026 - 19.09.2026",
+   "yer": "İzmir",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 2. Kademe Temel Antrenörlük Kursu | Trampolin Cimnastik | İzmir | 2026.09.19 14.09.2026 - 19.09.2026 | İncele"
+  },
+  {
+   "ad": "2026.09.19 14.09.2026 - 19.09.2026",
+   "tarih": "2026-09-14",
+   "tarih_metni": "2026.09.19 14.09.2026 - 19.09.2026",
    "yer": "Eskişehir",
    "brans": "Kurs",
    "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | Eskişehir | 2026.09.19 14.09.2026 - 19.09.2026 | İncele"
@@ -74,11 +82,19 @@
   },
   {
    "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-09-14",
+   "tarih_metni": "2026.09.19 14.09.2026 - 19.09.2026",
+   "yer": "İzmir",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | İzmir | 2026.09.19 14.09.2026 - 19.09.2026 | İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
    "tarih": "2026-09-07",
    "tarih_metni": "2026.09.12 07.09.2026 - 12.09.2026",
    "yer": "Ankara",
    "brans": "Kurs",
-   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.09.12 07.09.2026 - 12.09.2026 | İncele"
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.09.12 07.09.2026 - 12.09.2026 | Katılımcı Listesi İncele"
   },
   {
    "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
@@ -94,7 +110,7 @@
    "tarih_metni": "2026.09.12 07.09.2026 - 12.09.2026",
    "yer": "Antalya",
    "brans": "Kurs",
-   "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | Antalya | 2026.09.12 07.09.2026 - 12.09.2026 | İncele"
+   "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | Antalya | 2026.09.12 07.09.2026 - 12.09.2026 | Katılımcı Listesi İncele"
   },
   {
    "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
@@ -2745,8 +2761,8 @@
    "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
   }
  ],
- "checked_at": "2026-09-01T04:57:11",
- "bekleyen_iz": null,
+ "checked_at": "2026-09-01T09:58:46",
+ "bekleyen_iz": "c66911f4cb2f40f2",
  "changed_at": "2026-08-31T19:58:53+00:00",
  "parmak_izi": "d12de1712c1f857a"
 }

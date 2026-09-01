@@ -13,6 +13,78 @@
    "mevzuat",
    "talimat"
   ],
+  "published_at": "2026-09-01T08:57:24+00:00",
+  "first_seen_at": "2026-09-01T08:57:24+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "78c9a00940907377",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Mevzuat güncellendi: KURULLAR",
+  "url": "https://www.tsf.org.tr/kaynaklar/belgeler/talimatlar",
+  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-01T08:57:21+00:00",
+  "first_seen_at": "2026-09-01T08:57:21+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "6e76f88439e969ad",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Mevzuat güncellendi: Mobile menu",
+  "url": "https://www.tsf.org.tr/kaynaklar/belgeler/talimatlar#vtem_menu_mobile",
+  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-01T08:57:21+00:00",
+  "first_seen_at": "2026-09-01T08:57:21+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "f6e2979536051b13",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Mevzuat güncellendi: FIDE Kuralları",
+  "url": "https://www.tsf.org.tr/kaynaklar/belgeler/fide-kurallari",
+  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-01T08:57:20+00:00",
+  "first_seen_at": "2026-09-01T08:57:20+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "e94df495bea59b50",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Mevzuat güncellendi: Turnuva Yönergeleri",
+  "url": "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri",
+  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
   "published_at": "2026-08-31T10:08:09+00:00",
   "first_seen_at": "2026-08-31T10:08:09+00:00",
   "source": "mevzuat"
@@ -943,68 +1015,6 @@
   "federation_short": "TSF",
   "title": "Teknoloji ve Bilişim Kurulu",
   "url": "https://www.tsf.org.tr/kurullar/teknoloji-ve-bilisim-kurulu",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "4ace1cfcec3dac96",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Engelli Sporcular Kurulu",
-  "url": "https://www.tsf.org.tr/kurullar/engelli-sporcular-kurulu",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "e248675d25866e66",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Turnuva Yönergeleri",
-  "url": "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "8c292cd2c3d020ab",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "FIDE Kuralları",
-  "url": "https://www.tsf.org.tr/kaynaklar/belgeler/fide-kurallari",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "0cec50730fe1ad8d",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Tüm Belgeler",
-  "url": "https://www.tsf.org.tr/kaynaklar/belgeler/tum-belgeler",
   "summary": "",
   "image": null,
   "category": "duyuru",

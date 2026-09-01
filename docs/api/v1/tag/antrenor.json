@@ -1,5 +1,41 @@
 [
  {
+  "id": "feb11c9181abaddd",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Manisa Kula’da Badminton Gelişim Kampı Başladı",
+  "url": "https://www.badminton.org.tr/manisa-kulada-badminton-gelisim-kampi-basladi/",
+  "summary": "Türkiye Badminton Federasyonu 2026 yılı faaliyet programı kapsamında düzenlenecek Altyapı, Eğitim ve Gelişim Kampı, 31 Ağustos-04 Eylül 2026 tarihleri arasında Manisa-Kula’da başladı. Genç sporcuların teknik, taktik ve fiziksel gelişimlerine katkı sağlamayı hedefleyen kamp programı boyunca, Badmintonun temel eğitimlerinin yanı sıra performans geliştirmeye yönelik çalışmalar gerçekleştirilecek. Kamp süresince sporcular; Federasyon Asbaşkanı Zafer Şahin, milli takım antrenörleri […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/09/WhatsApp-Image-2026-08-31-at-21.32.47-1-e1788288996853.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "milli_takim"
+  ],
+  "published_at": "2026-09-01T18:55:08+00:00",
+  "first_seen_at": "2026-09-01T21:45:41+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "d3930bc2bec9f431",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Bir Antrenörün Gözünden;",
+  "url": "https://www.badminton.org.tr/bir-antrenorun-gozunden/",
+  "summary": "🇹🇷🏸 BADMİNTON ARTIK ESKİ BADMİNTON DEĞİL Son dönemde Türk badmintonunda yaşanan değişimi ve gelişimi anlatmak için aslında elde edilen sonuçlara bakmak yeterli. Aynı tarihlerde hem Akdeniz Oyunları’nda hem de U19 Avrupa Gençler Badminton Şampiyonası’nda önemli başarılara imza attık. Akdeniz Oyunları’nda 5 kategorinin 4’ünde şampiyon olduk: 🥇 Tek Kadınlar🥇 Çift Kadınlar🥇 Çift Erkekler🥇 Karışık Çiftler Aynı […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/09/55491409139_9510c6f220_k.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "musabaka"
+  ],
+  "published_at": "2026-09-01T18:46:28+00:00",
+  "first_seen_at": "2026-09-01T21:45:41+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "6e17004bbd311533",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -3755,44 +3791,6 @@
   ],
   "published_at": "2026-08-29T10:31:13+00:00",
   "first_seen_at": "2026-08-29T10:31:13+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "0b50156d0bd73867",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Olimpik, Paralimpik ve Deaflimpik Sporcu Yetiştirilmesine Dair Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38618&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-29T10:31:13+00:00",
-  "first_seen_at": "2026-08-29T10:31:13+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "bf3b2b01aeb59706",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Başarılı Sporculara Aylık Bağlanması ve Devlet Sporcusu Unvanı Verilmesi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13077&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-29T10:31:06+00:00",
-  "first_seen_at": "2026-08-29T10:31:06+00:00",
   "source": "mevzuat"
  }
 ]

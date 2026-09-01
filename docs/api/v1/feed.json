@@ -1,5 +1,38 @@
 [
  {
+  "id": "7b30c0cb74780773",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302761/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-01T04:58:43+00:00",
+  "first_seen_at": "2026-09-01T04:58:43+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ebb4900247dab10b",
+  "federation": "bilardo",
+  "federation_name": "Türkiye Bilardo Federasyonu",
+  "federation_short": "TBF",
+  "title": "Bilardo faaliyet takviminde değişiklik",
+  "url": "https://www.bilardo.org.tr/haberler/turkiye-bilardo-federasyonu-2026-agustos-aralik-ayi-faaliyet-takvimi-1141",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-01T04:57:13+00:00",
+  "first_seen_at": "2026-09-01T04:57:13+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "351ce7331b3bdbc3",
   "federation": "shgm",
   "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
@@ -4663,21 +4696,6 @@
   "source": "html"
  },
  {
-  "id": "3e9c6e1cca95d415",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "UEFA'dan Halil Umut Meler'e Görev",
-  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51217",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-26T19:20:09+00:00",
-  "first_seen_at": "2026-08-26T19:20:09+00:00",
-  "source": "html"
- },
- {
   "id": "3bf73c0c4673edef",
   "federation": "halter",
   "federation_name": "Türkiye Halter Federasyonu",
@@ -5076,23 +5094,6 @@
   ],
   "published_at": "2026-08-26T00:00:00+00:00",
   "first_seen_at": "2026-08-26T08:58:14+00:00",
-  "source": "html"
- },
- {
-  "id": "18c34dc83ce2c83c",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "İzmir'de 2. Kademe Dart Temel Antrenör Uygulama Eğitimi Yapılacak.",
-  "url": "https://tbbdf.org.tr/izmirde-2-kademe-dart-temel-antrenor-uygulama-egitimi-yapilacak-",
-  "summary": ", Çarşamba İzmir'de, 08 - 13 Eylül 2026 tarihleri arasında 2.Kademe Dart Temel Antrenör Uygulama Eğitimi yeterli başvuru olması halinde...",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-08-26T07:57:22+00:00",
   "source": "html"
  }
 ]

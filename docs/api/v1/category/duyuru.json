@@ -1,5 +1,20 @@
 [
  {
+  "id": "7b30c0cb74780773",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302761/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-01T04:58:43+00:00",
+  "first_seen_at": "2026-09-01T04:58:43+00:00",
+  "source": "html"
+ },
+ {
   "id": "351ce7331b3bdbc3",
   "federation": "shgm",
   "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
@@ -3091,21 +3106,6 @@
   "tags": [],
   "published_at": "2026-08-22T09:40:01+00:00",
   "first_seen_at": "2026-08-22T09:40:01+00:00",
-  "source": "html"
- },
- {
-  "id": "dc1238df19f2fbae",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U20 Milli Takım Haber Detay Sayfası TFF",
-  "url": "https://www.tff.org/default.aspx?pageID=648&ftxtID=51193",
-  "summary": "Brindisi’de bulunan Stadio Franco Fanuzzi’de oynanacak mücadele TSİ 22.00’de başlayacak ve TRT Tabii Spor 6 kanalından ücret...",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-22T08:43:48+00:00",
-  "first_seen_at": "2026-08-22T08:43:48+00:00",
   "source": "html"
  }
 ]

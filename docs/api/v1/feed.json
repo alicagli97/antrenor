@@ -1,5 +1,85 @@
 [
  {
+  "id": "1777e816c3397f7a",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "İspanya Süper Kupası Organizasyon Toplantısı, Riva'da Gerçekleştirildi",
+  "url": "https://www.tff.org/default.aspx?pageID=285&ftxtID=51260",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-02T21:47:50+00:00",
+  "first_seen_at": "2026-09-02T21:47:50+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0cf54b7e271d7401",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302800/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-02T21:47:50+00:00",
+  "first_seen_at": "2026-09-02T21:47:50+00:00",
+  "source": "html"
+ },
+ {
+  "id": "c7ea0e7f79378b0d",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-02T21:46:09+00:00",
+  "first_seen_at": "2026-09-02T21:46:09+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "d790122014d2d149",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Madalya yuağmur!",
+  "url": "https://taf.org.tr/madalya-yuagmur/",
+  "summary": "💫Madalya yuağmur! 🥇🥈🥉Taranto 2026 Akdeniz Oyunları’nda atletizm yarışmalarının dördüncü gününde sporcularımız 9 madalya birden kazandı.🇹🇷 🏃‍♂️🏃‍♀️Sporcularımız, pist ve alan yarışmalarının son gününde 1 altın, 2 gümüş ve 6 bronz madalya elde ederken 4x400m Erkek Bayrak Takımımız, altın madalyaya Akdeniz Oyunları ve Türkiye rekoru kırarak ulaştı. Sporcularımız törenle madalyalarını teslim aldı. 🥇4x400m Erkek Bayrak Takım (Berke […]",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/09/3d8fc672-fb81-4956-839f-283678f04f8c.jpg",
+  "category": "haber",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-02T21:34:19+00:00",
+  "first_seen_at": "2026-09-02T21:47:50+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "344c60d5f96f7c83",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "Millilerimiz Kosova’da",
+  "url": "https://muaythai.gov.tr/2026/09/02/millilerimiz-kosovada/",
+  "summary": "U24 MİLLİ TAKIMIMIZ DÜNYA ŞAMPİYONLUĞU İÇİN KOSOVA’DA Türkiye Muaythai ve Jujitsu Federasyonu U24 Muaythai Milli Takımı, Kosova’da düzenlenecek",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/09/a727f0a9-043a-4dc0-9af9-8a908c5e81c0.jpeg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-02T19:49:25+00:00",
+  "first_seen_at": "2026-09-02T21:47:50+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "d40fae58703c0f30",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -2273,21 +2353,6 @@
   "published_at": "2026-09-02T08:11:07+00:00",
   "first_seen_at": "2026-09-02T08:11:07+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "cb4d7994bab45696",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302737/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-02T00:08:11+00:00",
-  "first_seen_at": "2026-09-02T00:08:11+00:00",
-  "source": "html"
  },
  {
   "id": "ab48ff914b464f7f",
@@ -4873,38 +4938,6 @@
   "source": "html"
  },
  {
-  "id": "b39dab0dfd421b0c",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "9. MALİ GENEL KURUL DELEGE LİSTELERİNE İTİRAZLAR SONUCU GÜNCELLENEN YENİ DELEGE LİSTESİ - Duyurular",
-  "url": "https://tbbdf.org.tr/9-mali-genel-kurul-delege-listelerine-itirazlar-sonucu-guncellenen-yeni-delege-listesi",
-  "summary": "TBBDF Haberler Duyurular 9. MALİ GENEL KURUL DELEGE LİSTELERİNE İTİRAZLAR SONUCU GÜNCELLENEN YENİ DELEGE LİSTESİ 9. MALİ GENEL KURUL DELEGE LİSTELERİNE İTİRAZLAR SONUCU GÜNCELLENEN YENİ DELEGE LİSTESİ 9. MALİ GENEL KURUL DELEGE LİSTELERİNE İTİRAZLAR SONUCU GÜNCELLENEN YENİ DELEGE LİSTESİ YAYIMLANMIŞTIR. 9. MALİ GENEL KURUL DELEGE LİSTELERİNE İTİRAZLAR SONUCU GÜNCELLENEN YENİ DELEGE LİSTESİ AŞAĞIDA YAYIMLANMIŞTIR. İTİRAZLAR SONUCU GÜNCELLENEN DELEGE LİSTESİ 2026 #mali #delege #listelerine #sonucu #listesi #9. #genel #yeni #delege #kurul #itirazlar #güncellenen Toplam Görüntülenme 39 28 Ağustos ",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-28T00:00:00+00:00",
-  "first_seen_at": "2026-08-28T18:36:31+00:00",
-  "source": "html"
- },
- {
-  "id": "e37b1cad17185690",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "2026 – 2027 Bocce ( Raffa-Volo-Petank ) Milli Takımlar Seçme Kriterleri - Duyurular",
-  "url": "https://tbbdf.org.tr/2026-2027-bocce-raffa-volo-petank-milli-takimlar-secme-kriterleri",
-  "summary": "TBBDF Haberler Duyurular 2026 – 2027 Bocce ( Raffa-Volo-Petank ) Milli Takımlar Seçme Kriterleri 2026 – 2027 Bocce ( Raffa-Volo-Petank ) Milli Takımlar Seçme Kriterleri 2026 – 2027 Bocce ( Raffa-Volo-Petank ) Milli Takımlar Seçme Kriterleri yayımlandı. Federasyon Başkanlığımızın 2026 – 2027 sezonu Bocce ( Raffa - Volo - Petank ) Milli Takımlar Seçme Kriterleri aşağıda yayımlanmıştır. Katılacak olan sporcularımıza başarılar dileriz. SEÇME KRİTERLERİ 2026-2027 (1) #raffa-volo-petank #) #( #kriterleri #takımlar #– #2026 #bocce #2027 #milli #seçme Toplam Görüntülenme 54 28 Ağustos 2026, Cuma TÜMÜN",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "duyuru",
-  "tags": [
-   "milli_takim"
-  ],
-  "published_at": "2026-08-28T00:00:00+00:00",
-  "first_seen_at": "2026-08-28T18:36:31+00:00",
-  "source": "html"
- },
- {
   "id": "96fc7f23f59c68d5",
   "federation": "bocce",
   "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
@@ -5054,40 +5087,6 @@
    "antrenor",
    "kurs",
    "vize"
-  ],
-  "published_at": "2026-08-27T20:22:16+00:00",
-  "first_seen_at": "2026-08-27T20:22:16+00:00",
-  "source": "html"
- },
- {
-  "id": "cdb5b7ac60168139",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» 01-09 Eylül Ankara Federasyon Kupası Turnuva Programı ve Müsabaka Linki Hk.",
-  "url": "https://www.eskrim.org.tr/01-09-eylul-ankara-federasyon-kupasi-turnuva-programi-ve-musabaka-linki-hk-2616.html",
-  "summary": "» 13-14 Eylül Hırvatistan Split Satellite Turnuvası Büyük Epe Kafile listesi Hk. » 12-13 Eylül İtalya Bari Satellite Turnuvası Büyük Flöre Kafile listesi Hk. » 12-13 Eylül Almanya Nurenberg Satellite Turnuvası Büyük Kılıç Kafile listesi Hk. » 2026 Yılı Antrenör Vize Duyurusu ve Başvuru Rehberi Hk. » Antrenör Akreditasyon Kartı Hk. » 6- İzlanda Satellite Büyük Kılıç Müsabakası Kafile Listesi Hk. » ",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-27T20:22:16+00:00",
-  "first_seen_at": "2026-08-27T20:22:16+00:00",
-  "source": "html"
- },
- {
-  "id": "81748c9c701234bf",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» 13-14 Eylül Hırvatistan Split Satellite Turnuvası Büyük Epe Kafile listesi Hk.",
-  "url": "https://www.eskrim.org.tr/13-14-eylul-hirvatistan-split-satellite-turnuvasi-buyuk-epe-kafile-listesi-hk-2617.html",
-  "summary": "» 01-09 Eylül Ankara Federasyon Kupası Turnuva Programı ve Müsabaka Linki Hk. » 12-13 Eylül İtalya Bari Satellite Turnuvası Büyük Flöre Kafile listesi Hk. » 12-13 Eylül Almanya Nurenberg Satellite Turnuvası Büyük Kılıç Kafile listesi Hk. » 2026 Yılı Antrenör Vize Duyurusu ve Başvuru Rehberi Hk. » Antrenör Akreditasyon Kartı Hk. » 6- İzlanda Satellite Büyük Kılıç Müsabakası Kafile Listesi Hk. » Dün",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
   ],
   "published_at": "2026-08-27T20:22:16+00:00",
   "first_seen_at": "2026-08-27T20:22:16+00:00",

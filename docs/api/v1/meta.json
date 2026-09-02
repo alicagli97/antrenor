@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-02T18:39:14+00:00",
- "total": 4725,
- "new_in_last_run": 12,
+ "generated_at": "2026-09-02T21:47:50+00:00",
+ "total": 4729,
+ "new_in_last_run": 9,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -10,14 +10,14 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-02T18:39:14+00:00",
+ "latest_published_at": "2026-09-02T21:47:50+00:00",
  "categories": {
+  "duyuru": 1037,
+  "takvim": 86,
+  "haber": 56,
   "musabaka": 401,
-  "duyuru": 1035,
   "mevzuat": 2852,
-  "takvim": 85,
-  "kurs": 297,
-  "haber": 55
+  "kurs": 297
  },
  "silent_sources": [
   {
@@ -27,10 +27,12 @@
   }
  ],
  "federation_counts": {
-  "futbol": 114,
-  "muaythai": 97,
+  "futbol": 115,
+  "shgm": 44,
+  "havasporlari": 32,
+  "atletizm": 68,
+  "muaythai": 98,
   "masatenisi": 46,
-  "atletizm": 67,
   "izcilik": 19,
   "eskrim": 119,
   "voleybol": 97,
@@ -40,7 +42,6 @@
   "dagcilik": 449,
   "gormeengelliler": 43,
   "gsb": 451,
-  "havasporlari": 31,
   "gelismekteolan": 56,
   "universitesporlari": 52,
   "oryantiring": 47,
@@ -59,7 +60,6 @@
   "okculuk": 52,
   "gures": 57,
   "boks": 44,
-  "shgm": 44,
   "bric": 11,
   "karate": 16,
   "vucutgelistirme": 17,

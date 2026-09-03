@@ -1,5 +1,20 @@
 [
  {
+  "id": "cb4d7994bab45696",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "20’nci Akdeniz Oyunları’nda günün özeti!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/302737/20nci-akdeniz-oyunlarinda-gunun-ozeti.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-03T00:07:00+00:00",
+  "first_seen_at": "2026-09-03T00:07:00+00:00",
+  "source": "html"
+ },
+ {
   "id": "1777e816c3397f7a",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3082,21 +3097,6 @@
   ],
   "published_at": "2026-08-24T00:00:00+00:00",
   "first_seen_at": "2026-08-24T09:59:55+00:00",
-  "source": "html"
- },
- {
-  "id": "d47f105a31c88c92",
-  "federation": "motosiklet",
-  "federation_name": "Türkiye Motosiklet Federasyonu",
-  "federation_short": "TMF",
-  "title": "Mavi Sularda Büyük Rekabet Yaşanacak",
-  "url": "https://www.tmf.org.tr/Haberler/Mavi-Sularda-Buyuk-Rekabet-Yasanacak/",
-  "summary": "Mavi Sularda Büyük Rekabet",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-24T00:00:00+00:00",
-  "first_seen_at": "2026-08-24T09:01:39+00:00",
   "source": "html"
  }
 ]

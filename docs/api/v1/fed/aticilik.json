@@ -1,5 +1,59 @@
 [
  {
+  "id": "a032b5436d46494e",
+  "federation": "aticilik",
+  "federation_name": "Türkiye Atıcılık Federasyonu",
+  "federation_short": "TAF",
+  "title": "Mevzuat güncellendi: ISSF Kuralları",
+  "url": "https://www.taf.gov.tr/tr/issf-kurallari",
+  "summary": "Türkiye Atıcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-03T08:19:32+00:00",
+  "first_seen_at": "2026-09-03T08:19:32+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "15957626cbdd522e",
+  "federation": "aticilik",
+  "federation_name": "Türkiye Atıcılık Federasyonu",
+  "federation_short": "TAF",
+  "title": "Mevzuat güncellendi: Yönetmelik",
+  "url": "https://www.taf.gov.tr/tr/yonetmelik",
+  "summary": "Türkiye Atıcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-03T08:19:31+00:00",
+  "first_seen_at": "2026-09-03T08:19:31+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "087fc5c25c266cae",
+  "federation": "aticilik",
+  "federation_name": "Türkiye Atıcılık Federasyonu",
+  "federation_short": "TAF",
+  "title": "Mevzuat güncellendi: TAF Mağaza",
+  "url": "https://www.taf.gov.tr/tr/talimatlar",
+  "summary": "Türkiye Atıcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-03T08:19:29+00:00",
+  "first_seen_at": "2026-09-03T08:19:29+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "15957626cbdd522e",
   "federation": "aticilik",
   "federation_name": "Türkiye Atıcılık Federasyonu",
@@ -1033,52 +1087,5 @@
   "published_at": "2026-08-20T20:10:48+00:00",
   "first_seen_at": "2026-08-20T20:10:48+00:00",
   "source": "takvim-html"
- },
- {
-  "id": "29b65566db633359",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "E-TAF ve Web Sitesi Geçişi Kapsamında Önemli Duyuru!",
-  "url": "https://www.taf.gov.tr/tr/e-taf-ve-web-sitesi-gecisi-kapsaminda-onemli-duyuru",
-  "summary": "Federasyonumuz tarafından kullanılmakta olan E-TAF sistemi ve web sitemiz yenilenmektedir. Yeni sistemde şifre işlemleri tamamen otomatik olarak gerçekleştirilecek olup, şifresini unutan kullanıcılar Federasyonumuzla iletişime geçmeden, sistemde kayıtlı e-posta adresleri ve telefon numaraları üzerinden şifrelerini sıfırlayabilecektir. Bu nedenle tüm sporcu, antrenör ve kulüp temsilcilerimizin mevc",
-  "image": "https://www.taf.gov.tr/thumbnail?image=uploads/images/202608/upload_6a87f6dd13ebe.jpg&resize=600x400",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-06-19T00:00:00+00:00",
-  "first_seen_at": "2026-08-21T07:09:03+00:00",
-  "source": "html"
- },
- {
-  "id": "f1973e524f44fa4a",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "Trap 2 . Bölgesel Milli Demokrasi Kupasi Yarışma Reglamanı",
-  "url": "https://www.taf.gov.tr/tr/trap-2-bolgesel-milli-demokrasi-kupasi-yarisma-reglamani",
-  "summary": "",
-  "image": "https://www.taf.gov.tr/thumbnail?image=uploads/images/202608/upload_6a87efb916f1f.jpg&resize=600x400",
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-06-10T00:00:00+00:00",
-  "first_seen_at": "2026-08-22T09:40:01+00:00",
-  "source": "html"
- },
- {
-  "id": "958adf15fd2110f0",
-  "federation": "aticilik",
-  "federation_name": "Türkiye Atıcılık Federasyonu",
-  "federation_short": "TAF",
-  "title": "CISM Dünya Askeri Oyunları Kapsamında Milli Sporcuların Celp/Sevk Koordinasyonu",
-  "url": "https://www.taf.gov.tr/tr/cism-dunya-askeri-oyunlari-kapsaminda-milli-sporcularin-celpsevk-koordinasyonu",
-  "summary": "",
-  "image": "https://www.taf.gov.tr/thumbnail?image=uploads/images/202608/upload_6a87f08fa5b94.jpg&resize=600x400",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-06-09T00:00:00+00:00",
-  "first_seen_at": "2026-08-22T09:40:01+00:00",
-  "source": "html"
  }
 ]

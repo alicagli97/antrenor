@@ -1,5 +1,22 @@
 [
  {
+  "id": "0a2bcab7dbf3da68",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Akdeniz Oyunları’na altın kapan",
+  "url": "https://taf.org.tr/akdeniz-oyunlarina-altin-kapan/",
+  "summary": "Akdeniz Oyunları’na altın kapanış! 🏃🏻‍♂️Taranto 2026 Akdeniz Oyunları’nda ülkemizi yarı maratonda temsil eden sporcularımızdan Ali Kaya, 1:02:06’lık derecesiyle oyunlar rekoru kırarak altın, Ramazan Baştuğ ise 1:04:08’lik derecesiyle bronz madalya kazandı. 🇹🇷 👏🏻Sporcularımızı, antrenörleri Bekir Karayel ve Cihat Ulus ile TSK Spor Gücü ve ENKA Spor Kulübü’nü kutluyoruz.",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/09/c21556b4-d59c-43f3-a19f-5a5bb3e2a41a.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-09-03T12:47:35+00:00",
+  "first_seen_at": "2026-09-03T14:28:13+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "c96d3832c687d52f",
   "federation": "basketbol",
   "federation_name": "Türkiye Basketbol Federasyonu",
@@ -3510,22 +3527,5 @@
   "published_at": "2026-07-21T19:21:21+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
- },
- {
-  "id": "68de14f65bf6ea59",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Rafting Temel Eğitim ve Sporcu Kampı / Kars",
-  "url": "https://kano.org.tr/rafting-temel-egitim-ve-sporcu-kampi-kars",
-  "summary": ", Pazartesi Rafting Temel Eğitim ve Sporcu Kampı 25 Temmuz - 02 Ağustos 2026 tarihleri arasında Kars ilinde gerçekleştirilecektir.",
-  "image": "https://kano.org.tr/uploads/2026/raftng/kars-kamp/whatsapp-image-2026-07-20-at-14-18-40.jpg",
-  "category": "kurs",
-  "tags": [
-   "kurs"
-  ],
-  "published_at": "2026-07-20T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
  }
 ]

@@ -1,5 +1,22 @@
 [
  {
+  "id": "0a2bcab7dbf3da68",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Akdeniz Oyunları’na altın kapan",
+  "url": "https://taf.org.tr/akdeniz-oyunlarina-altin-kapan/",
+  "summary": "Akdeniz Oyunları’na altın kapanış! 🏃🏻‍♂️Taranto 2026 Akdeniz Oyunları’nda ülkemizi yarı maratonda temsil eden sporcularımızdan Ali Kaya, 1:02:06’lık derecesiyle oyunlar rekoru kırarak altın, Ramazan Baştuğ ise 1:04:08’lik derecesiyle bronz madalya kazandı. 🇹🇷 👏🏻Sporcularımızı, antrenörleri Bekir Karayel ve Cihat Ulus ile TSK Spor Gücü ve ENKA Spor Kulübü’nü kutluyoruz.",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/09/c21556b4-d59c-43f3-a19f-5a5bb3e2a41a.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-09-03T12:47:35+00:00",
+  "first_seen_at": "2026-09-03T14:28:13+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "6e17004bbd311533",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -3764,25 +3781,6 @@
   "federation_short": "GSB",
   "title": "Mevzuat güncellendi: Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşlara Ayni ve Nakdî Yardım Yapılması Hakkında Yönetmelik",
   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42748&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-31T10:11:33+00:00",
-  "first_seen_at": "2026-08-31T10:11:33+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "70129fd74c805dd7",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşların Denetimi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41031&MevzuatTur=7&MevzuatTertip=5",
   "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

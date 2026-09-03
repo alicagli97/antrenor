@@ -1,5 +1,71 @@
 [
  {
+  "id": "282a0403f7b9bd24",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Plaj Futbolu Millî Takımı'nın Avrupa A Ligi Play-Out Kadrosu Açıklandı",
+  "url": "https://www.tff.org/default.aspx?pageID=505&ftxtID=51265",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-03T18:35:39+00:00",
+  "first_seen_at": "2026-09-03T18:35:39+00:00",
+  "source": "html"
+ },
+ {
+  "id": "50ff9177ed3ee982",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Masa Tenisi faaliyet takviminde değişiklik",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-03T18:33:46+00:00",
+  "first_seen_at": "2026-09-03T18:33:46+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "18834b741def0e00",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 345 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-03T18:33:34+00:00",
+  "first_seen_at": "2026-09-03T18:33:34+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "35c5fbbd2c75518b",
+  "federation": "bisiklet",
+  "federation_name": "Türkiye Bisiklet Federasyonu",
+  "federation_short": "TBF",
+  "title": "Tour of İstanbul 2026’da 1. Gün Silivri-Çatalca Etabı Tamamlandı",
+  "url": "https://bisiklet.org.tr/tour-of-istanbul-2026da-1-gun-silivri-catalca-etabi-tamamlandi/",
+  "summary": "Türkiye Bisiklet Federasyonu’nun koordinasyonunda; T.C. Gençlik ve Spor Bakanlığı himayesinde, T.C. İstanbul Valiliği, Fatih Belediyesi başta olmak üzere ilçe belediyeleri ve Spor Toto Teşkilat Başkanlığı, Uluslararası Bisiklet Birliği (UCI) ve Shimano’nun destekleriyle ilk etap Silivri-Çatalca arasında gerçekleştirildi. 165 kilometre uzunluğundaki ilk etabın galibi sürprize imza atan TotalEnergies takımından Baptiste Vadic oldu. Konu özelinde hazırladığımız bültenimizi ve görsellerimizi…",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-03T14:41:46+00:00",
+  "first_seen_at": "2026-09-03T18:35:39+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "332d74cfb878d842",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -64,6 +130,21 @@
   "published_at": "2026-09-03T14:28:13+00:00",
   "first_seen_at": "2026-09-03T14:28:13+00:00",
   "source": "html"
+ },
+ {
+  "id": "9d121881a061ae7d",
+  "federation": "pentatlon",
+  "federation_name": "Türkiye Modern Pentatlon Federasyonu",
+  "federation_short": "TMPF",
+  "title": "Genel Kurul Konaklama ve Akreditasyon İşlemleri",
+  "url": "https://tmpf.org.tr/genel-kurul-konaklama-ve-akreditasyon-islemleri/",
+  "summary": "Federasyonumuzun 7. Mali Genel Kurulu, 27 Eylül 2026 Pazar günü Ankara Green Park Otel’de gerçekleştirilecektir. Bu kapsamda, Ankara dışından gelecek Genel Kurul Üyelerimiz için 26 Eylül 2026 Cumartesi […]",
+  "image": "https://tmpf.org.tr/wp-content/uploads/2026/09/genel-kurul-konaklama-ve-akreditasyon-islemleri-kapak.webp",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-03T14:27:47+00:00",
+  "first_seen_at": "2026-09-03T18:35:39+00:00",
+  "source": "wp_json"
  },
  {
   "id": "60416951fd7c4122",
@@ -4519,6 +4600,39 @@
   "tags": [],
   "published_at": "2026-09-03T00:07:00+00:00",
   "first_seen_at": "2026-09-03T00:07:00+00:00",
+  "source": "html"
+ },
+ {
+  "id": "937a99a14db97f0f",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "PFDK Kararları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=246&ftxtID=51254",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-03T00:00:00+00:00",
+  "first_seen_at": "2026-09-03T18:35:39+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d6f6e09de8ebdb03",
+  "federation": "gormeengelliler",
+  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "federation_short": "GESF",
+  "title": "Futbol Deplasmanlı Süper Lig 7. Hafta Hakem ve Görevli Listesi Yayınlandı",
+  "url": "https://www.gesf.org.tr/haber/futbol-deplasmanli-super-lig-7-hafta-hakem-ve-gorevli-listesi-yayinlandi-57",
+  "summary": "duyuru Futbol Deplasmanlı Süper Lig 6. Hafta Hakem ve Görevli Listesi Yayınlandı 1406 görüntülenme duyuru GENÇ KADIN GOALBALL MİLLİ TAKIMIMIZ KONYA’DA KAMPA GİRİYOR GENÇ KADIN GOALBALL MİLLİ TAKIMIMIZ KONYA’DA KAMPA GİRİYORGenç Kadın Goalball Milli Takımımız, 6-14 Eylül 2026 tarihleri arasında Konya’da gerçekleştirilecek hazırlık kampında çalışmalarını sürdürecektir.Milli takımımızın kamp sürecini",
+  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1776946550_ce6fcf32.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "hakem",
+   "musabaka"
+  ],
+  "published_at": "2026-09-03T00:00:00+00:00",
+  "first_seen_at": "2026-09-03T18:35:39+00:00",
   "source": "html"
  },
  {
@@ -37529,6 +37643,21 @@
   ],
   "published_at": "2026-08-27T12:18:07+00:00",
   "first_seen_at": "2026-08-31T20:00:36+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "539173804f4e4d41",
+  "federation": "pentatlon",
+  "federation_name": "Türkiye Modern Pentatlon Federasyonu",
+  "federation_short": "TMPF",
+  "title": "7. Olağan Mali Genel Kurul",
+  "url": "https://tmpf.org.tr/7-olagan-mali-genel-kurul/",
+  "summary": "TÜRKİYE MODERN PENTATLON FEDERASYONU BAŞKANLIĞI 7. OLAĞAN MALİ GENEL KURUL ÇAĞRISI VE GÜNDEMİ Türkiye Modern Pentatlon Federasyonu 7. Olağan Mali Genel Kurulu, 27 Eylül 2026 tarihinde […]",
+  "image": "https://tmpf.org.tr/wp-content/uploads/2026/08/7-olagan-mali-genel-kurul-kapak.webp",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-08-27T11:40:34+00:00",
+  "first_seen_at": "2026-09-03T18:35:39+00:00",
   "source": "wp_json"
  },
  {

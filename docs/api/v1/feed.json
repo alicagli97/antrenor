@@ -1,5 +1,71 @@
 [
  {
+  "id": "282a0403f7b9bd24",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Plaj Futbolu Millî Takımı'nın Avrupa A Ligi Play-Out Kadrosu Açıklandı",
+  "url": "https://www.tff.org/default.aspx?pageID=505&ftxtID=51265",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-03T18:35:39+00:00",
+  "first_seen_at": "2026-09-03T18:35:39+00:00",
+  "source": "html"
+ },
+ {
+  "id": "50ff9177ed3ee982",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Masa Tenisi faaliyet takviminde değişiklik",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-03T18:33:46+00:00",
+  "first_seen_at": "2026-09-03T18:33:46+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "18834b741def0e00",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 345 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-03T18:33:34+00:00",
+  "first_seen_at": "2026-09-03T18:33:34+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "35c5fbbd2c75518b",
+  "federation": "bisiklet",
+  "federation_name": "Türkiye Bisiklet Federasyonu",
+  "federation_short": "TBF",
+  "title": "Tour of İstanbul 2026’da 1. Gün Silivri-Çatalca Etabı Tamamlandı",
+  "url": "https://bisiklet.org.tr/tour-of-istanbul-2026da-1-gun-silivri-catalca-etabi-tamamlandi/",
+  "summary": "Türkiye Bisiklet Federasyonu’nun koordinasyonunda; T.C. Gençlik ve Spor Bakanlığı himayesinde, T.C. İstanbul Valiliği, Fatih Belediyesi başta olmak üzere ilçe belediyeleri ve Spor Toto Teşkilat Başkanlığı, Uluslararası Bisiklet Birliği (UCI) ve Shimano’nun destekleriyle ilk etap Silivri-Çatalca arasında gerçekleştirildi. 165 kilometre uzunluğundaki ilk etabın galibi sürprize imza atan TotalEnergies takımından Baptiste Vadic oldu. Konu özelinde hazırladığımız bültenimizi ve görsellerimizi…",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-03T14:41:46+00:00",
+  "first_seen_at": "2026-09-03T18:35:39+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "332d74cfb878d842",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -64,6 +130,21 @@
   "published_at": "2026-09-03T14:28:13+00:00",
   "first_seen_at": "2026-09-03T14:28:13+00:00",
   "source": "html"
+ },
+ {
+  "id": "9d121881a061ae7d",
+  "federation": "pentatlon",
+  "federation_name": "Türkiye Modern Pentatlon Federasyonu",
+  "federation_short": "TMPF",
+  "title": "Genel Kurul Konaklama ve Akreditasyon İşlemleri",
+  "url": "https://tmpf.org.tr/genel-kurul-konaklama-ve-akreditasyon-islemleri/",
+  "summary": "Federasyonumuzun 7. Mali Genel Kurulu, 27 Eylül 2026 Pazar günü Ankara Green Park Otel’de gerçekleştirilecektir. Bu kapsamda, Ankara dışından gelecek Genel Kurul Üyelerimiz için 26 Eylül 2026 Cumartesi […]",
+  "image": "https://tmpf.org.tr/wp-content/uploads/2026/09/genel-kurul-konaklama-ve-akreditasyon-islemleri-kapak.webp",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-03T14:27:47+00:00",
+  "first_seen_at": "2026-09-03T18:35:39+00:00",
+  "source": "wp_json"
  },
  {
   "id": "60416951fd7c4122",
@@ -2143,6 +2224,39 @@
   "tags": [],
   "published_at": "2026-09-03T00:07:00+00:00",
   "first_seen_at": "2026-09-03T00:07:00+00:00",
+  "source": "html"
+ },
+ {
+  "id": "937a99a14db97f0f",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "PFDK Kararları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=246&ftxtID=51254",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-03T00:00:00+00:00",
+  "first_seen_at": "2026-09-03T18:35:39+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d6f6e09de8ebdb03",
+  "federation": "gormeengelliler",
+  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "federation_short": "GESF",
+  "title": "Futbol Deplasmanlı Süper Lig 7. Hafta Hakem ve Görevli Listesi Yayınlandı",
+  "url": "https://www.gesf.org.tr/haber/futbol-deplasmanli-super-lig-7-hafta-hakem-ve-gorevli-listesi-yayinlandi-57",
+  "summary": "duyuru Futbol Deplasmanlı Süper Lig 6. Hafta Hakem ve Görevli Listesi Yayınlandı 1406 görüntülenme duyuru GENÇ KADIN GOALBALL MİLLİ TAKIMIMIZ KONYA’DA KAMPA GİRİYOR GENÇ KADIN GOALBALL MİLLİ TAKIMIMIZ KONYA’DA KAMPA GİRİYORGenç Kadın Goalball Milli Takımımız, 6-14 Eylül 2026 tarihleri arasında Konya’da gerçekleştirilecek hazırlık kampında çalışmalarını sürdürecektir.Milli takımımızın kamp sürecini",
+  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1776946550_ce6fcf32.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "hakem",
+   "musabaka"
+  ],
+  "published_at": "2026-09-03T00:00:00+00:00",
+  "first_seen_at": "2026-09-03T18:35:39+00:00",
   "source": "html"
  },
  {
@@ -4973,117 +5087,5 @@
   "published_at": "2026-08-28T18:36:31+00:00",
   "first_seen_at": "2026-08-28T18:36:31+00:00",
   "source": "html"
- },
- {
-  "id": "3d96bc74baa6a18d",
-  "federation": "bedenselengelliler",
-  "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
-  "federation_short": "TBESF",
-  "title": "Türkiye Bedensel Engelliler Spor Federasyonu Başkanlığı Spor Dalı Tescili Hakkında Duyuru!!!",
-  "url": "https://www.tbesf.org.tr/tr/turkiye-bedensel-engelliler-spor-federasyonu-baskanligi-spor",
-  "summary": "0 % TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU BAŞKANLIĞI SPOR DALI TESCİLİ HAKKINDA DUYURU!!! Federasyonumuza bağlı olarak spor dalı tescili yaptırmak isteyen spor kulüplerimizin bilgisine sunulmak üzere, Türkiye Bedensel Engelliler Spor Federasyonu Spor Dalı Tescil Talimatı' nda yer alan tescil başvuru şartları ve ücretlerine ilişkin açıklamalar aşağıda belirtilmiştir. 1. Tescil Başvurusunda İstenilen Belgeler Spor kulüplerinin tescil başvurularında aşağıdaki belgeler istenmektedir: a) Bakanlık tesciline dair spor kulübü bilgi formu. b) Taahhüt edilen spor dalının tesciline ilişkin spor fe",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-28T18:36:31+00:00",
-  "first_seen_at": "2026-08-28T18:36:31+00:00",
-  "source": "html"
- },
- {
-  "id": "e58ba6aff0632156",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "Dünya Muaythai Şampiyonası",
-  "url": "https://muaythai.gov.tr/2026/08/28/dunya-muaythai-sampiyonasi-2/",
-  "summary": "Türkiye Muaythai ve Jujitsu Federasyonu Milli Takımımız, Kosova’da düzenlenecek Dünya Muaythai Şampiyonası’nda U24 Milli Takımızla ülkemizi temsil etmek",
-  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/08/IMG_1582.jpeg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-28T18:14:04+00:00",
-  "first_seen_at": "2026-08-28T18:36:31+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "caeb6605e458969e",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "İpsala Belediyesi Yağlı Güreşleri",
-  "url": "https://tggf.org.tr/ipsala-belediyesi-yagli-guresleri/",
-  "summary": "Benzer Haberler ... ATAKUM BELEDİYESİ YAĞLI GÜREŞLERİ Duyurular , Haberler ÇARDAK BELEDİYESİ 292. GELENEKSEL YAĞLI GÜREŞLERİ Duyurular , Haberler KURTDERE GÜREŞLERİNDE BAŞPEHLİVAN MUSTAFA TAŞ OLDU Haberler",
-  "image": "https://tggf.org.tr/wp-content/uploads/2026/08/ipsala_ilkdort.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-28T17:24:05+00:00",
-  "first_seen_at": "2026-08-28T18:36:31+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "b0cc5480f6fcfb93",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Erkekler ve Kadınlar 1. Ligi’nde Fikstür Çekimi Gerçekleştirildi",
-  "url": "https://thf.org.tr/haber/erkekler-ve-kadinlar-1-liginde-fikstur-cekimi-gerceklestirildi",
-  "summary": "Erkekler ve Kadınlar 1. Ligi’nde 2026-2027 sezonu fikstür çekimi, Ankara Prof. Dr. Yaşar Sevim Hentbol Salonu’nda gerçekleştirildi. Fikstür çekimini, Türkiye Hentbol Federasyonu Genel Sekreteri Murat Çelik ile Genel Sekreter Yardımcısı Sevim Bahar Başpınar gerçekleştirdi. Her iki ligde de 17 takım, iki farklı grupta mücadele edecek. 2026-2027 sezonunda Erkekler ve Kadınlar 1. Ligi, 3-4 Ekim 2026 tarihlerinde oynanacak karşılaşmalarla başlayacak. Lig fikstürlerine aşağıdaki eklerden ulaşabilirsiniz.",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-28T16:29:20+00:00",
-  "first_seen_at": "2026-08-28T18:36:31+00:00",
-  "source": "api"
- },
- {
-  "id": "8778e1fe1139875e",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "7.olağan Mali Genel Kurul",
-  "url": "https://muaythai.gov.tr/2026/08/28/7-olagan-mali-genel-kurul/",
-  "summary": "TÜRKİYE MUAYTHAİ FEDERASYONU BAŞKANLIĞI 7. OLAĞAN MALİ GENEL KURULU Federasyonumuz 7. Mali Genel Kurulu 07 Ekim 2026 Çarşamba",
-  "image": "https://muaythai.gov.tr/wp-content/uploads/2024/03/muaythai-federasyonu-haber-23.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-28T16:26:22+00:00",
-  "first_seen_at": "2026-08-28T18:36:31+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "5677619149dab982",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "Atakum Belediyesi Yağlı Güreşleri",
-  "url": "https://tggf.org.tr/atakum-belediyesi-yagli-guresleri/",
-  "summary": "Benzer Haberler ... İPSALA BELEDİYESİ YAĞLI GÜREŞLERİ Duyurular , Haberler ÇARDAK BELEDİYESİ 292. GELENEKSEL YAĞLI GÜREŞLERİ Duyurular , Haberler KURTDERE GÜREŞLERİNDE BAŞPEHLİVAN MUSTAFA TAŞ OLDU Haberler",
-  "image": "https://tggf.org.tr/wp-content/uploads/2026/08/atakum_ilk_dort.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-28T16:13:23+00:00",
-  "first_seen_at": "2026-08-28T18:36:31+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "5321e7a18b7127e3",
-  "federation": "halter",
-  "federation_name": "Türkiye Halter Federasyonu",
-  "federation_short": "THF",
-  "title": "Milli Sporcularımız Akdeniz Oyunları İçin İtalya’da",
-  "url": "https://halter.gov.tr/milli-sporcularimiz-akdeniz-oyunlari-icin-italyada/",
-  "summary": "İtalya’nın Taranto kentinde devam eden Akdeniz Oyunları’nda mücadele edecek halter milli takımlarımız, organizasyon öncesi hazırlıklarını tamamlayarak İtalya’ya gitti. Gökhan Kuşcuoğlu, Mehmet Doğan, Mehmet Başol ve Ferhat Coşkun ile İsa Makal’ın antrenörlüğünü yaptığı milli takım kafilesinde kadınlarda Cansel Özkan, Aysel Özkan, Nuray Güngör ve Tuğbanur Koz, erkeklerde ise Ferdi Hardal, Yusuf Fehmi Genç, Hakan Şükrü Kurnaz, […]",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "milli_takim"
-  ],
-  "published_at": "2026-08-28T13:59:04+00:00",
-  "first_seen_at": "2026-08-28T18:36:31+00:00",
-  "source": "wp_json"
  }
 ]

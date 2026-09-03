@@ -94,6 +94,24 @@
   "source": "rss"
  },
  {
+  "id": "9f96b3b5fc2b5830",
+  "federation": "basketbol",
+  "federation_name": "Türkiye Basketbol Federasyonu",
+  "federation_short": "TBF",
+  "title": "Bölgesel Antrenör Gelişim Semineri İzmir’de Düzenlendi 01.09.2026",
+  "url": "https://www.tbf.org.tr/haber/bolgesel-antrenor-gelisim-semineri-izmir-de-duzenlendi-2026-09-01",
+  "summary": "2026 yılı Türkiye Basketbol Federasyonu Eğitim Kurulu Faaliyet Programında yer alan Bölgesel Antrenör Gelişim Semineri, 29-30 Ağustos tarihlerinde Bornova Belediyesi Atatürk Kompleksinde düzenlendi. Devamını Gör",
+  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/29dbdc40930f431b91a61d4825e02d03_1.JPG",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-01T00:00:00+00:00",
+  "first_seen_at": "2026-09-03T06:00:25+00:00",
+  "source": "html"
+ },
+ {
   "id": "97f16241472bdcf0",
   "federation": "judo",
   "federation_name": "Türkiye Judo Federasyonu",
@@ -3586,24 +3604,6 @@
   ],
   "published_at": "2026-04-03T00:00:00+00:00",
   "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "0071e11f636d9d91",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Halat Çekme 1. Kademe Yardımcı Antrenör Yetiştirme Kursu",
-  "url": "https://www.gsdf.gov.tr/tr/haber/halat-cekme-1.-kademe-yardimci-antrenor-yetistirme-kursu",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/604e6da04a0e39b3f6ca0a50dfd290f3_mid_r.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-03-26T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }
 ]

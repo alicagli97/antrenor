@@ -1,23 +1,25 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-03T18:35:39+00:00",
- "total": 4997,
- "new_in_last_run": 10,
- "sources_ok": 64,
+ "generated_at": "2026-09-03T21:45:36+00:00",
+ "total": 5013,
+ "new_in_last_run": 17,
+ "sources_ok": 62,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "kayak",
+  "muaythai"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-03T18:35:39+00:00",
+ "latest_published_at": "2026-09-03T21:40:57+00:00",
  "categories": {
-  "duyuru": 1053,
+  "mevzuat": 3092,
+  "duyuru": 1063,
   "takvim": 90,
-  "musabaka": 409,
+  "musabaka": 410,
   "haber": 58,
-  "kurs": 300,
-  "mevzuat": 3087
+  "kurs": 300
  },
  "silent_sources": [
   {
@@ -27,6 +29,7 @@
   }
  ],
  "federation_counts": {
+  "izcilik": 34,
   "futbol": 121,
   "masatenisi": 48,
   "cimnastik": 46,
@@ -62,8 +65,8 @@
   "voleybol": 102,
   "boks": 45,
   "shgm": 45,
+  "gelenekselsporlar": 44,
   "basketbol": 53,
-  "izcilik": 19,
   "otomobil": 54,
   "gelismekteolan": 56,
   "bric": 11,
@@ -79,7 +82,6 @@
   "sportoto": 9,
   "bedenselengelliler": 23,
   "beyzbol": 43,
-  "gelenekselsporlar": 43,
   "buzhokeyi": 11,
   "hokey": 22,
   "danssporlari": 19,

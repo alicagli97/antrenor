@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-04T04:26:18+00:00",
- "total": 5018,
- "new_in_last_run": 5,
+ "generated_at": "2026-09-04T06:00:28+00:00",
+ "total": 5019,
+ "new_in_last_run": 1,
  "sources_ok": 62,
  "sources_failed": [
   "basketbol",
@@ -11,11 +11,13 @@
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-09-03T23:59:30+00:00",
  "categories": {
   "mevzuat": 3097,
-  "duyuru": 1063,
+  "duyuru": 1064,
   "takvim": 90,
   "musabaka": 410,
   "haber": 58,
@@ -65,8 +67,8 @@
   "voleybol": 102,
   "boks": 45,
   "shgm": 45,
+  "basketbol": 54,
   "gelenekselsporlar": 44,
-  "basketbol": 53,
   "otomobil": 54,
   "gelismekteolan": 56,
   "bric": 11,

@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-04T21:25:31+00:00",
- "total": 5282,
+ "generated_at": "2026-09-04T23:59:39+00:00",
+ "total": 5283,
  "new_in_last_run": 6,
  "sources_ok": 64,
  "sources_failed": [
@@ -10,12 +10,12 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-04T20:12:52+00:00",
+ "latest_published_at": "2026-09-04T23:57:57+00:00",
  "categories": {
-  "duyuru": 1084,
-  "musabaka": 418,
-  "kurs": 302,
   "takvim": 94,
+  "duyuru": 1084,
+  "musabaka": 419,
+  "kurs": 302,
   "haber": 60,
   "mevzuat": 3324
  },
@@ -27,6 +27,7 @@
   }
  ],
  "federation_counts": {
+  "havasporlari": 35,
   "gelenekselguresler": 56,
   "futbol": 132,
   "voleybol": 108,
@@ -39,7 +40,6 @@
   "tenis": 30,
   "shgm": 47,
   "gelismekteolan": 57,
-  "havasporlari": 35,
   "sualti": 48,
   "paralimpik": 21,
   "gsb": 524,
@@ -63,6 +63,7 @@
   "okculuk": 54,
   "atletizm": 74,
   "gures": 63,
+  "bric": 12,
   "kano": 63,
   "izcilik": 34,
   "gormeengelliler": 45,
@@ -72,7 +73,6 @@
   "basketbol": 54,
   "gelenekselsporlar": 44,
   "otomobil": 54,
-  "bric": 11,
   "karate": 16,
   "vucutgelistirme": 17,
   "taekwondo": 27,

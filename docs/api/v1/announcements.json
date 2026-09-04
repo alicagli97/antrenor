@@ -1,5 +1,23 @@
 [
  {
+  "id": "1efbaa6bdd5102e1",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-04T23:57:57+00:00",
+  "first_seen_at": "2026-09-04T23:57:57+00:00",
+  "source": "takvim-pdf"
+ },
+ {
   "id": "2b77c968b2c85e70",
   "federation": "gelenekselguresler",
   "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
@@ -353,24 +371,6 @@
   "published_at": "2026-09-04T14:15:45+00:00",
   "first_seen_at": "2026-09-04T14:15:45+00:00",
   "source": "takvim-html"
- },
- {
-  "id": "38a91c68262b48c5",
-  "federation": "havasporlari",
-  "federation_name": "Türkiye Hava Sporları Federasyonu",
-  "federation_short": "THSF",
-  "title": "Hava Sporları faaliyet takviminde değişiklik",
-  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-04T14:15:45+00:00",
-  "first_seen_at": "2026-09-04T14:15:45+00:00",
-  "source": "takvim-pdf"
  },
  {
   "id": "cad1f19eaca4aa05",
@@ -4581,6 +4581,23 @@
   "published_at": "2026-09-04T06:31:29+00:00",
   "first_seen_at": "2026-09-04T09:34:05+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "d687cd28fde18bf1",
+  "federation": "bric",
+  "federation_name": "Türkiye Briç Federasyonu",
+  "federation_short": "TBF",
+  "title": "Dünya Kadınlar İkili Şampiyonasında Gümüş Madalya Polonya’nın Katowice kentinde oynanan Dünya Briç Şampiyonaları Kadın İkili Serisi’nde 2. olarak...…",
+  "url": "https://tbricfed.org.tr/posts/dunya-kadinlar-ikili-sampiyonasinda-gumus-madalya",
+  "summary": "Haberler Polonya’nın Katowice kentinde oynanan Dünya Briç Şampiyonaları Kadın Takımlar Serisi’nde 3. olarak bronz madalya kazanan Huang Takımı üyesi sporcularımızı kutlarız. Huang Takımı: Dilek Yavaş (K), Berrak Erkan, Nina Huang, Aslı Acar, Ebru... Haberler 2 Eylül 2026 Federasyon Başkanımız Murat Molva, Asbaşkanımız Talip Çankırı ve Yönetim Kurulu Üyemiz Burhan Poshoroğlu, Ankara Gençlik ve Spor",
+  "image": "https://cdn.tbricfed.org.tr/wp-content/uploads/2026/09/Ekran-Resmi-2026-09-04-13.56.53.png",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-04T00:00:00+00:00",
+  "first_seen_at": "2026-09-04T23:59:39+00:00",
+  "source": "html"
  },
  {
   "id": "4832113788d3d448",
@@ -13921,18 +13938,18 @@
   "source": "mevzuat"
  },
  {
-  "id": "f341c47a39d0d964",
+  "id": "6a9c94820343e06a",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
   "federation_short": "TİF",
   "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2026",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu",
   "summary": "02 Eyl 18 Ağu BAŞSAĞLIĞI Giresun ili izci liderlerimizden İsmail ŞEYRANLIOĞLU'nun annesi Kezban ŞEYRANLIOĞLU ve ağabeyi Demircan ŞEYRANLIOĞLU, Hakkın Rahmetine kavuşmuşlardır. Merhumeye… 18 Ağustos 2026 17 Ağu Detaylar, duyurumuzun devamında yer almaktadır. 17 Ağustos 2026 17 Ağu BAŞSAĞLIĞI Amasya ili izci liderlerimizden Miyase KILIÇ'ın babası Hakkın Rahmetine kavuşmuştur. Merhuma Allah'tan rahme",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-09-02T00:00:00+00:00",
-  "first_seen_at": "2026-09-04T21:25:31+00:00",
+  "first_seen_at": "2026-09-04T23:59:39+00:00",
   "source": "html"
  },
  {

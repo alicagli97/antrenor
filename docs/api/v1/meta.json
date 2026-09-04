@@ -1,20 +1,29 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-03T21:45:36+00:00",
- "total": 5013,
- "new_in_last_run": 17,
- "sources_ok": 62,
+ "generated_at": "2026-09-04T00:00:44+00:00",
+ "total": 5018,
+ "new_in_last_run": 5,
+ "sources_ok": 53,
  "sources_failed": [
   "basketbol",
-  "kayak",
-  "muaythai"
+  "boks",
+  "dagcilik",
+  "danssporlari",
+  "gelismekteolan",
+  "herkesicinspor",
+  "isitmeengelliler",
+  "kano",
+  "masatenisi",
+  "satranc",
+  "sualti",
+  "vucutgelistirme"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-03T21:40:57+00:00",
+ "latest_published_at": "2026-09-03T23:59:30+00:00",
  "categories": {
-  "mevzuat": 3092,
+  "mevzuat": 3097,
   "duyuru": 1063,
   "takvim": 90,
   "musabaka": 410,
@@ -29,6 +38,7 @@
   }
  ],
  "federation_counts": {
+  "muaythai": 106,
   "izcilik": 34,
   "futbol": 121,
   "masatenisi": 48,
@@ -47,7 +57,6 @@
   "universitesporlari": 55,
   "oryantiring": 50,
   "gelenekselguresler": 51,
-  "muaythai": 101,
   "ozelsporcular": 109,
   "motosiklet": 53,
   "dagcilik": 487,

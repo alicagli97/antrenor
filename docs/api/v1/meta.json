@@ -1,22 +1,13 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-04T00:00:44+00:00",
+ "generated_at": "2026-09-04T04:26:18+00:00",
  "total": 5018,
  "new_in_last_run": 5,
- "sources_ok": 53,
+ "sources_ok": 62,
  "sources_failed": [
   "basketbol",
-  "boks",
-  "dagcilik",
-  "danssporlari",
-  "gelismekteolan",
-  "herkesicinspor",
-  "isitmeengelliler",
-  "kano",
-  "masatenisi",
-  "satranc",
-  "sualti",
-  "vucutgelistirme"
+  "kayak",
+  "muaythai"
  ],
  "sources_empty": [],
  "sources_missing": [],

@@ -1,5 +1,23 @@
 [
  {
+  "id": "add7c73a8e2b1101",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "3. Kademe Kıdemli Antrenör Uygulama Eğitim Kursu Duyurusu",
+  "url": "https://tvf.org.tr/icerik/3-kademe-kidemli-antrenor-uygulama-egitim-kursu-duyurusu-7",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-04T18:20:45+00:00",
+  "first_seen_at": "2026-09-04T18:20:45+00:00",
+  "source": "html"
+ },
+ {
   "id": "ebd7998c7d3b3a56",
   "federation": "atletizm",
   "federation_name": "Türkiye Atletizm Federasyonu",
@@ -3584,23 +3602,5 @@
   "published_at": "2026-04-16T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
- },
- {
-  "id": "30c2aed7875aef06",
-  "federation": "gures",
-  "federation_name": "Türkiye Güreş Federasyonu",
-  "federation_short": "TGF",
-  "title": "Türkiye Güreş Federasyonu 3. Online Uzaktan Eğitim Semineri (12.04.2026), 4. Online Uzaktan Eğitim Semineri (13.04.2026) Duyurusu",
-  "url": "https://tgf.tr/2026/04/10/turkiye-gures-federasyonu-3-online-uzaktan-egitim-semineri-12-04-2026-4-online-uzaktan-egitim-semineri-13-04-2026-duyurusu/",
-  "summary": "ANTRENÖRLER İÇİN UZAKTAN EĞİTİM ve GELİŞİM SEMİNERLERİ Türkiye Güreş Federasyonu 3. Online Uzaktan Eğitim Semineri 12.04.2026 tarihinde ,",
-  "image": "https://tgf.tr/wp-content/uploads/2025/07/TGF-Duyuru.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-04-10T13:17:42+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
  }
 ]

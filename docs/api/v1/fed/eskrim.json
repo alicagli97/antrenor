@@ -1,5 +1,23 @@
 [
  {
+  "id": "a7e7642dfcf9881e",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-04T18:19:09+00:00",
+  "first_seen_at": "2026-09-04T18:19:09+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "41e5b14a93e175f8",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -1061,23 +1079,5 @@
   "published_at": "2026-08-27T14:38:46+00:00",
   "first_seen_at": "2026-08-27T14:38:46+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "c88af85b9154fdba",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-26T10:47:09+00:00",
-  "first_seen_at": "2026-08-26T10:47:09+00:00",
-  "source": "takvim-html"
  }
 ]

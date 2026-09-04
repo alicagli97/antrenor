@@ -1,5 +1,43 @@
 [
  {
+  "id": "1e8cfefc034ff2dc",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Softbol Büyükler Türkiye Şampiyonası Hakem Başvuruları Başladı!",
+  "url": "https://trf.gov.tr/?p=10806",
+  "summary": "🥎 Softbol Büyükler Türkiye Şampiyonası Hakem Başvuruları Başladı! 25-27 Eylül 2026 tarihleri arasında Ankara/Çubuk Esenboğa Spor Tesisleri’nde gerçekleştirilecek Softbol Büyükler",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "hakem",
+   "musabaka",
+   "burs"
+  ],
+  "published_at": "2026-09-04T14:34:15+00:00",
+  "first_seen_at": "2026-09-04T18:20:45+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "a611d81b37d66c44",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Beyzbol Büyükler Türkiye Şampiyonası Hakem Başvuruları Başladı!",
+  "url": "https://trf.gov.tr/?p=10802",
+  "summary": "⚾ Beyzbol Büyükler Türkiye Şampiyonası Hakem Başvuruları Başladı! 18-20 Eylül 2026 tarihleri arasında Ankara/Çubuk Esenboğa Spor Tesisleri’nde gerçekleştirilecek Beyzbol Büyükler",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "hakem",
+   "musabaka",
+   "burs"
+  ],
+  "published_at": "2026-09-04T14:33:12+00:00",
+  "first_seen_at": "2026-09-04T18:20:45+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "d65f054ad282f971",
   "federation": "ragbi",
   "federation_name": "Türkiye Ragbi Federasyonu",
@@ -1052,41 +1090,6 @@
   ],
   "published_at": "2026-08-21T09:17:25+00:00",
   "first_seen_at": "2026-08-21T09:50:24+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "f9077c010c5725bf",
-  "federation": "ragbi",
-  "federation_name": "Türkiye Ragbi Federasyonu",
-  "federation_short": "TRF",
-  "title": "Ragbi faaliyet takvimi yayında",
-  "url": "https://trf.gov.tr/wp-content/uploads/2026/06/2026-yili-faaliyet-takvimi-08.06.2026.xlsx",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:53+00:00",
-  "first_seen_at": "2026-08-20T20:10:53+00:00",
-  "source": "takvim-excel"
- },
- {
-  "id": "2690bd389264ed27",
-  "federation": "ragbi",
-  "federation_name": "Türkiye Ragbi Federasyonu",
-  "federation_short": "TRF",
-  "title": "‘’ Gelirlerin Temini, Tahsili ile Harcırah ve Görev Ücretleri Talimatı’’ Yayınlanmıştır.",
-  "url": "https://trf.gov.tr/?p=10776",
-  "summary": "‘’ Gelirlerin Temini, Tahsili ile Harcırah ve Görev Ücretleri Talimatı’’ yayınlanmıştır.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat"
-  ],
-  "published_at": "2026-08-20T13:54:12+00:00",
-  "first_seen_at": "2026-08-20T18:07:25+00:00",
   "source": "wp_json"
  }
 ]

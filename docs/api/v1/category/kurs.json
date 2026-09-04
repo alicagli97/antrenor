@@ -1,5 +1,23 @@
 [
  {
+  "id": "add7c73a8e2b1101",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "3. Kademe Kıdemli Antrenör Uygulama Eğitim Kursu Duyurusu",
+  "url": "https://tvf.org.tr/icerik/3-kademe-kidemli-antrenor-uygulama-egitim-kursu-duyurusu-7",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-04T18:20:45+00:00",
+  "first_seen_at": "2026-09-04T18:20:45+00:00",
+  "source": "html"
+ },
+ {
   "id": "1164fd75a3e85746",
   "federation": "kano",
   "federation_name": "Türkiye Kano Federasyonu",
@@ -3508,23 +3526,5 @@
   "published_at": "2026-07-24T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
- },
- {
-  "id": "bd20aab93762edd5",
-  "federation": "taekwondo",
-  "federation_name": "Türkiye Taekwondo Federasyonu",
-  "federation_short": "TTF",
-  "title": "İşitme Engelliler Taekwondo Branşı Uygulama Eğitimi Kursları (ERTELEME)",
-  "url": "https://turkiyetaekwondofed.gov.tr/isitme-engelliler-taekwondo-bransi-uygulama-egitimi-kurslari/",
-  "summary": "–ERTELEME– Federasyonumuzun 2026 yılı faaliyet programında yer alan ve 03 – 08 Ağustos 2026 tarihleri arasında Ankara, İzmir ve Erzurum illerinde eş zamanlı olarak düzenlenmesi planlanan 1, 2, 3, 4 ve 5. Kademe İşitme Engelliler Taekwondo Uygulama Eğitimi Kursları, yeterli başvuru sayısına ulaşılamaması nedeniyle ileri bir tarihe ertelenmiştir. Önemle duyurulur. **** Federasyonumuzun 2026 yılı faaliyet […]",
-  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/07/IMG-20260706-WA0072.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "burs"
-  ],
-  "published_at": "2026-07-22T00:04:15+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
  }
 ]

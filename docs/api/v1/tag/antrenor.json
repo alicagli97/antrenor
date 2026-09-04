@@ -1,5 +1,23 @@
 [
  {
+  "id": "add7c73a8e2b1101",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "3. Kademe Kıdemli Antrenör Uygulama Eğitim Kursu Duyurusu",
+  "url": "https://tvf.org.tr/icerik/3-kademe-kidemli-antrenor-uygulama-egitim-kursu-duyurusu-7",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-04T18:20:45+00:00",
+  "first_seen_at": "2026-09-04T18:20:45+00:00",
+  "source": "html"
+ },
+ {
   "id": "f0561f3e5bc30aee",
   "federation": "havasporlari",
   "federation_name": "Türkiye Hava Sporları Federasyonu",
@@ -3771,25 +3789,6 @@
   ],
   "published_at": "2026-09-01T09:00:44+00:00",
   "first_seen_at": "2026-09-01T09:00:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "c6376a9338379278",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüplerinin Genel Kurul ve Yönetim Kurulu Toplantılarının Elektronik Ortamda Yapılmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39822&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-01T09:00:43+00:00",
-  "first_seen_at": "2026-09-01T09:00:43+00:00",
   "source": "mevzuat"
  }
 ]

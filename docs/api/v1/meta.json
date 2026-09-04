@@ -1,15 +1,17 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-04T14:17:19+00:00",
+ "generated_at": "2026-09-04T16:00:24+00:00",
  "total": 5265,
- "new_in_last_run": 17,
+ "new_in_last_run": 0,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-09-04T15:50:13+00:00",
  "categories": {
   "duyuru": 1076,

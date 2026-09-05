@@ -1,5 +1,70 @@
 [
  {
+  "id": "4ccd352b16159e57",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF'den Mesajlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51277",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-05T12:39:26+00:00",
+  "first_seen_at": "2026-09-05T12:39:26+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d6c426bd5e095330",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» Hakem Kursu Hk.",
+  "url": "https://www.eskrim.org.tr/hakem-kursu-hk-2630.html",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-05T12:39:26+00:00",
+  "first_seen_at": "2026-09-05T12:39:26+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f82f62287f1b3e40",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» 19-20 Eylül Sırbistan Büyükler Satallite Turnuvası Epe Kafile Listesi Hk.",
+  "url": "https://www.eskrim.org.tr/19-20-eylul-sirbistan-buyukler-satallite-turnuvasi-epe-kafile-listesi-hk-2628.html",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-05T12:39:26+00:00",
+  "first_seen_at": "2026-09-05T12:39:26+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0701288c44ff96d3",
+  "federation": "bisiklet",
+  "federation_name": "Türkiye Bisiklet Federasyonu",
+  "federation_short": "TBF",
+  "title": "Tour Of İstanbul 2026’da 3.Gün Fatih-Fatih Etabı Tamamlandı",
+  "url": "https://bisiklet.org.tr/tour-of-istanbul-2026da-3-gun-fatih-fatih-etabi-tamamlandi/",
+  "summary": "Türkiye Bisiklet Federasyonu’nun koordinasyonunda; T.C. Gençlik ve Spor Bakanlığı himayesinde, T.C. İstanbul Valiliği, Fatih Belediyesi başta olmak üzere ilçe belediyeleri ve Spor Toto Teşkilat Başkanlığı, Uluslararası Bisiklet Birliği (UCI) ve Shimano’nun destekleriyle üçüncü etap Fatih-Fatih arasında rüzgar gibi geçti. 86.2 kilometrelik etap sonunda genel klasmanda Vadicliderliğini korudu. Günün kazananı ise sürpriz şekilde kaçış grubundan çıktı: Daniil Pronskiy İstanbul’un uluslararası, etaplı tek bisiklet…",
+  "image": "https://bisiklet.org.tr/wp-content/uploads/2026/09/Tour-of-Istanbul_3_196-scaled.jpeg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-05T11:28:58+00:00",
+  "first_seen_at": "2026-09-05T12:39:26+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "35520d183a5dd503",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -1916,6 +1981,23 @@
   "source": "mevzuat"
  },
  {
+  "id": "8f2d807c6672e614",
+  "federation": "karate",
+  "federation_name": "Türkiye Karate Federasyonu",
+  "federation_short": "TKF",
+  "title": "Karadeniz ve Hazar Ülkeleri Karate Şampiyonası2nın Açılışı Gerçekleşti",
+  "url": "https://karate.gov.tr/blog_detay.php?id=89",
+  "summary": "HABER Ulusal Haberler Samsun Tekkeköy Yaşar Doğu Spor Salonu’nda düzenlenen Karadeniz ve Hazar Ülkeleri Karate Şampiyonası’nın açılış töreni gerçekleştirildi.... DEVAMINI OKU",
+  "image": "https://karate.gov.tr/uploads/blog/blog_1788600342_822.webp",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-05T00:00:00+00:00",
+  "first_seen_at": "2026-09-05T12:39:26+00:00",
+  "source": "html"
+ },
+ {
   "id": "55b62253e3117dd8",
   "federation": "basketbol",
   "federation_name": "Türkiye Basketbol Federasyonu",
@@ -3400,18 +3482,18 @@
   "source": "html"
  },
  {
-  "id": "6a9c94820343e06a",
+  "id": "f341c47a39d0d964",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
   "federation_short": "TİF",
   "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2026",
   "summary": "02 Eyl 18 Ağu BAŞSAĞLIĞI Giresun ili izci liderlerimizden İsmail ŞEYRANLIOĞLU'nun annesi Kezban ŞEYRANLIOĞLU ve ağabeyi Demircan ŞEYRANLIOĞLU, Hakkın Rahmetine kavuşmuşlardır. Merhumeye… 18 Ağustos 2026 17 Ağu Detaylar, duyurumuzun devamında yer almaktadır. 17 Ağustos 2026 17 Ağu BAŞSAĞLIĞI Amasya ili izci liderlerimizden Miyase KILIÇ'ın babası Hakkın Rahmetine kavuşmuştur. Merhuma Allah'tan rahme",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-09-02T00:00:00+00:00",
-  "first_seen_at": "2026-09-05T09:01:08+00:00",
+  "first_seen_at": "2026-09-05T12:39:26+00:00",
   "source": "html"
  },
  {
@@ -5031,81 +5113,6 @@
   ],
   "published_at": "2026-08-31T00:00:00+00:00",
   "first_seen_at": "2026-08-31T13:35:58+00:00",
-  "source": "html"
- },
- {
-  "id": "4954781d1ce5257a",
-  "federation": "sportoto",
-  "federation_name": "Spor Toto Teşkilat Başkanlığı",
-  "federation_short": "Spor Toto",
-  "title": "Bakan Bak Sultangazi'de Temel Atma Töreninde Konuştu",
-  "url": "https://www.sportoto.gov.tr/haberler/bakan-bak-sultangazide-temel-atma-toreninde-konustu",
-  "summary": "- 00:00 BAKAN BAK’TAN HENTBOLDA CUMHURBAŞKANLIĞI KUPASI'NI KAZANAN KULÜPLERE TEBRİK 27.08.2026 - 00:00 BAKAN BAK’TAN MİLLİ SPORCULAR FERİHA DİLHÜBA BABIROĞLU VE AHMET EMREM’E TEBRİK MESAJI 20.08.2026 - 00:00 “MİLLİ SPORCULARIMIZ ÜLKEMİZİN TANITIMINDA DA ÖNEMLİ ROL ÜSTLENİYOR” 20.08.2026 - 00:00",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-31T00:00:00+00:00",
-  "first_seen_at": "2026-08-31T13:35:58+00:00",
-  "source": "html"
- },
- {
-  "id": "de59c71e8995bf2d",
-  "federation": "sportoto",
-  "federation_name": "Spor Toto Teşkilat Başkanlığı",
-  "federation_short": "Spor Toto",
-  "title": "Bakan Bak’tan Hentbolda Cumhurbaşkanlığı Kupası'nı Kazanan Kulüplere Tebrik",
-  "url": "https://www.sportoto.gov.tr/haberler/bakan-bak-tan-hentbolda-cumhurbaskanligi-kupasini-kazanan-kuluplere-tebrik",
-  "summary": "BAKAN BAK SULTANGAZİ'DE TEMEL ATMA TÖRENİNDE KONUŞTU - 00:00 27.08.2026 - 00:00 BAKAN BAK’TAN MİLLİ SPORCULAR FERİHA DİLHÜBA BABIROĞLU VE AHMET EMREM’E TEBRİK MESAJI 20.08.2026 - 00:00 “MİLLİ SPORCULARIMIZ ÜLKEMİZİN TANITIMINDA DA ÖNEMLİ ROL ÜSTLENİYOR” 20.08.2026 - 00:00",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-31T00:00:00+00:00",
-  "first_seen_at": "2026-08-31T13:35:58+00:00",
-  "source": "html"
- },
- {
-  "id": "61fbb0e244f4796e",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "Korkuteli Belediyesi 35.altın Kiraz Yağlı Güreşleri",
-  "url": "https://tggf.org.tr/korkuteli-belediyesi-35-altin-kiraz-yagli-guresleri/",
-  "summary": "Benzer Haberler ... ÇATALCA BELEDİYESİ YAĞLI GÜREŞLERİ Haberler 30 AĞUSTOS ZAFER BAYRAMI KUTLU OLSUN Haberler 5.ULUGAZİ YAĞLI GÜREŞLERİ Haberler",
-  "image": "https://tggf.org.tr/wp-content/uploads/2026/08/korkuteli_ilk_dort.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-30T21:31:03+00:00",
-  "first_seen_at": "2026-08-30T23:27:47+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "be1f40a0ba73ae97",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "Çatalca Belediyesi Yağlı Güreşleri",
-  "url": "https://tggf.org.tr/catalca-belediyesi-yagli-guresleri-2/",
-  "summary": "Benzer Haberler ... KORKUTELİ BELEDİYESİ 35.ALTIN KİRAZ YAĞLI GÜREŞLERİ Duyurular , Haberler 30 AĞUSTOS ZAFER BAYRAMI KUTLU OLSUN Haberler 5.ULUGAZİ YAĞLI GÜREŞLERİ Haberler",
-  "image": "https://tggf.org.tr/wp-content/uploads/2026/08/catalca_ilk_dort.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-30T21:03:59+00:00",
-  "first_seen_at": "2026-08-30T23:27:47+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "1d5041111c9944a4",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Akdeniz Oyunları Şampiyonu A Millî Kadın Voleybol Takımımızı Kutlarız",
-  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51239",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-30T21:00:42+00:00",
-  "first_seen_at": "2026-08-30T21:00:42+00:00",
   "source": "html"
  }
 ]

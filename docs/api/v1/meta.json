@@ -1,19 +1,21 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-05T09:01:08+00:00",
- "total": 5527,
- "new_in_last_run": 7,
+ "generated_at": "2026-09-05T11:00:20+00:00",
+ "total": 5528,
+ "new_in_last_run": 1,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-09-05T07:59:30+00:00",
  "categories": {
   "mevzuat": 3564,
-  "duyuru": 1087,
+  "duyuru": 1088,
   "takvim": 94,
   "musabaka": 419,
   "kurs": 303,
@@ -56,6 +58,7 @@
   "gures": 66,
   "voleybol": 113,
   "boks": 48,
+  "basketbol": 57,
   "gelenekselsporlar": 46,
   "futbol": 132,
   "masatenisi": 49,
@@ -65,7 +68,6 @@
   "paralimpik": 21,
   "beyzbol": 44,
   "binicilik": 238,
-  "basketbol": 56,
   "bric": 12,
   "kano": 63,
   "gormeengelliler": 45,

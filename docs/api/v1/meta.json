@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-05T16:00:20+00:00",
- "total": 5533,
+ "generated_at": "2026-09-05T16:01:11+00:00",
+ "total": 5535,
  "new_in_last_run": 0,
  "sources_ok": 64,
  "sources_failed": [
@@ -10,14 +10,14 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": [
-  "basketbol"
+  "yeniden-uretim"
  ],
- "latest_published_at": "2026-09-05T12:39:26+00:00",
+ "latest_published_at": "2026-09-05T15:59:24+00:00",
  "categories": {
+  "takvim": 95,
   "duyuru": 1091,
-  "musabaka": 421,
+  "musabaka": 422,
   "mevzuat": 3564,
-  "takvim": 94,
   "kurs": 303,
   "haber": 60
  },
@@ -29,8 +29,8 @@
   }
  ],
  "federation_counts": {
+  "eskrim": 140,
   "futbol": 133,
-  "eskrim": 139,
   "bisiklet": 54,
   "gsb": 560,
   "sualti": 51,
@@ -53,7 +53,7 @@
   "triatlon": 179,
   "yelken": 71,
   "cimnastik": 48,
-  "aticilik": 82,
+  "aticilik": 83,
   "okculuk": 55,
   "atletizm": 76,
   "gures": 66,

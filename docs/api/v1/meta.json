@@ -1,25 +1,24 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-05T16:01:11+00:00",
- "total": 5535,
- "new_in_last_run": 0,
- "sources_ok": 64,
+ "generated_at": "2026-09-05T18:13:07+00:00",
+ "total": 5537,
+ "new_in_last_run": 7,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "bocce"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": [
-  "yeniden-uretim"
- ],
+ "partial_run": null,
  "latest_published_at": "2026-09-05T15:59:24+00:00",
  "categories": {
   "takvim": 95,
   "duyuru": 1091,
-  "musabaka": 422,
+  "musabaka": 423,
   "mevzuat": 3564,
-  "kurs": 303,
-  "haber": 60
+  "haber": 61,
+  "kurs": 303
  },
  "silent_sources": [
   {
@@ -59,12 +58,13 @@
   "gures": 66,
   "voleybol": 113,
   "boks": 48,
+  "tenis": 31,
+  "kaykay": 11,
   "karate": 17,
   "basketbol": 57,
   "gelenekselsporlar": 46,
   "masatenisi": 49,
   "hentbol": 35,
-  "tenis": 30,
   "shgm": 47,
   "paralimpik": 21,
   "beyzbol": 44,
@@ -87,7 +87,6 @@
   "hokey": 22,
   "danssporlari": 19,
   "isitmeengelliler": 8,
-  "kaykay": 10,
   "kurek": 15,
   "wushu": 22,
   "halkoyunlari": 9,

@@ -1,5 +1,23 @@
 [
  {
+  "id": "bd964f7acb2cc2e5",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Para Badminton 2.Kademe Antrenörlük Kursu Yapılacak",
+  "url": "https://www.badminton.org.tr/para-badminton-2-kademe-antrenorluk-kursu-yapilacak/",
+  "summary": "Türkiye Badminton Federasyonu Başkanlığı 2026 yılı Para Badminton 2. Kademe Temel Antrenör Yetiştirme Kursu 24-30 Eylül 2026 tarihleri arasında Kastamonu’da yapılacaktır. Ön kayıt başlama tarihi : 07 Eylül 2026 Ön kayıt bitiş tarihi : 16 Eylül 2026 Kurs başlama tarihi : 24 Eylül 2026 Kurs bitiş tarihi : 30 Eylül 2026 […]",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-05T20:14:34+00:00",
+  "first_seen_at": "2026-09-05T21:10:08+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "d6c426bd5e095330",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -3582,24 +3600,6 @@
    "kurs"
   ],
   "published_at": "2026-04-21T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "48a9f39a9e3e89d4",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Halat Çekme 1.Kademe Yardımcı Antrenör Kursu Başarıyla Tamalandı",
-  "url": "https://www.gsdf.gov.tr/tr/haber/halat-cekme-1.kademe-yardimci-antrenor-kursu-basariyla-tamalandi",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/61903ced38b1f522ec564b80870c1bb1_mid_r.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-04-20T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

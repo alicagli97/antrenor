@@ -1,5 +1,41 @@
 [
  {
+  "id": "e48552d1ad11f821",
+  "federation": "gelenekselsporlar",
+  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
+  "federation_short": "GSDF",
+  "title": "Onikitaş Oyunu Aday Hakem Kursu Eylül 2026",
+  "url": "https://www.gsdf.gov.tr/tr/haber/onikitas-oyunu-aday-hakem-kursu-eylul-2026",
+  "summary": "",
+  "image": "https://www.gsdf.gov.tr/uploads/default/blog/2e7cd5d56455e5ca0086cf205afde027_mid_r.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-05T00:00:00+00:00",
+  "first_seen_at": "2026-09-05T09:01:08+00:00",
+  "source": "html"
+ },
+ {
+  "id": "8b1809d11d16b9ff",
+  "federation": "gelenekselsporlar",
+  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
+  "federation_short": "GSDF",
+  "title": "Mangala Oyunu Aday Hakem Kursu Eylül 2026",
+  "url": "https://www.gsdf.gov.tr/tr/haber/mangala-oyunu-aday-hakem-kursu-eylul-2026",
+  "summary": "",
+  "image": "https://www.gsdf.gov.tr/uploads/default/blog/691acebcb50563c35fc14acb6f537449_mid_r.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-05T00:00:00+00:00",
+  "first_seen_at": "2026-09-05T09:01:08+00:00",
+  "source": "html"
+ },
+ {
   "id": "2b77c968b2c85e70",
   "federation": "gelenekselguresler",
   "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
@@ -595,18 +631,18 @@
   "source": "html"
  },
  {
-  "id": "f341c47a39d0d964",
+  "id": "6a9c94820343e06a",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
   "federation_short": "TİF",
   "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2026",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu",
   "summary": "02 Eyl 18 Ağu BAŞSAĞLIĞI Giresun ili izci liderlerimizden İsmail ŞEYRANLIOĞLU'nun annesi Kezban ŞEYRANLIOĞLU ve ağabeyi Demircan ŞEYRANLIOĞLU, Hakkın Rahmetine kavuşmuşlardır. Merhumeye… 18 Ağustos 2026 17 Ağu Detaylar, duyurumuzun devamında yer almaktadır. 17 Ağustos 2026 17 Ağu BAŞSAĞLIĞI Amasya ili izci liderlerimizden Miyase KILIÇ'ın babası Hakkın Rahmetine kavuşmuştur. Merhuma Allah'tan rahme",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-09-02T00:00:00+00:00",
-  "first_seen_at": "2026-09-05T04:18:03+00:00",
+  "first_seen_at": "2026-09-05T09:01:08+00:00",
   "source": "html"
  },
  {
@@ -3060,39 +3096,6 @@
   "tags": [],
   "published_at": "2026-08-26T00:00:00+00:00",
   "first_seen_at": "2026-08-29T06:00:25+00:00",
-  "source": "html"
- },
- {
-  "id": "4560af1a1bb848bd",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Bakan Bak’tan Hentbolda Cumhurbaşkanlığı Kupası'nı Kazanan Kulüplere Tebrik",
-  "url": "https://gsb.gov.tr/tr/haber-detay/302680-bakan-baktan-hentbolda-cumhurbaskanligi-kupasini-kazanan-kuluplere-tebrik",
-  "summary": "",
-  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/00ee2b06-4c06-4013-9aa4-1593d5582b50.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-08-26T19:20:09+00:00",
-  "source": "html"
- },
- {
-  "id": "af9b6ad4e8b30024",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Halat Oyunu Aday Hakem Kursu Sınav Sonuçları Ağustos 2026",
-  "url": "https://www.gsdf.gov.tr/tr/haber/halat-oyunu-aday-hakem-kursu-sinav-sonuclari-agustos-2026",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/07f3030c4303f20d3f4b36fa3ddd84da_mid_r.jpg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-08-26T19:20:09+00:00",
   "source": "html"
  }
 ]

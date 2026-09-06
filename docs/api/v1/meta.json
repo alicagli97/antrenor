@@ -1,23 +1,21 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-06T19:09:00+00:00",
- "total": 5780,
- "new_in_last_run": 12,
- "sources_ok": 64,
+ "generated_at": "2026-09-06T21:26:42+00:00",
+ "total": 5783,
+ "new_in_last_run": 8,
+ "sources_ok": 63,
  "sources_failed": [
   "basketbol",
-  "halkoyunlari"
+  "paralimpik"
  ],
- "sources_empty": [
-  "sportoto"
- ],
+ "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-06T19:09:00+00:00",
+ "latest_published_at": "2026-09-06T20:28:15+00:00",
  "categories": {
+  "duyuru": 1100,
   "musabaka": 426,
   "kurs": 306,
-  "duyuru": 1097,
   "haber": 63,
   "mevzuat": 3793,
   "takvim": 95
@@ -30,9 +28,10 @@
   }
  ],
  "federation_counts": {
+  "otomobil": 58,
+  "gelenekselguresler": 59,
   "futbol": 135,
   "hentbol": 37,
-  "otomobil": 56,
   "ozelsporcular": 131,
   "taekwondo": 29,
   "bisiklet": 56,
@@ -65,7 +64,6 @@
   "izcilik": 64,
   "havasporlari": 36,
   "gelismekteolan": 59,
-  "gelenekselguresler": 58,
   "tenis": 31,
   "kaykay": 11,
   "karate": 17,

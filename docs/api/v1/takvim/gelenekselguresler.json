@@ -2,95 +2,79 @@
  "federation": "gelenekselguresler",
  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
  "federation_short": "TGGF",
- "url": "https://tggf.org.tr/gelisim-ligi-2026-yili-faaliyet-takvimi/",
+ "url": "https://tggf.org.tr/2026-yili-cw-enerji-yagli-gures-ligi-takvimi/",
  "type": "html",
  "label": "2026 Yılı Takvimi",
  "fingerprint": "ad6c280638ad2ad0",
- "event_count": 10,
+ "event_count": 8,
  "events": [
   {
-   "ad": "KUMLUCA TARIM SERACILIK FESTİVALİ YAĞLI GÜREŞLERİ",
-   "tarih": "2026-05-03",
-   "tarih_metni": "03.05.2026",
-   "yer": "KUMLUCA/ANTALYA",
+   "ad": "ŞAHİNBEY BELEDİYESİ YAĞLI GÜREŞLERİ",
+   "tarih": null,
+   "tarih_metni": "24-25-26 NİSAN 2026",
+   "yer": "ŞAHİNBEY/GAZİANTEP",
    "brans": "",
-   "satir": "1 | 03.05.2026 | KUMLUCA TARIM SERACILIK FESTİVALİ YAĞLI GÜREŞLERİ | KUMLUCA/ANTALYA"
+   "satir": "1 | 24-25-26 NİSAN 2026 | ŞAHİNBEY BELEDİYESİ YAĞLI GÜREŞLERİ | ŞAHİNBEY/GAZİANTEP"
   },
   {
-   "ad": "FETHİYE BELEDİYESİ YAĞLI GÜREŞLERİ",
-   "tarih": "2026-05-03",
-   "tarih_metni": "03.05.2026",
-   "yer": "MUĞLA",
+   "ad": "13.MANAVGAT BELEDİYESİ YAĞLI GÜREŞLERİ",
+   "tarih": "2026-05-10",
+   "tarih_metni": "08-09-10 MAYIS 2026",
+   "yer": "MANAVGAT/ANTALYA",
    "brans": "",
-   "satir": "2 | 03.05.2026 | FETHİYE BELEDİYESİ YAĞLI GÜREŞLERİ | MUĞLA"
+   "satir": "2 | 08-09-10 MAYIS 2026 | 13.MANAVGAT BELEDİYESİ YAĞLI GÜREŞLERİ | MANAVGAT/ANTALYA"
   },
   {
-   "ad": "AKHİSAR BELEDİYESİ 567.GELENEKSEL ÇAĞLAK FESTİVALİ YAĞLI GÜREŞLERİ",
-   "tarih": "2026-05-16",
-   "tarih_metni": "16.05.2026",
+   "ad": "MANİSA BÜYÜKŞEHİR BELEDİYESİ YUNTDAĞI YAĞLI GÜREŞLERİ",
+   "tarih": null,
+   "tarih_metni": "05-06-07 HAZİRAN 2026",
    "yer": "MANİSA",
    "brans": "",
-   "satir": "3 | 16.05.2026 | AKHİSAR BELEDİYESİ 567.GELENEKSEL ÇAĞLAK FESTİVALİ YAĞLI GÜREŞLERİ | MANİSA"
+   "satir": "3 | 05-06-07 HAZİRAN 2026 | MANİSA BÜYÜKŞEHİR BELEDİYESİ YUNTDAĞI YAĞLI GÜREŞLERİ | MANİSA"
   },
   {
-   "ad": "KONYAALTI BEL.28.GELENEKSEL FESLİKAN YAYLASI YAĞLI GÜREŞLERİ",
-   "tarih": "2026-07-19",
-   "tarih_metni": "19.07.2026",
-   "yer": "ANTALYA",
+   "ad": "KOCAELİ BÜYÜKŞEHİR BELEDİYESİ SEKA PARK ALTIN KEMER YAĞLI GÜREŞLERİ",
+   "tarih": null,
+   "tarih_metni": "12-13-14 HAZİRAN 2026",
+   "yer": "SEKAPARK/KOCAELİ",
    "brans": "",
-   "satir": "4 | 19.07.2026 | KONYAALTI BEL.28.GELENEKSEL FESLİKAN YAYLASI YAĞLI GÜREŞLERİ | ANTALYA"
+   "satir": "4 | 12-13-14 HAZİRAN 2026 | KOCAELİ BÜYÜKŞEHİR BELEDİYESİ SEKA PARK ALTIN KEMER YAĞLI GÜREŞLERİ | SEKAPARK/KOCAELİ"
   },
   {
-   "ad": "ALANYA BLD.20.GÖKBEL YAĞLI GÜREŞLERİ",
-   "tarih": "2026-08-02",
-   "tarih_metni": "02.08.2026",
-   "yer": "ALANYA/ANTALYA",
+   "ad": "ORDU B.BLD. ORDU AYBASTI PERŞEMBE YAYLASI ORDULU MUSTAFA PEHLİVAN YAĞLI GÜREŞLERİ",
+   "tarih": "2026-07-26",
+   "tarih_metni": "24-25-26 TEMMUZ 2026",
+   "yer": "AYBASTI/ORDU",
    "brans": "",
-   "satir": "5 | 02.08.2026 | ALANYA BLD.20.GÖKBEL YAĞLI GÜREŞLERİ | ALANYA/ANTALYA"
+   "satir": "5 | 24-25-26 TEMMUZ 2026 | ORDU B.BLD. ORDU AYBASTI PERŞEMBE YAYLASI ORDULU MUSTAFA PEHLİVAN YAĞLI GÜREŞLERİ | AYBASTI/ORDU"
   },
   {
-   "ad": "33.GEL.SEYDİKEMER SEKİ YAĞLI GÜREŞLERİ",
-   "tarih": "2026-08-16",
-   "tarih_metni": "16.08.2026",
-   "yer": "SEYDİKEMER/MUĞLA",
+   "ad": "VEZİRKÖPRÜ BELEDİYESİ KUNDUZ YAĞLI GÜREŞLERİ",
+   "tarih": "2026-08-09",
+   "tarih_metni": "07-08-09 AĞUSTOS 2026",
+   "yer": "VEZİRKÖPRÜ/SAMSUN",
    "brans": "",
-   "satir": "6 | 16.08.2026 | 33.GEL.SEYDİKEMER SEKİ YAĞLI GÜREŞLERİ | SEYDİKEMER/MUĞLA"
+   "satir": "6 | 07-08-09 AĞUSTOS 2026 | VEZİRKÖPRÜ BELEDİYESİ KUNDUZ YAĞLI GÜREŞLERİ | VEZİRKÖPRÜ/SAMSUN"
   },
   {
-   "ad": "ÇARDAK BLD.292.GELENEKSEL YAĞLI GÜREŞLERİ",
-   "tarih": "2026-08-26",
-   "tarih_metni": "26.08.2026",
-   "yer": "ÇARDAK/ÇANAKKALE",
+   "ad": "BALIKESİR B.BLD.KARESİ BELEDİYESİ KURTDERELİ MEHMET PEHLİVAN YAĞLI GÜREŞLERİ",
+   "tarih": "2026-08-23",
+   "tarih_metni": "21-22-23 AĞUSTOS 2026",
+   "yer": "KARESİ/BALIKESİR",
    "brans": "",
-   "satir": "7 | 26.08.2026 | ÇARDAK BLD.292.GELENEKSEL YAĞLI GÜREŞLERİ | ÇARDAK/ÇANAKKALE"
+   "satir": "7 | 21-22-23 AĞUSTOS 2026 | BALIKESİR B.BLD.KARESİ BELEDİYESİ KURTDERELİ MEHMET PEHLİVAN YAĞLI GÜREŞLERİ | KARESİ/BALIKESİR"
   },
   {
-   "ad": "KORKUTELİ 35.GELELENEKSEL ALTINKİRAZ YAĞLI GÜREŞLERİ",
-   "tarih": "2026-08-30",
-   "tarih_metni": "30.08.2026",
-   "yer": "ANTALYA",
+   "ad": "ELMALI BELEDİYESİ 674.TARİHİ ELMALI YAĞLI GÜREŞLERİ",
+   "tarih": "2026-09-06",
+   "tarih_metni": "04-05-06 EYLÜL 2026",
+   "yer": "ELMALI/ANTALYA",
    "brans": "",
-   "satir": "8 | 30.08.2026 | KORKUTELİ 35.GELELENEKSEL ALTINKİRAZ YAĞLI GÜREŞLERİ | ANTALYA"
-  },
-  {
-   "ad": "23.TAŞKÖPRÜ HASAT SONU FESTİVALİ YAĞLI GÜREŞLERİ",
-   "tarih": "2026-09-13",
-   "tarih_metni": "13.09.2026",
-   "yer": "TAŞKÖPRÜ/KOCAELİ",
-   "brans": "",
-   "satir": "9 | 13.09.2026 | 23.TAŞKÖPRÜ HASAT SONU FESTİVALİ YAĞLI GÜREŞLERİ | TAŞKÖPRÜ/KOCAELİ"
-  },
-  {
-   "ad": "KAŞ BELEDİYESİ YAĞLI GÜREŞLERİ",
-   "tarih": "2026-10-11",
-   "tarih_metni": "11.10.2026",
-   "yer": "KAŞ/ANTALYA",
-   "brans": "",
-   "satir": "10 | 11.10.2026 | KAŞ BELEDİYESİ YAĞLI GÜREŞLERİ | KAŞ/ANTALYA"
+   "satir": "8 | 04-05-06 EYLÜL 2026 | ELMALI BELEDİYESİ 674.TARİHİ ELMALI YAĞLI GÜREŞLERİ | ELMALI/ANTALYA"
   }
  ],
- "checked_at": "2026-09-06T19:04:37",
- "bekleyen_iz": null,
+ "checked_at": "2026-09-06T21:18:17",
+ "bekleyen_iz": "e7e20bfbe4478198",
  "changed_at": "2026-08-20T20:10:53+00:00",
  "parmak_izi": "ad6c280638ad2ad0"
 }

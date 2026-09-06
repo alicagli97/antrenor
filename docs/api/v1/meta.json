@@ -1,23 +1,26 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-06T16:59:47+00:00",
- "total": 5773,
- "new_in_last_run": 7,
+ "generated_at": "2026-09-06T19:09:00+00:00",
+ "total": 5780,
+ "new_in_last_run": 12,
  "sources_ok": 64,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "halkoyunlari"
  ],
- "sources_empty": [],
+ "sources_empty": [
+  "sportoto"
+ ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-06T15:57:58+00:00",
+ "latest_published_at": "2026-09-06T19:09:00+00:00",
  "categories": {
-  "duyuru": 1094,
-  "musabaka": 425,
+  "musabaka": 426,
+  "kurs": 306,
+  "duyuru": 1097,
+  "haber": 63,
   "mevzuat": 3793,
-  "kurs": 304,
-  "takvim": 95,
-  "haber": 62
+  "takvim": 95
  },
  "silent_sources": [
   {
@@ -27,10 +30,13 @@
   }
  ],
  "federation_counts": {
+  "futbol": 135,
+  "hentbol": 37,
+  "otomobil": 56,
   "ozelsporcular": 131,
   "taekwondo": 29,
   "bisiklet": 56,
-  "gsb": 596,
+  "gsb": 597,
   "ragbi": 89,
   "universitesporlari": 66,
   "muaythai": 119,
@@ -53,7 +59,7 @@
   "atletizm": 78,
   "gures": 69,
   "boks": 49,
-  "futbol": 134,
+  "judo": 48,
   "badminton": 199,
   "sualti": 51,
   "izcilik": 64,
@@ -66,7 +72,6 @@
   "basketbol": 57,
   "gelenekselsporlar": 46,
   "masatenisi": 49,
-  "hentbol": 35,
   "shgm": 47,
   "paralimpik": 21,
   "beyzbol": 44,
@@ -75,10 +80,8 @@
   "gormeengelliler": 45,
   "pentatlon": 26,
   "halter": 34,
-  "otomobil": 54,
   "vucutgelistirme": 17,
   "herkesicinspor": 12,
-  "judo": 47,
   "yuzme": 25,
   "sportoto": 9,
   "bedenselengelliler": 23,

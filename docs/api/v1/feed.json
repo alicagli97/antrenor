@@ -1,5 +1,87 @@
 [
  {
+  "id": "6e9a3b1e76023773",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Avrupa Şampiyonu A Millî Kadın Voleybol Takımımızı Kutlarız",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51279",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-06T19:09:00+00:00",
+  "first_seen_at": "2026-09-06T19:09:00+00:00",
+  "source": "html"
+ },
+ {
+  "id": "e444163110a1a169",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Ankara'daki Teknik Eğitim Kampı Tamamlandı",
+  "url": "https://thf.org.tr/haber/ankaradaki-teknik-egitim-kampi-tamamlandi",
+  "summary": "2010-2011 doğumlu erkek sporculara yönelik Teknik Eğitim Kampı tamamlandı. 30 Ağustos-4 Eylül tarihleri arasında Ankara Prof. Dr. Yaşar Sevim Hentbol Salonu’nda düzenlenen kampta 38 kişilik sporcu grubu çalıştı.",
+  "image": null,
+  "category": "kurs",
+  "tags": [],
+  "published_at": "2026-09-06T19:09:00+00:00",
+  "first_seen_at": "2026-09-06T19:09:00+00:00",
+  "source": "api"
+ },
+ {
+  "id": "f7229338d6bb4d0a",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "3 Eylül 2026 Disiplin Kurulu Kararları",
+  "url": "https://thf.org.tr/haber/3-eylul-2026-disiplin-kurulu-kararlari",
+  "summary": "Türkiye Hentbol Federasyonu Disiplin Kurulu 3 Eylül 2026 tarihinde tüm üyelerinin katılımıyla toplanmış ve toplantıda aşağıdaki kararlar alınmıştır: 1- E.2026/41 30.08.2026 tarihinde Beykoz Belediyesi Spor Kulübü – Göztepe Spor Kulübü arasında oynanan Erkekler Süper Ligi müsabakası sırasında yaşanan seyirci olayları hakkında müsabaka hakemleri ve müsabaka gözlemcisinin raporları, THF TV müsabaka yayım görüntüleri ile olaylara ilişkin sosyal medya paylaşımları incelenmiş olup; müsabakada yaşanan seyirci olaylarına ilişkin olarak, - Beykoz Belediyesi Spor Kulübü ile Göztepe Spor Kulübünün SAVUNM",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "hakem",
+   "musabaka"
+  ],
+  "published_at": "2026-09-06T19:09:00+00:00",
+  "first_seen_at": "2026-09-06T19:09:00+00:00",
+  "source": "api"
+ },
+ {
+  "id": "b68c0f10965d7f6d",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Buharkent’te Saniyelerin Savaşı",
+  "url": "https://www.tosfed.org.tr/buharkentte-saniyelerin-savasi/",
+  "summary": "AVIS 2026 Türkiye Tırmanma Şampiyonası dördüncü ayağı Buharkent Tırmanma Yarışı, Ege Otomobil Spor Kulübü (EOSK) tarafından Aydın’da gerçekleştirildi. Üç çıkış üzerinden koşulan yarış, Kategori 1’de İlker Aktaş, Kategori 2’de Tuna Muhtar, Kategori 3’te Yiğit Sercan Yalçın, Kategori 4’te de Sinan Soylu’nun birincilikleri ile sona erdi. Soylu aynı zamanda 05:18,66 ile en hızlı çıkışı kaydederken, yarışın […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-06T18:58:17+00:00",
+  "first_seen_at": "2026-09-06T19:09:00+00:00",
+  "source": "rss"
+ },
+ {
+  "id": "0a88cb6e7b6eb393",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Zayn’dan Uluslararası Bir Başarı Daha",
+  "url": "https://www.tosfed.org.tr/zayndan-uluslararasi-bir-basari-daha/",
+  "summary": "Bu hafta sonu GK4 Kart Serisi 5.ayağı için Almanya’da Kerpen pistine çıkan Zayn Sofuoğlu, Uluslararası başarılarına bir yenisini daha ekledi. Mini rookie kategorisinde her iki eleme yarışını ve finali kazanan ve ayrıca en hızlı tur ve tur rekorunun da sahibi olan temsilcimizi tebrik ediyor, başarılarının devamını diliyoruz.",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-09-06T18:53:09+00:00",
+  "first_seen_at": "2026-09-06T19:09:00+00:00",
+  "source": "rss"
+ },
+ {
   "id": "b5b80a77bfcba3ce",
   "federation": "ozelsporcular",
   "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
@@ -1978,6 +2060,38 @@
   "source": "html"
  },
  {
+  "id": "843d216aab178132",
+  "federation": "judo",
+  "federation_name": "Türkiye Judo Federasyonu",
+  "federation_short": "TJF",
+  "title": "1, 2 ve 3. Dan Kurs ve Sınavı Bilecik’te Gerçekleştiriliyor",
+  "url": "https://www.judo.org.tr/duyuru/3657",
+  "summary": "1, 2 ve 3. Dan Kurs ve Sınavı Bilecik’te Gerçekleştiriliyor 6/9/2026 22:03 1, 2 ve 3. Dan Kurs ve Sınavı Bilecik’te Gerçekleştiriliyor Federasyonumuzun 2026 yılı faaliyet programında yer alan 1, 2 ve 3. Dan Kurs ve Sınavı, 4-7 Eylül 2026 tarihleri arasında Bilecik’te gerçekleştiriliyor. Toplam 45 kişinin katıldığı organizasyonda judocular, alanında deneyimli eğitimciler eşliğinde teorik ve uygulamalı eğitimlerini sürdürüyor. 1 ve 2. Dan kurslarında; Teknik Kurul Üyesi Kürşad Kambur, Eğitim Kurulu Üyesi Sefa Gül, Bilecik İl Antrenörü Serkan Can görev alıyor. 3. Dan kursunda ise; Eğitim Kurulu Ü",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-09-06T00:00:00+00:00",
+  "first_seen_at": "2026-09-06T19:09:00+00:00",
+  "source": "html"
+ },
+ {
+  "id": "e1ac340445c457a8",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak Avrupa Şampiyonu Filenin Sultanları’nı Kutladı",
+  "url": "https://gsb.gov.tr/tr/haber-detay/302847-bakan-bak-avrupa-sampiyonu-filenin-sultanlarini-kutladi",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/d72b4617-ba3c-4f89-9b11-2e3e36b23882.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-06T00:00:00+00:00",
+  "first_seen_at": "2026-09-06T19:09:00+00:00",
+  "source": "html"
+ },
+ {
   "id": "35505f44d878cafa",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3663,18 +3777,18 @@
   "source": "html"
  },
  {
-  "id": "f341c47a39d0d964",
+  "id": "6a9c94820343e06a",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
   "federation_short": "TİF",
   "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2026",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu",
   "summary": "02 Eyl 18 Ağu BAŞSAĞLIĞI Giresun ili izci liderlerimizden İsmail ŞEYRANLIOĞLU'nun annesi Kezban ŞEYRANLIOĞLU ve ağabeyi Demircan ŞEYRANLIOĞLU, Hakkın Rahmetine kavuşmuşlardır. Merhumeye… 18 Ağustos 2026 17 Ağu Detaylar, duyurumuzun devamında yer almaktadır. 17 Ağustos 2026 17 Ağu BAŞSAĞLIĞI Amasya ili izci liderlerimizden Miyase KILIÇ'ın babası Hakkın Rahmetine kavuşmuştur. Merhuma Allah'tan rahme",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-09-02T00:00:00+00:00",
-  "first_seen_at": "2026-09-06T16:59:47+00:00",
+  "first_seen_at": "2026-09-06T19:09:00+00:00",
   "source": "html"
  },
  {
@@ -5008,118 +5122,5 @@
   "published_at": "2026-08-31T08:11:14+00:00",
   "first_seen_at": "2026-08-31T13:35:58+00:00",
   "source": "wp_json"
- },
- {
-  "id": "9c7753ca0b5bf7ce",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "GENÇLER DÜNYA Muaythai ŞAMPİYONASI",
-  "url": "https://muaythai.gov.tr/2026/08/31/gencler-dunya-muaythai-sampiyonasi-3/",
-  "summary": "GENÇLER DÜNYA MUAYTHAI ŞAMPİYONASI 06–16 KASIM 2026 | ATİNA – YUNANİSTAN Gençler Dünya Muaythai Şampiyonası, 06–16 Kasım 2026",
-  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/08/IMG_1602.jpeg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-31T08:05:16+00:00",
-  "first_seen_at": "2026-08-31T13:35:58+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "c35ead8132a8dc68",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "BAŞSAĞLIĞI",
-  "url": "https://muaythai.gov.tr/2026/08/31/bassagligi-116/",
-  "summary": "Federasyonumuz Kayseri İli Hakemlerimizden Azra Ülkü Yıkılmaz’ın Kardeşi Raşit Yıkılmaz’ın vefatını büyük bir üzüntüyle öğrenmiş bulunmaktayız. Merhuma Yüce",
-  "image": "https://muaythai.gov.tr/wp-content/uploads/2022/07/federasyon-bassagligi.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-31T07:53:57+00:00",
-  "first_seen_at": "2026-08-31T13:35:58+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "ab806b6910279100",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "YEŞİLAY ÇOCUKLAR TÜRKİYE Muaythai ŞAMPİYONASI",
-  "url": "https://muaythai.gov.tr/2026/08/31/yesilay-cocuklar-turkiye-muaythai-sampiyonasi/",
-  "summary": "Şampiyonamız yalnızca sportif müsabakalarla sınırlı kalmadı; çocuklarımız için gerçekleştirilen tarihi İstanbul gezisi, milli tarih ve milli bilinç faaliyetleri",
-  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/06/yesilay-cocuklar-minikler-2026-1.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-31T07:48:27+00:00",
-  "first_seen_at": "2026-08-31T13:35:58+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "0bb2b8012220a9d0",
-  "federation": "badminton",
-  "federation_name": "Türkiye Badminton Federasyonu",
-  "federation_short": "TBF",
-  "title": "Veteranlar Türkiye Badminton Şampiyonası Sona Erdi",
-  "url": "https://www.badminton.org.tr/13513-2/",
-  "summary": "Veteranlar Türkiye Badminton Şampiyonası 26-29 Ağustos 2026 tarihleri arasında Trabzon’da yapıldı. 154 sporcunun katıldığı şampiyonada ödül alan sporcular; 65+ Master / Karışık Çiftler 1-Ali Demirci/Selmin Demirci (Ferdi) 2-Mehmet Yavaş/Latife Başyiğit (Ferdi) 3-Selçuk Öztoprak/Hanife Temuçin (Bursa Uludağ Üniversitesi Spor Kulübü/Ferdi 4-Şamil Pöç/Seniha Yavaş (Ferdi) 65+ Master / Çift Erkekler 1-Halit Olgun/Şamil Pöç (Ostim Spor Kulübü/Ferdi) 2-Nedim […]",
-  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-31-at-09.37.05-5-e1788161641301.jpeg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-31T07:33:16+00:00",
-  "first_seen_at": "2026-08-31T20:00:36+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "566ce8e5c0d8ec30",
-  "federation": "otomobil",
-  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
-  "federation_short": "TOSFED",
-  "title": "Zayn SuperOne Tarihinin En Genç Şampiyonu Oldu",
-  "url": "https://www.tosfed.org.tr/zayn-superone-tarihinin-en-genc-sampiyonu-oldu/",
-  "summary": "Karting sporcumuz Zayn Sofuoğlu, bu hafta sonu İngiltere Shenington’da koşulan Superone serisi 11 ve 12. ayak yarışlarının ardından Micro Max kategorisinde şampiyon olarak büyük bir başarıya imza attı. Bugüne kadar Jenson Button, Lewis Hamilton, George Russel, Alex Albon ve Lando Norris gibi bir çok F1 yıldızının yarıştığı seride şampiyon olan en genç sporcu olan 7 […]",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-31T05:53:28+00:00",
-  "first_seen_at": "2026-08-31T13:35:58+00:00",
-  "source": "rss"
- },
- {
-  "id": "a45f892010b46e58",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "2026 Akdeniz Oyunları (1. Gün)",
-  "url": "https://taf.org.tr/2026-akdeniz-oyunlari-1-gun/",
-  "summary": "2026 Akdeniz Oyunları (1. Gün) 🏃‍♀️🏃‍♂️Taranto 2026 Akdeniz Oyunları’nda atletizm yarışmalarında ilk gün tamamlandı. 🥇🥉İlk gün 4x400m Karışık Bayrak Takımımız altın, 5000m’de ise Şilan Ayyıldız bronz madalya kazandı. Sporcularımızın ilk gün sonuçları şu şekilde: 💫FİNAL 🥇4x400m Karışık Bayrak Takım (Kubilay Ençü & Simay Özçiftçi & İsmail Nezir & Sıla Koloğlu) 3:14.85 🥉Şilan Ayyıldız: 5000m, 15:23.08 […]",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/08/16f3a8cf-099f-4179-8e16-5d9b4e1ed296.jpg",
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-31T05:35:45+00:00",
-  "first_seen_at": "2026-08-31T13:35:58+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "9d10fd9792ccdc8c",
-  "federation": "basketbol",
-  "federation_name": "Türkiye Basketbol Federasyonu",
-  "federation_short": "TBF",
-  "title": "A Kadın Milli Takımımız, Berlin Büyükelçiliğimizin Düzenlediği 30 Ağustos Zafer Bayramı Resepsiyonuna Katıldı 31.08.2026",
-  "url": "https://www.tbf.org.tr/haber/a-kadin-milli-takimimiz-berlin-buyukelciligimizin-duzenledigi-30-agustos-zafer-bayrami-resepsiyonuna-katildi-2026-08-31",
-  "summary": "FIBA 2026 Kadınlar Basketbol Dünya Kupası için Berlin’de bulunan A Kadın Milli Takımımız, Türkiye Cumhuriyeti Berlin Büyükelçiliği tarafından 30 Ağustos Zafer Bayramı dolayısıyla düzenlenen resepsiyona katıldı. Devamını Gör",
-  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/152d1f6c10ab40b99053a8bfee9f7ff5_1kopya.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-31T00:00:00+00:00",
-  "first_seen_at": "2026-09-03T06:00:25+00:00",
-  "source": "html"
  }
 ]

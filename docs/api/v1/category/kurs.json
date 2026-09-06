@@ -1,5 +1,37 @@
 [
  {
+  "id": "e444163110a1a169",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Ankara'daki Teknik Eğitim Kampı Tamamlandı",
+  "url": "https://thf.org.tr/haber/ankaradaki-teknik-egitim-kampi-tamamlandi",
+  "summary": "2010-2011 doğumlu erkek sporculara yönelik Teknik Eğitim Kampı tamamlandı. 30 Ağustos-4 Eylül tarihleri arasında Ankara Prof. Dr. Yaşar Sevim Hentbol Salonu’nda düzenlenen kampta 38 kişilik sporcu grubu çalıştı.",
+  "image": null,
+  "category": "kurs",
+  "tags": [],
+  "published_at": "2026-09-06T19:09:00+00:00",
+  "first_seen_at": "2026-09-06T19:09:00+00:00",
+  "source": "api"
+ },
+ {
+  "id": "843d216aab178132",
+  "federation": "judo",
+  "federation_name": "Türkiye Judo Federasyonu",
+  "federation_short": "TJF",
+  "title": "1, 2 ve 3. Dan Kurs ve Sınavı Bilecik’te Gerçekleştiriliyor",
+  "url": "https://www.judo.org.tr/duyuru/3657",
+  "summary": "1, 2 ve 3. Dan Kurs ve Sınavı Bilecik’te Gerçekleştiriliyor 6/9/2026 22:03 1, 2 ve 3. Dan Kurs ve Sınavı Bilecik’te Gerçekleştiriliyor Federasyonumuzun 2026 yılı faaliyet programında yer alan 1, 2 ve 3. Dan Kurs ve Sınavı, 4-7 Eylül 2026 tarihleri arasında Bilecik’te gerçekleştiriliyor. Toplam 45 kişinin katıldığı organizasyonda judocular, alanında deneyimli eğitimciler eşliğinde teorik ve uygulamalı eğitimlerini sürdürüyor. 1 ve 2. Dan kurslarında; Teknik Kurul Üyesi Kürşad Kambur, Eğitim Kurulu Üyesi Sefa Gül, Bilecik İl Antrenörü Serkan Can görev alıyor. 3. Dan kursunda ise; Eğitim Kurulu Ü",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-09-06T00:00:00+00:00",
+  "first_seen_at": "2026-09-06T19:09:00+00:00",
+  "source": "html"
+ },
+ {
   "id": "bd964f7acb2cc2e5",
   "federation": "badminton",
   "federation_name": "Türkiye Badminton Federasyonu",
@@ -3488,43 +3520,6 @@
    "kulup"
   ],
   "published_at": "2026-07-25T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "00a3d4254d821c88",
-  "federation": "okculuk",
-  "federation_name": "Türkiye Okçuluk Federasyonu",
-  "federation_short": "TOF",
-  "title": "2. Kademe Temel Antrenör Yetiştirme Uygulama Kursu",
-  "url": "https://www.okculuk.org.tr/2-kademe-temel-antrenor-yetistirme-uygulama-kursu/",
-  "summary": "Değerli Antrenörlerimiz ve Antrenör Adaylarımız, 2026 yılı Faaliyet Programımızda bulunan “2. Kademe Temel Antrenör Yetiştirme Uygulama Kursu – 2. Grup”, 01-07 Ağustos 2026 tarihleri arasında Antalya’da yapılacaktır. 2026 Yılı Antrenör Yetiştirme Kurslarımızın aşağıda detayları belirtilmiş olan bir dizi kural ve uygulama eşliğinde düzenlenmesi planlanmaktadır; 1. Kurs katılımı 45 asil ve 5 bütünleme katılımcısı olmak üzere toplamda 50 kişi ile sınırlıdır. Başvurular ve ödeme süreci 25-29 Temmuz 2026 tarihleri […]",
-  "image": "https://www.okculuk.org.tr/wp-content/uploads/2025/01/antrenor_duyurusu-3.webp",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs",
-   "burs"
-  ],
-  "published_at": "2026-07-24T06:34:37+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "8f541165e0fd399b",
-  "federation": "yuzme",
-  "federation_name": "Türkiye Yüzme Federasyonu",
-  "federation_short": "TYF",
-  "title": "3. Kademe Yüzme Antrenörü Yetiştirme Kursu 20-24 Temmuz 2026 Ankara",
-  "url": "https://www.tyf.gov.tr/haber/3-kademe-yuzme-antrenoru-yetistirme-kursu-20-24-temmuz-2026-ankara.html",
-  "summary": "BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
-  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-07/1472/1783462709_y.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-07-24T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

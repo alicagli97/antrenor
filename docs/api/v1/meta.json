@@ -1,14 +1,15 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-06T21:26:42+00:00",
+ "generated_at": "2026-09-06T23:50:32+00:00",
  "total": 5783,
- "new_in_last_run": 8,
- "sources_ok": 63,
+ "new_in_last_run": 5,
+ "sources_ok": 65,
  "sources_failed": [
-  "basketbol",
-  "paralimpik"
+  "basketbol"
  ],
- "sources_empty": [],
+ "sources_empty": [
+  "bric"
+ ],
  "sources_missing": [],
  "partial_run": null,
  "latest_published_at": "2026-09-06T20:28:15+00:00",

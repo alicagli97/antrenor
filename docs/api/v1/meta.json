@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-05T23:50:05+00:00",
- "total": 5539,
+ "generated_at": "2026-09-06T04:28:11+00:00",
+ "total": 5540,
  "new_in_last_run": 6,
  "sources_ok": 64,
  "sources_failed": [
@@ -10,12 +10,12 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-05T23:50:05+00:00",
+ "latest_published_at": "2026-09-06T04:28:11+00:00",
  "categories": {
+  "duyuru": 1092,
   "musabaka": 424,
   "kurs": 304,
   "takvim": 95,
-  "duyuru": 1091,
   "mevzuat": 3564,
   "haber": 61
  },
@@ -27,7 +27,7 @@
   }
  ],
  "federation_counts": {
-  "futbol": 133,
+  "futbol": 134,
   "badminton": 199,
   "eskrim": 140,
   "bisiklet": 54,

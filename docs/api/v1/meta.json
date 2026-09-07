@@ -1,18 +1,20 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-07T04:26:38+00:00",
- "total": 5783,
- "new_in_last_run": 5,
+ "generated_at": "2026-09-07T06:00:23+00:00",
+ "total": 5784,
+ "new_in_last_run": 1,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-09-06T20:28:15+00:00",
  "categories": {
-  "duyuru": 1100,
+  "duyuru": 1101,
   "musabaka": 426,
   "kurs": 306,
   "haber": 63,
@@ -57,6 +59,7 @@
   "atletizm": 78,
   "gures": 69,
   "boks": 49,
+  "basketbol": 58,
   "judo": 48,
   "badminton": 199,
   "sualti": 51,
@@ -66,7 +69,6 @@
   "tenis": 31,
   "kaykay": 11,
   "karate": 17,
-  "basketbol": 57,
   "gelenekselsporlar": 46,
   "masatenisi": 49,
   "shgm": 47,

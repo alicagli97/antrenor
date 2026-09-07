@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-07T11:00:23+00:00",
- "total": 5995,
- "new_in_last_run": 0,
+ "generated_at": "2026-09-07T16:00:20+00:00",
+ "total": 5997,
+ "new_in_last_run": 2,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -14,10 +14,10 @@
  ],
  "latest_published_at": "2026-09-07T10:13:27+00:00",
  "categories": {
-  "duyuru": 1095,
+  "duyuru": 1096,
   "haber": 66,
   "mevzuat": 4018,
-  "kurs": 305,
+  "kurs": 306,
   "musabaka": 416,
   "takvim": 95
  },
@@ -57,11 +57,11 @@
   "gures": 72,
   "voleybol": 123,
   "boks": 41,
+  "basketbol": 60,
   "gelenekselsporlar": 47,
   "otomobil": 58,
   "taekwondo": 29,
   "eskrim": 146,
-  "basketbol": 58,
   "judo": 48,
   "badminton": 199,
   "sualti": 51,

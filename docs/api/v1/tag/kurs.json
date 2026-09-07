@@ -1,5 +1,43 @@
 [
  {
+  "id": "c7c8dd127bba5aba",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Antrenör Üst Düzey Vize/Gelişim Semineri Hakkında Duyuru",
+  "url": "https://tvf.org.tr/icerik/antrenor-ust-duzey-vizegelisim-semineri-hakkinda-duyuru",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "vize"
+  ],
+  "published_at": "2026-09-07T16:26:43+00:00",
+  "first_seen_at": "2026-09-07T16:26:43+00:00",
+  "source": "html"
+ },
+ {
+  "id": "fb00c7b58e46e890",
+  "federation": "dagcilik",
+  "federation_name": "Türkiye Dağcılık Federasyonu",
+  "federation_short": "TDF",
+  "title": "Spor Tırmanış 3. Kademe Antrenör Yetiştirme Kursu – Çanakkale Katılımcı Listesi",
+  "url": "https://tdf.tr/spor-tirmanis-3-kademe-antrenor-yetistirme-kursu-canakkale-basvurulari-copy/",
+  "summary": "12 – 20 Eylül 2026 tarihleri arasında Çanakkale’de gerçekleştirilecek olan Spor Tırmanış 3. Kademe Antrenör Yetiştirme Kursu, katılımcı listesi açıklanmıştır. Katılımcı Listesi Genel Bilgiler Kurs Tarihi: 12 – 20 Eylül 2026 / Çanakkale Kurs Yeri: Güzelyalı Milli Takımlar Kamp Eğitim Merkezi / Çanakkale Kurs Ücreti: 4.850 TL Ön Kayıt Başlangıç: 25 Ağustos 2026, Saat 10:00 […]",
+  "image": "https://tdf.tr/wp-content/uploads/2026/07/Spor_Tirmanis_Lider-Milli_Takim_Kampi-INVENTIST-17.07.2026-65-scaled.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "milli_takim"
+  ],
+  "published_at": "2026-09-07T13:30:46+00:00",
+  "first_seen_at": "2026-09-07T16:26:43+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "382acee4085c9d38",
   "federation": "oryantiring",
   "federation_name": "Türkiye Oryantiring Federasyonu",
@@ -34,6 +72,24 @@
   "published_at": "2026-09-07T10:13:27+00:00",
   "first_seen_at": "2026-09-07T10:13:27+00:00",
   "source": "headings"
+ },
+ {
+  "id": "0be4a28393535682",
+  "federation": "dagcilik",
+  "federation_name": "Türkiye Dağcılık Federasyonu",
+  "federation_short": "TDF",
+  "title": "Yaz Yürüyüş Liderliği Kursu – İstanbul Katılımcı Listesi",
+  "url": "https://tdf.tr/kis-yuruyus-liderligi-kursu-4-2-copy/",
+  "summary": "14-20 Eylül 2026 tarihleri arasında İstanbul ilinde gerçekleştirilecek olan Yaz Yürüyüş Liderliği Kursu, katılımcı listesi açıklanmıştır. Katılımcı Listesi 📅 Kurs Bilgileri Kurs Tarihi: 14-20 Eylül 2026 Son Başvuru: 07 Eylül 2026 | Saat: 07:00 Kontenjan : 30 Kişi Kurs Ücreti: 4000 TL İletişim: BÜLENT AKSU (İl Temsilcisi) / 0532 609 28 97 📝 Başvuru İçin […]",
+  "image": "https://tdf.tr/wp-content/uploads/2025/08/Ekran-Resmi-2025-08-23-01.50.24.png",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "burs"
+  ],
+  "published_at": "2026-09-07T10:00:55+00:00",
+  "first_seen_at": "2026-09-07T16:26:43+00:00",
+  "source": "wp_json"
  },
  {
   "id": "4ccd8a24d07f7849",
@@ -3550,60 +3606,5 @@
   "published_at": "2026-04-27T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
- },
- {
-  "id": "77caf2a8f5796e2a",
-  "federation": "judo",
-  "federation_name": "Türkiye Judo Federasyonu",
-  "federation_short": "TJF",
-  "title": "Siyah Kuşak 1. ve 2. Dan Kursu Adana’da Tamamlandı",
-  "url": "https://www.judo.org.tr/duyuru/3507",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs"
-  ],
-  "published_at": "2026-04-27T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "28499116ae3f56a3",
-  "federation": "curling",
-  "federation_name": "Türkiye Curling Federasyonu",
-  "federation_short": "TCF",
-  "title": "Floor Curling Aday Hakem Kursu - Afyonkarahisar...",
-  "url": "http://curling.gov.tr/detaymobil/873/haber/",
-  "summary": "Haber Floor Curling Aday Hakem Kursu 16 - 17 Mayıs 2026 tarihlerinde Afyonkarahisar ilinde yapılacaktır. Kursiyerler istenen evrakları kursun yapıldığı yerde kurs yöneticisine teslim edecektir. Son başvuru : 15 Mayıs 2026 Hakem olma şartları için tıklayınız... Başvuru formu için tıklayınız... Kontenjan tamamlandı. Hakem dilekçesi için tıklayınız...",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem",
-   "burs"
-  ],
-  "published_at": "2026-04-25T17:18:08+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "rss"
- },
- {
-  "id": "d083f0a9c4dbed80",
-  "federation": "curling",
-  "federation_name": "Türkiye Curling Federasyonu",
-  "federation_short": "TCF",
-  "title": "Floor Curling Aday Hakem Kursu - Erzurum...",
-  "url": "http://curling.gov.tr/detaymobil/872/haber/",
-  "summary": "Haber Floor Curling Aday Hakem Kursu 09 - 10 Mayıs 2026 tarihlerinde Erzurum ilinde yapılacaktır. Kursiyerler istenen evrakları kursun yapıldığı yerde kurs yöneticisine teslim edecektir. Hakem olma şartları için tıklayınız... Başvuru formu için tıklayınız... Hakem dilekçesi için tıklayınız...",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem",
-   "burs"
-  ],
-  "published_at": "2026-04-25T17:16:37+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "rss"
  }
 ]

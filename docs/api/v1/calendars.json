@@ -1,9 +1,11 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-07T10:11:54+00:00",
+ "generated_at": "2026-09-07T16:24:56+00:00",
  "total_calendars": 37,
- "total_events": 1416,
- "changed_in_last_run": [],
+ "total_events": 1430,
+ "changed_in_last_run": [
+  "voleybol"
+ ],
  "calendars": [
   {
    "federation": "aticilik",
@@ -648,7 +650,7 @@
      "satir": "Kurs | 3. Kademe Kıdemli Antrenörlük Kursu | Havalı - Ateşli Silahlar | Muhtelif | İstanbul | İncele"
     }
    ],
-   "checked_at": "2026-09-07T10:10:06",
+   "checked_at": "2026-09-07T16:24:44",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:48+00:00",
    "parmak_izi": "f9d84e84ef19aa85"
@@ -1992,7 +1994,7 @@
      "satir": "26 - 27 Aralık Selahattin Yıldız Salon Kupası B-U20-U18 İstanbul Ulusal"
     }
    ],
-   "checked_at": "2026-09-07T10:10:04",
+   "checked_at": "2026-09-07T16:24:42",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "624a00b978c244a7"
@@ -2022,7 +2024,7 @@
    "fingerprint": "1fa76ad529605d0a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:13",
+   "checked_at": "2026-09-07T16:24:51",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "1fa76ad529605d0a"
@@ -2366,7 +2368,7 @@
      "satir": "Türkiye Beyzbol Şampiyonası 11-12-13 Nisan ... Devamı"
     }
    ],
-   "checked_at": "2026-09-07T10:10:13",
+   "checked_at": "2026-09-07T16:24:52",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "c26505c98fc488ff"
@@ -2381,7 +2383,7 @@
    "fingerprint": "fe114d25ab165377",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:09",
+   "checked_at": "2026-09-07T16:24:48",
    "bekleyen_iz": null,
    "changed_at": "2026-09-01T04:57:13+00:00",
    "parmak_izi": "fe114d25ab165377"
@@ -2517,7 +2519,7 @@
      "satir": "ALTAN KIRAÇ KIŞ LİGİ 1. AYAK E.A YARIŞMALARI | DİLA ATLI SPOR KULÜBÜ | İSTANBUL | 24.10.2026 | 25.10.2026"
     }
    ],
-   "checked_at": "2026-09-07T10:10:05",
+   "checked_at": "2026-09-07T16:24:43",
    "bekleyen_iz": null,
    "changed_at": "2026-08-21T07:52:39+00:00",
    "parmak_izi": "a11b81a89a27a845"
@@ -3893,7 +3895,7 @@
      "satir": "11.12.2026 12.12.2026 TRACK CYCLİNG CHALLENGE İSVİÇRE CLASS 1 Milli"
     }
    ],
-   "checked_at": "2026-09-07T10:10:10",
+   "checked_at": "2026-09-07T16:24:56",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:11:18+00:00",
    "parmak_izi": "80f1546bef10a704"
@@ -4477,7 +4479,7 @@
      "satir": "5 IDF Avrupa Elektronik Dart Şampiyonası 30 Mayıs – 5 Haziran 2026 Samorin- Slovakya"
     }
    ],
-   "checked_at": "2026-09-07T10:10:12",
+   "checked_at": "2026-09-07T16:24:50",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "93a315b3298387eb"
@@ -4709,7 +4711,7 @@
      "satir": "TÜRKİYE BUZ PATENİ FEDERASYONU SEZON İÇERİSİNDE GEREKLİ GÖRDÜĞÜ TAKDİRDE TÜM FAALYETLERDE DEĞİŞİKLİK YAPMA HAKKINA SAHİPTİR."
     }
    ],
-   "checked_at": "2026-09-07T10:10:09",
+   "checked_at": "2026-09-07T16:24:48",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:50+00:00",
    "parmak_izi": "1d2baef718486665"
@@ -4722,8 +4724,72 @@
    "type": "html",
    "label": "Tüm Faaliyetleri Gör",
    "fingerprint": "9b450a4c0631cad2",
-   "event_count": 345,
+   "event_count": 353,
    "events": [
+    {
+     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+     "tarih": "2026-09-20",
+     "tarih_metni": "2026.09.25 20.09.2026 - 25.09.2026",
+     "yer": "İstanbul",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | İstanbul | 2026.09.25 20.09.2026 - 25.09.2026 | İncele"
+    },
+    {
+     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+     "tarih": "2026-09-21",
+     "tarih_metni": "2026.09.26 21.09.2026 - 26.09.2026",
+     "yer": "İstanbul",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | İstanbul | 2026.09.26 21.09.2026 - 26.09.2026 | İncele"
+    },
+    {
+     "ad": "2026.09.26 21.09.2026 - 26.09.2026",
+     "tarih": "2026-09-21",
+     "tarih_metni": "2026.09.26 21.09.2026 - 26.09.2026",
+     "yer": "Bolu",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | Bolu | 2026.09.26 21.09.2026 - 26.09.2026 | İncele"
+    },
+    {
+     "ad": "2026.09.26 21.09.2026 - 26.09.2026",
+     "tarih": "2026-09-21",
+     "tarih_metni": "2026.09.26 21.09.2026 - 26.09.2026",
+     "yer": "İzmir",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | İzmir | 2026.09.26 21.09.2026 - 26.09.2026 | İncele"
+    },
+    {
+     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+     "tarih": "2026-09-21",
+     "tarih_metni": "2026.09.26 21.09.2026 - 26.09.2026",
+     "yer": "Ankara",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.09.26 21.09.2026 - 26.09.2026 | İncele"
+    },
+    {
+     "ad": "1. Kademe Yardımcı Antrenörlük Kursu",
+     "tarih": "2026-09-21",
+     "tarih_metni": "2026.09.26 21.09.2026 - 26.09.2026",
+     "yer": "Ankara",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 1. Kademe Yardımcı Antrenörlük Kursu | Erkek Artistik Cimnastik | Ankara | 2026.09.26 21.09.2026 - 26.09.2026 | İncele"
+    },
+    {
+     "ad": "2026.09.26 21.09.2026 - 26.09.2026",
+     "tarih": "2026-09-21",
+     "tarih_metni": "2026.09.26 21.09.2026 - 26.09.2026",
+     "yer": "Antalya",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | Antalya | 2026.09.26 21.09.2026 - 26.09.2026 | İncele"
+    },
+    {
+     "ad": "2026.09.25 20.09.2026 - 25.09.2026",
+     "tarih": "2026-09-20",
+     "tarih_metni": "2026.09.25 20.09.2026 - 25.09.2026",
+     "yer": "İstanbul",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | İstanbul | 2026.09.25 20.09.2026 - 25.09.2026 | İncele"
+    },
     {
      "ad": "Genel Cimnastik Hareket Eğitimi Gelişim Semineri",
      "tarih": "2026-09-12",
@@ -7485,8 +7551,8 @@
      "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
     }
    ],
-   "checked_at": "2026-09-07T10:10:06",
-   "bekleyen_iz": "59c1a81265f634a4",
+   "checked_at": "2026-09-07T16:24:45",
+   "bekleyen_iz": "d62fe772fbd05c8d",
    "changed_at": "2026-09-03T18:33:34+00:00",
    "parmak_izi": "9b450a4c0631cad2"
   },
@@ -7964,7 +8030,7 @@
    "fingerprint": "418c36a9944864a6",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:06",
+   "checked_at": "2026-09-07T16:24:44",
    "bekleyen_iz": null,
    "changed_at": "2026-09-05T15:59:24+00:00",
    "parmak_izi": "418c36a9944864a6"
@@ -8060,7 +8126,7 @@
      "satir": "10 | 11.10.2026 | KAŞ BELEDİYESİ YAĞLI GÜREŞLERİ | KAŞ/ANTALYA"
     }
    ],
-   "checked_at": "2026-09-07T10:10:16",
+   "checked_at": "2026-09-07T16:24:54",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "ad6c280638ad2ad0"
@@ -8075,7 +8141,7 @@
    "fingerprint": "2f6d16d8aa8d5817",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:15",
+   "checked_at": "2026-09-07T16:24:54",
    "bekleyen_iz": null,
    "changed_at": "2026-09-04T14:15:45+00:00",
    "parmak_izi": "2f6d16d8aa8d5817"
@@ -8411,7 +8477,7 @@
      "satir": "24-25 Ekim 2026 Hava Modelciliği F3P Büyükler/Gençler/Kadınlar F3P RC Model Uçak 2. Etap Ankara Ulusal"
     }
    ],
-   "checked_at": "2026-09-07T10:10:15",
+   "checked_at": "2026-09-07T16:24:55",
    "bekleyen_iz": null,
    "changed_at": "2026-09-04T23:57:57+00:00",
    "parmak_izi": "066ebfa88387bfaa"
@@ -8971,7 +9037,7 @@
      "satir": "49 28-31 AĞUSTOS 2025 AÇIK ALAN U14 TÜRKİYE ŞAMPİYONASI MUHTELİF"
     }
    ],
-   "checked_at": "2026-09-07T10:10:13",
+   "checked_at": "2026-09-07T16:24:52",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "03072fe7da5a8ac4"
@@ -8986,7 +9052,7 @@
    "fingerprint": "89f0b209e82ac623",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:02",
+   "checked_at": "2026-09-07T16:24:40",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "89f0b209e82ac623"
@@ -9770,7 +9836,7 @@
      "satir": "120 Rafting Nehir Rehberlik Vize 2027 Vizesi Seminer 19 Aralık 20 Aralık Muhtelif"
     }
    ],
-   "checked_at": "2026-09-07T10:10:08",
+   "checked_at": "2026-09-07T16:24:46",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:50+00:00",
    "parmak_izi": "06888a70817751cc"
@@ -9785,7 +9851,7 @@
    "fingerprint": "e1280d8316fdf1be",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:02",
+   "checked_at": "2026-09-07T16:24:41",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "e1280d8316fdf1be"
@@ -10113,7 +10179,7 @@
      "satir": "114 TEKERLEKLİ PATEN KAMP MİLLİ TAKIM KAMPI 15-25 ARALIK 2026 TÜM KATEGORİLER"
     }
    ],
-   "checked_at": "2026-09-07T10:10:16",
+   "checked_at": "2026-09-07T16:24:55",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:54+00:00",
    "parmak_izi": "f125ba37d779c765"
@@ -10128,7 +10194,7 @@
    "fingerprint": "452099067d979d4f",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:07",
+   "checked_at": "2026-09-07T16:24:45",
    "bekleyen_iz": null,
    "changed_at": "2026-08-22T14:03:50+00:00",
    "parmak_izi": "452099067d979d4f"
@@ -10143,8 +10209,8 @@
    "fingerprint": "224218c00ca6bdad",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:04",
-   "bekleyen_iz": null,
+   "checked_at": "2026-09-07T16:24:45",
+   "bekleyen_iz": "396588e05ad4f070",
    "changed_at": "2026-09-04T18:19:10+00:00",
    "parmak_izi": "224218c00ca6bdad"
   },
@@ -10158,7 +10224,7 @@
    "fingerprint": "d759d0342954b53a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:10",
+   "checked_at": "2026-09-07T16:24:49",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "d759d0342954b53a"
@@ -10366,7 +10432,7 @@
      "satir": "Güncelleme Tarihi: 31.07.2026v7"
     }
    ],
-   "checked_at": "2026-09-07T10:10:11",
+   "checked_at": "2026-09-07T16:24:48",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "e1a36bd06e3f7e25"
@@ -10381,8 +10447,8 @@
    "fingerprint": "40117a8a8094bf43",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:10",
-   "bekleyen_iz": "4f46fdd56eb60da3",
+   "checked_at": "2026-09-07T16:24:48",
+   "bekleyen_iz": "7cfe50bb2a73da58",
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "40117a8a8094bf43"
   },
@@ -10396,7 +10462,7 @@
    "fingerprint": "209443816a76df0f",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:14",
+   "checked_at": "2026-09-07T16:24:53",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "209443816a76df0f"
@@ -10411,7 +10477,7 @@
    "fingerprint": "e9067565d4defce4",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:09",
+   "checked_at": "2026-09-07T16:24:48",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:50+00:00",
    "parmak_izi": "e9067565d4defce4"
@@ -10699,7 +10765,7 @@
      "satir": "ULUSAL | SUALTI RAGBİSİ | YARIŞMA | SUALTI RAGBİSİ BÜYÜKLER (ELİTLER) TÜRKİYE ŞAMPİYONASI VE MİLLİ TAKIM SEÇMELERİ | MANİSA | 18-20 EYLÜL 2026"
     }
    ],
-   "checked_at": "2026-09-07T10:10:11",
+   "checked_at": "2026-09-07T16:24:51",
    "bekleyen_iz": null,
    "changed_at": "2026-08-21T15:43:55+00:00",
    "parmak_izi": "29f623280b19351c"
@@ -11235,7 +11301,7 @@
      "satir": "14 Aralık Tenis Ligi Final"
     }
    ],
-   "checked_at": "2026-09-07T10:10:03",
+   "checked_at": "2026-09-07T16:24:41",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:48+00:00",
    "parmak_izi": "ef844991598654f2"
@@ -11250,8 +11316,8 @@
    "fingerprint": "18334f9d591920c1",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:08",
-   "bekleyen_iz": "503df37c8465db3f",
+   "checked_at": "2026-09-07T16:24:46",
+   "bekleyen_iz": "949889ab729b2af5",
    "changed_at": "2026-08-25T01:47:19+00:00",
    "parmak_izi": "18334f9d591920c1"
   },
@@ -11262,13 +11328,13 @@
    "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
    "type": "excel",
    "label": "İndir",
-   "fingerprint": "66c7e872a99ab450",
+   "fingerprint": "9b5b43db101cf574",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:02",
-   "bekleyen_iz": "9b5b43db101cf574",
-   "changed_at": "2026-09-02T14:22:37+00:00",
-   "parmak_izi": "66c7e872a99ab450"
+   "checked_at": "2026-09-07T16:24:40",
+   "bekleyen_iz": null,
+   "changed_at": "2026-09-07T16:24:40+00:00",
+   "parmak_izi": "9b5b43db101cf574"
   },
   {
    "federation": "vucutgelistirme",
@@ -11361,7 +11427,7 @@
      "satir": "2023 | 27 EYLÜL- 1 EKİM 2023 TÜRKİYE VÜCUT GELİŞTİRME VE FİTNESS ŞAMPİYONASI DÜNYA ŞAMPİYONASI MİLLİ TAKIM SEÇMELERİ YARIŞMA SONUÇLARI | Vücut Geliştirme | - | 01.01.2023 - 01.01.2023 | İncele"
     }
    ],
-   "checked_at": "2026-09-07T10:10:11",
+   "checked_at": "2026-09-07T16:24:50",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "cdbca2cf3c839dbe"
@@ -11376,8 +11442,8 @@
    "fingerprint": "17e920173ffa0b29",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-07T10:10:12",
-   "bekleyen_iz": null,
+   "checked_at": "2026-09-07T16:24:50",
+   "bekleyen_iz": "17c8b8f0371d4108",
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "17e920173ffa0b29"
   },
@@ -11385,183 +11451,231 @@
    "federation": "yelken",
    "federation_name": "Türkiye Yelken Federasyonu",
    "federation_short": "TYF",
-   "url": "https://www.tyf.org.tr/faaliyet/detay/281579",
+   "url": "https://www.tyf.org.tr/faaliyet/detay/285491",
    "type": "html",
-   "label": "4. AYAK MERSİN OPTİMİST YARIŞLARI",
+   "label": "2026 TYF Para Yelken Türkiye Şampiyonası",
    "fingerprint": "b76b0070a88cf7ee",
-   "event_count": 21,
+   "event_count": 27,
    "events": [
     {
-     "ad": "LİG SONU ÖDÜL FORMU",
-     "tarih": "2025-09-21",
-     "tarih_metni": "21.09.2025 16:05",
-     "yer": "LİG SONU ÖDÜL FORMU",
+     "ad": "ÖDÜL FORMU",
+     "tarih": "2026-05-20",
+     "tarih_metni": "20.05.2026 16:10",
+     "yer": "ÖDÜL FORMU",
      "brans": "",
-     "satir": "1 | 21.09.2025 16:05 | LİG SONU ÖDÜL FORMU"
-    },
-    {
-     "ad": "4.AYAK ÖDÜL FORMU",
-     "tarih": "2025-09-21",
-     "tarih_metni": "21.09.2025 16:05",
-     "yer": "4.AYAK ÖDÜL FORMU",
-     "brans": "",
-     "satir": "2 | 21.09.2025 16:05 | 4.AYAK ÖDÜL FORMU"
-    },
-    {
-     "ad": "OPTİMİST JUNIOR KESİN SONUÇLAR",
-     "tarih": "2025-09-21",
-     "tarih_metni": "21.09.2025 16:05",
-     "yer": "OPTİMİST JUNIOR KESİN SONUÇLAR",
-     "brans": "",
-     "satir": "3 | 21.09.2025 16:05 | OPTİMİST JUNIOR KESİN SONUÇLAR"
-    },
-    {
-     "ad": "OPTİMİST KESİN SONUÇLAR",
-     "tarih": "2025-09-21",
-     "tarih_metni": "21.09.2025 16:05",
-     "yer": "OPTİMİST KESİN SONUÇLAR",
-     "brans": "",
-     "satir": "4 | 21.09.2025 16:05 | OPTİMİST KESİN SONUÇLAR"
+     "satir": "1 | 20.05.2026 16:10 | ÖDÜL FORMU"
     },
     {
      "ad": "PROTESTO ZAMAN LİMİTİ",
-     "tarih": "2025-09-21",
-     "tarih_metni": "21.09.2025 14:51",
+     "tarih": "2026-05-20",
+     "tarih_metni": "20.05.2026 15:56",
      "yer": "PROTESTO ZAMAN LİMİTİ",
      "brans": "",
-     "satir": "5 | 21.09.2025 14:51 | PROTESTO ZAMAN LİMİTİ"
+     "satir": "2 | 20.05.2026 15:56 | PROTESTO ZAMAN LİMİTİ"
     },
     {
-     "ad": "HAVA DURUMU",
-     "tarih": "2025-09-21",
-     "tarih_metni": "21.09.2025 09:40",
-     "yer": "HAVA DURUMU",
+     "ad": "(20.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ",
+     "tarih": "2026-05-20",
+     "tarih_metni": "20.05.2026 07:30",
+     "yer": "(20.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ",
      "brans": "",
-     "satir": "6 | 21.09.2025 09:40 | HAVA DURUMU"
+     "satir": "3 | 20.05.2026 07:30 | (20.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ"
     },
     {
-     "ad": "PROTESTO DURUŞMA ÇİZELGESİ",
-     "tarih": "2025-09-20",
-     "tarih_metni": "20.09.2025 16:42",
-     "yer": "PROTESTO DURUŞMA ÇİZELGESİ",
+     "ad": "(20.05.2026) HANSA 303 KADIN SPORCU LİSTESİ",
+     "tarih": "2026-05-20",
+     "tarih_metni": "20.05.2026 07:30",
+     "yer": "(20.05.2026) HANSA 303 KADIN SPORCU LİSTESİ",
      "brans": "",
-     "satir": "7 | 20.09.2025 16:42 | PROTESTO DURUŞMA ÇİZELGESİ"
+     "satir": "4 | 20.05.2026 07:30 | (20.05.2026) HANSA 303 KADIN SPORCU LİSTESİ"
     },
     {
-     "ad": "EK YARIŞ TALİMATI v-3.",
-     "tarih": "2025-09-20",
-     "tarih_metni": "20.09.2025 16:33",
-     "yer": "EK YARIŞ TALİMATI v-3.",
+     "ad": "HAVA DURUMU (20.05.2026)",
+     "tarih": "2026-05-20",
+     "tarih_metni": "20.05.2026 07:30",
+     "yer": "HAVA DURUMU (20.05.2026)",
      "brans": "",
-     "satir": "8 | 20.09.2025 16:33 | EK YARIŞ TALİMATI v-3."
+     "satir": "5 | 20.05.2026 07:30 | HAVA DURUMU (20.05.2026)"
+    },
+    {
+     "ad": "Ek Yarış Talimatı V.4",
+     "tarih": "2026-05-19",
+     "tarih_metni": "19.05.2026 18:15",
+     "yer": "Ek Yarış Talimatı V.4",
+     "brans": "",
+     "satir": "6 | 19.05.2026 18:15 | Ek Yarış Talimatı V.4"
     },
     {
      "ad": "PROTESTO ZAMAN LİMİTİ",
-     "tarih": "2025-09-20",
-     "tarih_metni": "20.09.2025 15:30",
+     "tarih": "2026-05-19",
+     "tarih_metni": "19.05.2026 17:03",
      "yer": "PROTESTO ZAMAN LİMİTİ",
      "brans": "",
-     "satir": "9 | 20.09.2025 15:30 | PROTESTO ZAMAN LİMİTİ"
+     "satir": "7 | 19.05.2026 17:03 | PROTESTO ZAMAN LİMİTİ"
     },
     {
-     "ad": "HAVA DURUMU",
-     "tarih": "2025-09-20",
-     "tarih_metni": "20.09.2025 10:35",
-     "yer": "HAVA DURUMU",
+     "ad": "(19.05.2026) HANSA 303 KADIN SPORCU LİSTESİ",
+     "tarih": "2026-05-19",
+     "tarih_metni": "19.05.2026 11:04",
+     "yer": "(19.05.2026) HANSA 303 KADIN SPORCU LİSTESİ",
      "brans": "",
-     "satir": "10 | 20.09.2025 10:35 | HAVA DURUMU"
+     "satir": "8 | 19.05.2026 11:04 | (19.05.2026) HANSA 303 KADIN SPORCU LİSTESİ"
     },
     {
-     "ad": "EK YARIŞ TALİMATI v-2",
-     "tarih": "2025-09-19",
-     "tarih_metni": "19.09.2025 16:56",
-     "yer": "EK YARIŞ TALİMATI v-2",
+     "ad": "(19.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ",
+     "tarih": "2026-05-19",
+     "tarih_metni": "19.05.2026 11:04",
+     "yer": "(19.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ",
      "brans": "",
-     "satir": "11 | 19.09.2025 16:56 | EK YARIŞ TALİMATI v-2"
+     "satir": "9 | 19.05.2026 11:04 | (19.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ"
+    },
+    {
+     "ad": "HAVA DURUMU (19.05.2026)",
+     "tarih": "2026-05-19",
+     "tarih_metni": "19.05.2026 08:36",
+     "yer": "HAVA DURUMU (19.05.2026)",
+     "brans": "",
+     "satir": "10 | 19.05.2026 08:36 | HAVA DURUMU (19.05.2026)"
+    },
+    {
+     "ad": "Ek Yarış Talimatı V.3",
+     "tarih": "2026-05-18",
+     "tarih_metni": "18.05.2026 17:41",
+     "yer": "Ek Yarış Talimatı V.3",
+     "brans": "",
+     "satir": "11 | 18.05.2026 17:41 | Ek Yarış Talimatı V.3"
     },
     {
      "ad": "PROTESTO ZAMAN LİMİTİ",
-     "tarih": "2025-09-19",
-     "tarih_metni": "19.09.2025 15:40",
+     "tarih": "2026-05-18",
+     "tarih_metni": "18.05.2026 16:52",
      "yer": "PROTESTO ZAMAN LİMİTİ",
      "brans": "",
-     "satir": "12 | 19.09.2025 15:40 | PROTESTO ZAMAN LİMİTİ"
+     "satir": "12 | 18.05.2026 16:52 | PROTESTO ZAMAN LİMİTİ"
     },
     {
-     "ad": "OCS-UFD-BFD BİLDİRİMLERİ",
-     "tarih": "2025-09-19",
-     "tarih_metni": "19.09.2025 15:04",
-     "yer": "OCS-UFD-BFD BİLDİRİMLERİ",
+     "ad": "(18.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ",
+     "tarih": "2026-05-18",
+     "tarih_metni": "18.05.2026 10:45",
+     "yer": "(18.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ",
      "brans": "",
-     "satir": "13 | 19.09.2025 15:04 | OCS-UFD-BFD BİLDİRİMLERİ"
+     "satir": "13 | 18.05.2026 10:45 | (18.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ"
     },
     {
-     "ad": "HAVA DURUMU",
-     "tarih": "2025-09-19",
-     "tarih_metni": "19.09.2025 10:12",
-     "yer": "HAVA DURUMU",
+     "ad": "(18.05.2026) HANSA 303 KADIN SPORCU LİSTESİ",
+     "tarih": "2026-05-18",
+     "tarih_metni": "18.05.2026 10:45",
+     "yer": "(18.05.2026) HANSA 303 KADIN SPORCU LİSTESİ",
      "brans": "",
-     "satir": "14 | 19.09.2025 10:12 | HAVA DURUMU"
+     "satir": "14 | 18.05.2026 10:45 | (18.05.2026) HANSA 303 KADIN SPORCU LİSTESİ"
     },
     {
-     "ad": "EK YARIŞ TALİMATI 1",
-     "tarih": "2025-09-18",
-     "tarih_metni": "18.09.2025 17:16",
-     "yer": "EK YARIŞ TALİMATI 1",
+     "ad": "HAVA DURUMU (18.05.2026)",
+     "tarih": "2026-05-18",
+     "tarih_metni": "18.05.2026 08:30",
+     "yer": "HAVA DURUMU (18.05.2026)",
      "brans": "",
-     "satir": "15 | 18.09.2025 17:16 | EK YARIŞ TALİMATI 1"
+     "satir": "15 | 18.05.2026 08:30 | HAVA DURUMU (18.05.2026)"
     },
     {
-     "ad": "EK-A ROTA KARTI",
-     "tarih": "2025-09-18",
-     "tarih_metni": "18.09.2025 17:15",
-     "yer": "EK-A ROTA KARTI",
+     "ad": "Ek Yarış Talimatı V.2",
+     "tarih": "2026-05-17",
+     "tarih_metni": "17.05.2026 16:55",
+     "yer": "Ek Yarış Talimatı V.2",
      "brans": "",
-     "satir": "16 | 18.09.2025 17:15 | EK-A ROTA KARTI"
+     "satir": "16 | 17.05.2026 16:55 | Ek Yarış Talimatı V.2"
     },
     {
-     "ad": "OPTİMİST SPORCU LİSTESİ",
-     "tarih": "2025-09-18",
-     "tarih_metni": "18.09.2025 17:10",
-     "yer": "OPTİMİST SPORCU LİSTESİ",
+     "ad": "PROTESTO ZAMAN LİMİTİ",
+     "tarih": "2026-05-17",
+     "tarih_metni": "17.05.2026 16:19",
+     "yer": "PROTESTO ZAMAN LİMİTİ",
      "brans": "",
-     "satir": "17 | 18.09.2025 17:10 | OPTİMİST SPORCU LİSTESİ"
+     "satir": "17 | 17.05.2026 16:19 | PROTESTO ZAMAN LİMİTİ"
     },
     {
-     "ad": "OPTİMİST JUNIOR SPORCU LİSTESİ",
-     "tarih": "2025-09-18",
-     "tarih_metni": "18.09.2025 17:10",
-     "yer": "OPTİMİST JUNIOR SPORCU LİSTESİ",
+     "ad": "(17.05.2026) HANSA 303 KADIN SPORCU LİSTESİ",
+     "tarih": "2026-05-17",
+     "tarih_metni": "17.05.2026 11:12",
+     "yer": "(17.05.2026) HANSA 303 KADIN SPORCU LİSTESİ",
      "brans": "",
-     "satir": "18 | 18.09.2025 17:10 | OPTİMİST JUNIOR SPORCU LİSTESİ"
+     "satir": "18 | 17.05.2026 11:12 | (17.05.2026) HANSA 303 KADIN SPORCU LİSTESİ"
+    },
+    {
+     "ad": "(17.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ",
+     "tarih": "2026-05-17",
+     "tarih_metni": "17.05.2026 11:12",
+     "yer": "(17.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ",
+     "brans": "",
+     "satir": "19 | 17.05.2026 11:12 | (17.05.2026) HANSA 303 ERKEK SPORCU LİSTESİ"
+    },
+    {
+     "ad": "HAVA DURUMU (17.05.2026)",
+     "tarih": "2026-05-17",
+     "tarih_metni": "17.05.2026 07:14",
+     "yer": "HAVA DURUMU (17.05.2026)",
+     "brans": "",
+     "satir": "20 | 17.05.2026 07:14 | HAVA DURUMU (17.05.2026)"
+    },
+    {
+     "ad": "Ek Yarış Talimatı V.1",
+     "tarih": "2026-05-16",
+     "tarih_metni": "16.05.2026 19:49",
+     "yer": "Ek Yarış Talimatı V.1",
+     "brans": "",
+     "satir": "21 | 16.05.2026 19:49 | Ek Yarış Talimatı V.1"
     },
     {
      "ad": "KAFILE LİSTESİ",
-     "tarih": "2025-09-18",
-     "tarih_metni": "18.09.2025 17:10",
+     "tarih": "2026-05-16",
+     "tarih_metni": "16.05.2026 18:26",
      "yer": "KAFILE LİSTESİ",
      "brans": "",
-     "satir": "19 | 18.09.2025 17:10 | KAFILE LİSTESİ"
+     "satir": "23 | 16.05.2026 18:26 | KAFILE LİSTESİ"
+    },
+    {
+     "ad": "HANSA 303 ERKEK SPORCU LİSTESİ",
+     "tarih": "2026-05-16",
+     "tarih_metni": "16.05.2026 18:16",
+     "yer": "HANSA 303 ERKEK SPORCU LİSTESİ",
+     "brans": "",
+     "satir": "24 | 16.05.2026 18:16 | HANSA 303 ERKEK SPORCU LİSTESİ"
+    },
+    {
+     "ad": "HANSA 303 KADIN SPORCU LİSTESİ",
+     "tarih": "2026-05-16",
+     "tarih_metni": "16.05.2026 18:15",
+     "yer": "HANSA 303 KADIN SPORCU LİSTESİ",
+     "brans": "",
+     "satir": "25 | 16.05.2026 18:15 | HANSA 303 KADIN SPORCU LİSTESİ"
+    },
+    {
+     "ad": "Para-Yelken-Turkiye-Sampiyonasi-2026-v2",
+     "tarih": "2026-05-15",
+     "tarih_metni": "15.05.2026 15:19",
+     "yer": "Para-Yelken-Turkiye-Sampiyonasi-2026-v2",
+     "brans": "",
+     "satir": "26 | 15.05.2026 15:19 | Para-Yelken-Turkiye-Sampiyonasi-2026-v2"
     },
     {
      "ad": "GÜN BATIMI",
-     "tarih": "2025-09-15",
-     "tarih_metni": "15.09.2025 17:23",
+     "tarih": "2026-05-11",
+     "tarih_metni": "11.05.2026 14:46",
      "yer": "GÜN BATIMI",
      "brans": "",
-     "satir": "20 | 15.09.2025 17:23 | GÜN BATIMI"
+     "satir": "27 | 11.05.2026 14:46 | GÜN BATIMI"
     },
     {
-     "ad": "YARIŞ İLANI",
-     "tarih": "2025-09-15",
-     "tarih_metni": "15.09.2025 17:23",
-     "yer": "YARIŞ İLANI",
+     "ad": "Para-Yelken-Turkiye-Sampiyonasi-2026-v1",
+     "tarih": "2026-05-11",
+     "tarih_metni": "11.05.2026 14:46",
+     "yer": "Para-Yelken-Turkiye-Sampiyonasi-2026-v1",
      "brans": "",
-     "satir": "21 | 15.09.2025 17:23 | YARIŞ İLANI"
+     "satir": "28 | 11.05.2026 14:46 | Para-Yelken-Turkiye-Sampiyonasi-2026-v1"
     }
    ],
-   "checked_at": "2026-09-07T10:11:54",
-   "bekleyen_iz": "8c1c3676f2ce3c69",
+   "checked_at": "2026-09-07T16:24:49",
+   "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:49+00:00",
    "parmak_izi": "b76b0070a88cf7ee"
   },
@@ -11904,7 +12018,7 @@
      "satir": "KASIM 2027 CENTRAL EUROPEAN COUNTRIES MEET 50M 2012-2013-2014 Kadın-Erkek MUHTELİF"
     }
    ],
-   "checked_at": "2026-09-07T10:10:04",
+   "checked_at": "2026-09-07T16:24:42",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "23e93d6485844fb0"

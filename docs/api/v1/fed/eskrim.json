@@ -1,5 +1,23 @@
 [
  {
+  "id": "d3f7c98e5b62846e",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-08T14:25:55+00:00",
+  "first_seen_at": "2026-09-08T14:25:55+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "1977e61ae14fed65",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -1062,25 +1080,6 @@
   ],
   "published_at": "2026-08-31T10:07:25+00:00",
   "first_seen_at": "2026-08-31T10:07:25+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "f49a49613f4ac29b",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Mevzuat güncellendi: » 2026 Yılı Antrenör Vize Duyurusu ve Başvuru Rehberi Hk.",
-  "url": "https://www.eskrim.org.tr/2026-yili-antrenor-vize-duyurusu-ve-basvuru-rehberi-hk-2611.html",
-  "summary": "Türkiye Eskrim Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-31T10:07:20+00:00",
-  "first_seen_at": "2026-08-31T10:07:20+00:00",
   "source": "mevzuat"
  }
 ]

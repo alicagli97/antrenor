@@ -1,5 +1,23 @@
 [
  {
+  "id": "b60160f2d77a6fa6",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-08T14:25:54+00:00",
+  "first_seen_at": "2026-09-08T14:25:54+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "18a6f68780364120",
   "federation": "binicilik",
   "federation_name": "Türkiye Binicilik Federasyonu",
@@ -508,6 +526,21 @@
   "published_at": "2026-09-08T08:21:52+00:00",
   "first_seen_at": "2026-09-08T08:21:52+00:00",
   "source": "mevzuat"
+ },
+ {
+  "id": "df7e656c8131b723",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Gaziantep Binicilik Kulübü Kategori Belgesi Sınavı",
+  "url": "https://binicilik.org.tr/duyurular/gaziantep-binicilik-kulubu-kategori-belgesi-sinavi",
+  "summary": "08 EYLÜL - Salı 15 Eylül 2026 Salı günü saat 10:00 'da Gaziantep Binicilik Spor Kulübü’nde kategori belgesi sınavı yapılacaktır.",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-08T00:00:00+00:00",
+  "first_seen_at": "2026-09-08T14:27:49+00:00",
+  "source": "html"
  },
  {
   "id": "6146eda710b3640f",
@@ -1048,38 +1081,5 @@
   "published_at": "2026-09-07T00:00:00+00:00",
   "first_seen_at": "2026-09-07T16:26:43+00:00",
   "source": "html"
- },
- {
-  "id": "5f6848c0bf304fc7",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "TBF Duyuru No 122/2026 Mali Genel Kurul Faaliyet Raporu ve Mali Tablolar",
-  "url": "https://binicilik.org.tr/duyurular/tbf-duyuru-no-1222026-mali-genel-kurul-faaliyet-raporu-ve-mali-tablolar",
-  "summary": "Duyurular TBF DUYURU NO 122/2026 MALİ GENEL KURUL FAALİYET RAPORU VE MALİ TABLOLAR 7 Eylül 2026 - Pazartesi Mali Genel Kurul süreci ile ilgili olarak hazırlanan mali tablo ve raporlar aşağıda bilgilerinize sunulmuştur. Bilgilerinizi rica ederiz. Ekler (PDF) 01.07.2026 - 31.12.2026 - 2027 - 2028 Yılları Öngörülen Bütçe Denetim Raporu 08.11.2024-30.06.2026 Kasım 2024 - Haziran 2026 Faaliyet Raporu 2024 Yılı Bilanço 2024 Yılı Gelir Gider Tablosu 2025 Yılı Bilanço 2025 Yılı Gelir Gider Tablosu 2026 Bilanço (01.01.2026 - 30.06.2026) 2026 Yılı Gelir Gider Tablosu (01.01.2026 -30.06.2026) PDF yükleni",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-07T00:00:00+00:00",
-  "first_seen_at": "2026-09-07T16:26:43+00:00",
-  "source": "html"
- },
- {
-  "id": "741a423656bb86f4",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: Veteriner Talimatı - Onay Tarihi 12.01.2023",
-  "url": "https://binicilik.org.tr/mevzuat/talimatlar/belge/115",
-  "summary": "Türkiye Binicilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-06T08:09:01+00:00",
-  "first_seen_at": "2026-09-06T08:09:01+00:00",
-  "source": "mevzuat"
  }
 ]

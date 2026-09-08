@@ -1,5 +1,23 @@
 [
  {
+  "id": "7ca6d8f03364632e",
+  "federation": "boks",
+  "federation_name": "Türkiye Boks Federasyonu",
+  "federation_short": "TBF",
+  "title": "5. Kademe Boks Antrenör Kursu Başladı",
+  "url": "https://www.turkboks.gov.tr/5-kademe-boks-antrenor-kursu-basladi/",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-08T18:36:44+00:00",
+  "first_seen_at": "2026-09-08T18:36:44+00:00",
+  "source": "html"
+ },
+ {
   "id": "d67b05e95c5f64d3",
   "federation": "oryantiring",
   "federation_name": "Türkiye Oryantiring Federasyonu",
@@ -3505,24 +3523,6 @@
    "musabaka"
   ],
   "published_at": "2026-07-29T17:29:45+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "4219100b2d07b816",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Spor Tırmanışı Para Tırmanış Milli Takım Kampı Duyurusu",
-  "url": "https://tdf.tr/spor-tirmanisi-para-tirmanis-milli-takim-kampi-duyurusu/",
-  "summary": "Federasyonumuz 2026 yılı faaliyet programında yer alan Spor Tırmanışı Para Tırmanış Milli Takım Kampı, 15-26 Ağustos 2026 tarihleri arasında Samsun‘da gerçekleştirilecektir. Toplanma Tarihi ve Saati: 15 Ağustos 2026 Cumartesi günü saat 10.00 Katılımcı Listesi Kampa davet edilen sporcu ve antrenörlerin belirtilen tarih ve saatte kamp yerinde hazır bulunmaları gerekmektedir. Kampa katılacak tüm sporcuların kamp süresince […]",
-  "image": "https://tdf.tr/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-28-at-12.12.42.jpeg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "milli_takim"
-  ],
-  "published_at": "2026-07-29T11:26:19+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  }

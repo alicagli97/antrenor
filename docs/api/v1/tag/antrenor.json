@@ -1,5 +1,23 @@
 [
  {
+  "id": "7ca6d8f03364632e",
+  "federation": "boks",
+  "federation_name": "Türkiye Boks Federasyonu",
+  "federation_short": "TBF",
+  "title": "5. Kademe Boks Antrenör Kursu Başladı",
+  "url": "https://www.turkboks.gov.tr/5-kademe-boks-antrenor-kursu-basladi/",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-08T18:36:44+00:00",
+  "first_seen_at": "2026-09-08T18:36:44+00:00",
+  "source": "html"
+ },
+ {
   "id": "d67b05e95c5f64d3",
   "federation": "oryantiring",
   "federation_name": "Türkiye Oryantiring Federasyonu",
@@ -3755,25 +3773,6 @@
   "federation_short": "GSB",
   "title": "Mevzuat güncellendi: Spor Kulüpleri ve Spor Anonim Şirketlerinin Borçlanma Sınırlamalarından Muafiyetlerine İlişkin Usul ve Esaslar Hakkında Yönetmelik",
   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39902&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-05T07:56:59+00:00",
-  "first_seen_at": "2026-09-05T07:56:59+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "40b6e7cc201769fa",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşlara Ayni ve Nakdî Yardım Yapılması Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42748&MevzuatTur=7&MevzuatTertip=5",
   "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

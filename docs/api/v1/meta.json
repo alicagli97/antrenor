@@ -1,31 +1,20 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-07T23:28:44+00:00",
+ "generated_at": "2026-09-08T04:27:27+00:00",
  "total": 5996,
- "new_in_last_run": 41,
- "sources_ok": 53,
+ "new_in_last_run": 43,
+ "sources_ok": 64,
  "sources_failed": [
-  "basketbol",
-  "boks",
-  "dagcilik",
-  "danssporlari",
-  "gelismekteolan",
-  "herkesicinspor",
-  "isitmeengelliler",
-  "kano",
-  "masatenisi",
-  "satranc",
-  "sualti",
-  "vucutgelistirme"
+  "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-07T20:30:40+00:00",
+ "latest_published_at": "2026-09-08T04:25:23+00:00",
  "categories": {
-  "takvim": 98,
+  "takvim": 99,
   "musabaka": 406,
-  "duyuru": 1095,
+  "duyuru": 1094,
   "kurs": 310,
   "mevzuat": 4021,
   "haber": 66
@@ -38,6 +27,7 @@
   }
  ],
  "federation_counts": {
+  "masatenisi": 48,
   "wushu": 16,
   "cimnastik": 51,
   "futbol": 140,
@@ -83,7 +73,6 @@
   "tenis": 31,
   "kaykay": 11,
   "karate": 17,
-  "masatenisi": 47,
   "paralimpik": 21,
   "beyzbol": 24,
   "bric": 12,
@@ -96,7 +85,7 @@
   "sportoto": 10,
   "bedenselengelliler": 23,
   "buzhokeyi": 11,
-  "hokey": 16,
+  "hokey": 15,
   "danssporlari": 19,
   "kurek": 6,
   "halkoyunlari": 9,

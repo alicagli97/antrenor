@@ -324,6 +324,23 @@
   "source": "html"
  },
  {
+  "id": "4cd1dfc1e42fe8fb",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "Türkiye Yüzme Federasyonu Hakem Kursları",
+  "url": "https://www.tyf.gov.tr/hakem-islemleri/kurslar.html",
+  "summary": "Branşlar Yüzme Atlama Artistik Açık Su Masterlar Para Yüzme Şehir / Branş Son Başvuru Tarihi Durum İşlemler Malatya / Yüzme 22.10.2026 - 25.10.2026 21.10.2026 08:59 KURS DETAYI Ordu / Yüzme 15.10.2026 - 18.10.2026 12.10.2026 23:59 KURS DETAYI Yalova / Yüzme 24.09.2026 - 27.09.2026 22.09.2026 23:59 KURS DETAYI Diyarbakır / Yüzme 24.09.2026 - 27.09.2026 21.09.2026 23:59 KURS DETAYI Denizli / Yüzme 10.09.2026 - 13.09.2026 09.09.2026 15:35 KURS DETAYI Kütahya / Yüzme 10.09.2026 - 13.09.2026 07.09.2026 23:59 KURS DETAYI Rize / Yüzme 27.08.2026 - 30.08.2026 24.08.2026 23:59 KURS DETAYI Sivas / Yüzme",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-08/1484/1788147727_y.jpg",
+  "category": "duyuru",
+  "tags": [
+   "hakem"
+  ],
+  "published_at": "2026-08-31T00:00:00+00:00",
+  "first_seen_at": "2026-09-09T14:30:53+00:00",
+  "source": "html"
+ },
+ {
   "id": "6986c469c8721622",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -1236,22 +1253,5 @@
   "published_at": "2026-08-04T13:34:44+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
- },
- {
-  "id": "6b2e334ff7a84810",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Bakan Bak TFF Merkez Hakem Kurulu Yaz Seminerinde Konuştu",
-  "url": "https://gsb.gov.tr/tr/haber-detay/301327-bakan-bak-tff-merkez-hakem-kurulu-yaz-seminerinde-konustu",
-  "summary": "",
-  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/7fe760b7-7f6d-4452-9a67-d835860bdf71.jpg",
-  "category": "kurs",
-  "tags": [
-   "hakem"
-  ],
-  "published_at": "2026-08-04T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
  }
 ]

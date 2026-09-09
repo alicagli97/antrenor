@@ -1,5 +1,55 @@
 [
  {
+  "id": "c649c9a9a4bc58c8",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Kadınlar Ligi Haber Detayları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=341&ftxtID=51304",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-09T18:33:27+00:00",
+  "first_seen_at": "2026-09-09T18:33:27+00:00",
+  "source": "html"
+ },
+ {
+  "id": "8125eaf135cb879c",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "UEFA'dan Halil Umut Meler'e Görev",
+  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51306",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-09T18:33:27+00:00",
+  "first_seen_at": "2026-09-09T18:33:27+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f6e57109c33df419",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "En iyi Aslan Balığı Fotoğrafı, Altın Palet Türkiye Şampiyonunu Belirleyecek",
+  "url": "https://www.tssf.gov.tr/en-iyi-aslan-baligi-fotografi-altin-palet-turkiye-sampiyonunu-belirleyecek/",
+  "summary": "Sualtı Sporları Federasyonumuzun (TSSF) Altın Palet Sualtı Görüntüleme Türkiye Şampiyonası ve Milli Takım Seçmeleri, yarın (10 Eylül Perşembe)",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "duyuru",
+  "tags": [
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-09-09T16:49:23+00:00",
+  "first_seen_at": "2026-09-09T18:33:27+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "b8e5408cb7e3aad2",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -4894,21 +4944,6 @@
   "source": "html"
  },
  {
-  "id": "282a0403f7b9bd24",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Plaj Futbolu Millî Takımı'nın Avrupa A Ligi Play-Out Kadrosu Açıklandı",
-  "url": "https://www.tff.org/default.aspx?pageID=505&ftxtID=51265",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-03T18:35:39+00:00",
-  "first_seen_at": "2026-09-03T18:35:39+00:00",
-  "source": "html"
- },
- {
   "id": "50ff9177ed3ee982",
   "federation": "masatenisi",
   "federation_name": "Türkiye Masa Tenisi Federasyonu",
@@ -4961,21 +4996,6 @@
   ],
   "published_at": "2026-09-03T16:30:00+00:00",
   "first_seen_at": "2026-09-08T09:36:07+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "35c5fbbd2c75518b",
-  "federation": "bisiklet",
-  "federation_name": "Türkiye Bisiklet Federasyonu",
-  "federation_short": "TBF",
-  "title": "Tour of İstanbul 2026’da 1. Gün Silivri-Çatalca Etabı Tamamlandı",
-  "url": "https://bisiklet.org.tr/tour-of-istanbul-2026da-1-gun-silivri-catalca-etabi-tamamlandi/",
-  "summary": "Türkiye Bisiklet Federasyonu’nun koordinasyonunda; T.C. Gençlik ve Spor Bakanlığı himayesinde, T.C. İstanbul Valiliği, Fatih Belediyesi başta olmak üzere ilçe belediyeleri ve Spor Toto Teşkilat Başkanlığı, Uluslararası Bisiklet Birliği (UCI) ve Shimano’nun destekleriyle ilk etap Silivri-Çatalca arasında gerçekleştirildi. 165 kilometre uzunluğundaki ilk etabın galibi sürprize imza atan TotalEnergies takımından Baptiste Vadic oldu. Konu özelinde hazırladığımız bültenimizi ve görsellerimizi…",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-03T14:41:46+00:00",
-  "first_seen_at": "2026-09-03T18:35:39+00:00",
   "source": "wp_json"
  },
  {
@@ -5098,22 +5118,5 @@
   "published_at": "2026-09-03T12:47:35+00:00",
   "first_seen_at": "2026-09-03T14:28:13+00:00",
   "source": "wp_json"
- },
- {
-  "id": "0c097043a99b33b1",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» 20-21 Eylül Sofya Büyükler Kılıç Satallite Turnuvası Kafile Listesi Hk.",
-  "url": "https://www.eskrim.org.tr/20-21-eylul-sofya-buyukler-kilic-satallite-turnuvasi-kafile-listesi-hk-2627.html",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-03T09:41:21+00:00",
-  "first_seen_at": "2026-09-03T09:41:21+00:00",
-  "source": "html"
  }
 ]

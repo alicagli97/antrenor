@@ -1,11 +1,12 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-09T00:07:18+00:00",
+ "generated_at": "2026-09-09T04:37:25+00:00",
  "total": 5997,
  "new_in_last_run": 268,
- "sources_ok": 64,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "halkoyunlari"
  ],
  "sources_empty": [],
  "sources_missing": [],

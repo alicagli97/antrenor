@@ -157,6 +157,21 @@
   "source": "wp_json"
  },
  {
+  "id": "6c3e75e6ef5e1299",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "TÜSF’ten Tiran’da Spor Diplomasisi: Avrupa Üniversite Sporları İçin Güçlü Temaslar",
+  "url": "https://tusf.org.tr/Haber.aspx?b=0a198fbb-fbb9-4703-91a7-1491e057634d&bid=4395&_=TÜSF’ten Tiran’da Spor Diplomasisi: Avrupa Üniversite Sporları İçin Güçlü Temaslar",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-09T00:00:00+00:00",
+  "first_seen_at": "2026-09-09T21:41:14+00:00",
+  "source": "html"
+ },
+ {
   "id": "e4f2a68f72332df2",
   "federation": "kano",
   "federation_name": "Türkiye Kano Federasyonu",
@@ -3096,20 +3111,5 @@
   "published_at": "2026-08-30T06:46:29+00:00",
   "first_seen_at": "2026-08-30T12:49:41+00:00",
   "source": "wp_json"
- },
- {
-  "id": "15bf0b85f4fa01aa",
-  "federation": "basketbol",
-  "federation_name": "Türkiye Basketbol Federasyonu",
-  "federation_short": "TBF",
-  "title": "A Erkek Milli Takımımız İzlanda Maçının Hazırlıklarına Başladı 30.08.2026",
-  "url": "https://www.tbf.org.tr/haber/a-erkek-milli-takimimiz-izlanda-macinin-hazirliklarina-basladi-2026-08-30",
-  "summary": "FIBA 2027 Basketbol Dünya Kupası Elemeleri J Grubu'ndaki ikinci maçında İzlanda ile karşılaşacak A Erkek Milli Takımımız, Laugardalshöll'da çalışmalarına başladı. Devamını Gör",
-  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/2c15e5da0a5f4dc3a61c95b90feeb2f6_1kopya.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-30T00:00:00+00:00",
-  "first_seen_at": "2026-08-31T16:00:26+00:00",
-  "source": "html"
  }
 ]

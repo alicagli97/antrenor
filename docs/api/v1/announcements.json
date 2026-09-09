@@ -5181,6 +5181,21 @@
   "source": "wp_json"
  },
  {
+  "id": "6c3e75e6ef5e1299",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "TÜSF’ten Tiran’da Spor Diplomasisi: Avrupa Üniversite Sporları İçin Güçlü Temaslar",
+  "url": "https://tusf.org.tr/Haber.aspx?b=0a198fbb-fbb9-4703-91a7-1491e057634d&bid=4395&_=TÜSF’ten Tiran’da Spor Diplomasisi: Avrupa Üniversite Sporları İçin Güçlü Temaslar",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-09T00:00:00+00:00",
+  "first_seen_at": "2026-09-09T21:41:14+00:00",
+  "source": "html"
+ },
+ {
   "id": "470117ca25a4dcd0",
   "federation": "yuzme",
   "federation_name": "Türkiye Yüzme Federasyonu",
@@ -63240,6 +63255,24 @@
   "source": "takvim-html"
  },
  {
+  "id": "fce3ab7a146407dd",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Dans Sporu (lt&std) Hakem Vize Semineri",
+  "url": "https://tdsf.org.tr/haberler/dans-sporu-ltstd-hakem-vize-semineri",
+  "summary": "24 Ağustos 2026 ARJANTİN TANGO ADAY HAKEM KURSU AÇILIYOR 20 Ağustos 2026 DANS SPORU (LT&STD) 3. KADEME KIDEMLİ ANTRENÖRLÜK UYGULAMA KURSU - ANKARA 20 Ağustos 2026 DANS SPORU (LATİN&STANDART) 2. KADEME TEMEL ANTRENÖRLÜK UYGULAMA KURSU 20 Ağustos 2026 DANS SPORU (LT&STD) 1. KADEME YARDIMCI ANTRENÖRLÜK UYGULAMA KURSU - ANKARA 19 Ağustos 2026 ARJANTİN TANGO HAKEM VİZE SEMİNERİ - 11 EYLÜL 2026 26 Hazir",
+  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-18-agustos-1787865608.jpg",
+  "category": "kurs",
+  "tags": [
+   "vize",
+   "hakem"
+  ],
+  "published_at": "2026-08-28T00:00:00+00:00",
+  "first_seen_at": "2026-09-09T21:41:14+00:00",
+  "source": "html"
+ },
+ {
   "id": "071142f38e2f0b5a",
   "federation": "basketbol",
   "federation_name": "Türkiye Basketbol Federasyonu",
@@ -106698,40 +106731,5 @@
   "published_at": "2026-08-05T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
- },
- {
-  "id": "25142810ba5ab821",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Kayseri'de 1. Kademe Boccia Yardımcı Antrenör Uygulama Eğitimi Yapılacak.",
-  "url": "https://tbbdf.org.tr/kayseride-1-kademe-boccia-yardimci-antrenor-uygulama-egitimi-yapilacak-",
-  "summary": ", Çarşamba Kayseri'de 17 - 21 Ağustos 2026 tarihleri arasında 1.Kademe Boccia Yardımcı Antrenör Uygulama Eğitimi yeterli başvuru olması...",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-08-05T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "ccb429ed8d44890e",
-  "federation": "oryantiring",
-  "federation_name": "Türkiye Oryantiring Federasyonu",
-  "federation_short": "TOF",
-  "title": "Antrenör Vize İşlemi ile İlgili Önemli Duyuru",
-  "url": "https://oryantiring.org.tr/haberler#antrenor-vize-islemi-ile-ilgili-onemli-duyuru",
-  "summary": "Spor Bilgi Sisteminden kaynaklanan bir sorundan dolayı 05 Ağustos 2026 günü saat 11.30 ’ a kadar Antrenör Vize başvurusu yapan antrenörlerimize ödeme için referans numarası gitmemiştir. Bu nedenle başvuruları iptal edilmiştir. Aşağıdaki listede isimleri bulunan antrenörlerimizin yeniden başvuru yapmaları gerekmektedir. Camiamıza duyurulur. 1 MURAT ÇAVAŞ 2 BURAK ERGÜL 3 CEM GÜNDOĞDU 4 SENA ALEMDAR ",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "vize"
-  ],
-  "published_at": "2026-08-05T00:00:00+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "headings"
  }
 ]

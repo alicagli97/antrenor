@@ -1,5 +1,40 @@
 [
  {
+  "id": "214850bc29e5d9a7",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Fenerbahçe, AS Roma Karşısında",
+  "url": "https://www.tff.org/default.aspx?pageID=267&ftxtID=51296",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-10T09:38:24+00:00",
+  "first_seen_at": "2026-09-10T09:38:24+00:00",
+  "source": "html"
+ },
+ {
+  "id": "2c78ccabd81a242d",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "7. Mali Genel Kurul Faal Olmayan Uluslararası Hakem ve Teknik Direktör Belirleme Kura Çekilişi",
+  "url": "https://taf.org.tr/7-mali-genel-kurul-faal-olmayan-uluslararasi-hakem-ve-teknik-direktor-belirleme-kura-cekilisi/",
+  "summary": "Federasyonumuzun 7. Olağan Mali Genel Kurul Toplantısı 27 Ekim 2026 Salı, çoğunluk sağlanamaması halinde 28 Ekim 2026 Çarşamba günü saat 10.00’de Ankara’da yapılacaktır. Türkiye Atletizm Federasyonu Başkanlığı Ana Statüsünün 9/1-(g) ve (ğ) bentleri gereği Federasyonumuzun Genel Kurulunda yer alacak delegelerin belirlenmesi amacıyla noter huzurunda kura çekilişi gerçekleştirilecektir. Türkiye Atletizm Federasyonu Başkanlığı 7. Olağan Mali Genel […]",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/05/DUYURU-1.png",
+  "category": "musabaka",
+  "tags": [
+   "hakem",
+   "musabaka"
+  ],
+  "published_at": "2026-09-10T09:12:06+00:00",
+  "first_seen_at": "2026-09-10T09:38:24+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "c649c9a9a4bc58c8",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3374,40 +3409,6 @@
   "federation_short": "TBPF",
   "title": "Artistik Buz Pateni Ümitler Türkiye Şampiyonası / ...",
   "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-umitler-turkiye-sampiyonasi-ankara-139",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "83bd52071c099970",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Artistik Buz Pateni Türkiye Şampiyonası / KOCAELİ...",
-  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-turkiye-sampiyonasi-kocaeli-13",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "82f5c567340f17b8",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Katılmaya Hak Kazanan Oyuncu İsim Listesi-2026 TGF Türkiye 18 Yaş Altı Şampiyonası (Gençler)",
-  "url": "https://tgf.org.tr/upload/katilmaya-hak-kazanan-oyuncu-isim-listesi-2026-tgf-turkiye-18-yas-alti-sampiyonasi-gencler_31e5be_duyuru.pdf",
   "summary": "",
   "image": null,
   "category": "musabaka",

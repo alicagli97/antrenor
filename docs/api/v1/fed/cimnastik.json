@@ -1,5 +1,23 @@
 [
  {
+  "id": "68f5624d7f784951",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Mevzuat güncellendi: Ana Statü",
+  "url": "https://www.tcf.gov.tr/kurumsal/ana-statu/",
+  "summary": "Türkiye Cimnastik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-10T08:25:31+00:00",
+  "first_seen_at": "2026-09-10T08:25:31+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "d5f2f320607ceb1b",
   "federation": "cimnastik",
   "federation_name": "Türkiye Cimnastik Federasyonu",
@@ -636,40 +654,6 @@
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-08-19T11:12:28+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "4b52bcc379008c53",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Sporcu Sağlık Raporları Yönetmeliği, 11 Ağustos 2026 tarihli ve 33337 sayılı Resmî Gazete’de yayımlanarak yürürlüğe girmiştir.",
-  "url": "https://www.tcf.gov.tr/sporcu-saglik-raporlari-yonetmeligi-11-agustos-2026-tarihli-ve-33337-sayili-resmi-gazetede-yayimlanarak-yururluge-girmistir/",
-  "summary": "",
-  "image": "https://www.tcf.gov.tr/wp-content/uploads/2023/02/duyurulogo-1-e1690202162975.jpg",
-  "category": "duyuru",
-  "tags": [
-   "mevzuat"
-  ],
-  "published_at": "2026-08-15T11:38:29+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "wp_json"
- },
- {
-  "id": "6ebe8f5b8df59ee8",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Yılı Türk Dünyası Turizm Başkenti Ankara Teknik Destek Programı’nda ilk imzalar atıldı",
-  "url": "https://www.tcf.gov.tr/2026-yili-turk-dunyasi-turizm-baskenti-ankara-teknik-destek-programinda-ilk-imzalar-atildi/",
-  "summary": "Ankara Kalkınma Ajansı tarafından yürütülen 2026 Yılı Türk Dünyası Turizm Başkenti Ankara Teknik Destek Programı kapsamında destek almaya hak kazanan ilk dönem projeleri için sözleşme imza töreni gerçekleştirildi. Türkiye Cimnastik Federasyonu olarak hazırladığımız “Türk Dünyası Spor Federasyonları İş Birliği Modeli ve Spor Başkenti Ankara Stratejik Fizibilite Programı” başlıklı projemiz, destek almaya hak kazanan projeler arasında […]",
-  "image": "https://www.tcf.gov.tr/wp-content/uploads/2026/08/dsc_0818.jpg-scaled.jpeg",
-  "category": "duyuru",
-  "tags": [
-   "burs"
-  ],
-  "published_at": "2026-08-06T06:45:36+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "wp_json"
  }

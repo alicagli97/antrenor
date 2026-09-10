@@ -1,5 +1,22 @@
 [
  {
+  "id": "cc041986c8053e9d",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Cumhurbaşkanlığı Koşusu 11 Ekim 2026 ‘da Ankarada",
+  "url": "https://taf.org.tr/cumhurbaskanligi-kosusu-kayitlari-acildi/",
+  "summary": "Cumhurbaşkanlığı Koşusu için kayıtlar başladı! Cumhurbaşkanlığı himayelerinde düzenlenen Cumhurbaşkanlığı Koşusu, 11 Ekim Pazar günü Ankara’da koşulacak. Kayıt Koşulları: Kayıtlar online sistem üzerinden yapılacaktır. Sporcular, kayıt sırasında yarış talimatını kabul etmiş sayılır. Sağlık beyanı kayıt sırasında onaylanır. GENEL BİLGİ Yarış Adı: Uluslararası Cumhurbaşkanlığı Yarı Maratonu Yarış Tarihi: 11 Ekim 2026 Yarış Türü: Yol Koşusu – Yarı […]",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/09/Cumhurbaskanligi-kapak.jpg",
+  "category": "duyuru",
+  "tags": [
+   "mevzuat"
+  ],
+  "published_at": "2026-09-10T09:15:28+00:00",
+  "first_seen_at": "2026-09-10T14:22:01+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "2c78ccabd81a242d",
   "federation": "atletizm",
   "federation_name": "Türkiye Atletizm Federasyonu",
@@ -182,6 +199,21 @@
   "published_at": "2026-09-06T08:07:13+00:00",
   "first_seen_at": "2026-09-06T08:07:13+00:00",
   "source": "mevzuat"
+ },
+ {
+  "id": "bd3df7a4c0c55d65",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "18. İsmail AKÇAY Yol Koşusu",
+  "url": "https://taf.org.tr/18-ismail-akcay-yol-kosusu/",
+  "summary": "TARİHİ : 06 Eylül 2026 Pazar SAATİ : 18:00 MESAFESİ : 10 km. (On Bin Metre) KATILIM ÜCRETİ : Erken Kayıt …..:300TL 12/08/2026 – 31/08/2026 (TAF Sigorta + Katılım Payı) Geç Kayıt…….: 400TL 01/09/2026 – 04/09/2026 (TAF Sigorta […]",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/08/ismail-akcay2026.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-05T20:00:08+00:00",
+  "first_seen_at": "2026-09-10T14:22:01+00:00",
+  "source": "wp_json"
  },
  {
   "id": "82f9844edfa36d34",
@@ -1035,42 +1067,5 @@
   "published_at": "2026-08-23T16:08:39+00:00",
   "first_seen_at": "2026-08-23T16:39:09+00:00",
   "source": "wp_json"
- },
- {
-  "id": "82f9844edfa36d34",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Mevzuat güncellendi: Bağımsız Spor Federasyonlarının Çalışma Usul ve Esasları Hakkında Yönetmelik",
-  "url": "http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.16396&MevzuatIliski=0&sourceXmlSearch=",
-  "summary": "Türkiye Atletizm Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-23T04:21:18+00:00",
-  "first_seen_at": "2026-08-23T04:21:18+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "1729b742023af61e",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Mevzuat güncellendi: Milli Sporcu Belgesi Verilmesi Hakkında Yönetmelik",
-  "url": "http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.14978&MevzuatIliski=0&sourceXmlSearch=milli%20sporcu%20belgesi",
-  "summary": "Türkiye Atletizm Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-23T04:20:36+00:00",
-  "first_seen_at": "2026-08-23T04:20:36+00:00",
-  "source": "mevzuat"
  }
 ]

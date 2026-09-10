@@ -1,5 +1,23 @@
 [
  {
+  "id": "e0b60dc2eeda59af",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "Türkiye Golf Federasyonu Milli Takım Turnuva Katılımcı Listesi (Revize Hali)",
+  "url": "https://tgf.org.tr/upload/yurtdisi-katilim-listesi-antetli-pdf_69fd7e_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-09-10T14:22:01+00:00",
+  "first_seen_at": "2026-09-10T14:22:01+00:00",
+  "source": "html"
+ },
+ {
   "id": "ec8c12d73ccf89f1",
   "federation": "golf",
   "federation_name": "Türkiye Golf Federasyonu",
@@ -1066,25 +1084,6 @@
   "federation_short": "TGF",
   "title": "Mevzuat güncellendi: Sözleşmeli Antrenör ve Personel Çalıştırılması Hakkında Talimat",
   "url": "https://tgf.org.tr/tr/talimatlar/sozlesmeli-antrenor-ve-personel-calistirilmasi-hakkinda-talimat",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-08T08:24:02+00:00",
-  "first_seen_at": "2026-09-08T08:24:02+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a8a48268e1b6fcbd",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: TGF Eğitim, Altyapı ve Kulüplere Yardım Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/tgf-egitim-altyapi-ve-kuluplere-yardim-talimati",
   "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

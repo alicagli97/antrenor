@@ -1,5 +1,23 @@
 [
  {
+  "id": "e295c6b4b3b2131c",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» Hakem Kursu Hk.",
+  "url": "https://www.eskrim.org.tr/hakem-kursu-hk-2593.html",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-10T14:22:01+00:00",
+  "first_seen_at": "2026-09-10T14:22:01+00:00",
+  "source": "html"
+ },
+ {
   "id": "a97a8c5510025f64",
   "federation": "yuzme",
   "federation_name": "Türkiye Yüzme Federasyonu",
@@ -15,6 +33,24 @@
   ],
   "published_at": "2026-09-10T04:37:24+00:00",
   "first_seen_at": "2026-09-10T04:37:24+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ba265291d3231551",
+  "federation": "vucutgelistirme",
+  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
+  "federation_short": "TVGFBF",
+  "title": "İZMİR 1./2. KADEME Antrenör Kurs Du...",
+  "url": "https://tvgfbf.gov.tr/duyurular/i-zmi-r-1-2-kademe-antrenor-kurs-duyurusu-yuz-yuze-yuz-yuz",
+  "summary": "Vücut Geliştirme Duyuruları SON BAŞVURU TARİHİ 14 EYLÜL 2026 ÖN KAYIT TARİHLİ İZMİR 1. KADEME KURS BÜLTENİNE ULAŞMAK İÇİN TIKLAYIN... Devamını Oku 02.09.2026 Vücut Geliştirme Duyuruları TÜRKİYE VÜCUT GELİŞTİRME VE FİTNESS... 26–29 Ağustos 2026 tarihleri arasında İstanbul Dr. Mimar Kadir TOPBAŞ Gö... Devamını Oku 25.08.2026 Vücut Geliştirme Duyuruları TARTI ve KAYIT ÖNCESİ, TARTI ESNAS... ÖNEMLİ DU",
+  "image": "https://tvgfbf.gov.tr/public/announcement/i-zmi-r-1-2-kademe-antrenor-kurs-duyurusu-yuz-yuze-yuz-yuz/kapak/561373b1-83d8-4e5e-a2f3-d7426650699c_1789048551_6aa2b6e7026c6.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-10T00:00:00+00:00",
+  "first_seen_at": "2026-09-10T14:22:01+00:00",
   "source": "html"
  },
  {
@@ -1584,166 +1620,6 @@
    "kurs"
   ],
   "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "40142d65ac852340",
-  "federation": "yuzme",
-  "federation_name": "Türkiye Yüzme Federasyonu",
-  "federation_short": "TYF",
-  "title": "Bebek Yüzme Gelişim Semineri Duyurusu",
-  "url": "https://www.tyf.gov.tr/haber/bebek-yuzme-gelisim-semineri-duyurusu.html",
-  "summary": "Türkiye Yüzme Federasyonu Başkanlığı tarafından Bebek Yüzme Gelişim Semineri düzenlenecektir. Seminere ilişkin başvuru, eğitim ve belgelendirme süreçleri e-Devlet Spor Bilgi Sistemi üzerinden yürütülecek olup, semineri başarıyla tamamlayan katılımcıların belgelendirme işlemleri sistem üzerinden gerçekleştirilecektir. Seminere yönelik katılım taleplerinin belirlenmesi amacıyla ön başvurular alınacaktır. Türkiye Yüzme Federasyonu Gelişim Semineri Talimatı’nın 5’inci maddesinin üçüncü fıkrası uyarınca, Bebek Yüzme Gelişim Semineri’ne başvuruda bulunacak adayların yüzme branşında en az 2. Kademe A",
-  "image": "https://dosya.tyf.gov.tr/public/image/news/default/default_y.jpg",
-  "category": "kurs",
-  "tags": [
-   "kurs"
-  ],
-  "published_at": "2026-08-19T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "d55bd720ab0fe25d",
-  "federation": "vucutgelistirme",
-  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
-  "federation_short": "TVGFBF",
-  "title": "Antenör Gelişim Semineri 30.08.2026...",
-  "url": "https://tvgfbf.gov.tr/duyurular/antenor-geli-si-m-semi-neri-30-08-2026-i-stanbul-fitness-week",
-  "summary": "Vücut Geliştirme Duyuruları V.G FİTNESS ANTRENÖR GELİŞİM SEMİNERİ 30 AĞUSTOS 2026 (İSTANBUL FITNESS WEEK)Ön Kayıt: 19-27 Ağust... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ANKARA 1.KADEME Antrenör Kurs Duyur... ... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ONLİNE VÜCUT GELİŞTİRME ve FİTNESS ... Ön Kayıt: 18-20 Ağustos 2026Vize Eğitimi: 21.08.2026 Başvurular; E-Devlet/Spor Bilgi",
-  "image": "https://tvgfbf.gov.tr/public/announcement/antenor-geli-si-m-semi-neri-30-08-2026-i-stanbul-fitness-week/kapak/WhatsAppImage2026-01-16at102144_1787129152_6a856d409cfae.jpeg",
-  "category": "kurs",
-  "tags": [
-   "kurs"
-  ],
-  "published_at": "2026-08-19T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "5d418895a5ca4fb7",
-  "federation": "vucutgelistirme",
-  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
-  "federation_short": "TVGFBF",
-  "title": "ANKARA 1.KADEME Antrenör Kurs Duyur...",
-  "url": "https://tvgfbf.gov.tr/duyurular/ankara-1-kademe-antrenor-kurs-duyurusu-1-grup-2-grup",
-  "summary": "Vücut Geliştirme Duyuruları ANTENÖR GELİŞİM SEMİNERİ 30.08.2026... V.G FİTNESS ANTRENÖR GELİŞİM SEMİNERİ 30 AĞUSTOS 2026 (İSTANBUL FITNESS WEEK)Ön Kayıt: 19-27 Ağust... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ONLİNE VÜCUT GELİŞTİRME ve FİTNESS ... Ön Kayıt: 18-20 Ağustos 2026Vize Eğitimi: 21.08.2026 Başvurular; E-Devlet/Spor Bilgi",
-  "image": "https://tvgfbf.gov.tr/public/announcement/ankara-1-kademe-antrenor-kurs-duyurusu-1-grup-2-grup/kapak/561373b1-83d8-4e5e-a2f3-d7426650699c_1787064053_6a846ef5d713e.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-19T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "323deec0bc987a63",
-  "federation": "vucutgelistirme",
-  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
-  "federation_short": "TVGFBF",
-  "title": "ANKARA1.KADEME Antrenör Kurs Duyuru...",
-  "url": "https://tvgfbf.gov.tr/duyurular/ankara1-kademe-antrenor-kurs-duyurusu-1-grup-2-grup",
-  "summary": "Vücut Geliştirme Duyuruları ANTENÖR GELİŞİM SEMİNERİ 30.08.2026... V.G FİTNESS ANTRENÖR GELİŞİM SEMİNERİ 30 AĞUSTOS 2026 (İSTANBUL FITNESS WEEK)Ön Kayıt: 19-27 Ağust... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ANKARA 1.KADEME Antrenör Kurs Duyur... ... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ONLİNE VÜCUT GELİŞTİRME ve FİTNESS ... Ön Kayıt: 18-20 Ağustos 2026Vize Eğitimi: 21.",
-  "image": "https://tvgfbf.gov.tr/public/announcement/ankara1-kademe-antrenor-kurs-duyurusu-1-grup-2-grup/kapak/561373b1-83d8-4e5e-a2f3-d7426650699c_1786713354_6a7f150a39774.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-19T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "bb79f805efb83fb8",
-  "federation": "vucutgelistirme",
-  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
-  "federation_short": "TVGFBF",
-  "title": "MERSİN 1./2. KADEME Antrenör Kurs D...",
-  "url": "https://tvgfbf.gov.tr/duyurular/mersi-n-1-2-kademe-antrenor-kurs-duyurusu-yuz-yuze",
-  "summary": "Vücut Geliştirme Duyuruları ANTENÖR GELİŞİM SEMİNERİ 30.08.2026... V.G FİTNESS ANTRENÖR GELİŞİM SEMİNERİ 30 AĞUSTOS 2026 (İSTANBUL FITNESS WEEK)Ön Kayıt: 19-27 Ağust... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ANKARA 1.KADEME Antrenör Kurs Duyur... ... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ONLİNE VÜCUT GELİŞTİRME ve FİTNESS ... Ön Kayıt: 18-20 Ağustos 2026Vize Eğitimi: 21.",
-  "image": "https://tvgfbf.gov.tr/public/announcement/mersi-n-1-2-kademe-antrenor-kurs-duyurusu-yuz-yuze/kapak/561373b1-83d8-4e5e-a2f3-d7426650699c_1786975148_6a8313ac3d7a3.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-19T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "7ed4d2316dd1a5f6",
-  "federation": "vucutgelistirme",
-  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
-  "federation_short": "TVGFBF",
-  "title": "SAKARYA 1./2. KADEME Antrenör Kurs ...",
-  "url": "https://tvgfbf.gov.tr/duyurular/sakarya-1-2-kademe-antrenor-kurs-duyurusu-yuz-yuze",
-  "summary": "Vücut Geliştirme Duyuruları ANTENÖR GELİŞİM SEMİNERİ 30.08.2026... V.G FİTNESS ANTRENÖR GELİŞİM SEMİNERİ 30 AĞUSTOS 2026 (İSTANBUL FITNESS WEEK)Ön Kayıt: 19-27 Ağust... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ANKARA 1.KADEME Antrenör Kurs Duyur... ... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ONLİNE VÜCUT GELİŞTİRME ve FİTNESS ... Ön Kayıt: 18-20 Ağustos 2026Vize Eğitimi: 21.",
-  "image": "https://tvgfbf.gov.tr/public/announcement/sakarya-1-2-kademe-antrenor-kurs-duyurusu-yuz-yuze/kapak/561373b1-83d8-4e5e-a2f3-d7426650699c_1786542921_6a7c7b499bb4f.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-19T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "397973b0c28374a9",
-  "federation": "vucutgelistirme",
-  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
-  "federation_short": "TVGFBF",
-  "title": "ÇANAKKALE 2. KADEME Antrenör Kurs D...",
-  "url": "https://tvgfbf.gov.tr/duyurular/canakkale-2-kademe-antrenor-kurs-duyurusu-yuz-yuze",
-  "summary": "Vücut Geliştirme Duyuruları ANTENÖR GELİŞİM SEMİNERİ 30.08.2026... V.G FİTNESS ANTRENÖR GELİŞİM SEMİNERİ 30 AĞUSTOS 2026 (İSTANBUL FITNESS WEEK)Ön Kayıt: 19-27 Ağust... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ANKARA 1.KADEME Antrenör Kurs Duyur... ... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ONLİNE VÜCUT GELİŞTİRME ve FİTNESS ... Ön Kayıt: 18-20 Ağustos 2026Vize Eğitimi: 21.",
-  "image": "https://tvgfbf.gov.tr/public/announcement/canakkale-2-kademe-antrenor-kurs-duyurusu-yuz-yuze/kapak/561373b1-83d8-4e5e-a2f3-d7426650699c_1785508118_6a6cb1165f9c9.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-19T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "e8999eb34c659836",
-  "federation": "vucutgelistirme",
-  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
-  "federation_short": "TVGFBF",
-  "title": "ANKARA 3. KADEME Antrenör Kurs Duyu...",
-  "url": "https://tvgfbf.gov.tr/duyurular/ankara-3-kademe-antrenor-kurs-duyurusu-yuz-yuze",
-  "summary": "Vücut Geliştirme Duyuruları ANTENÖR GELİŞİM SEMİNERİ 30.08.2026... V.G FİTNESS ANTRENÖR GELİŞİM SEMİNERİ 30 AĞUSTOS 2026 (İSTANBUL FITNESS WEEK)Ön Kayıt: 19-27 Ağust... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ANKARA 1.KADEME Antrenör Kurs Duyur... ... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ONLİNE VÜCUT GELİŞTİRME ve FİTNESS ... Ön Kayıt: 18-20 Ağustos 2026Vize Eğitimi: 21.",
-  "image": "https://tvgfbf.gov.tr/public/announcement/ankara-3-kademe-antrenor-kurs-duyurusu-yuz-yuze/kapak/561373b1-83d8-4e5e-a2f3-d7426650699c_1785422476_6a6b628c836d6.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-19T00:00:00+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "8d5e4037f8cfea8f",
-  "federation": "vucutgelistirme",
-  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
-  "federation_short": "TVGFBF",
-  "title": "ANKARA 2. KADEME Antrenör Kurs Duyu...",
-  "url": "https://tvgfbf.gov.tr/duyurular/ankara-2-kademe-antrenor-kurs-duyurusu-2-grup-yuz-yuze",
-  "summary": "Vücut Geliştirme Duyuruları ANTENÖR GELİŞİM SEMİNERİ 30.08.2026... V.G FİTNESS ANTRENÖR GELİŞİM SEMİNERİ 30 AĞUSTOS 2026 (İSTANBUL FITNESS WEEK)Ön Kayıt: 19-27 Ağust... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ANKARA 1.KADEME Antrenör Kurs Duyur... ... Devamını Oku 18.08.2026 Vücut Geliştirme Duyuruları ONLİNE VÜCUT GELİŞTİRME ve FİTNESS ... Ön Kayıt: 18-20 Ağustos 2026Vize Eğitimi: 21.",
-  "image": "https://tvgfbf.gov.tr/public/announcement/ankara-2-kademe-antrenor-kurs-duyurusu-2-grup-yuz-yuze/kapak/561373b1-83d8-4e5e-a2f3-d7426650699c_1785763829_6a7097f592608.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-19T00:00:00+03:00",
   "first_seen_at": "2026-08-19T21:45:48+03:00",
   "source": "html"
  }

@@ -1,19 +1,21 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-10T14:22:01+00:00",
- "total": 5999,
- "new_in_last_run": 569,
+ "generated_at": "2026-09-10T16:00:24+00:00",
+ "total": 6000,
+ "new_in_last_run": 1,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-09-10T14:22:01+00:00",
  "categories": {
   "musabaka": 276,
-  "duyuru": 634,
+  "duyuru": 635,
   "mevzuat": 4798,
   "kurs": 135,
   "takvim": 107,
@@ -74,8 +76,8 @@
   "gormeengelliler": 47,
   "otomobil": 20,
   "havasporlari": 17,
+  "basketbol": 55,
   "kano": 25,
-  "basketbol": 54,
   "bedenselengelliler": 9,
   "hentbol": 32,
   "taekwondo": 11,

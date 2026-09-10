@@ -1,11 +1,12 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-09T21:41:14+00:00",
+ "generated_at": "2026-09-10T00:09:43+00:00",
  "total": 5999,
- "new_in_last_run": 413,
- "sources_ok": 64,
+ "new_in_last_run": 412,
+ "sources_ok": 63,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "hentbol"
  ],
  "sources_empty": [],
  "sources_missing": [],

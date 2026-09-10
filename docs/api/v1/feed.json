@@ -1,5 +1,23 @@
 [
  {
+  "id": "a97a8c5510025f64",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "1. Kademe Yüzme Antrenörü Yetiştirme Kursu 21-25 Eylül 2026 İzmir",
+  "url": "https://www.tyf.gov.tr/haber/1-kademe-yuzme-antrenoru-yetistirme-kursu-21-25-eylul-2026-izmir.html",
+  "summary": "BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-09/1486/1789008365_y.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-10T04:37:24+00:00",
+  "first_seen_at": "2026-09-10T04:37:24+00:00",
+  "source": "html"
+ },
+ {
   "id": "c649c9a9a4bc58c8",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -5099,23 +5117,6 @@
    "musabaka"
   ],
   "published_at": "2026-09-03T12:53:26+00:00",
-  "first_seen_at": "2026-09-03T14:28:13+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "0a2bcab7dbf3da68",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Akdeniz Oyunları’na altın kapan",
-  "url": "https://taf.org.tr/akdeniz-oyunlarina-altin-kapan/",
-  "summary": "Akdeniz Oyunları’na altın kapanış! 🏃🏻‍♂️Taranto 2026 Akdeniz Oyunları’nda ülkemizi yarı maratonda temsil eden sporcularımızdan Ali Kaya, 1:02:06’lık derecesiyle oyunlar rekoru kırarak altın, Ramazan Baştuğ ise 1:04:08’lik derecesiyle bronz madalya kazandı. 🇹🇷 👏🏻Sporcularımızı, antrenörleri Bekir Karayel ve Cihat Ulus ile TSK Spor Gücü ve ENKA Spor Kulübü’nü kutluyoruz.",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/09/c21556b4-d59c-43f3-a19f-5a5bb3e2a41a.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-09-03T12:47:35+00:00",
   "first_seen_at": "2026-09-03T14:28:13+00:00",
   "source": "wp_json"
  }

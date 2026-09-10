@@ -1,5 +1,41 @@
 [
  {
+  "id": "56423ba6cca7c12c",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-10T18:20:46+00:00",
+  "first_seen_at": "2026-09-10T18:20:46+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "d456f1bcdb3fce1a",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-10T18:20:37+00:00",
+  "first_seen_at": "2026-09-10T18:20:37+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "0d63d9bdf8bce206",
   "federation": "wushu",
   "federation_name": "Türkiye Wushu Kung Fu Federasyonu",

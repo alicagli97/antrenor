@@ -1,5 +1,23 @@
 [
  {
+  "id": "8d1a918c662f504f",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "TGF 30 Ağustos Zafer Bayramı Turnuvası Talimatı (Revize Hali)",
+  "url": "https://tgf.org.tr/upload/yarisma-talimati-tgf-30-agustos-zafer-bayrami-turnuvasi-2026-revize-hali_6b9d21_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T18:26:01+00:00",
+  "first_seen_at": "2026-09-11T18:26:01+00:00",
+  "source": "html"
+ },
+ {
   "id": "8d8f367e15d8252d",
   "federation": "boks",
   "federation_name": "Türkiye Boks Federasyonu",
@@ -3622,24 +3640,6 @@
   ],
   "published_at": "2026-09-11T08:21:01+00:00",
   "first_seen_at": "2026-09-11T08:21:01+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "f09529f8437b4be5",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "Mevzuat güncellendi: Sağlık Kurulu Talimatı / 06.02.2013",
-  "url": "https://triatlon.org.tr/saglik-kurulu-talimati.html",
-  "summary": "Türkiye Triatlon Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-11T08:21:00+00:00",
-  "first_seen_at": "2026-09-11T08:21:00+00:00",
   "source": "mevzuat"
  }
 ]

@@ -1,5 +1,106 @@
 [
  {
+  "id": "1edcc718d0ef4285",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF'den Mesajlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51325",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-11T18:26:01+00:00",
+  "first_seen_at": "2026-09-11T18:26:01+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b491e257e3d07476",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "eFootball Mobil eMillî Takımımız, FIFA Dünya Sıralamasında Zirvede",
+  "url": "https://www.tff.org/default.aspx?pageID=628&ftxtID=51316",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-11T18:26:01+00:00",
+  "first_seen_at": "2026-09-11T18:26:01+00:00",
+  "source": "html"
+ },
+ {
+  "id": "8d1a918c662f504f",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "TGF 30 Ağustos Zafer Bayramı Turnuvası Talimatı (Revize Hali)",
+  "url": "https://tgf.org.tr/upload/yarisma-talimati-tgf-30-agustos-zafer-bayrami-turnuvasi-2026-revize-hali_6b9d21_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T18:26:01+00:00",
+  "first_seen_at": "2026-09-11T18:26:01+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f836f5d41a220189",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-11T18:24:22+00:00",
+  "first_seen_at": "2026-09-11T18:24:22+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "62b3759c88e39a97",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Masa Tenisi faaliyet takviminde değişiklik",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-11T18:24:21+00:00",
+  "first_seen_at": "2026-09-11T18:24:21+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "e7637e2889113a29",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Dağ Koşuları Türkiye Şampiyonası ve İl Karmaları Arası Dağ Koşuları Ligi Finali",
+  "url": "https://taf.org.tr/dag-kosulari-turkiye-sampiyonasi-ve-il-karmalari-arasi-dag-kosulari-ligi-final/",
+  "summary": "",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/06/DUYURU-1.png",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T17:28:59+00:00",
+  "first_seen_at": "2026-09-11T18:26:01+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "5be56b9936bca4ba",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -15,6 +116,24 @@
   "published_at": "2026-09-11T15:06:04+00:00",
   "first_seen_at": "2026-09-11T14:22:26+00:00",
   "source": "api"
+ },
+ {
+  "id": "54cb5c25283ddbdd",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "23–27 Eylül 2026 Tarihleri Arasında Antalya İlinde Yapılacak Olan Cankurtarma Eğitmenleri Gelişim Semineri Başvuru ve Konaklama Duyurusu",
+  "url": "https://www.tssf.gov.tr/23-27-eylul-2026-tarihleri-arasinda-antalya-ilinde-yapilacak-olan-cankurtarma-egitmenleri-gelisim-semineri-basvuru-ve-konaklama-duyurusu/",
+  "summary": "Daha önce duyurusu yapılan Cankurtarma Eğitmenleri Gelişim Semineri kapsamında, 23–27 Eylül 2026 tarihleri arasında Antalya’da gerçekleştirilecek seminer programına",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "kurs",
+  "tags": [
+   "kurs",
+   "burs"
+  ],
+  "published_at": "2026-09-11T14:54:29+00:00",
+  "first_seen_at": "2026-09-11T18:26:01+00:00",
+  "source": "wp_json"
  },
  {
   "id": "b07232d8aad02072",
@@ -8295,6 +8414,55 @@
   ],
   "published_at": "2026-09-11T00:04:08+00:00",
   "first_seen_at": "2026-09-11T00:04:08+00:00",
+  "source": "html"
+ },
+ {
+  "id": "3dcf3e2085ea3e51",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Tahkim Kurulu Kararları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=247&ftxtID=51323",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-11T00:00:00+00:00",
+  "first_seen_at": "2026-09-11T18:26:01+00:00",
+  "source": "html"
+ },
+ {
+  "id": "70971142982ecc45",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "2026-2027 Sezonu Arabica Coffee House Kadınlar ve Erkekler 1.Ligi Taslak Genel Fikstür ve Statüleri Yayınlandı - Türkiye Voleybol Federasyonu | TVF",
+  "url": "https://tvf.org.tr/icerik/2026-2027-sezonu-arabica-coffee-house-kadinlar-ve-erkekler-1ligi-taslak-genel-fikstur-ve-statuleri-yayinlandi",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T00:00:00+00:00",
+  "first_seen_at": "2026-09-11T18:26:01+00:00",
+  "source": "html"
+ },
+ {
+  "id": "35e2c69d2b47ddf0",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "2026-2027 Voleybol Sezonu Uzman Posta Kadınlar ve Erkekler 2. Ligleri Taslak Genel Fikstür Programı ve Statüler Yayınlandı - Türkiye Voleybol Federasyonu | TVF",
+  "url": "https://tvf.org.tr/icerik/2026-2027-voleybol-sezonu-uzman-posta-kadinlar-ve-erkekler-2-ligleri-taslak-genel-fikstur-programi-ve-statuler-yayinlandi",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T00:00:00+00:00",
+  "first_seen_at": "2026-09-11T18:26:01+00:00",
   "source": "html"
  },
  {
@@ -45530,6 +45698,21 @@
   "published_at": "2026-09-04T06:31:29+00:00",
   "first_seen_at": "2026-09-04T09:34:05+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "42b7c8c84b56a6ee",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "2026-2027 Sezonu Kadın Ligleri Statüsü'nde Değişiklik",
+  "url": "https://www.tff.org/default.aspx?pageID=687&ftxtID=51317",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-04T00:00:00+00:00",
+  "first_seen_at": "2026-09-11T18:26:01+00:00",
+  "source": "html"
  },
  {
   "id": "8f0a6f2e40b61bcf",
@@ -107248,212 +107431,6 @@
   ],
   "published_at": "2026-08-22T04:20:28+00:00",
   "first_seen_at": "2026-08-22T04:20:28+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "4b31801a75360f4c",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Arşiv Talimatı",
-  "url": "https://drive.google.com/file/d/1DMD7qJUN3mB9nzv8Ek2zLSBkx2LK7Vv_/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-22T04:20:27+00:00",
-  "first_seen_at": "2026-08-22T04:20:27+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "96216b083dd95391",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: 29 Ocak 2018 tarih ve 30316 sayılı Resmi Gazete’de yayınlanan Ana Statü Değişikliği (İlan Tarihi: 30.01.2018)",
-  "url": "https://drive.google.com/file/d/1p0an1Hv5agbsNlnCuDZazX8noI1vOuNn/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-22T04:20:26+00:00",
-  "first_seen_at": "2026-08-22T04:20:26+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "04a07e2b61976a7a",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: TDF Antrenör Talimatı (04.10.2020 tarihinden sonra yürürlükte kaldırıldı)",
-  "url": "https://drive.google.com/file/d/1A_-4__-nDc7snqW6f8aJFV8O9TeQ7MSw/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:20:25+00:00",
-  "first_seen_at": "2026-08-22T04:20:25+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "1dbf0a6f962971c5",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: TDF Eğitim Talimatı (10.03.2025 tarihinde yürürlükten kaldırıldı. )",
-  "url": "https://drive.google.com/file/d/1GcvaBegMzul65AcEEjya2Ne4hAtuHUxg/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:20:25+00:00",
-  "first_seen_at": "2026-08-22T04:20:25+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "354921501e3c8842",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: TDF Eğitim Yönergesi (yürürlükte olan 2022 V02)",
-  "url": "https://drive.google.com/file/d/12Dy_jQ7hC7zGv2bOw-SvQF8um8AcHRO9/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:20:25+00:00",
-  "first_seen_at": "2026-08-22T04:20:25+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "6bba1a15b071148e",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: 02 Kasım 2018 tarih ve 30583 sayılı Resmi Gazete’de yayınlanan Ana Statü Değişikliği (İlan Tarihi: 02 Kasım 2018)",
-  "url": "https://drive.google.com/file/d/15kufySZ7scV_vPoqd77voZ0DPhQ4OYag/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-22T04:20:25+00:00",
-  "first_seen_at": "2026-08-22T04:20:25+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "4e87422f4408767b",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Sporcu Lisans, Vize ve Transfer Talimatı",
-  "url": "https://drive.google.com/file/d/1OptxI9suvsPMPAGCrQVLYWrbOUfiMJho/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:20:24+00:00",
-  "first_seen_at": "2026-08-22T04:20:24+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "3de27796e05af897",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: TDF Antrenör Eğitim Talimatı (05.10.2020 tarihinden itibaren ilgili yönetmelik kapsamında yürürlükte bulunan talimat)",
-  "url": "https://drive.google.com/file/d/1aKHh9eWq0KjxDEIIGDhpUJ9SDQ3KiJG9/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:20:24+00:00",
-  "first_seen_at": "2026-08-22T04:20:24+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "738070b603716bf2",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Emniyetçi Eğitim Talimatı",
-  "url": "https://drive.google.com/file/d/1QnAT3QYK5EpDCt_mr5Ao7oTfq6Z_aHV7/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:20:23+00:00",
-  "first_seen_at": "2026-08-22T04:20:23+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cad0386a788f8901",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Eğitim Talimatı",
-  "url": "https://drive.google.com/file/d/1KLomFByoyQ3KweLELC5x_nSuknS32l15/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:20:23+00:00",
-  "first_seen_at": "2026-08-22T04:20:23+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "1ce4c6bd3a7844d4",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Rota Yapıcılığı Eğitim Talimatı",
-  "url": "https://drive.google.com/file/d/1SUEErgktthmSw4Fce0zNA2uncHjVCz3H/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:20:23+00:00",
-  "first_seen_at": "2026-08-22T04:20:23+00:00",
   "source": "mevzuat"
  }
 ]

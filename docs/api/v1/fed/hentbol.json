@@ -1,5 +1,22 @@
 [
  {
+  "id": "5be56b9936bca4ba",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Temsilcilerimiz Avrupa Kupası Müsabakalarına Çıkacak",
+  "url": "https://thf.org.tr/haber/temsilcilerimiz-avrupa-kupasi-musabakalarina-cikacak",
+  "summary": "Türk hentbolunu Erkekler Avrupa Kupası'nda temsil eden İstanbul Gençlik Spor Kulübü, Giresunspor Kulübü ve Spor Toto Spor Kulübü, 12-15 Eylül 2026 tarihleri arasında müsabakalara çıkacak. İstanbul Gençlik Spor Kulübü, Avrupa Kupası 1. Tur ilk maçında 12 Eylül Cumartesi günü Litvanya temsilcisi Vilnius VHC Sviesa ile karşı karşıya gelecek. İstanbul Beykoz Spor Ormanı'ndaki THF Serdar Seymen Hentbol Salonu'nda oynanacak ve saat 14.00'te başlayacak mücadele TRT Spor Yıldız ekranlarından canlı yayınlanacak. Bu karşılaşmanın rövanşı 19 Eylül Cumartesi günü saat 14.30'da Litvanya'da oynanacak. Gires",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T15:06:04+00:00",
+  "first_seen_at": "2026-09-11T14:22:26+00:00",
+  "source": "api"
+ },
+ {
   "id": "fb56504c22483a96",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -421,100 +438,6 @@
   ],
   "published_at": "2026-08-24T09:01:39+00:00",
   "first_seen_at": "2026-08-24T09:01:39+00:00",
-  "source": "api"
- },
- {
-  "id": "de08e7e403c927a8",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Ankara'daki Kız Sporcu Tarama Kampı Sona Erdi",
-  "url": "https://thf.org.tr/haber/ankaradaki-kiz-sporcu-tarama-kampi-sona-erdi",
-  "summary": "2012-2013 doğumlu kız sporculara yönelik Tarama Kampı, 17-21 Ağustos tarihleri arasında gerçekleştirildi. Ankara Prof. Dr. Yaşar Sevim Hentbol Salonu’nda düzenlenen kampta 40 kişilik sporcu grubu çalıştı.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-21T21:38:24+00:00",
-  "first_seen_at": "2026-08-21T21:38:24+00:00",
-  "source": "api"
- },
- {
-  "id": "afc8d7db2ef9c64d",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "2012 Doğumlu Erkek Sporcular İçin Teknik Uyum ve Tarama Kampı Gerçekleştirilecek",
-  "url": "https://thf.org.tr/haber/2012-dogumlu-erkek-sporcular-icin-teknik-uyum-ve-tarama-kampi-gerceklestirilecek",
-  "summary": "Ankara’da 2012 doğumlu erkek sporculara yönelik 6-11 Eylül tarihlerinde Ankara Prof. Dr. Yaşar Sevim Hentbol Salonu'nda Teknik Uyum ve Tarama Kampı gerçekleştirilecektir. Milli Takımlar Altyapı Koordinatörü Jordi Jodar Sagalés koordinatörlüğünde gerçekleştirilecek kampın kafile listesi belirlenmiş olup, liste ekte yer almaktadır.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-21T14:59:01+00:00",
-  "first_seen_at": "2026-08-21T13:08:12+00:00",
-  "source": "api"
- },
- {
-  "id": "b84c59614f8b0f90",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Gençler, Küçükler, Yıldızlar Statüleri ve Oyun Kuralları Belli Oldu",
-  "url": "https://thf.org.tr/haber/gencler-kucukler-yildizlar-statuleri-ve-oyun-kurallari-belli-oldu",
-  "summary": "2026-2027 Sezonu Gençler, Küçükler, Yıldızlar liglerinde uygulanacak statüsü ve oyun kuralları belli oldu. Statü ve oyun kuralları ek'te yer almaktadır.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-21T13:58:49+00:00",
-  "first_seen_at": "2026-08-21T13:58:49+00:00",
-  "source": "api"
- },
- {
-  "id": "31867604ec616356",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "1. Lig Statüleri Belli Oldu",
-  "url": "https://thf.org.tr/haber/1-lig-statuleri-belli-oldu",
-  "summary": "2026-2027 Sezonu Hentbol Erkekler ve Kadınlar 1. Lig statüleri belli oldu. Ligin oluşumu, 1. Lig takımları, tarihler, ödüller, müsabaka sistemi, spor elemanı ve sporcu uygunluğu, rezerv takım uygulaması, salonların tespiti, organizasyon ve sorumluluk, tribün düzenlemesi, güvenlik; lig ve isim sponsorluğu, müsabaka topu tedarikçiliği, ödül töreni; saha olayları ve anons, canlı yayınlar ve sosyal medya hesapları, yayın için salon uygunluğu, basın toplantıları ve röportajlar ile diğer hükümler, Play-Off programı gibi başlıkları içeren statüler ek'te yer almaktadır.",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-21T13:58:49+00:00",
-  "first_seen_at": "2026-08-21T13:58:49+00:00",
-  "source": "api"
- },
- {
-  "id": "8234a568ce954809",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Cumhurbaşkanlığı Kupası'nda Görev Alacak Hakem ve Gözlemciler Belli Oldu",
-  "url": "https://thf.org.tr/haber/cumhurbaskanligi-kupasinda-gorev-alacak-hakem-ve-gozlemciler-belli-oldu",
-  "summary": "Türkiye Hentbol Federasyonu Merkez Hakem Gözlemci Kurulu Cumhurbaşkanlığı Kupası'nda görev yapacak hakem ve gözlemcileri açıkladı. 25-26 Ağustos tarihlerinde yarı final ve final maçlarında görev yapacak olan 6 çift hakem ve 6 gözlemci 24 Ağustos pazartesi günü THF tesislerinde toplanarak Merkez Hakem Gözlemci Kurulu'nun hazırladığı program dahilinde kupa maçları için eğitim ve planlama çalışmaları yapacaklar.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "hakem"
-  ],
-  "published_at": "2026-08-21T13:08:12+00:00",
-  "first_seen_at": "2026-08-21T13:08:12+00:00",
-  "source": "api"
- },
- {
-  "id": "e2d5f5637cd19df2",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Erkek U16 Milli Takımı Teknik Eğitim Kampı Ankara'da Gerçekleştirilecek",
-  "url": "https://thf.org.tr/haber/erkek-u16-milli-takimi-teknik-egitim-kampi-ankarada-gerceklestirilecek",
-  "summary": "Erkek U16 Milli Takımımız, 30 Ağustos-4 Eylül 2026 tarihlerinde Teknik Eğitim Kampı'na girecek. Prof. Dr. Yaşar Sevim Hentbol Salonu'nda Milli Takımlar Altyapı Koordinatörü Jordi Jodar Sagalés koordinatörlüğünde gerçekleştirilecek kampın kafile listesi belirlenmiş olup ek'te yer almaktadır.",
-  "image": null,
-  "category": "kurs",
-  "tags": [],
-  "published_at": "2026-08-21T13:08:12+00:00",
-  "first_seen_at": "2026-08-21T13:08:12+00:00",
   "source": "api"
  }
 ]

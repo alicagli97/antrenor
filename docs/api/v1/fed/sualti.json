@@ -1,5 +1,23 @@
 [
  {
+  "id": "29f7165b54716d54",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "18-20 Eylül 2026 Manisa Sualtı Ragbisi Elit Türkiye Şampiyonası ve Milli Takım Seçmeleri Yarışma İptali Hakkında",
+  "url": "https://www.tssf.gov.tr/18-20-eylul-2026-manisa-sualti-ragbisi-elit-turkiye-sampiyonasi-ve-milli-takim-secmeleri-yarisma-iptali-hakkinda/",
+  "summary": "​Türkiye Sualtı Sporları Federasyonu 2026 Sezonu Sualtı Ragbisi Elit Türkiye Şampiyonası ve Milli Takım Seçmeleri Yarışma Kuralları’nın (E)",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-09-11T14:15:55+00:00",
+  "first_seen_at": "2026-09-11T14:22:26+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "5890febac26ecd2d",
   "federation": "sualti",
   "federation_name": "Türkiye Sualtı Sporları Federasyonu",
@@ -634,42 +652,5 @@
   "published_at": "2026-08-22T04:25:28+00:00",
   "first_seen_at": "2026-08-22T04:25:28+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "d98a75e9a5dfed9e",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "Sualtı Sporları faaliyet takviminde değişiklik",
-  "url": "https://www.tssf.gov.tr/2025-2026-sezonu-faaliyet-programi/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 34 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-21T15:43:55+00:00",
-  "first_seen_at": "2026-08-21T15:43:55+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "f5ccaa25ba7935e1",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "18-20 Eylül 2026 Manisa Sualtı Ragbisi Elit Türkiye Şampiyonası ve Milli Takım Seçmeleri Yarışma Reglamanı",
-  "url": "https://www.tssf.gov.tr/18-20-eylul-2026-manisa-sualti-ragbisi-elit-turkiye-sampiyonasi-ve-milli-takim-secmeleri-yarisma-reglamani/",
-  "summary": "Yarışma Reglamanı için TIKLAYINIZ. Sualtı Ragbisi Esame listesi için TIKLAYINIZ. Katılım Başvuru Formu için TIKLAYINIZ. Karar Defteri Metni Örneği",
-  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "milli_takim",
-   "burs"
-  ],
-  "published_at": "2026-08-21T14:24:24+00:00",
-  "first_seen_at": "2026-08-21T14:49:36+00:00",
-  "source": "wp_json"
  }
 ]

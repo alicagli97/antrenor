@@ -1,5 +1,73 @@
 [
  {
+  "id": "8e148a50dad5576d",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» 02-04 Ekim Yıldızlar Circuit İstanbul Kılıç Kafile Listeleri Hk.",
+  "url": "https://www.eskrim.org.tr/02-04-ekim-yildizlar-circuit-istanbul-kilic-kafile-listeleri-hk-2641.html",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-11T21:43:08+00:00",
+  "first_seen_at": "2026-09-11T21:43:08+00:00",
+  "source": "html"
+ },
+ {
+  "id": "e704f806cdf6c9ac",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-11T21:41:19+00:00",
+  "first_seen_at": "2026-09-11T21:41:19+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "ff6b3b99352c322e",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-11T21:41:05+00:00",
+  "first_seen_at": "2026-09-11T21:41:05+00:00",
+  "source": "takvim-excel"
+ },
+ {
+  "id": "c4022748a7a8233a",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "Sporcularımız Dünya Kupası Finali’nde!",
+  "url": "https://www.okculuk.org.tr/sporcularimiz-dunya-kupasi-finalinde/",
+  "summary": "Meksika’nın Saltillo kentinde düzenlenen 2026 Hyundai Okçuluk Dünya Kupası Finali’nde heyecan başlıyor.Dün gerçekleştirilen kura çekiminin ardından millî sporcularımızın çeyrek final rakipleri belli oldu. 📅 12 Eylül CumartesiMakaralı Yay Kadınlar23.35 | Hazal Burun – Dafne Quintero 📅 13 Eylül PazarKlasik Yay Erkekler19.05 | Mete Gazoz – Matias Grande19.43 | Ulaş Berkim Tümer – Dhiraj BommadevaraKlasik Yay […]",
+  "image": "https://www.okculuk.org.tr/wp-content/uploads/2026/09/R3X_6938.jpg",
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T19:33:41+00:00",
+  "first_seen_at": "2026-09-11T21:43:08+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "1edcc718d0ef4285",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -8414,6 +8482,36 @@
   ],
   "published_at": "2026-09-11T00:04:08+00:00",
   "first_seen_at": "2026-09-11T00:04:08+00:00",
+  "source": "html"
+ },
+ {
+  "id": "72e154c7ff31773a",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "Tiran’dan 37 Madalya: Üniversiteli Sporcularımızdan Büyük Başarı",
+  "url": "https://tusf.org.tr/Haber.aspx?b=d0c0177e-ad24-4ee1-b7ad-225822902fbf&bid=4396&_=Tiran’dan 37 Madalya: Üniversiteli Sporcularımızdan Büyük Başarı",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-09-11T00:00:00+00:00",
+  "first_seen_at": "2026-09-11T21:43:08+00:00",
+  "source": "html"
+ },
+ {
+  "id": "cf78b973ad747ae1",
+  "federation": "gelenekselsporlar",
+  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
+  "federation_short": "GSDF",
+  "title": "TGSDF 9. Mali Genel Kurul Toplantı Tahmini Bütçe, Faaliyet ve Denetim Kurulu Raporları",
+  "url": "https://www.gsdf.gov.tr/tr/haber/tgsdf-9.-mali-genel-kurul-toplanti-tahmini-butce-faaliyet-ve-denetim-kurulu-raporlari",
+  "summary": "",
+  "image": "https://www.gsdf.gov.tr/uploads/default/blog/f51117956e364e8b3346509e62d70b76_mid_r.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-11T00:00:00+00:00",
+  "first_seen_at": "2026-09-11T21:43:08+00:00",
   "source": "html"
  },
  {
@@ -107321,116 +107419,6 @@
   ],
   "published_at": "2026-08-22T04:20:30+00:00",
   "first_seen_at": "2026-08-22T04:20:30+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "c28651e36f3bd5e0",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Kurullarının Görevlerine İlişkin Talimatı",
-  "url": "https://drive.google.com/file/d/1JXEUQkJTkZeW3_forokGN-8MXVAkzvWE/view",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-22T04:20:30+00:00",
-  "first_seen_at": "2026-08-22T04:20:30+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a8128057f01f46af",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Hakem, Gözlemci, Temsilci ve Eğitim Görevlileri ile Diğer Görevlilere Ödenecek Ücretlere İlişkin Talimat",
-  "url": "https://tgf.org.tr/tr/talimatlar/hakem-gozlemci-temsilci-ve-egitim-gorevlileri-ile-diger-gorevlilere-odenecek-ucretlere-iliskin-talimat",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:20:29+00:00",
-  "first_seen_at": "2026-08-22T04:20:29+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "ef4651390aa20fed",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Kamp Eğitim Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/kamp-egitim-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:20:29+00:00",
-  "first_seen_at": "2026-08-22T04:20:29+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cffe38d2c6bf54a5",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Ayniyat Talimatı",
-  "url": "https://drive.google.com/file/d/1-ohzPQv4Rk-LMM9oszmGwjnFbXXScCyW/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-22T04:20:28+00:00",
-  "first_seen_at": "2026-08-22T04:20:28+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cf2efba0d9379d0b",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Bütçe ve Muhasebe Talimatı",
-  "url": "https://drive.google.com/file/d/1joWmYEBq2cOD7WA730mwCpwIpA5TOdUZ/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-22T04:20:28+00:00",
-  "first_seen_at": "2026-08-22T04:20:28+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "2b8a0bfc546e8eb8",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Disiplin Talimatı (11/08/2021 tarihinden itibaren yürürlüğe girmiştir)",
-  "url": "https://drive.google.com/file/d/1e1KgUzO7ROcJIRc8o2jAtMemOoMiatdD/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-22T04:20:28+00:00",
-  "first_seen_at": "2026-08-22T04:20:28+00:00",
   "source": "mevzuat"
  }
 ]

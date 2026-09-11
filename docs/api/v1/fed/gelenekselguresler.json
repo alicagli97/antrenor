@@ -1,5 +1,41 @@
 [
  {
+  "id": "9cf904baca2fa03b",
+  "federation": "gelenekselguresler",
+  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
+  "federation_short": "TGGF",
+  "title": "Mevzuat güncellendi: TGGF Ana Statü",
+  "url": "https://tggf.org.tr/tggf-ana-statu/",
+  "summary": "Türkiye Geleneksel Güreşler Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-11T08:22:45+00:00",
+  "first_seen_at": "2026-09-11T08:22:45+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "fa8d91e34048bed7",
+  "federation": "gelenekselguresler",
+  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
+  "federation_short": "TGGF",
+  "title": "Mevzuat güncellendi: TGGF Talimatları",
+  "url": "https://tggf.org.tr/tggf-talimatlari/",
+  "summary": "Türkiye Geleneksel Güreşler Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-11T08:22:45+00:00",
+  "first_seen_at": "2026-09-11T08:22:45+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "0c2a14b24cb9443e",
   "federation": "gelenekselguresler",
   "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
@@ -817,39 +853,6 @@
   "tags": [],
   "published_at": "2026-08-23T17:25:31+00:00",
   "first_seen_at": "2026-08-23T17:31:31+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "86b50a797c8785b8",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "Geleneksel Güreşler faaliyet takvimi yayında",
-  "url": "https://tggf.org.tr/gelisim-ligi-2026-yili-faaliyet-takvimi/",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi. Takvimde 10 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:53+00:00",
-  "first_seen_at": "2026-08-20T20:10:53+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "7acfda440b5bf154",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "Kurtdereli Mehmet Pehlivan Yağlı Güreşleri Cancı Sonuçları",
-  "url": "https://tggf.org.tr/kurtdereli-mehmet-pehlivan-yagli-guresleri-canci-sonuclari/",
-  "summary": "Benzer Haberler ... KARAKUCAK GÜREŞİ DÜNYA ŞAMPİYONASI ANKARA’DA SONA ERDİ Haberler GELİŞİM LİGİ-33. GELENEKSEL SEYDİKEMER SEKİ YAĞLI GÜREŞLERİ Haberler KARAMÜRSEL BELEDİYESİ 42. GELENEKSEL ALTIN KEMER YAĞLI GÜREŞLERİ-KARAMÜRSEL-KOCAELİ Haberler",
-  "image": "https://tggf.org.tr/wp-content/uploads/2026/08/kurtdereli_canli_sonuclari2026.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-08-20T20:09:13+00:00",
-  "first_seen_at": "2026-08-20T20:15:30+00:00",
   "source": "wp_json"
  }
 ]

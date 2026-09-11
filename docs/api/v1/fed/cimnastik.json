@@ -1,5 +1,23 @@
 [
  {
+  "id": "68f5624d7f784951",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Mevzuat güncellendi: Ana Statü",
+  "url": "https://www.tcf.gov.tr/kurumsal/ana-statu/",
+  "summary": "Türkiye Cimnastik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-11T08:20:26+00:00",
+  "first_seen_at": "2026-09-11T08:20:26+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "d84dd25d58d1f2e4",
   "federation": "cimnastik",
   "federation_name": "Türkiye Cimnastik Federasyonu",
@@ -621,58 +639,5 @@
   "published_at": "2026-08-22T04:19:14+00:00",
   "first_seen_at": "2026-08-22T04:19:14+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "fc757eabbe344f1a",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 329 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-21T07:52:41+00:00",
-  "first_seen_at": "2026-08-21T07:52:41+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "4bb316f3d9756720",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takvimi yayında",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi. Takvimde 329 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:50+00:00",
-  "first_seen_at": "2026-08-20T20:10:50+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "d61d4ebc03fda2dd",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Artistik Cimnastik Kadın ve Erkek Anadolu Yıldızlar Ligi (Analig) Final Yarışması Ankara’da sona erdi.",
-  "url": "https://www.tcf.gov.tr/artistik-cimnastik-kadin-ve-erkek-anadolu-yildizlar-ligi-analig-final-yarismasi-ankarada-sona-erdi/",
-  "summary": "24 takımdan 96 sporcunun katıldığı, Artistik Cimnastik Kadın ve Erkek Anadolu Yıldızlar Ligi (Analig) Final Yarışması Ankara’da sona erdi. Sonuçlar şu şekilde:Artistik Cimnastik Kadın ve Erkek Anadolu Yıldızlar Ligi (Analig) Final Yarışması Minik KızlarGenel Tasnif1-Ada Korkmaztürk (İzmir)2-Nisa Çerçi (İzmir)2-Özge Karasoy (İzmir)4-Melisa Yeşilova (İzmir) Artistik Cimnastik Kadın ve Erkek Anadolu Yıldızlar Ligi (Analig) Final Yarışması Minik KızlarTakım1-İzmir2-İstanbul Avrupa3-İstanbul […]",
-  "image": "https://www.tcf.gov.tr/wp-content/uploads/2026/08/img_0127.jpg-scaled.jpeg",
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-20T16:19:22+00:00",
-  "first_seen_at": "2026-08-20T18:07:25+00:00",
-  "source": "wp_json"
  }
 ]

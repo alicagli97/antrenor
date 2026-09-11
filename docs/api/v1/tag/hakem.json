@@ -1,5 +1,22 @@
 [
  {
+  "id": "e590a7eb55a4a8bf",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Merkez Hakem Kurulu",
+  "url": "https://www.tsf.org.tr/mhk",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "hakem"
+  ],
+  "published_at": "2026-09-11T09:35:37+00:00",
+  "first_seen_at": "2026-09-11T09:35:37+00:00",
+  "source": "html"
+ },
+ {
   "id": "08001e464763498f",
   "federation": "bedenselengelliler",
   "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
@@ -821,234 +838,5 @@
   "published_at": "2026-08-21T13:08:12+00:00",
   "first_seen_at": "2026-08-21T13:08:12+00:00",
   "source": "api"
- },
- {
-  "id": "ad7d5bdf21ee622f",
-  "federation": "taekwondo",
-  "federation_name": "Türkiye Taekwondo Federasyonu",
-  "federation_short": "TTF",
-  "title": "Poomsae Teknik Hakem Kursu (Kastamonu / 01-04 Eylül 2026)",
-  "url": "https://turkiyetaekwondofed.gov.tr/poomsae-teknik-hakem-kursu-kastamonu-01-04-eylul-2026/",
-  "summary": "Federasyonumuzun 2026 yılı faaliyet programında yer alan Poomsae Teknik Hakem Kursu, 01-04 Eylül 2026 tarihleri arasında Kastamonu ilinde düzenlenecektir. Kursa ait detaylı bilgiler ve katılım şartları aşağıda yer almaktadır: 1) Kursa katılım sağlayacak adaylarımızın, 28 Ağustos 2026 tarihi saat 16:00’ya kadar Federasyonumuz Sicil Sistemi üzerinden kayıt oluşturmaları gerekmektedir. Kayıt esnasında sisteme dekont yüklenmesi zorunlu olduğundan, adayların öncelikle kurs katılım ücretini yatırmaları […]",
-  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/08/Poomsae-Teknik-Hakem.jpg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-08-21T12:23:36+00:00",
-  "first_seen_at": "2026-08-21T13:08:12+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "448f69e4f19ee2cd",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "Sivas’ta Aday Hakem Kursu Devam Ediyor",
-  "url": "https://www.turkboks.gov.tr/sivasta-aday-hakem-kursu-devam-ediyor/",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "27179d2c6c6a665b",
-  "federation": "oryantiring",
-  "federation_name": "Türkiye Oryantiring Federasyonu",
-  "federation_short": "TOF",
-  "title": "Elazığ Aday Hakem Kursu Katılımcı Listesi",
-  "url": "https://oryantiring.org.tr/haberler#elazig-aday-hakem-kursu-katilimci-listesi",
-  "summary": "ELAZIĞ ADAY HAKEM KURSU KATILIMCI DUYURUSU 22-23 Ağustos 2026 tarihlerinde Elazığ ilinde yapılması planlanan Oryantiring Aday Hakem Kursu cumartesi günü saat 09.30 ’da evrak teslimi ve kontrolü ile başlayacak olup, kesin kayıt yapan kursiyerlerin isim listesi aşağıda belirtilmiştir. Seminer başvurusunda bulunan ve ödeme belgeleri Federasyonumuza ulaşmayan kursiyerlerin, evrak teslimi sırasında öde",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "headings"
- },
- {
-  "id": "c54f24303a67bfd1",
-  "federation": "oryantiring",
-  "federation_name": "Türkiye Oryantiring Federasyonu",
-  "federation_short": "TOF",
-  "title": "2026-2027 Sezonu Hakem Telafi Vize Semineri",
-  "url": "https://oryantiring.org.tr/haberler#2026-2027-sezonu-hakem-telafi-vize-semineri",
-  "summary": "Federasyonumuz tarafından düzenlenecek olan online hakem telafi vize semineri, 24.08.2026 saat 12.00 ile 26.08.2026 saat 23.59 tarihleri arasında yapılacaktır. Belirtilen tarihler içinde istediğiniz gün ve saat diliminde seminere katılım sağlanabilecektir. Seminer uzem.oryantiring.org.tr web adresinden yapılacaktır. Hakem telafi semineri ücretlerinin en geç 20.08.2026 saat 23.59 ’a kadar yatırılma",
-  "image": "https://oryantiring.org.tr/uploads/news/editor_19F2346D783-8EB8D5/image_hvs_qrkod.png",
-  "category": "kurs",
-  "tags": [
-   "vize",
-   "hakem"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "headings"
- },
- {
-  "id": "ff0060bbce8f015f",
-  "federation": "oryantiring",
-  "federation_name": "Türkiye Oryantiring Federasyonu",
-  "federation_short": "TOF",
-  "title": "Elazığ Aday Hakem Kursu 22-23 Ağustos 2026",
-  "url": "https://oryantiring.org.tr/haberler#elazig-aday-hakem-kursu-22-23-agustos-2026",
-  "summary": "ORYANTİRİNG ADAY HAKEM KURSU KURS TARİHİ: 22-23 Ağustos 2026 KURS YERİ: ELAZIĞ KURS ADRESİ: GSB ATATÜRK STADYUMU Toplantı Salonu Üniversite Mah.17523 Sokak No:4 Merkez / ELAZIĞ İLETİŞİM : Adnan ETEM - 0532 375 2376 KURSA SON BAŞVURU TARİHİ: 19.08.2026 SAAT: 23.59 KURSA KATILIM ŞARTLARI: a) Türkiye Cumhuriyeti vatandaşı olmak, b) En az lise ve dengi okul mezunu olmak, c) 18 yaşını doldurmuş ve 60 y",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "headings"
- },
- {
-  "id": "a028bbbbec54597d",
-  "federation": "danssporlari",
-  "federation_name": "Türkiye Dans Sporları Federasyonu",
-  "federation_short": "TDSF",
-  "title": "Arjantin Tango Hakem Vize Semineri - 11 Eylül 2026",
-  "url": "https://tdsf.org.tr/haberler/arjantin-tango-hakem-vize-semineri-11-eylul-2026",
-  "summary": "DANS SPORU (LATİN&STANDART) 2. KADEME TEMEL ANTRENÖRLÜK UYGULAMA KURSU DANS SPORU (LT&STD) 1. KADEME YARDIMCI ANTRENÖRLÜK UYGULAMA KURSU - ANKARA 19 Ağustos 2026 26 Haziran 2026 HIP HOP BATTLE TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI HAKKINDA 26 Haziran 2026 BREAK DANS TÜRKİYE ŞAMPİYONASI SPORCU LİSTELERİ VE PROGRAMI 26 Haziran 2026 SERBEST STİL (HIP HOP) TÜRKİYE ŞAMPİYONASI SPORCU LİSTELE",
-  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-vize-1787087655.jpg",
-  "category": "kurs",
-  "tags": [
-   "vize",
-   "hakem"
-  ],
-  "published_at": "2026-08-20T00:00:00+00:00",
-  "first_seen_at": "2026-08-20T18:07:25+00:00",
-  "source": "html"
- },
- {
-  "id": "0707ca70fe13a86b",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Türkiye Futbol Federasyonu Merkez Hakem Kurulu tarafından 2026-2027 sezonu öncesinde düzenlenen MHK Yaz Semineri, TFF Riva Hasan Doğan Millî Takımlar…",
-  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51135",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "hakem"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "c5f4493bb01c2994",
-  "federation": "tenis",
-  "federation_name": "Türkiye Tenis Federasyonu",
-  "federation_short": "TTF",
-  "title": "Ocak-Ekim Uluslararası Hakem Atamaları",
-  "url": "http://www.ttf.org.tr/tr/duyuru-detay/518",
-  "summary": "Hakem Duyuruları Tüm Yıllar 2026 2025 2024 2023 İstanbul TED ATP Challenger Çizgi Hakemleri 06- tarihleri arasında TED kulübünde gerçekleştirilecek turnuvanın çizgi hakemleri listesi ektedir. Seçilen hakemlerin en geç 24 Ağustos Pazartesi gününe kadar hakem şefi Atakan Dürüst’e [email protected] turnuvada çalışacaklarına dair confirm maili atmaları gerekmektedir. 19 Ağustos 2026 Detaylar 15 Ağusto",
-  "image": "http://www.ttf.org.tr/public/announcement/6a80411dcd5c8_1786790173.jpg",
-  "category": "duyuru",
-  "tags": [
-   "hakem"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "ae8dc3cdc7ba732d",
-  "federation": "tenis",
-  "federation_name": "Türkiye Tenis Federasyonu",
-  "federation_short": "TTF",
-  "title": "Ocak-Ağustos Uluslararası Hakem Atamaları",
-  "url": "http://www.ttf.org.tr/tr/duyuru-detay/510",
-  "summary": "Hakem Duyuruları Tüm Yıllar 2026 2025 2024 2023 İstanbul TED ATP Challenger Çizgi Hakemleri 06- tarihleri arasında TED kulübünde gerçekleştirilecek turnuvanın çizgi hakemleri listesi ektedir. Seçilen hakemlerin en geç 24 Ağustos Pazartesi gününe kadar hakem şefi Atakan Dürüst’e [email protected] turnuvada çalışacaklarına dair confirm maili atmaları gerekmektedir. 19 Ağustos 2026 Detaylar Ocak-Ekim",
-  "image": "http://www.ttf.org.tr/public/announcement/6a733cb39f083_1785937075.jpg",
-  "category": "duyuru",
-  "tags": [
-   "hakem"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "f61965afd1a433d1",
-  "federation": "tenis",
-  "federation_name": "Türkiye Tenis Federasyonu",
-  "federation_short": "TTF",
-  "title": "Şubat-Ağustos 2026 Masters Hakem Atamaları",
-  "url": "http://www.ttf.org.tr/tr/duyuru-detay/499",
-  "summary": "Hakem Duyuruları Tüm Yıllar 2026 2025 2024 2023 İstanbul TED ATP Challenger Çizgi Hakemleri 06- tarihleri arasında TED kulübünde gerçekleştirilecek turnuvanın çizgi hakemleri listesi ektedir. Seçilen hakemlerin en geç 24 Ağustos Pazartesi gününe kadar hakem şefi Atakan Dürüst’e [email protected] turnuvada çalışacaklarına dair confirm maili atmaları gerekmektedir. 19 Ağustos 2026 Detaylar Ocak-Ekim",
-  "image": "http://www.ttf.org.tr/public/announcement/6a5a1108c9446_1784287496.jpg",
-  "category": "duyuru",
-  "tags": [
-   "hakem"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "defc704f67099009",
-  "federation": "tenis",
-  "federation_name": "Türkiye Tenis Federasyonu",
-  "federation_short": "TTF",
-  "title": "Ocak-Ağustos 2026 Performans Hakem Atamaları",
-  "url": "http://www.ttf.org.tr/tr/duyuru-detay/498",
-  "summary": "Hakem Duyuruları Tüm Yıllar 2026 2025 2024 2023 İstanbul TED ATP Challenger Çizgi Hakemleri 06- tarihleri arasında TED kulübünde gerçekleştirilecek turnuvanın çizgi hakemleri listesi ektedir. Seçilen hakemlerin en geç 24 Ağustos Pazartesi gününe kadar hakem şefi Atakan Dürüst’e [email protected] turnuvada çalışacaklarına dair confirm maili atmaları gerekmektedir. 19 Ağustos 2026 Detaylar Ocak-Ekim",
-  "image": "http://www.ttf.org.tr/public/announcement/6a5a103e6fd98_1784287294.jpg",
-  "category": "duyuru",
-  "tags": [
-   "hakem"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "235d09ab331b301d",
-  "federation": "tenis",
-  "federation_name": "Türkiye Tenis Federasyonu",
-  "federation_short": "TTF",
-  "title": "TTF Aday Hakem Yetiştirme Kursu Bartın",
-  "url": "http://www.ttf.org.tr/tr/duyuru-detay/496",
-  "summary": "Hakem Duyuruları Tüm Yıllar 2026 2025 2024 2023 İstanbul TED ATP Challenger Çizgi Hakemleri 06- tarihleri arasında TED kulübünde gerçekleştirilecek turnuvanın çizgi hakemleri listesi ektedir. Seçilen hakemlerin en geç 24 Ağustos Pazartesi gününe kadar hakem şefi Atakan Dürüst’e [email protected] turnuvada çalışacaklarına dair confirm maili atmaları gerekmektedir. 19 Ağustos 2026 Detaylar Ocak-Ekim",
-  "image": "http://www.ttf.org.tr/public/announcement/6a59d80847e78_1784272904.jpg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
- },
- {
-  "id": "255b2c3a99c216b2",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "2026 - 2027 Sezonu Artistik Buz Pateni Hakem Vize Semineri",
-  "url": "https://buzpateni.org.tr/bildiri-detay/2026-2027-sezonu-hakem-vize-semineri-13-null",
-  "summary": "​ PURE AS ICE Sonuçlar Bilgi Portalı Galeri Sizden Gelenler Vizyon & Misyon 2030 Kayıt Ol Giriş Yap 2026 - 2027 Sezonu Artistik Buz Pateni Hakem Vize Semineri Anasayfa Bildiriler 2026 - 2027 Sezonu Artistik Buz Pateni Hakem Vize Semineri 2026 - 2027 Sezonu Artistik Buz Pateni Hakem Vize Semineri 2026 – 2027 sezonunda Artistik Buz Pateni branşı hakem, teknik uzman, video data ve teknik kontrollerin vizeli sayılabilmesi ve yarışmalarda görev alabilmeleri için Federasyonumuzca düzenlenecek olan “Artistik Buz Pateni Hakem Vize Semineri'nden\" herhangi birine katılmaları ve ilgili kademesine ait viz",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "vize",
-   "hakem"
-  ],
-  "published_at": "2026-08-19T21:45:48+03:00",
-  "first_seen_at": "2026-08-19T21:45:48+03:00",
-  "source": "html"
  }
 ]

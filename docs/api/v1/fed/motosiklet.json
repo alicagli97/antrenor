@@ -13,6 +13,24 @@
    "mevzuat",
    "talimat"
   ],
+  "published_at": "2026-09-11T08:21:38+00:00",
+  "first_seen_at": "2026-09-11T08:21:38+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "1a59f81f4b5f7d3f",
+  "federation": "motosiklet",
+  "federation_name": "Türkiye Motosiklet Federasyonu",
+  "federation_short": "TMF",
+  "title": "Mevzuat güncellendi: Logo ve TMF Bilgilendirme Rehberi",
+  "url": "https://www.tmf.org.tr/mevzuat/Logo-ve-TMF-Bilgilendirme-Rehberi/",
+  "summary": "Türkiye Motosiklet Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
   "published_at": "2026-09-10T08:27:04+00:00",
   "first_seen_at": "2026-09-10T08:27:04+00:00",
   "source": "mevzuat"
@@ -422,23 +440,5 @@
   "published_at": "2026-08-22T04:21:33+00:00",
   "first_seen_at": "2026-08-22T04:21:33+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "b1a26d152adeba21",
-  "federation": "motosiklet",
-  "federation_name": "Türkiye Motosiklet Federasyonu",
-  "federation_short": "TMF",
-  "title": "Motosiklet faaliyet takvimi yayında",
-  "url": "https://www.tmf.org.tr/Duyurular/2026-Yaris-Takvimi-Aciklandi/",
-  "summary": "Federasyonun faaliyet takvimi uygulamaya eklendi.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-20T20:10:52+00:00",
-  "first_seen_at": "2026-08-20T20:10:52+00:00",
-  "source": "takvim-html"
  }
 ]

@@ -1,5 +1,90 @@
 [
  {
+  "id": "bc0d54141636b64a",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U18 Millî Takımı'nın Uluslararası Porto Turnuvası Aday Kadrosu Açıklandı",
+  "url": "https://www.tff.org/default.aspx?pageID=275&ftxtID=51312",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T09:35:37+00:00",
+  "first_seen_at": "2026-09-11T09:35:37+00:00",
+  "source": "html"
+ },
+ {
+  "id": "e248675d25866e66",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Turnuva Yönergeleri",
+  "url": "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T09:35:37+00:00",
+  "first_seen_at": "2026-09-11T09:35:37+00:00",
+  "source": "html"
+ },
+ {
+  "id": "1730df2f143ea12c",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Türkiye Kulüpler Satranç Şampiyonası",
+  "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-kulupler-satranc-sampiyonasi",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T09:35:37+00:00",
+  "first_seen_at": "2026-09-11T09:35:37+00:00",
+  "source": "html"
+ },
+ {
+  "id": "488bdd704f1a5824",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Türkiye Satranç Şampiyonası",
+  "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-sampiyonasi",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T09:35:37+00:00",
+  "first_seen_at": "2026-09-11T09:35:37+00:00",
+  "source": "html"
+ },
+ {
+  "id": "5ba9b4e6ce0110bb",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Türkiye Kadınlar Satranç Şampiyonası",
+  "url": "https://www.tsf.org.tr/kaynaklar/sampiyonalar/turkiye-kadinlar-satranc-sampiyonasi",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-11T09:35:37+00:00",
+  "first_seen_at": "2026-09-11T09:35:37+00:00",
+  "source": "html"
+ },
+ {
   "id": "cb6261cf18aecdf4",
   "federation": "satranc",
   "federation_name": "Türkiye Satranç Federasyonu",
@@ -1665,6 +1750,23 @@
   "source": "html"
  },
  {
+  "id": "38118083570da54c",
+  "federation": "bric",
+  "federation_name": "Türkiye Briç Federasyonu",
+  "federation_short": "TBF",
+  "title": "Noter Huzurunda Mali Genel Kurul Delege Belirleme ve Kura Çekilişi Gerçekleştirildi Canlı yayınlanan çekilişin kaydını YouTube Kanalımızdan…",
+  "url": "https://tbricfed.org.tr/posts/noter-huzurunda-mali-genel-kurul-delege-belirleme-ve-kura-cekilisi-gerceklestirildi",
+  "summary": "",
+  "image": "https://cdn.tbricfed.org.tr/wp-content/uploads/2026/08/delege.png",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-04T00:00:00+00:00",
+  "first_seen_at": "2026-09-11T09:35:37+00:00",
+  "source": "html"
+ },
+ {
   "id": "d687cd28fde18bf1",
   "federation": "bric",
   "federation_name": "Türkiye Briç Federasyonu",
@@ -3285,141 +3387,5 @@
   "published_at": "2026-08-21T13:58:49+00:00",
   "first_seen_at": "2026-08-21T13:58:49+00:00",
   "source": "api"
- },
- {
-  "id": "715287668e9b0368",
-  "federation": "halter",
-  "federation_name": "Türkiye Halter Federasyonu",
-  "federation_short": "THF",
-  "title": "Genç Kulüpler Türkiye Halter Şampiyonası (k-e)reglaman Duyurusu",
-  "url": "https://halter.gov.tr/genc-kulupler-turkiye-halter-sampiyonasi-k-ereglaman-duyurusu/",
-  "summary": "15-20 Eylül 2026 tarihleri arasında Konya Karatay Spor ve Kongre Merkezi Spor Salonunda yapılacak olan Genç Kulüpler Türkiye Halter Şampiyonası Reglamanı aşağıya çıkarılmıştır.",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-21T12:22:08+00:00",
-  "first_seen_at": "2026-08-21T13:08:12+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "21a2bc158b0794df",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "12-13 Eylül 2026 Paintbal Büyükler Kulüpler Türkiye Şampiyonaı 3. Ayak Müsabakaları / Yalova Termal",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-470-12-13-eylul-2026-paintbal-buyukler-kulupler-turkiye-sampiyonai-3.-ayak-musabakalari-yalova-termal",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-21T08:55:18+00:00",
-  "first_seen_at": "2026-08-21T08:55:18+00:00",
-  "source": "html"
- },
- {
-  "id": "4fbdb17a6228bb7a",
-  "federation": "gures",
-  "federation_name": "Türkiye Güreş Federasyonu",
-  "federation_short": "TGF",
-  "title": "Veteranlar Dünya Şampiyonası Katılımı Hakkında",
-  "url": "https://tgf.tr/2026/08/21/veteranlar-dunya-sampiyonasi-katilimi-hakkinda/",
-  "summary": "06-12 Ekim 2026 tarihleri arasında Ürdün’ün Amman kentinde düzenlenecek olan Veteranlar Güreş Dünya Şampiyonası’na katılmak isteyen kişilerin, duyuruda",
-  "image": "https://tgf.tr/wp-content/uploads/2025/07/TGF-Duyuru.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-21T00:04:00+00:00",
-  "first_seen_at": "2026-08-21T13:08:12+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "ea9f43a2926a8383",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "U13 Türkiye Ferdi Boks Şampiyonası Sona Erdi",
-  "url": "https://www.turkboks.gov.tr/u13-turkiye-ferdi-boks-sampiyonasi-sona-erdi/",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "28b49c8351ce1a14",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "U19 Avrupa Boks Şampiyonası Başlıyor!",
-  "url": "https://www.turkboks.gov.tr/u19-avrupa-boks-sampiyonasi-basliyor/",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "72c2ab42fed51d18",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "U13 Türkiye Ferdi Boks Şampiyonası Sivas’ta Başlıyor",
-  "url": "https://www.turkboks.gov.tr/u13-turkiye-ferdi-boks-sampiyonasi-sivasta-basliyor/",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "d33008da70a8234e",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "2026-2027 Voleybol Sezonu Kura Çekimi Duyurusu",
-  "url": "https://tvf.org.tr/icerik/2026-2027-voleybol-sezonu-kura-cekimi-duyurusu",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
- },
- {
-  "id": "18b556f1b853a14d",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "CEV Kadınlar Avrupa Şampiyonası Medya Akreditasyonu Sona Erdi",
-  "url": "https://tvf.org.tr/icerik/2026-cev-kadinlar-avrupa-sampiyonasi-medya-akreditasyonu-sona-erdi",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-20T19:23:27+00:00",
-  "first_seen_at": "2026-08-20T19:23:27+00:00",
-  "source": "html"
  }
 ]

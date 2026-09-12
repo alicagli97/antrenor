@@ -1,5 +1,22 @@
 [
  {
+  "id": "d7e7e1395641b1f8",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "TGF Federasyon Kupası Talimatı",
+  "url": "https://tgf.org.tr/upload/yarisma-talimati-tgf-federasyon-kupasi-turnuvasi-2026_6014ec_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat"
+  ],
+  "published_at": "2026-09-12T14:04:15+00:00",
+  "first_seen_at": "2026-09-12T14:04:15+00:00",
+  "source": "html"
+ },
+ {
   "id": "ec8c12d73ccf89f1",
   "federation": "golf",
   "federation_name": "Türkiye Golf Federasyonu",
@@ -1045,25 +1062,6 @@
   ],
   "published_at": "2026-09-11T08:21:10+00:00",
   "first_seen_at": "2026-09-11T08:21:10+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "0faf8bc3f18dacd7",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Sporcu Lisans, Vize ve Transfer Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/sporcu-lisans-vize-ve-transfer-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-11T08:21:09+00:00",
-  "first_seen_at": "2026-09-11T08:21:09+00:00",
   "source": "mevzuat"
  }
 ]

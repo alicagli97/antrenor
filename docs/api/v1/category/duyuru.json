@@ -1,5 +1,71 @@
 [
  {
+  "id": "6426cf895344fe84",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-gebze-134141",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-12T17:02:45+00:00",
+  "first_seen_at": "2026-09-12T17:02:45+00:00",
+  "source": "html"
+ },
+ {
+  "id": "c52c356938858f3f",
+  "federation": "paralimpik",
+  "federation_name": "Türkiye Milli Paralimpik Komitesi",
+  "federation_short": "TMPK",
+  "title": "Kocaeli 2026’da Beşinci Gün: Dünya Rekorları ve Büyük Mücadeleler",
+  "url": "https://www.tmpk.org.tr/kocaeli-2026/kocaeli-2026da-besinci-gun-dunya-rekorlari-ve-buyuk-mucadeleler/",
+  "summary": "Kocaeli 2026 Dünya Para Yüzme Avrupa Şampiyonası’nın beşinci gününde Defne Kurt, kadınlar 100 metre sırtüstü S10’da Avrupa şampiyonu olarak çıktığı…",
+  "image": "https://www.tmpk.org.tr/wp-content/uploads/2026/09/Kratochvil.jpg",
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-12T16:50:04+00:00",
+  "first_seen_at": "2026-09-12T17:02:45+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "a7b188c3bd34b6ea",
+  "federation": "paralimpik",
+  "federation_name": "Türkiye Milli Paralimpik Komitesi",
+  "federation_short": "TMPK",
+  "title": "Kocaeli 2026’da Dördüncü Gün: Defne Kurt’tan Üçte Üç",
+  "url": "https://www.tmpk.org.tr/kocaeli-2026/kocaeli-2026da-dorduncu-gun-defne-kurttan-ucte-uc/",
+  "summary": "Kocaeli 2026 Dünya Para Yüzme Avrupa Şampiyonası’nın dördüncü gününde Defne Kurt, kadınlar 100 metre kelebek S10’da Avrupa şampiyonu olarak çıktığı…",
+  "image": "https://www.tmpk.org.tr/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-09.53.34.jpeg",
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-12T16:37:26+00:00",
+  "first_seen_at": "2026-09-12T17:02:45+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "8bde1b9fec2a0371",
+  "federation": "gelenekselguresler",
+  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
+  "federation_short": "TGGF",
+  "title": "Suluova Belediyesi Yağlı Güreşleri",
+  "url": "https://tggf.org.tr/suluova-belediyesi-yagli-guresleri-2/",
+  "summary": "Benzer Haberler ... HAVRAN BELEDİYESİ SEYİT ONBAŞI YAĞLI GÜREŞLERİ Haberler YAĞLI GÜREŞ CUMHURBAŞKANLIĞI KUPASI KATILACAK PEHLİVANLAR LİSTESİ Duyurular , Haberler 674.TARİHİ ELMALI YAĞLI GÜREŞLERİNDE ORHAN OKULU BAŞPEHLİVAN OLDU Duyurular , Haberler",
+  "image": "https://tggf.org.tr/wp-content/uploads/2026/09/suluova_ilk_dort.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-12T16:34:51+00:00",
+  "first_seen_at": "2026-09-12T17:02:45+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "69a85fbc3ed82b0f",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -66,23 +132,6 @@
   "source": "html"
  },
  {
-  "id": "b4b2eec83e37bce6",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
-  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-gebze-13",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-12T14:04:15+00:00",
-  "first_seen_at": "2026-09-12T14:04:15+00:00",
-  "source": "html"
- },
- {
   "id": "d4ccd04f973273ff",
   "federation": "buzpateni",
   "federation_name": "Türkiye Buz Pateni Federasyonu",
@@ -130,6 +179,36 @@
   "published_at": "2026-09-12T06:26:38+00:00",
   "first_seen_at": "2026-09-12T10:39:36+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "f2c7e8f8a002c559",
+  "federation": "bric",
+  "federation_name": "Türkiye Briç Federasyonu",
+  "federation_short": "TBF",
+  "title": "Masterpoint Sıralama Sayfası Yenilendi Masterpoint Sıralamaları Tek Sayfada Daha önce ayrı sayfalarda yer alan sıralamalar artık tek sayfada, üç…",
+  "url": "https://tbricfed.org.tr/posts/masterpoint-siralama-sayfasi-yenilendi-masterpoint-siralamalari-tek-sayfada",
+  "summary": "bakışla... Haberler Dünya Kadınlar İkili Şampiyonasında Gümüş Madalya Polonya’nın Katowice kentinde oynanan Dünya Briç Şampiyonaları Kadın İkili Serisi’nde 2. olarak... Haberler 4 Eylül 2026 Polonya’nın Katowice kentinde oynanan Dünya Briç Şampiyonaları Kadın Takımlar Serisi’nde 3. olarak bronz madalya kazanan Huang Takımı üyesi sporcularımızı kutlarız. Huang Takımı: Dilek Yavaş (K), Berrak Erkan,",
+  "image": "https://cdn.tbricfed.org.tr/wp-content/uploads/2026/09/Ekran-Resmi-2026-09-12-12.39.21.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-12T00:00:00+00:00",
+  "first_seen_at": "2026-09-12T17:02:45+00:00",
+  "source": "html"
+ },
+ {
+  "id": "fc067ea7c12f5520",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak Kaçkar By Utmb'nin Startını Verdi, 4 Km Koştu",
+  "url": "https://gsb.gov.tr/tr/haber-detay/302976-bakan-bak-kackar-by-utmbnin-startini-verdi-4-km-kostu",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/a37f3828-2ec8-440d-a5c3-fbbdfec08979.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-12T00:00:00+00:00",
+  "first_seen_at": "2026-09-12T17:02:45+00:00",
+  "source": "html"
  },
  {
   "id": "8e148a50dad5576d",
@@ -3016,84 +3095,6 @@
   ],
   "published_at": "2026-09-10T00:00:00+00:00",
   "first_seen_at": "2026-09-10T14:22:01+00:00",
-  "source": "html"
- },
- {
-  "id": "3d20d83da5615be3",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "ILCA 6 U21 Milli Takım Kampı",
-  "url": "https://www.tyf.org.tr/duyurular/yaris/ilca-6-u21-milli-takim-kampi/315748/",
-  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular ILCA 6 U21 Milli Takım Kampı ILCA 6 U21 Milli Takım Kampı 10.09.2026 Duyurular 114 Paylaş Tweetle Türkiye Yelken Federasyonu 2026 Yılı Faaliyet Programı’nda yer alan ILCA 6 U21 Milli Takım Kampı, 19 Eylül 2026 – 22 Eylül 2026 tarihleri arasında Bodrum Belediyesi Bodrumspor Kulübü Yelken Şubesi ev sahipliğ",
-  "image": "https://portal.tyf.org.tr/content/images/pageimages/image-not-found.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-10T00:00:00+00:00",
-  "first_seen_at": "2026-09-10T14:22:01+00:00",
-  "source": "html"
- },
- {
-  "id": "1b97cbcec20be269",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2",
-  "summary": "10 Eyl 09 Eyl Türkiye İzcilik Federasyonu DİVFEST TİFAKE Destek Faaliyeti 9 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST İzci Kampı 9 Eylül 2026 02 Eyl 2 Eylül 2026 18 Ağu BAŞSAĞLIĞI Giresun ili izci liderlerimizden İsmail ŞEYRANLIOĞLU'nun annesi Kezban ŞEYRANLIOĞLU ve ağabeyi Demircan ŞEYRANLIOĞLU, Hakkın Rahmetine kavuşmuşlardır. Merhumeye… 18 Ağustos 2026 17 Ağu Detaylar, duyurumuzun d",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-10T00:00:00+00:00",
-  "first_seen_at": "2026-09-10T09:38:24+00:00",
-  "source": "html"
- },
- {
-  "id": "8125eaf135cb879c",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "UEFA'dan Halil Umut Meler'e Görev",
-  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51306",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-09T18:33:27+00:00",
-  "first_seen_at": "2026-09-09T18:33:27+00:00",
-  "source": "html"
- },
- {
-  "id": "f6e57109c33df419",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "En iyi Aslan Balığı Fotoğrafı, Altın Palet Türkiye Şampiyonunu Belirleyecek",
-  "url": "https://www.tssf.gov.tr/en-iyi-aslan-baligi-fotografi-altin-palet-turkiye-sampiyonunu-belirleyecek/",
-  "summary": "Sualtı Sporları Federasyonumuzun (TSSF) Altın Palet Sualtı Görüntüleme Türkiye Şampiyonası ve Milli Takım Seçmeleri, yarın (10 Eylül Perşembe)",
-  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
-  "category": "duyuru",
-  "tags": [
-   "musabaka",
-   "milli_takim"
-  ],
-  "published_at": "2026-09-09T16:49:23+00:00",
-  "first_seen_at": "2026-09-09T18:33:27+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "360a11794798e72b",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "UEFA'dan Oğuzhan Çakır'a Görev",
-  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51302",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-09T14:30:53+00:00",
-  "first_seen_at": "2026-09-09T14:30:53+00:00",
   "source": "html"
  }
 ]

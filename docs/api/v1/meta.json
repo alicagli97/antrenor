@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-12T19:14:10+00:00",
+ "generated_at": "2026-09-12T22:15:03+00:00",
  "total": 5998,
- "new_in_last_run": 494,
+ "new_in_last_run": 493,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -11,13 +11,13 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-12T19:14:10+00:00",
+ "latest_published_at": "2026-09-12T22:15:03+00:00",
  "categories": {
-  "duyuru": 587,
+  "duyuru": 588,
   "musabaka": 252,
   "takvim": 66,
   "haber": 50,
-  "mevzuat": 4919,
+  "mevzuat": 4918,
   "kurs": 124
  },
  "silent_sources": [
@@ -34,6 +34,7 @@
  ],
  "federation_counts": {
   "buzpateni": 449,
+  "ozelsporcular": 160,
   "atletizm": 68,
   "gelismekteolan": 31,
   "paralimpik": 6,
@@ -50,11 +51,10 @@
   "ragbi": 80,
   "universitesporlari": 77,
   "oryantiring": 67,
-  "ozelsporcular": 159,
   "muaythai": 125,
   "motosiklet": 25,
   "okculuk": 50,
-  "dagcilik": 759,
+  "dagcilik": 758,
   "bocce": 433,
   "satranc": 116,
   "bilardo": 68,

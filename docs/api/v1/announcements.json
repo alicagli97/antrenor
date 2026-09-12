@@ -1,5 +1,23 @@
 [
  {
+  "id": "f6bb62c39ddae8fd",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-12T00:10:53+00:00",
+  "first_seen_at": "2026-09-12T00:10:53+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "8e148a50dad5576d",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -8482,6 +8500,21 @@
   ],
   "published_at": "2026-09-11T00:04:08+00:00",
   "first_seen_at": "2026-09-11T00:04:08+00:00",
+  "source": "html"
+ },
+ {
+  "id": "74756986a470fcd4",
+  "federation": "karate",
+  "federation_name": "Türkiye Karate Federasyonu",
+  "federation_short": "TKF",
+  "title": "Türk Karatesi Avrupa’da Zirvede!",
+  "url": "https://karate.gov.tr/blog_detay.php?id=90",
+  "summary": "Karate-Do Nedir? Tarihçe Vizyonumuz Misyonumuz Stratejik Plan | Anasayfa / Blog Haber Detayı TÜRK KARATESİ AVRUPA’DA ZİRVEDE! 11.09.2026 22:44 19 Okunma Arnavutluk’un başkenti Tiran’da düzenlenen 2026 Avrupa Üniversiteler Dövüş Sporları Şampiyonası’nda (European Universities Combat Sports Championships), üniversitelerini ve ülkemizi temsil eden sporcularımız önemli bir başarıya imza attı. Karate branşında 5 altın, 4 gümüş ve 12 bronz olmak üzere toplam 21 madalya kazanan Türkiye, ülkeler genel klasmanını birinci sırada tamamladı. Bireysel ve takım kategorilerinde elde edilen derecelerle zirvey",
+  "image": "https://karate.gov.tr/uploads/blog/blog_1789166978_551.webp",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-11T00:00:00+00:00",
+  "first_seen_at": "2026-09-12T00:12:41+00:00",
   "source": "html"
  },
  {
@@ -107382,43 +107415,6 @@
   ],
   "published_at": "2026-08-22T04:20:31+00:00",
   "first_seen_at": "2026-08-22T04:20:31+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "bbb4c21dbc3cab01",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Profesyonel Golf Antrenörleri Birliği Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/profesyonel-golf-antrenorleri-birligi-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-22T04:20:31+00:00",
-  "first_seen_at": "2026-08-22T04:20:31+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "227eeae16360b7ac",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: İl Temsilcisi Talimatı",
-  "url": "https://drive.google.com/file/d/1on7GN5BD36Vlruf2RXD4fSaggU_S3NTb/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-22T04:20:30+00:00",
-  "first_seen_at": "2026-08-22T04:20:30+00:00",
   "source": "mevzuat"
  }
 ]

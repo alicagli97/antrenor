@@ -15,7 +15,7 @@ class Veri extends ChangeNotifier {
   static const kok = 'https://alicagli97.github.io/antrenor/api/v1';
 
   /// Ücretsiz sürümde takip edilebilecek federasyon sayısı
-  static const ucretsizTakipSiniri = 1;
+  static const ucretsizTakipSiniri = 5;
 
   bool get premium => Abonelik.ornek.premium;
 

@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-12T22:15:03+00:00",
- "total": 5998,
- "new_in_last_run": 493,
+ "generated_at": "2026-09-13T00:55:04+00:00",
+ "total": 5999,
+ "new_in_last_run": 492,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -11,9 +11,9 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-12T22:15:03+00:00",
+ "latest_published_at": "2026-09-13T00:55:03+00:00",
  "categories": {
-  "duyuru": 588,
+  "duyuru": 589,
   "musabaka": 252,
   "takvim": 66,
   "haber": 50,
@@ -33,7 +33,7 @@
   }
  ],
  "federation_counts": {
-  "buzpateni": 449,
+  "buzpateni": 450,
   "ozelsporcular": 160,
   "atletizm": 68,
   "gelismekteolan": 31,

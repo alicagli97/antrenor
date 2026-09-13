@@ -1,5 +1,75 @@
 [
  {
+  "id": "469eacfe30c730f8",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U15 Kız Millî Takımımız, Moldova'yı 6-0 Mağlup Etti",
+  "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51330",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-13T19:23:35+00:00",
+  "first_seen_at": "2026-09-13T19:23:35+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f2c0c0b54894fa8d",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-13T19:22:04+00:00",
+  "first_seen_at": "2026-09-13T19:22:04+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "588064d90e4de6e6",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 353 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-13T19:21:56+00:00",
+  "first_seen_at": "2026-09-13T19:21:56+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "2163db4e2498ec1e",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "23–27 Eylül 2026 Tarihleri Arasında Antalya İlinde Yapılacak Olan Cankurtarma Eğitmenleri Gelişim Semineri Hakkında Önemli Duyuru",
+  "url": "https://www.tssf.gov.tr/23-27-eylul-2026-tarihleri-arasinda-antalya-ilinde-yapilacak-olan-cankurtarma-egitmenleri-gelisim-semineri-hakkinda-onemli-duyuru/",
+  "summary": "23–27 Eylül 2026 tarihleri arasında Antalya ilinde gerçekleştirilecek olan Cankurtarma Eğitmenleri Gelişim Semineri ile ilgili aşağıdaki hususların tüm",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "kurs",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-09-13T17:15:46+00:00",
+  "first_seen_at": "2026-09-13T19:23:35+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "e3015ed9fcfdcfcc",
   "federation": "boks",
   "federation_name": "Türkiye Boks Federasyonu",
@@ -4218,6 +4288,21 @@
   ],
   "published_at": "2026-09-13T00:55:03+00:00",
   "first_seen_at": "2026-09-13T00:55:03+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d2a5b21503e428bc",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak’tan Dünya Gençler Ralli Şampiyonu Ali Türkkan için Tebrik Mesajı",
+  "url": "https://gsb.gov.tr/tr/haber-detay/302984-bakan-baktan-dunya-gencler-ralli-sampiyonu-ali-turkkan-icin-tebrik-mesaji",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/dc9ba873-5bf3-413b-8064-24ec1b8b6445.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-13T00:00:00+00:00",
+  "first_seen_at": "2026-09-13T19:23:35+00:00",
   "source": "html"
  },
  {
@@ -107326,101 +107411,6 @@
   ],
   "published_at": "2026-08-24T04:29:52+00:00",
   "first_seen_at": "2026-08-24T04:29:52+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "3de27796e05af897",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: TDF Antrenör Eğitim Talimatı (05.10.2020 tarihinden itibaren ilgili yönetmelik kapsamında yürürlükte bulunan talimat)",
-  "url": "https://drive.google.com/file/d/1aKHh9eWq0KjxDEIIGDhpUJ9SDQ3KiJG9/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-24T04:29:52+00:00",
-  "first_seen_at": "2026-08-24T04:29:52+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "738070b603716bf2",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Emniyetçi Eğitim Talimatı",
-  "url": "https://drive.google.com/file/d/1QnAT3QYK5EpDCt_mr5Ao7oTfq6Z_aHV7/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-24T04:29:51+00:00",
-  "first_seen_at": "2026-08-24T04:29:51+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "62805a42a2329ffd",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Kulüplerin Dağcılık Eğitimi Düzenleme Yönergesi (Yürürlükten kaldırıldı yerine TDF Eğitim Yönergesi geldi)",
-  "url": "https://drive.google.com/file/d/1_NN0kAbLJuRmoHppOuXuzsx187IDLkQS/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-24T04:29:50+00:00",
-  "first_seen_at": "2026-08-24T04:29:50+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "3e60bdd60a72df6c",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Dalı Tescil Talimatı (Onay Tarihi:01.11.2024)",
-  "url": "https://drive.google.com/file/d/1_NBf2GNxsaHvm39JlcvG8Fh6hmPDIgre/view?usp=drive_link",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-24T04:29:50+00:00",
-  "first_seen_at": "2026-08-24T04:29:50+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "50d434fdbf161e46",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Hakem Talimatı (15.12.2020 tarihinden itibaren yürürlüktedir)",
-  "url": "https://drive.google.com/file/d/1Hyd2QfeRjJzzqXZTRM_glgTgYNAhdNaX/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-24T04:29:49+00:00",
-  "first_seen_at": "2026-08-24T04:29:49+00:00",
   "source": "mevzuat"
  }
 ]

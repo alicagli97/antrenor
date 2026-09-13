@@ -1,5 +1,35 @@
 [
  {
+  "id": "46d8a6a96b30f0e3",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Ali Türkkan Dünya Şampiyonu",
+  "url": "https://www.tosfed.org.tr/ali-turkkan-dunya-sampiyonu/",
+  "summary": "Milli sporcumuz Ali Türkkan, Şili Rallisi’nin ardından 2026 FIA Gençler Dünya Ralli Şampiyonluğu’nu (JWRC) kazanarak, Türk otomobil sporları tarihindeki en büyük başarıya imza attı. Castrol Ford Team Türkiye adına Bilge Ayan ve Oytun Albayrak ile yarışan temsilcimiz, sezon boyunca ortaya koyduğu hızı, mücadeleyi ve kararlılığı Dünya Şampiyonluğu ile taçlandırarak ay yıldızlı bayrağımızı ralli dünyasının zirvesine […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-13T20:04:38+00:00",
+  "first_seen_at": "2026-09-13T22:24:05+00:00",
+  "source": "rss"
+ },
+ {
+  "id": "24f2f414226aae06",
+  "federation": "ozelsporcular",
+  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
+  "federation_short": "TÖSSF",
+  "title": "📚2026 – 2027 Eğitim Öğretim Yılı Başlıyor",
+  "url": "https://tossfed.gov.tr/%f0%9f%93%9a2026-2027-egitim-ogretim-yili-basliyor/",
+  "summary": "Tüm öğrencilerimize, öğretmenlerimize ve eğitim camiamıza yeni eğitim öğretim yılının hayırlı olmasını diliyor, sağlık, başarı ve mutluluklarla geçmesini temenni ediyorum. BİROL AYDIN FEDERASYON BAŞKANI",
+  "image": null,
+  "category": "kurs",
+  "tags": [],
+  "published_at": "2026-09-13T19:56:56+00:00",
+  "first_seen_at": "2026-09-13T22:24:05+00:00",
+  "source": "rss"
+ },
+ {
   "id": "469eacfe30c730f8",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -117,6 +147,23 @@
   "published_at": "2026-09-13T15:22:09+00:00",
   "first_seen_at": "2026-09-13T16:11:10+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "b564fb3c9d3f09c6",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Ankara’da Kıvrak ve Çirkin Zirvede",
+  "url": "https://www.tosfed.org.tr/ankarada-kivrak-ve-cirkin-zirvede/",
+  "summary": "Petlas 2026 Türkiye Offroad Şampiyonası’nın beşinci ayağı olan Ankara Offroad Yarışı, 12-13 Eylül tarihlerinde Ankara Mühye’de gerçekleştirildi. Ankara Doğa Sporları ve Offroad Spor Kulübü (ANDOFF) tarafından Spor Toto, Petlas, Ankara Büyükşehir Belediyesi ve Çankaya Belediyesi katkılarıyla düzenlenen organizasyonda 34 araç ve 68 sporcu mücadele etti. İki gün boyunca büyük çekişmeye sahne olan yarış sonunda, otomobil […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-13T15:10:13+00:00",
+  "first_seen_at": "2026-09-13T22:24:05+00:00",
+  "source": "rss"
  },
  {
   "id": "b1e3987cdb8fc075",
@@ -107354,63 +107401,6 @@
   ],
   "published_at": "2026-08-24T04:29:53+00:00",
   "first_seen_at": "2026-08-24T04:29:53+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cad0386a788f8901",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Eğitim Talimatı",
-  "url": "https://drive.google.com/file/d/1KLomFByoyQ3KweLELC5x_nSuknS32l15/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-24T04:29:52+00:00",
-  "first_seen_at": "2026-08-24T04:29:52+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "1ce4c6bd3a7844d4",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Rota Yapıcılığı Eğitim Talimatı",
-  "url": "https://drive.google.com/file/d/1SUEErgktthmSw4Fce0zNA2uncHjVCz3H/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-24T04:29:52+00:00",
-  "first_seen_at": "2026-08-24T04:29:52+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "4e87422f4408767b",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Sporcu Lisans, Vize ve Transfer Talimatı",
-  "url": "https://drive.google.com/file/d/1OptxI9suvsPMPAGCrQVLYWrbOUfiMJho/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-24T04:29:52+00:00",
-  "first_seen_at": "2026-08-24T04:29:52+00:00",
   "source": "mevzuat"
  }
 ]

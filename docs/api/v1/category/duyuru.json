@@ -1,5 +1,20 @@
 [
  {
+  "id": "46d8a6a96b30f0e3",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Ali Türkkan Dünya Şampiyonu",
+  "url": "https://www.tosfed.org.tr/ali-turkkan-dunya-sampiyonu/",
+  "summary": "Milli sporcumuz Ali Türkkan, Şili Rallisi’nin ardından 2026 FIA Gençler Dünya Ralli Şampiyonluğu’nu (JWRC) kazanarak, Türk otomobil sporları tarihindeki en büyük başarıya imza attı. Castrol Ford Team Türkiye adına Bilge Ayan ve Oytun Albayrak ile yarışan temsilcimiz, sezon boyunca ortaya koyduğu hızı, mücadeleyi ve kararlılığı Dünya Şampiyonluğu ile taçlandırarak ay yıldızlı bayrağımızı ralli dünyasının zirvesine […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-13T20:04:38+00:00",
+  "first_seen_at": "2026-09-13T22:24:05+00:00",
+  "source": "rss"
+ },
+ {
   "id": "2cc2054b3153be38",
   "federation": "gelenekselguresler",
   "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
@@ -13,6 +28,23 @@
   "published_at": "2026-09-13T15:22:09+00:00",
   "first_seen_at": "2026-09-13T16:11:10+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "b564fb3c9d3f09c6",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Ankara’da Kıvrak ve Çirkin Zirvede",
+  "url": "https://www.tosfed.org.tr/ankarada-kivrak-ve-cirkin-zirvede/",
+  "summary": "Petlas 2026 Türkiye Offroad Şampiyonası’nın beşinci ayağı olan Ankara Offroad Yarışı, 12-13 Eylül tarihlerinde Ankara Mühye’de gerçekleştirildi. Ankara Doğa Sporları ve Offroad Spor Kulübü (ANDOFF) tarafından Spor Toto, Petlas, Ankara Büyükşehir Belediyesi ve Çankaya Belediyesi katkılarıyla düzenlenen organizasyonda 34 araç ve 68 sporcu mücadele etti. İki gün boyunca büyük çekişmeye sahne olan yarış sonunda, otomobil […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-13T15:10:13+00:00",
+  "first_seen_at": "2026-09-13T22:24:05+00:00",
+  "source": "rss"
  },
  {
   "id": "b1e3987cdb8fc075",
@@ -3058,40 +3090,6 @@
   "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1780390809_a1193229.png",
   "category": "duyuru",
   "tags": [],
-  "published_at": "2026-09-10T00:00:00+00:00",
-  "first_seen_at": "2026-09-10T21:36:25+00:00",
-  "source": "html"
- },
- {
-  "id": "3f2df3cfa01e4742",
-  "federation": "gormeengelliler",
-  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
-  "federation_short": "GESF",
-  "title": "Genç Erkekler Goalball Milli Takım Aday Kadrosu Belirlendi",
-  "url": "https://www.gesf.org.tr/haber/genc-erkekler-goalball-milli-takim-aday-kadrosu-belirlendi-72",
-  "summary": "duyuru Futbol Deplasmanlı Süper Lig 8. Hafta Hakem ve Görevli Listesi Yayınlandı Futbol Deplasmanlı Süper Lig 8. Hafta Hakem ve Görevli Listesi Yayınlandı 1612 görüntülenme duyuru Futsal Yükselme Müsabakalarında Görev Yapacak Hakemler Belli Oldu Futsal Yükselme Müsabakalarında Görev Yapacak Hakemler Belli Oldu14-20 Eylül 2026 tarihleri arasında Kırşehir’de düzenlenecek olan Futsal Yükselme Müsabak",
-  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1779611583_2b275ea4.png",
-  "category": "duyuru",
-  "tags": [
-   "milli_takim"
-  ],
-  "published_at": "2026-09-10T00:00:00+00:00",
-  "first_seen_at": "2026-09-10T21:36:25+00:00",
-  "source": "html"
- },
- {
-  "id": "b51218a2d6911102",
-  "federation": "gormeengelliler",
-  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
-  "federation_short": "GESF",
-  "title": "Goalball Genç Kadınlar Milli Takım Hazırlık Kampı Duyurusu",
-  "url": "https://www.gesf.org.tr/haber/goalball-genc-kadinlar-milli-takim-hazirlik-kampi-duyurusu-71",
-  "summary": "duyuru Futbol Deplasmanlı Süper Lig 8. Hafta Hakem ve Görevli Listesi Yayınlandı Futbol Deplasmanlı Süper Lig 8. Hafta Hakem ve Görevli Listesi Yayınlandı 1612 görüntülenme duyuru Futsal Yükselme Müsabakalarında Görev Yapacak Hakemler Belli Oldu Futsal Yükselme Müsabakalarında Görev Yapacak Hakemler Belli Oldu14-20 Eylül 2026 tarihleri arasında Kırşehir’de düzenlenecek olan Futsal Yükselme Müsabak",
-  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1779449524_23f42285.png",
-  "category": "duyuru",
-  "tags": [
-   "milli_takim"
-  ],
   "published_at": "2026-09-10T00:00:00+00:00",
   "first_seen_at": "2026-09-10T21:36:25+00:00",
   "source": "html"

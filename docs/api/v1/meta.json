@@ -1,23 +1,24 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-13T19:23:35+00:00",
+ "generated_at": "2026-09-13T22:24:05+00:00",
  "total": 5999,
- "new_in_last_run": 506,
- "sources_ok": 63,
+ "new_in_last_run": 485,
+ "sources_ok": 62,
  "sources_failed": [
   "basketbol",
+  "cimnastik",
   "gures"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-13T19:23:35+00:00",
+ "latest_published_at": "2026-09-13T20:04:38+00:00",
  "categories": {
+  "duyuru": 577,
+  "kurs": 122,
   "musabaka": 253,
   "takvim": 66,
-  "kurs": 121,
-  "duyuru": 575,
-  "mevzuat": 4934,
+  "mevzuat": 4931,
   "haber": 50
  },
  "silent_sources": [
@@ -33,6 +34,8 @@
   }
  ],
  "federation_counts": {
+  "otomobil": 18,
+  "ozelsporcular": 161,
   "futbol": 116,
   "havasporlari": 19,
   "cimnastik": 32,
@@ -49,9 +52,8 @@
   "universitesporlari": 77,
   "oryantiring": 65,
   "muaythai": 124,
-  "ozelsporcular": 160,
   "motosiklet": 23,
-  "dagcilik": 769,
+  "dagcilik": 766,
   "bocce": 435,
   "golf": 470,
   "satranc": 120,
@@ -88,7 +90,6 @@
   "vucutgelistirme": 12,
   "judo": 5,
   "gormeengelliler": 41,
-  "otomobil": 16,
   "danssporlari": 13,
   "basketbol": 43,
   "kano": 9,

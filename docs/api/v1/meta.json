@@ -1,12 +1,23 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-13T00:55:04+00:00",
+ "generated_at": "2026-09-13T06:00:54+00:00",
  "total": 5999,
- "new_in_last_run": 492,
- "sources_ok": 63,
+ "new_in_last_run": 415,
+ "sources_ok": 52,
  "sources_failed": [
   "basketbol",
-  "gures"
+  "boks",
+  "dagcilik",
+  "danssporlari",
+  "gelismekteolan",
+  "gures",
+  "herkesicinspor",
+  "isitmeengelliler",
+  "kano",
+  "masatenisi",
+  "satranc",
+  "sualti",
+  "vucutgelistirme"
  ],
  "sources_empty": [],
  "sources_missing": [],

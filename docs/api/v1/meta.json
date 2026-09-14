@@ -1,23 +1,46 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-14T18:35:22+00:00",
- "total": 5997,
- "new_in_last_run": 524,
- "sources_ok": 63,
+ "generated_at": "2026-09-14T22:42:39+00:00",
+ "total": 5998,
+ "new_in_last_run": 331,
+ "sources_ok": 44,
  "sources_failed": [
+  "atletizm",
   "basketbol",
-  "gures"
+  "bisiklet",
+  "boks",
+  "cimnastik",
+  "dagcilik",
+  "danssporlari",
+  "gelismekteolan",
+  "gormeengelliler",
+  "gures",
+  "halter",
+  "havasporlari",
+  "herkesicinspor",
+  "hokey",
+  "isitmeengelliler",
+  "kano",
+  "masatenisi",
+  "paralimpik",
+  "satranc",
+  "sualti",
+  "taekwondo",
+  "vucutgelistirme",
+  "wushu"
  ],
- "sources_empty": [],
+ "sources_empty": [
+  "bric"
+ ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-14T20:25:47+00:00",
+ "latest_published_at": "2026-09-14T22:26:24+00:00",
  "categories": {
+  "takvim": 66,
   "duyuru": 589,
   "musabaka": 262,
   "kurs": 133,
   "mevzuat": 4895,
-  "takvim": 65,
   "haber": 53
  },
  "silent_sources": [
@@ -33,10 +56,10 @@
   }
  ],
  "federation_counts": {
+  "eskrim": 170,
   "hentbol": 27,
   "futbol": 119,
   "voleybol": 124,
-  "eskrim": 169,
   "golf": 449,
   "hokey": 14,
   "oryantiring": 67,

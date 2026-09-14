@@ -1,9 +1,11 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-14T06:07:50+00:00",
+ "generated_at": "2026-09-14T12:38:32+00:00",
  "total_calendars": 37,
  "total_events": 1430,
- "changed_in_last_run": [],
+ "changed_in_last_run": [
+  "voleybol"
+ ],
  "calendars": [
   {
    "federation": "aticilik",
@@ -16,460 +18,20 @@
    "event_count": 79,
    "events": [
     {
-     "ad": "20.01.2026 - 25.01.2026",
-     "tarih": "2026-01-20",
-     "tarih_metni": "20.01.2026 - 25.01.2026",
-     "yer": "Münih - Almanya",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | H&N CUP | 20.01.2026 - 25.01.2026 | Münih - Almanya | İncele"
-    },
-    {
-     "ad": "TRAP-SKEET MESİR KUPASI",
-     "tarih": "2026-04-17",
-     "tarih_metni": "17.04.2026 - 19.04.2026",
-     "yer": "Manisa",
-     "brans": "Özel Yarışma",
-     "satir": "Özel Yarışma | TRAP-SKEET MESİR KUPASI | Plak Atışları | 17.04.2026 - 19.04.2026 | Manisa | İncele"
-    },
-    {
-     "ad": "PARA ATICILIK HAVALI SİLAHLAR FEDERASYON KUPASI",
-     "tarih": "2026-03-31",
-     "tarih_metni": "31.03.2026 - 02.04.2026",
-     "yer": "Ankara",
-     "brans": "Ulusal",
-     "satir": "Ulusal | PARA ATICILIK HAVALI SİLAHLAR FEDERASYON KUPASI | Para Atıcılık | 31.03.2026 - 02.04.2026 | Ankara | İncele"
-    },
-    {
-     "ad": "SKEET YEŞİLAY ULUSAL EGEMENLİK KUPASI",
-     "tarih": "2026-04-10",
-     "tarih_metni": "10.04.2026 - 12.04.2026",
-     "yer": "Mersin",
-     "brans": "Ulusal",
-     "satir": "Ulusal | SKEET YEŞİLAY ULUSAL EGEMENLİK KUPASI | Plak Atışları | 10.04.2026 - 12.04.2026 | Mersin | İncele"
-    },
-    {
-     "ad": "Mersin - Sakarya - Ankara - Trabzon",
-     "tarih": "2026-01-30",
-     "tarih_metni": "30.01.2026 - 01.02.2026",
-     "yer": "Mersin - Sakarya - Ankara - Trabzon",
-     "brans": "Ulusal",
-     "satir": "Ulusal | HAVALI SİLAHLAR 1.GRUP MÜSABAKASI | Havalı - Ateşli Silahlar | 30.01.2026 - 01.02.2026 | Mersin - Sakarya - Ankara - Trabzon | İncele"
-    },
-    {
-     "ad": "HAVALI SİLAHLAR U16–U18 AVRUPA ŞAMPİYONASI",
-     "tarih": "2026-02-03",
-     "tarih_metni": "03.02.2026 - 09.02.2026",
-     "yer": "Burgas , Bulgaristan",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | HAVALI SİLAHLAR U16–U18 AVRUPA ŞAMPİYONASI | 03.02.2026 - 09.02.2026 | Burgas , Bulgaristan | İncele"
-    },
-    {
-     "ad": "TRAP ATATÜRK’Ü ANMA KUPASI",
-     "tarih": "2026-05-08",
-     "tarih_metni": "08.05.2026 - 10.05.2026",
-     "yer": "İzmir",
-     "brans": "Özel Yarışma",
-     "satir": "Özel Yarışma | TRAP ATATÜRK’Ü ANMA KUPASI | Plak Atışları | 08.05.2026 - 10.05.2026 | İzmir | İncele"
-    },
-    {
-     "ad": "PARA ATICILIK VE İŞİTME ENGELLİLER TÜM DALLAR TÜRKİYE ŞAMPİYONASI",
-     "tarih": "2026-04-28",
-     "tarih_metni": "28.04.2026 - 01.05.2026",
-     "yer": "Mersin",
-     "brans": "Ulusal",
-     "satir": "Ulusal | PARA ATICILIK VE İŞİTME ENGELLİLER TÜM DALLAR TÜRKİYE ŞAMPİYONASI | Para Atıcılık | 28.04.2026 - 01.05.2026 | Mersin | İncele"
-    },
-    {
-     "ad": "TRAP YEŞİLAY ULUSAL EGEMENLİK KUPASI",
-     "tarih": "2026-04-10",
-     "tarih_metni": "10.04.2026 - 12.08.2026",
-     "yer": "Bursa",
-     "brans": "Ulusal",
-     "satir": "Ulusal | TRAP YEŞİLAY ULUSAL EGEMENLİK KUPASI | Plak Atışları | 10.04.2026 - 12.08.2026 | Bursa | İncele"
-    },
-    {
-     "ad": "HAVALI SİLAHLAR COŞKUN ABİŞ KUPASI",
-     "tarih": "2026-03-10",
-     "tarih_metni": "10.03.2026 - 15.08.2026",
-     "yer": "Mersin",
-     "brans": "Ulusal",
-     "satir": "Ulusal | HAVALI SİLAHLAR COŞKUN ABİŞ KUPASI | Havalı - Ateşli Silahlar | 10.03.2026 - 15.08.2026 | Mersin | İncele"
-    },
-    {
-     "ad": "PLAK ATIŞLARI GRAND PRIX",
-     "tarih": "2026-02-05",
-     "tarih_metni": "05.02.2026 - 13.02.2026",
-     "yer": "Doha - Katar",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | PLAK ATIŞLARI GRAND PRIX | 05.02.2026 - 13.02.2026 | Doha - Katar | İncele"
-    },
-    {
-     "ad": "26.06.2026 - 28.06.2026",
-     "tarih": "2026-06-26",
-     "tarih_metni": "26.06.2026 - 28.06.2026",
-     "yer": "Çardak / Denizli",
-     "brans": "Özel Yarışma",
-     "satir": "Özel Yarışma | TRAP HAMBAT KUPASI | Plak Atışları | 26.06.2026 - 28.06.2026 | Çardak / Denizli | İncele"
-    },
-    {
-     "ad": "PARA ATICILIK TÜM DALLAR TÜRKİYE KUPASI",
-     "tarih": null,
-     "tarih_metni": "Muhtelif",
-     "yer": "Muhtelif",
-     "brans": "Ulusal",
-     "satir": "Ulusal | PARA ATICILIK TÜM DALLAR TÜRKİYE KUPASI | Para Atıcılık | Muhtelif | Muhtelif | İncele"
-    },
-    {
-     "ad": "TRAP 1.BÖLGESEL BAHAR KUPASI (1. BÖLGE)",
-     "tarih": "2026-04-24",
-     "tarih_metni": "24.04.2026 - 26.04.2026",
-     "yer": "Bursa",
-     "brans": "Ulusal",
-     "satir": "Ulusal | TRAP 1.BÖLGESEL BAHAR KUPASI (1. BÖLGE) | Plak Atışları | 24.04.2026 - 26.04.2026 | Bursa | İncele"
-    },
-    {
-     "ad": "YEŞİLAY BÜTÜN DALLAR ATEŞLİ SİLAHLAR TÜRKİYE ŞAMPİYONASI",
-     "tarih": "2026-03-25",
-     "tarih_metni": "25.03.2026 - 30.08.2026",
-     "yer": "Mersin",
-     "brans": "Ulusal",
-     "satir": "Ulusal | YEŞİLAY BÜTÜN DALLAR ATEŞLİ SİLAHLAR TÜRKİYE ŞAMPİYONASI | Havalı - Ateşli Silahlar | 25.03.2026 - 30.08.2026 | Mersin | İncele"
-    },
-    {
-     "ad": "HAVALI SİLAHLAR GENÇLER AVRUPA ŞAMPİYONASI",
-     "tarih": "2026-02-09",
-     "tarih_metni": "09.02.2026 - 15.02.2026",
-     "yer": "Burgas, Bulgaristan",
-     "brans": "Özel Yarışma",
-     "satir": "Özel Yarışma | HAVALI SİLAHLAR GENÇLER AVRUPA ŞAMPİYONASI | 09.02.2026 - 15.02.2026 | Burgas, Bulgaristan | İncele"
-    },
-    {
-     "ad": "SKEET NEMRUT KUPASI",
-     "tarih": null,
-     "tarih_metni": "Muhtelif",
-     "yer": "Adıyaman",
-     "brans": "Özel Yarışma",
-     "satir": "Özel Yarışma | SKEET NEMRUT KUPASI | Plak Atışları | Muhtelif | Adıyaman | İncele"
-    },
-    {
-     "ad": "TRAP 1.BÖLGESEL BAHAR KUPASI (2. BÖLGE)",
-     "tarih": "2026-05-01",
-     "tarih_metni": "01.05.2026 - 03.08.2026",
-     "yer": "Mersin",
-     "brans": "Ulusal",
-     "satir": "Ulusal | TRAP 1.BÖLGESEL BAHAR KUPASI (2. BÖLGE) | Plak Atışları | 01.05.2026 - 03.08.2026 | Mersin | İncele"
-    },
-    {
-     "ad": "Mersin - Sakarya - Ankara - Trabzon",
-     "tarih": "2026-04-16",
-     "tarih_metni": "16.04.2026 - 19.04.2026",
-     "yer": "Mersin - Sakarya - Ankara - Trabzon",
-     "brans": "Ulusal",
-     "satir": "Ulusal | HAVALI SİLAHLAR 2.GRUP MÜSABAKASI | Havalı - Ateşli Silahlar | 16.04.2026 - 19.04.2026 | Mersin - Sakarya - Ankara - Trabzon | İncele"
-    },
-    {
-     "ad": "HAVALI SİLAHLAR AVRUPA ŞAMPİYONASI",
-     "tarih": "2026-02-27",
-     "tarih_metni": "27.02.2026 - 05.03.2026",
-     "yer": "Erivan, Ermenistan",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | HAVALI SİLAHLAR AVRUPA ŞAMPİYONASI | 27.02.2026 - 05.03.2026 | Erivan, Ermenistan | İncele"
-    },
-    {
-     "ad": "TRAP SADİ DERTLİ CUMHURİYET KUPASI",
-     "tarih": "2026-10-16",
-     "tarih_metni": "16.10.2026 - 18.10.2026",
-     "yer": "Kahramanmaraş",
-     "brans": "Özel Yarışma",
-     "satir": "Özel Yarışma | TRAP SADİ DERTLİ CUMHURİYET KUPASI | Plak Atışları | 16.10.2026 - 18.10.2026 | Kahramanmaraş | İncele"
-    },
-    {
-     "ad": "TRAP-SKEET MİLLİ TAKIM ELİT KADRO YARIŞMASI",
-     "tarih": "2026-05-15",
-     "tarih_metni": "15.05.2026 - 17.05.2026",
-     "yer": "İzmir",
-     "brans": "Ulusal",
-     "satir": "Ulusal | TRAP-SKEET MİLLİ TAKIM ELİT KADRO YARIŞMASI | Plak Atışları | 15.05.2026 - 17.05.2026 | İzmir | İncele"
-    },
-    {
-     "ad": "HAVALI SİLAHLAR MEHMET BÜLENT TORPİL KUPASI",
-     "tarih": "2026-05-05",
-     "tarih_metni": "05.05.2026 - 10.08.2026",
-     "yer": "Mersin",
-     "brans": "Ulusal",
-     "satir": "Ulusal | HAVALI SİLAHLAR MEHMET BÜLENT TORPİL KUPASI | Havalı - Ateşli Silahlar | 05.05.2026 - 10.08.2026 | Mersin | İncele"
-    },
-    {
-     "ad": "PLAK ATIŞLARI DÜNYA KUPASI",
-     "tarih": "2026-03-25",
-     "tarih_metni": "25.03.2026 - 03.04.2026",
-     "yer": "Morocco, Fas",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | PLAK ATIŞLARI DÜNYA KUPASI | 25.03.2026 - 03.04.2026 | Morocco, Fas | İncele"
-    },
-    {
-     "ad": "TRAP ULUSAL FEDERASYON KUPASI",
-     "tarih": "2026-06-05",
-     "tarih_metni": "05.06.2026 - 07.06.2026",
-     "yer": "K.Maraş",
-     "brans": "Ulusal",
-     "satir": "Ulusal | TRAP ULUSAL FEDERASYON KUPASI | Plak Atışları | 05.06.2026 - 07.06.2026 | K.Maraş | İncele"
-    },
-    {
-     "ad": "HAVALI SİLAHLAR OKUL SPORLARI MÜSABAKALARI",
-     "tarih": "2026-05-15",
-     "tarih_metni": "15.05.2026 - 17.05.2026",
-     "yer": "Ankara",
-     "brans": "Ulusal",
-     "satir": "Ulusal | HAVALI SİLAHLAR OKUL SPORLARI MÜSABAKALARI | Havalı - Ateşli Silahlar | 15.05.2026 - 17.05.2026 | Ankara | İncele"
-    },
-    {
-     "ad": "HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI",
-     "tarih": "2026-04-05",
-     "tarih_metni": "05.04.2026 - 13.04.2026",
-     "yer": "Granada, İspanya",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI | 05.04.2026 - 13.04.2026 | Granada, İspanya | İncele"
-    },
-    {
-     "ad": "SKEET ULUSAL FEDERASYON KUPASI",
-     "tarih": "2026-06-05",
-     "tarih_metni": "05.06.2026 - 07.06.2026",
-     "yer": "İzmir",
-     "brans": "Ulusal",
-     "satir": "Ulusal | SKEET ULUSAL FEDERASYON KUPASI | Plak Atışları | 05.06.2026 - 07.06.2026 | İzmir | İncele"
-    },
-    {
-     "ad": "ÜNİVERSİTELERARASI TÜRKİYE ŞAMPİYONASI",
-     "tarih": "2026-06-27",
-     "tarih_metni": "27.06.2026 - 29.06.2026",
-     "yer": "Mersin",
-     "brans": "Ulusal",
-     "satir": "Ulusal | ÜNİVERSİTELERARASI TÜRKİYE ŞAMPİYONASI | Havalı - Ateşli Silahlar | 27.06.2026 - 29.06.2026 | Mersin | İncele"
-    },
-    {
-     "ad": "PLAK ATIŞLARI DÜNYA KUPASI",
-     "tarih": "2026-05-02",
-     "tarih_metni": "02.05.2026 - 11.05.2026",
-     "yer": "Almaty, Kazakistan",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | PLAK ATIŞLARI DÜNYA KUPASI | 02.05.2026 - 11.05.2026 | Almaty, Kazakistan | İncele"
-    },
-    {
-     "ad": "TRAP 2 .BÖLGESEL MİLLİ DEMOKRASİ KUPASI (1. BÖLGE)",
-     "tarih": "2026-07-03",
-     "tarih_metni": "03.07.2026 - 05.07.2026",
-     "yer": "Konya",
-     "brans": "Ulusal",
-     "satir": "Ulusal | TRAP 2 .BÖLGESEL MİLLİ DEMOKRASİ KUPASI (1. BÖLGE) | Plak Atışları | 03.07.2026 - 05.07.2026 | Konya | İncele"
-    },
-    {
-     "ad": "SARSILMAZ HAVALI SİLAHLAR TÜRKİYE ŞAMPİYONASI",
-     "tarih": "2026-06-30",
-     "tarih_metni": "30.06.2026 - 05.06.2026",
-     "yer": "Mersin",
-     "brans": "Ulusal",
-     "satir": "Ulusal | SARSILMAZ HAVALI SİLAHLAR TÜRKİYE ŞAMPİYONASI | Havalı - Ateşli Silahlar | 30.06.2026 - 05.06.2026 | Mersin | İncele"
-    },
-    {
-     "ad": "ATEŞLİ SİLAHLAR AVRUPA ŞAMPİYONASI",
-     "tarih": "2026-05-06",
-     "tarih_metni": "06.05.2026 - 21.05.2026",
-     "yer": "Osijek, Hırvatistan",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | ATEŞLİ SİLAHLAR AVRUPA ŞAMPİYONASI | 06.05.2026 - 21.05.2026 | Osijek, Hırvatistan | İncele"
-    },
-    {
-     "ad": "TRAP 2 .BÖLGESEL MİLLİ DEMOKRASİ KUPASI (2. BÖLGE)",
-     "tarih": "2026-07-10",
-     "tarih_metni": "10.07.2026 - 12.07.2026",
-     "yer": "Konya",
-     "brans": "Ulusal",
-     "satir": "Ulusal | TRAP 2 .BÖLGESEL MİLLİ DEMOKRASİ KUPASI (2. BÖLGE) | Plak Atışları | 10.07.2026 - 12.07.2026 | Konya | İncele"
-    },
-    {
-     "ad": "HAVALI SİLAHLAR TÜRKİYE FİNALİ",
-     "tarih": "2026-09-11",
-     "tarih_metni": "11.09.2026 - 15.09.2026",
-     "yer": "Muhtelif",
-     "brans": "Ulusal",
-     "satir": "Ulusal | HAVALI SİLAHLAR TÜRKİYE FİNALİ | Havalı - Ateşli Silahlar | 11.09.2026 - 15.09.2026 | Muhtelif | İncele"
-    },
-    {
-     "ad": "PLAK ATIŞLARI U18 AVRUPA ŞAMPİYONASI",
-     "tarih": "2026-05-14",
-     "tarih_metni": "14.05.2026 - 26.05.2026",
-     "yer": "Osijek, Hırvatistan",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | PLAK ATIŞLARI U18 AVRUPA ŞAMPİYONASI | 14.05.2026 - 26.05.2026 | Osijek, Hırvatistan | İncele"
-    },
-    {
-     "ad": "SKEET ULUSAL ZAFER KUPASI",
-     "tarih": "2026-07-31",
-     "tarih_metni": "31.07.2026 - 02.08.2026",
-     "yer": "Bursa",
-     "brans": "Ulusal",
-     "satir": "Ulusal | SKEET ULUSAL ZAFER KUPASI | Plak Atışları | 31.07.2026 - 02.08.2026 | Bursa | İncele"
-    },
-    {
-     "ad": "OLİMPİK BRANŞLAR ATEŞLİ SİLAHLAR FEDERASYON KUPASI",
-     "tarih": null,
-     "tarih_metni": "Muhtelif",
-     "yer": "Muhtelif",
-     "brans": "Ulusal",
-     "satir": "Ulusal | OLİMPİK BRANŞLAR ATEŞLİ SİLAHLAR FEDERASYON KUPASI | Havalı - Ateşli Silahlar | Muhtelif | Muhtelif | İncele"
-    },
-    {
-     "ad": "HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI",
-     "tarih": "2026-05-24",
-     "tarih_metni": "24.05.2026 - 31.05.2026",
-     "yer": "Münih - Almanya",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI | 24.05.2026 - 31.05.2026 | Münih - Almanya | İncele"
-    },
-    {
-     "ad": "İBRAHİM KARASAR TRAP ZAFER KUPASI",
-     "tarih": "2026-08-07",
-     "tarih_metni": "07.08.2026 - 09.08.2026",
-     "yer": "Konya",
-     "brans": "Ulusal",
-     "satir": "Ulusal | İBRAHİM KARASAR TRAP ZAFER KUPASI | Plak Atışları | 07.08.2026 - 09.08.2026 | Konya | İncele"
-    },
-    {
-     "ad": "HAVALI SİLAHLAR 3.GRUP MÜSABAKASI",
-     "tarih": null,
-     "tarih_metni": "Muhtelif",
-     "yer": "Muhtelif",
-     "brans": "Ulusal",
-     "satir": "Ulusal | HAVALI SİLAHLAR 3.GRUP MÜSABAKASI | Havalı - Ateşli Silahlar | Muhtelif | Muhtelif | İncele"
-    },
-    {
-     "ad": "TÜM DALLAR GENÇLER DÜNYA ŞAMPİYONASI",
-     "tarih": "2026-06-16",
-     "tarih_metni": "16.06.2026 - 26.06.2026",
-     "yer": "Suhl, Almanya",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | TÜM DALLAR GENÇLER DÜNYA ŞAMPİYONASI | 16.06.2026 - 26.06.2026 | Suhl, Almanya | İncele"
-    },
-    {
-     "ad": "TRAP 3.BÖLGESEL YAZ KUPASI (2. BÖLGE)",
-     "tarih": "2026-08-14",
-     "tarih_metni": "14.08.2026 - 16.08.2026",
-     "yer": "K.Maraş",
-     "brans": "Ulusal",
-     "satir": "Ulusal | TRAP 3.BÖLGESEL YAZ KUPASI (2. BÖLGE) | Plak Atışları | 14.08.2026 - 16.08.2026 | K.Maraş | İncele"
-    },
-    {
-     "ad": "PLAK ATIŞLARI DÜNYA KUPASI",
-     "tarih": "2026-07-03",
-     "tarih_metni": "03.07.2026 - 13.07.2026",
-     "yer": "Lonato, İtalya",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | PLAK ATIŞLARI DÜNYA KUPASI | 03.07.2026 - 13.07.2026 | Lonato, İtalya | İncele"
-    },
-    {
-     "ad": "TRAP 3.BÖLGESEL YAZ KUPASI (1. BÖLGE)",
-     "tarih": "2026-08-21",
-     "tarih_metni": "21.08.2026 - 23.08.2026",
-     "yer": "Bursa",
-     "brans": "Ulusal",
-     "satir": "Ulusal | TRAP 3.BÖLGESEL YAZ KUPASI (1. BÖLGE) | Plak Atışları | 21.08.2026 - 23.08.2026 | Bursa | İncele"
-    },
-    {
-     "ad": "WSPS PARA ATICILIK DÜNYA KUPASI",
-     "tarih": "2026-07-21",
-     "tarih_metni": "21.07.2026 - 31.08.2026",
-     "yer": "Novi Sad, Sırbistan",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | WSPS PARA ATICILIK DÜNYA KUPASI | 21.07.2026 - 31.08.2026 | Novi Sad, Sırbistan | İncele"
-    },
-    {
-     "ad": "SKEET TÜRKİYE ŞAMPİYONASI",
-     "tarih": "2026-09-11",
-     "tarih_metni": "11.09.2026 - 13.09.2026",
-     "yer": "Konya",
-     "brans": "Ulusal",
-     "satir": "Ulusal | SKEET TÜRKİYE ŞAMPİYONASI | Plak Atışları | 11.09.2026 - 13.09.2026 | Konya | İncele"
-    },
-    {
-     "ad": "ATEŞLİ SİLAHLAR VE PLAK ATIŞLARI U23 AVRUPA ŞAMPİYONASI",
-     "tarih": "2026-08-01",
-     "tarih_metni": "01.08.2026 - 12.08.2026",
-     "yer": "Wroclaw, Polonya",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | ATEŞLİ SİLAHLAR VE PLAK ATIŞLARI U23 AVRUPA ŞAMPİYONASI | 01.08.2026 - 12.08.2026 | Wroclaw, Polonya | İncele"
-    },
-    {
-     "ad": "TRAP TÜRKİYE ŞAMPİYONASI",
-     "tarih": "2026-09-18",
-     "tarih_metni": "18.09.2026 - 20.09.2026",
-     "yer": "Konya",
-     "brans": "Ulusal",
-     "satir": "Ulusal | TRAP TÜRKİYE ŞAMPİYONASI | Plak Atışları | 18.09.2026 - 20.09.2026 | Konya | İncele"
-    },
-    {
-     "ad": "21.08.2026 - 03.09.2026",
-     "tarih": "2026-08-21",
-     "tarih_metni": "21.08.2026 - 03.09.2026",
-     "yer": "Taranto, İtalya",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | AKDENİZ OYUNLARI | 21.08.2026 - 03.09.2026 | Taranto, İtalya | İncele"
-    },
-    {
-     "ad": "WSPS PARA ATICILIK DÜNYA ŞAMPİYONASI",
-     "tarih": "2026-09-07",
-     "tarih_metni": "07.09.2026 - 18.09.2026",
-     "yer": "Changwon, G. Kore",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | WSPS PARA ATICILIK DÜNYA ŞAMPİYONASI | 07.09.2026 - 18.09.2026 | Changwon, G. Kore | İncele"
-    },
-    {
-     "ad": "PLAK ATIŞLARI AVRUPA ŞAMPİYONASI",
-     "tarih": "2026-09-27",
-     "tarih_metni": "27.09.2026 - 13.10.2026",
-     "yer": "Malakasa, Yunanistan",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | PLAK ATIŞLARI AVRUPA ŞAMPİYONASI | 27.09.2026 - 13.10.2026 | Malakasa, Yunanistan | İncele"
-    },
-    {
-     "ad": "HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI",
-     "tarih": "2026-10-08",
-     "tarih_metni": "08.10.2026 - 16.10.2026",
-     "yer": "Kahire, Mısır",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI | 08.10.2026 - 16.10.2026 | Kahire, Mısır | İncele"
-    },
-    {
-     "ad": "FISU ÜNİVERSİTELER ARASI DÜNYA ŞAMPİYONASI",
-     "tarih": "2026-10-27",
-     "tarih_metni": "27.10.2026 - 31.10.2026",
-     "yer": "New Taipei, Çin",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | FISU ÜNİVERSİTELER ARASI DÜNYA ŞAMPİYONASI | 27.10.2026 - 31.10.2026 | New Taipei, Çin | İncele"
-    },
-    {
-     "ad": "TÜM DALLAR DÜNYA ŞAMPİYONASI",
-     "tarih": "2026-11-01",
-     "tarih_metni": "01.11.2026 - 15.11.2026",
-     "yer": "Doha, Katar",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | TÜM DALLAR DÜNYA ŞAMPİYONASI | 01.11.2026 - 15.11.2026 | Doha, Katar | İncele"
-    },
-    {
-     "ad": "WSPS PARA ATICILIK DÜNYA KUPASI",
-     "tarih": "2026-12-07",
-     "tarih_metni": "07.12.2026 - 19.12.2026",
-     "yer": "Al Ain, B.A.E",
-     "brans": "Uluslararası",
-     "satir": "Uluslararası | WSPS PARA ATICILIK DÜNYA KUPASI | 07.12.2026 - 19.12.2026 | Al Ain, B.A.E | İncele"
-    },
-    {
      "ad": "12.01.2026 - 19.01.2026",
      "tarih": "2026-01-12",
      "tarih_metni": "12.01.2026 - 19.01.2026",
      "yer": "Ankara",
      "brans": "Kamp",
      "satir": "Kamp | H&N CUP HAZIRLIK KAMPI | 12.01.2026 - 19.01.2026 | Ankara | İncele"
+    },
+    {
+     "ad": "20.01.2026 - 25.01.2026",
+     "tarih": "2026-01-20",
+     "tarih_metni": "20.01.2026 - 25.01.2026",
+     "yer": "Münih - Almanya",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | H&N CUP | 20.01.2026 - 25.01.2026 | Münih - Almanya | İncele"
     },
     {
      "ad": "HAVALI SİLAHLAR U16–U18 AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI",
@@ -480,12 +42,12 @@
      "satir": "Kamp | HAVALI SİLAHLAR U16–U18 AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI | 26.01.2026 - 02.02.2026 | Ankara | İncele"
     },
     {
-     "ad": "PLAK ATIŞLARI GRAND PRIX HAZIRLIK KAMPI",
-     "tarih": null,
-     "tarih_metni": "Muhtelif",
-     "yer": "Muhtelif",
-     "brans": "Kamp",
-     "satir": "Kamp | PLAK ATIŞLARI GRAND PRIX HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+     "ad": "Mersin - Sakarya - Ankara - Trabzon",
+     "tarih": "2026-01-30",
+     "tarih_metni": "30.01.2026 - 01.02.2026",
+     "yer": "Mersin - Sakarya - Ankara - Trabzon",
+     "brans": "Ulusal",
+     "satir": "Ulusal | HAVALI SİLAHLAR 1.GRUP MÜSABAKASI | Havalı - Ateşli Silahlar | 30.01.2026 - 01.02.2026 | Mersin - Sakarya - Ankara - Trabzon | İncele"
     },
     {
      "ad": "HAVALI SİLAHLAR GENÇLER AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI",
@@ -496,6 +58,30 @@
      "satir": "Kamp | HAVALI SİLAHLAR GENÇLER AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI | 02.02.2026 - 08.02.2026 | Ankara | İncele"
     },
     {
+     "ad": "HAVALI SİLAHLAR U16–U18 AVRUPA ŞAMPİYONASI",
+     "tarih": "2026-02-03",
+     "tarih_metni": "03.02.2026 - 09.02.2026",
+     "yer": "Burgas , Bulgaristan",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | HAVALI SİLAHLAR U16–U18 AVRUPA ŞAMPİYONASI | 03.02.2026 - 09.02.2026 | Burgas , Bulgaristan | İncele"
+    },
+    {
+     "ad": "PLAK ATIŞLARI GRAND PRIX",
+     "tarih": "2026-02-05",
+     "tarih_metni": "05.02.2026 - 13.02.2026",
+     "yer": "Doha - Katar",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | PLAK ATIŞLARI GRAND PRIX | 05.02.2026 - 13.02.2026 | Doha - Katar | İncele"
+    },
+    {
+     "ad": "HAVALI SİLAHLAR GENÇLER AVRUPA ŞAMPİYONASI",
+     "tarih": "2026-02-09",
+     "tarih_metni": "09.02.2026 - 15.02.2026",
+     "yer": "Burgas, Bulgaristan",
+     "brans": "Özel Yarışma",
+     "satir": "Özel Yarışma | HAVALI SİLAHLAR GENÇLER AVRUPA ŞAMPİYONASI | 09.02.2026 - 15.02.2026 | Burgas, Bulgaristan | İncele"
+    },
+    {
      "ad": "HAVALI SİLAHLAR AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI",
      "tarih": "2026-02-19",
      "tarih_metni": "19.02.2026 - 26.02.2026",
@@ -504,12 +90,36 @@
      "satir": "Kamp | HAVALI SİLAHLAR AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI | 19.02.2026 - 26.02.2026 | Ankara | İncele"
     },
     {
-     "ad": "PLAK ATIŞLARI DÜNYA KUPASI HAZIRLIK KAMPI",
-     "tarih": null,
-     "tarih_metni": "Muhtelif",
-     "yer": "Muhtelif",
-     "brans": "Kamp",
-     "satir": "Kamp | PLAK ATIŞLARI DÜNYA KUPASI HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+     "ad": "HAVALI SİLAHLAR AVRUPA ŞAMPİYONASI",
+     "tarih": "2026-02-27",
+     "tarih_metni": "27.02.2026 - 05.03.2026",
+     "yer": "Erivan, Ermenistan",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | HAVALI SİLAHLAR AVRUPA ŞAMPİYONASI | 27.02.2026 - 05.03.2026 | Erivan, Ermenistan | İncele"
+    },
+    {
+     "ad": "HAVALI SİLAHLAR COŞKUN ABİŞ KUPASI",
+     "tarih": "2026-03-10",
+     "tarih_metni": "10.03.2026 - 15.08.2026",
+     "yer": "Mersin",
+     "brans": "Ulusal",
+     "satir": "Ulusal | HAVALI SİLAHLAR COŞKUN ABİŞ KUPASI | Havalı - Ateşli Silahlar | 10.03.2026 - 15.08.2026 | Mersin | İncele"
+    },
+    {
+     "ad": "YEŞİLAY BÜTÜN DALLAR ATEŞLİ SİLAHLAR TÜRKİYE ŞAMPİYONASI",
+     "tarih": "2026-03-25",
+     "tarih_metni": "25.03.2026 - 30.08.2026",
+     "yer": "Mersin",
+     "brans": "Ulusal",
+     "satir": "Ulusal | YEŞİLAY BÜTÜN DALLAR ATEŞLİ SİLAHLAR TÜRKİYE ŞAMPİYONASI | Havalı - Ateşli Silahlar | 25.03.2026 - 30.08.2026 | Mersin | İncele"
+    },
+    {
+     "ad": "PLAK ATIŞLARI DÜNYA KUPASI",
+     "tarih": "2026-03-25",
+     "tarih_metni": "25.03.2026 - 03.04.2026",
+     "yer": "Morocco, Fas",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | PLAK ATIŞLARI DÜNYA KUPASI | 25.03.2026 - 03.04.2026 | Morocco, Fas | İncele"
     },
     {
      "ad": "HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI HAZIRLIK KAMPI",
@@ -528,6 +138,78 @@
      "satir": "Kamp | PARALİMPİK TAKIM VE B TAKIM KAMPI | 30.03.2026 - 05.04.2026 | Muhtelif | İncele"
     },
     {
+     "ad": "PARA ATICILIK HAVALI SİLAHLAR FEDERASYON KUPASI",
+     "tarih": "2026-03-31",
+     "tarih_metni": "31.03.2026 - 02.04.2026",
+     "yer": "Ankara",
+     "brans": "Ulusal",
+     "satir": "Ulusal | PARA ATICILIK HAVALI SİLAHLAR FEDERASYON KUPASI | Para Atıcılık | 31.03.2026 - 02.04.2026 | Ankara | İncele"
+    },
+    {
+     "ad": "HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI",
+     "tarih": "2026-04-05",
+     "tarih_metni": "05.04.2026 - 13.04.2026",
+     "yer": "Granada, İspanya",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI | 05.04.2026 - 13.04.2026 | Granada, İspanya | İncele"
+    },
+    {
+     "ad": "SKEET YEŞİLAY ULUSAL EGEMENLİK KUPASI",
+     "tarih": "2026-04-10",
+     "tarih_metni": "10.04.2026 - 12.04.2026",
+     "yer": "Mersin",
+     "brans": "Ulusal",
+     "satir": "Ulusal | SKEET YEŞİLAY ULUSAL EGEMENLİK KUPASI | Plak Atışları | 10.04.2026 - 12.04.2026 | Mersin | İncele"
+    },
+    {
+     "ad": "TRAP YEŞİLAY ULUSAL EGEMENLİK KUPASI",
+     "tarih": "2026-04-10",
+     "tarih_metni": "10.04.2026 - 12.08.2026",
+     "yer": "Bursa",
+     "brans": "Ulusal",
+     "satir": "Ulusal | TRAP YEŞİLAY ULUSAL EGEMENLİK KUPASI | Plak Atışları | 10.04.2026 - 12.08.2026 | Bursa | İncele"
+    },
+    {
+     "ad": "Mersin - Sakarya - Ankara - Trabzon",
+     "tarih": "2026-04-16",
+     "tarih_metni": "16.04.2026 - 19.04.2026",
+     "yer": "Mersin - Sakarya - Ankara - Trabzon",
+     "brans": "Ulusal",
+     "satir": "Ulusal | HAVALI SİLAHLAR 2.GRUP MÜSABAKASI | Havalı - Ateşli Silahlar | 16.04.2026 - 19.04.2026 | Mersin - Sakarya - Ankara - Trabzon | İncele"
+    },
+    {
+     "ad": "TRAP-SKEET MESİR KUPASI",
+     "tarih": "2026-04-17",
+     "tarih_metni": "17.04.2026 - 19.04.2026",
+     "yer": "Manisa",
+     "brans": "Özel Yarışma",
+     "satir": "Özel Yarışma | TRAP-SKEET MESİR KUPASI | Plak Atışları | 17.04.2026 - 19.04.2026 | Manisa | İncele"
+    },
+    {
+     "ad": "TRAP 1.BÖLGESEL BAHAR KUPASI (1. BÖLGE)",
+     "tarih": "2026-04-24",
+     "tarih_metni": "24.04.2026 - 26.04.2026",
+     "yer": "Bursa",
+     "brans": "Ulusal",
+     "satir": "Ulusal | TRAP 1.BÖLGESEL BAHAR KUPASI (1. BÖLGE) | Plak Atışları | 24.04.2026 - 26.04.2026 | Bursa | İncele"
+    },
+    {
+     "ad": "PARA ATICILIK VE İŞİTME ENGELLİLER TÜM DALLAR TÜRKİYE ŞAMPİYONASI",
+     "tarih": "2026-04-28",
+     "tarih_metni": "28.04.2026 - 01.05.2026",
+     "yer": "Mersin",
+     "brans": "Ulusal",
+     "satir": "Ulusal | PARA ATICILIK VE İŞİTME ENGELLİLER TÜM DALLAR TÜRKİYE ŞAMPİYONASI | Para Atıcılık | 28.04.2026 - 01.05.2026 | Mersin | İncele"
+    },
+    {
+     "ad": "TRAP 1.BÖLGESEL BAHAR KUPASI (2. BÖLGE)",
+     "tarih": "2026-05-01",
+     "tarih_metni": "01.05.2026 - 03.08.2026",
+     "yer": "Mersin",
+     "brans": "Ulusal",
+     "satir": "Ulusal | TRAP 1.BÖLGESEL BAHAR KUPASI (2. BÖLGE) | Plak Atışları | 01.05.2026 - 03.08.2026 | Mersin | İncele"
+    },
+    {
      "ad": "ATEŞLİ SİLAHLAR AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI",
      "tarih": "2026-05-01",
      "tarih_metni": "01.05.2026 - 05.05.2026",
@@ -536,12 +218,12 @@
      "satir": "Kamp | ATEŞLİ SİLAHLAR AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI | 01.05.2026 - 05.05.2026 | Ankara | İncele"
     },
     {
-     "ad": "PLAK ATIŞLARI U18 AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI",
-     "tarih": null,
-     "tarih_metni": "Muhtelif",
-     "yer": "Muhtelif",
-     "brans": "Kamp",
-     "satir": "Kamp | PLAK ATIŞLARI U18 AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+     "ad": "PLAK ATIŞLARI DÜNYA KUPASI",
+     "tarih": "2026-05-02",
+     "tarih_metni": "02.05.2026 - 11.05.2026",
+     "yer": "Almaty, Kazakistan",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | PLAK ATIŞLARI DÜNYA KUPASI | 02.05.2026 - 11.05.2026 | Almaty, Kazakistan | İncele"
     },
     {
      "ad": "04.05.2026 - 10.05.2026",
@@ -552,12 +234,84 @@
      "satir": "Kamp | PARALİMPİK TAKIM KAMPI | 04.05.2026 - 10.05.2026 | Muhtelif | İncele"
     },
     {
+     "ad": "HAVALI SİLAHLAR MEHMET BÜLENT TORPİL KUPASI",
+     "tarih": "2026-05-05",
+     "tarih_metni": "05.05.2026 - 10.08.2026",
+     "yer": "Mersin",
+     "brans": "Ulusal",
+     "satir": "Ulusal | HAVALI SİLAHLAR MEHMET BÜLENT TORPİL KUPASI | Havalı - Ateşli Silahlar | 05.05.2026 - 10.08.2026 | Mersin | İncele"
+    },
+    {
+     "ad": "ATEŞLİ SİLAHLAR AVRUPA ŞAMPİYONASI",
+     "tarih": "2026-05-06",
+     "tarih_metni": "06.05.2026 - 21.05.2026",
+     "yer": "Osijek, Hırvatistan",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | ATEŞLİ SİLAHLAR AVRUPA ŞAMPİYONASI | 06.05.2026 - 21.05.2026 | Osijek, Hırvatistan | İncele"
+    },
+    {
+     "ad": "TRAP ATATÜRK’Ü ANMA KUPASI",
+     "tarih": "2026-05-08",
+     "tarih_metni": "08.05.2026 - 10.05.2026",
+     "yer": "İzmir",
+     "brans": "Özel Yarışma",
+     "satir": "Özel Yarışma | TRAP ATATÜRK’Ü ANMA KUPASI | Plak Atışları | 08.05.2026 - 10.05.2026 | İzmir | İncele"
+    },
+    {
+     "ad": "PLAK ATIŞLARI U18 AVRUPA ŞAMPİYONASI",
+     "tarih": "2026-05-14",
+     "tarih_metni": "14.05.2026 - 26.05.2026",
+     "yer": "Osijek, Hırvatistan",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | PLAK ATIŞLARI U18 AVRUPA ŞAMPİYONASI | 14.05.2026 - 26.05.2026 | Osijek, Hırvatistan | İncele"
+    },
+    {
+     "ad": "TRAP-SKEET MİLLİ TAKIM ELİT KADRO YARIŞMASI",
+     "tarih": "2026-05-15",
+     "tarih_metni": "15.05.2026 - 17.05.2026",
+     "yer": "İzmir",
+     "brans": "Ulusal",
+     "satir": "Ulusal | TRAP-SKEET MİLLİ TAKIM ELİT KADRO YARIŞMASI | Plak Atışları | 15.05.2026 - 17.05.2026 | İzmir | İncele"
+    },
+    {
+     "ad": "HAVALI SİLAHLAR OKUL SPORLARI MÜSABAKALARI",
+     "tarih": "2026-05-15",
+     "tarih_metni": "15.05.2026 - 17.05.2026",
+     "yer": "Ankara",
+     "brans": "Ulusal",
+     "satir": "Ulusal | HAVALI SİLAHLAR OKUL SPORLARI MÜSABAKALARI | Havalı - Ateşli Silahlar | 15.05.2026 - 17.05.2026 | Ankara | İncele"
+    },
+    {
      "ad": "HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI HAZIRLIK KAMPI",
      "tarih": "2026-05-18",
      "tarih_metni": "18.05.2026 - 23.05.2026",
      "yer": "Ankara",
      "brans": "Kamp",
      "satir": "Kamp | HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI HAZIRLIK KAMPI | 18.05.2026 - 23.05.2026 | Ankara | İncele"
+    },
+    {
+     "ad": "HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI",
+     "tarih": "2026-05-24",
+     "tarih_metni": "24.05.2026 - 31.05.2026",
+     "yer": "Münih - Almanya",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI | 24.05.2026 - 31.05.2026 | Münih - Almanya | İncele"
+    },
+    {
+     "ad": "TRAP ULUSAL FEDERASYON KUPASI",
+     "tarih": "2026-06-05",
+     "tarih_metni": "05.06.2026 - 07.06.2026",
+     "yer": "K.Maraş",
+     "brans": "Ulusal",
+     "satir": "Ulusal | TRAP ULUSAL FEDERASYON KUPASI | Plak Atışları | 05.06.2026 - 07.06.2026 | K.Maraş | İncele"
+    },
+    {
+     "ad": "SKEET ULUSAL FEDERASYON KUPASI",
+     "tarih": "2026-06-05",
+     "tarih_metni": "05.06.2026 - 07.06.2026",
+     "yer": "İzmir",
+     "brans": "Ulusal",
+     "satir": "Ulusal | SKEET ULUSAL FEDERASYON KUPASI | Plak Atışları | 05.06.2026 - 07.06.2026 | İzmir | İncele"
     },
     {
      "ad": "TÜM DALLAR GENÇLER DÜNYA ŞAMPİYONASI HAZIRLIK KAMPI",
@@ -568,12 +322,60 @@
      "satir": "Kamp | TÜM DALLAR GENÇLER DÜNYA ŞAMPİYONASI HAZIRLIK KAMPI | 06.06.2026 - 15.06.2026 | Çanakkale | İncele"
     },
     {
-     "ad": "PLAK ATIŞLARI DÜNYA KUPASI HAZIRLIK KAMPI",
-     "tarih": null,
-     "tarih_metni": "Muhtelif",
-     "yer": "Muhtelif",
-     "brans": "Kamp",
-     "satir": "Kamp | PLAK ATIŞLARI DÜNYA KUPASI HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+     "ad": "TÜM DALLAR GENÇLER DÜNYA ŞAMPİYONASI",
+     "tarih": "2026-06-16",
+     "tarih_metni": "16.06.2026 - 26.06.2026",
+     "yer": "Suhl, Almanya",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | TÜM DALLAR GENÇLER DÜNYA ŞAMPİYONASI | 16.06.2026 - 26.06.2026 | Suhl, Almanya | İncele"
+    },
+    {
+     "ad": "26.06.2026 - 28.06.2026",
+     "tarih": "2026-06-26",
+     "tarih_metni": "26.06.2026 - 28.06.2026",
+     "yer": "Çardak / Denizli",
+     "brans": "Özel Yarışma",
+     "satir": "Özel Yarışma | TRAP HAMBAT KUPASI | Plak Atışları | 26.06.2026 - 28.06.2026 | Çardak / Denizli | İncele"
+    },
+    {
+     "ad": "ÜNİVERSİTELERARASI TÜRKİYE ŞAMPİYONASI",
+     "tarih": "2026-06-27",
+     "tarih_metni": "27.06.2026 - 29.06.2026",
+     "yer": "Mersin",
+     "brans": "Ulusal",
+     "satir": "Ulusal | ÜNİVERSİTELERARASI TÜRKİYE ŞAMPİYONASI | Havalı - Ateşli Silahlar | 27.06.2026 - 29.06.2026 | Mersin | İncele"
+    },
+    {
+     "ad": "SARSILMAZ HAVALI SİLAHLAR TÜRKİYE ŞAMPİYONASI",
+     "tarih": "2026-06-30",
+     "tarih_metni": "30.06.2026 - 05.06.2026",
+     "yer": "Mersin",
+     "brans": "Ulusal",
+     "satir": "Ulusal | SARSILMAZ HAVALI SİLAHLAR TÜRKİYE ŞAMPİYONASI | Havalı - Ateşli Silahlar | 30.06.2026 - 05.06.2026 | Mersin | İncele"
+    },
+    {
+     "ad": "TRAP 2 .BÖLGESEL MİLLİ DEMOKRASİ KUPASI (1. BÖLGE)",
+     "tarih": "2026-07-03",
+     "tarih_metni": "03.07.2026 - 05.07.2026",
+     "yer": "Konya",
+     "brans": "Ulusal",
+     "satir": "Ulusal | TRAP 2 .BÖLGESEL MİLLİ DEMOKRASİ KUPASI (1. BÖLGE) | Plak Atışları | 03.07.2026 - 05.07.2026 | Konya | İncele"
+    },
+    {
+     "ad": "PLAK ATIŞLARI DÜNYA KUPASI",
+     "tarih": "2026-07-03",
+     "tarih_metni": "03.07.2026 - 13.07.2026",
+     "yer": "Lonato, İtalya",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | PLAK ATIŞLARI DÜNYA KUPASI | 03.07.2026 - 13.07.2026 | Lonato, İtalya | İncele"
+    },
+    {
+     "ad": "TRAP 2 .BÖLGESEL MİLLİ DEMOKRASİ KUPASI (2. BÖLGE)",
+     "tarih": "2026-07-10",
+     "tarih_metni": "10.07.2026 - 12.07.2026",
+     "yer": "Konya",
+     "brans": "Ulusal",
+     "satir": "Ulusal | TRAP 2 .BÖLGESEL MİLLİ DEMOKRASİ KUPASI (2. BÖLGE) | Plak Atışları | 10.07.2026 - 12.07.2026 | Konya | İncele"
     },
     {
      "ad": "PARA ATICILIK DÜNYA KUPASI KAMPI",
@@ -584,12 +386,36 @@
      "satir": "Kamp | PARA ATICILIK DÜNYA KUPASI KAMPI | 13.07.2026 - 20.07.2026 | Muhtelif | İncele"
     },
     {
-     "ad": "ATEŞLİ SİLAHLAR VE PLAK ATIŞLARI U23 AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI",
-     "tarih": null,
-     "tarih_metni": "Muhtelif",
-     "yer": "Muhtelif",
-     "brans": "Kamp",
-     "satir": "Kamp | ATEŞLİ SİLAHLAR VE PLAK ATIŞLARI U23 AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+     "ad": "WSPS PARA ATICILIK DÜNYA KUPASI",
+     "tarih": "2026-07-21",
+     "tarih_metni": "21.07.2026 - 31.08.2026",
+     "yer": "Novi Sad, Sırbistan",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | WSPS PARA ATICILIK DÜNYA KUPASI | 21.07.2026 - 31.08.2026 | Novi Sad, Sırbistan | İncele"
+    },
+    {
+     "ad": "SKEET ULUSAL ZAFER KUPASI",
+     "tarih": "2026-07-31",
+     "tarih_metni": "31.07.2026 - 02.08.2026",
+     "yer": "Bursa",
+     "brans": "Ulusal",
+     "satir": "Ulusal | SKEET ULUSAL ZAFER KUPASI | Plak Atışları | 31.07.2026 - 02.08.2026 | Bursa | İncele"
+    },
+    {
+     "ad": "ATEŞLİ SİLAHLAR VE PLAK ATIŞLARI U23 AVRUPA ŞAMPİYONASI",
+     "tarih": "2026-08-01",
+     "tarih_metni": "01.08.2026 - 12.08.2026",
+     "yer": "Wroclaw, Polonya",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | ATEŞLİ SİLAHLAR VE PLAK ATIŞLARI U23 AVRUPA ŞAMPİYONASI | 01.08.2026 - 12.08.2026 | Wroclaw, Polonya | İncele"
+    },
+    {
+     "ad": "İBRAHİM KARASAR TRAP ZAFER KUPASI",
+     "tarih": "2026-08-07",
+     "tarih_metni": "07.08.2026 - 09.08.2026",
+     "yer": "Konya",
+     "brans": "Ulusal",
+     "satir": "Ulusal | İBRAHİM KARASAR TRAP ZAFER KUPASI | Plak Atışları | 07.08.2026 - 09.08.2026 | Konya | İncele"
     },
     {
      "ad": "AKDENİZ OYUNLARI HAZIRLIK KAMPI",
@@ -600,6 +426,30 @@
      "satir": "Kamp | AKDENİZ OYUNLARI HAZIRLIK KAMPI | 10.08.2026 - 20.08.2026 | İzmir | İncele"
     },
     {
+     "ad": "TRAP 3.BÖLGESEL YAZ KUPASI (2. BÖLGE)",
+     "tarih": "2026-08-14",
+     "tarih_metni": "14.08.2026 - 16.08.2026",
+     "yer": "K.Maraş",
+     "brans": "Ulusal",
+     "satir": "Ulusal | TRAP 3.BÖLGESEL YAZ KUPASI (2. BÖLGE) | Plak Atışları | 14.08.2026 - 16.08.2026 | K.Maraş | İncele"
+    },
+    {
+     "ad": "TRAP 3.BÖLGESEL YAZ KUPASI (1. BÖLGE)",
+     "tarih": "2026-08-21",
+     "tarih_metni": "21.08.2026 - 23.08.2026",
+     "yer": "Bursa",
+     "brans": "Ulusal",
+     "satir": "Ulusal | TRAP 3.BÖLGESEL YAZ KUPASI (1. BÖLGE) | Plak Atışları | 21.08.2026 - 23.08.2026 | Bursa | İncele"
+    },
+    {
+     "ad": "21.08.2026 - 03.09.2026",
+     "tarih": "2026-08-21",
+     "tarih_metni": "21.08.2026 - 03.09.2026",
+     "yer": "Taranto, İtalya",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | AKDENİZ OYUNLARI | 21.08.2026 - 03.09.2026 | Taranto, İtalya | İncele"
+    },
+    {
      "ad": "PARA ATICILIK DÜNYA ŞAMPİYONASI KAMPI",
      "tarih": "2026-08-24",
      "tarih_metni": "24.08.2026 - 02.09.2026",
@@ -608,12 +458,44 @@
      "satir": "Kamp | PARA ATICILIK DÜNYA ŞAMPİYONASI KAMPI | 24.08.2026 - 02.09.2026 | Muhtelif | İncele"
     },
     {
-     "ad": "PLAK ATIŞLARI AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI",
-     "tarih": null,
-     "tarih_metni": "Muhtelif",
+     "ad": "WSPS PARA ATICILIK DÜNYA ŞAMPİYONASI",
+     "tarih": "2026-09-07",
+     "tarih_metni": "07.09.2026 - 18.09.2026",
+     "yer": "Changwon, G. Kore",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | WSPS PARA ATICILIK DÜNYA ŞAMPİYONASI | 07.09.2026 - 18.09.2026 | Changwon, G. Kore | İncele"
+    },
+    {
+     "ad": "HAVALI SİLAHLAR TÜRKİYE FİNALİ",
+     "tarih": "2026-09-11",
+     "tarih_metni": "11.09.2026 - 15.09.2026",
      "yer": "Muhtelif",
-     "brans": "Kamp",
-     "satir": "Kamp | PLAK ATIŞLARI AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+     "brans": "Ulusal",
+     "satir": "Ulusal | HAVALI SİLAHLAR TÜRKİYE FİNALİ | Havalı - Ateşli Silahlar | 11.09.2026 - 15.09.2026 | Muhtelif | İncele"
+    },
+    {
+     "ad": "SKEET TÜRKİYE ŞAMPİYONASI",
+     "tarih": "2026-09-11",
+     "tarih_metni": "11.09.2026 - 13.09.2026",
+     "yer": "Konya",
+     "brans": "Ulusal",
+     "satir": "Ulusal | SKEET TÜRKİYE ŞAMPİYONASI | Plak Atışları | 11.09.2026 - 13.09.2026 | Konya | İncele"
+    },
+    {
+     "ad": "TRAP TÜRKİYE ŞAMPİYONASI",
+     "tarih": "2026-09-18",
+     "tarih_metni": "18.09.2026 - 20.09.2026",
+     "yer": "Konya",
+     "brans": "Ulusal",
+     "satir": "Ulusal | TRAP TÜRKİYE ŞAMPİYONASI | Plak Atışları | 18.09.2026 - 20.09.2026 | Konya | İncele"
+    },
+    {
+     "ad": "PLAK ATIŞLARI AVRUPA ŞAMPİYONASI",
+     "tarih": "2026-09-27",
+     "tarih_metni": "27.09.2026 - 13.10.2026",
+     "yer": "Malakasa, Yunanistan",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | PLAK ATIŞLARI AVRUPA ŞAMPİYONASI | 27.09.2026 - 13.10.2026 | Malakasa, Yunanistan | İncele"
     },
     {
      "ad": "HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI HAZIRLIK KAMPI",
@@ -624,12 +506,36 @@
      "satir": "Kamp | HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI HAZIRLIK KAMPI | 01.10.2026 - 07.10.2026 | Ankara / İzmir | İncele"
     },
     {
+     "ad": "HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI",
+     "tarih": "2026-10-08",
+     "tarih_metni": "08.10.2026 - 16.10.2026",
+     "yer": "Kahire, Mısır",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | HAVALI VE ATEŞLİ SİLAHLAR DÜNYA KUPASI | 08.10.2026 - 16.10.2026 | Kahire, Mısır | İncele"
+    },
+    {
      "ad": "TÜM DALLAR DÜNYA ŞAMPİYONASI HAZIRLIK KAMPI",
      "tarih": "2026-10-15",
      "tarih_metni": "15.10.2026 - 31.10.2026",
      "yer": "Ankara / İzmir",
      "brans": "Kamp",
      "satir": "Kamp | TÜM DALLAR DÜNYA ŞAMPİYONASI HAZIRLIK KAMPI | 15.10.2026 - 31.10.2026 | Ankara / İzmir | İncele"
+    },
+    {
+     "ad": "TRAP SADİ DERTLİ CUMHURİYET KUPASI",
+     "tarih": "2026-10-16",
+     "tarih_metni": "16.10.2026 - 18.10.2026",
+     "yer": "Kahramanmaraş",
+     "brans": "Özel Yarışma",
+     "satir": "Özel Yarışma | TRAP SADİ DERTLİ CUMHURİYET KUPASI | Plak Atışları | 16.10.2026 - 18.10.2026 | Kahramanmaraş | İncele"
+    },
+    {
+     "ad": "FISU ÜNİVERSİTELER ARASI DÜNYA ŞAMPİYONASI",
+     "tarih": "2026-10-27",
+     "tarih_metni": "27.10.2026 - 31.10.2026",
+     "yer": "New Taipei, Çin",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | FISU ÜNİVERSİTELER ARASI DÜNYA ŞAMPİYONASI | 27.10.2026 - 31.10.2026 | New Taipei, Çin | İncele"
     },
     {
      "ad": "PARA ATICILIK DÜNYA KUPASI KAMPI",
@@ -640,6 +546,102 @@
      "satir": "Kamp | PARA ATICILIK DÜNYA KUPASI KAMPI | 30.10.2026 - 06.11.2026 | Mersin / Ankara | İncele"
     },
     {
+     "ad": "TÜM DALLAR DÜNYA ŞAMPİYONASI",
+     "tarih": "2026-11-01",
+     "tarih_metni": "01.11.2026 - 15.11.2026",
+     "yer": "Doha, Katar",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | TÜM DALLAR DÜNYA ŞAMPİYONASI | 01.11.2026 - 15.11.2026 | Doha, Katar | İncele"
+    },
+    {
+     "ad": "WSPS PARA ATICILIK DÜNYA KUPASI",
+     "tarih": "2026-12-07",
+     "tarih_metni": "07.12.2026 - 19.12.2026",
+     "yer": "Al Ain, B.A.E",
+     "brans": "Uluslararası",
+     "satir": "Uluslararası | WSPS PARA ATICILIK DÜNYA KUPASI | 07.12.2026 - 19.12.2026 | Al Ain, B.A.E | İncele"
+    },
+    {
+     "ad": "PARA ATICILIK TÜM DALLAR TÜRKİYE KUPASI",
+     "tarih": null,
+     "tarih_metni": "Muhtelif",
+     "yer": "Muhtelif",
+     "brans": "Ulusal",
+     "satir": "Ulusal | PARA ATICILIK TÜM DALLAR TÜRKİYE KUPASI | Para Atıcılık | Muhtelif | Muhtelif | İncele"
+    },
+    {
+     "ad": "SKEET NEMRUT KUPASI",
+     "tarih": null,
+     "tarih_metni": "Muhtelif",
+     "yer": "Adıyaman",
+     "brans": "Özel Yarışma",
+     "satir": "Özel Yarışma | SKEET NEMRUT KUPASI | Plak Atışları | Muhtelif | Adıyaman | İncele"
+    },
+    {
+     "ad": "OLİMPİK BRANŞLAR ATEŞLİ SİLAHLAR FEDERASYON KUPASI",
+     "tarih": null,
+     "tarih_metni": "Muhtelif",
+     "yer": "Muhtelif",
+     "brans": "Ulusal",
+     "satir": "Ulusal | OLİMPİK BRANŞLAR ATEŞLİ SİLAHLAR FEDERASYON KUPASI | Havalı - Ateşli Silahlar | Muhtelif | Muhtelif | İncele"
+    },
+    {
+     "ad": "HAVALI SİLAHLAR 3.GRUP MÜSABAKASI",
+     "tarih": null,
+     "tarih_metni": "Muhtelif",
+     "yer": "Muhtelif",
+     "brans": "Ulusal",
+     "satir": "Ulusal | HAVALI SİLAHLAR 3.GRUP MÜSABAKASI | Havalı - Ateşli Silahlar | Muhtelif | Muhtelif | İncele"
+    },
+    {
+     "ad": "PLAK ATIŞLARI GRAND PRIX HAZIRLIK KAMPI",
+     "tarih": null,
+     "tarih_metni": "Muhtelif",
+     "yer": "Muhtelif",
+     "brans": "Kamp",
+     "satir": "Kamp | PLAK ATIŞLARI GRAND PRIX HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+    },
+    {
+     "ad": "PLAK ATIŞLARI DÜNYA KUPASI HAZIRLIK KAMPI",
+     "tarih": null,
+     "tarih_metni": "Muhtelif",
+     "yer": "Muhtelif",
+     "brans": "Kamp",
+     "satir": "Kamp | PLAK ATIŞLARI DÜNYA KUPASI HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+    },
+    {
+     "ad": "PLAK ATIŞLARI U18 AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI",
+     "tarih": null,
+     "tarih_metni": "Muhtelif",
+     "yer": "Muhtelif",
+     "brans": "Kamp",
+     "satir": "Kamp | PLAK ATIŞLARI U18 AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+    },
+    {
+     "ad": "PLAK ATIŞLARI DÜNYA KUPASI HAZIRLIK KAMPI",
+     "tarih": null,
+     "tarih_metni": "Muhtelif",
+     "yer": "Muhtelif",
+     "brans": "Kamp",
+     "satir": "Kamp | PLAK ATIŞLARI DÜNYA KUPASI HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+    },
+    {
+     "ad": "ATEŞLİ SİLAHLAR VE PLAK ATIŞLARI U23 AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI",
+     "tarih": null,
+     "tarih_metni": "Muhtelif",
+     "yer": "Muhtelif",
+     "brans": "Kamp",
+     "satir": "Kamp | ATEŞLİ SİLAHLAR VE PLAK ATIŞLARI U23 AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+    },
+    {
+     "ad": "PLAK ATIŞLARI AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI",
+     "tarih": null,
+     "tarih_metni": "Muhtelif",
+     "yer": "Muhtelif",
+     "brans": "Kamp",
+     "satir": "Kamp | PLAK ATIŞLARI AVRUPA ŞAMPİYONASI HAZIRLIK KAMPI | Muhtelif | Muhtelif | İncele"
+    },
+    {
      "ad": "3. Kademe Kıdemli Antrenörlük Kursu",
      "tarih": null,
      "tarih_metni": "Muhtelif",
@@ -648,8 +650,8 @@
      "satir": "Kurs | 3. Kademe Kıdemli Antrenörlük Kursu | Havalı - Ateşli Silahlar | Muhtelif | İstanbul | İncele"
     }
    ],
-   "checked_at": "2026-09-14T06:07:40",
-   "bekleyen_iz": null,
+   "checked_at": "2026-09-14T12:38:23",
+   "bekleyen_iz": "23c618cb17d017ef",
    "changed_at": "2026-08-20T20:10:48+00:00",
    "parmak_izi": "f9d84e84ef19aa85"
   },
@@ -1992,7 +1994,7 @@
      "satir": "26 - 27 Aralık Selahattin Yıldız Salon Kupası B-U20-U18 İstanbul Ulusal"
     }
    ],
-   "checked_at": "2026-09-14T06:07:38",
+   "checked_at": "2026-09-14T12:38:21",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "624a00b978c244a7"
@@ -2022,7 +2024,7 @@
    "fingerprint": "1fa76ad529605d0a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:46",
+   "checked_at": "2026-09-14T12:38:28",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "1fa76ad529605d0a"
@@ -2366,7 +2368,7 @@
      "satir": "Türkiye Beyzbol Şampiyonası 11-12-13 Nisan ... Devamı"
     }
    ],
-   "checked_at": "2026-09-14T06:07:47",
+   "checked_at": "2026-09-14T12:38:28",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "c26505c98fc488ff"
@@ -2381,7 +2383,7 @@
    "fingerprint": "fe114d25ab165377",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:43",
+   "checked_at": "2026-09-14T12:38:25",
    "bekleyen_iz": null,
    "changed_at": "2026-09-01T04:57:13+00:00",
    "parmak_izi": "fe114d25ab165377"
@@ -2517,7 +2519,7 @@
      "satir": "ALTAN KIRAÇ KIŞ LİGİ 1. AYAK E.A YARIŞMALARI | DİLA ATLI SPOR KULÜBÜ | İSTANBUL | 24.10.2026 | 25.10.2026"
     }
    ],
-   "checked_at": "2026-09-14T06:07:40",
+   "checked_at": "2026-09-14T12:38:22",
    "bekleyen_iz": null,
    "changed_at": "2026-09-08T14:25:54+00:00",
    "parmak_izi": "dd61fefc8cb368d8"
@@ -3893,7 +3895,7 @@
      "satir": "11.12.2026 12.12.2026 TRACK CYCLİNG CHALLENGE İSVİÇRE CLASS 1 Milli"
     }
    ],
-   "checked_at": "2026-09-14T06:07:46",
+   "checked_at": "2026-09-14T12:38:27",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:11:18+00:00",
    "parmak_izi": "80f1546bef10a704"
@@ -4477,7 +4479,7 @@
      "satir": "5 IDF Avrupa Elektronik Dart Şampiyonası 30 Mayıs – 5 Haziran 2026 Samorin- Slovakya"
     }
    ],
-   "checked_at": "2026-09-14T06:07:45",
+   "checked_at": "2026-09-14T12:38:26",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "93a315b3298387eb"
@@ -4709,7 +4711,7 @@
      "satir": "TÜRKİYE BUZ PATENİ FEDERASYONU SEZON İÇERİSİNDE GEREKLİ GÖRDÜĞÜ TAKDİRDE TÜM FAALYETLERDE DEĞİŞİKLİK YAPMA HAKKINA SAHİPTİR."
     }
    ],
-   "checked_at": "2026-09-14T06:07:43",
+   "checked_at": "2026-09-14T12:38:24",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:50+00:00",
    "parmak_izi": "1d2baef718486665"
@@ -7549,7 +7551,7 @@
      "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
     }
    ],
-   "checked_at": "2026-09-14T06:07:40",
+   "checked_at": "2026-09-14T12:38:23",
    "bekleyen_iz": null,
    "changed_at": "2026-09-13T19:21:56+00:00",
    "parmak_izi": "0258b222e50c4691"
@@ -8028,8 +8030,8 @@
    "fingerprint": "ebd459bb205d7741",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:40",
-   "bekleyen_iz": null,
+   "checked_at": "2026-09-14T12:38:22",
+   "bekleyen_iz": "7fd8679831faed94",
    "changed_at": "2026-09-12T00:10:53+00:00",
    "parmak_izi": "ebd459bb205d7741"
   },
@@ -8124,7 +8126,7 @@
      "satir": "10 | 11.10.2026 | KAŞ BELEDİYESİ YAĞLI GÜREŞLERİ | KAŞ/ANTALYA"
     }
    ],
-   "checked_at": "2026-09-14T06:07:48",
+   "checked_at": "2026-09-14T12:38:32",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "ad6c280638ad2ad0"
@@ -8139,7 +8141,7 @@
    "fingerprint": "513d810a075b3835",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:49",
+   "checked_at": "2026-09-14T12:38:31",
    "bekleyen_iz": null,
    "changed_at": "2026-09-12T17:00:21+00:00",
    "parmak_izi": "513d810a075b3835"
@@ -8475,7 +8477,7 @@
      "satir": "24-25 Ekim 2026 Hava Modelciliği F3P Büyükler/Gençler/Kadınlar F3P RC Model Uçak 2. Etap Ankara Ulusal"
     }
    ],
-   "checked_at": "2026-09-14T06:07:50",
+   "checked_at": "2026-09-14T12:38:31",
    "bekleyen_iz": null,
    "changed_at": "2026-09-13T19:22:04+00:00",
    "parmak_izi": "066ebfa88387bfaa"
@@ -9035,7 +9037,7 @@
      "satir": "49 28-31 AĞUSTOS 2025 AÇIK ALAN U14 TÜRKİYE ŞAMPİYONASI MUHTELİF"
     }
    ],
-   "checked_at": "2026-09-14T06:07:47",
+   "checked_at": "2026-09-14T12:38:29",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "03072fe7da5a8ac4"
@@ -9050,7 +9052,7 @@
    "fingerprint": "89f0b209e82ac623",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:37",
+   "checked_at": "2026-09-14T12:38:19",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "89f0b209e82ac623"
@@ -9834,7 +9836,7 @@
      "satir": "120 Rafting Nehir Rehberlik Vize 2027 Vizesi Seminer 19 Aralık 20 Aralık Muhtelif"
     }
    ],
-   "checked_at": "2026-09-14T06:07:42",
+   "checked_at": "2026-09-14T12:38:24",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:50+00:00",
    "parmak_izi": "06888a70817751cc"
@@ -9849,7 +9851,7 @@
    "fingerprint": "e1280d8316fdf1be",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:37",
+   "checked_at": "2026-09-14T12:38:19",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "e1280d8316fdf1be"
@@ -10177,7 +10179,7 @@
      "satir": "114 TEKERLEKLİ PATEN KAMP MİLLİ TAKIM KAMPI 15-25 ARALIK 2026 TÜM KATEGORİLER"
     }
    ],
-   "checked_at": "2026-09-14T06:07:49",
+   "checked_at": "2026-09-14T12:38:31",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:54+00:00",
    "parmak_izi": "f125ba37d779c765"
@@ -10192,7 +10194,7 @@
    "fingerprint": "452099067d979d4f",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:41",
+   "checked_at": "2026-09-14T12:38:23",
    "bekleyen_iz": null,
    "changed_at": "2026-08-22T14:03:50+00:00",
    "parmak_izi": "452099067d979d4f"
@@ -10207,8 +10209,8 @@
    "fingerprint": "03b7184b315e3eca",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:39",
-   "bekleyen_iz": null,
+   "checked_at": "2026-09-14T12:38:22",
+   "bekleyen_iz": "efbfd6e0efbb2b9e",
    "changed_at": "2026-09-11T18:24:21+00:00",
    "parmak_izi": "03b7184b315e3eca"
   },
@@ -10222,7 +10224,7 @@
    "fingerprint": "d759d0342954b53a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:45",
+   "checked_at": "2026-09-14T12:38:27",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "d759d0342954b53a"
@@ -10430,7 +10432,7 @@
      "satir": "Güncelleme Tarihi: 31.07.2026v7"
     }
    ],
-   "checked_at": "2026-09-14T06:07:44",
+   "checked_at": "2026-09-14T12:38:26",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "e1a36bd06e3f7e25"
@@ -10445,8 +10447,8 @@
    "fingerprint": "40117a8a8094bf43",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:44",
-   "bekleyen_iz": "6a38cfe23f7c4d7a",
+   "checked_at": "2026-09-14T12:38:26",
+   "bekleyen_iz": "ec4b118aec521e34",
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "40117a8a8094bf43"
   },
@@ -10460,7 +10462,7 @@
    "fingerprint": "209443816a76df0f",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:48",
+   "checked_at": "2026-09-14T12:38:29",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "209443816a76df0f"
@@ -10475,7 +10477,7 @@
    "fingerprint": "e9067565d4defce4",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:43",
+   "checked_at": "2026-09-14T12:38:25",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:50+00:00",
    "parmak_izi": "e9067565d4defce4"
@@ -10763,7 +10765,7 @@
      "satir": "ULUSAL | SUALTI RAGBİSİ | YARIŞMA | SUALTI RAGBİSİ BÜYÜKLER (ELİTLER) TÜRKİYE ŞAMPİYONASI VE MİLLİ TAKIM SEÇMELERİ | MANİSA | 18-20 EYLÜL 2026"
     }
    ],
-   "checked_at": "2026-09-14T06:07:46",
+   "checked_at": "2026-09-14T12:38:29",
    "bekleyen_iz": null,
    "changed_at": "2026-08-21T15:43:55+00:00",
    "parmak_izi": "29f623280b19351c"
@@ -11299,7 +11301,7 @@
      "satir": "14 Aralık Tenis Ligi Final"
     }
    ],
-   "checked_at": "2026-09-14T06:07:37",
+   "checked_at": "2026-09-14T12:38:20",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:48+00:00",
    "parmak_izi": "ef844991598654f2"
@@ -11314,8 +11316,8 @@
    "fingerprint": "18334f9d591920c1",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:42",
-   "bekleyen_iz": "9474ec7291e22328",
+   "checked_at": "2026-09-14T12:38:24",
+   "bekleyen_iz": "c131541fd21d4d80",
    "changed_at": "2026-08-25T01:47:19+00:00",
    "parmak_izi": "18334f9d591920c1"
   },
@@ -11326,13 +11328,13 @@
    "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
    "type": "excel",
    "label": "İndir",
-   "fingerprint": "8936557686652750",
+   "fingerprint": "cd7bda1276b2f5e3",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:37",
-   "bekleyen_iz": "cd7bda1276b2f5e3",
-   "changed_at": "2026-09-11T21:41:05+00:00",
-   "parmak_izi": "8936557686652750"
+   "checked_at": "2026-09-14T12:38:19",
+   "bekleyen_iz": null,
+   "changed_at": "2026-09-14T12:38:19+00:00",
+   "parmak_izi": "cd7bda1276b2f5e3"
   },
   {
    "federation": "vucutgelistirme",
@@ -11425,7 +11427,7 @@
      "satir": "2023 | 27 EYLÜL- 1 EKİM 2023 TÜRKİYE VÜCUT GELİŞTİRME VE FİTNESS ŞAMPİYONASI DÜNYA ŞAMPİYONASI MİLLİ TAKIM SEÇMELERİ YARIŞMA SONUÇLARI | Vücut Geliştirme | - | 01.01.2023 - 01.01.2023 | İncele"
     }
    ],
-   "checked_at": "2026-09-14T06:07:45",
+   "checked_at": "2026-09-14T12:38:27",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "cdbca2cf3c839dbe"
@@ -11440,7 +11442,7 @@
    "fingerprint": "575444b63bad4514",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-09-14T06:07:46",
+   "checked_at": "2026-09-14T12:38:27",
    "bekleyen_iz": null,
    "changed_at": "2026-09-10T14:19:18+00:00",
    "parmak_izi": "575444b63bad4514"
@@ -11672,7 +11674,7 @@
      "satir": "28 | 11.05.2026 14:46 | Para-Yelken-Turkiye-Sampiyonasi-2026-v1"
     }
    ],
-   "checked_at": "2026-09-14T06:07:41",
+   "checked_at": "2026-09-14T12:38:23",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:49+00:00",
    "parmak_izi": "b76b0070a88cf7ee"
@@ -12016,7 +12018,7 @@
      "satir": "KASIM 2027 CENTRAL EUROPEAN COUNTRIES MEET 50M 2012-2013-2014 Kadın-Erkek MUHTELİF"
     }
    ],
-   "checked_at": "2026-09-14T06:07:39",
+   "checked_at": "2026-09-14T12:38:21",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "23e93d6485844fb0"

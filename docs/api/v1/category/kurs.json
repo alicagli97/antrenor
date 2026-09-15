@@ -1,5 +1,56 @@
 [
  {
+  "id": "7d42d63dd29dab8b",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Eğitim Videoları",
+  "url": "https://www.tsf.org.tr/kaynaklar/egitim-videolari",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [],
+  "published_at": "2026-09-15T13:33:34+00:00",
+  "first_seen_at": "2026-09-15T13:33:34+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ded602a59332af28",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "Korfbol 3. Kademe Kıdemli Antrenör Yetiştirme Kursu 06-10 Ekim 2026 İzmit/kocaeli",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-478-korfbol-3.-kademe-k478emli-antrenor-yetistirme-kursu-06-10-ekim-2026-izmit-kocaeli",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-15T13:33:34+00:00",
+  "first_seen_at": "2026-09-15T13:33:34+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b26cd02917888450",
+  "federation": "kayak",
+  "federation_name": "Türkiye Kayak Federasyonu",
+  "federation_short": "TKF",
+  "title": "Hakem Semineri Duyurusu (1)",
+  "url": "https://tkf.org.tr/2026/09/15/hakem-semineri-duyurusu-1/",
+  "summary": "HAKEM GELİŞİM SEMİNERİ DUYURUSUFederasyonumuz tarafından Hakem Gelişim Seminerleri düzenlenecektir. Alp Disiplini, Kayaklı Koşu ve Snowboard branşında hakem lisansına",
+  "image": "https://tkf.org.tr/wp-content/uploads/2024/04/onemli-duyuru_2.jpg",
+  "category": "kurs",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-15T09:40:03+00:00",
+  "first_seen_at": "2026-09-15T13:33:34+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "ac05ecaff6a0eaf2",
   "federation": "yuzme",
   "federation_name": "Türkiye Yüzme Federasyonu",
@@ -203,6 +254,23 @@
   "source": "wp_json"
  },
  {
+  "id": "b5bce451301c6e70",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Avrupa’da Hakemlik Semineri",
+  "url": "https://www.badminton.org.tr/avrupada-hakemlik-semineri/",
+  "summary": "Türkiye Badminton Federasyonu Merkez Hakem Kurulu (MHK) Başkanımız Sedat Turunç, Belçika’da düzenlenen uluslararası hakem seminerine katılarak ülkemizi temsil etti! 🏸🇹🇷 Yaklaşık 22 Avrupa ülkesinden delegenin bir araya geldiği programda, “Türkiye Badminton Hakemlik Sistemi ve Hakem Yetiştirme Programı” başlıklı kapsamlı bir sunum gerçekleştirildi. Sunumda; Avrupa ülkelerinin hakemlik sistemlerini yakından tanıma fırsatı sunan ve ortak eğitim yaklaşımlarının […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-13-at-23.00.14.jpeg",
+  "category": "kurs",
+  "tags": [
+   "hakem"
+  ],
+  "published_at": "2026-09-14T09:43:19+00:00",
+  "first_seen_at": "2026-09-15T13:33:34+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "5c3d20cfc1616e97",
   "federation": "okculuk",
   "federation_name": "Türkiye Okçuluk Federasyonu",
@@ -258,6 +326,23 @@
   "published_at": "2026-09-14T08:02:53+00:00",
   "first_seen_at": "2026-09-14T12:40:05+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "789dd7684d07dec5",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "2026/3 Temel Eğitim Programı Başlıyor!",
+  "url": "https://tdsf.org.tr/haberler/20263-temel-egitim-programi-basliyor",
+  "summary": "10 Eylül 2026 GENEL KURUL NOTER HUZURUNDA KURA ÇEKİMİ 9 Eylül 2026 ARJANTİN TANGO ADAY HAKEM KURSU “ERTELENDİ!” 28 Ağustos 2026 DANS SPORU (LT&STD) HAKEM VİZE SEMİNERİ 24 Ağustos 2026 ARJANTİN TANGO ADAY HAKEM KURSU AÇILIYOR 20 Ağustos 2026 DANS SPORU (LT&STD) 3. KADEME KIDEMLİ ANTRENÖRLÜK UYGULAMA KURSU - ANKARA 20 Ağustos 2026 DANS SPORU (LATİN&STANDART) 2. KADEME TEMEL ANTRENÖRLÜK UYGULAMA KURS",
+  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-sbs-1789378976.jpg",
+  "category": "kurs",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-09-14T00:00:00+00:00",
+  "first_seen_at": "2026-09-15T13:33:34+00:00",
+  "source": "html"
  },
  {
   "id": "cb69abd477f2cb19",
@@ -2206,180 +2291,5 @@
   "published_at": "2026-08-26T08:58:14+00:00",
   "first_seen_at": "2026-08-26T08:58:14+00:00",
   "source": "headings"
- },
- {
-  "id": "4c48de8d866cd437",
-  "federation": "buzhokeyi",
-  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
-  "federation_short": "TBHF",
-  "title": "Haber Ankara 3.Kademe Kursu Ders Programı Haber 04.08.2026",
-  "url": "https://www.tbhf.org.tr/news/ankara-3-kademe-kurs-katilimci-listesi",
-  "summary": "Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! Haber Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! Haber 30.07.2026 Duyuru Kademe Kursları Ders Programları! Duyuru 27.06.2026 Duyuru Kaleci Gelişim Çalışmaları Buz Adası'nda! Duyuru 25.06.2026 Haber Yıldız B Şampiyonu Buz Korsanları SK! Haber 24.06.2026 Haber Minikler Türkiye Şampiyonası Sona Erdi! Haber 22.06.2026 Haber U16 Erkekler Ligi’n",
-  "image": "https://tbhf-public.sporpano.com/news/6b89762e7a7f4c81a1b6d24dce772b58.jpeg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-09-09T18:33:27+00:00",
-  "source": "html"
- },
- {
-  "id": "1d71bd5d7f162f5b",
-  "federation": "buzhokeyi",
-  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
-  "federation_short": "TBHF",
-  "title": "Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! Haber 30.07.2026",
-  "url": "https://www.tbhf.org.tr/news/3-kademe-antrenor-kursu-ankarada-aciliyor",
-  "summary": "Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! Haber Haber Ankara 3.Kademe Kursu Ders Programı Haber 04.08.2026 Duyuru Kademe Kursları Ders Programları! Duyuru 27.06.2026 Duyuru Kaleci Gelişim Çalışmaları Buz Adası'nda! Duyuru 25.06.2026 Haber Yıldız B Şampiyonu Buz Korsanları SK! Haber 24.06.2026 Haber Minikler Türkiye Şampiyonası Sona Erdi! Haber 22.06.2026 Haber U16 Erkekler Ligi’nde Şampiy",
-  "image": "https://tbhf-public.sporpano.com/news/7215684a3ed34495875559fcd75668f8.jpeg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-09-09T18:33:27+00:00",
-  "source": "html"
- },
- {
-  "id": "1ec4185a8ed1d617",
-  "federation": "buzhokeyi",
-  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
-  "federation_short": "TBHF",
-  "title": "Duyuru Kademe Kursları Ders Programları! Duyuru 27.06.2026",
-  "url": "https://www.tbhf.org.tr/news/kademe-kurslari-ders-programlari",
-  "summary": "Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! Haber Haber Ankara 3.Kademe Kursu Ders Programı Haber 04.08.2026 Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! Haber 30.07.2026 Duyuru Kaleci Gelişim Çalışmaları Buz Adası'nda! Duyuru 25.06.2026 Haber Yıldız B Şampiyonu Buz Korsanları SK! Haber 24.06.2026 Haber Minikler Türkiye Şampiyonası Sona Erdi! Haber 22.06.2026 Haber U16 Erkekler Ligi’n",
-  "image": "https://tbhf-public.sporpano.com/news/6b89762e7a7f4c81a1b6d24dce772b58.jpeg",
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-09-09T18:33:27+00:00",
-  "source": "html"
- },
- {
-  "id": "3cb4f3215ec7d591",
-  "federation": "buzhokeyi",
-  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
-  "federation_short": "TBHF",
-  "title": "Haber 2. ve 3. Kademe Antrenör Kursları Açılıyor! Haber 19.06.2026",
-  "url": "https://www.tbhf.org.tr/news/2-ve-3-kademe-antrenor-kurslari-aciliyor",
-  "summary": "Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! Haber Haber Ankara 3.Kademe Kursu Ders Programı Haber 04.08.2026 Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! Haber 30.07.2026 Duyuru Kademe Kursları Ders Programları! Duyuru 27.06.2026 Duyuru Kaleci Gelişim Çalışmaları Buz Adası'nda! Duyuru 25.06.2026 Haber Yıldız B Şampiyonu Buz Korsanları SK! Haber 24.06.2026 Haber Minikler Türkiye Şampiy",
-  "image": "https://tbhf-public.sporpano.com/news/7215684a3ed34495875559fcd75668f8.jpeg",
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-09-09T18:33:27+00:00",
-  "source": "html"
- },
- {
-  "id": "d50066f905beb344",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Rafting 2. Kademe Temel Antrenör Kursu Uygulama Eğitimi",
-  "url": "https://kano.org.tr/rafting-2-kademe-temel-antrenor-kursu-uygulama-egitimi-1",
-  "summary": ", Çarşamba Rafting 2. Kademe Temel Antrenör Kursu Uygulama Eğitimi'nin 12 -16 Eylül 2026 tarihleri arasında Tunceli’de yapılması planlanmaktadır.",
-  "image": "https://kano.org.tr/uploads/rafting-duyuru-.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-08-26T08:58:14+00:00",
-  "source": "html"
- },
- {
-  "id": "a2a3c8e6f7803f70",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Stand Up Paddle (sup) 1. Kademe Yardımcı Antrenör Kursu Uygulama Eğitimi",
-  "url": "https://kano.org.tr/stand-up-paddle-sup-1-kademe-yardimci-antrenor-kursu-uygulama-egitimi-2",
-  "summary": ", Çarşamba Stand Up Paddle (SUP) 1. Kademe Yardımcı Antrenör Kursu Uygulama Eğitiminin 09 – 13 Eylül 2026 tarihleri arasında İstanbul/Kadıköy'de yapılması planlanmaktadır.",
-  "image": "https://kano.org.tr/uploads/sup-duyuru.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-08-26T08:58:14+00:00",
-  "source": "html"
- },
- {
-  "id": "18c34dc83ce2c83c",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "İzmir'de 2. Kademe Dart Temel Antrenör Uygulama Eğitimi Yapılacak.",
-  "url": "https://tbbdf.org.tr/izmirde-2-kademe-dart-temel-antrenor-uygulama-egitimi-yapilacak-",
-  "summary": ", Çarşamba İzmir'de, 08 - 13 Eylül 2026 tarihleri arasında 2.Kademe Dart Temel Antrenör Uygulama Eğitimi yeterli başvuru olması halinde...",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-08-26T07:57:22+00:00",
-  "source": "html"
- },
- {
-  "id": "c26c0c61916e0361",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "İzmir'de 1. Kademe Dart Yardımcı Antrenör Uygulama Eğitimi Yapılacak.",
-  "url": "https://tbbdf.org.tr/izmirde-1-kademe-dart-yardimci-antrenor-uygulama-egitimi-yapilacak-",
-  "summary": ", Çarşamba İzmir'de 13 - 17 Eylül 2026 tarihleri arasında 1.Kademe Dart Yardımcı Antrenör Uygulama Eğitimi yeterli başvuru olması...",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-08-26T07:57:22+00:00",
-  "source": "html"
- },
- {
-  "id": "c246ba386f4cf84e",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "Özbekistan Heyetinin Ankara Programı Kapsamlı Ziyaretlerle Devam Etti!",
-  "url": "https://tossfed.gov.tr/ozbekistan-heyetinin-ankara-programi-kapsamli-ziyaretlerle-devam-etti/",
-  "summary": "Özbekistan Spor Bakanlığı yöneticileri, üniversite temsilcileri ve kulüp yöneticilerinden oluşan heyetin Türkiye Özel Sporcular Spor Federasyonu ile gerçekleştirdiği temaslar, farklı kurum ve spor tesislerine yapılan ziyaretlerle devam etti. Günün ilk programında, Spor Eğitimi ve Araştırmaları Daire Başkanlığından gelen Şube Müdürü ve Spor Uzmanının katılımıyla antrenör eğitimi ile antrenör yönetmeliğinin usul ve esasları konusunda toplantı gerçekleştirildi. …",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kulup"
-  ],
-  "published_at": "2026-08-25T21:57:18+00:00",
-  "first_seen_at": "2026-08-25T22:39:54+00:00",
-  "source": "rss"
- },
- {
-  "id": "b304c956a85c3184",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U18 Millî Takımımızın Hazırlık Kampı İstanbul'da Başladı",
-  "url": "https://www.tff.org/default.aspx?pageID=275&ftxtID=51200",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "milli_takim"
-  ],
-  "published_at": "2026-08-25T11:39:22+00:00",
-  "first_seen_at": "2026-08-25T11:39:22+00:00",
-  "source": "html"
  }
 ]

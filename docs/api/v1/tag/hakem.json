@@ -1,5 +1,23 @@
 [
  {
+  "id": "b26cd02917888450",
+  "federation": "kayak",
+  "federation_name": "Türkiye Kayak Federasyonu",
+  "federation_short": "TKF",
+  "title": "Hakem Semineri Duyurusu (1)",
+  "url": "https://tkf.org.tr/2026/09/15/hakem-semineri-duyurusu-1/",
+  "summary": "HAKEM GELİŞİM SEMİNERİ DUYURUSUFederasyonumuz tarafından Hakem Gelişim Seminerleri düzenlenecektir. Alp Disiplini, Kayaklı Koşu ve Snowboard branşında hakem lisansına",
+  "image": "https://tkf.org.tr/wp-content/uploads/2024/04/onemli-duyuru_2.jpg",
+  "category": "kurs",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-15T09:40:03+00:00",
+  "first_seen_at": "2026-09-15T13:33:34+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "ac05ecaff6a0eaf2",
   "federation": "yuzme",
   "federation_name": "Türkiye Yüzme Federasyonu",
@@ -17,6 +35,23 @@
   "published_at": "2026-09-15T00:00:00+00:00",
   "first_seen_at": "2026-09-15T01:24:37+00:00",
   "source": "html"
+ },
+ {
+  "id": "b5bce451301c6e70",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Avrupa’da Hakemlik Semineri",
+  "url": "https://www.badminton.org.tr/avrupada-hakemlik-semineri/",
+  "summary": "Türkiye Badminton Federasyonu Merkez Hakem Kurulu (MHK) Başkanımız Sedat Turunç, Belçika’da düzenlenen uluslararası hakem seminerine katılarak ülkemizi temsil etti! 🏸🇹🇷 Yaklaşık 22 Avrupa ülkesinden delegenin bir araya geldiği programda, “Türkiye Badminton Hakemlik Sistemi ve Hakem Yetiştirme Programı” başlıklı kapsamlı bir sunum gerçekleştirildi. Sunumda; Avrupa ülkelerinin hakemlik sistemlerini yakından tanıma fırsatı sunan ve ortak eğitim yaklaşımlarının […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-13-at-23.00.14.jpeg",
+  "category": "kurs",
+  "tags": [
+   "hakem"
+  ],
+  "published_at": "2026-09-14T09:43:19+00:00",
+  "first_seen_at": "2026-09-15T13:33:34+00:00",
+  "source": "wp_json"
  },
  {
   "id": "89e42c2e1366b5fd",
@@ -838,24 +873,6 @@
   ],
   "published_at": "2026-08-27T00:00:00+00:00",
   "first_seen_at": "2026-08-27T09:31:20+00:00",
-  "source": "html"
- },
- {
-  "id": "af9b6ad4e8b30024",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Halat Oyunu Aday Hakem Kursu Sınav Sonuçları Ağustos 2026",
-  "url": "https://www.gsdf.gov.tr/tr/haber/halat-oyunu-aday-hakem-kursu-sinav-sonuclari-agustos-2026",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/07f3030c4303f20d3f4b36fa3ddd84da_mid_r.jpg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-08-26T00:00:00+00:00",
-  "first_seen_at": "2026-08-26T19:20:09+00:00",
   "source": "html"
  }
 ]

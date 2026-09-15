@@ -1,5 +1,87 @@
 [
  {
+  "id": "f40cd0ed6d984a26",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "UEFA'dan Bülent Perut'a Görev",
+  "url": "https://www.tff.org/default.aspx?pageID=285&ftxtID=51347",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-15T22:11:04+00:00",
+  "first_seen_at": "2026-09-15T22:11:04+00:00",
+  "source": "html"
+ },
+ {
+  "id": "db61bac2e719aee5",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 359 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-15T22:08:12+00:00",
+  "first_seen_at": "2026-09-15T22:08:12+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "9f79412e74a8b71c",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Eskişehir Rallisi Odunpazarı’nda",
+  "url": "https://www.tosfed.org.tr/eskisehir-rallisi-odunpazarinda/",
+  "summary": "Petrol Ofisi Maxima 2026 Türkiye Ralli Şampiyonası’nın beşinci ayağı olan ETİ Odunpazarı Eskişehir Rallisi, Odunpazarı Belediyesi katkılarıyla Eskişehir Otomobil Spor Kulübü (ESOK) tarafından 18-20 Eylül tarihlerinde gerçekleştiriliyor. Eskişehir Valiliği, Eskişehir Büyükşehir Belediyesi, Odunpazarı Belediyesi, Eskişehir Ticaret Odası, Remed Assistance, Salados, Fora, Power App, Forum Kapadokya, Evofone, KYK Yapı Kimyasalları, ETİ, Banaz Otomotiv ve Espark katkılarıyla […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-15T19:28:32+00:00",
+  "first_seen_at": "2026-09-15T22:11:04+00:00",
+  "source": "rss"
+ },
+ {
+  "id": "481e3c2fac71d72a",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Düzce Extreme Yarışı Gölyaka’da",
+  "url": "https://www.tosfed.org.tr/duzce-extreme-yarisi-golyakada/",
+  "summary": "2026 Extreme Kupası 2. ayağı olan Düzce Extreme Yarışı, 19-20 Eylül 2026 tarihlerinde Gölyaka Kültür Park’ta gerçekleştirilecek. Düzce Otomobil ve Offroad Motor Spor Kulübü (DOSOD) tarafından Gölyaka Belediyesi, Gölyaka Kaymakamlığı ve Düzce İl Özel İdaresi destekleri ve Koç İnşaat ve BMS Group’un ana sponsorluğunda gerçekleştirilecek organizasyon, iki gün boyunca adrenalin ve mücadele dolu anlar yaşatacak. […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-15T18:54:56+00:00",
+  "first_seen_at": "2026-09-15T22:11:04+00:00",
+  "source": "rss"
+ },
+ {
+  "id": "2feb3d61803960d9",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "RMC Türkiye 2. Ayak Tuzla’da",
+  "url": "https://www.tosfed.org.tr/rmc-turkiye-2-ayak-tuzlada/",
+  "summary": "Dünyada 60 ülkede yapılan, CIK onaylı, en büyük katılımlı tek marka karting serisi olan Rotax Max Challenge 2026 Türkiye Tuzla Motorsporları Kulübü tarafından TOSFED desteğiyle 20 Eylül Pazar günü Tuzla Karting Park’da yapılacak. RMCTR 2. ayakta Rotax tarafından üretilen, FIA onaylı elektrikli karting motorları Türkiye’de ilk kez mini kategoride kullanılacak. E10 Mini ismi verilen motorlarla […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-15T18:49:14+00:00",
+  "first_seen_at": "2026-09-15T22:11:04+00:00",
+  "source": "rss"
+ },
+ {
   "id": "b4e1ef3e5ab494aa",
   "federation": "gelismekteolan",
   "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
@@ -4090,22 +4172,36 @@
   "source": "html"
  },
  {
-  "id": "46d34e307b4593cc",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 359 faaliyet listeleniyor.",
+  "id": "9a4c0e3f8cf38713",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Hukuk Müşavirliği -Sevkler- Detay TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1294&ftxtID=51345",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
   "image": null,
-  "category": "takvim",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-15T00:00:00+00:00",
+  "first_seen_at": "2026-09-15T22:11:04+00:00",
+  "source": "html"
+ },
+ {
+  "id": "3c06a2d6e35fcbda",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "Türkiye Yüzme Federasyonu Olağan Mali Genel Kurulu Delege Belirleme Kura Çekilişi Sonuç Duyurusu",
+  "url": "https://www.tyf.gov.tr/haber/turkiye-yuzme-federasyonu-olagan-mali-genel-kurulu-delege-belirleme-kura-cekilisi-sonuc-duyurusu-.html",
+  "summary": "Türkiye Yüzme Federasyonu Ana Statüsü’nün 9/9 maddesi, 7405 sayılı Spor Kulüpleri ve Spor Federasyonları Kanunu ve 25.07.2024 tarihli Spor Federasyonları Yönetmeliği’nin 23/12 maddesine istinaden, Mali Genel Kurul hakem ve kulüp delegelerinin belirlenmesine ilişkin noter kurası 15.09.2026 tarihinde saat 10.00’da Ankara 6. Noterliği tarafından T.C. Gençlik ve Spor Bakanlığı tarafından görevlendirilen Bakanlık Gözlemcileri ve katılım sağlayan temsilciler huzurunda Federasyonumuzun Beştepe Mahallesi 33. Cadde No:13 Yenimahalle/ANKARA adresinde gerçekleştirilmiştir. Yapılan kura sonucunda, Mali Ge",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/default/default_y.jpg",
+  "category": "musabaka",
   "tags": [
-   "takvim",
-   "faaliyet"
+   "musabaka"
   ],
-  "published_at": "2026-09-15T01:22:59+00:00",
-  "first_seen_at": "2026-09-15T01:22:59+00:00",
-  "source": "takvim-html"
+  "published_at": "2026-09-15T00:00:00+00:00",
+  "first_seen_at": "2026-09-15T22:11:04+00:00",
+  "source": "html"
  },
  {
   "id": "5173dc258d99b544",
@@ -107223,135 +107319,6 @@
   ],
   "published_at": "2026-08-26T04:24:32+00:00",
   "first_seen_at": "2026-08-26T04:24:32+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "993530a5d90fbd18",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Golf Faaliyetlerinde Üstün Başarı Gösterenlerin Ödüllendirilmesi ve Desteklenmesine Dair Talimat",
-  "url": "https://tgf.org.tr/tr/talimatlar/golf-faaliyetlerinde-ustun-basari-gosterenlerin-odullendirilmesi-ve-desteklenmesine-dair-talimat",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-26T04:24:32+00:00",
-  "first_seen_at": "2026-08-26T04:24:32+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "ac8ef4ea2687c33f",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Golf Kuralları",
-  "url": "https://tgf.org.tr/tr/golf-kurallari",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-26T04:24:32+00:00",
-  "first_seen_at": "2026-08-26T04:24:32+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "ac2e776e30309c10",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Golf Tesisleri Yeterlilik Belgesi Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/golf-tesisleri-yeterlilik-belgesi-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-26T04:24:32+00:00",
-  "first_seen_at": "2026-08-26T04:24:32+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "e94df495bea59b50",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Mevzuat güncellendi: Turnuva Yönergeleri",
-  "url": "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri",
-  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-26T04:24:32+00:00",
-  "first_seen_at": "2026-08-26T04:24:32+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "3e60bdd60a72df6c",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Dalı Tescil Talimatı (Onay Tarihi:01.11.2024)",
-  "url": "https://drive.google.com/file/d/1_NBf2GNxsaHvm39JlcvG8Fh6hmPDIgre/view?usp=drive_link",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-26T04:24:31+00:00",
-  "first_seen_at": "2026-08-26T04:24:31+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "738070b603716bf2",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Emniyetçi Eğitim Talimatı",
-  "url": "https://drive.google.com/file/d/1QnAT3QYK5EpDCt_mr5Ao7oTfq6Z_aHV7/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-26T04:24:31+00:00",
-  "first_seen_at": "2026-08-26T04:24:31+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "91b6e48609fffa37",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Türkiye Golf Federasyonu Antrenör Eğitimi Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/turkiye-golf-federasyonu-antrenor-egitimi-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-26T04:24:31+00:00",
-  "first_seen_at": "2026-08-26T04:24:31+00:00",
   "source": "mevzuat"
  }
 ]

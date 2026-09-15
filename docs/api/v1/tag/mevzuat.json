@@ -1,5 +1,22 @@
 [
  {
+  "id": "cd23db1f39bff76e",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Uçuş Güvenliğinde Yeni Dönem",
+  "url": "https://thsf.org.tr/ucus-guvenliginde-yeni-donem/",
+  "summary": "Türkiye Hava Sporları Federasyonu tarafından hazırlanan Hava Sporlarında Uçuşa Elverişlilik Talimatı, 11 Eylül 2026 tarihinde Gençlik ve Spor Bakanlığı ve Federasyonumuzun resmi web sayfasında yayımlanarak yürürlüğe girmiştir. Talimata göre tüm hava sporları faaliyetlerinde uçuş güvenliğinin daha etkin şekilde sağlanması amacıyla uçuş öncesi kontroller sistematik hale getirilmiştir. Talimat kapsamında her uçuş öncesinde pilotların uçuşa elverişlilik değerlendirmesi […]",
+  "image": "https://thsf.org.tr/wp-content/uploads/2026/09/fethiye-turkey-paraglider-flying-above-oludeniz-b-2026-03-16-23-03-14-utc-scaled.jpg",
+  "category": "duyuru",
+  "tags": [
+   "mevzuat"
+  ],
+  "published_at": "2026-09-15T13:51:31+00:00",
+  "first_seen_at": "2026-09-15T18:11:03+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "35520d183a5dd503",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -3616,24 +3633,6 @@
   "federation_short": "GSB",
   "title": "Mevzuat güncellendi: Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunun Uygulanmasına İlişkin Yönetmelik",
   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20124018&MevzuatTur=3&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-14T09:24:35+00:00",
-  "first_seen_at": "2026-09-14T09:24:35+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "81609703775d2e33",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Sportif Müsabakalardan Önce Yapılacak Saygı Duruşları Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4168&MevzuatTur=7&MevzuatTertip=5",
   "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

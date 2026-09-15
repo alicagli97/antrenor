@@ -1,5 +1,56 @@
 [
  {
+  "id": "3c22a8d34ece25da",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Nesine 2. ve 3. Lig'de Haftanın Canlı Yayınlanacak Maçları Belirlendi",
+  "url": "https://www.tff.org/default.aspx?pageID=204&ftxtID=51339",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-15T07:39:58+00:00",
+  "first_seen_at": "2026-09-15T07:39:58+00:00",
+  "source": "html"
+ },
+ {
+  "id": "a6458a7afc7e2ecd",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Veteranlar Turnuvası Duyurusu",
+  "url": "https://tvf.org.tr/icerik/veteranlar-turnuvasi-duyurusu",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-15T07:39:58+00:00",
+  "first_seen_at": "2026-09-15T07:39:58+00:00",
+  "source": "html"
+ },
+ {
+  "id": "2c7c1a6f971ce9f8",
+  "federation": "taekwondo",
+  "federation_name": "Türkiye Taekwondo Federasyonu",
+  "federation_short": "TTF",
+  "title": "2026 Dünya Taekwondo Poomsae Şampiyonası",
+  "url": "https://turkiyetaekwondofed.gov.tr/2026-dunya-taekwondo-poomsae-sampiyonasi/",
+  "summary": "2026 Dünya Taekwondo Poomsae Şampiyonası, Güney Kore’nin Chuncheon şehrinde 16-20 Eylül tarihleri arasında düzenlenecek. 83 ülkeden 1417 sporcunun mücadele ettiği şampiyonada ülkemizi, 30 farklı disiplinde toplam 36 sporcumuz temsil edecek. Müsabakalar World Taekwondo YouTube kanalından canlı olarak yayınlanacak. MİLLİ TAKIMIMIZ Yıldız Bayanlar Bireysel: Reyyan SönmezYıldız Erkekler Bireysel: Mehmet TuralYıldızlar Pair: Ali Kaan Meşe, Sabiha Ecrin […]",
+  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/09/TAKIM.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-15T06:10:02+00:00",
+  "first_seen_at": "2026-09-15T07:39:58+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "a51cf3f909ee96a9",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3374,58 +3425,6 @@
   ],
   "published_at": "2026-09-03T00:00:00+00:00",
   "first_seen_at": "2026-09-03T21:45:36+00:00",
-  "source": "html"
- },
- {
-  "id": "d6f6e09de8ebdb03",
-  "federation": "gormeengelliler",
-  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
-  "federation_short": "GESF",
-  "title": "Futbol Deplasmanlı Süper Lig 7. Hafta Hakem ve Görevli Listesi Yayınlandı",
-  "url": "https://www.gesf.org.tr/haber/futbol-deplasmanli-super-lig-7-hafta-hakem-ve-gorevli-listesi-yayinlandi-57",
-  "summary": "duyuru Futbol Deplasmanlı Süper Lig 6. Hafta Hakem ve Görevli Listesi Yayınlandı 1406 görüntülenme duyuru GENÇ KADIN GOALBALL MİLLİ TAKIMIMIZ KONYA’DA KAMPA GİRİYOR GENÇ KADIN GOALBALL MİLLİ TAKIMIMIZ KONYA’DA KAMPA GİRİYORGenç Kadın Goalball Milli Takımımız, 6-14 Eylül 2026 tarihleri arasında Konya’da gerçekleştirilecek hazırlık kampında çalışmalarını sürdürecektir.Milli takımımızın kamp sürecini",
-  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1776946550_ce6fcf32.jpeg",
-  "category": "musabaka",
-  "tags": [
-   "hakem",
-   "musabaka"
-  ],
-  "published_at": "2026-09-03T00:00:00+00:00",
-  "first_seen_at": "2026-09-03T18:35:39+00:00",
-  "source": "html"
- },
- {
-  "id": "d40fae58703c0f30",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U15 Millî Takımı'nın UEFA Gelişim Turnuvası Aday Kadrosu Açıklandı",
-  "url": "https://www.tff.org/default.aspx?pageID=282&ftxtID=51259",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-02T18:39:14+00:00",
-  "first_seen_at": "2026-09-02T18:39:14+00:00",
-  "source": "html"
- },
- {
-  "id": "629ead0000e7316c",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Trendyol 1. Lig'de Müsabaka Görevlisi Değişikliği",
-  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51257",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-02T18:39:14+00:00",
-  "first_seen_at": "2026-09-02T18:39:14+00:00",
   "source": "html"
  }
 ]

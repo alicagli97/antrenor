@@ -1,5 +1,56 @@
 [
  {
+  "id": "3c22a8d34ece25da",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Nesine 2. ve 3. Lig'de Haftanın Canlı Yayınlanacak Maçları Belirlendi",
+  "url": "https://www.tff.org/default.aspx?pageID=204&ftxtID=51339",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-15T07:39:58+00:00",
+  "first_seen_at": "2026-09-15T07:39:58+00:00",
+  "source": "html"
+ },
+ {
+  "id": "a6458a7afc7e2ecd",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Veteranlar Turnuvası Duyurusu",
+  "url": "https://tvf.org.tr/icerik/veteranlar-turnuvasi-duyurusu",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-15T07:39:58+00:00",
+  "first_seen_at": "2026-09-15T07:39:58+00:00",
+  "source": "html"
+ },
+ {
+  "id": "2c7c1a6f971ce9f8",
+  "federation": "taekwondo",
+  "federation_name": "Türkiye Taekwondo Federasyonu",
+  "federation_short": "TTF",
+  "title": "2026 Dünya Taekwondo Poomsae Şampiyonası",
+  "url": "https://turkiyetaekwondofed.gov.tr/2026-dunya-taekwondo-poomsae-sampiyonasi/",
+  "summary": "2026 Dünya Taekwondo Poomsae Şampiyonası, Güney Kore’nin Chuncheon şehrinde 16-20 Eylül tarihleri arasında düzenlenecek. 83 ülkeden 1417 sporcunun mücadele ettiği şampiyonada ülkemizi, 30 farklı disiplinde toplam 36 sporcumuz temsil edecek. Müsabakalar World Taekwondo YouTube kanalından canlı olarak yayınlanacak. MİLLİ TAKIMIMIZ Yıldız Bayanlar Bireysel: Reyyan SönmezYıldız Erkekler Bireysel: Mehmet TuralYıldızlar Pair: Ali Kaan Meşe, Sabiha Ecrin […]",
+  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/09/TAKIM.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-15T06:10:02+00:00",
+  "first_seen_at": "2026-09-15T07:39:58+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "a51cf3f909ee96a9",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -107273,61 +107324,6 @@
   "tags": [
    "mevzuat",
    "talimat"
-  ],
-  "published_at": "2026-08-25T04:24:34+00:00",
-  "first_seen_at": "2026-08-25T04:24:34+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "c28651e36f3bd5e0",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Kurullarının Görevlerine İlişkin Talimatı",
-  "url": "https://drive.google.com/file/d/1JXEUQkJTkZeW3_forokGN-8MXVAkzvWE/view",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-25T04:24:34+00:00",
-  "first_seen_at": "2026-08-25T04:24:34+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "e94df495bea59b50",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Mevzuat güncellendi: Turnuva Yönergeleri",
-  "url": "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri",
-  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-25T04:24:34+00:00",
-  "first_seen_at": "2026-08-25T04:24:34+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "fae8a96f311fbae8",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Milli Sporcu Belgesi Verilmesi...",
-  "url": "https://tbbdf.org.tr/tr/milli-sporcu-belgesi-verilmesi-talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
   ],
   "published_at": "2026-08-25T04:24:34+00:00",
   "first_seen_at": "2026-08-25T04:24:34+00:00",

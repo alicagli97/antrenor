@@ -72,6 +72,23 @@
   "source": "wp_json"
  },
  {
+  "id": "230ed208a45a5221",
+  "federation": "basketbol",
+  "federation_name": "Türkiye Basketbol Federasyonu",
+  "federation_short": "TBF",
+  "title": "2026-2027 Sezonu A Klasman Hakem Semineri İstanbul’da Başladı 14.09.2026",
+  "url": "https://www.tbf.org.tr/haber/2026-2027-sezonu-a-klasman-hakem-semineri-istanbul-da-basladi-2026-09-14",
+  "summary": "Merkez Hakem Kurulu Başkanı Recep Ankaralı’nın açılış konuşmasıyla başlayan seminer, MHK Eğitim Koordinatörü Emin Moğulkuç tarafından “Kural Değişiklikleri” ve “Ekip Oluşturma”, MHK Üyesi Dr. Rüştü Nuran tarafından “Oyun Yönetimi ve İletişim” konularında sunumların gerçekleştirilmesiyle seminerin ilk günü tamamlandı. Devamını Gör",
+  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/1488bf2a8b89435ea0174cbc975d6ad5_KAPAK.BOYUTpng.png",
+  "category": "kurs",
+  "tags": [
+   "hakem"
+  ],
+  "published_at": "2026-09-14T00:00:00+00:00",
+  "first_seen_at": "2026-09-16T11:00:26+00:00",
+  "source": "html"
+ },
+ {
   "id": "e324c060bbae9842",
   "federation": "atletizm",
   "federation_name": "Türkiye Atletizm Federasyonu",
@@ -855,24 +872,6 @@
   ],
   "published_at": "2026-08-28T00:00:00+00:00",
   "first_seen_at": "2026-09-09T21:41:14+00:00",
-  "source": "html"
- },
- {
-  "id": "75b341de21a30a63",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Kocaeli'de Bocce Aday Hakem Yetiştirme Kursu yapılacak. - Duyurular",
-  "url": "https://tbbdf.org.tr/kocaelide-bocce-aday-hakem-yetistirme-kursu-yapilacak-",
-  "summary": "TBBDF Haberler Duyurular Kocaeli'de Bocce Aday Hakem Yetiştirme Kursu yapılacak. Kocaeli'de Bocce Aday Hakem Yetiştirme Kursu yapılacak. Kocaeli'de, 12 - 13 Eylül 2026 tarihlerinde Bocce Aday Hakem Yetiştirme Kursu yapılacaktır. Hakem Kursuna katılacaklar, kurs bedeli olan 3000 TL'yi (2300 kurs + 700 TL belge ücreti), 12 Eylül 2026 tarihine kadar Federasyonumuzun ( İBAN TR76 0003 2000 0000 0122 0451 17 - TEB / TUNALI HİLMİ ŞUBESİ ) no'lu gelirler hesabına ödemelidir. Katılımcılar, en az 18 yaşını doldurmuş ve 55 yaşından gün almamış olmalıdır, söz konusu kurslara en az lise veya dengi okul mez",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-08-27T00:00:00+00:00",
-  "first_seen_at": "2026-08-27T09:31:20+00:00",
   "source": "html"
  }
 ]

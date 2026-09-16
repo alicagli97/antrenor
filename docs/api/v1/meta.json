@@ -1,23 +1,24 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-15T22:11:04+00:00",
- "total": 5998,
- "new_in_last_run": 497,
- "sources_ok": 62,
+ "generated_at": "2026-09-16T01:24:01+00:00",
+ "total": 5999,
+ "new_in_last_run": 492,
+ "sources_ok": 61,
  "sources_failed": [
   "basketbol",
   "buzpateni",
-  "gures"
+  "gures",
+  "hentbol"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-15T22:11:04+00:00",
+ "latest_published_at": "2026-09-16T01:24:00+00:00",
  "categories": {
+  "kurs": 132,
   "musabaka": 267,
   "takvim": 68,
   "duyuru": 592,
-  "kurs": 131,
   "haber": 49,
   "mevzuat": 4891
  },
@@ -34,6 +35,7 @@
   }
  ],
  "federation_counts": {
+  "boks": 29,
   "futbol": 123,
   "cimnastik": 34,
   "otomobil": 18,
@@ -73,7 +75,6 @@
   "shgm": 38,
   "sualti": 38,
   "dagcilik": 726,
-  "boks": 28,
   "danssporlari": 14,
   "vucutgelistirme": 16,
   "kano": 8,

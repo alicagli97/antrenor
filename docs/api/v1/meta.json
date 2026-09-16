@@ -1,23 +1,24 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-16T18:11:03+00:00",
+ "generated_at": "2026-09-16T22:08:11+00:00",
  "total": 5999,
- "new_in_last_run": 522,
- "sources_ok": 63,
+ "new_in_last_run": 505,
+ "sources_ok": 62,
  "sources_failed": [
   "basketbol",
-  "gures"
+  "gures",
+  "paralimpik"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-16T18:11:03+00:00",
+ "latest_published_at": "2026-09-16T22:04:39+00:00",
  "categories": {
+  "takvim": 70,
   "musabaka": 269,
-  "takvim": 67,
   "kurs": 130,
   "duyuru": 571,
-  "mevzuat": 4915,
+  "mevzuat": 4912,
   "haber": 47
  },
  "silent_sources": [
@@ -33,8 +34,10 @@
   }
  ],
  "federation_counts": {
+  "havasporlari": 23,
+  "wushu": 8,
+  "eskrim": 180,
   "futbol": 117,
-  "eskrim": 179,
   "gelismekteolan": 35,
   "masatenisi": 55,
   "cimnastik": 34,
@@ -62,17 +65,15 @@
   "satranc": 123,
   "golf": 470,
   "bisiklet": 38,
-  "triatlon": 223,
-  "buzpateni": 457,
+  "triatlon": 222,
+  "buzpateni": 455,
   "yelken": 78,
   "aticilik": 66,
   "atletizm": 68,
   "okculuk": 39,
   "yuzme": 15,
   "boks": 30,
-  "wushu": 7,
   "karate": 4,
-  "havasporlari": 22,
   "taekwondo": 12,
   "paralimpik": 9,
   "badminton": 90,

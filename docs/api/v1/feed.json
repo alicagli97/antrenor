@@ -1,5 +1,59 @@
 [
  {
+  "id": "c03bef330a167e6b",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-16T22:04:39+00:00",
+  "first_seen_at": "2026-09-16T22:04:39+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "6de9883822d1014b",
+  "federation": "wushu",
+  "federation_name": "Türkiye Wushu Kung Fu Federasyonu",
+  "federation_short": "TWKF",
+  "title": "Wushu Kung Fu faaliyet takviminde değişiklik",
+  "url": "https://twkf.gov.tr/faaliyet_takvimi.php",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-16T22:04:36+00:00",
+  "first_seen_at": "2026-09-16T22:04:36+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "eff352b30e091c95",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-16T22:04:30+00:00",
+  "first_seen_at": "2026-09-16T22:04:30+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "33450f12cd192064",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -5078,50 +5132,5 @@
   "published_at": "2026-09-12T16:37:26+00:00",
   "first_seen_at": "2026-09-12T17:02:45+00:00",
   "source": "wp_json"
- },
- {
-  "id": "8bde1b9fec2a0371",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "Suluova Belediyesi Yağlı Güreşleri",
-  "url": "https://tggf.org.tr/suluova-belediyesi-yagli-guresleri-2/",
-  "summary": "Benzer Haberler ... HAVRAN BELEDİYESİ SEYİT ONBAŞI YAĞLI GÜREŞLERİ Haberler YAĞLI GÜREŞ CUMHURBAŞKANLIĞI KUPASI KATILACAK PEHLİVANLAR LİSTESİ Duyurular , Haberler 674.TARİHİ ELMALI YAĞLI GÜREŞLERİNDE ORHAN OKULU BAŞPEHLİVAN OLDU Duyurular , Haberler",
-  "image": "https://tggf.org.tr/wp-content/uploads/2026/09/suluova_ilk_dort.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-12T16:34:51+00:00",
-  "first_seen_at": "2026-09-12T17:02:45+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "197b74215b616ca5",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "Milli Boksörlerimizden Sırbistan’da 6 Madalya",
-  "url": "https://www.turkboks.gov.tr/milli-boksorlerimizden-sirbistanda-6-madalya/",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-12T14:04:15+00:00",
-  "first_seen_at": "2026-09-12T14:04:15+00:00",
-  "source": "html"
- },
- {
-  "id": "69a85fbc3ed82b0f",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "2026-2027 Voleybol Sezonu Altyapı Faaliyet Programı Duyurusu",
-  "url": "https://tvf.org.tr/icerik/2026-2027-voleybol-sezonu-altyapi-faaliyet-programi-duyurusu",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-12T14:04:15+00:00",
-  "first_seen_at": "2026-09-12T14:04:15+00:00",
-  "source": "html"
  }
 ]

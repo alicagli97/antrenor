@@ -1,5 +1,59 @@
 [
  {
+  "id": "c03bef330a167e6b",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-16T22:04:39+00:00",
+  "first_seen_at": "2026-09-16T22:04:39+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "6de9883822d1014b",
+  "federation": "wushu",
+  "federation_name": "Türkiye Wushu Kung Fu Federasyonu",
+  "federation_short": "TWKF",
+  "title": "Wushu Kung Fu faaliyet takviminde değişiklik",
+  "url": "https://twkf.gov.tr/faaliyet_takvimi.php",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-16T22:04:36+00:00",
+  "first_seen_at": "2026-09-16T22:04:36+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "eff352b30e091c95",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-16T22:04:30+00:00",
+  "first_seen_at": "2026-09-16T22:04:30+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "11d4bb818790f7c7",
   "federation": "gelismekteolan",
   "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",

@@ -1,5 +1,59 @@
 [
  {
+  "id": "c03bef330a167e6b",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-16T22:04:39+00:00",
+  "first_seen_at": "2026-09-16T22:04:39+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "6de9883822d1014b",
+  "federation": "wushu",
+  "federation_name": "Türkiye Wushu Kung Fu Federasyonu",
+  "federation_short": "TWKF",
+  "title": "Wushu Kung Fu faaliyet takviminde değişiklik",
+  "url": "https://twkf.gov.tr/faaliyet_takvimi.php",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-16T22:04:36+00:00",
+  "first_seen_at": "2026-09-16T22:04:36+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "eff352b30e091c95",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-16T22:04:30+00:00",
+  "first_seen_at": "2026-09-16T22:04:30+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "33450f12cd192064",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -107329,60 +107383,6 @@
   ],
   "published_at": "2026-08-27T14:39:09+00:00",
   "first_seen_at": "2026-08-27T14:39:09+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "f09529f8437b4be5",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "Mevzuat güncellendi: Sağlık Kurulu Talimatı / 06.02.2013",
-  "url": "https://triatlon.org.tr/saglik-kurulu-talimati.html",
-  "summary": "Türkiye Triatlon Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-27T14:39:08+00:00",
-  "first_seen_at": "2026-08-27T14:39:08+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "9cd0835e59a39557",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Mevzuat güncellendi: Short Track Federasyon Kupası 3 Yarışmamıza Protok...",
-  "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-yarismamiza-protokol-ziyareti-11",
-  "summary": "Türkiye Buz Pateni Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-27T14:39:08+00:00",
-  "first_seen_at": "2026-08-27T14:39:08+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a4ddad43b94f6bd9",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Mevzuat güncellendi: Short Track Federasyon Kupası-1 Yarışma Talimatı...",
-  "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-yarisma-talimati",
-  "summary": "Türkiye Buz Pateni Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-27T14:39:08+00:00",
-  "first_seen_at": "2026-08-27T14:39:08+00:00",
   "source": "mevzuat"
  }
 ]

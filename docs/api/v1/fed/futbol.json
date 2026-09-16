@@ -1,5 +1,40 @@
 [
  {
+  "id": "33450f12cd192064",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U15 Kız Millî Takımımız, UEFA Gelişim Turnuvası Şampiyonu Oldu",
+  "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51361",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-16T18:11:03+00:00",
+  "first_seen_at": "2026-09-16T18:11:03+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f9ff012da11f1476",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Profesyonel Kulüplerin Resmî A Takım Oyuncu Listeleri Açıklandı",
+  "url": "https://www.tff.org/default.aspx?pageID=204&ftxtID=51360",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka",
+   "transfer"
+  ],
+  "published_at": "2026-09-16T18:11:03+00:00",
+  "first_seen_at": "2026-09-16T18:11:03+00:00",
+  "source": "html"
+ },
+ {
   "id": "0244d9262e2e5c9a",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -926,36 +961,6 @@
   "tags": [],
   "published_at": "2026-09-07T16:26:43+00:00",
   "first_seen_at": "2026-09-07T16:26:43+00:00",
-  "source": "html"
- },
- {
-  "id": "6f308d6e5756087f",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Mobil eMillî Takımımız, FIFAe Continental Championship'te Avrupa Şampiyonu Oldu",
-  "url": "https://www.tff.org/default.aspx?pageID=628&ftxtID=51284",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-07T10:13:27+00:00",
-  "first_seen_at": "2026-09-07T10:13:27+00:00",
-  "source": "html"
- },
- {
-  "id": "e583b44e5d428f7a",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Konsol eMillî Takımımız, FIFAe Continental Championship'te Avrupa Üçüncüsü Oldu",
-  "url": "https://www.tff.org/default.aspx?pageID=628&ftxtID=51285",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-07T10:13:27+00:00",
-  "first_seen_at": "2026-09-07T10:13:27+00:00",
   "source": "html"
  }
 ]

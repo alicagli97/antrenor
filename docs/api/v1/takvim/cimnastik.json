@@ -6,8 +6,16 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "ba82de00314be561",
- "event_count": 359,
+ "event_count": 360,
  "events": [
+  {
+   "ad": "Ritmik Cimnastik Büyük Grup Milli Takım Seçmesi",
+   "tarih": "2026-09-28",
+   "tarih_metni": "2026.10.03 28.09.2026 - 03.10.2026",
+   "yer": "İstanbul",
+   "brans": "Yarışma",
+   "satir": "2026 | Yarışma | Ritmik Cimnastik Büyük Grup Milli Takım Seçmesi | Ritmik Cimnastik | İstanbul | 2026.10.03 28.09.2026 - 03.10.2026 | İncele"
+  },
   {
    "ad": "Artistik Cimnastik (Erkek) Aday Hakem Kursu",
    "tarih": "2026-09-26",
@@ -2881,8 +2889,8 @@
    "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
   }
  ],
- "checked_at": "2026-09-16T01:20:40",
- "bekleyen_iz": null,
+ "checked_at": "2026-09-16T07:37:00",
+ "bekleyen_iz": "17366f73b38c5765",
  "changed_at": "2026-09-15T22:08:12+00:00",
  "parmak_izi": "ba82de00314be561"
 }

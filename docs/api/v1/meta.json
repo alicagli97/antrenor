@@ -1,26 +1,36 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-16T01:24:01+00:00",
+ "generated_at": "2026-09-16T07:39:46+00:00",
  "total": 5999,
- "new_in_last_run": 492,
- "sources_ok": 61,
+ "new_in_last_run": 415,
+ "sources_ok": 51,
  "sources_failed": [
   "basketbol",
+  "boks",
   "buzpateni",
+  "dagcilik",
+  "danssporlari",
+  "gelismekteolan",
   "gures",
-  "hentbol"
+  "herkesicinspor",
+  "isitmeengelliler",
+  "kano",
+  "masatenisi",
+  "satranc",
+  "sualti",
+  "vucutgelistirme"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-16T01:24:00+00:00",
+ "latest_published_at": "2026-09-16T07:39:45+00:00",
  "categories": {
+  "musabaka": 270,
+  "duyuru": 593,
   "kurs": 132,
-  "musabaka": 267,
   "takvim": 68,
-  "duyuru": 592,
   "haber": 49,
-  "mevzuat": 4891
+  "mevzuat": 4887
  },
  "silent_sources": [
   {
@@ -35,8 +45,9 @@
   }
  ],
  "federation_counts": {
+  "futbol": 126,
   "boks": 29,
-  "futbol": 123,
+  "universitesporlari": 76,
   "cimnastik": 34,
   "otomobil": 18,
   "gelismekteolan": 32,
@@ -56,7 +67,6 @@
   "gsb": 764,
   "ragbi": 78,
   "izcilik": 290,
-  "universitesporlari": 75,
   "muaythai": 121,
   "oryantiring": 66,
   "gelenekselguresler": 53,
@@ -64,7 +74,7 @@
   "bisiklet": 41,
   "bocce": 432,
   "bilardo": 71,
-  "golf": 457,
+  "golf": 455,
   "buzpateni": 450,
   "triatlon": 220,
   "yelken": 77,
@@ -74,7 +84,7 @@
   "hokey": 14,
   "shgm": 38,
   "sualti": 38,
-  "dagcilik": 726,
+  "dagcilik": 724,
   "danssporlari": 14,
   "vucutgelistirme": 16,
   "kano": 8,

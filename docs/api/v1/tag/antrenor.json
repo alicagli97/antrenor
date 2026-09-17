@@ -1,5 +1,44 @@
 [
  {
+  "id": "f35f4c868deadd22",
+  "federation": "halter",
+  "federation_name": "Türkiye Halter Federasyonu",
+  "federation_short": "THF",
+  "title": "Genç Kulüpler Türkiye Şampiyonası Açılış Seramonisi Gerçekleşti",
+  "url": "https://halter.gov.tr/genc-kulupler-turkiye-sampiyonasi-acilis-seramonisi-gerceklesti/",
+  "summary": "Türkiye Halter Federasyonu’nun 2026 yılı faaliyet programında yer alan Gençler Kulüpler Türkiye Halter Şampiyonası, Konya’da devam ediyor. Türkiye’nin dört bir yanından 550 sporcunun katılımıyla Konya Karatay Spor Salonu’nda düzenlenen şampiyonada genç sporcular, dereceye girebilmek için kıyasıya mücadele ediyor. AÇILIŞ TÖRENİ GERÇEKLEŞTİRİLDİ Şampiyonanın açılış töreni, protokol üyeleri, sporcular, antrenörler, kulüp temsilcileri ve davetlilerin katılımıyla gerçekleştirildi. Açılış […]",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "antrenor",
+   "musabaka",
+   "kulup"
+  ],
+  "published_at": "2026-09-17T13:34:12+00:00",
+  "first_seen_at": "2026-09-17T16:54:12+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "df51626e4913e1d8",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "ANTRENÖR KURSU",
+  "url": "https://muaythai.gov.tr/2026/09/17/antrenor-kursu-4/",
+  "summary": "MUAYTHAİ 2.KADEME TEMEL ANTRENÖR KURSU23-28 KASIM 2026 / İSTANBUL BAŞVURU TARİHLERİ: 10-17 KASIM 2026 İlgili Yönetmelik gereği bu",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/09/antrenor-kursu-istanbul.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "mevzuat",
+   "burs"
+  ],
+  "published_at": "2026-09-17T12:59:59+00:00",
+  "first_seen_at": "2026-09-17T16:54:12+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "6463183a32f2b718",
   "federation": "bisiklet",
   "federation_name": "Türkiye Bisiklet Federasyonu",
@@ -3745,44 +3784,6 @@
   ],
   "published_at": "2026-09-14T09:21:46+00:00",
   "first_seen_at": "2026-09-14T09:21:46+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "f0561f3e5bc30aee",
-  "federation": "havasporlari",
-  "federation_name": "Türkiye Hava Sporları Federasyonu",
-  "federation_short": "THSF",
-  "title": "Mevzuat güncellendi: HAKEM ve GÖZLEMCİ TALİMATINDA DEĞİŞİKLİK YAPILMASINA DAİR TALİMAT Onay Tarihi 16.04.2026",
-  "url": "https://thsf.org.tr/wp-content/uploads/2026/04/Turkiye-Hava-sporlari-Federasyonu-Hakem-ve-Gozlemci-Talimatinda-Degisiklik-Yapilmasina-Dair-Talimat.pdf",
-  "summary": "Türkiye Hava Sporları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-14T09:21:44+00:00",
-  "first_seen_at": "2026-09-14T09:21:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "bf3b2b01aeb59706",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Başarılı Sporculara Aylık Bağlanması ve Devlet Sporcusu Unvanı Verilmesi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13077&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-14T09:21:41+00:00",
-  "first_seen_at": "2026-09-14T09:21:41+00:00",
   "source": "mevzuat"
  }
 ]

@@ -1,5 +1,42 @@
 [
  {
+  "id": "e2b513c84d2b8509",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "TGF Federasyon Kupası Talimatı (Revize Hali)",
+  "url": "https://tgf.org.tr/upload/yarisma-talimati-tgf-federasyon-kupasi-turnuvasi-2026-revize-hali_8a1c56_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat"
+  ],
+  "published_at": "2026-09-17T16:54:12+00:00",
+  "first_seen_at": "2026-09-17T16:54:12+00:00",
+  "source": "html"
+ },
+ {
+  "id": "df51626e4913e1d8",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "ANTRENÖR KURSU",
+  "url": "https://muaythai.gov.tr/2026/09/17/antrenor-kursu-4/",
+  "summary": "MUAYTHAİ 2.KADEME TEMEL ANTRENÖR KURSU23-28 KASIM 2026 / İSTANBUL BAŞVURU TARİHLERİ: 10-17 KASIM 2026 İlgili Yönetmelik gereği bu",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/09/antrenor-kursu-istanbul.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "mevzuat",
+   "burs"
+  ],
+  "published_at": "2026-09-17T12:59:59+00:00",
+  "first_seen_at": "2026-09-17T16:54:12+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "6463183a32f2b718",
   "federation": "bisiklet",
   "federation_name": "Türkiye Bisiklet Federasyonu",
@@ -3607,42 +3644,6 @@
   "federation_short": "TBPF",
   "title": "Mevzuat güncellendi: Short Track Federasyon Kupası -1 Yarışma Talimatı...",
   "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-yarisma-talimati-111",
-  "summary": "Türkiye Buz Pateni Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-17T08:56:06+00:00",
-  "first_seen_at": "2026-09-17T08:56:06+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "d222d7cd1b92b938",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Mevzuat güncellendi: Short Track Federasyon Kupası -2 Yarışma Talimatı...",
-  "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-2-yarisma-talimati-111",
-  "summary": "Türkiye Buz Pateni Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-17T08:56:06+00:00",
-  "first_seen_at": "2026-09-17T08:56:06+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "3370b3b6c0649bf1",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Mevzuat güncellendi: Short Track Federasyon Kupası -3 Yarışma Talimatı...",
-  "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-11111",
   "summary": "Türkiye Buz Pateni Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

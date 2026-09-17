@@ -1,5 +1,25 @@
 [
  {
+  "id": "df51626e4913e1d8",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "ANTRENÖR KURSU",
+  "url": "https://muaythai.gov.tr/2026/09/17/antrenor-kursu-4/",
+  "summary": "MUAYTHAİ 2.KADEME TEMEL ANTRENÖR KURSU23-28 KASIM 2026 / İSTANBUL BAŞVURU TARİHLERİ: 10-17 KASIM 2026 İlgili Yönetmelik gereği bu",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/09/antrenor-kursu-istanbul.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "mevzuat",
+   "burs"
+  ],
+  "published_at": "2026-09-17T12:59:59+00:00",
+  "first_seen_at": "2026-09-17T16:54:12+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "a483e99d4fda3d3c",
   "federation": "muaythai",
   "federation_name": "Türkiye Muaythai Federasyonu",
@@ -1049,24 +1069,6 @@
   "federation_short": "TMF",
   "title": "Mevzuat güncellendi: Yönetmelik",
   "url": "https://muaythai.gov.tr/tag/yonetmelik/",
-  "summary": "Türkiye Muaythai Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-06T08:11:20+00:00",
-  "first_seen_at": "2026-09-06T08:11:20+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "2b77755ad5bf038a",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "Mevzuat güncellendi: Yönetmelik ve Talimatlar",
-  "url": "https://muaythai.gov.tr/2015/04/05/yonetlelik-ve-talimatlar/",
   "summary": "Türkiye Muaythai Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

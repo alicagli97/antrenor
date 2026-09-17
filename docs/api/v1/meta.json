@@ -1,12 +1,15 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-17T00:27:41+00:00",
+ "generated_at": "2026-09-17T06:08:53+00:00",
  "total": 5999,
- "new_in_last_run": 515,
- "sources_ok": 63,
+ "new_in_last_run": 487,
+ "sources_ok": 60,
  "sources_failed": [
   "basketbol",
-  "gures"
+  "gures",
+  "halter",
+  "taekwondo",
+  "wushu"
  ],
  "sources_empty": [],
  "sources_missing": [],

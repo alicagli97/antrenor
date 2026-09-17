@@ -1,13 +1,12 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-16T22:08:11+00:00",
+ "generated_at": "2026-09-17T00:27:41+00:00",
  "total": 5999,
- "new_in_last_run": 505,
- "sources_ok": 62,
+ "new_in_last_run": 515,
+ "sources_ok": 63,
  "sources_failed": [
   "basketbol",
-  "gures",
-  "paralimpik"
+  "gures"
  ],
  "sources_empty": [],
  "sources_missing": [],

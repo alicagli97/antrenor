@@ -1,5 +1,50 @@
 [
  {
+  "id": "ea0f8534f802f23c",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Tekvandoda 1 bronz madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303055/tekvandoda-1-bronz-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-09-17T11:34:47+00:00",
+  "first_seen_at": "2026-09-17T11:34:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "5979b4e338b117b2",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Kuraşta 50 madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303060/kurasta-50-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-09-17T11:34:47+00:00",
+  "first_seen_at": "2026-09-17T11:34:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0af4d0d0a63c7220",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "Tiran’da Türkiye Damgası: 34 Üniversitemizden 96 Madalya",
+  "url": "https://tusf.org.tr/Haber.aspx?b=15ae87f4-1a05-48ac-a0f9-5683ab1f2a98&bid=4399&_=Tiran’da Türkiye Damgası: 34 Üniversitemizden 96 Madalya",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-09-17T00:00:00+00:00",
+  "first_seen_at": "2026-09-17T11:34:47+00:00",
+  "source": "html"
+ },
+ {
   "id": "40b47e3de2b09759",
   "federation": "okculuk",
   "federation_name": "Türkiye Okçuluk Federasyonu",
@@ -659,67 +704,5 @@
   "published_at": "2026-08-28T18:36:31+00:00",
   "first_seen_at": "2026-08-28T18:36:31+00:00",
   "source": "html"
- },
- {
-  "id": "e483076355d3a222",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "Paletli Yüzmede 20. Akdeniz Oyunları’nı 1 Altın, 1 Gümüş ve 2 Bronz Madalyayla Tamamladık",
-  "url": "https://www.tssf.gov.tr/paletli-yuzmede-20-akdeniz-oyunlarini-1-altin-1-gumus-ve-2-bronz-madalyayla-tamamladik/",
-  "summary": "İtalya Taranto’da düzenlenen 20. Akdeniz Oyunları’nda Sualtı Sporları Federasyonumuzun Paletli Yüzme Milli Takımı erkeklerde 1 altın, 1 gümüş",
-  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/08/TARANTO.jpeg",
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-08-28T10:33:33+00:00",
-  "first_seen_at": "2026-08-28T18:36:31+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "1ed91d352a5c76b6",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Team Türkiye Taranto 2026’nın Yedinci Gününde 8 Madalya Kazandı",
-  "url": "https://olimpiyat.org.tr/Haber-Detay/team-turkiye-taranto-2026nin-yedinci-gununde-8-madalya-kazandi/12075",
-  "summary": "Team Türkiye, 28 Ağustos’ta 4 altın, 1 gümüş ve 3 bronz olmak üzere toplam 8 madalya kazandı. Oyunların ilk haftası geride kalırken, Team Türkiye 28 altın, 14 gümüş ve 19 bronz olmak üzere toplan 61 madalya ile ikinci sıradaki yerini korudu. Devamını Oku",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-08-28T00:00:00+00:00",
-  "first_seen_at": "2026-09-12T14:04:15+00:00",
-  "source": "html"
- },
- {
-  "id": "3b3a8d5ccc955eb0",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Team Türkiye Taranto 2026’nın Altıncı Gününde 8 Madalya Kazandı",
-  "url": "https://olimpiyat.org.tr/Haber-Detay/team-turkiye-taranto-2026nin-altinci-gununde-8-madalya-kazandi/12074",
-  "summary": "Team Türkiye sporcuları 27 Ağustos Perşembe günü atıcılık, badminton, boks, masa tenisi, okçuluk, paletli yüzme, tenis, voleybol ve yelken branşlarında mücadele etti. Team Türkiye günü 3 altın, 2 gümüş ve 3 bronz olmak üzere toplam 8 madalya ile madalya sıralamasında ikinciliği koruyarak tamamladı. Devamını Oku",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-08-28T00:00:00+00:00",
-  "first_seen_at": "2026-09-12T14:04:15+00:00",
-  "source": "html"
- },
- {
-  "id": "3bcc831df55b765e",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Hülya Figen Karadağ’dan bir madalya daha!",
-  "url": "https://taf.org.tr/mehmet-murat-kacar-dunya-ucuncusu-2/",
-  "summary": "Hülya Figen Karadağ’dan bir madalya daha! 🏃‍♀️Güney Kore’nin Daegu şehrinde düzenlenen Dünya Masterlar Atletizm Şampiyonası’nda ülkemizi temsil eden Hülya Figen Karadağ, kadınlar 55 yaş kategorisi üç adım atlama finalinde 9.99m’lik derecesiyle bronz madalya kazandı.🇹🇷 🥉🥉Hülya Figen Karadağ, şampiyonada ikinci bronz madalyasını elde etti. 👏🏻Sporcumuzu ve tüm emeği geçenleri kutluyoruz.",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/08/87f8956b-5374-4a49-86ce-b46b86e8a5f1.jpg",
-  "category": "haber",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-08-27T15:29:43+00:00",
-  "first_seen_at": "2026-08-27T20:22:16+00:00",
-  "source": "wp_json"
  }
 ]

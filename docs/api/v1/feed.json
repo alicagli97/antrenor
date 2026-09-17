@@ -1,5 +1,40 @@
 [
  {
+  "id": "6f12827a2eb9b9d3",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF Riva Tesisleri'nde Gaziler Günü Etkinliği Düzenlendi",
+  "url": "https://www.tff.org/default.aspx?pageID=285&ftxtID=51365",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "milli_takim"
+  ],
+  "published_at": "2026-09-17T23:33:15+00:00",
+  "first_seen_at": "2026-09-17T23:33:15+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0b4561ef7ffb8a82",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 362 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-17T23:31:19+00:00",
+  "first_seen_at": "2026-09-17T23:31:19+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "8348f3e89c7bafb6",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -2383,6 +2418,53 @@
   "published_at": "2026-09-17T06:31:11+00:00",
   "first_seen_at": "2026-09-17T11:34:47+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "0a602e2d02f9dd81",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "PFDK Kararları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=246&ftxtID=51356",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-17T00:00:00+00:00",
+  "first_seen_at": "2026-09-17T23:33:15+00:00",
+  "source": "html"
+ },
+ {
+  "id": "feb5ca9b5fb31347",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Aday Masa Hakemliği Kursu Açılıyor!",
+  "url": "https://tdsf.org.tr/haberler/aday-masa-hakemligi-kursu-aciliyor",
+  "summary": "15 Eylül 2026 2026-2027 SEZONU DANS SPORU (LT&ST) 1. ETAP KSY-USY SPORCU KAYITLARI 14 Eylül 2026 2026/3 TEMEL EĞİTİM PROGRAMI BAŞLIYOR! 10 Eylül 2026 GENEL KURUL NOTER HUZURUNDA KURA ÇEKİMİ 9 Eylül 2026 ARJANTİN TANGO ADAY HAKEM KURSU “ERTELENDİ!” 28 Ağustos 2026 DANS SPORU (LT&STD) HAKEM VİZE SEMİNERİ 24 Ağustos 2026 ARJANTİN TANGO ADAY HAKEM KURSU AÇILIYOR 20 Ağustos 2026 DANS SPORU (LT&STD) 3. ",
+  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-17-eylul-2-1789667443.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-09-17T00:00:00+00:00",
+  "first_seen_at": "2026-09-17T23:33:15+00:00",
+  "source": "html"
+ },
+ {
+  "id": "2aa240aa56796dd6",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "2026-2027 Sezonu Dans Sporu (lt&st) 1. Etap Ksy-usy Sporcu Kayıtları",
+  "url": "https://tdsf.org.tr/haberler/2026-2027-sezonu-dans-sporu-ltst-1-etap-ksy-usy-sporcu-kayitlari",
+  "summary": "ADAY MASA HAKEMLİĞİ KURSU AÇILIYOR! 15 Eylül 2026 14 Eylül 2026 2026/3 TEMEL EĞİTİM PROGRAMI BAŞLIYOR! 10 Eylül 2026 GENEL KURUL NOTER HUZURUNDA KURA ÇEKİMİ 9 Eylül 2026 ARJANTİN TANGO ADAY HAKEM KURSU “ERTELENDİ!” 28 Ağustos 2026 DANS SPORU (LT&STD) HAKEM VİZE SEMİNERİ 24 Ağustos 2026 ARJANTİN TANGO ADAY HAKEM KURSU AÇILIYOR 20 Ağustos 2026 DANS SPORU (LT&STD) 3. KADEME KIDEMLİ ANTRENÖRLÜK UYGULA",
+  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-15-eylul-1789462394.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-17T00:00:00+00:00",
+  "first_seen_at": "2026-09-17T23:33:15+00:00",
+  "source": "html"
  },
  {
   "id": "7199fd447f3eabdf",
@@ -5063,86 +5145,6 @@
   "tags": [],
   "published_at": "2026-09-14T00:00:00+00:00",
   "first_seen_at": "2026-09-14T18:35:22+00:00",
-  "source": "html"
- },
- {
-  "id": "348449f3d1460570",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Dragon Bot Türkiye Şampiyonası Rumkale’de Tamamlandı",
-  "url": "https://kano.org.tr/dragon-bot-turkiye-sampiyonasi-rumkalede-tamamlandi",
-  "summary": ", Pazartesi Federasyonumuzun 2026 yılı faaliyet programında yer alan Dragon Bot Türkiye Şampiyonası Yarışları, 12-13 Eylül 2026 tarihlerinde Gaziantep Rumkale’de gerçekleştirildi.",
-  "image": "https://kano.org.tr/uploads/2026/dragon-bot/turkiye-sampiyonasi/kapak.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-14T00:00:00+00:00",
-  "first_seen_at": "2026-09-14T12:40:05+00:00",
-  "source": "html"
- },
- {
-  "id": "d221449ca132f3fc",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Uçurtma Sörfü Kursu USE-1 (US4) Duyurusu / 1-5 Ekim 2026 / İzmir Alaçatı",
-  "url": "https://www.tyf.org.tr/duyurular/egitim-ve-seminer/ucurtma-sorfu-kursu-use-1-us4-duyurusu-1-5-ekim-2026-izmir-alacati/315763/",
-  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular Uçurtma Sörfü Kursu USE-1 (US4) Duyurusu / 1-5 Ekim 2026 / İzmir Alaçatı Uçurtma Sörfü Kursu USE-1 (US4) Duyurusu / 1-5 Ekim 2026 / İzmir Alaçatı 14.09.2026 Duyurular 1 Paylaş Tweetle Yelken Eğitim Sistemi (YES) Uçurtma Sörfü Eğitmeni Kursu aşağıda ilan edilen tarihte ve yerde açılacaktır. Başvuru sırasın",
-  "image": "https://portal.tyf.org.tr/content/images/pageimages/image-not-found.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-14T00:00:00+00:00",
-  "first_seen_at": "2026-09-14T12:40:05+00:00",
-  "source": "html"
- },
- {
-  "id": "88780339b4119d67",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Yelkenli Tekne Eğitmeni Kursu YTE-1 (D4) Duyurusu / 28 Eylül- 1Ekim 2026 / Trabzon",
-  "url": "https://www.tyf.org.tr/duyurular/egitim-ve-seminer/yelkenli-tekne-egitmeni-kursu-yte-1-d4-duyurusu-28-eylul-1ekim-2026-trabzon/315762/",
-  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular Yelkenli Tekne Eğitmeni Kursu YTE-1 (D4) Duyurusu / 28 Eylül- 1Ekim 2026 / Trabzon Yelkenli Tekne Eğitmeni Kursu YTE-1 (D4) Duyurusu / 28 Eylül- 1Ekim 2026 / Trabzon 14.09.2026 Duyurular 1 Paylaş Tweetle Yelken Eğitim Sistemi (YES) Yelkenli Tekne Eğitmeni Kursu aşağıda ilan edilen tarihte ve yerde açılaca",
-  "image": "https://portal.tyf.org.tr/content/images/pageimages/image-not-found.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-14T00:00:00+00:00",
-  "first_seen_at": "2026-09-14T12:40:05+00:00",
-  "source": "html"
- },
- {
-  "id": "cb69abd477f2cb19",
-  "federation": "bilardo",
-  "federation_name": "Türkiye Bilardo Federasyonu",
-  "federation_short": "TBF",
-  "title": "2026/3 Antrenör Temel Eğitim Sınavı",
-  "url": "https://www.bilardo.org.tr/haberler/-2026/3-antrenor-temel-egitim-sinavi-1148",
-  "summary": "Haber Tarihi: 2026 3 BANT A KATEGORİSİ TÜRKİYE ŞAMPİYONASI 2.ETAP Federasyonumuzun 2026 yılı faaliyet programında yer alan 3 Bant Erkekler A Kategorisi Türkiye Şampiyonası 2.Etap müsabakaları 2-8 Ekim 2026 tarihleri arasında Türkiye Bilardo Federasyonu Bilardo Tesisi Gölbaşı/Ankara’da yapılacaktır. Son başvuru tarihi 17 Eylül 2026 saat 21:00 olup, başvuruların bitiminde gruplar ve maç programları ",
-  "image": "https://www.bilardo.org.tr/image/120/90/fb6c8b2c74fe73fe8a1c4dc2f565c058.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-09-14T00:00:00+00:00",
-  "first_seen_at": "2026-09-14T12:40:05+00:00",
-  "source": "html"
- },
- {
-  "id": "bfcdd7641dc4ead0",
-  "federation": "bilardo",
-  "federation_name": "Türkiye Bilardo Federasyonu",
-  "federation_short": "TBF",
-  "title": "Artistik Bilardo 1. Etap sonuçlandı.",
-  "url": "https://www.bilardo.org.tr/haberler/artistik-bilardo-1.-etap-sonuclandi.-1149",
-  "summary": "2026/3 ANTRENÖR TEMEL EĞİTİM SINAVI 2026/3 ANTRENÖR TEMEL EĞİTİM SINAVI Haber Tarihi: 2026 3 BANT A KATEGORİSİ TÜRKİYE ŞAMPİYONASI 2.ETAP Federasyonumuzun 2026 yılı faaliyet programında yer alan 3 Bant Erkekler A Kategorisi Türkiye Şampiyonası 2.Etap müsabakaları 2-8 Ekim 2026 tarihleri arasında Türkiye Bilardo Federasyonu Bilardo Tesisi Gölbaşı/Ankara’da yapılacaktır. Son başvuru tarihi 17 Eylül ",
-  "image": "https://www.bilardo.org.tr/image/120/90/9aec7bbca0b627e69f5a65d6cd846c3a.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-14T00:00:00+00:00",
-  "first_seen_at": "2026-09-14T12:40:05+00:00",
   "source": "html"
  }
 ]

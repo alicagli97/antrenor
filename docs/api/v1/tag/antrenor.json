@@ -1,5 +1,23 @@
 [
  {
+  "id": "68fa8d0b7f47dc6c",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Para Badminton 3.Kademe Antrenörlük Kursu",
+  "url": "https://www.badminton.org.tr/para-badminton-3-kademe-antrenorluk-kursu/",
+  "summary": "Türkiye Badminton Federasyonu Başkanlığı 2026 yılı Para Badminton 3. Kademe Kıdemli Antrenör Yetiştirme Kursu 30 Eylül-06 Ekim 2026 tarihleri arasında Kastamonu’da yapılacaktır. Ön Kayıt Başlama Tarihi : 18 Eylül 2026 – Saat :10.00 Ön Kayıt Bitiş Tarihi : 28 Eylül 2026- Saat : 17.00 Kurs Başlama Tarihi : 30 Eylül 2026 Kurs Bitiş Tarihi : 06 Ekim […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/03/duyuru11.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-17T18:39:29+00:00",
+  "first_seen_at": "2026-09-17T20:14:53+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "f35f4c868deadd22",
   "federation": "halter",
   "federation_name": "Türkiye Halter Federasyonu",
@@ -3765,25 +3783,6 @@
   ],
   "published_at": "2026-09-14T09:21:50+00:00",
   "first_seen_at": "2026-09-14T09:21:50+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "9f8e1839cb0ac3bb",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Kamu Taşınmazları Üzerinde Eğitim ve Yurt Faaliyetleri İçin İrtifak Hakkı Tesis Edilmesine ve Kullanma İzni Verilmesine İlişkin Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23773&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-14T09:21:46+00:00",
-  "first_seen_at": "2026-09-14T09:21:46+00:00",
   "source": "mevzuat"
  }
 ]

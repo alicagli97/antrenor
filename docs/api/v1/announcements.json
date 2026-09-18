@@ -1,5 +1,23 @@
 [
  {
+  "id": "659532d0c1a3fa0d",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-18T04:32:50+00:00",
+  "first_seen_at": "2026-09-18T04:32:50+00:00",
+  "source": "takvim-pdf"
+ },
+ {
   "id": "6f12827a2eb9b9d3",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -107374,25 +107392,6 @@
   "federation_short": "TDF",
   "title": "Mevzuat güncellendi: TDF Eğitim Talimatı (10.03.2025 tarihinde yürürlükten kaldırıldı. )",
   "url": "https://drive.google.com/file/d/1GcvaBegMzul65AcEEjya2Ne4hAtuHUxg/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-08-28T15:42:19+00:00",
-  "first_seen_at": "2026-08-28T15:42:19+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "354921501e3c8842",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: TDF Eğitim Yönergesi (yürürlükte olan 2022 V02)",
-  "url": "https://drive.google.com/file/d/12Dy_jQ7hC7zGv2bOw-SvQF8um8AcHRO9/view?usp=sharing",
   "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

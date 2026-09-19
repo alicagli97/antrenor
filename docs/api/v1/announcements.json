@@ -1,5 +1,20 @@
 [
  {
+  "id": "a8fdc9426383d37b",
+  "federation": "hokey",
+  "federation_name": "Türkiye Hokey Federasyonu",
+  "federation_short": "THF",
+  "title": "FAALİYET DUYURUSU",
+  "url": "https://www.turkhokey.gov.tr/haber/10224/faaliyet-duyurusu",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-19T22:57:03+00:00",
+  "first_seen_at": "2026-09-19T22:57:03+00:00",
+  "source": "html"
+ },
+ {
   "id": "dd213b822e69a181",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -107332,24 +107347,6 @@
   "federation_short": "TBBDF",
   "title": "Mevzuat güncellendi: Milli Takımlar Yönergesi",
   "url": "https://tbbdf.org.tr/tr/milli-takimlar-yonergesi",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-30T09:31:08+00:00",
-  "first_seen_at": "2026-08-30T09:31:08+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "9a55339c9299128e",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Satınalma Talimatı",
-  "url": "https://tbbdf.org.tr/tr/satinalma___butce_talimati",
   "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

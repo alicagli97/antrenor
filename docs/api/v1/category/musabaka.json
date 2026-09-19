@@ -360,6 +360,24 @@
   "source": "wp_json"
  },
  {
+  "id": "d23d2dc5ad008207",
+  "federation": "basketbol",
+  "federation_name": "Türkiye Basketbol Federasyonu",
+  "federation_short": "TBF",
+  "title": "Eylül - 12 Ekim 2026 Tarihleri Arasında Oynanacak Türkiye Sigorta BSL Müsabakaları Hakem Görevlendirmeleri 17.09.2026",
+  "url": "https://www.tbf.org.tr/haber/25-eylul-12-ekim-2026-tarihleri-arasinda-oynanacak-turkiye-sigorta-bsl-musabakalari-hakem-gorevlendirmeleri-2026-09-17",
+  "summary": "",
+  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/6e11be6a5c864232bff9c6832d014265_TBFLOGO...jpg",
+  "category": "musabaka",
+  "tags": [
+   "hakem",
+   "musabaka"
+  ],
+  "published_at": "2026-09-17T00:00:00+00:00",
+  "first_seen_at": "2026-09-19T16:00:24+00:00",
+  "source": "html"
+ },
+ {
   "id": "1a15ae54a84f9486",
   "federation": "yuzme",
   "federation_name": "Türkiye Yüzme Federasyonu",
@@ -3403,23 +3421,6 @@
   ],
   "published_at": "2026-09-09T00:00:00+00:00",
   "first_seen_at": "2026-09-13T16:11:10+00:00",
-  "source": "html"
- },
- {
-  "id": "470117ca25a4dcd0",
-  "federation": "yuzme",
-  "federation_name": "Türkiye Yüzme Federasyonu",
-  "federation_short": "TYF",
-  "title": "Türkiye Yüzme Federasyonu Olağan Mali Genel Kurulu Delege Belirleme Kura Çekilişi Duyurusu",
-  "url": "https://www.tyf.gov.tr/haber/turkiye-yuzme-federasyonu-olagan-mali-genel-kurulu-delege-belirleme-kura-cekilisi-duyurusu-.html",
-  "summary": "Gençlik ve Spor Bakanlığı Spor Hizmetleri Genel Müdürlüğünün 05.06.2026 tarihli ve E-55713576-125.01.02-14664763 sayılı yazısı, 7405 sayılı Spor Kulüpleri ve Spor Federasyonları Kanunu ve Federasyonumuz Yönetim Kurulunun 28.07.2026 tarihli ve 10/1 sayılı karar maddesine istinaden, Türkiye Yüzme Federasyonu Olağan Mali Genel Kurul Toplantısı 01 Kasım 2026 Pazar günü, çoğunluk sağlanamadığı takdirde 02 Kasım 2026 Pazartesi günü gerçekleştirilecektir. BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
-  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-09/1485/1788961859_y.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-09T00:00:00+00:00",
-  "first_seen_at": "2026-09-09T14:30:53+00:00",
   "source": "html"
  }
 ]

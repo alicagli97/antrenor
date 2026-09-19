@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-18T21:38:36+00:00",
- "total": 5998,
- "new_in_last_run": 512,
+ "generated_at": "2026-09-19T00:14:22+00:00",
+ "total": 6000,
+ "new_in_last_run": 503,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -11,11 +11,11 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-18T21:38:36+00:00",
+ "latest_published_at": "2026-09-19T00:14:22+00:00",
  "categories": {
-  "duyuru": 585,
+  "duyuru": 586,
+  "takvim": 72,
   "kurs": 143,
-  "takvim": 71,
   "musabaka": 277,
   "haber": 50,
   "mevzuat": 4872
@@ -33,9 +33,9 @@
   }
  ],
  "federation_counts": {
+  "hokey": 24,
+  "eskrim": 199,
   "futbol": 128,
-  "eskrim": 198,
-  "hokey": 23,
   "gormeengelliler": 43,
   "voleybol": 130,
   "badminton": 56,

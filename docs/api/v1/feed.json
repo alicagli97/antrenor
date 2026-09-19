@@ -1,5 +1,38 @@
 [
  {
+  "id": "68b78ef17d32f4ad",
+  "federation": "hokey",
+  "federation_name": "Türkiye Hokey Federasyonu",
+  "federation_short": "THF",
+  "title": "Tertip Komitesi Kararı",
+  "url": "https://www.turkhokey.gov.tr/haber/10178/tertip-komitesi-karari",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-19T00:14:22+00:00",
+  "first_seen_at": "2026-09-19T00:14:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "4c84a9d42243aca0",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-19T00:12:22+00:00",
+  "first_seen_at": "2026-09-19T00:12:22+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "8c6bdf878e1bdf5d",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -5095,39 +5128,5 @@
   "published_at": "2026-09-14T19:17:30+00:00",
   "first_seen_at": "2026-09-14T18:35:22+00:00",
   "source": "api"
- },
- {
-  "id": "4f7a587e0fd761f4",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Ziraat Türkiye Kupası'nda 1. Tur Müsabaka Görevlileri Açıklandı",
-  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51334",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-14T18:35:22+00:00",
-  "first_seen_at": "2026-09-14T18:35:22+00:00",
-  "source": "html"
- },
- {
-  "id": "d4e60893f3e7f52b",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Veteranlar Turnuvası Hakkında Duyuru",
-  "url": "https://tvf.org.tr/icerik/veteranlar-turnuvasi-hakkinda-duyuru",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-14T18:35:22+00:00",
-  "first_seen_at": "2026-09-14T18:35:22+00:00",
-  "source": "html"
  }
 ]

@@ -1,5 +1,22 @@
 [
  {
+  "id": "711611753ece6397",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U15 Millî Takımımız, UEFA Gelişim Turnuvası'nda Sırbistan Karşısında",
+  "url": "https://www.tff.org/default.aspx?pageID=282&ftxtID=51383",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-19T11:04:55+00:00",
+  "first_seen_at": "2026-09-19T11:04:55+00:00",
+  "source": "html"
+ },
+ {
   "id": "8c6bdf878e1bdf5d",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -947,21 +964,6 @@
   "tags": [],
   "published_at": "2026-09-11T00:00:00+00:00",
   "first_seen_at": "2026-09-11T18:26:01+00:00",
-  "source": "html"
- },
- {
-  "id": "d86c8a99a8d7fe10",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Futbol Gelişim Direktörlüğü, FIFA TDS Kapsamında Çalışmalarını Sürdürüyor",
-  "url": "https://www.tff.org/default.aspx?pageID=228&ftxtID=51310",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-10T18:22:42+00:00",
-  "first_seen_at": "2026-09-10T18:22:42+00:00",
   "source": "html"
  }
 ]

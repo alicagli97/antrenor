@@ -2113,6 +2113,23 @@
   "source": "takvim-html"
  },
  {
+  "id": "68d58c2bccb4b7ed",
+  "federation": "karate",
+  "federation_name": "Türkiye Karate Federasyonu",
+  "federation_short": "TKF",
+  "title": "Türkiye’de İlk: Karate Antrenörleri için Eğitsel Antrenörlük ve Pedagojik Yeterlilik Eğitimi",
+  "url": "https://karate.gov.tr/blog_detay.php?id=92",
+  "summary": "HABER Ulusal Haberler Karate Antrenörleri İçin Eğitsel Antrenörlük ve Pedagojik Yeterlilik Eğitimi hayata geçiriliyor.... DEVAMINI OKU",
+  "image": "https://karate.gov.tr/uploads/blog/blog_1789845034_708.webp",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-09-19T00:00:00+00:00",
+  "first_seen_at": "2026-09-19T20:33:54+00:00",
+  "source": "html"
+ },
+ {
   "id": "3c5858d75608d041",
   "federation": "basketbol",
   "federation_name": "Türkiye Basketbol Federasyonu",
@@ -5108,23 +5125,6 @@
   ],
   "published_at": "2026-09-15T12:41:26+00:00",
   "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "e92c0fb71287a192",
-  "federation": "taekwondo",
-  "federation_name": "Türkiye Taekwondo Federasyonu",
-  "federation_short": "TTF",
-  "title": "2026 Ümitler Taekwondo Grup Müsabakaları",
-  "url": "https://turkiyetaekwondofed.gov.tr/2026-umitler-taekwondo-grup-musabakalari/",
-  "summary": "Türkiye Taekwondo Federasyonu’nun 2026 Yılı Faaliyet Programında yer alan Ümitler Taekwondo Grup Müsabakaları’nın; Ankara Grubu 16-17 Eylül 2026, İstanbul Grubu 23-24 Eylül 2026,Doğu Grubu 19-20 Eylül 2026 Sivas ve Batı Grubu 23-24 Eylül İzmir olmak üzere 4 farklı grup halinde yapılması planlanmaktadır. BİLGİLENDİRME Ümitler Taekwondo Grup Müsabakaları’nda; *Ankara ve İstanbul Grubu“Daedo(GEN3) Elektronik Sistem” ile yapılacaktır. […]",
-  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/08/UMITLER-2026-GRUP.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-15T11:30:24+00:00",
-  "first_seen_at": "2026-09-16T13:28:28+00:00",
   "source": "wp_json"
  }
 ]

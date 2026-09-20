@@ -1,5 +1,57 @@
 [
  {
+  "id": "cb8108ec41a7b7a0",
+  "federation": "bedenselengelliler",
+  "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
+  "federation_short": "TBESF",
+  "title": "Yeni mevzuat: Turkiye_Bedensel_Engelliler_Spor_Federasyonu_Sporcu_Lisans__Vize_ve_Transfer_Talimati",
+  "url": "https://www.tbesf.org.tr/userFiles/files/9983-turkiye_bedensel_engelliler_spor_federasyonu_sporcu_lisans__vize_ve_transfer_talimati-(1).pdf",
+  "summary": "Bedensel Engelliler federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-09-20T21:29:08+00:00",
+  "first_seen_at": "2026-09-20T21:29:08+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "20853382a2c3f177",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 363 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-20T21:28:38+00:00",
+  "first_seen_at": "2026-09-20T21:28:38+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "28b136b8072af72a",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Felipe Massa, İstanbul’daydı",
+  "url": "https://www.tosfed.org.tr/felipe-massa-istanbuldaydi/",
+  "summary": "Formula 1’de 2006, 2007 ve 2008 yıllarında İstanbul Park’ta üst üste üç kez zafere ulaşarak “İstanbul’un Kralı” ünvanını kazanan Brezilyalı pilot Felipe Massa, Türkiye Turizm Tanıtım ve Geliştirme Ajansının (TGA) ev sahipliğinde düzenlenen özel bir etkinlikte TOSFED İstanbul Park’ta hayranları ve basın mensupları ile buluştu. Massa, özel bir spor araçla TOSFED Başkan Yardımcısı Osman Geylan, […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-20T19:18:12+00:00",
+  "first_seen_at": "2026-09-20T21:30:40+00:00",
+  "source": "rss"
+ },
+ {
   "id": "1016e0a8e9e2cfbc",
   "federation": "masatenisi",
   "federation_name": "Türkiye Masa Tenisi Federasyonu",
@@ -107363,60 +107415,6 @@
   ],
   "published_at": "2026-08-31T10:08:11+00:00",
   "first_seen_at": "2026-08-31T10:08:11+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "798d35de190c9db5",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: GSGM Çerçeve Statü",
-  "url": "https://tgf.org.tr/tr/gsgm-cerceve-statu",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-31T10:08:10+00:00",
-  "first_seen_at": "2026-08-31T10:08:10+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "0c640d3403280782",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Kural Testi",
-  "url": "https://tgf.org.tr/tr/kural-testi-kayit",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-31T10:08:10+00:00",
-  "first_seen_at": "2026-08-31T10:08:10+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cf2efba0d9379d0b",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Bütçe ve Muhasebe Talimatı",
-  "url": "https://drive.google.com/file/d/1joWmYEBq2cOD7WA730mwCpwIpA5TOdUZ/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-31T10:08:09+00:00",
-  "first_seen_at": "2026-08-31T10:08:09+00:00",
   "source": "mevzuat"
  }
 ]

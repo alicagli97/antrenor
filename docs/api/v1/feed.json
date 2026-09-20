@@ -1,5 +1,57 @@
 [
  {
+  "id": "cb8108ec41a7b7a0",
+  "federation": "bedenselengelliler",
+  "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
+  "federation_short": "TBESF",
+  "title": "Yeni mevzuat: Turkiye_Bedensel_Engelliler_Spor_Federasyonu_Sporcu_Lisans__Vize_ve_Transfer_Talimati",
+  "url": "https://www.tbesf.org.tr/userFiles/files/9983-turkiye_bedensel_engelliler_spor_federasyonu_sporcu_lisans__vize_ve_transfer_talimati-(1).pdf",
+  "summary": "Bedensel Engelliler federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-09-20T21:29:08+00:00",
+  "first_seen_at": "2026-09-20T21:29:08+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "20853382a2c3f177",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 363 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-20T21:28:38+00:00",
+  "first_seen_at": "2026-09-20T21:28:38+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "28b136b8072af72a",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Felipe Massa, İstanbul’daydı",
+  "url": "https://www.tosfed.org.tr/felipe-massa-istanbuldaydi/",
+  "summary": "Formula 1’de 2006, 2007 ve 2008 yıllarında İstanbul Park’ta üst üste üç kez zafere ulaşarak “İstanbul’un Kralı” ünvanını kazanan Brezilyalı pilot Felipe Massa, Türkiye Turizm Tanıtım ve Geliştirme Ajansının (TGA) ev sahipliğinde düzenlenen özel bir etkinlikte TOSFED İstanbul Park’ta hayranları ve basın mensupları ile buluştu. Massa, özel bir spor araçla TOSFED Başkan Yardımcısı Osman Geylan, […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-20T19:18:12+00:00",
+  "first_seen_at": "2026-09-20T21:30:40+00:00",
+  "source": "rss"
+ },
+ {
   "id": "1016e0a8e9e2cfbc",
   "federation": "masatenisi",
   "federation_name": "Türkiye Masa Tenisi Federasyonu",
@@ -1996,24 +2048,6 @@
   ],
   "published_at": "2026-09-20T08:52:30+00:00",
   "first_seen_at": "2026-09-20T08:52:30+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "47b92dd69ad1eb83",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: IFSC 2017 Kuralları V1.3 (Türkçe)",
-  "url": "https://drive.google.com/file/d/15e6lN7q7WN69wGf9wzJEQqkzBGrEQw08/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-20T08:52:29+00:00",
-  "first_seen_at": "2026-09-20T08:52:29+00:00",
   "source": "mevzuat"
  },
  {
@@ -5098,38 +5132,6 @@
   "image": null,
   "category": "duyuru",
   "tags": [],
-  "published_at": "2026-09-15T13:33:34+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "html"
- },
- {
-  "id": "5eff51929aaa16f4",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "İstatistik Sertifika Programı Hakkında Duyuru",
-  "url": "https://tvf.org.tr/icerik/istatistik-sertifika-programi-hakkinda-duyuru-1",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-15T13:33:34+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "html"
- },
- {
-  "id": "246c97ae2d0d4302",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» 03-04 Ekim Selanik U17 Yıldızlar Circuit Turnuvası Epe Kafile Listesi Hk.",
-  "url": "https://www.eskrim.org.tr/03-04-ekim-selanik-u17-yildizlar-circuit-turnuvasi-epe-kafile-listesi-hk-2646.html",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
   "published_at": "2026-09-15T13:33:34+00:00",
   "first_seen_at": "2026-09-15T13:33:34+00:00",
   "source": "html"

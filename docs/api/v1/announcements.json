@@ -1,5 +1,40 @@
 [
  {
+  "id": "1016e0a8e9e2cfbc",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Masa Tenisi faaliyet takviminde değişiklik",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-20T18:43:09+00:00",
+  "first_seen_at": "2026-09-20T18:43:09+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "262c0f4933f52f9e",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Artistik Cimnastik Yıldız, Genç ve Büyük Türkiye Şampiyonası Ankara’da sona erdi.",
+  "url": "https://www.tcf.gov.tr/artistik-cimnastik-yildiz-genc-ve-buyuk-turkiye-sampiyonasi-ankarada-sona-erdi/",
+  "summary": "Yıldız Erkekler Genel Tasnif1-Erben Kadir Uslu (İstanbul)2-Mustafa Yiğit Dur (Kayseri)3-Tuğrul Efe Öztürk (Ankara) Yıldız Kadınlar Genel Tasnif1-Naz Kandemir(İstanbul)2-Ayşe Duru Ayaztuna(İstanbul)3-Armin Hüyüktepe (İstanbul) Genç Erkekler Genel Tasnif1-Ege Ertöz (İzmir)2-Yiğit Emre Gök (Ankara) 3-Deniz Şükrüoğlu (İzmir) Genç Kadınlar Genel Tasnif1-Danefa Güney (İstanbul)2-Derin Çipa (İzmir)3-Ecesu Türksever (Ankara)3-Gülbahar Ece Gerdan (Ankara) Büyük Erkekler Genel Tasnif1-Hasan Bulut (Kayseri)2-Hakan Ömer Eren […]",
+  "image": "https://www.tcf.gov.tr/wp-content/uploads/2026/09/whatsapp-image-2026-09-20-at-13.38.23-e1789900729182.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-20T18:29:42+00:00",
+  "first_seen_at": "2026-09-20T18:45:41+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "ab7e9b38647e74f1",
   "federation": "sualti",
   "federation_name": "Türkiye Sualtı Sporları Federasyonu",
@@ -4315,6 +4350,21 @@
   "published_at": "2026-09-20T08:03:29+00:00",
   "first_seen_at": "2026-09-20T11:17:17+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "968826c08f8351b5",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Türkiye Davis Cup’ta Arjantin’e 3-1 Mağlup Oldu",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/584",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Arjantin’in Neuquén kentindeki Estadio Ruca Che’de 19-20 Eylül tarihleri arasında gerçekleşen Davis Cup World Group I Türkiye-Arjantin serisinde A Milli Erkek Takımımız, Arjantin’e... Detaylar Davis Cup Türkiye-Arjantin Eşleşmesinin Kuraları Çekildi A Milli Erkek Tenis Takımımızın, Davis Cup World Group I kapsamında Arjantin ile oynayacağı karşılaşmaların ku",
+  "image": "http://www.ttf.org.tr/public/news_post/6ab026615f16d_1789929057.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-20T00:00:00+00:00",
+  "first_seen_at": "2026-09-20T18:45:41+00:00",
+  "source": "html"
  },
  {
   "id": "1f856bca9f1a14f0",
@@ -107359,60 +107409,6 @@
   "title": "Mevzuat güncellendi: Bütçe ve Muhasebe Talimatı",
   "url": "https://drive.google.com/file/d/1joWmYEBq2cOD7WA730mwCpwIpA5TOdUZ/view?usp=sharing",
   "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-31T10:08:09+00:00",
-  "first_seen_at": "2026-08-31T10:08:09+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "2b8a0bfc546e8eb8",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Disiplin Talimatı (11/08/2021 tarihinden itibaren yürürlüğe girmiştir)",
-  "url": "https://drive.google.com/file/d/1e1KgUzO7ROcJIRc8o2jAtMemOoMiatdD/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-31T10:08:09+00:00",
-  "first_seen_at": "2026-08-31T10:08:09+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "d0d290e572feef6c",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Federasyon İl Temsilcileri Görev, Yetki ve Sorumlulukları Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/federasyon-il-temsilcileri-gorev-yetki-ve-sorumluluklari-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-08-31T10:08:09+00:00",
-  "first_seen_at": "2026-08-31T10:08:09+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "993530a5d90fbd18",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Golf Faaliyetlerinde Üstün Başarı Gösterenlerin Ödüllendirilmesi ve Desteklenmesine Dair Talimat",
-  "url": "https://tgf.org.tr/tr/talimatlar/golf-faaliyetlerinde-ustun-basari-gosterenlerin-odullendirilmesi-ve-desteklenmesine-dair-talimat",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",
   "tags": [

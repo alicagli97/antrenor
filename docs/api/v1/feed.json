@@ -1,5 +1,40 @@
 [
  {
+  "id": "1016e0a8e9e2cfbc",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Masa Tenisi faaliyet takviminde değişiklik",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-20T18:43:09+00:00",
+  "first_seen_at": "2026-09-20T18:43:09+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "262c0f4933f52f9e",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Artistik Cimnastik Yıldız, Genç ve Büyük Türkiye Şampiyonası Ankara’da sona erdi.",
+  "url": "https://www.tcf.gov.tr/artistik-cimnastik-yildiz-genc-ve-buyuk-turkiye-sampiyonasi-ankarada-sona-erdi/",
+  "summary": "Yıldız Erkekler Genel Tasnif1-Erben Kadir Uslu (İstanbul)2-Mustafa Yiğit Dur (Kayseri)3-Tuğrul Efe Öztürk (Ankara) Yıldız Kadınlar Genel Tasnif1-Naz Kandemir(İstanbul)2-Ayşe Duru Ayaztuna(İstanbul)3-Armin Hüyüktepe (İstanbul) Genç Erkekler Genel Tasnif1-Ege Ertöz (İzmir)2-Yiğit Emre Gök (Ankara) 3-Deniz Şükrüoğlu (İzmir) Genç Kadınlar Genel Tasnif1-Danefa Güney (İstanbul)2-Derin Çipa (İzmir)3-Ecesu Türksever (Ankara)3-Gülbahar Ece Gerdan (Ankara) Büyük Erkekler Genel Tasnif1-Hasan Bulut (Kayseri)2-Hakan Ömer Eren […]",
+  "image": "https://www.tcf.gov.tr/wp-content/uploads/2026/09/whatsapp-image-2026-09-20-at-13.38.23-e1789900729182.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-20T18:29:42+00:00",
+  "first_seen_at": "2026-09-20T18:45:41+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "ab7e9b38647e74f1",
   "federation": "sualti",
   "federation_name": "Türkiye Sualtı Sporları Federasyonu",
@@ -2013,6 +2048,21 @@
   "published_at": "2026-09-20T08:03:29+00:00",
   "first_seen_at": "2026-09-20T11:17:17+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "968826c08f8351b5",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Türkiye Davis Cup’ta Arjantin’e 3-1 Mağlup Oldu",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/584",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Arjantin’in Neuquén kentindeki Estadio Ruca Che’de 19-20 Eylül tarihleri arasında gerçekleşen Davis Cup World Group I Türkiye-Arjantin serisinde A Milli Erkek Takımımız, Arjantin’e... Detaylar Davis Cup Türkiye-Arjantin Eşleşmesinin Kuraları Çekildi A Milli Erkek Tenis Takımımızın, Davis Cup World Group I kapsamında Arjantin ile oynayacağı karşılaşmaların ku",
+  "image": "http://www.ttf.org.tr/public/news_post/6ab026615f16d_1789929057.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-20T00:00:00+00:00",
+  "first_seen_at": "2026-09-20T18:45:41+00:00",
+  "source": "html"
  },
  {
   "id": "1f856bca9f1a14f0",
@@ -5080,51 +5130,6 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-09-15T13:33:34+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "html"
- },
- {
-  "id": "1fd8024befdad8ae",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» (Kesin) 02-04 Ekim Yıldızlar Circuit İstanbul Kılıç Kafile Listeleri Hk.",
-  "url": "https://www.eskrim.org.tr/kesin-02-04-ekim-yildizlar-circuit-istanbul-kilic-kafile-listeleri-hk-2641.html",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-15T13:33:34+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "html"
- },
- {
-  "id": "845fa07676395a0d",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Sıkça Sorulan Sorular",
-  "url": "https://www.tsf.org.tr/kaynaklar/sikca-sorulan-sorular",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-15T13:33:34+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "html"
- },
- {
-  "id": "7d42d63dd29dab8b",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Eğitim Videoları",
-  "url": "https://www.tsf.org.tr/kaynaklar/egitim-videolari",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [],
   "published_at": "2026-09-15T13:33:34+00:00",
   "first_seen_at": "2026-09-15T13:33:34+00:00",
   "source": "html"

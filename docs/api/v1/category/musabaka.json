@@ -35,6 +35,23 @@
   "source": "wp_json"
  },
  {
+  "id": "b4da7410489be7aa",
+  "federation": "motosiklet",
+  "federation_name": "Türkiye Motosiklet Federasyonu",
+  "federation_short": "TMF",
+  "title": "Musatti Drag Şampiyonası'nda Nefes Kesen Mücadele",
+  "url": "https://www.tmf.org.tr/Haberler/Musatti-Drag-sampiyonasi-nda-Nefes-Kesen-Mucadele/",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-20T00:00:00+00:00",
+  "first_seen_at": "2026-09-20T16:00:57+00:00",
+  "source": "html"
+ },
+ {
   "id": "d28313a71a61faeb",
   "federation": "halter",
   "federation_name": "Türkiye Halter Federasyonu",
@@ -152,6 +169,23 @@
   ],
   "published_at": "2026-09-18T14:25:54+00:00",
   "first_seen_at": "2026-09-18T14:25:54+00:00",
+  "source": "html"
+ },
+ {
+  "id": "9ff1e9f7ac9e5156",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeşilay Türkiye Şampiyonalarında Şampiyonlar Belli Oldu",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/574",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Davis Cup Türkiye-Arjantin Eşleşmesinin Kuraları Çekildi A Milli Erkek Tenis Takımımızın, Davis Cup World Group I kapsamında Arjantin ile oynayacağı karşılaşmaların kura çekimi gerçekleştirildi. Detaylar 18 Yaş Altı Türkiye Takım Şampiyonası Tamamlandı 14-16 Eylül tarhihleri arasında TTF Ankara Kamp Eğitim Merkezi’nde düzenlenen 2026 18 Yaş Altı Türkiye Takı",
+  "image": "http://www.ttf.org.tr/public/news_post/6a9594b77a545_1788187831.png",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-18T00:00:00+00:00",
+  "first_seen_at": "2026-09-20T16:00:57+00:00",
   "source": "html"
  },
  {
@@ -3389,40 +3423,6 @@
   ],
   "published_at": "2026-09-09T09:39:36+00:00",
   "first_seen_at": "2026-09-09T09:39:36+00:00",
-  "source": "html"
- },
- {
-  "id": "ee843b55f7ca6559",
-  "federation": "danssporlari",
-  "federation_name": "Türkiye Dans Sporları Federasyonu",
-  "federation_short": "TDSF",
-  "title": "Hıp Hop Battle Türkiye Şampiyonası Sporcu Listeleri ve Programı Hakkında",
-  "url": "https://tdsf.org.tr/haberler/hip-hop-battle-turkiye-sampiyonasi-sporcu-listeleri-ve-programi-hakkinda",
-  "summary": "ARJANTİN TANGO ADAY HAKEM KURSU “ERTELENDİ!” 28 Ağustos 2026 DANS SPORU (LT&STD) HAKEM VİZE SEMİNERİ 24 Ağustos 2026 ARJANTİN TANGO ADAY HAKEM KURSU AÇILIYOR 20 Ağustos 2026 DANS SPORU (LT&STD) 3. KADEME KIDEMLİ ANTRENÖRLÜK UYGULAMA KURSU - ANKARA 20 Ağustos 2026 DANS SPORU (LATİN&STANDART) 2. KADEME TEMEL ANTRENÖRLÜK UYGULAMA KURSU 20 Ağustos 2026 DANS SPORU (LT&STD) 1. KADEME YARDIMCI ANTRENÖRLÜ",
-  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-hiphop-1782467760.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-09T00:00:00+00:00",
-  "first_seen_at": "2026-09-13T16:11:10+00:00",
-  "source": "html"
- },
- {
-  "id": "1d576445c3f0552e",
-  "federation": "danssporlari",
-  "federation_name": "Türkiye Dans Sporları Federasyonu",
-  "federation_short": "TDSF",
-  "title": "Break Dans Türkiye Şampiyonası Sporcu Listeleri ve Programı",
-  "url": "https://tdsf.org.tr/haberler/hip-hop-battle-turkiye-sampiyonasi-sporcu-listeleri-ve-programi",
-  "summary": "ARJANTİN TANGO ADAY HAKEM KURSU “ERTELENDİ!” 28 Ağustos 2026 DANS SPORU (LT&STD) HAKEM VİZE SEMİNERİ 24 Ağustos 2026 ARJANTİN TANGO ADAY HAKEM KURSU AÇILIYOR 20 Ağustos 2026 DANS SPORU (LT&STD) 3. KADEME KIDEMLİ ANTRENÖRLÜK UYGULAMA KURSU - ANKARA 20 Ağustos 2026 DANS SPORU (LATİN&STANDART) 2. KADEME TEMEL ANTRENÖRLÜK UYGULAMA KURSU 20 Ağustos 2026 DANS SPORU (LT&STD) 1. KADEME YARDIMCI ANTRENÖRLÜ",
-  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-break-1782467301.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-09T00:00:00+00:00",
-  "first_seen_at": "2026-09-13T16:11:10+00:00",
   "source": "html"
  }
 ]

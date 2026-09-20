@@ -1,5 +1,39 @@
 [
  {
+  "id": "ab7e9b38647e74f1",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Cankurtarma Eğitmenleri Gelişim Semineri Eğitim Materyalleri Hakkında Duyuru",
+  "url": "https://www.tssf.gov.tr/cankurtarma-egitmenleri-gelisim-semineri-egitim-materyalleri-hakkinda-duyuru/",
+  "summary": "23–27 Eylül 2026 tarihleri arasında Antalya ilinde gerçekleştirilecek olan Cankurtarma Eğitmenleri Gelişim Semineri kapsamında, seminer süresince sunum ve",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "kurs",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-09-20T15:49:07+00:00",
+  "first_seen_at": "2026-09-20T16:00:57+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "5212b3ee8e74b3c5",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Eskişehir’de Soylu-Yalçın Zirvede",
+  "url": "https://www.tosfed.org.tr/eskisehirde-soylu-yalcin-zirvede/",
+  "summary": "Petrol Ofisi Maxima 2026 Türkiye Ralli Şampiyonası beşinci ayağı ETİ Odunpazarı Eskişehir Rallisi, GP Garage My Team’den Uğur Soylu-Mehmet Akif Yalçın ekibinin zaferi ile sona erdi. Zorlu mücadeleyi, BC Vision Egemot Motorsport’tan Burak Çukurova-Burak Akçay ekibi ikinci sırada tamamlarken, rallinin genel klasman üçüncülüğünü de GP Garage My Team’den Eytan Halfon-Gürkal Menderes elde etti. Eskişehir Otomobil […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-20T15:44:38+00:00",
+  "first_seen_at": "2026-09-20T16:00:57+00:00",
+  "source": "rss"
+ },
+ {
   "id": "2809ef2263dcbabd",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -1981,6 +2015,53 @@
   "source": "wp_json"
  },
  {
+  "id": "1f856bca9f1a14f0",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Federasyonumuz 9. Olağan Mali Genel Kurulu Tamamlandı",
+  "url": "https://kano.org.tr/federasyonumuz-9-olagan-mali-genel-kurulu-tamamlandi",
+  "summary": "Duyuru ve Etkinlikler Anasayfa Duyuru ve Etkinlikler FEDERASYONUMUZ 9. OLAĞAN MALİ GENEL KURULU TAMAMLANDI 20 Eylül 2026, Pazar Paylaş × Kapat FEDERASYONUMUZ 9. OLAĞAN MALİ GENEL KURULU TAMAMLANDI Türkiye Kano Federasyonu 9. Olağan Mali Genel Kurulu, delegelerimizin katılımıyla gerçekleştirildi. Genel Kurulda gündemde yer alan tüm maddeler, delegelerin oy birliğiyle kabul edildi. Genel Kurul kapsamında federasyonun mali yapısı ve faaliyetleri değerlendirilirken, Türk kanosunun gelişimine yönelik çalışmalar ile önümüzdeki döneme ilişkin hedefler de ele alındı. Türkiye Kano Federasyonu Başkanı v",
+  "image": "https://kano.org.tr/uploads/2026/9-mal-genel-kurul/whatsapp-image-2026-09-20-at-15-21-28-2-.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-20T00:00:00+00:00",
+  "first_seen_at": "2026-09-20T16:00:57+00:00",
+  "source": "html"
+ },
+ {
+  "id": "767ed18f65dbbd35",
+  "federation": "motosiklet",
+  "federation_name": "Türkiye Motosiklet Federasyonu",
+  "federation_short": "TMF",
+  "title": "Final Heyecanı İlk Kez Bursa’da Yaşandı",
+  "url": "https://www.tmf.org.tr/Haberler/Final-Heyecani-ilk-Kez-Bursa-da-Yasandi/",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-20T00:00:00+00:00",
+  "first_seen_at": "2026-09-20T16:00:57+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b4da7410489be7aa",
+  "federation": "motosiklet",
+  "federation_name": "Türkiye Motosiklet Federasyonu",
+  "federation_short": "TMF",
+  "title": "Musatti Drag Şampiyonası'nda Nefes Kesen Mücadele",
+  "url": "https://www.tmf.org.tr/Haberler/Musatti-Drag-sampiyonasi-nda-Nefes-Kesen-Mucadele/",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-20T00:00:00+00:00",
+  "first_seen_at": "2026-09-20T16:00:57+00:00",
+  "source": "html"
+ },
+ {
   "id": "a8fdc9426383d37b",
   "federation": "hokey",
   "federation_name": "Türkiye Hokey Federasyonu",
@@ -2898,6 +2979,23 @@
   "published_at": "2026-09-18T04:32:50+00:00",
   "first_seen_at": "2026-09-18T04:32:50+00:00",
   "source": "takvim-pdf"
+ },
+ {
+  "id": "9ff1e9f7ac9e5156",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeşilay Türkiye Şampiyonalarında Şampiyonlar Belli Oldu",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/574",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Davis Cup Türkiye-Arjantin Eşleşmesinin Kuraları Çekildi A Milli Erkek Tenis Takımımızın, Davis Cup World Group I kapsamında Arjantin ile oynayacağı karşılaşmaların kura çekimi gerçekleştirildi. Detaylar 18 Yaş Altı Türkiye Takım Şampiyonası Tamamlandı 14-16 Eylül tarhihleri arasında TTF Ankara Kamp Eğitim Merkezi’nde düzenlenen 2026 18 Yaş Altı Türkiye Takı",
+  "image": "http://www.ttf.org.tr/public/news_post/6a9594b77a545_1788187831.png",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-18T00:00:00+00:00",
+  "first_seen_at": "2026-09-20T16:00:57+00:00",
+  "source": "html"
  },
  {
   "id": "887b2d1e8eb59053",
@@ -5027,101 +5125,6 @@
   "image": null,
   "category": "kurs",
   "tags": [],
-  "published_at": "2026-09-15T13:33:34+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "html"
- },
- {
-  "id": "60fa2e614aaa3fac",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Satranç Süper Ligi",
-  "url": "http://superlig.tsf.org.tr",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-15T13:33:34+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "html"
- },
- {
-  "id": "3ddb7e317e5c5399",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Satranç Birinci Ligi",
-  "url": "http://birincilig.tsf.org.tr/",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-15T13:33:34+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "html"
- },
- {
-  "id": "c048dc064c9009cc",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Satranç İkinci Ligi",
-  "url": "http://ikincilig.tsf.org.tr/",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-15T13:33:34+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "html"
- },
- {
-  "id": "b1678be363c4734b",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Kulüpler Şampiyonası",
-  "url": "http://kulupler.tsf.org.tr",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-15T13:33:34+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "html"
- },
- {
-  "id": "5b3efe55f1262e35",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Türkiye Küçükler ve Yıldızlar Takım",
-  "url": "http://tky.tsf.org.tr",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-15T13:33:34+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "html"
- },
- {
-  "id": "ded602a59332af28",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Korfbol 3. Kademe Kıdemli Antrenör Yetiştirme Kursu 06-10 Ekim 2026 İzmit/kocaeli",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-478-korfbol-3.-kademe-k478emli-antrenor-yetistirme-kursu-06-10-ekim-2026-izmit-kocaeli",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
   "published_at": "2026-09-15T13:33:34+00:00",
   "first_seen_at": "2026-09-15T13:33:34+00:00",
   "source": "html"

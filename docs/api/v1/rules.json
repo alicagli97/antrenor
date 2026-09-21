@@ -1,10 +1,38 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-21T06:11:55+00:00",
+ "generated_at": "2026-09-21T09:25:35+00:00",
  "total_libraries": 49,
  "total_documents": 1406,
  "coach_documents": 389,
- "changed_in_last_run": [],
+ "changed_in_last_run": [
+  "aticilik",
+  "atletizm",
+  "bilardo",
+  "bisiklet",
+  "bocce",
+  "boks",
+  "buzpateni",
+  "cimnastik",
+  "dagcilik",
+  "gelismekteolan",
+  "golf",
+  "gsb",
+  "havasporlari",
+  "izcilik",
+  "kayak",
+  "motosiklet",
+  "muaythai",
+  "okculuk",
+  "oryantiring",
+  "ozelsporcular",
+  "ragbi",
+  "satranc",
+  "sualti",
+  "triatlon",
+  "universitesporlari",
+  "voleybol",
+  "yelken"
+ ],
  "libraries": [
   {
    "federation": "aticilik",
@@ -155,8 +183,8 @@
      "url": "https://www.taf.gov.tr/tr/talimatlar",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "9f6d10c6bffc6194",
-     "guncellendi": "2026-09-20T08:50:41+00:00"
+     "parmak_izi": "8c010798d050b0d9",
+     "guncellendi": "2026-09-21T09:18:31+00:00"
     },
     {
      "baslik": "TAŞINIR MAL İŞLEMLERİ TALİMATI (16.08.2018)",
@@ -177,16 +205,16 @@
      "url": "https://www.taf.gov.tr/tr/yonetmelik",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "cb290874166d285f",
-     "guncellendi": "2026-09-20T08:50:41+00:00"
+     "parmak_izi": "d7ac59588a1218c9",
+     "guncellendi": "2026-09-21T09:18:32+00:00"
     },
     {
      "baslik": "ISSF Kuralları",
      "url": "https://www.taf.gov.tr/tr/issf-kurallari",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "eb2f895ca347ffea",
-     "guncellendi": "2026-09-20T08:50:42+00:00"
+     "parmak_izi": "1d861fc08898958e",
+     "guncellendi": "2026-09-21T09:18:32+00:00"
     },
     {
      "baslik": "DÜNYA ATICILIK PARA SPORU TEKNİK KURALLARI VE YÖNETMELİKLERİ",
@@ -217,7 +245,7 @@
      "parmak_izi": "2669510a2378c16d"
     }
    ],
-   "checked_at": "2026-09-21T06:11:45+00:00",
+   "checked_at": "2026-09-21T09:18:33+00:00",
    "list_fingerprint": "e3801cd82791c76a"
   },
   {
@@ -243,8 +271,8 @@
      "url": "http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.14978&MevzuatIliski=0&sourceXmlSearch=milli%20sporcu%20belgesi",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "67a80fba74d72ca2",
-     "guncellendi": "2026-09-20T08:48:57+00:00"
+     "parmak_izi": "54031e91daccd069",
+     "guncellendi": "2026-09-21T09:17:10+00:00"
     },
     {
      "baslik": "Spor Kondisyonerliği Eğitim Yönergesi",
@@ -356,8 +384,8 @@
      "url": "http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.16396&MevzuatIliski=0&sourceXmlSearch=",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "219f02073d276ed8",
-     "guncellendi": "2026-09-20T08:49:55+00:00"
+     "parmak_izi": "b1f585b9c67c3cd4",
+     "guncellendi": "2026-09-21T09:17:57+00:00"
     },
     {
      "baslik": "Spor Hizmet ve Faaliyetlerinde Üstün Başarı Gösterenlerin Ödüllendirilmesine Dair Yönetmelik",
@@ -528,7 +556,7 @@
      "parmak_izi": "35ff73106eebd751"
     }
    ],
-   "checked_at": "2026-09-21T06:11:45+00:00",
+   "checked_at": "2026-09-21T09:19:06+00:00",
    "list_fingerprint": "cfd9beec3daf6332"
   },
   {
@@ -606,7 +634,7 @@
      "parmak_izi": "06ff3a57d03e7ac0"
     }
    ],
-   "checked_at": "2026-09-21T06:11:44+00:00",
+   "checked_at": "2026-09-21T09:17:29+00:00",
    "list_fingerprint": "3d0d86deb3f36070"
   },
   {
@@ -625,7 +653,7 @@
      "url": "https://www.tbesf.org.tr/userFiles/files/9983-turkiye_bedensel_engelliler_spor_federasyonu_sporcu_lisans__vize_ve_transfer_talimati-(1).pdf",
      "tur": "pdf",
      "onemli": true,
-     "parmak_izi": ""
+     "parmak_izi": "2851e602891e4bea"
     },
     {
      "baslik": "TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU ANTRENÖR EĞİTİMİ TALİMATI",
@@ -649,7 +677,7 @@
      "parmak_izi": "dfde645582345636"
     }
    ],
-   "checked_at": "2026-09-21T06:11:51+00:00",
+   "checked_at": "2026-09-21T09:20:26+00:00",
    "list_fingerprint": "e003302512b3e0bd"
   },
   {
@@ -707,7 +735,7 @@
      "parmak_izi": "15a06ec1a7f85e0a"
     }
    ],
-   "checked_at": "2026-09-21T06:11:51+00:00",
+   "checked_at": "2026-09-21T09:21:26+00:00",
    "list_fingerprint": "bf55011e1e2eed02"
   },
   {
@@ -726,19 +754,19 @@
      "url": "https://www.bilardo.org.tr/kurallar",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "a9e74b7aebb2c865",
-     "guncellendi": "2026-09-20T08:52:16+00:00"
+     "parmak_izi": "b4c6b6f400c6a969",
+     "guncellendi": "2026-09-21T09:19:45+00:00"
     },
     {
      "baslik": "Talimatlar",
      "url": "https://www.bilardo.org.tr/talimatlar",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "40ca86879d135276",
-     "guncellendi": "2026-09-20T08:52:17+00:00"
+     "parmak_izi": "30174e0465059fd0",
+     "guncellendi": "2026-09-21T09:19:45+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:48+00:00",
+   "checked_at": "2026-09-21T09:19:45+00:00",
    "list_fingerprint": "2d67975cd87fce37"
   },
   {
@@ -977,7 +1005,7 @@
      "guncellendi": "2026-09-18T08:30:10+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:45+00:00",
+   "checked_at": "2026-09-21T09:18:42+00:00",
    "list_fingerprint": "b45110ff6781018b"
   },
   {
@@ -1156,8 +1184,8 @@
      "url": "https://bisiklet.org.tr/yonetmelik-ve-talimatlar/#content",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "6f910ab209bbb8ed",
-     "guncellendi": "2026-09-19T08:19:14+00:00"
+     "parmak_izi": "ac4a42a6195ad6a3",
+     "guncellendi": "2026-09-21T09:19:56+00:00"
     },
     {
      "baslik": "sportif değerlendirme ve geliştirme kurulu talimatı",
@@ -1209,7 +1237,7 @@
      "parmak_izi": "141cc341056e17e4"
     }
    ],
-   "checked_at": "2026-09-21T06:11:44+00:00",
+   "checked_at": "2026-09-21T09:20:15+00:00",
    "list_fingerprint": "5a20a0a34e827d8b"
   },
   {
@@ -1228,32 +1256,32 @@
      "url": "https://tbbdf.org.tr/tr/antrenor_egitim_talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "2d47e6878e789ba2",
-     "guncellendi": "2026-09-20T08:52:12+00:00"
+     "parmak_izi": "aa1b40b4c8095761",
+     "guncellendi": "2026-09-21T09:19:43+00:00"
     },
     {
      "baslik": "Boccia Sporcu Lisans, Vize ve...",
      "url": "https://tbbdf.org.tr/tr/boccia-sporcu-lisans-vize-ve-transfer-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "5700a5e1735b2abe",
-     "guncellendi": "2026-09-20T08:52:13+00:00"
+     "parmak_izi": "2f778d9079674e43",
+     "guncellendi": "2026-09-21T09:19:44+00:00"
     },
     {
      "baslik": "Eğitim Altyapı ve Yardım...",
      "url": "https://tbbdf.org.tr/tr/egitim__altyapi_ve_kuluplere_yardim_talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "a9964809b69c35ee",
-     "guncellendi": "2026-09-20T08:52:13+00:00"
+     "parmak_izi": "4154af50904ff052",
+     "guncellendi": "2026-09-21T09:19:44+00:00"
     },
     {
      "baslik": "Hakem Talimatı",
      "url": "https://tbbdf.org.tr/tr/hakem_talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "e277751362078014",
-     "guncellendi": "2026-09-20T08:52:13+00:00"
+     "parmak_izi": "ba325d1b7253ff4b",
+     "guncellendi": "2026-09-21T09:19:44+00:00"
     },
     {
      "baslik": "Hakem Yönergesi",
@@ -1267,24 +1295,24 @@
      "url": "https://tbbdf.org.tr/tr/milli-sporcu-belgesi-verilmesi-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "6d744eae82d7320b",
-     "guncellendi": "2026-09-20T08:52:14+00:00"
+     "parmak_izi": "828c5567a7b1457b",
+     "guncellendi": "2026-09-21T09:19:44+00:00"
     },
     {
      "baslik": "Spor Dalı Tescil Talimatı",
      "url": "https://tbbdf.org.tr/tr/spor-dali-tescil-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "9c77d6221fd84c01",
-     "guncellendi": "2026-09-20T08:52:14+00:00"
+     "parmak_izi": "5d90082bf4936b60",
+     "guncellendi": "2026-09-21T09:19:45+00:00"
     },
     {
      "baslik": "Tescil Vize Talimatı",
      "url": "https://tbbdf.org.tr/tr/tescil_vize_transfer_talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "2781ff00e724b1c2",
-     "guncellendi": "2026-09-20T08:52:14+00:00"
+     "parmak_izi": "91b33d87f27c9d1e",
+     "guncellendi": "2026-09-21T09:19:45+00:00"
     },
     {
      "baslik": "Alt Kurullar Talimatı",
@@ -1298,144 +1326,144 @@
      "url": "https://tbbdf.org.tr/tr/bocce_yarisma_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "467a5a187bc47a36",
-     "guncellendi": "2026-09-20T08:52:14+00:00"
+     "parmak_izi": "7d85c5e49a8e0c79",
+     "guncellendi": "2026-09-21T09:19:45+00:00"
     },
     {
      "baslik": "Bowling Salonları Denetleme...",
      "url": "https://tbbdf.org.tr/tr/bowling_salonlari_denetleme_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "a76143cce4417b5c",
-     "guncellendi": "2026-09-20T08:52:15+00:00"
+     "parmak_izi": "36aa1ca938b82daf",
+     "guncellendi": "2026-09-21T09:19:45+00:00"
     },
     {
      "baslik": "Bowling Salonları Yeterlilik...",
      "url": "https://tbbdf.org.tr/tr/bowling_salonlar_yeterlilik_talimat",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "620dbad5339f5e8a",
-     "guncellendi": "2026-09-20T08:52:16+00:00"
+     "parmak_izi": "b103f93112c5ff1a",
+     "guncellendi": "2026-09-21T09:19:46+00:00"
     },
     {
      "baslik": "Bowling Yarışma Talimatı",
      "url": "https://tbbdf.org.tr/tr/bowling_yarisma_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "1a1d54922a0996b4",
-     "guncellendi": "2026-09-20T08:52:16+00:00"
+     "parmak_izi": "3a5d95eb5a67ea0c",
+     "guncellendi": "2026-09-21T09:19:46+00:00"
     },
     {
      "baslik": "Bütçe Muhasebe Talimatı",
      "url": "https://tbbdf.org.tr/tr/butce-muhasebe-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "115cbb62ec2a1293",
-     "guncellendi": "2026-09-20T08:52:16+00:00"
+     "parmak_izi": "b4cb2a14e9738774",
+     "guncellendi": "2026-09-21T09:19:46+00:00"
     },
     {
      "baslik": "Dart Yarışma Talimatı",
      "url": "https://tbbdf.org.tr/tr/dart_yarisma_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "3827789c970788b3",
-     "guncellendi": "2026-09-20T08:52:16+00:00"
+     "parmak_izi": "4d7dc62da1dcdacc",
+     "guncellendi": "2026-09-21T09:19:46+00:00"
     },
     {
      "baslik": "Disiplin Talimatı",
      "url": "https://tbbdf.org.tr/tr/disiplin_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "5610b3cf1ea39883",
-     "guncellendi": "2026-09-20T08:52:17+00:00"
+     "parmak_izi": "c03dfd43d57a6ba6",
+     "guncellendi": "2026-09-21T09:19:46+00:00"
     },
     {
      "baslik": "Harcırah Talimatı",
      "url": "https://tbbdf.org.tr/tr/harcirah___harcama_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "88f6520dd3a14e61",
-     "guncellendi": "2026-09-20T08:52:17+00:00"
+     "parmak_izi": "e98eae866b4111a5",
+     "guncellendi": "2026-09-21T09:19:47+00:00"
     },
     {
      "baslik": "Milli Takımlar Yönergesi",
      "url": "https://tbbdf.org.tr/tr/milli-takimlar-yonergesi",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "bcb1880d1424ee7b",
-     "guncellendi": "2026-09-20T08:52:17+00:00"
+     "parmak_izi": "74c5a606ecd5d4fc",
+     "guncellendi": "2026-09-21T09:19:47+00:00"
     },
     {
      "baslik": "Satınalma Talimatı",
      "url": "https://tbbdf.org.tr/tr/satinalma___butce_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "0e16f4522e8fc85b",
-     "guncellendi": "2026-09-20T08:52:17+00:00"
+     "parmak_izi": "5aacd6bd0f39e32b",
+     "guncellendi": "2026-09-21T09:19:47+00:00"
     },
     {
      "baslik": "Sözleşmeli Personel Talimatı",
      "url": "https://tbbdf.org.tr/tr/sozlesmeli_personel_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "de2295ee90b396fa",
-     "guncellendi": "2026-09-20T08:52:18+00:00"
+     "parmak_izi": "25eadbe9d1732357",
+     "guncellendi": "2026-09-21T09:19:47+00:00"
     },
     {
      "baslik": "Talimatlar",
      "url": "https://tbbdf.org.tr/tr/talimatlar",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "07dc6ff439dff964",
-     "guncellendi": "2026-09-20T08:52:18+00:00"
+     "parmak_izi": "6dde7367f718fb34",
+     "guncellendi": "2026-09-21T09:19:47+00:00"
     },
     {
      "baslik": "Talimatlar",
      "url": "https://tbbdf.org.tr/talimatlar",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "64a1e77887eb9c5a",
-     "guncellendi": "2026-09-20T08:52:18+00:00"
+     "parmak_izi": "438ffd9c151802cd",
+     "guncellendi": "2026-09-21T09:19:48+00:00"
     },
     {
      "baslik": "Ödül ve Yardım Talimatı",
      "url": "https://tbbdf.org.tr/tr/odul_ve_yardim_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "edb4ad21a6aea8da",
-     "guncellendi": "2026-09-20T08:52:19+00:00"
+     "parmak_izi": "a86e4b0dab99b72a",
+     "guncellendi": "2026-09-21T09:19:48+00:00"
     },
     {
      "baslik": "Antrenör Eğitim Talimatı",
      "url": "https://tbbdf.org.tr/antrenor_egitim_talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "3d7aa39794681f74",
-     "guncellendi": "2026-09-20T08:52:19+00:00"
+     "parmak_izi": "f0da6b733a5621a8",
+     "guncellendi": "2026-09-21T09:19:49+00:00"
     },
     {
      "baslik": "Boccia Sporcu Lisans, Vize ve...",
      "url": "https://tbbdf.org.tr/boccia-sporcu-lisans-vize-ve-transfer-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "de12f313151abd75",
-     "guncellendi": "2026-09-20T08:52:19+00:00"
+     "parmak_izi": "b443f466a9eda07c",
+     "guncellendi": "2026-09-21T09:19:49+00:00"
     },
     {
      "baslik": "Eğitim Altyapı ve Yardım...",
      "url": "https://tbbdf.org.tr/egitim__altyapi_ve_kuluplere_yardim_talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "bd4da4e4a9ab0e2e",
-     "guncellendi": "2026-09-20T08:52:19+00:00"
+     "parmak_izi": "ef2dbd5fcc2c89e8",
+     "guncellendi": "2026-09-21T09:19:49+00:00"
     },
     {
      "baslik": "Hakem Talimatı",
      "url": "https://tbbdf.org.tr/hakem_talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "c914f4bff5607cf3",
-     "guncellendi": "2026-09-20T08:52:20+00:00"
+     "parmak_izi": "7770887b4c28730d",
+     "guncellendi": "2026-09-21T09:19:49+00:00"
     },
     {
      "baslik": "Hakem Yönergesi",
@@ -1449,24 +1477,24 @@
      "url": "https://tbbdf.org.tr/milli-sporcu-belgesi-verilmesi-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "1e44cc8182cc882d",
-     "guncellendi": "2026-09-20T08:52:20+00:00"
+     "parmak_izi": "a31a9b080626cc38",
+     "guncellendi": "2026-09-21T09:19:50+00:00"
     },
     {
      "baslik": "Spor Dalı Tescil Talimatı",
      "url": "https://tbbdf.org.tr/spor-dali-tescil-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "2a2a002232c0481b",
-     "guncellendi": "2026-09-20T08:52:20+00:00"
+     "parmak_izi": "fc09201691a73f96",
+     "guncellendi": "2026-09-21T09:19:50+00:00"
     },
     {
      "baslik": "Tescil Vize Talimatı",
      "url": "https://tbbdf.org.tr/tescil_vize_transfer_talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "408464f8344d4820",
-     "guncellendi": "2026-09-20T08:52:21+00:00"
+     "parmak_izi": "5ee40baf32d4aad3",
+     "guncellendi": "2026-09-21T09:19:50+00:00"
     },
     {
      "baslik": "Alt Kurullar Talimatı",
@@ -1480,99 +1508,99 @@
      "url": "https://tbbdf.org.tr/bocce_yarisma_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "8cdd5fc154f1fe78",
-     "guncellendi": "2026-09-20T08:52:21+00:00"
+     "parmak_izi": "fc362a0d28e556bc",
+     "guncellendi": "2026-09-21T09:19:50+00:00"
     },
     {
      "baslik": "Bowling Salonları Denetleme...",
      "url": "https://tbbdf.org.tr/bowling_salonlari_denetleme_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "e99a7f453619f419",
-     "guncellendi": "2026-09-20T08:52:21+00:00"
+     "parmak_izi": "042284dfb7d314b4",
+     "guncellendi": "2026-09-21T09:19:50+00:00"
     },
     {
      "baslik": "Bowling Salonları Yeterlilik...",
      "url": "https://tbbdf.org.tr/bowling_salonlar_yeterlilik_talimat",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "d68ea7dd98367313",
-     "guncellendi": "2026-09-20T08:52:21+00:00"
+     "parmak_izi": "ed3333fdd237f886",
+     "guncellendi": "2026-09-21T09:19:51+00:00"
     },
     {
      "baslik": "Bowling Yarışma Talimatı",
      "url": "https://tbbdf.org.tr/bowling_yarisma_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "f2587acce5073d7f",
-     "guncellendi": "2026-09-20T08:52:22+00:00"
+     "parmak_izi": "4ba226ece648bb22",
+     "guncellendi": "2026-09-21T09:19:51+00:00"
     },
     {
      "baslik": "Bütçe Muhasebe Talimatı",
      "url": "https://tbbdf.org.tr/butce-muhasebe-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "8d82480d6e0612dd",
-     "guncellendi": "2026-09-20T08:52:22+00:00"
+     "parmak_izi": "42b153dcecb489a4",
+     "guncellendi": "2026-09-21T09:19:51+00:00"
     },
     {
      "baslik": "Dart Yarışma Talimatı",
      "url": "https://tbbdf.org.tr/dart_yarisma_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "12ea822f9ad33837",
-     "guncellendi": "2026-09-20T08:52:22+00:00"
+     "parmak_izi": "993032891dd37882",
+     "guncellendi": "2026-09-21T09:19:51+00:00"
     },
     {
      "baslik": "Disiplin Talimatı",
      "url": "https://tbbdf.org.tr/disiplin_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "2c26bc4d01156386",
-     "guncellendi": "2026-09-20T08:52:22+00:00"
+     "parmak_izi": "d77d39aa7908ce70",
+     "guncellendi": "2026-09-21T09:19:51+00:00"
     },
     {
      "baslik": "Harcırah Talimatı",
      "url": "https://tbbdf.org.tr/harcirah___harcama_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "ece82e41634b4ecf",
-     "guncellendi": "2026-09-20T08:52:23+00:00"
+     "parmak_izi": "576fb53ec30795df",
+     "guncellendi": "2026-09-21T09:19:52+00:00"
     },
     {
      "baslik": "Milli Takımlar Yönergesi",
      "url": "https://tbbdf.org.tr/milli-takimlar-yonergesi",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "c4ff23c1fbd5ae0b",
-     "guncellendi": "2026-09-20T08:52:23+00:00"
+     "parmak_izi": "df5f1ebc82ce0662",
+     "guncellendi": "2026-09-21T09:19:52+00:00"
     },
     {
      "baslik": "Satınalma Talimatı",
      "url": "https://tbbdf.org.tr/satinalma___butce_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "59a5d66618e83c6b",
-     "guncellendi": "2026-09-20T08:52:23+00:00"
+     "parmak_izi": "0bfccfbb668bf150",
+     "guncellendi": "2026-09-21T09:19:52+00:00"
     },
     {
      "baslik": "Sözleşmeli Personel Talimatı",
      "url": "https://tbbdf.org.tr/sozlesmeli_personel_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "bf7bd473d209ba93",
-     "guncellendi": "2026-09-20T08:52:23+00:00"
+     "parmak_izi": "d8f366f4a4920153",
+     "guncellendi": "2026-09-21T09:19:52+00:00"
     },
     {
      "baslik": "Ödül ve Yardım Talimatı",
      "url": "https://tbbdf.org.tr/odul_ve_yardim_talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "39efde37e04c5e55",
-     "guncellendi": "2026-09-20T08:52:24+00:00"
+     "parmak_izi": "3aec091609e846a9",
+     "guncellendi": "2026-09-21T09:19:52+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:48+00:00",
+   "checked_at": "2026-09-21T09:19:52+00:00",
    "list_fingerprint": "7b5ec3292ac1b4e8"
   },
   {
@@ -1699,8 +1727,8 @@
      "url": "https://www.turkboks.gov.tr/u23-erkekler-ve-kadinlar-turkiye-ferdi-boks-sampiyonasi-musabaka-talimati-yayinlandi/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "b3ef798457014bc6",
-     "guncellendi": "2026-09-20T08:49:03+00:00"
+     "parmak_izi": "f27d050d1da8cdee",
+     "guncellendi": "2026-09-21T09:17:11+00:00"
     },
     {
      "baslik": "ÖDÜL TALİMATI (PDF DOSYASI)",
@@ -1718,7 +1746,7 @@
      "parmak_izi": "294dce8aa68a83c1"
     }
    ],
-   "checked_at": "2026-09-21T06:11:43+00:00",
+   "checked_at": "2026-09-21T09:17:13+00:00",
    "list_fingerprint": "df2826564459a1e8"
   },
   {
@@ -1737,216 +1765,216 @@
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-baskent-kupasi-revize-yarisma-talimati-11",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "47ce49f3000b13d5",
-     "guncellendi": "2026-09-20T08:51:45+00:00"
+     "parmak_izi": "871021fa30e22064",
+     "guncellendi": "2026-09-21T09:19:18+00:00"
     },
     {
      "baslik": "Short Track 1. Bölge Teşvik Yarışma Talimatı",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-1-bolge-tesvik-yarismasi-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "cda68a4118a2ff3a",
-     "guncellendi": "2026-09-20T08:51:45+00:00"
+     "parmak_izi": "11fcca15aa88d0a1",
+     "guncellendi": "2026-09-21T09:19:19+00:00"
     },
     {
      "baslik": "Short Track Başkent Kupası Yarışma Talimatı",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-baskent-kupasi-yarisma-talimati-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "d145543106e5cf6f",
-     "guncellendi": "2026-09-20T08:51:46+00:00"
+     "parmak_izi": "405ec680076e7daa",
+     "guncellendi": "2026-09-21T09:19:19+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası - 2 Yarışma Talimat...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-2-yarisma-talimati-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "340d5c9b03f32a18",
-     "guncellendi": "2026-09-20T08:51:46+00:00"
+     "parmak_izi": "a12e0be26fbc6d08",
+     "guncellendi": "2026-09-21T09:19:19+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası - 3 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-yarisma-talimati-112",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "1be958baef82fba4",
-     "guncellendi": "2026-09-20T08:51:46+00:00"
+     "parmak_izi": "e72ae8d3eced3070",
+     "guncellendi": "2026-09-21T09:19:20+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası - 3 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-yarisma-talimati-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "7e4a10117cd1d31a",
-     "guncellendi": "2026-09-20T08:51:47+00:00"
+     "parmak_izi": "51fec0bc6c808e27",
+     "guncellendi": "2026-09-21T09:19:20+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası - 4 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-4-yarisma-talimati-1144",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "96791588419120ad",
-     "guncellendi": "2026-09-20T08:51:47+00:00"
+     "parmak_izi": "767c4aaeb1dd9aae",
+     "guncellendi": "2026-09-21T09:19:20+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası -1 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-yarisma-talimati-111",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "5473ca9333e6b051",
-     "guncellendi": "2026-09-20T08:51:47+00:00"
+     "parmak_izi": "166a500c539a0ab5",
+     "guncellendi": "2026-09-21T09:19:20+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası -2 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-2-yarisma-talimati-111",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "f3d85268d4b7c702",
-     "guncellendi": "2026-09-20T08:51:48+00:00"
+     "parmak_izi": "1b09f2a47f023c00",
+     "guncellendi": "2026-09-21T09:19:21+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası -3 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-11111",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "c172bd45155f6aa3",
-     "guncellendi": "2026-09-20T08:51:48+00:00"
+     "parmak_izi": "fbf649869a75dcfe",
+     "guncellendi": "2026-09-21T09:19:21+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası -3 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-yarisma-talimati-111",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "79a120acad1e3747",
-     "guncellendi": "2026-09-20T08:51:48+00:00"
+     "parmak_izi": "fc321b5a212e656d",
+     "guncellendi": "2026-09-21T09:19:21+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası -4 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-4-yarisma-talimati-111",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "454b07d6fc5ed926",
-     "guncellendi": "2026-09-20T08:51:49+00:00"
+     "parmak_izi": "9220aa72973f4c5e",
+     "guncellendi": "2026-09-21T09:19:22+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası -4 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-4-yarisma-talimati-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "e1a3fda377134c23",
-     "guncellendi": "2026-09-20T08:51:49+00:00"
+     "parmak_izi": "1a228e114ec2cb31",
+     "guncellendi": "2026-09-21T09:19:22+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası 1 ve 2 Yarışma Talim...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-ve-2-yarisma-talimati-119652",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "932a4e80b638f83e",
-     "guncellendi": "2026-09-20T08:51:49+00:00"
+     "parmak_izi": "db19c0c0613c58c7",
+     "guncellendi": "2026-09-21T09:19:22+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası 1 ve 2 Yarışma Talim...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-ve-2-yarisma-talimati-1133",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "7dc941d64743453c",
-     "guncellendi": "2026-09-20T08:51:50+00:00"
+     "parmak_izi": "e82f7622cca67961",
+     "guncellendi": "2026-09-21T09:19:23+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası 1 ve 2 Yarışma Talim...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-ve-2-yarisma-talimati-11332",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "c8959039c67b8e61",
-     "guncellendi": "2026-09-20T08:51:50+00:00"
+     "parmak_izi": "ef1ce2538b07c0ff",
+     "guncellendi": "2026-09-21T09:19:23+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası 1 ve 2 Yarışma Talim...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-ve-2-yarisma-talimati-113322",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "d238dd37127b1333",
-     "guncellendi": "2026-09-20T08:51:50+00:00"
+     "parmak_izi": "b31c152ea9c93d8d",
+     "guncellendi": "2026-09-21T09:19:23+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası 1 ve 2 Yarışma Talim...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-ve-2-yarisma-talimati-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "afed7f930687c42e",
-     "guncellendi": "2026-09-20T08:51:51+00:00"
+     "parmak_izi": "147a169ea8b67a5f",
+     "guncellendi": "2026-09-21T09:19:23+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası 1 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-erzurum-111",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "4e6532217bb2f2e0",
-     "guncellendi": "2026-09-20T08:51:51+00:00"
+     "parmak_izi": "1915336e82eae754",
+     "guncellendi": "2026-09-21T09:19:24+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası 1 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-yarisma-talimati-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "eee4b6f4da377022",
-     "guncellendi": "2026-09-20T08:51:51+00:00"
+     "parmak_izi": "c652c5077f573891",
+     "guncellendi": "2026-09-21T09:19:24+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası 3 - 4 Yarışma Talima...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-4-yarisma-talimati-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "9667609de142a401",
-     "guncellendi": "2026-09-20T08:51:52+00:00"
+     "parmak_izi": "3503af12aca20536",
+     "guncellendi": "2026-09-21T09:19:24+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası 3 ve 4 Yarışma Talim...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-ve-4-yarisma-talimati-11777",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "227de917420ebe61",
-     "guncellendi": "2026-09-20T08:51:52+00:00"
+     "parmak_izi": "c9ddf5d233f29905",
+     "guncellendi": "2026-09-21T09:19:25+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası 3 ve 4 Yarışma Talim...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-ve-4-yarisma-talimati-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "eac9fd596d4d36c0",
-     "guncellendi": "2026-09-20T08:51:52+00:00"
+     "parmak_izi": "01efd2097f98aa5b",
+     "guncellendi": "2026-09-21T09:19:25+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası 3 Yarışmamıza Protok...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-yarismamiza-protokol-ziyareti-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "fb64a376dbdbef7e",
-     "guncellendi": "2026-09-20T08:51:53+00:00"
+     "parmak_izi": "2d2b3f4c017b5389",
+     "guncellendi": "2026-09-21T09:19:25+00:00"
     },
     {
      "baslik": "Short Track Federasyon Kupası-1 Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-yarisma-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "83d53fe2009f8a77",
-     "guncellendi": "2026-09-20T08:51:53+00:00"
+     "parmak_izi": "8362dcbd90a0032e",
+     "guncellendi": "2026-09-21T09:19:26+00:00"
     },
     {
      "baslik": "Short Track Kış Oyunları Yarışma Talimatı",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-kis-oyunlari-yarisma-talimati--11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "f08fcf183012db16",
-     "guncellendi": "2026-09-20T08:51:53+00:00"
+     "parmak_izi": "44e577ac629d457a",
+     "guncellendi": "2026-09-21T09:19:26+00:00"
     },
     {
      "baslik": "Short Track Nenehatun Kupası Yarışma Talimatı",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-nenehatun-kupasi-yarisma-talimati-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "e0a4578eff9389ae",
-     "guncellendi": "2026-09-20T08:51:54+00:00"
+     "parmak_izi": "75342b43eddcd5ed",
+     "guncellendi": "2026-09-21T09:19:26+00:00"
     },
     {
      "baslik": "short track turkiye sampiyonasi yarismasi talimati1778415008910",
@@ -1960,48 +1988,48 @@
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-turkiye-sampiyonasi-yarisma-talimati--11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "1ae04a59258054c4",
-     "guncellendi": "2026-09-20T08:51:55+00:00"
+     "parmak_izi": "227462248d6ec7b1",
+     "guncellendi": "2026-09-21T09:19:27+00:00"
     },
     {
      "baslik": "Short Track Türkiye Şampiyonası Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-113233",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "56920ecff8c63f90",
-     "guncellendi": "2026-09-20T08:51:55+00:00"
+     "parmak_izi": "6d542c10602ddcc9",
+     "guncellendi": "2026-09-21T09:19:28+00:00"
     },
     {
      "baslik": "Short Track Türkiye Şampiyonası Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-111",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "26254c58a3b2e146",
-     "guncellendi": "2026-09-20T08:51:56+00:00"
+     "parmak_izi": "64bfc0dba716e428",
+     "guncellendi": "2026-09-21T09:19:28+00:00"
     },
     {
      "baslik": "Short Track Türkiye Şampiyonası Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-114",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "afb7cde120604e84",
-     "guncellendi": "2026-09-20T08:51:56+00:00"
+     "parmak_izi": "0dba7398c5133221",
+     "guncellendi": "2026-09-21T09:19:28+00:00"
     },
     {
      "baslik": "Short Track Türkiye Şampiyonası Yarışma Talimatı...",
      "url": "https://buzpateni.org.tr/bildiri-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-11",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "c0e9f313d8a4d530",
-     "guncellendi": "2026-09-20T08:51:56+00:00"
+     "parmak_izi": "2a6b842282e913d8",
+     "guncellendi": "2026-09-21T09:19:28+00:00"
     },
     {
      "baslik": "Şifremi Unuttum",
      "url": "https://buzpateni.org.tr/haber-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-1115959#remember-password",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "fad2a55e5c64716b",
-     "guncellendi": "2026-09-20T08:51:57+00:00"
+     "parmak_izi": "a5137017dccf3515",
+     "guncellendi": "2026-09-21T09:19:29+00:00"
     },
     {
      "baslik": "Detaylı İncele",
@@ -2022,11 +2050,11 @@
      "url": "https://buzpateni.org.tr/duyuru-detay/cocuk-koruma-kurulu-talimati-d#remember-password",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "eda45af6283b2e9d",
-     "guncellendi": "2026-09-20T08:52:02+00:00"
+     "parmak_izi": "fa4ff0b8db7c2aef",
+     "guncellendi": "2026-09-21T09:19:32+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:48+00:00",
+   "checked_at": "2026-09-21T09:19:32+00:00",
    "list_fingerprint": "c56f11d664f587da"
   },
   {
@@ -2108,8 +2136,8 @@
      "url": "https://www.tcf.gov.tr/kurumsal/ana-statu/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "9d7d3a93dd524886",
-     "guncellendi": "2026-09-20T08:51:03+00:00"
+     "parmak_izi": "5aa273254d9e418e",
+     "guncellendi": "2026-09-21T09:18:52+00:00"
     },
     {
      "baslik": "Cimnastik Bütçe ve Muhasebe Talimatı",
@@ -2197,7 +2225,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-09-21T06:11:46+00:00",
+   "checked_at": "2026-09-21T09:19:01+00:00",
    "list_fingerprint": "b144fed9e9029429"
   },
   {
@@ -2216,8 +2244,8 @@
      "url": "https://drive.google.com/file/d/114TFgPP1DC0HwMGE6v2PL4rsAI74gQXv/view?usp=sharing",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "83b946031ba2b07e",
-     "guncellendi": "2026-09-20T08:52:05+00:00"
+     "parmak_izi": "2dd3304fcd8c788a",
+     "guncellendi": "2026-09-21T09:19:33+00:00"
     },
     {
      "baslik": "Dağcılık Antrenörlüğü Talimatı (01.11.2019 tarihinde yürürlükten kaldırıldı)",
@@ -2266,16 +2294,16 @@
      "url": "https://drive.google.com/file/d/1Hyd2QfeRjJzzqXZTRM_glgTgYNAhdNaX/view?usp=sharing",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "9da4c2fa84363708",
-     "guncellendi": "2026-09-20T08:52:10+00:00"
+     "parmak_izi": "7ee0756e080056f6",
+     "guncellendi": "2026-09-21T09:19:38+00:00"
     },
     {
      "baslik": "Kulüplerin Dağcılık Eğitimi Düzenleme Yönergesi (Yürürlükten kaldırıldı yerine TDF Eğitim Yönergesi geldi)",
      "url": "https://drive.google.com/file/d/1_NN0kAbLJuRmoHppOuXuzsx187IDLkQS/view?usp=sharing",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "ed2b8949bde19654",
-     "guncellendi": "2026-09-20T08:52:10+00:00"
+     "parmak_izi": "37e7a53973576064",
+     "guncellendi": "2026-09-21T09:19:38+00:00"
     },
     {
      "baslik": "Milli Sporcu Belgesi Verilmesi Hakkında Yönetmelik",
@@ -2289,8 +2317,8 @@
      "url": "https://drive.google.com/file/d/1_NBf2GNxsaHvm39JlcvG8Fh6hmPDIgre/view?usp=drive_link",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "1a3e37f304891c60",
-     "guncellendi": "2026-09-20T08:52:11+00:00"
+     "parmak_izi": "ed25c057fa593e16",
+     "guncellendi": "2026-09-21T09:19:38+00:00"
     },
     {
      "baslik": "Spor Tırmanış Antrenör Eğitim Talimatı (01.11.2019 tarihinde yürürlükten kaldırıldı)",
@@ -2304,80 +2332,80 @@
      "url": "https://drive.google.com/file/d/1QnAT3QYK5EpDCt_mr5Ao7oTfq6Z_aHV7/view?usp=sharing",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "e4fcf3d7fcca1d02",
-     "guncellendi": "2026-09-20T08:52:12+00:00"
+     "parmak_izi": "56c3752528fe89ed",
+     "guncellendi": "2026-09-21T09:19:39+00:00"
     },
     {
      "baslik": "Spor Tırmanış Eğitim Talimatı",
      "url": "https://drive.google.com/file/d/1KLomFByoyQ3KweLELC5x_nSuknS32l15/view?usp=sharing",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "fe7dd0ffc96cd1ed",
-     "guncellendi": "2026-09-20T08:52:12+00:00"
+     "parmak_izi": "e353ca70d4c2957b",
+     "guncellendi": "2026-09-21T09:19:39+00:00"
     },
     {
      "baslik": "Spor Tırmanış Rota Yapıcılığı Eğitim Talimatı",
      "url": "https://drive.google.com/file/d/1SUEErgktthmSw4Fce0zNA2uncHjVCz3H/view?usp=sharing",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "6c4c8da9676a2d06",
-     "guncellendi": "2026-09-20T08:52:12+00:00"
+     "parmak_izi": "dfbe0456623b51e9",
+     "guncellendi": "2026-09-21T09:19:39+00:00"
     },
     {
      "baslik": "Sporcu Lisans, Vize ve Transfer Talimatı",
      "url": "https://drive.google.com/file/d/1OptxI9suvsPMPAGCrQVLYWrbOUfiMJho/view?usp=sharing",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "cd09dcc1b67fe5e2",
-     "guncellendi": "2026-09-20T08:52:12+00:00"
+     "parmak_izi": "91c217fc8819217a",
+     "guncellendi": "2026-09-21T09:19:40+00:00"
     },
     {
      "baslik": "TDF Antrenör Eğitim Talimatı (05.10.2020 tarihinden itibaren ilgili yönetmelik kapsamında yürürlükte bulunan talimat)",
      "url": "https://drive.google.com/file/d/1aKHh9eWq0KjxDEIIGDhpUJ9SDQ3KiJG9/view?usp=sharing",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "1922cfe96936dc7d",
-     "guncellendi": "2026-09-20T08:52:13+00:00"
+     "parmak_izi": "37fc9c83799e44ef",
+     "guncellendi": "2026-09-21T09:19:40+00:00"
     },
     {
      "baslik": "TDF Antrenör Talimatı (04.10.2020 tarihinden sonra yürürlükte kaldırıldı)",
      "url": "https://drive.google.com/file/d/1A_-4__-nDc7snqW6f8aJFV8O9TeQ7MSw/view?usp=sharing",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "6cc8be4113be43fb",
-     "guncellendi": "2026-09-20T08:52:13+00:00"
+     "parmak_izi": "e48ed71310ee1925",
+     "guncellendi": "2026-09-21T09:19:40+00:00"
     },
     {
      "baslik": "TDF Eğitim Talimatı (10.03.2025 tarihinde yürürlükten kaldırıldı. )",
      "url": "https://drive.google.com/file/d/1GcvaBegMzul65AcEEjya2Ne4hAtuHUxg/view?usp=sharing",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "17e50dd32bf52eb9",
-     "guncellendi": "2026-09-20T08:52:13+00:00"
+     "parmak_izi": "587b478d9a9c0d44",
+     "guncellendi": "2026-09-21T09:19:41+00:00"
     },
     {
      "baslik": "TDF Eğitim Yönergesi (yürürlükte olan 2022 V02)",
      "url": "https://drive.google.com/file/d/12Dy_jQ7hC7zGv2bOw-SvQF8um8AcHRO9/view?usp=sharing",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "952234878be8db53",
-     "guncellendi": "2026-09-20T08:52:13+00:00"
+     "parmak_izi": "9bdfe63145d6c833",
+     "guncellendi": "2026-09-21T09:19:41+00:00"
     },
     {
      "baslik": "02 Kasım 2018 tarih ve 30583 sayılı Resmi Gazete’de yayınlanan Ana Statü Değişikliği (İlan Tarihi: 02 Kasım 2018)",
      "url": "https://drive.google.com/file/d/15kufySZ7scV_vPoqd77voZ0DPhQ4OYag/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "744795bd1262d2f9",
-     "guncellendi": "2026-09-20T08:52:14+00:00"
+     "parmak_izi": "0244f3893351360b",
+     "guncellendi": "2026-09-21T09:19:41+00:00"
     },
     {
      "baslik": "29 Ocak 2018 tarih ve 30316 sayılı Resmi Gazete’de yayınlanan Ana Statü Değişikliği (İlan Tarihi: 30.01.2018)",
      "url": "https://drive.google.com/file/d/1p0an1Hv5agbsNlnCuDZazX8noI1vOuNn/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "8d7c11dfd5e2a2f9",
-     "guncellendi": "2026-09-20T08:52:14+00:00"
+     "parmak_izi": "675632900d264268",
+     "guncellendi": "2026-09-21T09:19:41+00:00"
     },
     {
      "baslik": "Ana Statü",
@@ -2392,32 +2420,32 @@
      "url": "https://drive.google.com/file/d/1DMD7qJUN3mB9nzv8Ek2zLSBkx2LK7Vv_/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "b218f0055d01d760",
-     "guncellendi": "2026-09-20T08:52:16+00:00"
+     "parmak_izi": "a445f4337c138fde",
+     "guncellendi": "2026-09-21T09:19:43+00:00"
     },
     {
      "baslik": "Ayniyat Talimatı",
      "url": "https://drive.google.com/file/d/1-ohzPQv4Rk-LMM9oszmGwjnFbXXScCyW/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "cf49c6bdfb2437a0",
-     "guncellendi": "2026-09-20T08:52:16+00:00"
+     "parmak_izi": "d38ab53ae00aed1c",
+     "guncellendi": "2026-09-21T09:19:43+00:00"
     },
     {
      "baslik": "Bütçe ve Muhasebe Talimatı",
      "url": "https://drive.google.com/file/d/1joWmYEBq2cOD7WA730mwCpwIpA5TOdUZ/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "b645313a2e6709b3",
-     "guncellendi": "2026-09-20T08:52:16+00:00"
+     "parmak_izi": "9df645d32356677b",
+     "guncellendi": "2026-09-21T09:19:43+00:00"
     },
     {
      "baslik": "Disiplin Talimatı (11/08/2021 tarihinden itibaren yürürlüğe girmiştir)",
      "url": "https://drive.google.com/file/d/1e1KgUzO7ROcJIRc8o2jAtMemOoMiatdD/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "7b2d16e68d0cef1d",
-     "guncellendi": "2026-09-20T08:52:17+00:00"
+     "parmak_izi": "a591053e4125b3b2",
+     "guncellendi": "2026-09-21T09:19:43+00:00"
     },
     {
      "baslik": "Disiplin ve Ceza Talimatı (10/08/2021 Tarihinden itibaren yürürlükten kaldırıldı)",
@@ -2438,24 +2466,24 @@
      "url": "https://drive.google.com/file/d/1on7GN5BD36Vlruf2RXD4fSaggU_S3NTb/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "09d113bdaabf3f58",
-     "guncellendi": "2026-09-20T08:52:19+00:00"
+     "parmak_izi": "975575dd89354eea",
+     "guncellendi": "2026-09-21T09:19:46+00:00"
     },
     {
      "baslik": "Kurullarının Görevlerine İlişkin Talimatı",
      "url": "https://drive.google.com/file/d/1JXEUQkJTkZeW3_forokGN-8MXVAkzvWE/view",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "d27f2d568a03bccd",
-     "guncellendi": "2026-09-20T08:52:19+00:00"
+     "parmak_izi": "d7f308e60c101738",
+     "guncellendi": "2026-09-21T09:19:46+00:00"
     },
     {
      "baslik": "Milli Takım Kamp Talimatı",
      "url": "https://drive.google.com/file/d/10N_TVZv7xHyJGkJ1sEXZyERPDjViCjsz/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "a0d08b60683692ee",
-     "guncellendi": "2026-09-20T08:52:19+00:00"
+     "parmak_izi": "cf9787cc5fb9768e",
+     "guncellendi": "2026-09-21T09:19:47+00:00"
     },
     {
      "baslik": "Resmi Gazete’de yayınlanan Ana Statü Değişikliği ((İlan Tarihi: 29.06.2025)",
@@ -2477,16 +2505,16 @@
      "url": "https://drive.google.com/file/d/1p-qvoUbvum26hH_7xSUMckBHe7RSTTdY/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "e30c45648a0c0e20",
-     "guncellendi": "2026-09-20T08:52:23+00:00"
+     "parmak_izi": "94a7f8ba64443cf0",
+     "guncellendi": "2026-09-21T09:19:49+00:00"
     },
     {
      "baslik": "Spor Tırmanış Yarışma 2019 Yılı Kuralları v2",
      "url": "https://drive.google.com/file/d/1Mm941_p9tW8FadXTcuDc7RM-LN3lVYtp/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "cbdee7c411049d39",
-     "guncellendi": "2026-09-20T08:52:24+00:00"
+     "parmak_izi": "b349defef7976061",
+     "guncellendi": "2026-09-21T09:19:50+00:00"
     },
     {
      "baslik": "Spor Tırmanış Yarışma Talimatı",
@@ -2500,56 +2528,56 @@
      "url": "https://drive.google.com/file/d/1ou-mL5l7p1COJlRNelS1y5jCBEaituMA/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "c9255442de776d8a",
-     "guncellendi": "2026-09-20T08:52:25+00:00"
+     "parmak_izi": "71ffca8304d6e0d7",
+     "guncellendi": "2026-09-21T09:19:51+00:00"
     },
     {
      "baslik": "Spor Tırmanış Yarışmaları TDF 2020 IFSC Kural Değişiklikleri Sürüm 3",
      "url": "https://drive.google.com/file/d/1cgh2NrRwIEQI3aZhOqYHZvyI7IIYJkHu/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "a4af736f0932302d",
-     "guncellendi": "2026-09-20T08:52:26+00:00"
+     "parmak_izi": "d848ebfdbc7bd190",
+     "guncellendi": "2026-09-21T09:19:51+00:00"
     },
     {
      "baslik": "Spor Tırmanış Yarışmaları TDF 2021 Yılı Kuralları -Paratırmanış kuralları dahil",
      "url": "https://drive.google.com/file/d/18uhlhGUtHuTO_y4j3Pb4e9F7521d6yVE/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "f618a63e8d6ab09f",
-     "guncellendi": "2026-09-20T08:52:26+00:00"
+     "parmak_izi": "e26b24b28ff7bfac",
+     "guncellendi": "2026-09-21T09:19:52+00:00"
     },
     {
      "baslik": "TDF Covid-19 Normalleşme Sürecinde Uyulması Gereken Sağlık Kuralları Yönergesi",
      "url": "https://drive.google.com/file/d/1Z9WXrbJsCqVv-UieeZZNNqr6RC13XNQV/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "39092f9745d190c5",
-     "guncellendi": "2026-09-20T08:52:26+00:00"
+     "parmak_izi": "448cc084b41900fd",
+     "guncellendi": "2026-09-21T09:19:52+00:00"
     },
     {
      "baslik": "TDF Sınav Yapma Yönergesi (İlan Tarihi 29.07.2019)",
      "url": "https://drive.google.com/file/d/1_UQyYOHrdJqS7J-otB0dBhQcu3BNThO7/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "4ad7c440010b620a",
-     "guncellendi": "2026-09-20T08:52:26+00:00"
+     "parmak_izi": "9fdce4b74b2f7b2f",
+     "guncellendi": "2026-09-21T09:19:52+00:00"
     },
     {
      "baslik": "Türkiye Dağcılık Federasyonu Spor Tırmanış Duvarı İmalat Ve Montajını Yapan Firmaların Akreditasyonu Hakkında Yönerge",
      "url": "https://drive.google.com/file/d/1O473vcfbGJ_h91v9fa4XcTgG7lLCXUV8/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "fa22f509cb146614",
-     "guncellendi": "2026-09-20T08:52:27+00:00"
+     "parmak_izi": "f79adbe0bbb4e02e",
+     "guncellendi": "2026-09-21T09:19:52+00:00"
     },
     {
      "baslik": "UIAA Buz Tırmanış Yarışması Kuralları-2021(Eng)",
      "url": "https://drive.google.com/file/d/1hu81ULsV6_EnVrkzxCBdVvavwngadEbX/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "eb9f800976eea3a1",
-     "guncellendi": "2026-09-20T08:52:27+00:00"
+     "parmak_izi": "0ecc248c938ffe7f",
+     "guncellendi": "2026-09-21T09:19:53+00:00"
     },
     {
      "baslik": "Yürüyüş Liderliği Talimatı",
@@ -2570,64 +2598,64 @@
      "url": "https://drive.google.com/file/d/15e6lN7q7WN69wGf9wzJEQqkzBGrEQw08/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "00eec1eae45e2cd8",
-     "guncellendi": "2026-09-20T08:52:29+00:00"
+     "parmak_izi": "490640424d3d23bf",
+     "guncellendi": "2026-09-21T09:19:54+00:00"
     },
     {
      "baslik": "IFSC 2017 Rules V2.1 (English)",
      "url": "https://drive.google.com/file/d/1fQX-GkjHsJGXRaNLlgmr-7bw6cWpOjCA/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "2eb517af27a97d3c",
-     "guncellendi": "2026-09-20T08:52:29+00:00"
+     "parmak_izi": "7a6cfe38ba58d3ec",
+     "guncellendi": "2026-09-21T09:19:55+00:00"
     },
     {
      "baslik": "IFSC 2018 Rules 2018 modification V1.5 (English)",
      "url": "https://drive.google.com/file/d/1MGuQvQxg-ZS4V8b41fuE_ea_PXw294tO/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "9ab6cf1361d554e1",
-     "guncellendi": "2026-09-20T08:52:30+00:00"
+     "parmak_izi": "95adf95c2f4048b2",
+     "guncellendi": "2026-09-21T09:19:55+00:00"
     },
     {
      "baslik": "IFSC 2018 Rules 2018 V1.5 (English)",
      "url": "https://drive.google.com/file/d/1kclftr4XZMvkjTDGGBPUbGcUxrOIvBV3/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "8242d632303289c4",
-     "guncellendi": "2026-09-20T08:52:30+00:00"
+     "parmak_izi": "0fdeff78cda86049",
+     "guncellendi": "2026-09-21T09:19:55+00:00"
     },
     {
      "baslik": "IFSC 2019 Rules 2019 V.1.9.2 (Eng)",
      "url": "https://drive.google.com/file/d/12GEu0cx9RdYh0RwI4IS74zpR5IaAlvcr/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "715c6464b930c74c",
-     "guncellendi": "2026-09-20T08:52:30+00:00"
+     "parmak_izi": "f7c4434d2799bc9f",
+     "guncellendi": "2026-09-21T09:19:55+00:00"
     },
     {
      "baslik": "ISMF 201-2018 Ranking Rules (English)",
      "url": "https://drive.google.com/file/d/1NzwRwa9wgoaAECYnTMOJ6uNfV91KcV9I/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "176111a7473a7c76",
-     "guncellendi": "2026-09-20T08:52:30+00:00"
+     "parmak_izi": "b6e71cd43911595f",
+     "guncellendi": "2026-09-21T09:19:55+00:00"
     },
     {
      "baslik": "ISMF 2017-2018 Rules (English)",
      "url": "https://drive.google.com/file/d/1exKxKdHLdP8lTP98n-wRvF0efzpddUQo/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "9c45a7c1ed274e06",
-     "guncellendi": "2026-09-20T08:52:31+00:00"
+     "parmak_izi": "4f307f50091baaad",
+     "guncellendi": "2026-09-21T09:19:56+00:00"
     },
     {
      "baslik": "ISMF Dağ Kayağı Müsabaka Kuralları (Türkçe)",
      "url": "https://drive.google.com/file/d/1BXY_BVgAy8r3PFYijOIzecLHtASwuLfu/view?usp=sharing",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "eb2c85e3c7c6e184",
-     "guncellendi": "2026-09-20T08:52:31+00:00"
+     "parmak_izi": "bd296e448f26607d",
+     "guncellendi": "2026-09-21T09:19:56+00:00"
     },
     {
      "baslik": "ISMF Yarışma ve Sıralama Kuralları ve Yönetmelikleri",
@@ -2637,7 +2665,7 @@
      "parmak_izi": "48da4e10b135dde1"
     }
    ],
-   "checked_at": "2026-09-21T06:11:48+00:00",
+   "checked_at": "2026-09-21T09:19:57+00:00",
    "list_fingerprint": "848aa56c4eefb319"
   },
   {
@@ -2933,7 +2961,7 @@
      "parmak_izi": "22c93a44910c3961"
     }
    ],
-   "checked_at": "2026-09-21T06:11:53+00:00",
+   "checked_at": "2026-09-21T09:23:59+00:00",
    "list_fingerprint": "ac40349471b189df"
   },
   {
@@ -3199,7 +3227,7 @@
      "guncellendi": "2026-08-24T04:29:00+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:46+00:00",
+   "checked_at": "2026-09-21T09:19:00+00:00",
    "list_fingerprint": "4b133ef79640dd28"
   },
   {
@@ -3475,7 +3503,7 @@
      "parmak_izi": "4e5a9989032ef6be"
     }
    ],
-   "checked_at": "2026-09-21T06:11:52+00:00",
+   "checked_at": "2026-09-21T09:21:13+00:00",
    "list_fingerprint": "3429db0306ba9776"
   },
   {
@@ -3622,7 +3650,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-09-21T06:11:52+00:00",
+   "checked_at": "2026-09-21T09:21:24+00:00",
    "list_fingerprint": "f18c27cb5af426eb"
   },
   {
@@ -3823,8 +3851,8 @@
      "url": "https://www.gosbf.org.tr/haberdetay--467-savate-buyukler-assaut-milli-takim-secmeleri-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "0e58ba191189c83e",
-     "guncellendi": "2026-09-19T08:21:33+00:00"
+     "parmak_izi": "d9b966a5e6f901e3",
+     "guncellendi": "2026-09-21T09:21:55+00:00"
     },
     {
      "baslik": "https://www.gosbf.org.tr/uploads/haberler/img/savate-assaut-milli-takim-secmeleri-talimati.pdf",
@@ -3834,7 +3862,7 @@
      "parmak_izi": "4055b2570944027a"
     }
    ],
-   "checked_at": "2026-09-21T06:11:53+00:00",
+   "checked_at": "2026-09-21T09:21:56+00:00",
    "list_fingerprint": "7c42498bb836f181"
   },
   {
@@ -3853,16 +3881,16 @@
      "url": "https://tgf.org.tr/tr/talimatlar/hakem-gozlemci-temsilci-ve-egitim-gorevlileri-ile-diger-gorevlilere-odenecek-ucretlere-iliskin-talimat",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "00ff4c6233561bfa",
-     "guncellendi": "2026-09-20T08:52:05+00:00"
+     "parmak_izi": "d4ad60002df162f9",
+     "guncellendi": "2026-09-21T09:19:33+00:00"
     },
     {
      "baslik": "Kamp Eğitim Talimatı",
      "url": "https://tgf.org.tr/tr/talimatlar/kamp-egitim-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "95ac49e33c01dc77",
-     "guncellendi": "2026-09-20T08:52:05+00:00"
+     "parmak_izi": "a60977d63361b7df",
+     "guncellendi": "2026-09-21T09:19:33+00:00"
     },
     {
      "baslik": "Milli Takım Sporcularının Belirlenmesi ve Temsil Görevi Verilmesi Talimatı",
@@ -3876,8 +3904,8 @@
      "url": "https://tgf.org.tr/tr/talimatlar/profesyonel-golf-antrenorleri-birligi-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "ea4689ece40b7b73",
-     "guncellendi": "2026-09-20T08:52:07+00:00"
+     "parmak_izi": "da91705740a81d33",
+     "guncellendi": "2026-09-21T09:19:35+00:00"
     },
     {
      "baslik": "Spor Dalı Tescil Talimatı",
@@ -3891,32 +3919,32 @@
      "url": "https://tgf.org.tr/tr/talimatlar/sporcu-lisans-vize-ve-transfer-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "e67e7574712ef3e3",
-     "guncellendi": "2026-09-20T08:52:08+00:00"
+     "parmak_izi": "0ae83cec86a0bb68",
+     "guncellendi": "2026-09-21T09:19:36+00:00"
     },
     {
      "baslik": "Sözleşmeli Antrenör ve Personel Çalıştırılması Hakkında Talimat",
      "url": "https://tgf.org.tr/tr/talimatlar/sozlesmeli-antrenor-ve-personel-calistirilmasi-hakkinda-talimat",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "3cee9335d35e1e13",
-     "guncellendi": "2026-09-20T08:52:08+00:00"
+     "parmak_izi": "4242406da9fd6143",
+     "guncellendi": "2026-09-21T09:19:36+00:00"
     },
     {
      "baslik": "TGF Eğitim, Altyapı ve Kulüplere Yardım Talimatı",
      "url": "https://tgf.org.tr/tr/talimatlar/tgf-egitim-altyapi-ve-kuluplere-yardim-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "cfeac813e1b98781",
-     "guncellendi": "2026-09-20T08:52:08+00:00"
+     "parmak_izi": "c6b4c5a6e49d7b08",
+     "guncellendi": "2026-09-21T09:19:36+00:00"
     },
     {
      "baslik": "Türkiye Golf Federasyonu Antrenör Eğitimi Talimatı",
      "url": "https://tgf.org.tr/tr/talimatlar/turkiye-golf-federasyonu-antrenor-egitimi-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "a48c3425406f5eb9",
-     "guncellendi": "2026-09-20T08:52:08+00:00"
+     "parmak_izi": "4f739a4d4c5867ee",
+     "guncellendi": "2026-09-21T09:19:37+00:00"
     },
     {
      "baslik": "Türkiye Golf Federasyonu Başkanlığı Hakem Talimatı",
@@ -3930,80 +3958,80 @@
      "url": "https://tgf.org.tr/tr/ana-statu",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "57fd5117729cac0b",
-     "guncellendi": "2026-09-20T08:52:09+00:00"
+     "parmak_izi": "650e46c35c907be6",
+     "guncellendi": "2026-09-21T09:19:37+00:00"
     },
     {
      "baslik": "Bütçe ve Muhasebe Talimatı",
      "url": "https://tgf.org.tr/tr/talimatlar/butce-ve-muhasebe-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "8c4d07835178c508",
-     "guncellendi": "2026-09-20T08:52:09+00:00"
+     "parmak_izi": "1c4d6d4d9fc00ad0",
+     "guncellendi": "2026-09-21T09:19:37+00:00"
     },
     {
      "baslik": "Disiplin Talimatı",
      "url": "https://tgf.org.tr/tr/talimatlar/disiplin-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "c63cafd29889e088",
-     "guncellendi": "2026-09-20T08:52:09+00:00"
+     "parmak_izi": "4f1ae3bac536c909",
+     "guncellendi": "2026-09-21T09:19:37+00:00"
     },
     {
      "baslik": "Dopingle Mücadele Talimatı",
      "url": "https://tgf.org.tr/tr/talimatlar/dopingle-mucadele-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "3569ed464935be95",
-     "guncellendi": "2026-09-20T08:52:10+00:00"
+     "parmak_izi": "2a7d3934b96c1024",
+     "guncellendi": "2026-09-21T09:19:37+00:00"
     },
     {
      "baslik": "Federasyon İl Temsilcileri Görev, Yetki ve Sorumlulukları Talimatı",
      "url": "https://tgf.org.tr/tr/talimatlar/federasyon-il-temsilcileri-gorev-yetki-ve-sorumluluklari-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "1fcdc59defa11093",
-     "guncellendi": "2026-09-20T08:52:10+00:00"
+     "parmak_izi": "609c7b0a6b122e3b",
+     "guncellendi": "2026-09-21T09:19:38+00:00"
     },
     {
      "baslik": "Golf Faaliyetlerinde Üstün Başarı Gösterenlerin Ödüllendirilmesi ve Desteklenmesine Dair Talimat",
      "url": "https://tgf.org.tr/tr/talimatlar/golf-faaliyetlerinde-ustun-basari-gosterenlerin-odullendirilmesi-ve-desteklenmesine-dair-talimat",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "3dcc6db9c4ebf833",
-     "guncellendi": "2026-09-20T08:52:10+00:00"
+     "parmak_izi": "ce4d2b617aea2c56",
+     "guncellendi": "2026-09-21T09:19:38+00:00"
     },
     {
      "baslik": "Golf Kuralları",
      "url": "https://tgf.org.tr/tr/golf-kurallari",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "7e754c9e116dbcd9",
-     "guncellendi": "2026-09-20T08:52:10+00:00"
+     "parmak_izi": "84fe1b8e2dca79d8",
+     "guncellendi": "2026-09-21T09:19:38+00:00"
     },
     {
      "baslik": "Golf Tesisleri Yeterlilik Belgesi Talimatı",
      "url": "https://tgf.org.tr/tr/talimatlar/golf-tesisleri-yeterlilik-belgesi-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "d9dbed4fcecb3c6f",
-     "guncellendi": "2026-09-20T08:52:11+00:00"
+     "parmak_izi": "c9f2696d8a9aca87",
+     "guncellendi": "2026-09-21T09:19:38+00:00"
     },
     {
      "baslik": "Golf Yarışma Talimatı",
      "url": "https://tgf.org.tr/tr/talimatlar/golf-yarisma-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "6980b1f4081b0415",
-     "guncellendi": "2026-09-20T08:52:11+00:00"
+     "parmak_izi": "a9962198007018ce",
+     "guncellendi": "2026-09-21T09:19:38+00:00"
     },
     {
      "baslik": "GSGM Çerçeve Statü",
      "url": "https://tgf.org.tr/tr/gsgm-cerceve-statu",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "1a1a263a9a6311c1",
-     "guncellendi": "2026-09-20T08:52:12+00:00"
+     "parmak_izi": "1186ed4a73221f24",
+     "guncellendi": "2026-09-21T09:19:39+00:00"
     },
     {
      "baslik": "Hizmet Pasaportu Verilmesine İlişikin Talimat",
@@ -4017,8 +4045,8 @@
      "url": "https://tgf.org.tr/tr/kural-testi-kayit",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "c7d96e3b30fa6913",
-     "guncellendi": "2026-09-20T08:52:12+00:00"
+     "parmak_izi": "71b4604b13e8cb33",
+     "guncellendi": "2026-09-21T09:19:40+00:00"
     },
     {
      "baslik": "Satın Alma ve İhale Talimatı",
@@ -4032,24 +4060,24 @@
      "url": "https://tgf.org.tr/tr/talimatlar",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "8ff0b1993b9ba15a",
-     "guncellendi": "2026-09-20T08:52:12+00:00"
+     "parmak_izi": "a320bd0b58d0ea61",
+     "guncellendi": "2026-09-21T09:19:40+00:00"
     },
     {
      "baslik": "Türkiye Golf Federasyonu İcra Kurulu Talimatı",
      "url": "https://tgf.org.tr/tr/talimatlar/turkiye-golf-federasyonu-icra-kurulu-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "d5505ce7750dea05",
-     "guncellendi": "2026-09-20T08:52:13+00:00"
+     "parmak_izi": "999a16141d9d7c3d",
+     "guncellendi": "2026-09-21T09:19:40+00:00"
     },
     {
      "baslik": "Yeni HCP Alacaklar için Kural Soruları",
      "url": "https://tgf.org.tr/tr/yeni-hcp-alacaklar-icin-kural-sorulari",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "dad778c27a4fd941",
-     "guncellendi": "2026-09-20T08:52:13+00:00"
+     "parmak_izi": "817b9d1acf22d7d7",
+     "guncellendi": "2026-09-21T09:19:40+00:00"
     },
     {
      "baslik": "Amatör Statu Kuralları",
@@ -4068,7 +4096,7 @@
      "guncellendi": "2026-08-24T04:30:20+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:48+00:00",
+   "checked_at": "2026-09-21T09:19:42+00:00",
    "list_fingerprint": "7421ac0d16825275"
   },
   {
@@ -4086,16 +4114,16 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13077&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "c1dff6990ec810cf",
-     "guncellendi": "2026-09-20T08:55:26+00:00"
+     "parmak_izi": "6ae61404e6c38caa",
+     "guncellendi": "2026-09-21T09:22:20+00:00"
     },
     {
      "baslik": "Faal Sporculuğu Bırakma Törenleri Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4165&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "af6593ecd6358c9a",
-     "guncellendi": "2026-09-20T08:55:26+00:00"
+     "parmak_izi": "5f366af92a655638",
+     "guncellendi": "2026-09-21T09:22:21+00:00"
     },
     {
      "baslik": "Gençlik ve Spor Bakanlığı Eğitim Faaliyetlerinde Ek Ders ve Diğer Uygulamalara İlişkin Usul ve Esaslar",
@@ -4123,8 +4151,8 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23773&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "c845bd01ac590e64",
-     "guncellendi": "2026-09-20T08:55:34+00:00"
+     "parmak_izi": "5ca8ff6f251f809a",
+     "guncellendi": "2026-09-21T09:22:26+00:00"
     },
     {
      "baslik": "Milli Sporcu Belgesi Sınıflarına İlişkin Müsabaka Türlerinin Belirlenmesine Dair Genelge",
@@ -4138,16 +4166,16 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34607&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "1bc4962f19204182",
-     "guncellendi": "2026-09-20T08:55:34+00:00"
+     "parmak_izi": "6f4347e4063531a6",
+     "guncellendi": "2026-09-21T09:22:26+00:00"
     },
     {
      "baslik": "Olimpik, Paralimpik ve Deaflimpik Sporcu Yetiştirilmesine Dair Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38618&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "c0ccf4a01e1728ec",
-     "guncellendi": "2026-09-20T08:55:34+00:00"
+     "parmak_izi": "0612a1e8e0412e8e",
+     "guncellendi": "2026-09-21T09:22:26+00:00"
     },
     {
      "baslik": "Spor Kondisyonerliği Eğitim Yönergesi",
@@ -4161,56 +4189,56 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39705&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "92263e18f063558d",
-     "guncellendi": "2026-09-20T08:55:35+00:00"
+     "parmak_izi": "64627ea76b4904d4",
+     "guncellendi": "2026-09-21T09:22:27+00:00"
     },
     {
      "baslik": "Spor Kulüpleri ve Spor Anonim Şirketlerinin Borçlanma Sınırlamalarından Muafiyetlerine İlişkin Usul ve Esaslar Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39902&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "1dd405d6b62a82d6",
-     "guncellendi": "2026-09-20T08:55:35+00:00"
+     "parmak_izi": "22c6ad2bf4ce2168",
+     "guncellendi": "2026-09-21T09:22:27+00:00"
     },
     {
      "baslik": "Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşlara Ayni ve Nakdî Yardım Yapılması Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42748&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "4b97031f7a590ef9",
-     "guncellendi": "2026-09-20T08:55:35+00:00"
+     "parmak_izi": "5ed676e3fa3eb222",
+     "guncellendi": "2026-09-21T09:22:27+00:00"
     },
     {
      "baslik": "Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşların Denetimi Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41031&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "cb80cc898c4d4b66",
-     "guncellendi": "2026-09-20T08:55:36+00:00"
+     "parmak_izi": "d5ade2a5731db0ee",
+     "guncellendi": "2026-09-21T09:22:27+00:00"
     },
     {
      "baslik": "Spor Kulüplerinin Birleşmesi ve Mal Varlığı Devri Yapmalarına İlişkin Usul ve Esaslar Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39720&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "51ffb128424e70a1",
-     "guncellendi": "2026-09-20T08:55:36+00:00"
+     "parmak_izi": "7e326cbd722131c3",
+     "guncellendi": "2026-09-21T09:22:28+00:00"
     },
     {
      "baslik": "Spor Kulüplerinin Genel Kurul ve Yönetim Kurulu Toplantılarının Elektronik Ortamda Yapılmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39822&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "3dfdc12bf7a11a6c",
-     "guncellendi": "2026-09-20T08:55:36+00:00"
+     "parmak_izi": "ded6fbdba39821c1",
+     "guncellendi": "2026-09-21T09:22:28+00:00"
     },
     {
      "baslik": "Sporcu Ücretlerinden Tevkif Yoluyla Alınan Gelir Vergisinin İadesi Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40258&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "6abc958b7e89adaa",
-     "guncellendi": "2026-09-20T08:55:36+00:00"
+     "parmak_izi": "1b572189a71fd914",
+     "guncellendi": "2026-09-21T09:22:28+00:00"
     },
     {
      "baslik": "Vakıf Üniversiteleri İle Yapılan Milli Sporcu Bursu Protokolleri",
@@ -4225,8 +4253,8 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10666&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "746fdaede7b0f6f3",
-     "guncellendi": "2026-09-20T08:55:38+00:00"
+     "parmak_izi": "acb5d003584d62b3",
+     "guncellendi": "2026-09-21T09:22:30+00:00"
     },
     {
      "baslik": "Araştırma İzinleri Genelgesi",
@@ -4240,8 +4268,8 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=911779&MevzuatTur=21&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "27ec6841c6638728",
-     "guncellendi": "2026-09-20T08:55:39+00:00"
+     "parmak_izi": "2777b4d9e1fbbd98",
+     "guncellendi": "2026-09-21T09:22:30+00:00"
     },
     {
      "baslik": "Bakanlık Konutları Genelgesi",
@@ -4370,8 +4398,8 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39751&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "90b4f916034e0baa",
-     "guncellendi": "2026-09-20T08:56:10+00:00"
+     "parmak_izi": "0200b97edef5b18b",
+     "guncellendi": "2026-09-21T09:22:51+00:00"
     },
     {
      "baslik": "Gençlik ve Spor Bakanlığı Hukuk Hizmetleri Genel Müdürlüğü Görev, Yetki ve Sorumluluk Yönergesi",
@@ -4455,16 +4483,16 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16793&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "d5b0fc8d219d9ec8",
-     "guncellendi": "2026-09-20T08:56:45+00:00"
+     "parmak_izi": "35dd56c02a9c64df",
+     "guncellendi": "2026-09-21T09:22:59+00:00"
     },
     {
      "baslik": "Gençlik ve Spor Bakanlığı Rehberlik ve Denetim Başkanlığı Yönetmeliği",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34027&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "54cb0a5eeb8a89f6",
-     "guncellendi": "2026-09-20T08:56:46+00:00"
+     "parmak_izi": "73aab2ec78897ef4",
+     "guncellendi": "2026-09-21T09:22:59+00:00"
     },
     {
      "baslik": "Gençlik ve Spor Bakanlığı Resmi İstatistik Programı Genelgesi",
@@ -4513,8 +4541,8 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2391&MevzuatTur=21&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "364dd734d81c0a98",
-     "guncellendi": "2026-09-20T08:56:59+00:00"
+     "parmak_izi": "24e05b03f93abb39",
+     "guncellendi": "2026-09-21T09:23:23+00:00"
     },
     {
      "baslik": "Gençlik ve Spor Bakanlığı Taşra Teşkilatının Kuruluşu, Görevleri, Çalışma Usul ve Esasları Hakkında Yönerge",
@@ -4556,16 +4584,16 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42686&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "f08cacf4a5eb495d",
-     "guncellendi": "2026-09-20T08:57:07+00:00"
+     "parmak_izi": "b4bfd97003ce00cf",
+     "guncellendi": "2026-09-21T09:23:34+00:00"
     },
     {
      "baslik": "Gençlik ve Spor Bakanlığı Yurtlarında Bulunan Yemekhane, Kantin ve Diğer İşletmeler Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42691&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "68b92cc7115e1c24",
-     "guncellendi": "2026-09-20T08:57:07+00:00"
+     "parmak_izi": "83557cb86f9d01a3",
+     "guncellendi": "2026-09-21T09:23:34+00:00"
     },
     {
      "baslik": "Gençlik ve Spor Bakanlığı Ön Mali Kontrol İşlemleri Yönergesi",
@@ -4626,8 +4654,8 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8079&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "14fae2b95737e68e",
-     "guncellendi": "2026-09-20T08:57:30+00:00"
+     "parmak_izi": "c30120b095d73cbd",
+     "guncellendi": "2026-09-21T09:23:51+00:00"
     },
     {
      "baslik": "Gençlik ve Spor Hizmetleri Uygulamasında Görevlendirileceklere Ödenecek Ücretlerle İlgili Esaslar",
@@ -4692,24 +4720,24 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20059207&MevzuatTur=21&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "963f67f5e7bc1b0b",
-     "guncellendi": "2026-09-20T08:58:04+00:00"
+     "parmak_izi": "8e589c05632a266e",
+     "guncellendi": "2026-09-21T09:24:25+00:00"
     },
     {
      "baslik": "Kamu Görevlerine İlk Defa Atanacaklar İçin Yapılacak Sınavlar Hakkında Genel Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20023975&MevzuatTur=21&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "9a0028b658a58b9a",
-     "guncellendi": "2026-09-20T08:58:04+00:00"
+     "parmak_izi": "e0a97f3cd6441bf6",
+     "guncellendi": "2026-09-21T09:24:25+00:00"
     },
     {
      "baslik": "Merkez Av Komisyonu, İl ve İlçe Av Komisyonlarının Görevleri, Çalışma Usul ve Esasları Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38509&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "f0cd962e895d4535",
-     "guncellendi": "2026-09-20T08:58:04+00:00"
+     "parmak_izi": "eff7cd7e3945bbe0",
+     "guncellendi": "2026-09-21T09:24:26+00:00"
     },
     {
      "baslik": "Merkez Teşkilatı Görev Yeri Tespiti Genelgesi",
@@ -4723,8 +4751,8 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4151&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "e5fcffc6f8951c71",
-     "guncellendi": "2026-09-20T08:58:07+00:00"
+     "parmak_izi": "59aa700c8d4fb67c",
+     "guncellendi": "2026-09-21T09:24:28+00:00"
     },
     {
      "baslik": "Sosyal Medya Yönetimi Hakkında Genelge",
@@ -4738,48 +4766,48 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39641&MevzuatTur=9&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "03887bb095527913",
-     "guncellendi": "2026-09-20T08:58:09+00:00"
+     "parmak_izi": "19b2fd1c5e4dc85c",
+     "guncellendi": "2026-09-21T09:24:31+00:00"
     },
     {
      "baslik": "Spor Federasyonlarının Bütçe ve Harcama İlkeleri, Belge Düzeni, Tutulacak Defter ve Kayıtları İle Denetimine İlişkin Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41253&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "bd7a70da5dc8023d",
-     "guncellendi": "2026-09-20T08:58:09+00:00"
+     "parmak_izi": "b8f45bd0709db05f",
+     "guncellendi": "2026-09-21T09:24:31+00:00"
     },
     {
      "baslik": "Spor Hizmet ve Faaliyetlerinde Üstün Başarı Gösterenlerin Ödüllendirilmesi Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2010956&MevzuatTur=3&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "777f12f27db869a3",
-     "guncellendi": "2026-09-20T08:58:10+00:00"
+     "parmak_izi": "380881db6d4a6f23",
+     "guncellendi": "2026-09-21T09:24:32+00:00"
     },
     {
      "baslik": "Sporda Şiddet ve Düzensizliğin Önlenmesine Dair Kanunun Uygulanmasına İlişkin Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=20124018&MevzuatTur=3&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "557807835be28ecd",
-     "guncellendi": "2026-09-20T08:58:10+00:00"
+     "parmak_izi": "4dc83c9f1b3bab24",
+     "guncellendi": "2026-09-21T09:24:32+00:00"
     },
     {
      "baslik": "Sportif Müsabakalardan Önce Yapılacak Saygı Duruşları Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4168&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "3c257424bb6205ba",
-     "guncellendi": "2026-09-20T08:58:10+00:00"
+     "parmak_izi": "4fd68aecd2169904",
+     "guncellendi": "2026-09-21T09:24:32+00:00"
     },
     {
      "baslik": "Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=715754&MevzuatTur=21&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "ed65d30c3b502fb6",
-     "guncellendi": "2026-09-20T08:58:10+00:00"
+     "parmak_izi": "0d24240d9a3546c1",
+     "guncellendi": "2026-09-21T09:24:32+00:00"
     },
     {
      "baslik": "T.C. Gençlik ve Spor Bakanlığı ile T.C Ankara Üniversitesi Arasında Bağımlılıkla Mücadele İş Birliği Protokolü",
@@ -4800,8 +4828,8 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5696&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "202de0a1c27e7cff",
-     "guncellendi": "2026-09-20T08:58:13+00:00"
+     "parmak_izi": "251049407e6bbcfe",
+     "guncellendi": "2026-09-21T09:24:36+00:00"
     },
     {
      "baslik": "Vergi Muafiyeti Tanınan Vakıf ve Kamu Yararına Çalışan Derneklere Ait Yükseköğrenim Yurtlarında Barınan Öğrencilere Yapılacak Beslenme ve Barınma Yardımına Dair Yönerge",
@@ -4816,8 +4844,8 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38892&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "238a62d833327082",
-     "guncellendi": "2026-09-20T08:58:17+00:00"
+     "parmak_izi": "578265f9c0c72436",
+     "guncellendi": "2026-09-21T09:24:41+00:00"
     },
     {
      "baslik": "Yurtlara Başvuru, Değerlendirme, Yerleştirme, Kabul, Kayıt Usul ve Esasları",
@@ -4838,8 +4866,8 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40418&MevzuatTur=9&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "b2dc397b437d15d5",
-     "guncellendi": "2026-09-20T08:58:20+00:00"
+     "parmak_izi": "fc76cc9e52d2ae12",
+     "guncellendi": "2026-09-21T09:24:43+00:00"
     },
     {
      "baslik": "Yüzme Bilmeyen Kalmasın Genelge",
@@ -4853,8 +4881,8 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10884&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "4cc78a2a7cedf904",
-     "guncellendi": "2026-09-20T08:58:20+00:00"
+     "parmak_izi": "9ad53029358147d5",
+     "guncellendi": "2026-09-21T09:24:44+00:00"
     },
     {
      "baslik": "Öğrenci Disiplin İşlemleri Uygulama Usul ve Esasları Hakkında Yönerge",
@@ -4871,7 +4899,7 @@
      "parmak_izi": "e1c42eaeab8c9b44"
     }
    ],
-   "checked_at": "2026-09-21T06:11:54+00:00",
+   "checked_at": "2026-09-21T09:24:44+00:00",
    "list_fingerprint": "20eff8ace21154af"
   },
   {
@@ -5146,8 +5174,8 @@
      "url": "https://thsf.org.tr/wp-content/uploads/2026/04/Turkiye-Hava-sporlari-Federasyonu-Hakem-ve-Gozlemci-Talimatinda-Degisiklik-Yapilmasina-Dair-Talimat.pdf",
      "tur": "pdf",
      "onemli": true,
-     "parmak_izi": "e16322f8e82050ef",
-     "guncellendi": "2026-09-18T08:34:20+00:00"
+     "parmak_izi": "5ec178677dbb45c6",
+     "guncellendi": "2026-09-21T09:22:35+00:00"
     },
     {
      "baslik": "SPOR DALLARI SPORCU LİSANS VİZE ve TRANSFER TALİMATI Onay Tarihi 12.03.2026",
@@ -5312,7 +5340,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-09-21T06:11:55+00:00",
+   "checked_at": "2026-09-21T09:25:35+00:00",
    "list_fingerprint": "66d1cb1e6c3973d6"
   },
   {
@@ -5377,7 +5405,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-09-21T06:11:51+00:00",
+   "checked_at": "2026-09-21T09:20:48+00:00",
    "list_fingerprint": "e9b02385c685a478"
   },
   {
@@ -5630,7 +5658,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-09-21T06:11:51+00:00",
+   "checked_at": "2026-09-21T09:22:57+00:00",
    "list_fingerprint": "04034845fb8817a0"
   },
   {
@@ -5815,7 +5843,7 @@
      "parmak_izi": "538e43c5c02c45f4"
     }
    ],
-   "checked_at": "2026-09-21T06:11:51+00:00",
+   "checked_at": "2026-09-21T09:20:38+00:00",
    "list_fingerprint": "9c093fdcef44af52"
   },
   {
@@ -5833,243 +5861,243 @@
      "url": "https://tif.org.tr/mevzuat/kuluplere-yardim-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "f1aa91584ebd4dcd",
-     "guncellendi": "2026-09-20T08:55:04+00:00"
+     "parmak_izi": "9a15c8b4235479f9",
+     "guncellendi": "2026-09-21T09:22:03+00:00"
     },
     {
      "baslik": "İzci-Lider Eğitim ve Kurslar Talimatı (Arapça) PDF · 7 sayfa Kurslar Talimatı’nın Arapça sürümü.",
      "url": "https://tif.org.tr/mevzuat/kurslar-talimati-arapca",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "d5d105797ff1a1f0",
-     "guncellendi": "2026-09-20T08:55:04+00:00"
+     "parmak_izi": "3e96a411f8db8537",
+     "guncellendi": "2026-09-21T09:22:03+00:00"
     },
     {
      "baslik": "İzci-Lider Eğitim ve Kurslar Talimatı PDF · 9 sayfa İzcilerin ve izcilerin yetiştirilmesinde görev alacak liderlerin eğitimine, kurs kademelerine ve kursların düzenlenmesine ilişkin esasları belirler.",
      "url": "https://tif.org.tr/mevzuat/izci-lider-egitim-ve-kurslar-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "fee8f475852baee6",
-     "guncellendi": "2026-09-20T08:55:05+00:00"
+     "parmak_izi": "9c4b15973d0ee0a7",
+     "guncellendi": "2026-09-21T09:22:03+00:00"
     },
     {
      "baslik": "Program ve Eğitim Kurulu Çalışma Usul ve Esasları Talimatı PDF · 5 sayfa Federasyon alt kurullarından program ve eğitim kurulunun oluşumu, görevleri ve çalışma usullerini düzenler.",
      "url": "https://tif.org.tr/mevzuat/program-ve-egitim-kurulu-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "43626718abf0d442",
-     "guncellendi": "2026-09-20T08:55:05+00:00"
+     "parmak_izi": "2b027aa41a0fa5a0",
+     "guncellendi": "2026-09-21T09:22:04+00:00"
     },
     {
      "baslik": "Spor Dalı Tescil Talimatı PDF · 6 sayfa Kulüplerin izcilik spor dalında tescil edilmesi ve tescil işlemlerinin yürütülmesine ilişkin esaslar.",
      "url": "https://tif.org.tr/mevzuat/spor-dali-tescil-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "d96d9333d02e1978",
-     "guncellendi": "2026-09-20T08:55:06+00:00"
+     "parmak_izi": "c101e0169dfcfb85",
+     "guncellendi": "2026-09-21T09:22:04+00:00"
     },
     {
      "baslik": "Sporcu İzci Lisans, Vize ve Transfer Talimatı PDF · 13 sayfa İzci lisansının çıkarılması, vize işlemleri ve kulüpler arası transfer süreçlerine ilişkin usul ve esaslar.",
      "url": "https://tif.org.tr/mevzuat/lisans-vize-ve-transfer-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "405f70c63c897431",
-     "guncellendi": "2026-09-20T08:55:06+00:00"
+     "parmak_izi": "75bfad4d0f2c6269",
+     "guncellendi": "2026-09-21T09:22:04+00:00"
     },
     {
      "baslik": "Üniforma Talimatı PDF · 14 sayfa İzci ve lider üniformalarının unsurları, kademelere göre farklılıkları, arma ve işaretlerin kullanımına ilişkin kurallar.",
      "url": "https://tif.org.tr/mevzuat/uniforma-talimati",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "9ad2577afe0c4bd8",
-     "guncellendi": "2026-09-20T08:55:06+00:00"
+     "parmak_izi": "5eca33b888a4dc94",
+     "guncellendi": "2026-09-21T09:22:05+00:00"
     },
     {
      "baslik": "Activities and Regulations Instruction (İngilizce) Word Faaliyetler ve Düzenlemeler Talimatı’nın İngilizce sürümü.",
      "url": "https://tif.org.tr/mevzuat/activities-and-regulations-en",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "c7d9e0fc6e4264ab",
-     "guncellendi": "2026-09-20T08:55:06+00:00"
+     "parmak_izi": "2b9b22162157a0b6",
+     "guncellendi": "2026-09-21T09:22:05+00:00"
     },
     {
      "baslik": "Bütçe ve Muhasebe Talimatı PDF · 13 sayfa Federasyon başkanlığının bütçe hazırlama, harcama ve muhasebe işlemlerine ilişkin usul ve esasları düzenler.",
      "url": "https://tif.org.tr/mevzuat/butce-ve-muhasebe-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "1019d8f4466e8147",
-     "guncellendi": "2026-09-20T08:55:07+00:00"
+     "parmak_izi": "6b8d1a1b986c3520",
+     "guncellendi": "2026-09-21T09:22:05+00:00"
     },
     {
      "baslik": "Disciplinary Regulation (İngilizce) Word Disiplin Talimatı’nın İngilizce sürümü.",
      "url": "https://tif.org.tr/mevzuat/disciplinary-regulation-en",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "dd70b5c86f2e6813",
-     "guncellendi": "2026-09-20T08:55:07+00:00"
+     "parmak_izi": "f73d8e5b80a2865d",
+     "guncellendi": "2026-09-21T09:22:05+00:00"
     },
     {
      "baslik": "Disiplin Talimatı (Arapça) PDF · 16 sayfa Disiplin Talimatı’nın Arapça sürümü.",
      "url": "https://tif.org.tr/mevzuat/disiplin-talimati-arapca",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "6db032637fa7cffd",
-     "guncellendi": "2026-09-20T08:55:07+00:00"
+     "parmak_izi": "a4e2d18c779cecb0",
+     "guncellendi": "2026-09-21T09:22:06+00:00"
     },
     {
      "baslik": "Disiplin Talimatı PDF · 20 sayfa Spor ahlakı ve disiplinine sahip nesillerin yetiştirilmesi amacıyla, izcilik faaliyetlerinde disiplin süreçlerini, ihlalleri ve uygulanacak yaptırımları düzenler.",
      "url": "https://tif.org.tr/mevzuat/disiplin-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "54c3cd87834be4d0",
-     "guncellendi": "2026-09-20T08:55:08+00:00"
+     "parmak_izi": "302ddad243ae0546",
+     "guncellendi": "2026-09-21T09:22:06+00:00"
     },
     {
      "baslik": "Draft Regulation on Camps (İngilizce) PDF · 29 sayfa Kamplar Talimatı’nın İngilizce sürümü.",
      "url": "https://tif.org.tr/mevzuat/draft-regulation-on-camps-en",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "78502db10fea2eb0",
-     "guncellendi": "2026-09-20T08:55:08+00:00"
+     "parmak_izi": "e88e77fdbb108eac",
+     "guncellendi": "2026-09-21T09:22:06+00:00"
     },
     {
      "baslik": "Faaliyetler ve Düzenlemeler Talimatı (Arapça) PDF · 10 sayfa Faaliyetler ve Düzenlemeler Talimatı’nın Arapça sürümü.",
      "url": "https://tif.org.tr/mevzuat/faaliyetler-talimati-arapca",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "e121fef91ebbf9b8",
-     "guncellendi": "2026-09-20T08:55:08+00:00"
+     "parmak_izi": "e33838068167dd3b",
+     "guncellendi": "2026-09-21T09:22:06+00:00"
     },
     {
      "baslik": "Faaliyetler ve Düzenlemeler Talimatı Word Faaliyetlerin açılması, onay süreci, katılım şartları, görevlendirmeler ve raporlamaya ilişkin esasları belirler.",
      "url": "https://tif.org.tr/mevzuat/faaliyetler-ve-duzenlemeler-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "e01205c2d1173063",
-     "guncellendi": "2026-09-20T08:55:08+00:00"
+     "parmak_izi": "67ca80ce40d697fa",
+     "guncellendi": "2026-09-21T09:22:06+00:00"
     },
     {
      "baslik": "Hizmet Pasaportu Verilmesine İlişkin Talimat PDF · 3 sayfa Federasyon görevlilerine hizmet pasaportu verilmesinde uygulanacak usul ve esaslar.",
      "url": "https://tif.org.tr/mevzuat/hizmet-pasaportu-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "cba6bf180dbc3367",
-     "guncellendi": "2026-09-20T08:55:08+00:00"
+     "parmak_izi": "c2a2c5574e04dd7c",
+     "guncellendi": "2026-09-21T09:22:06+00:00"
     },
     {
      "baslik": "İki Tahta Tez Yazım Kılavuzu PDF · 22 sayfa İki tahta çalışması kapsamında hazırlanacak tezin biçim, içerik ve kaynak gösterme kurallarını açıklayan kılavuz (Mart 2007).",
      "url": "https://tif.org.tr/mevzuat/iki-tahta-tez-yazim-kilavuzu",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "032849128e4d8c86",
-     "guncellendi": "2026-09-20T08:55:09+00:00"
+     "parmak_izi": "4d4b9679f65fb6a9",
+     "guncellendi": "2026-09-21T09:22:06+00:00"
     },
     {
      "baslik": "İl Temsilcileri Talimatı Word İl temsilcilerinin atanması, görev, yetki ve sorumlulukları ile çalışma usullerini düzenler.",
      "url": "https://tif.org.tr/mevzuat/il-temsilcileri-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "f2d1f948b4b180dc",
-     "guncellendi": "2026-09-20T08:55:09+00:00"
+     "parmak_izi": "5db1b5539436b0cc",
+     "guncellendi": "2026-09-21T09:22:07+00:00"
     },
     {
      "baslik": "Kamplar Talimatı (Arapça) PDF · 25 sayfa Kamplar Talimatı’nın Arapça sürümü.",
      "url": "https://tif.org.tr/mevzuat/kamplar-talimati-arapca",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "487c476c24380f6d",
-     "guncellendi": "2026-09-20T08:55:09+00:00"
+     "parmak_izi": "ddb864fe95bffe3d",
+     "guncellendi": "2026-09-21T09:22:07+00:00"
     },
     {
      "baslik": "Kamplar Talimatı PDF · 28 sayfa Çeşitli seviye ve basamaklarda yapılacak izci kamplarının ve açık hava faaliyetlerinin planlanması, yürütülmesi ve denetimine ilişkin usul ve esaslar.",
      "url": "https://tif.org.tr/mevzuat/kamplar-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "d4e18324e362061c",
-     "guncellendi": "2026-09-20T08:55:09+00:00"
+     "parmak_izi": "7f0a225dd592a663",
+     "guncellendi": "2026-09-21T09:22:07+00:00"
     },
     {
      "baslik": "Norm Kadro İlke ve Standartlarına Dair Talimat PDF · 3 sayfa Federasyon teşkilatında istihdam edilecek personelin norm kadro ilke ve standartlarını belirler.",
      "url": "https://tif.org.tr/mevzuat/norm-kadro-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "ed1069af22b26a2a",
-     "guncellendi": "2026-09-20T08:55:09+00:00"
+     "parmak_izi": "8597f53856013cdc",
+     "guncellendi": "2026-09-21T09:22:07+00:00"
     },
     {
      "baslik": "Salgın Şartlarında Kurs ve Kamp Kuralları Word Salgın dönemlerinde kurs ve kampların yürütülmesine ilişkin kurallar.",
      "url": "https://tif.org.tr/mevzuat/salgin-sartlarinda-kurs-ve-kamp-kurallari",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "c70f65fe0b2d8bee",
-     "guncellendi": "2026-09-20T08:55:10+00:00"
+     "parmak_izi": "7f69d7bcfeaec5c3",
+     "guncellendi": "2026-09-21T09:22:07+00:00"
     },
     {
      "baslik": "Satın Alma Talimatı PDF · 9 sayfa Federasyonun mal ve hizmet alımlarında uygulayacağı satın alma usul ve esaslarını düzenler.",
      "url": "https://tif.org.tr/mevzuat/satin-alma-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "41917623bee44685",
-     "guncellendi": "2026-09-20T08:55:10+00:00"
+     "parmak_izi": "bc12ab1f03574ce9",
+     "guncellendi": "2026-09-21T09:22:07+00:00"
     },
     {
      "baslik": "Scout Leader Training and Courses Directive (İngilizce) Word Kurslar Talimatı’nın İngilizce sürümü.",
      "url": "https://tif.org.tr/mevzuat/course-directive-en",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "e84b2cf7ef984594",
-     "guncellendi": "2026-09-20T08:55:10+00:00"
+     "parmak_izi": "3f0f65167ec61a70",
+     "guncellendi": "2026-09-21T09:22:08+00:00"
     },
     {
      "baslik": "Teknik Kurul Çalışma Usul ve Esasları Talimatı PDF · 4 sayfa Federasyon alt kurullarından teknik kurulun oluşumu, görevleri ve çalışma usullerini düzenler.",
      "url": "https://tif.org.tr/mevzuat/teknik-kurul-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "1ca006d69864c085",
-     "guncellendi": "2026-09-20T08:55:10+00:00"
+     "parmak_izi": "3b3ad02c04c7d641",
+     "guncellendi": "2026-09-21T09:22:08+00:00"
     },
     {
      "baslik": "Tesisler Talimatı PDF · 7 sayfa Federasyonun sabit ve hareketli kamp tesislerinin organizasyonu, personeli, çalışma şartları ve kullanımına ilişkin esaslar.",
      "url": "https://tif.org.tr/mevzuat/tesisler-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "7d9b9d4db26e80d1",
-     "guncellendi": "2026-09-20T08:55:10+00:00"
+     "parmak_izi": "1d877f8114dd4a6d",
+     "guncellendi": "2026-09-21T09:22:08+00:00"
     },
     {
      "baslik": "TİFAKE Kurulu Çalışma Usul ve Esasları Talimatı PDF · 16 sayfa Arama-kurtarma alanında görev yapan TİFAKE kurulunun oluşumu, görevleri ve çalışma usullerini düzenler.",
      "url": "https://tif.org.tr/mevzuat/tifake-kurulu-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "21222edc9ebe4185",
-     "guncellendi": "2026-09-20T08:55:11+00:00"
+     "parmak_izi": "a60462e8c98b944f",
+     "guncellendi": "2026-09-21T09:22:08+00:00"
     },
     {
      "baslik": "Türkiye İzcilik Federasyonu Ana Statüsü PDF · 17 sayfa 27 Nisan 2025 tarihli Resmî Gazete’de (sayı 32883) yayımlanan Ana Statü. Federasyonun teşkilatı, organları, görev ve yetkileri ile çalışma usullerini düzenler.",
      "url": "https://tif.org.tr/mevzuat/ana-statu",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "7a88117e8409dab0",
-     "guncellendi": "2026-09-20T08:55:11+00:00"
+     "parmak_izi": "901b27052a7a00df",
+     "guncellendi": "2026-09-21T09:22:08+00:00"
     },
     {
      "baslik": "Zararlardan Korunma Talimatı PDF · 9 sayfa İzcilik faaliyetlerinde çocukların ve gençlerin her türlü zarardan korunmasına yönelik tedbirler ve sorumluluklar (Safe from Harm).",
      "url": "https://tif.org.tr/mevzuat/zararlardan-korunma-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "3565062677477847",
-     "guncellendi": "2026-09-20T08:55:11+00:00"
+     "parmak_izi": "e802706b1eb71192",
+     "guncellendi": "2026-09-21T09:22:08+00:00"
     },
     {
      "baslik": "Ödül ve Yardım Talimatı Word İzcilik hizmetlerinde başarı gösterenlere verilecek ödüller ile yapılacak yardımların esaslarını belirler.",
      "url": "https://tif.org.tr/mevzuat/odul-ve-yardim-talimati",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "ca0ee87d371a01c4",
-     "guncellendi": "2026-09-20T08:55:11+00:00"
+     "parmak_izi": "7d0d82d097eb54a3",
+     "guncellendi": "2026-09-21T09:22:09+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:54+00:00",
+   "checked_at": "2026-09-21T09:22:09+00:00",
    "list_fingerprint": "caaf155ac4f106b1"
   },
   {
@@ -6364,7 +6392,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-09-21T06:11:41+00:00",
+   "checked_at": "2026-09-21T09:20:19+00:00",
    "list_fingerprint": "dbf5bb0383c0a77f"
   },
   {
@@ -6607,7 +6635,7 @@
      "parmak_izi": "813bf5e5cb9da85c"
     }
    ],
-   "checked_at": "2026-09-21T06:11:47+00:00",
+   "checked_at": "2026-09-21T09:19:22+00:00",
    "list_fingerprint": "d5ad51a054fa44bb"
   },
   {
@@ -6780,16 +6808,16 @@
      "url": "https://tkf.org.tr/talimatlar-formlar/#content",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "4db77081458f3456",
-     "guncellendi": "2026-09-18T08:31:43+00:00"
+     "parmak_izi": "2a85e3173428c831",
+     "guncellendi": "2026-09-21T09:19:38+00:00"
     },
     {
      "baslik": "TALİMATLAR-FORMLAR",
      "url": "https://tkf.org.tr/talimatlar-formlar/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "4db77081458f3456",
-     "guncellendi": "2026-09-18T08:31:44+00:00"
+     "parmak_izi": "2a85e3173428c831",
+     "guncellendi": "2026-09-21T09:19:38+00:00"
     },
     {
      "baslik": "TEKNİK KURUL TALİMATI",
@@ -6813,7 +6841,7 @@
      "parmak_izi": "7c338ed2840d2bf5"
     }
    ],
-   "checked_at": "2026-09-21T06:11:47+00:00",
+   "checked_at": "2026-09-21T09:19:39+00:00",
    "list_fingerprint": "e47c13b22c03df49"
   },
   {
@@ -7009,7 +7037,7 @@
      "parmak_izi": "7b4c88124c1d3b61"
     }
    ],
-   "checked_at": "2026-09-21T06:11:54+00:00",
+   "checked_at": "2026-09-21T09:22:18+00:00",
    "list_fingerprint": "b431d31ee8fdb5d7"
   },
   {
@@ -7177,7 +7205,7 @@
      "parmak_izi": "1eaff0f6f5cf4d78"
     }
    ],
-   "checked_at": "2026-09-21T06:11:45+00:00",
+   "checked_at": "2026-09-21T09:19:16+00:00",
    "list_fingerprint": "a29d2698c91c6646"
   },
   {
@@ -7465,7 +7493,7 @@
      "parmak_izi": "8adcbb795428cfba"
     }
    ],
-   "checked_at": "2026-09-21T06:11:45+00:00",
+   "checked_at": "2026-09-21T09:18:48+00:00",
    "list_fingerprint": "d2ddbf1241465c30"
   },
   {
@@ -7590,8 +7618,8 @@
      "url": "https://www.tmf.org.tr/mevzuat/Logo-ve-TMF-Bilgilendirme-Rehberi/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "f00c3c6d49a98340",
-     "guncellendi": "2026-09-20T08:52:50+00:00"
+     "parmak_izi": "7b412d3cba880299",
+     "guncellendi": "2026-09-21T09:20:27+00:00"
     },
     {
      "baslik": "Sportif Sürücü ve Temel, Güvenli ve İleri Sürüş Yetiştirme Programları Talimatı (Değişiklikler İşlenmiş Hali)",
@@ -7685,7 +7713,7 @@
      "parmak_izi": "cc580cbeef336c4e"
     }
    ],
-   "checked_at": "2026-09-21T06:11:50+00:00",
+   "checked_at": "2026-09-21T09:20:42+00:00",
    "list_fingerprint": "523919e58b16a5a4"
   },
   {
@@ -7914,8 +7942,8 @@
      "url": "https://muaythai.gov.tr/2015/04/05/yonetlelik-ve-talimatlar/#content",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "e7a1a4d1724c795a",
-     "guncellendi": "2026-09-20T08:53:37+00:00"
+     "parmak_izi": "1f65228ea014750d",
+     "guncellendi": "2026-09-21T09:21:11+00:00"
     },
     {
      "baslik": "SÖZLEŞMELİ PERSONEL ÇALIŞTIRILMASI VE NORM KADRO TALİMATI",
@@ -7929,16 +7957,16 @@
      "url": "https://muaythai.gov.tr/tag/yonetmelik/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "5874330ba2964a1f",
-     "guncellendi": "2026-09-20T08:53:38+00:00"
+     "parmak_izi": "d775d119b8e9c88b",
+     "guncellendi": "2026-09-21T09:21:12+00:00"
     },
     {
      "baslik": "Yönetmelik ve Talimatlar",
      "url": "https://muaythai.gov.tr/2015/04/05/yonetlelik-ve-talimatlar/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "4e776248c5870ee2",
-     "guncellendi": "2026-09-20T08:53:38+00:00"
+     "parmak_izi": "4ed8091325ed1219",
+     "guncellendi": "2026-09-21T09:21:13+00:00"
     },
     {
      "baslik": "Çocuklar ve Veteranlar Muaythai Şampiyonası Talimatı",
@@ -7959,24 +7987,24 @@
      "url": "https://muaythai.gov.tr/2018/04/04/muaythai-oyun-kurallari/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "15da1a321234ef07",
-     "guncellendi": "2026-09-20T08:53:40+00:00"
+     "parmak_izi": "7442dd2f664fef9b",
+     "guncellendi": "2026-09-21T09:21:14+00:00"
     },
     {
      "baslik": "Oyun Kuralları",
      "url": "https://muaythai.gov.tr/tag/oyun-kurallari/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "546bfe4017f80bc6",
-     "guncellendi": "2026-09-20T08:53:40+00:00"
+     "parmak_izi": "9a76cb77055462f4",
+     "guncellendi": "2026-09-21T09:21:14+00:00"
     },
     {
      "baslik": "Skip to content",
      "url": "https://muaythai.gov.tr/2018/04/04/muaythai-oyun-kurallari/#content",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "0b57a2350593fe1f",
-     "guncellendi": "2026-09-20T08:53:41+00:00"
+     "parmak_izi": "2226b3b8af30f389",
+     "guncellendi": "2026-09-21T09:21:15+00:00"
     },
     {
      "baslik": "wmc kurallar 1",
@@ -7993,7 +8021,7 @@
      "parmak_izi": "0b8ce0194c53df45"
     }
    ],
-   "checked_at": "2026-09-21T06:11:50+00:00",
+   "checked_at": "2026-09-21T09:21:20+00:00",
    "list_fingerprint": "294402b7b7fc4cde"
   },
   {
@@ -8167,8 +8195,8 @@
      "url": "https://www.okculuk.org.tr/federasyon/talimatlar/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "a50049bb5b9a3933",
-     "guncellendi": "2026-09-20T08:50:18+00:00"
+     "parmak_izi": "78d9cdccfc5bc51a",
+     "guncellendi": "2026-09-21T09:18:14+00:00"
     },
     {
      "baslik": "Tümünü indir",
@@ -8222,7 +8250,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-09-21T06:11:46+00:00",
+   "checked_at": "2026-09-21T09:18:22+00:00",
    "list_fingerprint": "8c3ce0e9441183d7"
   },
   {
@@ -8241,35 +8269,35 @@
      "url": "https://oryantiring.org.tr/talimatlar#!",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "1bca9fbffdb4b0f9",
-     "guncellendi": "2026-09-20T08:54:13+00:00"
+     "parmak_izi": "3d2af8b58283f64b",
+     "guncellendi": "2026-09-21T09:21:29+00:00"
     },
     {
      "baslik": "Kabul Et ve Devam Et",
      "url": "https://oryantiring.org.tr/talimatlar",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "99839874fd226286",
-     "guncellendi": "2026-09-20T08:54:14+00:00"
+     "parmak_izi": "889fc6053a3d5ad5",
+     "guncellendi": "2026-09-21T09:21:29+00:00"
     },
     {
      "baslik": "Haftalık",
      "url": "https://oryantiring.org.tr/talimat#!",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "7dd6ac39dd000938",
-     "guncellendi": "2026-09-20T08:54:14+00:00"
+     "parmak_izi": "6f089947a7da6506",
+     "guncellendi": "2026-09-21T09:21:30+00:00"
     },
     {
      "baslik": "Kabul Et ve Devam Et",
      "url": "https://oryantiring.org.tr/talimat",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "27e2104f728527a4",
-     "guncellendi": "2026-09-20T08:54:15+00:00"
+     "parmak_izi": "499e14700d166862",
+     "guncellendi": "2026-09-21T09:21:30+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:53+00:00",
+   "checked_at": "2026-09-21T09:21:30+00:00",
    "list_fingerprint": "1255cf3a8bd73311"
   },
   {
@@ -8694,7 +8722,7 @@
      "parmak_izi": "18801731769caa0c"
     }
    ],
-   "checked_at": "2026-09-21T06:11:51+00:00",
+   "checked_at": "2026-09-21T09:21:45+00:00",
    "list_fingerprint": "7716bcea62e308eb"
   },
   {
@@ -8713,64 +8741,64 @@
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13077&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "769ab25eee8ac43a",
-     "guncellendi": "2026-09-20T08:53:14+00:00"
+     "parmak_izi": "00e6b934b023f9c6",
+     "guncellendi": "2026-09-21T09:20:40+00:00"
     },
     {
      "baslik": "Millî Sporcu Belgesi Verilmesi Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34607&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "bd3d9475440e2a42",
-     "guncellendi": "2026-09-20T08:53:14+00:00"
+     "parmak_izi": "5e79f78c4b1bee8c",
+     "guncellendi": "2026-09-21T09:20:40+00:00"
     },
     {
      "baslik": "Olimpik ve Paralimpik Sporcu Yetiştirilmesine Dair Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38618&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "0ba8851e4aeef9fe",
-     "guncellendi": "2026-09-20T08:53:14+00:00"
+     "parmak_izi": "e5e4b5a36546c240",
+     "guncellendi": "2026-09-21T09:20:41+00:00"
     },
     {
      "baslik": "Bağımsız Spor Federasyonlarının Çalışma Usul ve Esasları Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16396&MevzuatTur=7&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "dc2d46daa0e12aaa",
-     "guncellendi": "2026-09-20T08:53:14+00:00"
+     "parmak_izi": "0e39fb7d06b54ae2",
+     "guncellendi": "2026-09-21T09:20:41+00:00"
     },
     {
      "baslik": "Başa dön tuşu",
      "url": "https://tossfed.gov.tr/yonetmelikler/#go-to-tie-body",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "b802a3b4c7caf057",
-     "guncellendi": "2026-09-20T08:53:15+00:00"
+     "parmak_izi": "95a1507f859e80ce",
+     "guncellendi": "2026-09-21T09:20:41+00:00"
     },
     {
      "baslik": "Spor Hizmet ve Faaliyetlerinde Üstün Başarı Gösterenlerin Ödüllendirilmesi Hakkında Yönetmelik",
      "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2010956&MevzuatTur=3&MevzuatTertip=5",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "de5507101a13d2b1",
-     "guncellendi": "2026-09-20T08:53:15+00:00"
+     "parmak_izi": "1bc4ceb0952c353a",
+     "guncellendi": "2026-09-21T09:20:42+00:00"
     },
     {
      "baslik": "Önceki sayfa",
      "url": "https://tossfed.gov.tr/yonetmelikler/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "20976ab3daf22569",
-     "guncellendi": "2026-09-20T08:53:16+00:00"
+     "parmak_izi": "7f49b7cf5fb6be20",
+     "guncellendi": "2026-09-21T09:20:42+00:00"
     },
     {
      "baslik": "Başa dön tuşu",
      "url": "https://tossfed.gov.tr/talimatlar-2/#go-to-tie-body",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "96ee6a2e13a1a345",
-     "guncellendi": "2026-09-20T08:53:16+00:00"
+     "parmak_izi": "fe39908129a11e5f",
+     "guncellendi": "2026-09-21T09:20:42+00:00"
     },
     {
      "baslik": "İndirilebilir Dosya",
@@ -8861,11 +8889,11 @@
      "url": "https://tossfed.gov.tr/talimatlar-2/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "f4120c829c28e99e",
-     "guncellendi": "2026-09-20T08:53:39+00:00"
+     "parmak_izi": "d34f94117067582b",
+     "guncellendi": "2026-09-21T09:20:57+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:51+00:00",
+   "checked_at": "2026-09-21T09:20:57+00:00",
    "list_fingerprint": "4b12d8168c4fd7e4"
   },
   {
@@ -8891,8 +8919,8 @@
      "url": "http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.13077&MevzuatIliski=0&sourceXmlSearch=",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "6049de016ee15ce0",
-     "guncellendi": "2026-09-20T08:54:13+00:00"
+     "parmak_izi": "b6ad844f2e5fbb7c",
+     "guncellendi": "2026-09-21T09:21:32+00:00"
     },
     {
      "baslik": "Beyzbol Hakem Ve Gözlemci Talimatı",
@@ -9130,16 +9158,16 @@
      "url": "https://trf.gov.tr/?page_id=76",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "621e0ac5b1cf9ee8",
-     "guncellendi": "2026-09-20T08:54:59+00:00"
+     "parmak_izi": "8c7dfd563583a354",
+     "guncellendi": "2026-09-21T09:22:00+00:00"
     },
     {
      "baslik": "BAYRAK(FLAG) FUTBOL KURAL KİTABI",
      "url": "https://trf.gov.tr/?page_id=1071",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "47fe60fb01f25fbb",
-     "guncellendi": "2026-09-20T08:55:00+00:00"
+     "parmak_izi": "0b2b775d59c5214b",
+     "guncellendi": "2026-09-21T09:22:01+00:00"
     },
     {
      "baslik": "Flag_kural_kitabı",
@@ -9149,7 +9177,7 @@
      "parmak_izi": "522c8d51c4e07ea9"
     }
    ],
-   "checked_at": "2026-09-21T06:11:54+00:00",
+   "checked_at": "2026-09-21T09:22:01+00:00",
    "list_fingerprint": "34c2f3c3c99789e1"
   },
   {
@@ -9168,24 +9196,24 @@
      "url": "https://www.tsf.org.tr/kaynaklar/belgeler/fide-kurallari",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "9ba85a2fb2c5beb1",
-     "guncellendi": "2026-09-20T08:52:07+00:00"
+     "parmak_izi": "e8d917dba85a26ec",
+     "guncellendi": "2026-09-21T09:19:41+00:00"
     },
     {
      "baslik": "KURULLAR",
      "url": "https://www.tsf.org.tr/kaynaklar/belgeler/talimatlar",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "468d7e15b32eb49a",
-     "guncellendi": "2026-09-20T08:52:07+00:00"
+     "parmak_izi": "ce6baec303de3874",
+     "guncellendi": "2026-09-21T09:19:41+00:00"
     },
     {
      "baslik": "Mobile menu",
      "url": "https://www.tsf.org.tr/kaynaklar/belgeler/talimatlar#vtem_menu_mobile",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "468d7e15b32eb49a",
-     "guncellendi": "2026-09-20T08:52:08+00:00"
+     "parmak_izi": "ce6baec303de3874",
+     "guncellendi": "2026-09-21T09:19:42+00:00"
     },
     {
      "baslik": "tsf ozendirme odulleri talimat",
@@ -9199,19 +9227,19 @@
      "url": "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "dc5af2a7ffb7fa17",
-     "guncellendi": "2026-09-20T08:52:10+00:00"
+     "parmak_izi": "3684ba4b24415d49",
+     "guncellendi": "2026-09-21T09:19:44+00:00"
     },
     {
      "baslik": "Mobile menu",
      "url": "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri#vtem_menu_mobile",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "dc5af2a7ffb7fa17",
-     "guncellendi": "2026-09-20T08:52:11+00:00"
+     "parmak_izi": "3684ba4b24415d49",
+     "guncellendi": "2026-09-21T09:19:44+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:49+00:00",
+   "checked_at": "2026-09-21T09:19:44+00:00",
    "list_fingerprint": "882fd9317e0f61ab"
   },
   {
@@ -9399,8 +9427,8 @@
      "url": "https://www.tssf.gov.tr/yonetmelik-ve-talimatlar/#content",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "df5c77409167cd38",
-     "guncellendi": "2026-09-16T08:56:51+00:00"
+     "parmak_izi": "73af96c43f45d511",
+     "guncellendi": "2026-09-21T09:23:02+00:00"
     },
     {
      "baslik": "Sualtı Görüntüleme Yarışmaları Talimatı (SGM Y.T. 24/02/2009)",
@@ -9471,8 +9499,8 @@
      "url": "https://www.tssf.gov.tr/yonetmelik-ve-talimatlar/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "df5c77409167cd38",
-     "guncellendi": "2026-09-16T08:57:27+00:00"
+     "parmak_izi": "73af96c43f45d511",
+     "guncellendi": "2026-09-21T09:23:34+00:00"
     },
     {
      "baslik": "Zıpkınla Balıkavı Müsabaka Kurullar Talimatı (S.H.G.M. Y.T. 02.04.2019)",
@@ -9500,16 +9528,16 @@
      "url": "https://www.tssf.gov.tr/donanimli-dalis-sinav-rehberi-genel-kurallari/",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "ce485954a289f14a",
-     "guncellendi": "2026-09-16T08:58:27+00:00"
+     "parmak_izi": "5dc5b264dd8d3c7f",
+     "guncellendi": "2026-09-21T09:23:57+00:00"
     },
     {
      "baslik": "Skip to content",
      "url": "https://www.tssf.gov.tr/donanimli-dalis-sinav-rehberi-genel-kurallari/#content",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "ce485954a289f14a",
-     "guncellendi": "2026-09-16T08:58:27+00:00"
+     "parmak_izi": "5dc5b264dd8d3c7f",
+     "guncellendi": "2026-09-21T09:23:57+00:00"
     },
     {
      "baslik": "TSSF 1 Yildiz Dalis Egitmeni Sinav Rehberi 2025",
@@ -9540,7 +9568,7 @@
      "parmak_izi": "546d008f4b0ee6d7"
     }
    ],
-   "checked_at": "2026-09-21T06:11:50+00:00",
+   "checked_at": "2026-09-21T09:24:08+00:00",
    "list_fingerprint": "e4df2eba374e1ca2"
   },
   {
@@ -9737,7 +9765,7 @@
      "parmak_izi": "996e9689fbced0db"
     }
    ],
-   "checked_at": "2026-09-21T06:11:42+00:00",
+   "checked_at": "2026-09-21T09:17:10+00:00",
    "list_fingerprint": "ee36b75c3d7143c5"
   },
   {
@@ -10067,7 +10095,7 @@
      "parmak_izi": "17b7b23916751d22"
     }
    ],
-   "checked_at": "2026-09-21T06:11:43+00:00",
+   "checked_at": "2026-09-21T09:17:53+00:00",
    "list_fingerprint": "1e480bfb1ebea5ee"
   },
   {
@@ -10086,24 +10114,24 @@
      "url": "https://triatlon.org.tr/egitim-altyapi-ve-kuluplere-yardim-talimati.html",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "f05acdea5ee4831d",
-     "guncellendi": "2026-09-20T08:51:43+00:00"
+     "parmak_izi": "27845c3542a65397",
+     "guncellendi": "2026-09-21T09:19:13+00:00"
     },
     {
      "baslik": "Kamp Eğitim Talimatı / 09.07.2008",
      "url": "https://triatlon.org.tr/kamp-egitim-talimati.html",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "09a1b0a043229957",
-     "guncellendi": "2026-09-20T08:51:43+00:00"
+     "parmak_izi": "75291dbfcb076afa",
+     "guncellendi": "2026-09-21T09:19:14+00:00"
     },
     {
      "baslik": "Milli Sporcu Belgesi Sınıflarına İlişkin Müsabaka Türlerinin Belirlenmesine Dair Genelge (2020)",
      "url": "https://triatlon.org.tr/milli-sporcu-belgesi-siniflarina-iliskin-musabaka-turlerinin-belirlenmesine-dair-genelge-2020.html",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "2ed6510568ac21c8",
-     "guncellendi": "2026-09-20T08:51:44+00:00"
+     "parmak_izi": "5249f4072d5845d1",
+     "guncellendi": "2026-09-21T09:19:15+00:00"
     },
     {
      "baslik": "Milli Takım Sporcu Belirleme Kriterleri Talimatı / 10.10.2025",
@@ -10131,8 +10159,8 @@
      "url": "https://triatlon.org.tr/ttf-hakem-talimati.html",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "676fd53318e05e43",
-     "guncellendi": "2026-09-20T08:51:48+00:00"
+     "parmak_izi": "ff78537619b8c3cb",
+     "guncellendi": "2026-09-21T09:19:19+00:00"
     },
     {
      "baslik": "TTF Sporcu Lisans, Vize ve Transfer Talimatı / 05.11.2025",
@@ -10146,24 +10174,24 @@
      "url": "https://triatlon.org.tr/butce-ve-muhasebe-talimati.html",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "bac096d0ae1773ef",
-     "guncellendi": "2026-09-20T08:51:50+00:00"
+     "parmak_izi": "a0de479507e9d339",
+     "guncellendi": "2026-09-21T09:19:21+00:00"
     },
     {
      "baslik": "Disiplin Talimatı / 27.02.2015",
      "url": "https://triatlon.org.tr/disiplin-talimati.html",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "cce8df62406b07b9",
-     "guncellendi": "2026-09-20T08:51:51+00:00"
+     "parmak_izi": "9352059d06ae37ce",
+     "guncellendi": "2026-09-21T09:19:21+00:00"
     },
     {
      "baslik": "Hukuk Kurulu Talimatı / 09.07.2008",
      "url": "https://triatlon.org.tr/hukuk-kurulu-talimati.html",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "ee773f02b5ffe8bc",
-     "guncellendi": "2026-09-20T08:51:52+00:00"
+     "parmak_izi": "313ffa0fa0bf2602",
+     "guncellendi": "2026-09-21T09:19:22+00:00"
     },
     {
      "baslik": "Karışık Bayrak Talimatnamesi / 24.06.2024",
@@ -10177,8 +10205,8 @@
      "url": "https://triatlon.org.tr/saglik-kurulu-talimati.html",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "dd0f64d78a9d1220",
-     "guncellendi": "2026-09-20T08:51:54+00:00"
+     "parmak_izi": "fd295fb39ebd9d45",
+     "guncellendi": "2026-09-21T09:19:24+00:00"
     },
     {
      "baslik": "Teknik Kurul Talimatı / 09.07.2008",
@@ -10192,24 +10220,24 @@
      "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati.html",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "1f9e94a23189051b",
-     "guncellendi": "2026-09-20T08:51:57+00:00"
+     "parmak_izi": "fd74361aa04c6bef",
+     "guncellendi": "2026-09-21T09:19:26+00:00"
     },
     {
      "baslik": "TTF Satın Alma ve İhale Talimatı / 03.02.2020",
      "url": "https://triatlon.org.tr/ttf-satin-alma-ve-i-hale-talimati.html",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "b90c524f6a2197c9",
-     "guncellendi": "2026-09-20T08:51:58+00:00"
+     "parmak_izi": "ee5619a3830e8bf7",
+     "guncellendi": "2026-09-21T09:19:26+00:00"
     },
     {
      "baslik": "Ödül ve Yardım Talimatı / 04.07.2018",
      "url": "https://triatlon.org.tr/odul-ve-yardim-talimati.html",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "60ad80eef6209122",
-     "guncellendi": "2026-09-20T08:51:58+00:00"
+     "parmak_izi": "a406ee15c9822f03",
+     "guncellendi": "2026-09-21T09:19:27+00:00"
     },
     {
      "baslik": "Özel Yarışmalar Uygulama Talimatı / 27.08.2026",
@@ -10233,7 +10261,7 @@
      "parmak_izi": "a1caa666f647bfc7"
     }
    ],
-   "checked_at": "2026-09-21T06:11:47+00:00",
+   "checked_at": "2026-09-21T09:19:30+00:00",
    "list_fingerprint": "e06e3f9e7cbbbd61"
   },
   {
@@ -10259,8 +10287,8 @@
      "url": "https://tusf.org.tr/Default.aspx?p=98a34f68-d50d-4c08-a9f7-ab41ff1103b9",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "ac12d766e89a22e3",
-     "guncellendi": "2026-09-20T08:54:20+00:00"
+     "parmak_izi": "8858caa168fe506e",
+     "guncellendi": "2026-09-21T09:21:35+00:00"
     },
     {
      "baslik": "B C3 BCt C3 A7e 20ve 20Muhasebe 20Talimat C4 B1 20(1)",
@@ -10316,19 +10344,19 @@
      "url": "https://tusf.org.tr/talimatlar#gdpr-preferences",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "c9720598df803aeb",
-     "guncellendi": "2026-09-20T08:54:24+00:00"
+     "parmak_izi": "85cb1b0e98ff819c",
+     "guncellendi": "2026-09-21T09:21:37+00:00"
     },
     {
      "baslik": "Save & Accept",
      "url": "https://tusf.org.tr/talimatlar",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "4445e243d50c053d",
-     "guncellendi": "2026-09-20T08:54:25+00:00"
+     "parmak_izi": "358eda96a7cd9b57",
+     "guncellendi": "2026-09-21T09:21:37+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:54+00:00",
+   "checked_at": "2026-09-21T09:21:37+00:00",
    "list_fingerprint": "3889dac0e0ca78cf"
   },
   {
@@ -10550,43 +10578,43 @@
      "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesi-calistayi-duzenlendi",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "8ead61a62a9931ff",
-     "guncellendi": "2026-09-20T08:49:00+00:00"
+     "parmak_izi": "c38429879df414b5",
+     "guncellendi": "2026-09-21T09:17:10+00:00"
     },
     {
      "baslik": "Erasmus+ Sport4Rules Projesinin Final Konferansı Düzenlendi 3 yıl önce",
      "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesinin-final-konferansi-duzenlendi",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "5bc320e5c283d6d8",
-     "guncellendi": "2026-09-20T08:49:00+00:00"
+     "parmak_izi": "11b3255484efd531",
+     "guncellendi": "2026-09-21T09:17:10+00:00"
     },
     {
      "baslik": "Erasmus+ Sport4Rules Projesinin Final Konferansı Düzenlenecek 3 yıl önce",
      "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesinin-final-konferansi-duzenlenecek",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "8ff971fbba928c16",
-     "guncellendi": "2026-09-20T08:49:00+00:00"
+     "parmak_izi": "de882ca5d6685c96",
+     "guncellendi": "2026-09-21T09:17:11+00:00"
     },
     {
      "baslik": "Erasmus+ Sport4Rules Projesinin Ulus Ötesi Toplantısı Yapıldı 3 yıl önce",
      "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesinin-ulus-otesi-toplantisi-yapildi",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "2344fe41c4ff016e",
-     "guncellendi": "2026-09-20T08:49:00+00:00"
+     "parmak_izi": "1a48b7d6c95d8a15",
+     "guncellendi": "2026-09-21T09:17:11+00:00"
     },
     {
      "baslik": "Erasmus+ Sport4Rules Projesinin Ulusötesi Toplantısı Saraybosna'da Yapıldı 4 yıl önce",
      "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesinin-ulusotesi-toplantisi-saraybosnada-yapildi",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "91192c445a855cb8",
-     "guncellendi": "2026-09-20T08:49:01+00:00"
+     "parmak_izi": "849a2b528ba5ac28",
+     "guncellendi": "2026-09-21T09:17:11+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:41+00:00",
+   "checked_at": "2026-09-21T09:17:11+00:00",
    "list_fingerprint": "1ac5ca7aa0dc2abb"
   },
   {
@@ -10635,7 +10663,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-09-21T06:11:49+00:00",
+   "checked_at": "2026-09-21T09:20:21+00:00",
    "list_fingerprint": "fb5d3bdd2eacbeee"
   },
   {
@@ -10662,16 +10690,16 @@
      "url": "https://www.tyf.org.tr/sayfalar/yelken-hakem-talimati/",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "a2e1b315852e51c3",
-     "guncellendi": "2026-09-20T08:51:41+00:00"
+     "parmak_izi": "649f7aecbe40d48d",
+     "guncellendi": "2026-09-21T09:19:10+00:00"
     },
     {
      "baslik": "Talimatlar",
      "url": "https://www.tyf.org.tr/kategori/talimatlar",
      "tur": "html",
      "onemli": false,
-     "parmak_izi": "729fe698665b4aa1",
-     "guncellendi": "2026-09-20T08:51:41+00:00"
+     "parmak_izi": "a2e691bc038936ca",
+     "guncellendi": "2026-09-21T09:19:10+00:00"
     },
     {
      "baslik": "egitim kurulu gprev talimati 29 01 2014",
@@ -10686,11 +10714,11 @@
      "url": "https://www.tyf.org.tr/sayfalar/egitim-kurulu-gorev-talimati/",
      "tur": "html",
      "onemli": true,
-     "parmak_izi": "0775c1b6a393ece7",
-     "guncellendi": "2026-09-20T08:51:42+00:00"
+     "parmak_izi": "3d9ab288d3277f2a",
+     "guncellendi": "2026-09-21T09:19:10+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:46+00:00",
+   "checked_at": "2026-09-21T09:19:10+00:00",
    "list_fingerprint": "bdcaadd89cdaebf0"
   },
   {
@@ -10946,7 +10974,7 @@
      "guncellendi": "2026-09-18T08:29:31+00:00"
     }
    ],
-   "checked_at": "2026-09-21T06:11:43+00:00",
+   "checked_at": "2026-09-21T09:17:23+00:00",
    "list_fingerprint": "f945f89439b77e80"
   }
  ]

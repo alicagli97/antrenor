@@ -1,9 +1,9 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-21T19:20:57+00:00",
+ "generated_at": "2026-09-21T23:14:36+00:00",
  "total": 6000,
- "new_in_last_run": 532,
- "sources_ok": 63,
+ "new_in_last_run": 514,
+ "sources_ok": 64,
  "sources_failed": [
   "basketbol",
   "gures"
@@ -11,13 +11,13 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-21T19:20:57+00:00",
+ "latest_published_at": "2026-09-21T23:14:36+00:00",
  "categories": {
+  "duyuru": 563,
   "musabaka": 278,
-  "duyuru": 561,
   "kurs": 152,
   "takvim": 71,
-  "mevzuat": 4894,
+  "mevzuat": 4892,
   "haber": 44
  },
  "silent_sources": [
@@ -33,7 +33,8 @@
   }
  ],
  "federation_counts": {
-  "futbol": 126,
+  "futbol": 127,
+  "badminton": 16,
   "eskrim": 190,
   "gormeengelliler": 45,
   "gelismekteolan": 39,
@@ -55,8 +56,8 @@
   "motosiklet": 27,
   "bisiklet": 38,
   "dagcilik": 716,
-  "bocce": 428,
-  "satranc": 121,
+  "bocce": 427,
+  "satranc": 120,
   "golf": 450,
   "buzpateni": 450,
   "triatlon": 219,
@@ -76,7 +77,6 @@
   "halter": 8,
   "karate": 5,
   "basketbol": 28,
-  "badminton": 15,
   "taekwondo": 13,
   "isitmeengelliler": 9,
   "yuzme": 14,

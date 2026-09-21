@@ -6,8 +6,48 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "539b1a838f9b2d4d",
- "event_count": 363,
+ "event_count": 370,
  "events": [
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-10-05",
+   "tarih_metni": "2026.10.10 05.10.2026 - 10.10.2026",
+   "yer": "Antalya",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Antalya | 2026.10.10 05.10.2026 - 10.10.2026 | İncele"
+  },
+  {
+   "ad": "2026.10.10 05.10.2026 - 10.10.2026",
+   "tarih": "2026-10-05",
+   "tarih_metni": "2026.10.10 05.10.2026 - 10.10.2026",
+   "yer": "Balıkesir",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | Balıkesir | 2026.10.10 05.10.2026 - 10.10.2026 | İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-10-05",
+   "tarih_metni": "2026.10.10 05.10.2026 - 10.10.2026",
+   "yer": "Balıkesir",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Balıkesir | 2026.10.10 05.10.2026 - 10.10.2026 | İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Antrenörlük Kursu",
+   "tarih": "2026-10-05",
+   "tarih_metni": "2026.10.10 05.10.2026 - 10.10.2026",
+   "yer": "Ankara",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Antrenörlük Kursu | Erkek Artistik Cimnastik | Ankara | 2026.10.10 05.10.2026 - 10.10.2026 | İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-10-04",
+   "tarih_metni": "2026.10.09 04.10.2026 - 09.10.2026",
+   "yer": "Eskişehir",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | Eskişehir | 2026.10.09 04.10.2026 - 09.10.2026 | İncele"
+  },
   {
    "ad": "Minikler Kulüplerarası Türkiye Şampiyonası (Bireysel/Grup)",
    "tarih": "2026-11-12",
@@ -79,6 +119,22 @@
    "yer": "İzmir",
    "brans": "Kurs",
    "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | İzmir | 2026.10.03 28.09.2026 - 03.10.2026 | İncele"
+  },
+  {
+   "ad": "2026.10.10 05.10.2026 - 10.10.2026",
+   "tarih": "2026-10-05",
+   "tarih_metni": "2026.10.10 05.10.2026 - 10.10.2026",
+   "yer": "Ankara",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | Ankara | 2026.10.10 05.10.2026 - 10.10.2026 | İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-10-05",
+   "tarih_metni": "2026.10.10 05.10.2026 - 10.10.2026",
+   "yer": "İstanbul",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | İstanbul | 2026.10.10 05.10.2026 - 10.10.2026 | İncele"
   },
   {
    "ad": "Pilates Gelişim Semineri 26 Eylül 2026 Online 10:00-13:00",
@@ -2913,8 +2969,8 @@
    "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
   }
  ],
- "checked_at": "2026-09-21T06:11:31",
- "bekleyen_iz": null,
+ "checked_at": "2026-09-21T13:58:09",
+ "bekleyen_iz": "d13a8a37d91f7528",
  "changed_at": "2026-09-20T21:28:38+00:00",
  "parmak_izi": "539b1a838f9b2d4d"
 }

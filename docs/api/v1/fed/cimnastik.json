@@ -1,5 +1,41 @@
 [
  {
+  "id": "674eb9aca3b3c197",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Yeni mevzuat: Satın Alma ve İhale Talimatı",
+  "url": "https://www.tcf.gov.tr/wp-content/uploads/2026/09/cimnastik-satin-alma-ve-ihale-talimati.pdf",
+  "summary": "Cimnastik federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-21T13:58:26+00:00",
+  "first_seen_at": "2026-09-21T13:58:26+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "68f5624d7f784951",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Mevzuat güncellendi: Ana Statü",
+  "url": "https://www.tcf.gov.tr/kurumsal/ana-statu/",
+  "summary": "Türkiye Cimnastik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-21T09:18:52+00:00",
+  "first_seen_at": "2026-09-21T09:18:52+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "20853382a2c3f177",
   "federation": "cimnastik",
   "federation_name": "Türkiye Cimnastik Federasyonu",
@@ -636,42 +672,6 @@
   ],
   "published_at": "2026-09-01T18:24:01+00:00",
   "first_seen_at": "2026-09-01T18:24:01+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "68f5624d7f784951",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Mevzuat güncellendi: Ana Statü",
-  "url": "https://www.tcf.gov.tr/kurumsal/ana-statu/",
-  "summary": "Türkiye Cimnastik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-01T08:56:36+00:00",
-  "first_seen_at": "2026-09-01T08:56:36+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "db4e91c4883a359e",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 342 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-08-31T19:58:53+00:00",
-  "first_seen_at": "2026-08-31T19:58:53+00:00",
   "source": "takvim-html"
  }
 ]

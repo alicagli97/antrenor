@@ -1,5 +1,74 @@
 [
  {
+  "id": "6057cf90290e0a5b",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "İstatistik Bilgilendirme Semineri Duyurusu",
+  "url": "https://tvf.org.tr/icerik/istatistik-bilgilendirme-semineri-duyurusu",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [],
+  "published_at": "2026-09-21T14:01:53+00:00",
+  "first_seen_at": "2026-09-21T14:01:53+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f28af4d1076c1be4",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "Savate 1. Kademe Yardımcı Antrenör Yetiştirme Kursu / 14-18 Ekim 2026 / Çankırı",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-482-savate-1.-kademe-yardimci-antrenor-yetistirme-kursu-14-18-ekim-2026-cankiri",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-21T14:01:53+00:00",
+  "first_seen_at": "2026-09-21T14:01:53+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d510184ec588df6f",
+  "federation": "gormeengelliler",
+  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "federation_short": "GESF",
+  "title": "Futbol-futsal 3. Kademe Kıdemli Antrenör Yetiştirme Kursu Duyurusu",
+  "url": "https://www.gesf.org.tr/haber/futbol-futsal-3-kademe-kidemli-antrenor-yetistirme-kursu-duyurusu-101",
+  "summary": "duyuru Futbol-Futsal 3. Kademe kıdemli antrenör yetiştirme kursu 19- tarihleri arasında Ankara’da yapılacaktır.Kurs Ön Kayıt tarihleri19- Kurs Başlangıç Bitiş Tarihi28 Eylül-16 Ekim 2026 ANKARAKurs Başvuru Ücreti5200 TLBaşvuru 21.09.2026 8 görüntülenme duyuru GOLBOL 3. KADEME KIDEMLİ ANTRENÖR YETİŞTİRME KURSU DUYURUSU GOLBOL 3. KADEME KIDEMLİ ANTRENÖR YETİŞTİRME KURSU DUYURUSUGolbol 3. Kademe kıde",
+  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1789989326_6355b47b.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-21T14:01:53+00:00",
+  "first_seen_at": "2026-09-21T14:01:53+00:00",
+  "source": "html"
+ },
+ {
+  "id": "e64bf70d41a4b446",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Rafting 2. Kademe Temel Antrenör Kursu Uygulama Eğitimi Tamamlandı",
+  "url": "https://kano.org.tr/rafting-2-kademe-temel-antrenor-kursu-uygulama-egitimi-tamamlandi-1",
+  "summary": "Duyuru ve Etkinlikler Anasayfa Duyuru ve Etkinlikler RAFTİNG 2. KADEME TEMEL ANTRENÖR KURSU UYGULAMA EĞİTİMİ TAMAMLANDI 21 Eylül 2026, Pazartesi Paylaş × Kapat RAFTİNG 2. KADEME TEMEL ANTRENÖR KURSU UYGULAMA EĞİTİMİ TAMAMLANDI 12-16 Eylül 2026 tarihleri arasında Tunceli'de gerçekleştirilen Uygulama Eğitimi tamamlandı. Federasyonumuzun 2026 yılı Eğitim Faaliyetleri programında yer alan ve 12-16 Eylül 2026 tarihleri arasında Tunceli ilinde gerçekleştirilen Rafting 2. Kademe Temel Antrenör Kursu Uygulama Eğitimi, kursiyerlerin katılımı ile tamamlandı. Kurs Sınav Sonuçları için TIKLAYINIZ. Sınav S",
+  "image": "https://kano.org.tr/uploads/rafting-duyuru-.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-21T00:00:00+00:00",
+  "first_seen_at": "2026-09-21T14:01:53+00:00",
+  "source": "html"
+ },
+ {
   "id": "ab7e9b38647e74f1",
   "federation": "sualti",
   "federation_name": "Türkiye Sualtı Sporları Federasyonu",
@@ -2528,43 +2597,6 @@
   ],
   "published_at": "2026-09-01T10:00:41+00:00",
   "first_seen_at": "2026-09-01T10:00:41+00:00",
-  "source": "html"
- },
- {
-  "id": "9f96b3b5fc2b5830",
-  "federation": "basketbol",
-  "federation_name": "Türkiye Basketbol Federasyonu",
-  "federation_short": "TBF",
-  "title": "Bölgesel Antrenör Gelişim Semineri İzmir’de Düzenlendi 01.09.2026",
-  "url": "https://www.tbf.org.tr/haber/bolgesel-antrenor-gelisim-semineri-izmir-de-duzenlendi-2026-09-01",
-  "summary": "2026 yılı Türkiye Basketbol Federasyonu Eğitim Kurulu Faaliyet Programında yer alan Bölgesel Antrenör Gelişim Semineri, 29-30 Ağustos tarihlerinde Bornova Belediyesi Atatürk Kompleksinde düzenlendi. Devamını Gör",
-  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/29dbdc40930f431b91a61d4825e02d03_1.JPG",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-09-01T00:00:00+00:00",
-  "first_seen_at": "2026-09-03T06:00:25+00:00",
-  "source": "html"
- },
- {
-  "id": "8ad383e4b801b469",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» 2026 Yılı Hakem Geç Vize İşlemleri hk.",
-  "url": "https://www.eskrim.org.tr/2026-yili-hakem-gec-vize-islemleri-hk-2622.html",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "vize",
-   "hakem",
-   "transfer"
-  ],
-  "published_at": "2026-08-31T20:00:36+00:00",
-  "first_seen_at": "2026-08-31T20:00:36+00:00",
   "source": "html"
  }
 ]

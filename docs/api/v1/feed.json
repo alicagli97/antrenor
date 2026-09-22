@@ -1,5 +1,111 @@
 [
  {
+  "id": "2ca4a9a315a3de9f",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "UEFA'dan Gamze Durmuş Pakkan'a Görev",
+  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51408",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-22T18:49:47+00:00",
+  "first_seen_at": "2026-09-22T18:49:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "2b6370d79b525941",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» Önemli Duyuru! 2026-2027 Eğitim Öğretim Yılı Sem Eskrim Alım Başvuruları Hk.",
+  "url": "https://www.eskrim.org.tr/onemli-duyuru-2026-2027-egitim-ogretim-yili-sem-eskrim-alim-basvurulari-hk-2654.html",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "burs"
+  ],
+  "published_at": "2026-09-22T18:49:47+00:00",
+  "first_seen_at": "2026-09-22T18:49:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "8c4cfb5130c1fdd6",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-22T18:47:54+00:00",
+  "first_seen_at": "2026-09-22T18:47:54+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "3addf7cbd2a25614",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-22T18:47:40+00:00",
+  "first_seen_at": "2026-09-22T18:47:40+00:00",
+  "source": "takvim-excel"
+ },
+ {
+  "id": "e3076bea059e46c7",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "Olimpiyat Oyunları Sporcu Havuzu ile 2027 Klasik Yay Milli Takım Aday Sporcularının Belirlenmesi ve Makaralı Yay Milli Takım Seçme Yarışması",
+  "url": "https://www.okculuk.org.tr/2028-olimpiyat-oyunlari-sporcu-havuzu-ile-2027-klasik-yay-milli-takim-aday-sporcularinin-belirlenmesi-ve-makarali-yay-milli-takim-secme-yarismasi/",
+  "summary": "Federasyonumuzun 2026 Yılı Faaliyet Programı ve 2028 Olimpiyat Oyunları Hazırlık Programı kapsamında, 2028 Olimpiyat Oyunları Sporcu Havuzu ile 2027 Klasik Yay Milli Takım Aday Sporcularının belirlenmesi ve Makaralı Yay Milli Takım seçmeleri amacıyla düzenlenecek yarışma, 01–03 Ekim 2026 tarihleri arasında Antalya 100. Yıl Okçuluk Tesisleri’nde gerçekleştirilecektir. Türkiye Okçuluk Federasyonu Milli Takımlar Seçme Talimatı ile 2027 […]",
+  "image": "https://www.okculuk.org.tr/wp-content/uploads/2026/09/DSF3543.jpg",
+  "category": "duyuru",
+  "tags": [
+   "mevzuat",
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-09-22T15:22:53+00:00",
+  "first_seen_at": "2026-09-22T18:49:47+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "4539e401b82b6c0f",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "2028 Paralimpik Oyunları Sporcu Havuzu ile 2027 Para Okçuluk Milli Takım Seçme Yarışması",
+  "url": "https://www.okculuk.org.tr/2028-paralimpik-oyunlari-sporcu-havuzu-ile-2027-para-okculuk-milli-takim-secme-yarismasi/",
+  "summary": "Federasyonumuzun 2026 Yılı Faaliyet Programı ve 2028 Paralimpik Oyunları Hazırlık Programı kapsamında, 2028 Paralimpik Oyunları Sporcu Havuzu ile 2027 Para – Okçuluk Milli Takım seçmeleri amacıyla düzenlenecek yarışma, 02 – 05 Aralık 2026 tarihleri arasında Samsun Okçuluk Tesisleri’nde gerçekleştirilecektir. Türkiye Okçuluk Federasyonu Milli Takımlar Seçme Talimatı ile 2027 Para – Okçuluk Milli Takım Seçme Sistemi […]",
+  "image": "https://www.okculuk.org.tr/wp-content/uploads/2026/09/IMG_0323.jpg",
+  "category": "duyuru",
+  "tags": [
+   "mevzuat",
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-09-22T15:21:00+00:00",
+  "first_seen_at": "2026-09-22T18:49:47+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "6f61470ae61f9c4c",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -2181,6 +2287,87 @@
   "source": "wp_json"
  },
  {
+  "id": "a75917af47672d46",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Hukuk Müşavirliği -Sevkler- Detay TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1294&ftxtID=51390",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-22T00:00:00+00:00",
+  "first_seen_at": "2026-09-22T18:49:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "40764b92173e359e",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "TBF Duyuru No: 130 /2026 Olağan Mali Genel Kurul Toplantı Tutanağı",
+  "url": "https://binicilik.org.tr/duyurular/tbf-duyuru-no-130-2026-olagan-mali-genel-kurul-toplanti-tutanagi",
+  "summary": "Duyurular TBF DUYURU NO: 130 /2026 OLAĞAN MALİ GENEL KURUL TOPLANTI TUTANAĞI 22 Eylül 2026 - Salı 21 Eylül 2026 tarihinde Ankara'da gerçekleşen Olağan Mali Genel Kurul toplantı tutanağı ekte yer almaktadır. Saygılarımızla TBF Ekler (PDF) PDF yükleniyor... Diğer Duyurular TBF DUYURU NO: 129 /2026 BOR BİNİCİLİK KULÜBÜ KATEGORİ BELGESİ SINAVI 22 Eylül 2026 - Salı TBF DUYURU NO : 128 / 2026 ANTRENÖR TEMEL EĞİTİM KURSU 2026/3 BAŞVURU BİLGİLENDİRME 21 Eylül 2026 - Pazartesi TBF DUYURU NO : 127 / 2026 PORTAL ÜYELİĞİ 18 Eylül 2026 - Cuma TBF DUYURU NO: 126/2026 ÜÇ GÜNLÜK YARIŞMA BALKAN KUPASI MİLLİ TA",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-22T00:00:00+00:00",
+  "first_seen_at": "2026-09-22T18:49:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "952515809e7561cb",
+  "federation": "yelken",
+  "federation_name": "Türkiye Yelken Federasyonu",
+  "federation_short": "TYF",
+  "title": "8. Mali Genel Kurul Toplantı Yeri Değişikliği Duyurusu",
+  "url": "https://www.tyf.org.tr/duyurular/bilgilendirme/8-mali-genel-kurul-toplanti-yeri-degisikligi-duyurusu/315777/",
+  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular 8. Mali Genel Kurul Toplantı Yeri Değişikliği Duyurusu 8. Mali Genel Kurul Toplantı Yeri Değişikliği Duyurusu 22.09.2026 Duyurular 105 Paylaş Tweetle Türkiye Yelken Federasyonu 8. Mali Genel Kurul Toplantı Yeri Değişikliği Duyurusu Değerli Kulüplerimiz, Türkiye Yelken Federasyonu’nun 8. Mali Genel Kurulu ",
+  "image": "https://portal.tyf.org.tr/content/images/pageimages/image-not-found.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-22T00:00:00+00:00",
+  "first_seen_at": "2026-09-22T18:49:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "63fa3b6c7e389b5d",
+  "federation": "gelenekselsporlar",
+  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
+  "federation_short": "GSDF",
+  "title": "Onikitaş Oyunu Aday Hakem Kursu İstanbul Sınav Sonuçları-Eylül 2026",
+  "url": "https://www.gsdf.gov.tr/tr/haber/onikitas-oyunu-aday-hakem-kursu-istanbul-sinav-sonuclari-eylul-2026",
+  "summary": "",
+  "image": "https://www.gsdf.gov.tr/uploads/default/blog/6044026e368b5642bc74a03391618304_mid_r.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-22T00:00:00+00:00",
+  "first_seen_at": "2026-09-22T18:49:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "1494de4e9b05c9dc",
+  "federation": "gelenekselsporlar",
+  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
+  "federation_short": "GSDF",
+  "title": "Mangala Oyunu Aday Hakem Kursu İstanbul Sınav Sonuçları-Eylül 2026",
+  "url": "https://www.gsdf.gov.tr/tr/haber/mangala-oyunu-aday-hakem-kursu-istanbul-sinav-sonuclari-eylul-2026",
+  "summary": "",
+  "image": "https://www.gsdf.gov.tr/uploads/default/blog/829c59d56485383660147ad8c7f0e683_mid_r.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-22T00:00:00+00:00",
+  "first_seen_at": "2026-09-22T18:49:47+00:00",
+  "source": "html"
+ },
+ {
   "id": "b1e0909f6b6df526",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -2823,6 +3010,23 @@
   "published_at": "2026-09-21T07:10:31+00:00",
   "first_seen_at": "2026-09-21T14:01:53+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "c0f58d8361fca00a",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Gelişim Ligi ve Takım Şampiyonaları Çalıştayı Ankara’da Gerçekleştirildi",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/587",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Türkiye İş Bankası sponsorluğunda Türkiye Tenis Federasyonu tarafından düzenlenen Gelişim Ligi ve Takım Şampiyonaları Çalıştayı, 20– tarihlerinde The Green Park Hotel Ankara’da gerçekleştirildi. Türkiye’nin 38 ilinden; Gelişim Ligi, 18 Yaş Altı Türkiy... 22 Eylül 2026 Detaylar Yeni Eğitim Yılına Haydi Tenise Projemizle Sahada Başladık Türkiye Tenis Federasyo",
+  "image": "http://www.ttf.org.tr/public/news_post/6ab2cb5c74a6c_1790102364.HEIC",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-21T00:00:00+00:00",
+  "first_seen_at": "2026-09-22T18:49:47+00:00",
+  "source": "html"
  },
  {
   "id": "acfeb9dc658d9266",
@@ -4183,18 +4387,18 @@
   "source": "takvim-pdf"
  },
  {
-  "id": "f341c47a39d0d964",
+  "id": "8ebbd68e2ac62876",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
   "federation_short": "TİF",
   "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2026",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-3",
   "summary": "18 Eyl TÜRK JOTA'SI FAALİYETİ 18 Eyl 10 Eyl 10 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST TİFAKE Destek Faaliyeti 9 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST İzci Kampı 9 Eylül 2026 02 Eyl 2 Eylül 2026 18 Ağu BAŞSAĞLIĞI Giresun ili izci liderlerimizden İsmail ŞEYRANLIOĞLU'nun annesi Kezban ŞEYRANLIOĞLU ve ağabeyi Demircan ŞEYRANLIOĞLU, Hakkın Rahmetine kavuşmuşlardır. Merhum",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-09-18T00:00:00+00:00",
-  "first_seen_at": "2026-09-22T14:44:34+00:00",
+  "first_seen_at": "2026-09-22T18:49:47+00:00",
   "source": "html"
  },
  {
@@ -4914,204 +5118,5 @@
   "published_at": "2026-09-17T16:54:12+00:00",
   "first_seen_at": "2026-09-17T16:54:12+00:00",
   "source": "html"
- },
- {
-  "id": "88a80918eda7bee1",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» 2026 - 2027 Sezonu Sem Duyurusu",
-  "url": "https://www.eskrim.org.tr/2026-2027-sezonu-sem-duyurusu-2648.html",
-  "summary": "» İstanbul Veteranlar Türkiye Şampiyonası Müsabaka Programı » 09-17 Ekim Tiflis Veteranlar Dünya Şampiyonası Epe & Flöre & Kılıç Kafile Listeleri Hk. » 03-04 Ekim Selanik U17 Yıldızlar Circuit Turnuvası Epe Kafile Listesi Hk. » (Kesin) 02-04 Ekim Yıldızlar Circuit İstanbul Kılıç Kafile Listeleri Hk. » Hakem Kursu Hk. » 2026-2027 Sezonu İtibariyle Uygulanacak Olan Güncel “Mücadele Etmeme İsteği” (P",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-17T16:54:12+00:00",
-  "first_seen_at": "2026-09-17T16:54:12+00:00",
-  "source": "html"
- },
- {
-  "id": "e7a98fccd2ef5fbc",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» 2026-2027 Sezonu İtibariyle Uygulanacak Olan Güncel “Mücadele Etmeme İsteği” (Passivité) Kuralı Hk.",
-  "url": "https://www.eskrim.org.tr/2026-2027-sezonu-itibariyle-uygulanacak-olan-guncel-mucadele-etmeme-istegi-passivite-kurali-hk-2623.html",
-  "summary": "» 2026 - 2027 Sezonu Sem Duyurusu » İstanbul Veteranlar Türkiye Şampiyonası Müsabaka Programı » 09-17 Ekim Tiflis Veteranlar Dünya Şampiyonası Epe & Flöre & Kılıç Kafile Listeleri Hk. » 03-04 Ekim Selanik U17 Yıldızlar Circuit Turnuvası Epe Kafile Listesi Hk. » (Kesin) 02-04 Ekim Yıldızlar Circuit İstanbul Kılıç Kafile Listeleri Hk. » Hakem Kursu Hk. » 2026 Yılı Hakem Geç Vize İşlemleri hk. » Spor",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-17T16:54:12+00:00",
-  "first_seen_at": "2026-09-17T16:54:12+00:00",
-  "source": "html"
- },
- {
-  "id": "c8501cd5b4badea9",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Kulüpler Kurulu",
-  "url": "https://www.tsf.org.tr/kurullar/kulupler-kurulu",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-17T16:54:12+00:00",
-  "first_seen_at": "2026-09-17T16:54:12+00:00",
-  "source": "html"
- },
- {
-  "id": "5571e6bc134cfc4b",
-  "federation": "pentatlon",
-  "federation_name": "Türkiye Modern Pentatlon Federasyonu",
-  "federation_short": "TMPF",
-  "title": "Triathle Dünya Şampiyonası Aday Milli Takım Kadrosu",
-  "url": "https://tmpf.org.tr/triathle-dunya-sampiyonasi-aday-milli-takim-kadrosu/",
-  "summary": "2026 yılında gerçekleştirilen Triathle Ulusal Sıralama yarışmaları sonucunda belirlenen Triathle Dünya Şampiyonası Aday Millî Takım Kadrosu ekte yer almaktadır. Aday Milli Takım Kadrosu için tıklayınız. Örnek […]",
-  "image": "https://tmpf.org.tr/wp-content/uploads/2026/09/triathle-dunya-sampiyonasi-aday-milli-takim-kadrosu-kapak.webp",
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "milli_takim"
-  ],
-  "published_at": "2026-09-17T16:49:56+00:00",
-  "first_seen_at": "2026-09-17T16:54:12+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "3a55da6069d3e0be",
-  "federation": "bisiklet",
-  "federation_name": "Türkiye Bisiklet Federasyonu",
-  "federation_short": "TBF",
-  "title": "Türkiye Bisiklet Federasyonu 7.Mali Genel Kurulu / 2024-2025-30.06.2026 Denetim Kurulu Raporları, 2027 ve 2028 Yılı Tahmini Gelir ve Giderleri Bütçe Tasarısı, 26.09.2024-30.06.2026 Tarihleri Arası Faaliyet Raporu Hakkında Duyuru",
-  "url": "https://bisiklet.org.tr/turkiye-bisiklet-federasyonu-7-mali-genel-kurulu-2024-2025-30-06-2026-denetim-kurulu-raporlari-2027-ve-2028-yili-tahmini-gelir-ve-giderleri-butce-tasarisi-26-09-2024-30-06-2026-tarihleri-arasi-faa/",
-  "summary": "Türkiye Bisiklet Federasyonu 7.Mali Genel Kurulu 16 Ekim 2026 Cuma günü saat 11.00’de The Green Park Hotel (Kızılırmak Mahallesi 1443 Cad. No: 39 Çukurambar/ÇANKAYA) adresinde aşağıdaki gündem maddelerini görüşmek üzere toplanacaktır. Bu toplantıda yeterli çoğunluk sağlanamaması halinde bir sonraki toplantı çoğunluk aranmaksızın 17 Ekim 2026 Cumartesi günü aynı yer ve saatte yapılacaktır. Söz konusu Türkiye…",
-  "image": "https://bisiklet.org.tr/wp-content/uploads/2026/01/1920x1080-Slider-Logo-Gorsel.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-17T14:07:32+00:00",
-  "first_seen_at": "2026-09-17T16:54:12+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "f35f4c868deadd22",
-  "federation": "halter",
-  "federation_name": "Türkiye Halter Federasyonu",
-  "federation_short": "THF",
-  "title": "Genç Kulüpler Türkiye Şampiyonası Açılış Seramonisi Gerçekleşti",
-  "url": "https://halter.gov.tr/genc-kulupler-turkiye-sampiyonasi-acilis-seramonisi-gerceklesti/",
-  "summary": "Türkiye Halter Federasyonu’nun 2026 yılı faaliyet programında yer alan Gençler Kulüpler Türkiye Halter Şampiyonası, Konya’da devam ediyor. Türkiye’nin dört bir yanından 550 sporcunun katılımıyla Konya Karatay Spor Salonu’nda düzenlenen şampiyonada genç sporcular, dereceye girebilmek için kıyasıya mücadele ediyor. AÇILIŞ TÖRENİ GERÇEKLEŞTİRİLDİ Şampiyonanın açılış töreni, protokol üyeleri, sporcular, antrenörler, kulüp temsilcileri ve davetlilerin katılımıyla gerçekleştirildi. Açılış […]",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "antrenor",
-   "musabaka",
-   "kulup"
-  ],
-  "published_at": "2026-09-17T13:34:12+00:00",
-  "first_seen_at": "2026-09-17T16:54:12+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "df51626e4913e1d8",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "ANTRENÖR KURSU",
-  "url": "https://muaythai.gov.tr/2026/09/17/antrenor-kursu-4/",
-  "summary": "MUAYTHAİ 2.KADEME TEMEL ANTRENÖR KURSU23-28 KASIM 2026 / İSTANBUL BAŞVURU TARİHLERİ: 10-17 KASIM 2026 İlgili Yönetmelik gereği bu",
-  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/09/antrenor-kursu-istanbul.png",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs",
-   "mevzuat",
-   "burs"
-  ],
-  "published_at": "2026-09-17T12:59:59+00:00",
-  "first_seen_at": "2026-09-17T16:54:12+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "922c1cfd0c6dc2c2",
-  "federation": "kayak",
-  "federation_name": "Türkiye Kayak Federasyonu",
-  "federation_short": "TKF",
-  "title": "Hakem Gelişim Semineri Duyurusu (güncellenmiştir)",
-  "url": "https://tkf.org.tr/2026/09/17/hakem-gelisim-semineri-duyurusu-guncellenmistir/",
-  "summary": "HAKEM GELİŞİM SEMİNERİ DUYURUSU (GÜNCELLENMİŞTİR)Federasyonumuz tarafından Hakem Gelişim Seminerleri düzenlenecektir. Alp Disiplini, Kayaklı Koşu ve Snowboard branşında hakem",
-  "image": "https://tkf.org.tr/wp-content/uploads/2024/04/onemli-duyuru_2.jpg",
-  "category": "kurs",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-09-17T12:47:03+00:00",
-  "first_seen_at": "2026-09-17T16:54:12+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "8f291b1c661b7a8b",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Beşiktaş, Marsilya Karşısında",
-  "url": "https://www.tff.org/default.aspx?pageID=267&ftxtID=51359",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-17T11:34:47+00:00",
-  "first_seen_at": "2026-09-17T11:34:47+00:00",
-  "source": "html"
- },
- {
-  "id": "ea0f8534f802f23c",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Tekvandoda 1 bronz madalya!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303055/tekvandoda-1-bronz-madalya.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-17T11:34:47+00:00",
-  "first_seen_at": "2026-09-17T11:34:47+00:00",
-  "source": "html"
- },
- {
-  "id": "5979b4e338b117b2",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Kuraşta 50 madalya!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303060/kurasta-50-madalya.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-17T11:34:47+00:00",
-  "first_seen_at": "2026-09-17T11:34:47+00:00",
-  "source": "html"
- },
- {
-  "id": "17e956f8e1f6252b",
-  "federation": "bisiklet",
-  "federation_name": "Türkiye Bisiklet Federasyonu",
-  "federation_short": "TBF",
-  "title": "DAĞ BİSİKLETİ | Yeşilay Dağ Bisikleti Türkiye Şampiyonası – 26-27 Eylül – Manisa/Akhisar",
-  "url": "https://bisiklet.org.tr/dag-bisikleti-yesilay-dag-bisikleti-turkiye-sampiyonasi-26-27-eylul-manisa-akhisar/",
-  "summary": "Federasyonumuzun 2026 yılı faaliyet programında yer alan Yeşilay Dağ Bisikleti Türkiye Şampiyonası Final Yarışı &Yıldızlar Short Track Yarışı26 – 27 Eylül 2026 tarihlerinde Akhisar/Manisa gerçekleştirilecektir. Yarışa ilişkin detaylı bilgiler ekte yer almaktadır.",
-  "image": "https://bisiklet.org.tr/wp-content/uploads/2026/01/2150815939.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-17T10:52:01+00:00",
-  "first_seen_at": "2026-09-17T11:34:47+00:00",
-  "source": "wp_json"
  }
 ]

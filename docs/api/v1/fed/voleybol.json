@@ -1,5 +1,23 @@
 [
  {
+  "id": "3addf7cbd2a25614",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-22T18:47:40+00:00",
+  "first_seen_at": "2026-09-22T18:47:40+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "6c5edeb79cdbe0e0",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -1049,24 +1067,6 @@
   ],
   "published_at": "2026-09-14T09:15:46+00:00",
   "first_seen_at": "2026-09-14T09:15:46+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "ed6d469aea936059",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Mevzuat güncellendi: Erasmus+ Sport4Rules Projesinin Final Konferansı Düzenlenecek 3 yıl önce",
-  "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesinin-final-konferansi-duzenlenecek",
-  "summary": "Türkiye Voleybol Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-13T08:32:49+00:00",
-  "first_seen_at": "2026-09-13T08:32:49+00:00",
   "source": "mevzuat"
  }
 ]

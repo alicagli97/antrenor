@@ -1,5 +1,23 @@
 [
  {
+  "id": "0f799ae95ece71b8",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-22T22:00:39+00:00",
+  "first_seen_at": "2026-09-22T22:00:39+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "2b6370d79b525941",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -1048,23 +1066,5 @@
   "published_at": "2026-09-16T13:28:28+00:00",
   "first_seen_at": "2026-09-16T13:28:28+00:00",
   "source": "html"
- },
- {
-  "id": "11c1616e0d77173e",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Mevzuat güncellendi: » Yıldızlar U17, Gençler ve Büyükler Epe ve Flöre Türkiye Şampiyonası Talimatı - 16 - 21 Kasım 2026 Konya",
-  "url": "https://www.eskrim.org.tr/yildizlar-u17-gencler-ve-buyukler-epe-ve-flore-turkiye-sampiyonasi-talimati-16-21-kasim-2026-konya-2634.html",
-  "summary": "Türkiye Eskrim Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-16T08:52:10+00:00",
-  "first_seen_at": "2026-09-16T08:52:10+00:00",
-  "source": "mevzuat"
  }
 ]

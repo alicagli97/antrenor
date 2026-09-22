@@ -1,5 +1,41 @@
 [
  {
+  "id": "df9d0588a6dc418a",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "Tohm Sporcu Alım Başvuru Duyurusu",
+  "url": "https://www.okculuk.org.tr/tohm-sporcu-alim-basvuru-duyurusu/",
+  "summary": "Sporcu Yetiştirme Dairesi Başkanlığı ve Türkiye Okçuluk Federasyonu tarafından, 2026 yılı Türkiye Olimpik Hazırlık Merkezleri (TOHM) sporcu alım kriterleri belirlenmiştir. Belirlenen kriterler doğrultusunda, federasyonumuz Antalya’daki Türkiye Olimpik Hazırlık Merkezi’ne (TOHM) yeni dönem sporcu alımı gerçekleştirilecektir. Türkiye Okçuluk Federasyonu TOHM Sporcu Seçme Kriterleri ekli dosyada ilgililerin dikkatine sunulmuştur. Başvuru TarihleriBaşvurular, 1 – 9 Ekim 2026 tarihleri […]",
+  "image": "https://www.okculuk.org.tr/wp-content/uploads/2021/12/duyuru-tof-1.jpg",
+  "category": "duyuru",
+  "tags": [
+   "milli_takim",
+   "burs"
+  ],
+  "published_at": "2026-09-22T09:36:26+00:00",
+  "first_seen_at": "2026-09-22T09:54:24+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "6d9fd5a8f5084c3a",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "Mevzuat güncellendi: Talimatlar",
+  "url": "https://www.okculuk.org.tr/federasyon/talimatlar/",
+  "summary": "Türkiye Okçuluk Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-22T08:51:23+00:00",
+  "first_seen_at": "2026-09-22T08:51:23+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "6d9fd5a8f5084c3a",
   "federation": "okculuk",
   "federation_name": "Türkiye Okçuluk Federasyonu",
@@ -617,24 +653,6 @@
   ],
   "published_at": "2026-09-03T08:19:17+00:00",
   "first_seen_at": "2026-09-03T08:19:17+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "6d9fd5a8f5084c3a",
-  "federation": "okculuk",
-  "federation_name": "Türkiye Okçuluk Federasyonu",
-  "federation_short": "TOF",
-  "title": "Mevzuat güncellendi: Talimatlar",
-  "url": "https://www.okculuk.org.tr/federasyon/talimatlar/",
-  "summary": "Türkiye Okçuluk Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-02T08:09:37+00:00",
-  "first_seen_at": "2026-09-02T08:09:37+00:00",
   "source": "mevzuat"
  }
 ]

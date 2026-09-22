@@ -1,5 +1,20 @@
 [
  {
+  "id": "a07b16e5d2df837e",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Kanoda 5 madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303145/kanoda-5-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-09-22T09:54:24+00:00",
+  "first_seen_at": "2026-09-22T09:54:24+00:00",
+  "source": "html"
+ },
+ {
   "id": "2401b181ebd54e6c",
   "federation": "tenis",
   "federation_name": "Türkiye Tenis Federasyonu",
@@ -611,66 +626,6 @@
   ],
   "published_at": "2026-09-02T21:34:19+00:00",
   "first_seen_at": "2026-09-02T21:47:50+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "659dcbc1c5ef2d86",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Team Türkiye Taranto 2026’nın On İkinci Gününde 18 Madalya Kazandı",
-  "url": "https://olimpiyat.org.tr/Haber-Detay/team-turkiye-taranto-2026nin-on-ikinci-gununde-18-madalya-kazandi/12082",
-  "summary": "Taranto 2026 Akdeniz Oyunları’nda 12’inci yarışma günü tamamlandı. Team Türkiye, 2 Eylül’de 3 altın, 3 gümüş, 12 bronz olmak üzere toplam 18 madalya kazandı. Devamını Oku",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-02T00:00:00+00:00",
-  "first_seen_at": "2026-09-12T14:04:15+00:00",
-  "source": "html"
- },
- {
-  "id": "e6deb6a6ee9fa621",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Team Türkiye Taranto 2026’nın 11’inci Gününde 10 Madalya Kazandı",
-  "url": "https://olimpiyat.org.tr/Haber-Detay/team-turkiye-taranto-2026nin-11inci-gununde-10-madalya-kazandi/12080",
-  "summary": "Team Türkiye, 1 Eylül’de 1 altın, 7 gümüş ve 2 bronz olmak üzere toplam 10 madalya kazandı. Halterde Yusuf Fehmi Genç altın madalyaya ulaşırken; binicilik, karate, kürek ve halterden gümüş ve bronz madalyalar geldi. Devamını Oku",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-02T00:00:00+00:00",
-  "first_seen_at": "2026-09-12T14:04:15+00:00",
-  "source": "html"
- },
- {
-  "id": "c68d733630d02697",
-  "federation": "karate",
-  "federation_name": "Türkiye Karate Federasyonu",
-  "federation_short": "TKF",
-  "title": "Akdeniz Oyunları Toranto'dan 6 Madalya!",
-  "url": "https://karate.gov.tr/blog_detay.php?id=88",
-  "summary": "HABER Uluslararası Haberler XX. Akdeniz Oyunları – Taranto 2026’da Karate Milli Takımımız, organizasyonu 3 gümüş ve 3 bronz olmak üzere toplam 6 madalya ile tamamladı.... DEVAMINI OKU",
-  "image": "https://karate.gov.tr/uploads/blog/blog_1788354071_765.webp",
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-02T00:00:00+00:00",
-  "first_seen_at": "2026-09-02T14:27:16+00:00",
-  "source": "html"
- },
- {
-  "id": "980facb48b0b999f",
-  "federation": "halter",
-  "federation_name": "Türkiye Halter Federasyonu",
-  "federation_short": "THF",
-  "title": "Taranto’da İyi Başladık Rekor ve 5 Madalya!",
-  "url": "https://halter.gov.tr/tarantoda-iyi-basladik-rekor-ve-5-madalya/",
-  "summary": "İtalya’nın Taranto kentinde devam eden 20.Akdeniz Oyunları’nda mücadele eden milli haltercilerimiz, organizasyonun ilk günlerinde elde ettikleri başarılı sonuçlarla Türkiye’ye toplam 5 madalya kazandırdı. Kadınlar 53 kiloda mücadele eden Cansel Özkan, koparmada 91 kiloluk kaldırışıyla Akdeniz Oyunları rekoru kırarak altın madalyanın sahibi oldu. Milli sporcumuz silkmede ise 101 kiloluk derecesiyle bronz madalya kazandı. Cansel Özkan, böylece […]",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-01T12:52:20+00:00",
-  "first_seen_at": "2026-09-01T14:47:46+00:00",
   "source": "wp_json"
  }
 ]

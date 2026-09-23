@@ -1,5 +1,22 @@
 [
  {
+  "id": "18c215dca1a1222e",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "İlk EHF Antrenörler Forumu İçin Kayıtlar Başladı",
+  "url": "https://thf.org.tr/haber/ilk-ehf-antrenorler-forumu-icin-kayitlar-basladi",
+  "summary": "İlk kez düzenlenecek EHF Antrenörler Forumu için kayıtlar başladı. Forum, hentbol antrenörlerini bir araya getirerek sporun gündemindeki önemli konular hakkında bilgi ve deneyim paylaşımı için önemli bir fırsat sunacak. Organizasyon, 22-23 Şubat 2027 tarihlerinde Avusturya’nın Viyana kentinde gerçekleştirilecek. EHF Antrenörler Forumu 2027, Avrupa hentbol camiasının önde gelen isimlerini ve uzmanlarını bir araya getirerek hentbol antrenörlüğünün güncel sorunlarını ele alacak. Her seviyede antrenörlüğün geleceğinden kadın ve erkek takımlarını çalıştırmanın benzerlik ve farklılıklarına kadar bir",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-09-23T21:56:22+00:00",
+  "first_seen_at": "2026-09-23T20:16:21+00:00",
+  "source": "api"
+ },
+ {
   "id": "ef73a51823e37e79",
   "federation": "bedenselengelliler",
   "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
@@ -3771,25 +3788,6 @@
   ],
   "published_at": "2026-09-20T21:29:08+00:00",
   "first_seen_at": "2026-09-20T21:29:08+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "70129fd74c805dd7",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşların Denetimi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41031&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-20T08:55:36+00:00",
-  "first_seen_at": "2026-09-20T08:55:36+00:00",
   "source": "mevzuat"
  }
 ]

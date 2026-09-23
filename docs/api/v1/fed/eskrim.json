@@ -1,5 +1,23 @@
 [
  {
+  "id": "6a17094245005e87",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-23T16:48:05+00:00",
+  "first_seen_at": "2026-09-23T16:48:05+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "9a19e4c4c01d557a",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -1048,24 +1066,6 @@
   ],
   "published_at": "2026-09-17T08:55:44+00:00",
   "first_seen_at": "2026-09-17T08:55:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "1959c757e490925b",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Mevzuat güncellendi: » Büyükler Kılıç Federasyon Kupası Talimatı - 29 Kasım 2026 Ankara",
-  "url": "https://www.eskrim.org.tr/buyukler-kilic-federasyon-kupasi-talimati-29-kasim-2026-ankara-2636.html",
-  "summary": "Türkiye Eskrim Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-17T08:55:43+00:00",
-  "first_seen_at": "2026-09-17T08:55:43+00:00",
   "source": "mevzuat"
  }
 ]

@@ -6,8 +6,32 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "a4602c3fa6d09009",
- "event_count": 371,
+ "event_count": 374,
  "events": [
+  {
+   "ad": "Minik Kadınlar Kulüplerarası Türkiye Şampiyonası",
+   "tarih": "2026-11-20",
+   "tarih_metni": "2026.11.22 20.11.2026 - 22.11.2026",
+   "yer": "İstanbul",
+   "brans": "Yarışma",
+   "satir": "2026 | Yarışma | Minik Kadınlar Kulüplerarası Türkiye Şampiyonası | Kadın Artistik Cimnastik | İstanbul | 2026.11.22 20.11.2026 - 22.11.2026 | İncele"
+  },
+  {
+   "ad": "Küçük Erkekler Kulüplerarası 2. Etap / Minik Erkekler Kulüplerarası Türkiye Şampiyonaları",
+   "tarih": "2026-10-23",
+   "tarih_metni": "2026.10.25 23.10.2026 - 25.10.2026",
+   "yer": "İstanbul",
+   "brans": "Yarışma",
+   "satir": "2026 | Yarışma | Küçük Erkekler Kulüplerarası 2. Etap / Minik Erkekler Kulüplerarası Türkiye Şampiyonaları | Erkek Artistik Cimnastik | İstanbul | 2026.10.25 23.10.2026 - 25.10.2026 | İncele"
+  },
+  {
+   "ad": "Küçük Kadınlar Kulüplerarası 2. Etap Türkiye Şampiyonası",
+   "tarih": "2026-11-06",
+   "tarih_metni": "2026.11.08 06.11.2026 - 08.11.2026",
+   "yer": "İstanbul",
+   "brans": "Yarışma",
+   "satir": "2026 | Yarışma | Küçük Kadınlar Kulüplerarası 2. Etap Türkiye Şampiyonası | Kadın Artistik Cimnastik | İstanbul | 2026.11.08 06.11.2026 - 08.11.2026 | İncele"
+  },
   {
    "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
    "tarih": "2026-10-05",
@@ -2977,8 +3001,8 @@
    "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
   }
  ],
- "checked_at": "2026-09-23T05:52:20",
- "bekleyen_iz": null,
+ "checked_at": "2026-09-23T11:25:08",
+ "bekleyen_iz": "1f8afc6f9652ee7d",
  "changed_at": "2026-09-22T22:00:41+00:00",
  "parmak_izi": "a4602c3fa6d09009"
 }

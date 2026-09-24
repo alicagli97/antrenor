@@ -1,5 +1,22 @@
 [
  {
+  "id": "faa609556c0c1e8d",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "TGF Federasyon Kupası Talimatı (Revize Hali)",
+  "url": "https://tgf.org.tr/upload/yarisma-talimati-tgf-federasyon-kupasi-turnuvasi-2026-revize-hali_7031c8_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat"
+  ],
+  "published_at": "2026-09-24T15:00:06+00:00",
+  "first_seen_at": "2026-09-24T15:00:06+00:00",
+  "source": "html"
+ },
+ {
   "id": "a3e080522712bb1b",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -3629,25 +3646,6 @@
   ],
   "published_at": "2026-09-24T08:47:10+00:00",
   "first_seen_at": "2026-09-24T08:47:10+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "1ccc817753033b88",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "Mevzuat güncellendi: TTF Hakem Talimatı / 22.05.2026",
-  "url": "https://triatlon.org.tr/ttf-hakem-talimati.html",
-  "summary": "Türkiye Triatlon Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-24T08:47:08+00:00",
-  "first_seen_at": "2026-09-24T08:47:08+00:00",
   "source": "mevzuat"
  }
 ]

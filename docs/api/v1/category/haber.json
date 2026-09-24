@@ -1,5 +1,20 @@
 [
  {
+  "id": "6e7ce34654f7e67f",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Boksörlerimizden 2 bronz madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303187/boksorlerimizden-2-bronz-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-09-24T09:57:31+00:00",
+  "first_seen_at": "2026-09-24T09:57:31+00:00",
+  "source": "html"
+ },
+ {
   "id": "a07b16e5d2df837e",
   "federation": "shgm",
   "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
@@ -547,38 +562,6 @@
   ],
   "published_at": "2026-09-04T12:39:53+00:00",
   "first_seen_at": "2026-09-06T13:38:05+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "5a15ef84dd69982d",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Akdeniz Oyunları’nda 15 madalya kazandık!",
-  "url": "https://taf.org.tr/akdeniz-oyunlarinda-15-madalya-kazandik/",
-  "summary": "Akdeniz Oyunları’nda 15 madalya kazandık! 🇹🇷Türkiye Atletizm Milli Takımı, İtalya’nın Taranto şehrinde düzenlenen 20. Akdeniz Oyunları’nı 3 altın, 3 gümüş ve 9 bronz olmak üzere 15 madalya ile tamamladı.👏🏻 Yarışmalarda; 4x400m Erkek Bayrak Takımımız Akdeniz Oyunları ve Türkiye Rekoru, 4x100m Kadın Bayrak Takımımız Türkiye Rekoru ve Ali Kaya Akdeniz Oyunları Rekoru kırdı.🏃‍♂️🏃‍♀️ 🥇4x400m Erkek Bayrak […]",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/09/97294fc6-e9e7-41f5-bc50-1b1d80366996.jpg",
-  "category": "haber",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-03T12:53:26+00:00",
-  "first_seen_at": "2026-09-03T14:28:13+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "1d0bc44d0821dbce",
-  "federation": "halter",
-  "federation_name": "Türkiye Halter Federasyonu",
-  "federation_short": "THF",
-  "title": "Akdeniz Oyunları’nda 10 Madalya",
-  "url": "https://halter.gov.tr/akdeniz-oyunlarinda-10-madalya/",
-  "summary": "Akdeniz Oyunları’nda halter branşında mücadele eden milli sporcularımız, 2 oyunlar rekoru, 2 altın, 3 gümüş ve 5 bronz olmak üzere toplam 10 madalya kazanarak Türkiye’ye önemli bir başarı yaşattı. Akdeniz Oyunları’nda halter branşında Türkiye fırtınası esti. Milli sporcularımız, ortaya koydukları başarılı performansla organizasyonu 10 madalyayla tamamladı. Türkiye’nin altın madalyaları Cansel Özkan ve Yusuf Fehmi Genç’den […]",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-03T08:26:53+00:00",
-  "first_seen_at": "2026-09-03T09:41:21+00:00",
   "source": "wp_json"
  }
 ]

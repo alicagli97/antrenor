@@ -1,5 +1,52 @@
 [
  {
+  "id": "711fc730d34cf179",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF'den Mesajlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51423",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-24T09:57:30+00:00",
+  "first_seen_at": "2026-09-24T09:57:30+00:00",
+  "source": "html"
+ },
+ {
+  "id": "74d0f8f41d820924",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Fransa Maçı Taraftar Bilgilendirmesi",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51415",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-24T09:57:30+00:00",
+  "first_seen_at": "2026-09-24T09:57:30+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b60541fe914071ae",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Millî Takım'dan Ümit Millî Takım'a Takviye",
+  "url": "https://www.tff.org/default.aspx?pageID=628&ftxtID=51422",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-24T09:57:30+00:00",
+  "first_seen_at": "2026-09-24T09:57:30+00:00",
+  "source": "html"
+ },
+ {
   "id": "3b8aabcea23c986d",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -902,55 +949,6 @@
   "title": "UEFA'dan Hayri Çavuşoğlu'na Görev",
   "url": "https://www.tff.org/default.aspx?pageID=249&ftxtID=51358",
   "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-16T13:28:28+00:00",
-  "first_seen_at": "2026-09-16T13:28:28+00:00",
-  "source": "html"
- },
- {
-  "id": "6563133e6a9ef031",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Trendyol 1. Lig Haber Detay Sayfası TFF",
-  "url": "https://www.tff.org/default.aspx?pageID=287&ftxtID=51355",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-16T13:28:28+00:00",
-  "first_seen_at": "2026-09-16T13:28:28+00:00",
-  "source": "html"
- },
- {
-  "id": "7dabc01bac410262",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U19 Millî Takımı'nın Uluslararası Dostluk Turnuvası Aday Kadrosu Açıklandı",
-  "url": "https://www.tff.org/default.aspx?pageID=274&ftxtID=51354",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-16T13:28:28+00:00",
-  "first_seen_at": "2026-09-16T13:28:28+00:00",
-  "source": "html"
- },
- {
-  "id": "d820b921f9e5587b",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Fransa Maçının Genel Bilet Satışları Başladı",
-  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51321",
-  "summary": "",
   "image": null,
   "category": "duyuru",
   "tags": [],

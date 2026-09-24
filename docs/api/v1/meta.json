@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-23T23:39:51+00:00",
- "total": 5998,
- "new_in_last_run": 512,
+ "generated_at": "2026-09-24T04:39:20+00:00",
+ "total": 5999,
+ "new_in_last_run": 510,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -11,10 +11,10 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-23T23:39:51+00:00",
+ "latest_published_at": "2026-09-24T04:39:20+00:00",
  "categories": {
+  "duyuru": 575,
   "musabaka": 280,
-  "duyuru": 574,
   "kurs": 153,
   "takvim": 71,
   "mevzuat": 4882,
@@ -38,7 +38,7 @@
   }
  ],
  "federation_counts": {
-  "futbol": 134,
+  "futbol": 135,
   "hentbol": 30,
   "cimnastik": 41,
   "voleybol": 129,

@@ -1,5 +1,76 @@
 [
  {
+  "id": "4c20c2bc2e8a0a3d",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ümit Millî Takımımız, Ukrayna Maçı Hazırlıklarını Tamamladı",
+  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51443",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-25T22:27:22+00:00",
+  "first_seen_at": "2026-09-25T22:27:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "7ab7c69e2c1144b4",
+  "federation": "wushu",
+  "federation_name": "Türkiye Wushu Kung Fu Federasyonu",
+  "federation_short": "TWKF",
+  "title": "Wushu Kung Fu faaliyet takviminde değişiklik",
+  "url": "https://twkf.gov.tr/faaliyet_takvimi.php",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-25T22:15:01+00:00",
+  "first_seen_at": "2026-09-25T22:15:01+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "51e1c0fa183f34c2",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-25T22:14:06+00:00",
+  "first_seen_at": "2026-09-25T22:14:06+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "2cd1713ce8bec234",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-25T22:14:03+00:00",
+  "first_seen_at": "2026-09-25T22:14:03+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "e26cbd51ffe5c487",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -237,24 +308,6 @@
   "published_at": "2026-09-25T13:41:25+00:00",
   "first_seen_at": "2026-09-25T13:41:25+00:00",
   "source": "html"
- },
- {
-  "id": "b7054b127e17cd2b",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Voleybol faaliyet takviminde değişiklik",
-  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-25T13:39:05+00:00",
-  "first_seen_at": "2026-09-25T13:39:05+00:00",
-  "source": "takvim-excel"
  },
  {
   "id": "13ee9e81de932a2a",
@@ -5073,59 +5126,5 @@
   "published_at": "2026-09-21T00:00:00+00:00",
   "first_seen_at": "2026-09-21T19:20:57+00:00",
   "source": "html"
- },
- {
-  "id": "e64bf70d41a4b446",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Rafting 2. Kademe Temel Antrenör Kursu Uygulama Eğitimi Tamamlandı",
-  "url": "https://kano.org.tr/rafting-2-kademe-temel-antrenor-kursu-uygulama-egitimi-tamamlandi-1",
-  "summary": "Duyuru ve Etkinlikler Anasayfa Duyuru ve Etkinlikler RAFTİNG 2. KADEME TEMEL ANTRENÖR KURSU UYGULAMA EĞİTİMİ TAMAMLANDI 21 Eylül 2026, Pazartesi Paylaş × Kapat RAFTİNG 2. KADEME TEMEL ANTRENÖR KURSU UYGULAMA EĞİTİMİ TAMAMLANDI 12-16 Eylül 2026 tarihleri arasında Tunceli'de gerçekleştirilen Uygulama Eğitimi tamamlandı. Federasyonumuzun 2026 yılı Eğitim Faaliyetleri programında yer alan ve 12-16 Eylül 2026 tarihleri arasında Tunceli ilinde gerçekleştirilen Rafting 2. Kademe Temel Antrenör Kursu Uygulama Eğitimi, kursiyerlerin katılımı ile tamamlandı. Kurs Sınav Sonuçları için TIKLAYINIZ. Sınav S",
-  "image": "https://kano.org.tr/uploads/rafting-duyuru-.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-09-21T00:00:00+00:00",
-  "first_seen_at": "2026-09-21T14:01:53+00:00",
-  "source": "html"
- },
- {
-  "id": "20853382a2c3f177",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 363 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-20T21:28:38+00:00",
-  "first_seen_at": "2026-09-20T21:28:38+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "1016e0a8e9e2cfbc",
-  "federation": "masatenisi",
-  "federation_name": "Türkiye Masa Tenisi Federasyonu",
-  "federation_short": "TMTF",
-  "title": "Masa Tenisi faaliyet takviminde değişiklik",
-  "url": "https://tmtf.gov.tr/haberler-35",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-20T18:43:09+00:00",
-  "first_seen_at": "2026-09-20T18:43:09+00:00",
-  "source": "takvim-html"
  }
 ]

@@ -1,5 +1,41 @@
 [
  {
+  "id": "551405022c6279d3",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "10-11 Ekim 2026 Savate Aday Hakem Kursu / Ankara",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-483-10-11-ekim-2026-savate-aday-hakem-kursu-ankara",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-25T13:41:25+00:00",
+  "first_seen_at": "2026-09-25T13:41:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "8c7e99dd0195711e",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "Hatay'da Bocce Aday Hakem Yetiştirme Kursu yapılacak. - Duyurular",
+  "url": "https://tbbdf.org.tr/hatayda-bocce-aday-hakem-yetistirme-kursu-yapilacak-",
+  "summary": "TBBDF Haberler Duyurular Hatay'da Bocce Aday Hakem Yetiştirme Kursu yapılacak. Hatay'da Bocce Aday Hakem Yetiştirme Kursu yapılacak. Hatay'da,10 - 11 Ekim 2026 tarihlerinde Bocce Aday Hakem Yetiştirme Kursu yapılacaktır. Hakem Kursuna katılacaklar, kurs bedeli olan 3.000 TL'yi (2.300 kurs + 700 TL belge ücreti), 10 Ekim 2026 tarihine kadar Federasyonumuzun ( İBAN TR76 0003 2000 0000 0122 0451 17 - TEB / TUNALI HİLMİ ŞUBESİ ) no'lu gelirler hesabına ödemelidir. Katılımcılar, en az 18 yaşını doldurmuş ve 55 yaşından gün almamış olmalıdır, söz konusu kurslara en az lise veya dengi okul mezunu ola",
+  "image": "https://tbbdf.org.tr/images/tr.gif",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-25T00:00:00+00:00",
+  "first_seen_at": "2026-09-25T13:41:25+00:00",
+  "source": "html"
+ },
+ {
   "id": "4bf4e17bb1b8a750",
   "federation": "oryantiring",
   "federation_name": "Türkiye Oryantiring Federasyonu",
@@ -34,6 +70,23 @@
   "published_at": "2026-09-24T09:57:31+00:00",
   "first_seen_at": "2026-09-24T09:57:31+00:00",
   "source": "headings"
+ },
+ {
+  "id": "262dc470c5919265",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Hakemimiz Futsal CORE Kampına Katıldı",
+  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51438",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "hakem"
+  ],
+  "published_at": "2026-09-24T00:00:00+00:00",
+  "first_seen_at": "2026-09-25T13:41:25+00:00",
+  "source": "html"
  },
  {
   "id": "a84c26eb911bcc15",
@@ -462,6 +515,27 @@
   "published_at": "2026-09-15T09:40:03+00:00",
   "first_seen_at": "2026-09-15T13:33:34+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "bec852350f383c43",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Sporcu Lisans ve Vize İşlemlerine İlişkin Değişiklikler ile Hakem, Antrenör ve Kulüp Vize Ücretlerine İlişkin Bilgilendirme",
+  "url": "https://www.tsf.org.tr/haber/19359",
+  "summary": "Lisans İşlemleri · Sporcular · 4 Mart 2026 Uluslararası Turnuvalara Katılım Kriterleri Hakkında Duyuru Lisans İşlemleri · 25 Şubat 2025 Güncelleme - Sporcu Lisans Tescil ve Vize İşlemleri Hakkında Lisans İşlemleri · 10 Şubat 2025 Sporcu Lisans Tescil İşlemleri Hakkında Milli Takımlar · 14 Ocak 2025 Türkiye Satranç Federasyonu Milli Takımlar Seçme Kriterleri Kulüpler · 27 Aralık 2024 Spor Kulüpleri",
+  "image": "https://www.tsf.org.tr/assets/icons/megaphone.svg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "vize",
+   "hakem",
+   "transfer",
+   "kulup"
+  ],
+  "published_at": "2026-09-15T00:00:00+00:00",
+  "first_seen_at": "2026-09-25T13:41:25+00:00",
+  "source": "html"
  },
  {
   "id": "ac05ecaff6a0eaf2",
@@ -1051,132 +1125,5 @@
   "published_at": "2026-09-06T19:09:00+00:00",
   "first_seen_at": "2026-09-06T19:09:00+00:00",
   "source": "api"
- },
- {
-  "id": "d6c426bd5e095330",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» Hakem Kursu Hk.",
-  "url": "https://www.eskrim.org.tr/hakem-kursu-hk-2630.html",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-09-05T12:39:26+00:00",
-  "first_seen_at": "2026-09-05T12:39:26+00:00",
-  "source": "html"
- },
- {
-  "id": "e48552d1ad11f821",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Onikitaş Oyunu Aday Hakem Kursu Eylül 2026",
-  "url": "https://www.gsdf.gov.tr/tr/haber/onikitas-oyunu-aday-hakem-kursu-eylul-2026",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/2e7cd5d56455e5ca0086cf205afde027_mid_r.jpg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-09-05T00:00:00+00:00",
-  "first_seen_at": "2026-09-05T09:01:08+00:00",
-  "source": "html"
- },
- {
-  "id": "8b1809d11d16b9ff",
-  "federation": "gelenekselsporlar",
-  "federation_name": "Türkiye Geleneksel Spor Dalları Federasyonu",
-  "federation_short": "GSDF",
-  "title": "Mangala Oyunu Aday Hakem Kursu Eylül 2026",
-  "url": "https://www.gsdf.gov.tr/tr/haber/mangala-oyunu-aday-hakem-kursu-eylul-2026",
-  "summary": "",
-  "image": "https://www.gsdf.gov.tr/uploads/default/blog/691acebcb50563c35fc14acb6f537449_mid_r.jpg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-09-05T00:00:00+00:00",
-  "first_seen_at": "2026-09-05T09:01:08+00:00",
-  "source": "html"
- },
- {
-  "id": "e16637c95cf048d4",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Vefat ve Taziye Mesajı",
-  "url": "https://thf.org.tr/haber/vefat-ve-taziye-mesaji",
-  "summary": "Aydın İl Temsilcimiz, A Klasman Gözlemcilerimizden Cengiz Ömer'in annesi Belgüzar Ömer'in vefatını üzüntüyle öğrenmiş bulunmaktayız. Merhumeye Allah'tan rahmet, kederli ailesine başsağlığı dileriz. Merhumenin cenazesi, 5 Eylül Cumartesi günü (yarın) öğle namazını müteakip Çankırı Dalkoz Köyü'nde defnedilecektir.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "hakem"
-  ],
-  "published_at": "2026-09-04T15:50:13+00:00",
-  "first_seen_at": "2026-09-04T14:17:19+00:00",
-  "source": "api"
- },
- {
-  "id": "1e8cfefc034ff2dc",
-  "federation": "ragbi",
-  "federation_name": "Türkiye Ragbi Federasyonu",
-  "federation_short": "TRF",
-  "title": "Softbol Büyükler Türkiye Şampiyonası Hakem Başvuruları Başladı!",
-  "url": "https://trf.gov.tr/?p=10806",
-  "summary": "🥎 Softbol Büyükler Türkiye Şampiyonası Hakem Başvuruları Başladı! 25-27 Eylül 2026 tarihleri arasında Ankara/Çubuk Esenboğa Spor Tesisleri’nde gerçekleştirilecek Softbol Büyükler",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "hakem",
-   "musabaka",
-   "burs"
-  ],
-  "published_at": "2026-09-04T14:34:15+00:00",
-  "first_seen_at": "2026-09-04T18:20:45+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "a611d81b37d66c44",
-  "federation": "ragbi",
-  "federation_name": "Türkiye Ragbi Federasyonu",
-  "federation_short": "TRF",
-  "title": "Beyzbol Büyükler Türkiye Şampiyonası Hakem Başvuruları Başladı!",
-  "url": "https://trf.gov.tr/?p=10802",
-  "summary": "⚾ Beyzbol Büyükler Türkiye Şampiyonası Hakem Başvuruları Başladı! 18-20 Eylül 2026 tarihleri arasında Ankara/Çubuk Esenboğa Spor Tesisleri’nde gerçekleştirilecek Beyzbol Büyükler",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "hakem",
-   "musabaka",
-   "burs"
-  ],
-  "published_at": "2026-09-04T14:33:12+00:00",
-  "first_seen_at": "2026-09-04T18:20:45+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "6a52f62d0cc84af6",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Trendyol Süper Lig'de 4. Hakem Değişikliği",
-  "url": "https://www.tff.org/default.aspx?pageID=201&ftxtID=51267",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "hakem",
-   "musabaka"
-  ],
-  "published_at": "2026-09-04T14:17:19+00:00",
-  "first_seen_at": "2026-09-04T14:17:19+00:00",
-  "source": "html"
  }
 ]

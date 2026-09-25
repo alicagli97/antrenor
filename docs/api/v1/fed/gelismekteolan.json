@@ -1,5 +1,38 @@
 [
  {
+  "id": "ca4bb2c4ede60c6a",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "Savate 1. ve 2. Dang Sınavları 10 Ekim 2026 Ankara",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-484-savate-1.-ve-2.-dang-sinavlari-10-ekim-2026-ankara",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-25T13:41:25+00:00",
+  "first_seen_at": "2026-09-25T13:41:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "551405022c6279d3",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "10-11 Ekim 2026 Savate Aday Hakem Kursu / Ankara",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-483-10-11-ekim-2026-savate-aday-hakem-kursu-ankara",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-25T13:41:25+00:00",
+  "first_seen_at": "2026-09-25T13:41:25+00:00",
+  "source": "html"
+ },
+ {
   "id": "18adfca8750fe0c4",
   "federation": "gelismekteolan",
   "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
@@ -575,59 +608,5 @@
   "published_at": "2026-09-11T00:04:08+00:00",
   "first_seen_at": "2026-09-11T00:04:08+00:00",
   "source": "html"
- },
- {
-  "id": "0c29104e9130688e",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Mevzuat güncellendi: Facebook'ta Paylaş",
-  "url": "https://www.gosbf.org.tr/haberdetay--467-savate-buyukler-assaut-milli-takim-secmeleri-talimati",
-  "summary": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-05T07:56:11+00:00",
-  "first_seen_at": "2026-09-05T07:56:11+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "5276a03ed10b0b27",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Mevzuat güncellendi: SAVATE BÜYÜKLER ASSAUT MİLLİ TAKIM SEÇMELERİ TALİMATI",
-  "url": "https://www.gosbf.org.tr/haberdetay-duyurular-467-savate-buyukler-assaut-milli-takim-secmeleri-talimati",
-  "summary": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-05T07:56:10+00:00",
-  "first_seen_at": "2026-09-05T07:56:10+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "b8bf24fbd2cba433",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Gelişmekte Olan Branşlar faaliyet takviminde değişiklik",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-469-10-13-eylul-2026-hemsball-gencler-ve-buyukler-turkiye-sampiyonasi-mugla-mentese",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-04T14:15:45+00:00",
-  "first_seen_at": "2026-09-04T14:15:45+00:00",
-  "source": "takvim-html"
  }
 ]

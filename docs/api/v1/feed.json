@@ -1,5 +1,23 @@
 [
  {
+  "id": "68bcc63b4a4cd522",
+  "federation": "taekwondo",
+  "federation_name": "Türkiye Taekwondo Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yıldızlar Milli Takım Seçme Müsabakası",
+  "url": "https://turkiyetaekwondofed.gov.tr/yildizlar-milli-takim-secme-musabakasi-3/",
+  "summary": "26-28 Kasım 2026 tarihleri arasında Romanya’nın Bükreş kentinde yapılacak olan Avrupa Yıldızlar Taekwondo Şampiyonası’nda ülkemizi temsil edecek Yıldızlar Milli Takımımızı belirlemek için Seçme Müsabakası yapılacaktır. Avrupa Yıldızlar Milli Takım Seçme Müsabakaları’nın 12 Ekim 2026 tarihi tartı, 13-14 Ekim 2026 tarihinde Ankara Yenimahalle Spor Kompleksinde yapılması planlanmaktadır. Seçme Tarihi : 13-14 Ekim 2026 Saat: 09.00Tartı Tarihi-Saati […]",
+  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2024/01/MAVI-scaled.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-09-26T14:56:25+00:00",
+  "first_seen_at": "2026-09-26T17:07:35+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "f64dc3928222ceed",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -2021,6 +2039,21 @@
   "tags": [],
   "published_at": "2026-09-26T01:29:36+00:00",
   "first_seen_at": "2026-09-26T01:29:36+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0219daa1ec2f37db",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak’tan Başpehlivan Orhan Okulu için Tebrik Mesajı",
+  "url": "https://gsb.gov.tr/tr/haber-detay/303241-bakan-baktan-baspehlivan-orhan-okulu-icin-tebrik-mesaji",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/7704d4a5-7aa6-4b52-b5c6-c773036834e7.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-26T00:00:00+00:00",
+  "first_seen_at": "2026-09-26T17:07:35+00:00",
   "source": "html"
  },
  {
@@ -5069,21 +5102,6 @@
   "source": "html"
  },
  {
-  "id": "9e0e7f48998fdf81",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Bilardocumuz Seymen’den dünya üçüncülüğü!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303110/bilardocumuz-seymenden-dunya-ucunculugu.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-21T14:01:53+00:00",
-  "first_seen_at": "2026-09-21T14:01:53+00:00",
-  "source": "html"
- },
- {
   "id": "5968d4579018c6c4",
   "federation": "kayak",
   "federation_name": "Türkiye Kayak Federasyonu",
@@ -5098,24 +5116,6 @@
   ],
   "published_at": "2026-09-21T14:00:06+00:00",
   "first_seen_at": "2026-09-21T19:20:57+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "687b25632bb800b5",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Balkan Kros Şampiyonası Milli Takım Seçme Yarışmaları",
-  "url": "https://taf.org.tr/balkan-kros-sampiyonasi-milli-takim-secme-yarismalari/",
-  "summary": "21 Eylül 2026 Genel Duyuru BALKAN KROS ŞAMPİYONASI MİLLİ TAKIM SEÇME YARIŞMALARI Statü BALKAN KROS ŞAMPİYONASI MİLLİ TAKIM SEÇME YARIŞMALARI 14 EKİM 2026 Paylaş:",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/06/DUYURU-1.png",
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "milli_takim"
-  ],
-  "published_at": "2026-09-21T07:10:31+00:00",
-  "first_seen_at": "2026-09-21T14:01:53+00:00",
   "source": "wp_json"
  }
 ]

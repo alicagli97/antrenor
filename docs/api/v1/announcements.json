@@ -1,5 +1,39 @@
 [
  {
+  "id": "ab61c8fdc758382a",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ümit Millî Takımımız, Ukrayna Karşısında",
+  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51448",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-26T07:35:06+00:00",
+  "first_seen_at": "2026-09-26T07:35:06+00:00",
+  "source": "html"
+ },
+ {
+  "id": "383a6f8f1da3893b",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U-17 Milli Takım Haber Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=276&ftxtID=51447",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-26T07:35:06+00:00",
+  "first_seen_at": "2026-09-26T07:35:06+00:00",
+  "source": "html"
+ },
+ {
   "id": "d9aa9e88b77ae81f",
   "federation": "boks",
   "federation_name": "Türkiye Boks Federasyonu",
@@ -29,6 +63,21 @@
   "tags": [],
   "published_at": "2026-09-26T01:29:36+00:00",
   "first_seen_at": "2026-09-26T01:29:36+00:00",
+  "source": "html"
+ },
+ {
+  "id": "49811f10d7996fce",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak’tan Milli Boksörlere Tebrik Mesajı",
+  "url": "https://gsb.gov.tr/tr/haber-detay/303239-bakan-baktan-milli-boksorlere-tebrik-mesaji",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/b10157ec-9a00-4f2e-a442-b08ce9c947dd.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-26T00:00:00+00:00",
+  "first_seen_at": "2026-09-26T07:35:06+00:00",
   "source": "html"
  },
  {
@@ -39944,18 +39993,18 @@
   "source": "takvim-pdf"
  },
  {
-  "id": "8ebbd68e2ac62876",
+  "id": "f341c47a39d0d964",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
   "federation_short": "TİF",
   "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-3",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2026",
   "summary": "18 Eyl TÜRK JOTA'SI FAALİYETİ 18 Eyl 10 Eyl 10 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST TİFAKE Destek Faaliyeti 9 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST İzci Kampı 9 Eylül 2026 02 Eyl 2 Eylül 2026 18 Ağu BAŞSAĞLIĞI Giresun ili izci liderlerimizden İsmail ŞEYRANLIOĞLU'nun annesi Kezban ŞEYRANLIOĞLU ve ağabeyi Demircan ŞEYRANLIOĞLU, Hakkın Rahmetine kavuşmuşlardır. Merhum",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-09-18T00:00:00+00:00",
-  "first_seen_at": "2026-09-26T01:29:36+00:00",
+  "first_seen_at": "2026-09-26T07:35:06+00:00",
   "source": "html"
  },
  {
@@ -107207,60 +107256,6 @@
    "mevzuat",
    "talimat",
    "antrenor"
-  ],
-  "published_at": "2026-09-06T08:08:56+00:00",
-  "first_seen_at": "2026-09-06T08:08:56+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "c5249ef5816f1f52",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: At Terbiyesi Talimatı - Onay Tarihi 02.01.2026",
-  "url": "https://binicilik.org.tr/mevzuat/talimatlar/belge/77",
-  "summary": "Türkiye Binicilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-06T08:08:56+00:00",
-  "first_seen_at": "2026-09-06T08:08:56+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "45edcde02d0034f7",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: Atatürk ve İsmet İnönü Kupası Talimatı - Onay Tarihi 11.11.2022",
-  "url": "https://binicilik.org.tr/mevzuat/talimatlar/belge/78",
-  "summary": "Türkiye Binicilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-06T08:08:56+00:00",
-  "first_seen_at": "2026-09-06T08:08:56+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "51eb49f6535d85ca",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: Atlı Cimnastik Talimatı- Onay Tarihi 21.12.2022",
-  "url": "https://binicilik.org.tr/mevzuat/talimatlar/belge/79",
-  "summary": "Türkiye Binicilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
   ],
   "published_at": "2026-09-06T08:08:56+00:00",
   "first_seen_at": "2026-09-06T08:08:56+00:00",

@@ -1,5 +1,39 @@
 [
  {
+  "id": "ab61c8fdc758382a",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ümit Millî Takımımız, Ukrayna Karşısında",
+  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51448",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-26T07:35:06+00:00",
+  "first_seen_at": "2026-09-26T07:35:06+00:00",
+  "source": "html"
+ },
+ {
+  "id": "383a6f8f1da3893b",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U-17 Milli Takım Haber Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=276&ftxtID=51447",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-26T07:35:06+00:00",
+  "first_seen_at": "2026-09-26T07:35:06+00:00",
+  "source": "html"
+ },
+ {
   "id": "d9aa9e88b77ae81f",
   "federation": "boks",
   "federation_name": "Türkiye Boks Federasyonu",
@@ -29,6 +63,21 @@
   "tags": [],
   "published_at": "2026-09-26T01:29:36+00:00",
   "first_seen_at": "2026-09-26T01:29:36+00:00",
+  "source": "html"
+ },
+ {
+  "id": "49811f10d7996fce",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak’tan Milli Boksörlere Tebrik Mesajı",
+  "url": "https://gsb.gov.tr/tr/haber-detay/303239-bakan-baktan-milli-boksorlere-tebrik-mesaji",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/b10157ec-9a00-4f2e-a442-b08ce9c947dd.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-26T00:00:00+00:00",
+  "first_seen_at": "2026-09-26T07:35:06+00:00",
   "source": "html"
  },
  {
@@ -5037,23 +5086,6 @@
   "source": "api"
  },
  {
-  "id": "a7321e53e9d6d07c",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Hentbol Kadınlar Süper Ligi’nde 4. Hafta Tamamlandı",
-  "url": "https://thf.org.tr/haber/hentbol-kadinlar-super-liginde-4-hafta-tamamlandi",
-  "summary": "Hentbol Kadınlar Süper Ligi’nde 2026-2027 sezonunun 4. haftası oynanan karşılaşmalarla tamamlandı. Haftanın maçlarında Manisa Büyükşehir Belediyesi SK, deplasmanda Odunpazarı SK’yi 29-23 mağlup ederken, Bursa Büyükşehir Belediyesi SK sahasında Ortahisar BSK karşısında 46-30 galip geldi. Üsküdar BSK, deplasmanda Göztepe SK’yi 34-29 mağlup etti. Yalıkavak SK ile MC Sistem Yozgat GSK arasında oynanan karşılaşma ise 30-30 beraberlikle sonuçlandı. Bu sonuçlarla birlikte 4. hafta sonunda Manisa Büyükşehir Belediyesi Spor Kulübü ligde ilk sırada yer aldı. Detaylı puan durumu ve fikstüre şu linkten ul",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-21T10:02:23+00:00",
-  "first_seen_at": "2026-09-21T14:01:53+00:00",
-  "source": "api"
- },
- {
   "id": "687b25632bb800b5",
   "federation": "atletizm",
   "federation_name": "Türkiye Atletizm Federasyonu",
@@ -5084,41 +5116,6 @@
   "tags": [],
   "published_at": "2026-09-21T00:00:00+00:00",
   "first_seen_at": "2026-09-25T18:32:59+00:00",
-  "source": "html"
- },
- {
-  "id": "c2d244c2e78eb05c",
-  "federation": "basketbol",
-  "federation_name": "Türkiye Basketbol Federasyonu",
-  "federation_short": "TBF",
-  "title": "Eylül - 12 Ekim 2026 Tarihleri Arasında Oynanacak Müsabakaların Hakem Görevlendirmeleri 21.09.2026",
-  "url": "https://www.tbf.org.tr/haber/26-eylul-12-ekim-2026-tarihleri-arasinda-oynanacak-musabakalarin-hakem-gorevlendirmeleri-2026-09-21",
-  "summary": "",
-  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/be0fb40d30d54c3dab6c75118ca5c085_TBFLOGO...jpg",
-  "category": "musabaka",
-  "tags": [
-   "hakem",
-   "musabaka"
-  ],
-  "published_at": "2026-09-21T00:00:00+00:00",
-  "first_seen_at": "2026-09-23T16:00:28+00:00",
-  "source": "html"
- },
- {
-  "id": "c0f58d8361fca00a",
-  "federation": "tenis",
-  "federation_name": "Türkiye Tenis Federasyonu",
-  "federation_short": "TTF",
-  "title": "Gelişim Ligi ve Takım Şampiyonaları Çalıştayı Ankara’da Gerçekleştirildi",
-  "url": "http://www.ttf.org.tr/tr/haber-detay/587",
-  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Türkiye İş Bankası sponsorluğunda Türkiye Tenis Federasyonu tarafından düzenlenen Gelişim Ligi ve Takım Şampiyonaları Çalıştayı, 20– tarihlerinde The Green Park Hotel Ankara’da gerçekleştirildi. Türkiye’nin 38 ilinden; Gelişim Ligi, 18 Yaş Altı Türkiy... 22 Eylül 2026 Detaylar Yeni Eğitim Yılına Haydi Tenise Projemizle Sahada Başladık Türkiye Tenis Federasyo",
-  "image": "http://www.ttf.org.tr/public/news_post/6ab2cb5c74a6c_1790102364.HEIC",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-21T00:00:00+00:00",
-  "first_seen_at": "2026-09-22T18:49:47+00:00",
   "source": "html"
  }
 ]

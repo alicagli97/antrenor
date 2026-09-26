@@ -1,5 +1,37 @@
 [
  {
+  "id": "d9aa9e88b77ae81f",
+  "federation": "boks",
+  "federation_name": "Türkiye Boks Federasyonu",
+  "federation_short": "TBF",
+  "title": "Büyükler Avrupa Boks Şampiyonasından 4 Altın, 1 Gümüş, 5 Bronz Madalya ile Dönüyoruz!",
+  "url": "https://www.turkboks.gov.tr/buyukler-avrupa-boks-sampiyonasindan-4-altin-1-gumus-5-bronz-madalya-ile-donuyoruz/",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-26T01:29:36+00:00",
+  "first_seen_at": "2026-09-26T01:29:36+00:00",
+  "source": "html"
+ },
+ {
+  "id": "6f4049916a33d819",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Vincenzo Montella: \"Daha Fazlasını Hak Ettik\"",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51442",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-26T01:29:36+00:00",
+  "first_seen_at": "2026-09-26T01:29:36+00:00",
+  "source": "html"
+ },
+ {
   "id": "4c20c2bc2e8a0a3d",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -5022,25 +5054,6 @@
   "source": "api"
  },
  {
-  "id": "59dff7ba2509717f",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "ADAY HAKEM KURSU",
-  "url": "https://muaythai.gov.tr/2026/09/21/aday-hakem-kursu-15/",
-  "summary": "Muaythai Aday Hakem Kursu 26-27 Eylül 2026 tarihlerinde Tekirdağ’da açılacaktır. İlgili kursa Muaythai Hakem Talimatında belirtilen hakem olabilme",
-  "image": "https://muaythai.gov.tr/wp-content/uploads/2022/09/hakem-kursu.jpg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem",
-   "mevzuat"
-  ],
-  "published_at": "2026-09-21T09:53:14+00:00",
-  "first_seen_at": "2026-09-21T14:01:53+00:00",
-  "source": "wp_json"
- },
- {
   "id": "687b25632bb800b5",
   "federation": "atletizm",
   "federation_name": "Türkiye Atletizm Federasyonu",
@@ -5106,25 +5119,6 @@
   ],
   "published_at": "2026-09-21T00:00:00+00:00",
   "first_seen_at": "2026-09-22T18:49:47+00:00",
-  "source": "html"
- },
- {
-  "id": "aff57097d7593df6",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "TBF Duyuru No : 128 / 2026 Antrenör Temel Eğitim Kursu 2026/3 Başvuru Bilgilendirme",
-  "url": "https://binicilik.org.tr/duyurular/tbf-duyuru-no-128-2026-antrenor-temel-egitim-kursu-20263-basvuru-bilgilendirme",
-  "summary": "21 EYLÜL - Pazartesi Antrenörlerin gelişimine katkı sağlamak ve çalışmalarına bilimin ışığı altında rehberlik etmek amacıyla hazırlanarak yürürlüğe giren Antrenör Eğitimi Yönetmeliğine göre Antrenör Eğitim Sistemi Temel (Teorik) ve Uygulama...",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs",
-   "burs"
-  ],
-  "published_at": "2026-09-21T00:00:00+00:00",
-  "first_seen_at": "2026-09-21T19:20:57+00:00",
   "source": "html"
  }
 ]

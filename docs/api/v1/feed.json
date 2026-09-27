@@ -1,5 +1,38 @@
 [
  {
+  "id": "7820c3d70d1aaf1f",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Milli Takım Haber Detayları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51451",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-27T01:22:48+00:00",
+  "first_seen_at": "2026-09-27T01:22:48+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b941e7163efab330",
+  "federation": "vucutgelistirme",
+  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
+  "federation_short": "TVGFBF",
+  "title": "Vücut Geliştirme & Fitness faaliyet takviminde değişiklik",
+  "url": "https://tvgfbf.gov.tr/etkinlikler",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-27T01:20:56+00:00",
+  "first_seen_at": "2026-09-27T01:20:56+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "69d81991f37ba5e2",
   "federation": "vucutgelistirme",
   "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
@@ -5039,21 +5072,6 @@
   "source": "html"
  },
  {
-  "id": "aac44a633ee01bbf",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Kadınlar 1. Ligi'nde 1. Haftanın Sonuçları",
-  "url": "https://www.tff.org/default.aspx?pageID=341&ftxtID=51389",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-21T14:01:53+00:00",
-  "first_seen_at": "2026-09-21T14:01:53+00:00",
-  "source": "html"
- },
- {
   "id": "6057cf90290e0a5b",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -5099,24 +5117,6 @@
   "tags": [
    "terfi",
    "musabaka"
-  ],
-  "published_at": "2026-09-21T14:01:53+00:00",
-  "first_seen_at": "2026-09-21T14:01:53+00:00",
-  "source": "html"
- },
- {
-  "id": "f28af4d1076c1be4",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Savate 1. Kademe Yardımcı Antrenör Yetiştirme Kursu / 14-18 Ekim 2026 / Çankırı",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-482-savate-1.-kademe-yardimci-antrenor-yetistirme-kursu-14-18-ekim-2026-cankiri",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
   ],
   "published_at": "2026-09-21T14:01:53+00:00",
   "first_seen_at": "2026-09-21T14:01:53+00:00",

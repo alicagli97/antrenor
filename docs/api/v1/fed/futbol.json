@@ -1,5 +1,20 @@
 [
  {
+  "id": "7820c3d70d1aaf1f",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Milli Takım Haber Detayları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51451",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-27T01:22:48+00:00",
+  "first_seen_at": "2026-09-27T01:22:48+00:00",
+  "source": "html"
+ },
+ {
   "id": "1163a24b7f10ab04",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -932,24 +947,6 @@
   "tags": [],
   "published_at": "2026-09-21T14:01:53+00:00",
   "first_seen_at": "2026-09-21T14:01:53+00:00",
-  "source": "html"
- },
- {
-  "id": "2809ef2263dcbabd",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Trendyol 1. Lig'de Yardımcı Hakem Değişikliği",
-  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51386",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "hakem",
-   "musabaka"
-  ],
-  "published_at": "2026-09-20T11:17:17+00:00",
-  "first_seen_at": "2026-09-20T11:17:17+00:00",
   "source": "html"
  }
 ]

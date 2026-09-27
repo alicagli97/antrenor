@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-26T22:42:59+00:00",
- "total": 5998,
- "new_in_last_run": 557,
+ "generated_at": "2026-09-27T01:22:48+00:00",
+ "total": 5999,
+ "new_in_last_run": 556,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -11,12 +11,12 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-26T22:41:30+00:00",
+ "latest_published_at": "2026-09-27T01:22:48+00:00",
  "categories": {
-  "mevzuat": 4858,
+  "duyuru": 595,
+  "takvim": 72,
+  "mevzuat": 4857,
   "musabaka": 282,
-  "takvim": 71,
-  "duyuru": 594,
   "kurs": 156,
   "haber": 37
  },
@@ -38,8 +38,8 @@
   }
  ],
  "federation_counts": {
-  "vucutgelistirme": 22,
-  "futbol": 146,
+  "futbol": 147,
+  "vucutgelistirme": 23,
   "cimnastik": 41,
   "taekwondo": 12,
   "gsb": 735,
@@ -60,7 +60,7 @@
   "triatlon": 221,
   "yelken": 83,
   "eskrim": 212,
-  "aticilik": 64,
+  "aticilik": 63,
   "okculuk": 42,
   "atletizm": 51,
   "yuzme": 21,

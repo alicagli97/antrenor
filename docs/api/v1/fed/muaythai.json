@@ -1,5 +1,25 @@
 [
  {
+  "id": "8a11c21345320a64",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "Muaythai 2.kademe Temel Antrenör Kursu",
+  "url": "https://muaythai.gov.tr/2026/09/27/muaythai-2-kademe-temel-antrenor-kursu/",
+  "summary": "26-31 EKİM 2026 – KONYA BAŞVURU TARİHLERİ: 12-19 EKİM 2026 İlgili Yönetmelik gereği bu kurslara sadece; • Spor",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/08/IMG_1514.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "mevzuat",
+   "burs"
+  ],
+  "published_at": "2026-09-27T04:51:00+00:00",
+  "first_seen_at": "2026-09-27T08:03:43+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "c889cef746c180ba",
   "federation": "muaythai",
   "federation_name": "Türkiye Muaythai Federasyonu",
@@ -1057,24 +1077,6 @@
   ],
   "published_at": "2026-09-16T08:54:07+00:00",
   "first_seen_at": "2026-09-16T08:54:07+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "11e90a4bb710ab86",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "Mevzuat güncellendi: Yönetmelik",
-  "url": "https://muaythai.gov.tr/tag/yonetmelik/",
-  "summary": "Türkiye Muaythai Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-16T08:54:06+00:00",
-  "first_seen_at": "2026-09-16T08:54:06+00:00",
   "source": "mevzuat"
  }
 ]

@@ -1,5 +1,24 @@
 [
  {
+  "id": "c7c8dd127bba5aba",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Antrenör Üst Düzey Vize/Gelişim Semineri Hakkında Duyuru",
+  "url": "https://tvf.org.tr/icerik/antrenor-ust-duzey-vizegelisim-semineri-hakkinda-duyuru",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "vize"
+  ],
+  "published_at": "2026-09-27T22:05:25+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
   "id": "7d1cd630dcc0bc54",
   "federation": "ozelsporcular",
   "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
@@ -3762,25 +3781,6 @@
   "federation_short": "GSB",
   "title": "Mevzuat güncellendi: Spor Kulüpleri Tarafından Tutulacak Defter ve Kayıtlar Hakkında Yönetmelik",
   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39705&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-24T08:51:13+00:00",
-  "first_seen_at": "2026-09-24T08:51:13+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "fa8d93b1ea8e3763",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri ve Spor Anonim Şirketlerinin Borçlanma Sınırlamalarından Muafiyetlerine İlişkin Usul ve Esaslar Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39902&MevzuatTur=7&MevzuatTertip=5",
   "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

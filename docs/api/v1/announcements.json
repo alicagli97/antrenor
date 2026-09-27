@@ -1,5 +1,89 @@
 [
  {
+  "id": "c7c8dd127bba5aba",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Antrenör Üst Düzey Vize/Gelişim Semineri Hakkında Duyuru",
+  "url": "https://tvf.org.tr/icerik/antrenor-ust-duzey-vizegelisim-semineri-hakkinda-duyuru",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "vize"
+  ],
+  "published_at": "2026-09-27T22:05:25+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d90726ceef0be3f5",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Millî Takım, İtalya Maçının Hazırlıklarını Tamamladı",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51456",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-27T22:05:25+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "32e47842e5c2cb7a",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Montella: \"İtalya Karşısında Sadece Türkiye İçin Atan Bir Yüreğim Olacak\"",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51457",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-27T22:05:25+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "daebca2caf6c14c8",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ümit Millî Takımımız, Ukrayna Maçının Ardından Yurda Döndü",
+  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51455",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-27T22:05:25+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "5731c18581edf9e5",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 375 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-27T22:02:34+00:00",
+  "first_seen_at": "2026-09-27T22:02:34+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "5f2190f409f8b4df",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -4426,6 +4510,38 @@
   "published_at": "2026-09-27T01:20:56+00:00",
   "first_seen_at": "2026-09-27T01:20:56+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "17cb9e86802d79d0",
+  "federation": "karate",
+  "federation_name": "Türkiye Karate Federasyonu",
+  "federation_short": "TKF",
+  "title": "U14 Millî Takımlar Elit Sporcu Altyapı Gelişim Semineri Gerçekleştirildi",
+  "url": "https://karate.gov.tr/blog_detay.php?id=94",
+  "summary": "HABER Ulusal Haberler U14 Millî Takımlar Elit Sporcu Altyapı Gelişim Semineri, İstanbul’da gerçekleştirildi.... DEVAMINI OKU",
+  "image": "https://karate.gov.tr/uploads/blog/blog_1790544830_683.webp",
+  "category": "kurs",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-09-27T00:00:00+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "48d27304934ddfc9",
+  "federation": "motosiklet",
+  "federation_name": "Türkiye Motosiklet Federasyonu",
+  "federation_short": "TMF",
+  "title": "Bodrum’da İzeltaş MotoSurf ve Sujeti Rüzgarı Esti",
+  "url": "https://www.tmf.org.tr/Haberler/Bodrum-da-izeltas-MotoSurf-ve-Sujeti-Ruzgari-Esti/",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-27T00:00:00+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
  },
  {
   "id": "70aed381bb685c14",
@@ -48946,18 +49062,18 @@
   "source": "takvim-pdf"
  },
  {
-  "id": "f341c47a39d0d964",
+  "id": "8ebbd68e2ac62876",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
   "federation_short": "TİF",
   "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2026",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-3",
   "summary": "18 Eyl TÜRK JOTA'SI FAALİYETİ 18 Eyl 10 Eyl 10 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST TİFAKE Destek Faaliyeti 9 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST İzci Kampı 9 Eylül 2026 02 Eyl 2 Eylül 2026 18 Ağu BAŞSAĞLIĞI Giresun ili izci liderlerimizden İsmail ŞEYRANLIOĞLU'nun annesi Kezban ŞEYRANLIOĞLU ve ağabeyi Demircan ŞEYRANLIOĞLU, Hakkın Rahmetine kavuşmuşlardır. Merhum",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-09-18T00:00:00+00:00",
-  "first_seen_at": "2026-09-27T18:19:44+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
   "source": "html"
  },
  {
@@ -74372,6 +74488,23 @@
   "published_at": "2026-09-13T00:55:03+00:00",
   "first_seen_at": "2026-09-13T00:55:03+00:00",
   "source": "html"
+ },
+ {
+  "id": "175f6a02d6d37326",
+  "federation": "oryantiring",
+  "federation_name": "Türkiye Oryantiring Federasyonu",
+  "federation_short": "TOF",
+  "title": "Balıkesir 3.kademe Kıdemli Antrenör Uygulama Eğitimi Ders Programı ve Kursiyer Listesi",
+  "url": "https://oryantiring.org.tr/haberler#balikesir-3-kademe-kidemli-antrenor-uygulama-egitimi-ders-pr",
+  "summary": "BALIKESİR 3.KADEME KIDEMLİ ANTRENÖR KURSU UYGULAMA EĞİTİMİ DERS PROGRAMI VE KURSİYER LİSTESİ 09-13 Eylül 2026 tarihinde Balıkesir ilinde 3.Kademe Kıdemli Antrenör Uygulama Eğitimi bilgileri; Kurs Yeri : KURTDERELİ SPOR SALONU Bahçelievler Mah. Stadyum Cad. Menekşe Sokak Altıeylül / Balıkesir Kurs Tarihi : 09-13 Eylül 2026 İletişim : Ertan KAYATEPE 0543 9037247 ( İl Temsilcisi ) Kursiyerlerin Yanın",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-09-13T00:00:00+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "headings"
  },
  {
   "id": "ffd81414068e8bcf",
@@ -107195,134 +107328,5 @@
   "published_at": "2026-09-08T00:00:00+00:00",
   "first_seen_at": "2026-09-08T14:27:49+00:00",
   "source": "html"
- },
- {
-  "id": "12236feb22225e3c",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Rafting 2. Kademe Temel Antrenör Kursu Katılımcı Listesi",
-  "url": "https://kano.org.tr/rafting-2-kademe-temel-antrenor-kursu-katilimci-listesi",
-  "summary": "Duyuru ve Etkinlikler Anasayfa Duyuru ve Etkinlikler RAFTİNG 2. KADEME TEMEL ANTRENÖR KURSU KATILIMCI LİSTESİ 08 Eylül 2026, Salı Paylaş × Kapat RAFTİNG 2. KADEME TEMEL ANTRENÖR KURSU KATILIMCI LİSTESİ Tunceli Rafting 2. Kademe Temel Antrenör Kursu Uygulama Eğitimi için başvuru süreci tamamlanmıştır. Yapılan değerlendirme neticesinde kursa katılmaya hak kazanan adayların listesi aşağıda sunulmuştur. KATILIMCI LİSTESİ 1 MELİKE ÖZKAN 2 TİJDA YEŞİL 3 YAĞMUR DAMLA KIRIK BÜTÜNLEME KATILIMCI LİSTESİ 1 DOĞUŞ ÖNÇIRAK 2 ZEKERİYA ÇETER Etiketler #rafting #kademe #temel #antrenör #kursu #katılımcı #liste",
-  "image": "https://kano.org.tr/uploads/rafting-duyuru-.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-09-08T00:00:00+00:00",
-  "first_seen_at": "2026-09-08T14:27:49+00:00",
-  "source": "html"
- },
- {
-  "id": "7ad66c1a5051e202",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "“ilk Yerleştirmede Rekora İmza Atarak Yüzde 90 Oranında Öğrencimizi Yurtlarımıza Yerleştirdik”",
-  "url": "https://gsb.gov.tr/tr/haber-detay/302893-ilk-yerlestirmede-rekora-imza-atarak-yuzde-90-oraninda-ogrencimizi-yurtlarimiza-yerlestirdik",
-  "summary": "",
-  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/whatsapp-image-2026-09-08-at-121649-2.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-08T00:00:00+00:00",
-  "first_seen_at": "2026-09-08T14:27:49+00:00",
-  "source": "html"
- },
- {
-  "id": "a8abe39c17bff50c",
-  "federation": "kaykay",
-  "federation_name": "Türkiye Kaykay Federasyonu",
-  "federation_short": "TKF",
-  "title": "Konya’ya Uluslararası Standartlarda Kaykay ve Tekerlekl...",
-  "url": "https://kaykay.org.tr/blog/konyaya-uluslararasi-standartlarda-kaykay-ve-tekerlekli-paten-tesisi",
-  "summary": "Türkiye Kaykay Federasyonu’nun TORCH Projesi Erasmus+ K... Tekerlekli Paten Kulüplerarası Türkiye Şampiyonası Nevş... 05 Eylül 2026 Yeşilay 10 KM Yol Yarışı İstanbul’da Gerçekleştirildi 24 Ağustos 2026 Kayseri’de Kaykay ile Değişen Hayatlar TRT Spor Yıldız’... 13 Ağustos 2026 Karaman’da Tekerlekli Sürat Pateni Heyecanı Sona Erdi 12 Ağustos 2026 Tekerlekli Paten Türkiye Şampiyonası Final Etabı 12 A",
-  "image": "https://kaykay.org.tr/uploads/blog/2026-09-08-ahFPbsbv.jpeg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-08T00:00:00+00:00",
-  "first_seen_at": "2026-09-08T14:27:49+00:00",
-  "source": "html"
- },
- {
-  "id": "4f545ce299aa2fcf",
-  "federation": "kaykay",
-  "federation_name": "Türkiye Kaykay Federasyonu",
-  "federation_short": "TKF",
-  "title": "Türkiye Kaykay Federasyonu’nun TORCH Projesi Erasmus+ K...",
-  "url": "https://kaykay.org.tr/blog/turkiye-kaykay-federasyonunun-torch-projesi-erasmus-kapsaminda-hibe-almaya-hak-kazandi",
-  "summary": "Konya’ya Uluslararası Standartlarda Kaykay ve Tekerlekl... Tekerlekli Paten Kulüplerarası Türkiye Şampiyonası Nevş... 05 Eylül 2026 Yeşilay 10 KM Yol Yarışı İstanbul’da Gerçekleştirildi 24 Ağustos 2026 Kayseri’de Kaykay ile Değişen Hayatlar TRT Spor Yıldız’... 13 Ağustos 2026 Karaman’da Tekerlekli Sürat Pateni Heyecanı Sona Erdi 12 Ağustos 2026 Tekerlekli Paten Türkiye Şampiyonası Final Etabı 12 A",
-  "image": "https://kaykay.org.tr/uploads/blog/2026-09-08-NQihT2Z1.png",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-08T00:00:00+00:00",
-  "first_seen_at": "2026-09-08T14:27:49+00:00",
-  "source": "html"
- },
- {
-  "id": "6146eda710b3640f",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "Şahinbey Belediye Spor Kulübü Kategori Belgesi Sınavı",
-  "url": "https://binicilik.org.tr/duyurular/sahinbey-belediye-spor-kulubu-kategori-belgesi-sinavi",
-  "summary": "08 EYLÜL - Salı 11 Eylül 2026 Cuma günü saat 10:00 'da Şahinbey Belediye Spor Kulübü’nde kategori belgesi sınavı yapılacaktır.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-08T00:00:00+00:00",
-  "first_seen_at": "2026-09-08T09:36:07+00:00",
-  "source": "html"
- },
- {
-  "id": "335413d16548f2b8",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Gençlik Sınıfları Milli Takım Seçme Kriteri Yayına Alınmıştır",
-  "url": "https://www.tyf.org.tr/duyurular/milli-takim/2027-genclik-siniflari-milli-takim-secme-kriteri-yayina-alinmistir/315739/",
-  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular 2027 Gençlik Sınıfları Milli Takım Seçme Kriteri Yayına Alınmıştır 2027 Gençlik Sınıfları Milli Takım Seçme Kriteri Yayına Alınmıştır 08.09.2026 Duyurular 196 Paylaş Tweetle Türkiye Yelken Federasyonu \"2027 Gençlik Sınıfları Milli Takım Seçme Kriteri\" yayına alınmıştır. Ek 1 : TYF Gençlik Tekne Sınıfları ",
-  "image": "https://portal.tyf.org.tr/content/images/pageimages/image-not-found.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-08T00:00:00+00:00",
-  "first_seen_at": "2026-09-08T09:36:07+00:00",
-  "source": "html"
- },
- {
-  "id": "61a78f90f1512b1e",
-  "federation": "wushu",
-  "federation_name": "Türkiye Wushu Kung Fu Federasyonu",
-  "federation_short": "TWKF",
-  "title": "Wushu Kung Fu faaliyet takviminde değişiklik",
-  "url": "https://twkf.gov.tr/faaliyet_takvimi.php",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-07T20:30:40+00:00",
-  "first_seen_at": "2026-09-07T20:30:40+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "a9c44ba882fd07ad",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 353 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-07T20:30:30+00:00",
-  "first_seen_at": "2026-09-07T20:30:30+00:00",
-  "source": "takvim-html"
  }
 ]

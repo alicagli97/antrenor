@@ -1,5 +1,35 @@
 [
  {
+  "id": "d90726ceef0be3f5",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Millî Takım, İtalya Maçının Hazırlıklarını Tamamladı",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51456",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-27T22:05:25+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "32e47842e5c2cb7a",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Montella: \"İtalya Karşısında Sadece Türkiye İçin Atan Bir Yüreğim Olacak\"",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51457",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-27T22:05:25+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
   "id": "954a301598b8dc0e",
   "federation": "otomobil",
   "federation_name": "Türkiye Otomobil Sporları Federasyonu",
@@ -169,6 +199,21 @@
   "tags": [],
   "published_at": "2026-09-27T01:22:48+00:00",
   "first_seen_at": "2026-09-27T01:22:48+00:00",
+  "source": "html"
+ },
+ {
+  "id": "48d27304934ddfc9",
+  "federation": "motosiklet",
+  "federation_name": "Türkiye Motosiklet Federasyonu",
+  "federation_short": "TMF",
+  "title": "Bodrum’da İzeltaş MotoSurf ve Sujeti Rüzgarı Esti",
+  "url": "https://www.tmf.org.tr/Haberler/Bodrum-da-izeltas-MotoSurf-ve-Sujeti-Ruzgari-Esti/",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-27T00:00:00+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
   "source": "html"
  },
  {
@@ -2794,18 +2839,18 @@
   "source": "html"
  },
  {
-  "id": "f341c47a39d0d964",
+  "id": "8ebbd68e2ac62876",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
   "federation_short": "TİF",
   "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2026",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-3",
   "summary": "18 Eyl TÜRK JOTA'SI FAALİYETİ 18 Eyl 10 Eyl 10 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST TİFAKE Destek Faaliyeti 9 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST İzci Kampı 9 Eylül 2026 02 Eyl 2 Eylül 2026 18 Ağu BAŞSAĞLIĞI Giresun ili izci liderlerimizden İsmail ŞEYRANLIOĞLU'nun annesi Kezban ŞEYRANLIOĞLU ve ağabeyi Demircan ŞEYRANLIOĞLU, Hakkın Rahmetine kavuşmuşlardır. Merhum",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-09-18T00:00:00+00:00",
-  "first_seen_at": "2026-09-27T18:19:44+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
   "source": "html"
  },
  {
@@ -3061,53 +3106,6 @@
   "tags": [],
   "published_at": "2026-09-17T20:14:53+00:00",
   "first_seen_at": "2026-09-17T20:14:53+00:00",
-  "source": "html"
- },
- {
-  "id": "943a2a37c176362c",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Başkan Hacıosmanoğlu ve Kulüp Başkanları, Yayın İhalesi İçin Riva'da Toplandı",
-  "url": "https://www.tff.org/default.aspx?pageID=285&ftxtID=51364",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kulup"
-  ],
-  "published_at": "2026-09-17T20:14:53+00:00",
-  "first_seen_at": "2026-09-17T20:14:53+00:00",
-  "source": "html"
- },
- {
-  "id": "98d3dfb860d339cc",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "Milli Takımlar Yüksek Performans Direktörü Nazım Dalkıran ile Yollarımız Ayrıldı",
-  "url": "https://www.turkboks.gov.tr/milli-takimlar-yuksek-performans-direktoru-nazim-dalkiran-ile-yollarimiz-ayrildi/",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-17T16:54:12+00:00",
-  "first_seen_at": "2026-09-17T16:54:12+00:00",
-  "source": "html"
- },
- {
-  "id": "88a80918eda7bee1",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» 2026 - 2027 Sezonu Sem Duyurusu",
-  "url": "https://www.eskrim.org.tr/2026-2027-sezonu-sem-duyurusu-2648.html",
-  "summary": "» İstanbul Veteranlar Türkiye Şampiyonası Müsabaka Programı » 09-17 Ekim Tiflis Veteranlar Dünya Şampiyonası Epe & Flöre & Kılıç Kafile Listeleri Hk. » 03-04 Ekim Selanik U17 Yıldızlar Circuit Turnuvası Epe Kafile Listesi Hk. » (Kesin) 02-04 Ekim Yıldızlar Circuit İstanbul Kılıç Kafile Listeleri Hk. » Hakem Kursu Hk. » 2026-2027 Sezonu İtibariyle Uygulanacak Olan Güncel “Mücadele Etmeme İsteği” (P",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-17T16:54:12+00:00",
-  "first_seen_at": "2026-09-17T16:54:12+00:00",
   "source": "html"
  }
 ]

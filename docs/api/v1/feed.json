@@ -1,5 +1,89 @@
 [
  {
+  "id": "c7c8dd127bba5aba",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Antrenör Üst Düzey Vize/Gelişim Semineri Hakkında Duyuru",
+  "url": "https://tvf.org.tr/icerik/antrenor-ust-duzey-vizegelisim-semineri-hakkinda-duyuru",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "vize"
+  ],
+  "published_at": "2026-09-27T22:05:25+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d90726ceef0be3f5",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Millî Takım, İtalya Maçının Hazırlıklarını Tamamladı",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51456",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-27T22:05:25+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "32e47842e5c2cb7a",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Montella: \"İtalya Karşısında Sadece Türkiye İçin Atan Bir Yüreğim Olacak\"",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51457",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-27T22:05:25+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "daebca2caf6c14c8",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ümit Millî Takımımız, Ukrayna Maçının Ardından Yurda Döndü",
+  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51455",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-27T22:05:25+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "5731c18581edf9e5",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 375 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-27T22:02:34+00:00",
+  "first_seen_at": "2026-09-27T22:02:34+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "5f2190f409f8b4df",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -2194,6 +2278,38 @@
   "published_at": "2026-09-27T01:20:56+00:00",
   "first_seen_at": "2026-09-27T01:20:56+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "17cb9e86802d79d0",
+  "federation": "karate",
+  "federation_name": "Türkiye Karate Federasyonu",
+  "federation_short": "TKF",
+  "title": "U14 Millî Takımlar Elit Sporcu Altyapı Gelişim Semineri Gerçekleştirildi",
+  "url": "https://karate.gov.tr/blog_detay.php?id=94",
+  "summary": "HABER Ulusal Haberler U14 Millî Takımlar Elit Sporcu Altyapı Gelişim Semineri, İstanbul’da gerçekleştirildi.... DEVAMINI OKU",
+  "image": "https://karate.gov.tr/uploads/blog/blog_1790544830_683.webp",
+  "category": "kurs",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-09-27T00:00:00+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "48d27304934ddfc9",
+  "federation": "motosiklet",
+  "federation_name": "Türkiye Motosiklet Federasyonu",
+  "federation_short": "TMF",
+  "title": "Bodrum’da İzeltaş MotoSurf ve Sujeti Rüzgarı Esti",
+  "url": "https://www.tmf.org.tr/Haberler/Bodrum-da-izeltas-MotoSurf-ve-Sujeti-Ruzgari-Esti/",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-27T00:00:00+00:00",
+  "first_seen_at": "2026-09-27T22:05:25+00:00",
+  "source": "html"
  },
  {
   "id": "70aed381bb685c14",
@@ -4832,24 +4948,6 @@
   "source": "html"
  },
  {
-  "id": "df9d0588a6dc418a",
-  "federation": "okculuk",
-  "federation_name": "Türkiye Okçuluk Federasyonu",
-  "federation_short": "TOF",
-  "title": "Tohm Sporcu Alım Başvuru Duyurusu",
-  "url": "https://www.okculuk.org.tr/tohm-sporcu-alim-basvuru-duyurusu/",
-  "summary": "Sporcu Yetiştirme Dairesi Başkanlığı ve Türkiye Okçuluk Federasyonu tarafından, 2026 yılı Türkiye Olimpik Hazırlık Merkezleri (TOHM) sporcu alım kriterleri belirlenmiştir. Belirlenen kriterler doğrultusunda, federasyonumuz Antalya’daki Türkiye Olimpik Hazırlık Merkezi’ne (TOHM) yeni dönem sporcu alımı gerçekleştirilecektir. Türkiye Okçuluk Federasyonu TOHM Sporcu Seçme Kriterleri ekli dosyada ilgililerin dikkatine sunulmuştur. Başvuru TarihleriBaşvurular, 1 – 9 Ekim 2026 tarihleri […]",
-  "image": "https://www.okculuk.org.tr/wp-content/uploads/2021/12/duyuru-tof-1.jpg",
-  "category": "duyuru",
-  "tags": [
-   "milli_takim",
-   "burs"
-  ],
-  "published_at": "2026-09-22T09:36:26+00:00",
-  "first_seen_at": "2026-09-22T09:54:24+00:00",
-  "source": "wp_json"
- },
- {
   "id": "fb909aefd1cf50eb",
   "federation": "bisiklet",
   "federation_name": "Türkiye Bisiklet Federasyonu",
@@ -4915,38 +5013,6 @@
   ],
   "published_at": "2026-09-22T00:00:00+00:00",
   "first_seen_at": "2026-09-23T16:53:12+00:00",
-  "source": "html"
- },
- {
-  "id": "a7cd634a3d8e7d21",
-  "federation": "basketbol",
-  "federation_name": "Türkiye Basketbol Federasyonu",
-  "federation_short": "TBF",
-  "title": "39. Cumhurbaşkanlığı Erkekler Basketbol Kupası'nda Şampiyon Fenerbahçe Tarfin 22.09.2026",
-  "url": "https://www.tbf.org.tr/haber/39-cumhurbaskanligi-erkekler-basketbol-kupasi-nda-sampiyon-fenerbahce-tarfin-2026-09-22",
-  "summary": "39. Cumhurbaşkanlığı Erkekler Basketbol Kupası mücadelesinde Beşiktaş’ı 72-59’luk skorla mağlup eden Fenerbahçe Tarfin şampiyonluğa ulaştı. Devamını Gör",
-  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/57bf9c3997704b6793b96476f81b92c3_1kopya.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-22T00:00:00+00:00",
-  "first_seen_at": "2026-09-23T16:00:28+00:00",
-  "source": "html"
- },
- {
-  "id": "b37f8dbe226274b1",
-  "federation": "yuzme",
-  "federation_name": "Türkiye Yüzme Federasyonu",
-  "federation_short": "TYF",
-  "title": "Tohm Sporcu Başvuruları ile İlgili Bilgilendirme",
-  "url": "https://www.tyf.gov.tr/haber/tohm-sporcu-basvurulari-ile-ilgili-bilgilendirme.html",
-  "summary": "TOHM SPORCU BAŞVURULARI Türkiye Olimpik Hazırlık Merkezleri (TOHM) sporcu başvuruları, 2–11 Ekim 2026 tarihleri arasında gerçekleştirilecektir. Başvurular, TOHM kriterleri ve ilgili başvuru şartları doğrultusunda, e-Devlet üzerinden aşağıda yer alan bağlantı aracılığıyla alınacaktır. Sporcuların başvuru sürecini, başvuru şartlarını ve dosyada belirtilen kriterleri dikkatle inceleyerek başvurularını belirtilen tarihler içerisinde tamamlamaları önemle rica olunur. Başvurusu onaylanan sporcular 14-27 Ekim 2026 tarihleri arasında kayıt evraklarını hazırlayarak kayıt yaptırmak istedikleri Gençlik v",
-  "image": "https://dosya.tyf.gov.tr/public/image/news/default/default_y.jpg",
-  "category": "duyuru",
-  "tags": [
-   "burs"
-  ],
-  "published_at": "2026-09-22T00:00:00+00:00",
-  "first_seen_at": "2026-09-22T22:02:35+00:00",
   "source": "html"
  },
  {
@@ -5052,77 +5118,5 @@
   "published_at": "2026-09-21T19:20:57+00:00",
   "first_seen_at": "2026-09-21T19:20:57+00:00",
   "source": "html"
- },
- {
-  "id": "18adfca8750fe0c4",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Gelişmekte Olan Branşlar faaliyet takviminde değişiklik",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-469-10-13-eylul-2026-hemsball-gencler-ve-buyukler-turkiye-sampiyonasi-mugla-mentese",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-21T19:19:30+00:00",
-  "first_seen_at": "2026-09-21T19:19:30+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "063f7feca515216f",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 370 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-21T19:19:21+00:00",
-  "first_seen_at": "2026-09-21T19:19:21+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "9be4f838c7025ca5",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-21T19:19:20+00:00",
-  "first_seen_at": "2026-09-21T19:19:20+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "bdb03da3963f20ef",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Voleybol faaliyet takviminde değişiklik",
-  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-21T19:19:17+00:00",
-  "first_seen_at": "2026-09-21T19:19:17+00:00",
-  "source": "takvim-excel"
  }
 ]

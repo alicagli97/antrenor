@@ -1,5 +1,42 @@
 [
  {
+  "id": "1c360d0c7d5b1fed",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "ADAY HAKEM KURSU",
+  "url": "https://muaythai.gov.tr/2026/09/27/aday-hakem-kursu-16/",
+  "summary": "MUAYTHAİ ADAY HAKEMLİK KURSU ÇORLU’DA GERÇEKLEŞTİRİLDİ Türkiye Muaythai Federasyonu faaliyet programı kapsamında düzenlenen Muaythai Aday Hakemlik Kursu, 26-27",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2022/09/hakem-kursu.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-09-27T13:47:53+00:00",
+  "first_seen_at": "2026-09-27T13:53:44+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "8415b701451723f0",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "Para Okçuluk 2. Kademe Yardımcı Antrenör Yetiştirme Uygulama Kursu",
+  "url": "https://www.okculuk.org.tr/para-okculuk-2-kademe-yardimci-antrenor-yetistirme-uygulama-kursu/",
+  "summary": "Değerli Antrenör Adaylarımız, 2026 yılı Para Okçuluk Faaliyet Programımızda bulunan “Para Okçuluk 2. Kademe Yardımcı Antrenör Yetiştirme Uygulama Kursu” 10-17 Ekim 2026 tarihleri arasında İstanbul’da yapılacaktır. 2026 Yılı Antrenör Yetiştirme Kurslarımızın aşağıda detayları belirtilmiş olan bir dizi kural ve uygulama eşliğinde düzenlemesi planlanmaktadır; 1. Kurs katılımı 45 asil ve 5 bütünleme katılımcısı olmak üzere toplamda 50 kişi ile sınırlıdır. Başvurular ve ödeme süreci 28 Eylül – 05 Ekim […]",
+  "image": "https://www.okculuk.org.tr/wp-content/uploads/2025/01/antrenor_duyurusu-3.webp",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "burs"
+  ],
+  "published_at": "2026-09-27T12:13:43+00:00",
+  "first_seen_at": "2026-09-27T13:53:44+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "8a11c21345320a64",
   "federation": "muaythai",
   "federation_name": "Türkiye Muaythai Federasyonu",
@@ -1796,24 +1833,5 @@
   "published_at": "2026-09-07T16:26:43+00:00",
   "first_seen_at": "2026-09-07T16:26:43+00:00",
   "source": "html"
- },
- {
-  "id": "fb00c7b58e46e890",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Spor Tırmanış 3. Kademe Antrenör Yetiştirme Kursu – Çanakkale Katılımcı Listesi",
-  "url": "https://tdf.tr/spor-tirmanis-3-kademe-antrenor-yetistirme-kursu-canakkale-basvurulari-copy/",
-  "summary": "12 – 20 Eylül 2026 tarihleri arasında Çanakkale’de gerçekleştirilecek olan Spor Tırmanış 3. Kademe Antrenör Yetiştirme Kursu, katılımcı listesi açıklanmıştır. Katılımcı Listesi Genel Bilgiler Kurs Tarihi: 12 – 20 Eylül 2026 / Çanakkale Kurs Yeri: Güzelyalı Milli Takımlar Kamp Eğitim Merkezi / Çanakkale Kurs Ücreti: 4.850 TL Ön Kayıt Başlangıç: 25 Ağustos 2026, Saat 10:00 […]",
-  "image": "https://tdf.tr/wp-content/uploads/2026/07/Spor_Tirmanis_Lider-Milli_Takim_Kampi-INVENTIST-17.07.2026-65-scaled.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs",
-   "milli_takim"
-  ],
-  "published_at": "2026-09-07T13:30:46+00:00",
-  "first_seen_at": "2026-09-07T16:26:43+00:00",
-  "source": "wp_json"
  }
 ]

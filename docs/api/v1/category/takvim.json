@@ -1,5 +1,59 @@
 [
  {
+  "id": "4aebc7f3744a03c2",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Masa Tenisi faaliyet takviminde değişiklik",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-28T21:52:00+00:00",
+  "first_seen_at": "2026-09-28T21:52:00+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "588833aa27b55dbf",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 387 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-28T21:52:00+00:00",
+  "first_seen_at": "2026-09-28T21:52:00+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "6746b86135e5afa8",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-28T21:51:57+00:00",
+  "first_seen_at": "2026-09-28T21:51:57+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "5731c18581edf9e5",
   "federation": "cimnastik",
   "federation_name": "Türkiye Cimnastik Federasyonu",
@@ -1186,95 +1240,5 @@
   "published_at": "2026-09-09T14:28:23+00:00",
   "first_seen_at": "2026-09-09T14:28:23+00:00",
   "source": "takvim-excel"
- },
- {
-  "id": "884af38b175bf1ee",
-  "federation": "havasporlari",
-  "federation_name": "Türkiye Hava Sporları Federasyonu",
-  "federation_short": "THSF",
-  "title": "Hava Sporları faaliyet takviminde değişiklik",
-  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-08T18:33:52+00:00",
-  "first_seen_at": "2026-09-08T18:33:52+00:00",
-  "source": "takvim-pdf"
- },
- {
-  "id": "229b4f7b9d44c5b2",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 353 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-08T18:33:43+00:00",
-  "first_seen_at": "2026-09-08T18:33:43+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "98bc2598070840a7",
-  "federation": "masatenisi",
-  "federation_name": "Türkiye Masa Tenisi Federasyonu",
-  "federation_short": "TMTF",
-  "title": "Masa Tenisi faaliyet takviminde değişiklik",
-  "url": "https://tmtf.gov.tr/haberler-35",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-08T18:33:41+00:00",
-  "first_seen_at": "2026-09-08T18:33:41+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "d3f7c98e5b62846e",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-08T14:25:55+00:00",
-  "first_seen_at": "2026-09-08T14:25:55+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "b60160f2d77a6fa6",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "Binicilik faaliyet takviminde değişiklik",
-  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-08T14:25:54+00:00",
-  "first_seen_at": "2026-09-08T14:25:54+00:00",
-  "source": "takvim-html"
  }
 ]

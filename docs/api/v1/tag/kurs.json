@@ -1,5 +1,23 @@
 [
  {
+  "id": "66e847cf9071608c",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "3. Kademe Yüzme Antrenörü Yetiştirme Kursu 12-16 Ekim 2026 Ankara",
+  "url": "https://www.tyf.gov.tr/haber/3-kademe-yuzme-antrenoru-yetistirme-kursu-12-16-ekim-2026-ankara.html",
+  "summary": "BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-09/1493/1790621180_y.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-28T21:54:45+00:00",
+  "first_seen_at": "2026-09-28T21:54:45+00:00",
+  "source": "html"
+ },
+ {
   "id": "3328e7bfab088623",
   "federation": "bedenselengelliler",
   "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
@@ -1867,24 +1885,6 @@
   ],
   "published_at": "2026-09-09T00:00:00+00:00",
   "first_seen_at": "2026-09-10T18:22:42+00:00",
-  "source": "html"
- },
- {
-  "id": "7ca6d8f03364632e",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "5. Kademe Boks Antrenör Kursu Başladı",
-  "url": "https://www.turkboks.gov.tr/5-kademe-boks-antrenor-kursu-basladi/",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-09-08T18:36:44+00:00",
-  "first_seen_at": "2026-09-08T18:36:44+00:00",
   "source": "html"
  }
 ]

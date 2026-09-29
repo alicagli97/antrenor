@@ -1,5 +1,60 @@
 [
  {
+  "id": "93ea33760e07c8e8",
+  "federation": "boks",
+  "federation_name": "Türkiye Boks Federasyonu",
+  "federation_short": "TBF",
+  "title": "Beşiktaş Antrenörlerinden Başkanımız Suat Hekimoğlu’na Ziyaret",
+  "url": "https://www.turkboks.gov.tr/besiktas-antrenorlerinden-baskanimiz-suat-hekimogluna-ziyaret/",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-09-29T15:44:43+00:00",
+  "first_seen_at": "2026-09-29T15:44:43+00:00",
+  "source": "html"
+ },
+ {
+  "id": "51f70420f6f7b3f4",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Yeni mevzuat: Türkiye Masa Tenisi Federasyonu Para Masa Tenisi Spor Dalı Sporcu Lisans Vize ve Transfer Talimatı",
+  "url": "https://www.tmtf.gov.tr/uploads/img/turkiye_masa_tenisi_federasyonu_para_masa_tenisi_spor_dali_sporcu_lisans__vize_ve_transfer_talimati.pdf",
+  "summary": "Masa Tenisi federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-09-29T15:43:28+00:00",
+  "first_seen_at": "2026-09-29T15:43:28+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "4d443474b5dbdca6",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Yeni mevzuat: turkiye masa tenisi federasyonu para masa tenisi spor dali sporcu lisans vize ve transfer talimati",
+  "url": "https://tmtf.gov.tr/uploads/img/turkiye_masa_tenisi_federasyonu_para_masa_tenisi_spor_dali_sporcu_lisans__vize_ve_transfer_talimati.pdf",
+  "summary": "Masa Tenisi federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-09-29T15:43:28+00:00",
+  "first_seen_at": "2026-09-29T15:43:28+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "f0561f3e5bc30aee",
   "federation": "havasporlari",
   "federation_name": "Türkiye Hava Sporları Federasyonu",
@@ -3731,63 +3786,6 @@
   ],
   "published_at": "2026-09-27T09:33:17+00:00",
   "first_seen_at": "2026-09-27T09:33:17+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "62805a42a2329ffd",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Kulüplerin Dağcılık Eğitimi Düzenleme Yönergesi (Yürürlükten kaldırıldı yerine TDF Eğitim Yönergesi geldi)",
-  "url": "https://drive.google.com/file/d/1_NN0kAbLJuRmoHppOuXuzsx187IDLkQS/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-27T09:33:17+00:00",
-  "first_seen_at": "2026-09-27T09:33:17+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "9d102c323ecc63d2",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Boltlama Uygulama ve Eğitim Kuralları Yönergesi",
-  "url": "https://drive.google.com/file/d/114TFgPP1DC0HwMGE6v2PL4rsAI74gQXv/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-27T09:33:11+00:00",
-  "first_seen_at": "2026-09-27T09:33:11+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "63ed91f8d1c741cd",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Mevzuat güncellendi: Short Track Başkent Kupası Revize Yarışma Talimatı...",
-  "url": "https://buzpateni.org.tr/bildiri-detay/short-track-baskent-kupasi-revize-yarisma-talimati-11",
-  "summary": "Türkiye Buz Pateni Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-27T09:33:04+00:00",
-  "first_seen_at": "2026-09-27T09:33:04+00:00",
   "source": "mevzuat"
  }
 ]

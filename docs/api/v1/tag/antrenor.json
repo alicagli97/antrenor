@@ -1,5 +1,23 @@
 [
  {
+  "id": "7ca6d8f03364632e",
+  "federation": "boks",
+  "federation_name": "Türkiye Boks Federasyonu",
+  "federation_short": "TBF",
+  "title": "5. Kademe Boks Antrenör Kursu Başladı",
+  "url": "https://www.turkboks.gov.tr/5-kademe-boks-antrenor-kursu-basladi/",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-29T01:50:51+00:00",
+  "first_seen_at": "2026-09-29T01:50:51+00:00",
+  "source": "html"
+ },
+ {
   "id": "66e847cf9071608c",
   "federation": "yuzme",
   "federation_name": "Türkiye Yüzme Federasyonu",
@@ -3773,24 +3791,5 @@
   "published_at": "2026-09-25T14:07:48+00:00",
   "first_seen_at": "2026-09-25T18:32:59+00:00",
   "source": "rss"
- },
- {
-  "id": "c6376a9338379278",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüplerinin Genel Kurul ve Yönetim Kurulu Toplantılarının Elektronik Ortamda Yapılmasına İlişkin Usul ve Esaslar Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39822&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-25T09:12:36+00:00",
-  "first_seen_at": "2026-09-25T09:12:36+00:00",
-  "source": "mevzuat"
  }
 ]

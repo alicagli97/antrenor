@@ -1,5 +1,55 @@
 [
  {
+  "id": "7ca6d8f03364632e",
+  "federation": "boks",
+  "federation_name": "Türkiye Boks Federasyonu",
+  "federation_short": "TBF",
+  "title": "5. Kademe Boks Antrenör Kursu Başladı",
+  "url": "https://www.turkboks.gov.tr/5-kademe-boks-antrenor-kursu-basladi/",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-29T01:50:51+00:00",
+  "first_seen_at": "2026-09-29T01:50:51+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ab90084bce6387dc",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-13414101",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-29T01:50:51+00:00",
+  "first_seen_at": "2026-09-29T01:50:51+00:00",
+  "source": "html"
+ },
+ {
+  "id": "6c083ceab9193ce4",
+  "federation": "oryantiring",
+  "federation_name": "Türkiye Oryantiring Federasyonu",
+  "federation_short": "TOF",
+  "title": "Mali Genel Kurul Duyurusu",
+  "url": "https://oryantiring.org.tr/haberler#mali-genel-kurul-duyurusu",
+  "summary": "TÜRKİYE ORYANTİRİNG FEDERASYONU Duyuru detayları ekteki dosyadadır. Türkiye Oryantiring Federasyonu",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-29T01:50:51+00:00",
+  "first_seen_at": "2026-09-29T01:50:51+00:00",
+  "source": "headings"
+ },
+ {
   "id": "7a0cbd742a443ec0",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -4867,23 +4917,6 @@
   "source": "html"
  },
  {
-  "id": "d1bd0cf6b6dc4986",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Tohm 2026 Yılı Kano Spor Dalı Başvuruları",
-  "url": "https://kano.org.tr/tohm-basvurulari-alinacaktir-1",
-  "summary": "Duyuru ve Etkinlikler Anasayfa Duyuru ve Etkinlikler TOHM 2026 YILI KANO SPOR DALI BAŞVURULARI 24 Eylül 2026, Perşembe Paylaş × Kapat TOHM 2026 YILI KANO SPOR DALI BAŞVURULARI 2026 yılı TOHM sporcu alım sürecinin detayları belli oldu. Sporcu Yetiştirme Dairesi Başkanlığı ve Türkiye Kano Federasyonu tarafından, 2026 yılı Türkiye Olimpik Hazırlık Merkezleri (TOHM) sporcu alım kriterleri belirlenmiştir. Başvuru Tarihleri: Başvurular, 30 Eylül-9 Ekim 2026 tarihleri arasında e-Devlet üzerinden gerçekleştirilecektir. DURGUNSU KANO TOHM SEÇME KRİTERLERİ Spor Bilgi Sistemi E-devlet Başvuru Etiketler #",
-  "image": "https://kano.org.tr/uploads/duyuru-1-.-1-.jpg",
-  "category": "duyuru",
-  "tags": [
-   "burs"
-  ],
-  "published_at": "2026-09-24T00:00:00+00:00",
-  "first_seen_at": "2026-09-24T09:57:30+00:00",
-  "source": "html"
- },
- {
   "id": "22a8c596b08b784d",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -4896,21 +4929,6 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-09-23T23:39:51+00:00",
-  "first_seen_at": "2026-09-23T23:39:51+00:00",
-  "source": "html"
- },
- {
-  "id": "f5c75844949f7142",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "A Milli Takım Haber Detayları TFF",
-  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51414",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-09-23T23:39:51+00:00",
   "first_seen_at": "2026-09-23T23:39:51+00:00",
   "source": "html"
@@ -5071,22 +5089,5 @@
   "published_at": "2026-09-23T16:48:05+00:00",
   "first_seen_at": "2026-09-23T16:48:05+00:00",
   "source": "takvim-html"
- },
- {
-  "id": "b90b6928dcc924c9",
-  "federation": "otomobil",
-  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
-  "federation_short": "TOSFED",
-  "title": "Baja Şampiyonası Bursa’da Devam Ediyor",
-  "url": "https://www.tosfed.org.tr/baja-sampiyonasi-bursada-devam-ediyor/",
-  "summary": "Adrenalin tutkunları, Bursa Alternatif Spor Kulübü (BASK) organizasyonu Baja Arca ile bir kez daha Bursa’da buluşacak. 2026 Türkiye Baja Şampiyonası’nın 4.ayağı olan organizasyon, 25-27 Eylül tarihleri arasında heyecan dolu mücadelelere sahne olacak. Bursa Büyükşehir Belediyesi, Warn Türkiye, Suryapı Marka AVM, Resital Türkiye Gayrimenkul, Hilton Bursa, Plaza Tur, Mega Metal katkılarıyla gerçekleşecek olan organizasyon, Cumartesi ve Pazar […]",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-23T15:27:10+00:00",
-  "first_seen_at": "2026-09-23T16:53:12+00:00",
-  "source": "rss"
  }
 ]

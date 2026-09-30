@@ -1,5 +1,77 @@
 [
  {
+  "id": "ed794c90388274c8",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» 2026 yılı Kulüp Spor Dalı Tescili ve Vize Başvuruları",
+  "url": "https://www.eskrim.org.tr/2026-yili-kulup-spor-dali-tescili-ve-vize-basvurulari-2422.html",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "vize",
+   "kulup",
+   "burs"
+  ],
+  "published_at": "2026-09-30T23:43:32+00:00",
+  "first_seen_at": "2026-09-30T23:43:32+00:00",
+  "source": "html"
+ },
+ {
+  "id": "24506d9e7f75b4ae",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» 2026 Yılı Sporcu Lisans, Vize ve Transfer İşlemleri Hk.",
+  "url": "https://www.eskrim.org.tr/2026-yili-sporcu-lisans-vize-ve-transfer-islemleri-hk-1148.html",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "vize",
+   "transfer"
+  ],
+  "published_at": "2026-09-30T23:43:32+00:00",
+  "first_seen_at": "2026-09-30T23:43:32+00:00",
+  "source": "html"
+ },
+ {
+  "id": "038488aa165bfdb6",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» EFC ve FIE antrenör lisansları hk.",
+  "url": "https://www.eskrim.org.tr/efc-ve-fie-antrenor-lisanslari-hk-2394.html",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-09-30T23:43:32+00:00",
+  "first_seen_at": "2026-09-30T23:43:32+00:00",
+  "source": "html"
+ },
+ {
+  "id": "bfa5506c0ceb66d4",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-30T23:41:40+00:00",
+  "first_seen_at": "2026-09-30T23:41:40+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "3b40982866e4f6e4",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -1001,78 +1073,6 @@
   ],
   "published_at": "2026-09-25T09:07:05+00:00",
   "first_seen_at": "2026-09-25T09:07:05+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "53c3b3bf31ad22a1",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Mevzuat güncellendi: » Türkiye Eskrim Federasyonu ve Nişantaşı Üniversitesi Eğitimde İş Birliği Protokolü hk.",
-  "url": "https://www.eskrim.org.tr/turkiye-eskrim-federasyonu-ve-nisantasi-universitesi-egitimde-is-birligi-protokolu-hk-2256.html",
-  "summary": "Türkiye Eskrim Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-25T09:07:05+00:00",
-  "first_seen_at": "2026-09-25T09:07:05+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "456ba72ad2c1b511",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-24T19:02:57+00:00",
-  "first_seen_at": "2026-09-24T19:02:57+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "9b58a617ee34f952",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» İstanbul Yıldızlar U17 Kılıç Circuit Takım Başvuruları hk.",
-  "url": "https://www.eskrim.org.tr/istanbul-yildizlar-u17-kilic-circuit-takim-basvurulari-hk-1389.html",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "burs"
-  ],
-  "published_at": "2026-09-24T09:57:30+00:00",
-  "first_seen_at": "2026-09-24T09:57:30+00:00",
-  "source": "html"
- },
- {
-  "id": "94abf30d8f5764c9",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Mevzuat güncellendi: » Yıldızlar U17 ve Gençler Kılıç Türkiye Kupası Talimatı - 27 - 28 Kasım 2026 Ankara",
-  "url": "https://www.eskrim.org.tr/yildizlar-u17-ve-gencler-kilic-turkiye-kupasi-talimati-27-28-kasim-2026-ankara-2635.html",
-  "summary": "Türkiye Eskrim Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-24T08:46:44+00:00",
-  "first_seen_at": "2026-09-24T08:46:44+00:00",
   "source": "mevzuat"
  }
 ]

@@ -1,5 +1,38 @@
 [
  {
+  "id": "f6380197b74d6d05",
+  "federation": "boks",
+  "federation_name": "Türkiye Boks Federasyonu",
+  "federation_short": "TBF",
+  "title": "Erkan Efe ve Remzi Karaca’dan Başkanımız Suat Hekimoğlu’na Ziyaret",
+  "url": "https://www.turkboks.gov.tr/erkan-efe-ve-remzi-karacadan-baskanimiz-suat-hekimogluna-ziyaret/",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-09-30T13:38:46+00:00",
+  "first_seen_at": "2026-09-30T13:38:46+00:00",
+  "source": "html"
+ },
+ {
+  "id": "a2425e76299e29fb",
+  "federation": "boks",
+  "federation_name": "Türkiye Boks Federasyonu",
+  "federation_short": "TBF",
+  "title": "Mevzuat güncellendi: U23 Erkekler ve Kadınlar Türkiye Ferdi Boks Şampiyonası Müsabaka Talimatı Yayınlandı",
+  "url": "https://www.turkboks.gov.tr/u23-erkekler-ve-kadinlar-turkiye-ferdi-boks-sampiyonasi-musabaka-talimati-yayinlandi/",
+  "summary": "Türkiye Boks Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-09-30T09:59:27+00:00",
+  "first_seen_at": "2026-09-30T09:59:27+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "2eb8e377d2955005",
   "federation": "boks",
   "federation_name": "Türkiye Boks Federasyonu",
@@ -547,24 +580,6 @@
   ],
   "published_at": "2026-09-11T08:17:53+00:00",
   "first_seen_at": "2026-09-11T08:17:53+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a2425e76299e29fb",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: U23 Erkekler ve Kadınlar Türkiye Ferdi Boks Şampiyonası Müsabaka Talimatı Yayınlandı",
-  "url": "https://www.turkboks.gov.tr/u23-erkekler-ve-kadinlar-turkiye-ferdi-boks-sampiyonasi-musabaka-talimati-yayinlandi/",
-  "summary": "Türkiye Boks Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-10T08:23:12+00:00",
-  "first_seen_at": "2026-09-10T08:23:12+00:00",
   "source": "mevzuat"
  }
 ]

@@ -1,5 +1,40 @@
 [
  {
+  "id": "bc909007886d4a39",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U-16 Milli Takım Haber Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=281&ftxtID=51485",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-09-30T06:40:12+00:00",
+  "first_seen_at": "2026-09-30T06:40:12+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b115cfcb63e6b9b9",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-09-30T06:37:34+00:00",
+  "first_seen_at": "2026-09-30T06:37:34+00:00",
+  "source": "takvim-pdf"
+ },
+ {
   "id": "2eb8e377d2955005",
   "federation": "boks",
   "federation_name": "Türkiye Boks Federasyonu",
@@ -5060,37 +5095,5 @@
   "published_at": "2026-09-24T14:57:03+00:00",
   "first_seen_at": "2026-09-24T14:57:03+00:00",
   "source": "takvim-html"
- },
- {
-  "id": "e7d735d84380b829",
-  "federation": "okculuk",
-  "federation_name": "Türkiye Okçuluk Federasyonu",
-  "federation_short": "TOF",
-  "title": "8. Mali Genel Kurul Ankara’da Gerçekleştirildi",
-  "url": "https://www.okculuk.org.tr/8-mali-genel-kurul-ankarada-gerceklestirildi/",
-  "summary": "Federasyonumuzun 8. Mali Genel Kurulu, 23-24 Eylül 2026 tarihlerinde Ankara’da gerçekleştirilmiştir. Genel kurulun ikinci gününde gerçekleştirilen toplantıda, gündem maddeleri görüşülerek delegelerin oylarına sunulmuştur. Yapılan oylamalar sonucunda oy birliği sağlanmış ve 8. Mali Genel Kurul başarıyla tamamlanmıştır. Genel kurul süresince federasyonumuzun mali ve idari konularına ilişkin değerlendirmelerde bulunulmuş, ilgili gündem maddeleri delegelerimizin katılımıyla görüşülerek karara bağlanmıştır. […]",
-  "image": "https://www.okculuk.org.tr/wp-content/uploads/2026/09/DSF6931.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-24T12:25:47+00:00",
-  "first_seen_at": "2026-09-24T15:00:06+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "ce30b5b397478a85",
-  "federation": "isitmeengelliler",
-  "federation_name": "Türkiye İşitme Engelliler Spor Federasyonu",
-  "federation_short": "TİESF",
-  "title": "7. Olağan Mali Genel Kurulu Faal Olmayan Millî Sporcular ve Teknik Direktörler Noter Huzurunda Gerçekleştirilen Delege Kura Çekimi Sonuçları | Tiesf",
-  "url": "https://tiesf.org.tr/haberlerimiz/7-olagan-mali-genel-kurulu-faal-olmayan-mill-sporcular-ve-teknik-direktorler-noter-huzurunda-gerceklestirilen-delege-kura-cekimi-sonuclari",
-  "summary": "Bize Ulaşın 0312 311 08 19 bilgi@tiesf.org.tr Ehlibeyt Mah. Tekstilciler Cad. Bayraktar Center C Blok No: 17/10 Çankaya – Ankara Bizi Takip Edin Bilgilendirme",
-  "image": "https://tiesf.org.tr/haberlerimiz/dosya/haber/6ab4e8792cb74_online-10-slider.png",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-24T09:57:31+00:00",
-  "first_seen_at": "2026-09-24T09:57:31+00:00",
-  "source": "html"
  }
 ]

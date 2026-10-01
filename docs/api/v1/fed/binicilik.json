@@ -1,5 +1,23 @@
 [
  {
+  "id": "00b6c56d1944e9f4",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-01T18:49:08+00:00",
+  "first_seen_at": "2026-10-01T18:49:08+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "abde57b2bc8cd98b",
   "federation": "binicilik",
   "federation_name": "Türkiye Binicilik Federasyonu",
@@ -1062,24 +1080,6 @@
   "federation_short": "TBF",
   "title": "Mevzuat güncellendi: Spor Atları Taşıma Talimatı - 21.03.2018",
   "url": "https://binicilik.org.tr/mevzuat/talimatlar/belge/109",
-  "summary": "Türkiye Binicilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-28T10:10:46+00:00",
-  "first_seen_at": "2026-09-28T10:10:46+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "741a423656bb86f4",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: Veteriner Talimatı - Onay Tarihi 12.01.2023",
-  "url": "https://binicilik.org.tr/mevzuat/talimatlar/belge/115",
   "summary": "Türkiye Binicilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

@@ -1,5 +1,23 @@
 [
  {
+  "id": "fbfafe50493273a9",
+  "federation": "bilardo",
+  "federation_name": "Türkiye Bilardo Federasyonu",
+  "federation_short": "TBF",
+  "title": "Bilardo faaliyet takviminde değişiklik",
+  "url": "https://www.bilardo.org.tr/haberler/turkiye-bilardo-federasyonu-2026-agustos-aralik-ayi-faaliyet-takvimi-1141",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-01T05:40:52+00:00",
+  "first_seen_at": "2026-10-01T05:40:52+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "ffe75a6c78a9979e",
   "federation": "bilardo",
   "federation_name": "Türkiye Bilardo Federasyonu",
@@ -1014,23 +1032,5 @@
   "published_at": "2026-09-13T16:11:10+00:00",
   "first_seen_at": "2026-09-13T16:11:10+00:00",
   "source": "html"
- },
- {
-  "id": "9efb0cf464814541",
-  "federation": "bilardo",
-  "federation_name": "Türkiye Bilardo Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: Talimatlar",
-  "url": "https://www.bilardo.org.tr/talimatlar",
-  "summary": "Türkiye Bilardo Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-13T08:34:45+00:00",
-  "first_seen_at": "2026-09-13T08:34:45+00:00",
-  "source": "mevzuat"
  }
 ]

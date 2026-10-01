@@ -1,24 +1,23 @@
 {
  "schema_version": 1,
- "generated_at": "2026-09-30T23:43:32+00:00",
+ "generated_at": "2026-10-01T05:42:42+00:00",
  "total": 5998,
- "new_in_last_run": 539,
- "sources_ok": 62,
+ "new_in_last_run": 553,
+ "sources_ok": 63,
  "sources_failed": [
   "basketbol",
-  "bisiklet",
   "gures"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-09-30T23:43:32+00:00",
+ "latest_published_at": "2026-10-01T05:42:42+00:00",
  "categories": {
-  "kurs": 150,
-  "takvim": 74,
-  "duyuru": 611,
-  "musabaka": 272,
-  "mevzuat": 4855,
+  "duyuru": 614,
+  "musabaka": 269,
+  "kurs": 152,
+  "takvim": 75,
+  "mevzuat": 4852,
   "haber": 36
  },
  "silent_sources": [
@@ -39,10 +38,10 @@
   }
  ],
  "federation_counts": {
-  "eskrim": 214,
+  "futbol": 165,
+  "eskrim": 212,
+  "bilardo": 66,
   "hentbol": 27,
-  "futbol": 164,
-  "bilardo": 65,
   "isitmeengelliler": 13,
   "gelismekteolan": 42,
   "cimnastik": 42,

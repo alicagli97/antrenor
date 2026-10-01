@@ -1,11 +1,9 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-01T05:40:59+00:00",
+ "generated_at": "2026-10-01T13:02:54+00:00",
  "total_calendars": 37,
- "total_events": 1458,
- "changed_in_last_run": [
-  "bilardo"
- ],
+ "total_events": 1461,
+ "changed_in_last_run": [],
  "calendars": [
   {
    "federation": "aticilik",
@@ -650,7 +648,7 @@
      "satir": "Kurs | 3. Kademe Kıdemli Antrenörlük Kursu | Havalı - Ateşli Silahlar | Muhtelif | İstanbul | İncele"
     }
    ],
-   "checked_at": "2026-10-01T05:40:49",
+   "checked_at": "2026-10-01T13:02:45",
    "bekleyen_iz": null,
    "changed_at": "2026-09-14T18:33:11+00:00",
    "parmak_izi": "23c618cb17d017ef"
@@ -1994,7 +1992,7 @@
      "satir": "26 - 27 Aralık Selahattin Yıldız Salon Kupası B-U20-U18 İstanbul Ulusal"
     }
    ],
-   "checked_at": "2026-10-01T05:40:47",
+   "checked_at": "2026-10-01T13:02:43",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "624a00b978c244a7"
@@ -2024,7 +2022,7 @@
    "fingerprint": "1fa76ad529605d0a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:55",
+   "checked_at": "2026-10-01T13:02:51",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "1fa76ad529605d0a"
@@ -2368,7 +2366,7 @@
      "satir": "Türkiye Beyzbol Şampiyonası 11-12-13 Nisan ... Devamı"
     }
    ],
-   "checked_at": "2026-10-01T05:40:56",
+   "checked_at": "2026-10-01T13:02:52",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "c26505c98fc488ff"
@@ -2383,7 +2381,7 @@
    "fingerprint": "6054156bc3223de4",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:52",
+   "checked_at": "2026-10-01T13:02:48",
    "bekleyen_iz": null,
    "changed_at": "2026-10-01T05:40:52+00:00",
    "parmak_izi": "6054156bc3223de4"
@@ -2471,6 +2469,14 @@
      "satir": "ALTAN KIRAÇ KIŞ LİGİ 2. AYAK E.A YARIŞMALARI | DİLA ATLI SPOR KULÜBÜ | İSTANBUL | 14.11.2026 | 15.11.2026"
     },
     {
+     "ad": "MAGICAL CLUB CSI 1*",
+     "tarih": "2026-11-13",
+     "tarih_metni": "13.11.2026",
+     "yer": "MAGICAL CLUB, İSTANBUL",
+     "brans": "",
+     "satir": "MAGICAL CLUB CSI 1* | MAGICAL CLUB SPOR KULÜBÜ | MAGICAL CLUB, İSTANBUL | 13.11.2026 | 15.11.2026"
+    },
+    {
      "ad": "İASK ENGEL ATLAMA YARIŞMALARI",
      "tarih": "2026-11-07",
      "tarih_metni": "07.11.2026",
@@ -2509,18 +2515,10 @@
      "yer": "ANTALYA ATLI SPOR KULÜBÜ",
      "brans": "",
      "satir": "TÜRKİYE LİGİ 9 AYAK & CUMHURİYET KUPASI | Türkiye Binicilik Federasyonu | ANTALYA ATLI SPOR KULÜBÜ | 29.10.2026 | 01.11.2026"
-    },
-    {
-     "ad": "ALTAN KIRAÇ KIŞ LİGİ 1. AYAK E.A YARIŞMALARI",
-     "tarih": "2026-10-24",
-     "tarih_metni": "24.10.2026",
-     "yer": "İSTANBUL",
-     "brans": "",
-     "satir": "ALTAN KIRAÇ KIŞ LİGİ 1. AYAK E.A YARIŞMALARI | DİLA ATLI SPOR KULÜBÜ | İSTANBUL | 24.10.2026 | 25.10.2026"
     }
    ],
-   "checked_at": "2026-10-01T05:40:48",
-   "bekleyen_iz": null,
+   "checked_at": "2026-10-01T13:02:44",
+   "bekleyen_iz": "b7cd1928ee808e8b",
    "changed_at": "2026-09-30T19:08:30+00:00",
    "parmak_izi": "500ac69ab113fe4e"
   },
@@ -3895,7 +3893,7 @@
      "satir": "11.12.2026 12.12.2026 TRACK CYCLİNG CHALLENGE İSVİÇRE CLASS 1 Milli"
     }
    ],
-   "checked_at": "2026-10-01T05:40:51",
+   "checked_at": "2026-10-01T13:02:46",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:11:18+00:00",
    "parmak_izi": "80f1546bef10a704"
@@ -4479,7 +4477,7 @@
      "satir": "5 IDF Avrupa Elektronik Dart Şampiyonası 30 Mayıs – 5 Haziran 2026 Samorin- Slovakya"
     }
    ],
-   "checked_at": "2026-10-01T05:40:54",
+   "checked_at": "2026-10-01T13:02:50",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "93a315b3298387eb"
@@ -4492,23 +4490,15 @@
    "type": "html",
    "label": "Faaliyet Programı > Detaylar",
    "fingerprint": "1d2baef718486665",
-   "event_count": 27,
+   "event_count": 30,
    "events": [
     {
-     "ad": "ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX",
-     "tarih": null,
-     "tarih_metni": "27-30",
-     "yer": "ANKARA",
-     "brans": "",
-     "satir": "1 | 27-30 | AĞUSTOS | 2025 | ANKARA | ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX | TÜRKİYE"
-    },
-    {
-     "ad": "ARTİSTİK BUZ PATENİ HAKEM/TC/TU/DRO VİZE SEMİNERİ",
+     "ad": "ARTİSTİK BUZ PATENİ HAKEM VE TEKNİK PANEL VİZE SEMİNERİ",
      "tarih": null,
      "tarih_metni": "",
      "yer": "ONLINE",
      "brans": "",
-     "satir": "2 | EYLÜL | 2025 | ONLINE | ARTİSTİK BUZ PATENİ HAKEM/TC/TU/DRO VİZE SEMİNERİ | ONLINE"
+     "satir": "1 | MUHTELİF | AĞUSTOS | 2026 | ONLINE | ARTİSTİK BUZ PATENİ HAKEM VE TEKNİK PANEL VİZE SEMİNERİ | ONLINE"
     },
     {
      "ad": "ARTİSTİK BUZ PATENİ ANTRENÖR VİZE SEMİNERİ",
@@ -4516,15 +4506,15 @@
      "tarih_metni": "",
      "yer": "ONLINE",
      "brans": "",
-     "satir": "3 | EYLÜL | 2025 | ONLINE | ARTİSTİK BUZ PATENİ ANTRENÖR VİZE SEMİNERİ | ONLINE"
+     "satir": "2 | MUHTELİF | AĞUSTOS | 2026 | ONLINE | ARTİSTİK BUZ PATENİ ANTRENÖR VİZE SEMİNERİ | ONLINE"
     },
     {
-     "ad": "ARTİSTİK BUZ PATENİ HAKEM/TC/TU/DRO VİZE SEMİNERİ",
+     "ad": "ARTİSTİK BUZ PATENİ HAKEM VE TEKNİK PANEL VİZE SEMİNERİ",
      "tarih": null,
      "tarih_metni": "",
      "yer": "ONLINE",
      "brans": "",
-     "satir": "4 | EYLÜL-EKİM | 2025 | ONLINE | ARTİSTİK BUZ PATENİ HAKEM/TC/TU/DRO VİZE SEMİNERİ | ONLINE"
+     "satir": "3 | MUHTELİF | AĞUSTOS | 2026 | ONLINE | ARTİSTİK BUZ PATENİ HAKEM VE TEKNİK PANEL VİZE SEMİNERİ | ONLINE"
     },
     {
      "ad": "ARTİSTİK BUZ PATENİ ANTRENÖR VİZE SEMİNERİ",
@@ -4532,55 +4522,71 @@
      "tarih_metni": "",
      "yer": "ONLINE",
      "brans": "",
-     "satir": "5 | EYLÜL-EKİM | 2025 | ONLINE | ARTİSTİK BUZ PATENİ ANTRENÖR VİZE SEMİNERİ | ONLINE"
+     "satir": "4 | MUHTELİF | AĞUSTOS | 2026 | ONLINE | ARTİSTİK BUZ PATENİ ANTRENÖR VİZE SEMİNERİ | ONLINE"
     },
     {
-     "ad": "ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX",
+     "ad": "ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX SEÇME YARIŞMASI",
      "tarih": null,
-     "tarih_metni": "3-6",
-     "yer": "VARESE",
-     "brans": "",
-     "satir": "6 | 3-6 | EYLÜL | 2025 | VARESE | ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX | İTALYA"
-    },
-    {
-     "ad": "ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX",
-     "tarih": null,
-     "tarih_metni": "9-13",
-     "yer": "BANGKOK",
-     "brans": "",
-     "satir": "7 | 9-13 | EYLÜL | 2025 | BANGKOK | ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX | TAYLAND"
-    },
-    {
-     "ad": "OWG 2026 QUALIFYING COMPETITON FIGURE SKATING",
-     "tarih": null,
-     "tarih_metni": "17-21",
-     "yer": "BEIJING",
-     "brans": "",
-     "satir": "8 | 17-21 | EYLÜL | 2025 | BEIJING | OWG 2026 QUALIFYING COMPETITON FIGURE SKATING | ÇİN"
-    },
-    {
-     "ad": "ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX",
-     "tarih": null,
-     "tarih_metni": "24-27",
-     "yer": "BAKU",
-     "brans": "",
-     "satir": "9 | 24-27 | EYLÜL | 2025 | BAKU | ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX | AZERBEYCAN"
-    },
-    {
-     "ad": "MATTIA AHMET MINGUZZI YARIŞMASI",
-     "tarih": null,
-     "tarih_metni": "16-19",
+     "tarih_metni": "",
      "yer": "ANKARA",
      "brans": "",
-     "satir": "10 | 16-19 | EKİM | 2025 | ANKARA | MATTIA AHMET MINGUZZI YARIŞMASI | TÜRKİYE"
+     "satir": "5 | 1 - 2 | AĞUSTOS | 2026 | ANKARA | ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX SEÇME YARIŞMASI | TÜRKİYE"
     },
     {
-     "ad": "GORDION CUP",
+     "ad": "ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX",
      "tarih": null,
-     "tarih_metni": "20-25",
+     "tarih_metni": "",
+     "yer": "RİGA",
+     "brans": "",
+     "satir": "6 | 26 - 29 | AĞUSTOS | 2026 | RİGA | ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX | LETONYA"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX SEÇME YARIŞMASI",
+     "tarih": null,
+     "tarih_metni": "",
      "yer": "ANKARA",
      "brans": "",
-     "satir": "11 | 20-25 | EKİM | 2025 | ANKARA | GORDION CUP | TÜRKİYE"
+     "satir": "7 | 5 - 6 | EYLÜL | 2026 | ANKARA | ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX SEÇME YARIŞMASI | TÜRKİYE"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX",
+     "tarih": null,
+     "tarih_metni": "",
+     "yer": "ANKARA",
+     "brans": "",
+     "satir": "8 | 16 - 19 | EYLÜL | 2026 | ANKARA | ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX | TÜRKİYE"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX",
+     "tarih": null,
+     "tarih_metni": "",
+     "yer": "BATUM",
+     "brans": "",
+     "satir": "9 | 23 - 26 | EYLÜL | 2026 | BATUM | ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX | GÜRCİSTAN"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX",
+     "tarih": null,
+     "tarih_metni": "",
+     "yer": "LJUBLJANA",
+     "brans": "",
+     "satir": "10 | 30 - 03 | EYLÜL / EKİM | 2026 | LJUBLJANA | ARTİSTİK BUZ PATENİ JUNIOR GRAND PRIX | SLOVENYA"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ TEST YARIŞMASI",
+     "tarih": null,
+     "tarih_metni": "",
+     "yer": "MUHTELİF",
+     "brans": "",
+     "satir": "11 | 10 - 11 | EKİM | 2026 | MUHTELİF | ARTİSTİK BUZ PATENİ TEST YARIŞMASI | TÜRKİYE"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ GORDION KUPASI (BÜYÜKLER)",
+     "tarih": null,
+     "tarih_metni": "",
+     "yer": "ANKARA",
+     "brans": "",
+     "satir": "12 | 22 - 25 | EKİM | 2026 | ANKARA | ARTİSTİK BUZ PATENİ GORDION KUPASI (BÜYÜKLER) | TÜRKİYE"
     },
     {
      "ad": "ARTİSTİK BUZ PATENİ 10 KASIM ATATÜRK'Ü ANMA 1.BOLGE YARIŞMASI(Ankara +Samsun + Erzurum + İzmir)",
@@ -4588,119 +4594,135 @@
      "tarih_metni": "",
      "yer": "ANKARA",
      "brans": "",
-     "satir": "12 | 07 - 09 | KASIM | 2025 | ANKARA | ARTİSTİK BUZ PATENİ 10 KASIM ATATÜRK'Ü ANMA 1.BOLGE YARIŞMASI(Ankara +Samsun + Erzurum + İzmir) | TÜRKİYE"
-    },
-    {
-     "ad": "BOSPHORUS CUP",
-     "tarih": null,
-     "tarih_metni": "24-30",
-     "yer": "İSTANBUL",
-     "brans": "",
-     "satir": "13 | 24-30 | KASIM | 2025 | İSTANBUL | BOSPHORUS CUP | TÜRKİYE"
+     "satir": "13 | 12 - 15 | KASIM | 2026 | ANKARA | ARTİSTİK BUZ PATENİ 10 KASIM ATATÜRK'Ü ANMA 1.BOLGE YARIŞMASI(Ankara +Samsun + Erzurum + İzmir) | TÜRKİYE"
     },
     {
      "ad": "ARTİSTİK BUZ PATENİ 1.BOLGE YARlŞMASI(istanbul+ Tekirdag + Kocaeli+ Bursa)",
      "tarih": null,
-     "tarih_metni": "04-07",
-     "yer": "TEKİRDAĞ",
+     "tarih_metni": "",
+     "yer": "KOCAELİ(GEBZE)",
      "brans": "",
-     "satir": "14 | 04-07 | ARALIK | 2025 | TEKİRDAĞ | ARTİSTİK BUZ PATENİ 1.BOLGE YARlŞMASI(istanbul+ Tekirdag + Kocaeli+ Bursa) | TÜRKİYE"
+     "satir": "14 | 26 - 29 | KASIM | 2026 | KOCAELİ(GEBZE) | ARTİSTİK BUZ PATENİ 1.BOLGE YARlŞMASI(istanbul+ Tekirdag + Kocaeli+ Bursa) | TÜRKİYE"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ TEST YARIŞMASI",
+     "tarih": null,
+     "tarih_metni": "",
+     "yer": "MUHTELİF",
+     "brans": "",
+     "satir": "15 | 5 - 6 | ARALIK | 2026 | MUHTELİF | ARTİSTİK BUZ PATENİ TEST YARIŞMASI | TÜRKİYE"
     },
     {
      "ad": "ARTİSTİK BUZ PATENİ BÜYÜKLER TÜRKİYE ŞAMPİYONASI",
      "tarih": null,
-     "tarih_metni": "18-21",
-     "yer": "KOCAELİ",
+     "tarih_metni": "",
+     "yer": "ANKARA",
      "brans": "",
-     "satir": "15 | 18-21 | ARALIK | 2025 | KOCAELİ | ARTİSTİK BUZ PATENİ BÜYÜKLER TÜRKİYE ŞAMPİYONASI | TÜRKİYE"
+     "satir": "16 | 24 - 27 | ARALIK | 2026 | ANKARA | ARTİSTİK BUZ PATENİ BÜYÜKLER TÜRKİYE ŞAMPİYONASI | TÜRKİYE"
     },
     {
-     "ad": "SOFIA TROPHY",
-     "tarih": null,
-     "tarih_metni": "6-11",
-     "yer": "SOFYA",
-     "brans": "",
-     "satir": "16 | 6-11 | OCAK | 2026 | SOFYA | SOFIA TROPHY | BULGARİSTAN"
-    },
-    {
-     "ad": "ARTİSTİK BUZ PATENİ AVRUPA ŞAMPiYONASI",
-     "tarih": null,
-     "tarih_metni": "13-18",
-     "yer": "SHEFFIELD",
-     "brans": "",
-     "satir": "17 | 13-18 | OCAK | 2026 | SHEFFIELD | ARTİSTİK BUZ PATENİ AVRUPA ŞAMPiYONASI | İNGİLTERE"
-    },
-    {
-     "ad": "ARTİSTİK BUZ PATENİ 2.BOLGE YARlŞMASI(istanbul+ Tekirdag + Kocaeli+ Bursa)",
+     "ad": "ARTİSTİK BUZ PATENİ TEST YARIŞMASI",
      "tarih": null,
      "tarih_metni": "",
-     "yer": "BURSA",
+     "yer": "MUHTELİF",
      "brans": "",
-     "satir": "18 | 30 - 01 | OCAK/ŞUBAT | 2026 | BURSA | ARTİSTİK BUZ PATENİ 2.BOLGE YARlŞMASI(istanbul+ Tekirdag + Kocaeli+ Bursa) | TÜRKİYE"
+     "satir": "17 | 9 - 10 | OCAK | 2027 | MUHTELİF | ARTİSTİK BUZ PATENİ TEST YARIŞMASI | TÜRKİYE"
     },
     {
-     "ad": "SKATE HELENA",
+     "ad": "ÜNİVERSİTE KIŞ OYUNLARI",
      "tarih": null,
-     "tarih_metni": "5-8",
-     "yer": "BELGRAD",
+     "tarih_metni": "",
+     "yer": "JILIN",
      "brans": "",
-     "satir": "19 | 5-8 | ŞUBAT | 2026 | BELGRAD | SKATE HELENA | SIRBİSTAN"
+     "satir": "18 | 15 - 25 | OCAK | 2027 | JILIN | ÜNİVERSİTE KIŞ OYUNLARI | ÇİN"
     },
     {
-     "ad": "OLİMPİYAT KIŞ OYUNLARI",
+     "ad": "ARTİSTİK BUZ PATENİ 2.BOLGE YARlŞMASI (Ankara +Samsun + Erzurum + İzmir)",
      "tarih": null,
-     "tarih_metni": "6-23",
-     "yer": "MİLANO CORTİNA",
-     "brans": "",
-     "satir": "20 | 6-23 | ŞUBAT | 2026 | MİLANO CORTİNA | OLİMPİYAT KIŞ OYUNLARI | İTALYA"
-    },
-    {
-     "ad": "ARTİSTİK BUZ PATENİ 2.BOLGE YARIŞMASI(Ankara +Samsun + Erzurum + İzmir)",
-     "tarih": null,
-     "tarih_metni": "20-22",
+     "tarih_metni": "",
      "yer": "İZMİR",
      "brans": "",
-     "satir": "21 | 20-22 | ŞUBAT | 2026 | İZMİR | ARTİSTİK BUZ PATENİ 2.BOLGE YARIŞMASI(Ankara +Samsun + Erzurum + İzmir) | TÜRKİYE"
+     "satir": "19 | 21 - 24 | OCAK | 2027 | İZMİR | ARTİSTİK BUZ PATENİ 2.BOLGE YARlŞMASI (Ankara +Samsun + Erzurum + İzmir) | TÜRKİYE"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ AVRUPA ŞAMPİYONASI",
+     "tarih": null,
+     "tarih_metni": "",
+     "yer": "LOZAN",
+     "brans": "",
+     "satir": "20 | 27 - 31 | OCAK | 2027 | LOZAN | ARTİSTİK BUZ PATENİ AVRUPA ŞAMPİYONASI | İSVİÇRE"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ 2.BOLGE YARIŞMASI (istanbul+ Tekirdag + Kocaeli+ Bursa)",
+     "tarih": null,
+     "tarih_metni": "",
+     "yer": "BURSA/TEKİRDAĞ",
+     "brans": "",
+     "satir": "21 | 28 - 31 | OCAK | 2027 | BURSA/TEKİRDAĞ | ARTİSTİK BUZ PATENİ 2.BOLGE YARIŞMASI (istanbul+ Tekirdag + Kocaeli+ Bursa) | TÜRKİYE"
+    },
+    {
+     "ad": "EYOF 2027",
+     "tarih": null,
+     "tarih_metni": "14-21",
+     "yer": "BRAŞOV",
+     "brans": "",
+     "satir": "22 | 14-21 | ŞUBAT | 2027 | BRAŞOV | EYOF 2027 | ROMANYA"
     },
     {
      "ad": "ARTİSTİK BUZ PATENİ DÜNYA GENÇLER ŞAMPİYONASI",
      "tarih": null,
-     "tarih_metni": "3-8",
-     "yer": "TALİN",
+     "tarih_metni": "",
+     "yer": "SOFYA",
      "brans": "",
-     "satir": "22 | 3-8 | MART | 2026 | TALİN | ARTİSTİK BUZ PATENİ DÜNYA GENÇLER ŞAMPİYONASI | ESTONYA"
+     "satir": "23 | 24 - 28 | ŞUBAT | 2027 | SOFYA | ARTİSTİK BUZ PATENİ DÜNYA GENÇLER ŞAMPİYONASI | BULGARİSTAN"
     },
     {
      "ad": "ARTİSTİK BUZ PATENİ ÜMİTLER TÜRKİYE ŞAMPİYONASI",
      "tarih": null,
-     "tarih_metni": "6-8",
-     "yer": "ANKARA",
+     "tarih_metni": "",
+     "yer": "KOCAELİ",
      "brans": "",
-     "satir": "23 | 6-8 | MART | 2026 | ANKARA | ARTİSTİK BUZ PATENİ ÜMİTLER TÜRKİYE ŞAMPİYONASI | TÜRKİYE"
+     "satir": "24 | 18 - 21 | MART | 2027 | KOCAELİ | ARTİSTİK BUZ PATENİ ÜMİTLER TÜRKİYE ŞAMPİYONASI | TÜRKİYE"
     },
     {
      "ad": "ARTİSTİK BUZ PATENİ DÜNYA ŞAMPİYONASI",
      "tarih": null,
-     "tarih_metni": "24-29",
-     "yer": "PRAG",
+     "tarih_metni": "",
+     "yer": "TEMPERE",
      "brans": "",
-     "satir": "24 | 24-29 | MART | 2026 | PRAG | ARTİSTİK BUZ PATENİ DÜNYA ŞAMPİYONASI | ÇEK CUMHURİYETİ"
+     "satir": "25 | 17 - 21 | MART | 2027 | TEMPERE | ARTİSTİK BUZ PATENİ DÜNYA ŞAMPİYONASI | FİNLANDİYA"
     },
     {
-     "ad": "TRIGLAV TROPHY & NARCISA CUP",
-     "tarih": null,
-     "tarih_metni": "08-12",
-     "yer": "JESENICE",
-     "brans": "",
-     "satir": "26 | 08-12 | NİSAN | 2026 | JESENICE | TRIGLAV TROPHY & NARCISA CUP | SLOVENYA"
-    },
-    {
-     "ad": "ARTİSTİK BUZ PATENİ SPOR TOTO KUPASI",
+     "ad": "ARTİSTİK BUZ PATENİ TEST YARIŞMASI",
      "tarih": null,
      "tarih_metni": "",
-     "yer": "BURSA",
+     "yer": "MUHTELİF",
      "brans": "",
-     "satir": "25 | 14 - 17 | MAYIS | 2026 | BURSA | ARTİSTİK BUZ PATENİ SPOR TOTO KUPASI | TÜRKİYE"
+     "satir": "26 | 27 - 28 | MART | 2027 | MUHTELİF | ARTİSTİK BUZ PATENİ TEST YARIŞMASI | TÜRKİYE"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ BAHAR KUPASI (ÜMİTLER)",
+     "tarih": null,
+     "tarih_metni": "",
+     "yer": "BURSA/SAMSUN",
+     "brans": "",
+     "satir": "27 | 14 - 18 | NİSAN | 2027 | BURSA/SAMSUN | ARTİSTİK BUZ PATENİ BAHAR KUPASI (ÜMİTLER) | TÜRKİYE"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ SPOR TOTO KUPASI (BÜYÜKLER)",
+     "tarih": null,
+     "tarih_metni": "",
+     "yer": "TEKİRDAĞ/BURSA",
+     "brans": "",
+     "satir": "28 | 06 - 09 | MAYIS | 2027 | TEKİRDAĞ/BURSA | ARTİSTİK BUZ PATENİ SPOR TOTO KUPASI (BÜYÜKLER) | TÜRKİYE"
+    },
+    {
+     "ad": "ARTİSTİK BUZ PATENİ TEST YARIŞMASI",
+     "tarih": null,
+     "tarih_metni": "",
+     "yer": "MUHTELİF",
+     "brans": "",
+     "satir": "29 | 29 - 30 | MAYIS | 2027 | MUHTELİF | ARTİSTİK BUZ PATENİ TEST YARIŞMASI | TÜRKİYE"
     },
     {
      "ad": "TÜRKİYE BUZ PATENİ FEDERASYONU SEZON İÇERİSİNDE GEREKLİ GÖRDÜĞÜ TAKDİRDE TÜM FAALYETLERDE DEĞİŞİKLİK YAPMA HAKKINA SAHİPTİR.",
@@ -4711,8 +4733,8 @@
      "satir": "TÜRKİYE BUZ PATENİ FEDERASYONU SEZON İÇERİSİNDE GEREKLİ GÖRDÜĞÜ TAKDİRDE TÜM FAALYETLERDE DEĞİŞİKLİK YAPMA HAKKINA SAHİPTİR."
     }
    ],
-   "checked_at": "2026-10-01T05:40:52",
-   "bekleyen_iz": null,
+   "checked_at": "2026-10-01T13:02:48",
+   "bekleyen_iz": "4b189e7e6d887025",
    "changed_at": "2026-08-20T20:10:50+00:00",
    "parmak_izi": "1d2baef718486665"
   },
@@ -7839,7 +7861,7 @@
      "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
     }
    ],
-   "checked_at": "2026-10-01T05:40:49",
+   "checked_at": "2026-10-01T13:02:46",
    "bekleyen_iz": null,
    "changed_at": "2026-09-30T19:08:32+00:00",
    "parmak_izi": "69a8a571214b019c"
@@ -8318,8 +8340,8 @@
    "fingerprint": "bbd15ea2a28ea4ae",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:49",
-   "bekleyen_iz": null,
+   "checked_at": "2026-10-01T13:02:45",
+   "bekleyen_iz": "968aa5afe1fecb6f",
    "changed_at": "2026-09-30T23:41:40+00:00",
    "parmak_izi": "bbd15ea2a28ea4ae"
   },
@@ -8414,7 +8436,7 @@
      "satir": "10 | 11.10.2026 | KAŞ BELEDİYESİ YAĞLI GÜREŞLERİ | KAŞ/ANTALYA"
     }
    ],
-   "checked_at": "2026-10-01T05:40:56",
+   "checked_at": "2026-10-01T13:02:53",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "ad6c280638ad2ad0"
@@ -8429,7 +8451,7 @@
    "fingerprint": "3247f7835af0d1d0",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:58",
+   "checked_at": "2026-10-01T13:02:53",
    "bekleyen_iz": null,
    "changed_at": "2026-09-30T19:08:39+00:00",
    "parmak_izi": "3247f7835af0d1d0"
@@ -8765,7 +8787,7 @@
      "satir": "24-25 Ekim 2026 Hava Modelciliği F3P Büyükler/Gençler/Kadınlar F3P RC Model Uçak 2. Etap Ankara Ulusal"
     }
    ],
-   "checked_at": "2026-10-01T05:40:59",
+   "checked_at": "2026-10-01T13:02:54",
    "bekleyen_iz": null,
    "changed_at": "2026-09-30T06:37:34+00:00",
    "parmak_izi": "066ebfa88387bfaa"
@@ -9325,7 +9347,7 @@
      "satir": "49 28-31 AĞUSTOS 2025 AÇIK ALAN U14 TÜRKİYE ŞAMPİYONASI MUHTELİF"
     }
    ],
-   "checked_at": "2026-10-01T05:40:56",
+   "checked_at": "2026-10-01T13:02:51",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "03072fe7da5a8ac4"
@@ -9340,7 +9362,7 @@
    "fingerprint": "89f0b209e82ac623",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:44",
+   "checked_at": "2026-10-01T13:02:42",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "89f0b209e82ac623"
@@ -10124,7 +10146,7 @@
      "satir": "120 Rafting Nehir Rehberlik Vize 2027 Vizesi Seminer 19 Aralık 20 Aralık Muhtelif"
     }
    ],
-   "checked_at": "2026-10-01T05:40:52",
+   "checked_at": "2026-10-01T13:02:48",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:50+00:00",
    "parmak_izi": "06888a70817751cc"
@@ -10139,7 +10161,7 @@
    "fingerprint": "e1280d8316fdf1be",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:45",
+   "checked_at": "2026-10-01T13:02:42",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "e1280d8316fdf1be"
@@ -10467,7 +10489,7 @@
      "satir": "114 TEKERLEKLİ PATEN KAMP MİLLİ TAKIM KAMPI 15-25 ARALIK 2026 TÜM KATEGORİLER"
     }
    ],
-   "checked_at": "2026-10-01T05:40:58",
+   "checked_at": "2026-10-01T13:02:53",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:54+00:00",
    "parmak_izi": "f125ba37d779c765"
@@ -10482,7 +10504,7 @@
    "fingerprint": "452099067d979d4f",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:51",
+   "checked_at": "2026-10-01T13:02:47",
    "bekleyen_iz": null,
    "changed_at": "2026-08-22T14:03:50+00:00",
    "parmak_izi": "452099067d979d4f"
@@ -10497,8 +10519,8 @@
    "fingerprint": "e2c8a7711bab3ba0",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:49",
-   "bekleyen_iz": null,
+   "checked_at": "2026-10-01T13:02:46",
+   "bekleyen_iz": "c7906822b9c181c0",
    "changed_at": "2026-09-29T20:41:30+00:00",
    "parmak_izi": "e2c8a7711bab3ba0"
   },
@@ -10512,7 +10534,7 @@
    "fingerprint": "d759d0342954b53a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:54",
+   "checked_at": "2026-10-01T13:02:50",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "d759d0342954b53a"
@@ -10720,7 +10742,7 @@
      "satir": "Güncelleme Tarihi: 31.07.2026v7"
     }
    ],
-   "checked_at": "2026-10-01T05:40:53",
+   "checked_at": "2026-10-01T13:02:50",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "e1a36bd06e3f7e25"
@@ -10735,8 +10757,8 @@
    "fingerprint": "40117a8a8094bf43",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:54",
-   "bekleyen_iz": "10e4a429f1a875db",
+   "checked_at": "2026-10-01T13:02:49",
+   "bekleyen_iz": "e4f44a3fbc767edc",
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "40117a8a8094bf43"
   },
@@ -10750,7 +10772,7 @@
    "fingerprint": "209443816a76df0f",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:56",
+   "checked_at": "2026-10-01T13:02:52",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "209443816a76df0f"
@@ -11053,7 +11075,7 @@
      "satir": "ULUSAL | SUALTI RAGBİSİ | YARIŞMA | SUALTI RAGBİSİ BÜYÜKLER (ELİTLER) TÜRKİYE ŞAMPİYONASI VE MİLLİ TAKIM SEÇMELERİ | MANİSA | 18-20 EYLÜL 2026"
     }
    ],
-   "checked_at": "2026-10-01T05:40:54",
+   "checked_at": "2026-10-01T13:02:50",
    "bekleyen_iz": null,
    "changed_at": "2026-08-21T15:43:55+00:00",
    "parmak_izi": "29f623280b19351c"
@@ -11589,7 +11611,7 @@
      "satir": "14 Aralık Tenis Ligi Final"
     }
    ],
-   "checked_at": "2026-10-01T05:40:45",
+   "checked_at": "2026-10-01T13:02:43",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:48+00:00",
    "parmak_izi": "ef844991598654f2"
@@ -11604,8 +11626,8 @@
    "fingerprint": "18334f9d591920c1",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:51",
-   "bekleyen_iz": "6a428feb3d7bd3d4",
+   "checked_at": "2026-10-01T13:02:48",
+   "bekleyen_iz": "ec99f493945a9765",
    "changed_at": "2026-08-25T01:47:19+00:00",
    "parmak_izi": "18334f9d591920c1"
   },
@@ -11619,8 +11641,8 @@
    "fingerprint": "3e7171020223b422",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:45",
-   "bekleyen_iz": null,
+   "checked_at": "2026-10-01T13:02:42",
+   "bekleyen_iz": "9ff19a631c73b453",
    "changed_at": "2026-09-30T19:08:28+00:00",
    "parmak_izi": "3e7171020223b422"
   },
@@ -11634,7 +11656,7 @@
    "fingerprint": "b9f2c588bd7c97d8",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:54",
+   "checked_at": "2026-10-01T13:02:50",
    "bekleyen_iz": null,
    "changed_at": "2026-09-27T01:20:56+00:00",
    "parmak_izi": "b9f2c588bd7c97d8"
@@ -11649,7 +11671,7 @@
    "fingerprint": "136cddfd7304d836",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-01T05:40:55",
+   "checked_at": "2026-10-01T13:02:51",
    "bekleyen_iz": null,
    "changed_at": "2026-09-25T22:15:01+00:00",
    "parmak_izi": "136cddfd7304d836"
@@ -11897,7 +11919,7 @@
      "satir": "2 | 20.05.2026 16:09 | HANSA 303 ERKEK KESİN SONUÇLAR"
     }
    ],
-   "checked_at": "2026-10-01T05:40:50",
+   "checked_at": "2026-10-01T13:02:47",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:49+00:00",
    "parmak_izi": "b76b0070a88cf7ee"
@@ -12241,7 +12263,7 @@
      "satir": "KASIM 2027 CENTRAL EUROPEAN COUNTRIES MEET 50M 2012-2013-2014 Kadın-Erkek MUHTELİF"
     }
    ],
-   "checked_at": "2026-10-01T05:40:46",
+   "checked_at": "2026-10-01T13:02:43",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "23e93d6485844fb0"

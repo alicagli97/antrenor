@@ -1,5 +1,22 @@
 [
  {
+  "id": "a4284c5763655cc1",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "Türkiye Şampiyonaları Hk.",
+  "url": "https://tusf.org.tr/Haber.aspx?b=505c9f1c-d906-4126-8272-40870d6c9aea&bid=4402&_=Türkiye Şampiyonaları Hk.",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-02T00:00:00+00:00",
+  "first_seen_at": "2026-10-02T09:40:40+00:00",
+  "source": "html"
+ },
+ {
   "id": "73d1302dce325653",
   "federation": "universitesporlari",
   "federation_name": "Türkiye Üniversite Sporları Federasyonu",
@@ -1045,24 +1062,6 @@
   ],
   "published_at": "2026-09-14T09:20:27+00:00",
   "first_seen_at": "2026-09-14T09:20:27+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "39eeae7837cdfd0a",
-  "federation": "universitesporlari",
-  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
-  "federation_short": "TÜSF",
-  "title": "Mevzuat güncellendi: ANA STATÜ",
-  "url": "https://tusf.org.tr/Default.aspx?p=98a34f68-d50d-4c08-a9f7-ab41ff1103b9",
-  "summary": "Türkiye Üniversite Sporları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-14T09:20:24+00:00",
-  "first_seen_at": "2026-09-14T09:20:24+00:00",
   "source": "mevzuat"
  }
 ]

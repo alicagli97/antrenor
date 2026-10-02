@@ -1,6 +1,42 @@
 [
  {
-  "id": "79a7c27c9e3edcc9",
+  "id": "a8273e0cbcde9922",
+  "federation": "wushu",
+  "federation_name": "Türkiye Wushu Kung Fu Federasyonu",
+  "federation_short": "TWKF",
+  "title": "Wushu Kung Fu faaliyet takviminde değişiklik",
+  "url": "https://twkf.gov.tr/faaliyet_takvimi.php",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-02T21:17:52+00:00",
+  "first_seen_at": "2026-10-02T21:17:52+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "beba6b225a6a9cac",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Triatlon faaliyet takviminde değişiklik",
+  "url": "https://triatlon.org.tr",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-02T21:17:49+00:00",
+  "first_seen_at": "2026-10-02T21:17:49+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "b0213236b42f02e4",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
   "federation_short": "TEF",
@@ -13,8 +49,8 @@
    "takvim",
    "faaliyet"
   ],
-  "published_at": "2026-10-02T02:10:48+00:00",
-  "first_seen_at": "2026-10-02T02:10:48+00:00",
+  "published_at": "2026-10-02T21:17:46+00:00",
+  "first_seen_at": "2026-10-02T21:17:46+00:00",
   "source": "takvim-html"
  },
  {

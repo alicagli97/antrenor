@@ -1,5 +1,57 @@
 [
  {
+  "id": "ba898187743c87e8",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Profesyonelliğe Geçiş Ligi Fikstür Çekimi İleri Bir Tarihe Ertelendi",
+  "url": "https://www.tff.org/default.aspx?pageID=982&ftxtID=51532",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "milli_takim"
+  ],
+  "published_at": "2026-10-02T21:23:45+00:00",
+  "first_seen_at": "2026-10-02T21:23:45+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b414e19824c8ee2c",
+  "federation": "kayak",
+  "federation_name": "Türkiye Kayak Federasyonu",
+  "federation_short": "TKF",
+  "title": "Hakem Gelişim Seminerlerinin Yapılacağı Salonların Duyurusu",
+  "url": "https://tkf.org.tr/2026/10/02/hakem-gelisim-seminerlerinin-yapilacagi-salonlarin-duyurusu-2/",
+  "summary": "Federasyonumuz tarafından Hakem Gelişim Seminerleri düzenleneceğine dair duyuru daha önce federasyonumuz web sayfasında yayınlanmıştı.Söz konusu seminerlerin yapılacağı salonlara",
+  "image": "https://tkf.org.tr/wp-content/uploads/2024/04/onemli-duyuru_2.jpg",
+  "category": "kurs",
+  "tags": [
+   "hakem"
+  ],
+  "published_at": "2026-10-02T18:24:04+00:00",
+  "first_seen_at": "2026-10-02T21:23:45+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "08b92b24e552e9f0",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Paramotor Sporcu Pilot Eğitim Talimatı Yayımlandı",
+  "url": "https://thsf.org.tr/paramotor-sporcu-pilot-egitim-talimati-yayimlandi/",
+  "summary": "Türkiye Hava Sporları Federasyonu Paramotor Sporcu Pilot Eğitim Talimatı, sporcularımızın ve ilgili eğitim kuruluşlarının erişimine sunulmuştur. Talimat; ülkemizde sportif, rekreatif ve turizm amaçlı sportif paramotor eğitimlerinin standartlarını ve pilot seviyelendirme kriterlerini belirlemek amacıyla hazırlanmıştır. Paramotor spor dalında faaliyet gösteren spor kulüpleri, spor anonim şirketleri, özel hukuk tüzel kişileri ve lisanslı sporcuları kapsayan düzenleme; eğitim faaliyetlerinin […]",
+  "image": "https://thsf.org.tr/wp-content/uploads/2026/06/tum-sporcularimizin-dikkatine-1.png",
+  "category": "kurs",
+  "tags": [
+   "mevzuat",
+   "kulup"
+  ],
+  "published_at": "2026-10-02T17:15:13+00:00",
+  "first_seen_at": "2026-10-02T21:23:45+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "089cc5c3eebf58f6",
   "federation": "boks",
   "federation_name": "Türkiye Boks Federasyonu",
@@ -555,6 +607,24 @@
   "source": "html"
  },
  {
+  "id": "e21bdd011532a63a",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Para Badminton 3. Kademe Antrenörlük Kursu Kastamonu’da Başladı",
+  "url": "https://www.badminton.org.tr/para-badminton-3-kademe-antrenorluk-kursu-kastamonuda-basladi/",
+  "summary": "30 Eylül-6 Ekim 2026 tarihleri arasında Kastamonu’da yapılacak olan Para Badminton 3. Kademe Antrenörlük Kursu, 13 kursiyerin katılımıyla başladı. Eğitmenliğini Ramazan İmamoğlu ve Ayhan Baydil’in üstlendiği programda katılımcılara, teorik ve uygulamalı antrenörlük eğitimleri veriliyor. Federasyon Asbaşkanı Zafer Şahin, kursa katılan antrenör adaylarına başarılar dileyerek eğitimin branşın gelişimine katkı sağlamasını temenni etti. Eğitimi ve sınavları başarıyla […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-30-at-16.10.00.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-30T18:18:44+00:00",
+  "first_seen_at": "2026-10-02T21:23:45+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "93ea33760e07c8e8",
   "federation": "boks",
   "federation_name": "Türkiye Boks Federasyonu",
@@ -662,6 +732,24 @@
   "published_at": "2026-09-28T21:54:45+00:00",
   "first_seen_at": "2026-09-28T21:54:45+00:00",
   "source": "html"
+ },
+ {
+  "id": "f934a141cd5f4b1e",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Para Badminton 2. Kademe Antrenörlük Kursu Kastamonu’da Devam Ediyor",
+  "url": "https://www.badminton.org.tr/para-badminton-2-kademe-antrenorluk-kursu-kastamonuda-devam-ediyor/",
+  "summary": "24-30 Eylül 2026 tarihleri arasında Kastamonu’da yapılacak olan Para Badminton 2. Kademe Antrenörlük Kursu, 13 kursiyerin katılımıyla devam ediyor. Eğitmenliğini Ramazan İmamoğlu ve Ayhan Baydil’in üstlendiği programda katılımcılara, teorik ve uygulamalı antrenörlük eğitimleri veriliyor.",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-09-28-at-21.44.59-e1790965022394.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-09-28T18:15:21+00:00",
+  "first_seen_at": "2026-10-02T21:23:45+00:00",
+  "source": "wp_json"
  },
  {
   "id": "f53ea00cb9627ead",

@@ -1,5 +1,23 @@
 [
  {
+  "id": "beba6b225a6a9cac",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Triatlon faaliyet takviminde değişiklik",
+  "url": "https://triatlon.org.tr",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-02T21:17:49+00:00",
+  "first_seen_at": "2026-10-02T21:17:49+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "152007724fe60a07",
   "federation": "triatlon",
   "federation_name": "Türkiye Triatlon Federasyonu",
@@ -1078,24 +1096,6 @@
   ],
   "published_at": "2026-09-27T09:33:01+00:00",
   "first_seen_at": "2026-09-27T09:33:01+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "34e08f642c870dbe",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "Mevzuat güncellendi: Disiplin Talimatı / 27.02.2015",
-  "url": "https://triatlon.org.tr/disiplin-talimati.html",
-  "summary": "Türkiye Triatlon Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-27T09:33:00+00:00",
-  "first_seen_at": "2026-09-27T09:33:00+00:00",
   "source": "mevzuat"
  }
 ]

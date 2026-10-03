@@ -1,5 +1,22 @@
 [
  {
+  "id": "d7e7e1395641b1f8",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "TGF Federasyon Kupası Talimatı",
+  "url": "https://tgf.org.tr/upload/yarisma-talimati-tgf-federasyon-kupasi-turnuvasi-2026_6014ec_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat"
+  ],
+  "published_at": "2026-10-03T17:14:02+00:00",
+  "first_seen_at": "2026-10-03T17:14:02+00:00",
+  "source": "html"
+ },
+ {
   "id": "a3e080522712bb1b",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -3631,25 +3648,6 @@
   ],
   "published_at": "2026-10-03T09:27:04+00:00",
   "first_seen_at": "2026-10-03T09:27:04+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "5a34f457da66c961",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "Mevzuat güncellendi: Eğitim, Altyapı ve Kulüplere Yardım Talimatı / 04.07.2018",
-  "url": "https://triatlon.org.tr/egitim-altyapi-ve-kuluplere-yardim-talimati.html",
-  "summary": "Türkiye Triatlon Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-03T09:27:03+00:00",
-  "first_seen_at": "2026-10-03T09:27:03+00:00",
   "source": "mevzuat"
  }
 ]

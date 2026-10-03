@@ -1,5 +1,71 @@
 [
  {
+  "id": "4bfd50b5e559b0ac",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Vincenzo Montella: \"Kendimizi Geliştirmeye ve Çalışmaya Devam Etmeliyiz\"",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51535",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-03T01:08:06+00:00",
+  "first_seen_at": "2026-10-03T01:08:06+00:00",
+  "source": "html"
+ },
+ {
+  "id": "65cd492e9e3367b9",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF Başkanı Hacıosmanoğlu, RBFA Başkanı Van Damme ile Bir Araya Geldi",
+  "url": "https://www.tff.org/default.aspx?pageID=285&ftxtID=51514",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-03T01:08:06+00:00",
+  "first_seen_at": "2026-10-03T01:08:06+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d292eec81dcfc41d",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-03T01:06:26+00:00",
+  "first_seen_at": "2026-10-03T01:06:26+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "6f4026fe2c0b9884",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Masa Tenisi faaliyet takviminde değişiklik",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-03T01:06:16+00:00",
+  "first_seen_at": "2026-10-03T01:06:16+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "fa7483df3255d449",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3539,6 +3605,23 @@
   "source": "html"
  },
  {
+  "id": "2ca6ac652ea68b90",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Wdsf Hip Hop Hakem Kongresi",
+  "url": "https://tdsf.org.tr/haberler/wdsf-hip-hop-hakem-kongresi",
+  "summary": "30 Eylül 2026 DANS SPORU (LT&ST) 1. ETAP YARIŞMALARI SALON BİLGİSİ 22 Eylül 2026 7. OLAĞAN MALİ GENEL KURULU VE 3. OLAĞANÜSTÜ SEÇİMLİ GENEL KURULU GERÇEKLEŞTİRİLDİ. 17 Eylül 2026 MASA HAKEMLİĞİ VİZE SEMİNERİ AÇILIYOR! 17 Eylül 2026 ADAY MASA HAKEMLİĞİ KURSU AÇILIYOR! 15 Eylül 2026 2026-2027 SEZONU DANS SPORU (LT&ST) 1. ETAP KSY-USY SPORCU KAYITLARI 14 Eylül 2026 2026/3 TEMEL EĞİTİM PROGRAMI BAŞLIY",
+  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-wdsf-1790942169.jpg",
+  "category": "duyuru",
+  "tags": [
+   "hakem"
+  ],
+  "published_at": "2026-10-02T00:00:00+00:00",
+  "first_seen_at": "2026-10-03T01:08:06+00:00",
+  "source": "html"
+ },
+ {
   "id": "11ea43515a136317",
   "federation": "bocce",
   "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
@@ -5016,93 +5099,6 @@
   "tags": [
    "vize",
    "hakem"
-  ],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "feea9d467b23f89d",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Kuraş Gençler Türkiye Şampiyonası 13-14 Haziran 2026 / Zonguldak",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-446-kuras-gencler-turkiye-sampiyonasi-13-14-haziran-2026-zonguldak",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "f336144be690b14d",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Plaj Korfbol Türkiye Şampiyonası / 05-07 Haziran 2026 Balıkesir-burhaniye",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-443-plaj-korfbol-turkiye-sampiyonasi-05-07-haziran-2026-balikesir-burhaniye",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "24f7f2f29c6b136b",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Korfbol U-17 Türkiye Şampiyonası / 11-14 Haziran 2026 Çorum",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-442-korfbol-u-17-turkiye-sampiyonasi-11-14-haziran-2026-corum",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "969b120400d4375d",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "06-07 Haziran 2026 Hemsball Aday Hakem Kursu / Muğla",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-440-06-07-haziran-2026-hemsball-aday-hakem-kursu-mugla",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "6fa573b720af4361",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "09-14 Haziran Hemsball 1. Kademe Yardımcı Antrenör Yetiştirme Kursu / Muğla",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-439-09-14-haziran-hemsball-1.-kademe-yardimci-antrenor-yetistirme-kursu-mugla",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
   ],
   "published_at": "2026-10-01T13:04:29+00:00",
   "first_seen_at": "2026-10-01T13:04:29+00:00",

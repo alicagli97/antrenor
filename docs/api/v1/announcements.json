@@ -1,5 +1,71 @@
 [
  {
+  "id": "4bfd50b5e559b0ac",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Vincenzo Montella: \"Kendimizi Geliştirmeye ve Çalışmaya Devam Etmeliyiz\"",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51535",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-03T01:08:06+00:00",
+  "first_seen_at": "2026-10-03T01:08:06+00:00",
+  "source": "html"
+ },
+ {
+  "id": "65cd492e9e3367b9",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF Başkanı Hacıosmanoğlu, RBFA Başkanı Van Damme ile Bir Araya Geldi",
+  "url": "https://www.tff.org/default.aspx?pageID=285&ftxtID=51514",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-03T01:08:06+00:00",
+  "first_seen_at": "2026-10-03T01:08:06+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d292eec81dcfc41d",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-03T01:06:26+00:00",
+  "first_seen_at": "2026-10-03T01:06:26+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "6f4026fe2c0b9884",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Masa Tenisi faaliyet takviminde değişiklik",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-03T01:06:16+00:00",
+  "first_seen_at": "2026-10-03T01:06:16+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "fa7483df3255d449",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -6694,6 +6760,23 @@
   "tags": [],
   "published_at": "2026-10-02T02:12:44+00:00",
   "first_seen_at": "2026-10-02T02:12:44+00:00",
+  "source": "html"
+ },
+ {
+  "id": "2ca6ac652ea68b90",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Wdsf Hip Hop Hakem Kongresi",
+  "url": "https://tdsf.org.tr/haberler/wdsf-hip-hop-hakem-kongresi",
+  "summary": "30 Eylül 2026 DANS SPORU (LT&ST) 1. ETAP YARIŞMALARI SALON BİLGİSİ 22 Eylül 2026 7. OLAĞAN MALİ GENEL KURULU VE 3. OLAĞANÜSTÜ SEÇİMLİ GENEL KURULU GERÇEKLEŞTİRİLDİ. 17 Eylül 2026 MASA HAKEMLİĞİ VİZE SEMİNERİ AÇILIYOR! 17 Eylül 2026 ADAY MASA HAKEMLİĞİ KURSU AÇILIYOR! 15 Eylül 2026 2026-2027 SEZONU DANS SPORU (LT&ST) 1. ETAP KSY-USY SPORCU KAYITLARI 14 Eylül 2026 2026/3 TEMEL EĞİTİM PROGRAMI BAŞLIY",
+  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-wdsf-1790942169.jpg",
+  "category": "duyuru",
+  "tags": [
+   "hakem"
+  ],
+  "published_at": "2026-10-02T00:00:00+00:00",
+  "first_seen_at": "2026-10-03T01:08:06+00:00",
   "source": "html"
  },
  {
@@ -18848,18 +18931,18 @@
   "source": "rss"
  },
  {
-  "id": "f341c47a39d0d964",
+  "id": "8ebbd68e2ac62876",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
   "federation_short": "TİF",
   "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2026",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-3",
   "summary": "30 Eyl BAŞSAĞLIĞI 18 Eyl TÜRK JOTA'SI FAALİYETİ 18 Eylül 2026 18 Eyl 18 Eylül 2026 10 Eyl 10 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST TİFAKE Destek Faaliyeti 9 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST İzci Kampı 9 Eylül 2026 02 Eyl 2 Eylül 2026 18 Ağu BAŞSAĞLIĞI Giresun ili izci liderlerimizden İsmail ŞEYRANLIOĞLU'nun annesi Kezban ŞEYRANLIOĞLU ve ağabeyi Demircan ŞEYRANL",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-09-30T00:00:00+00:00",
-  "first_seen_at": "2026-10-02T21:23:45+00:00",
+  "first_seen_at": "2026-10-03T01:08:06+00:00",
   "source": "html"
  },
  {
@@ -107257,79 +107340,6 @@
   ],
   "published_at": "2026-09-12T08:15:35+00:00",
   "first_seen_at": "2026-09-12T08:15:35+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "f50ce7815eea10a4",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Mevzuat güncellendi: Activities and Regulations Instruction (İngilizce) Word Faaliyetler ve Düzenlemeler Talimatı’nın İngilizce sürümü.",
-  "url": "https://tif.org.tr/mevzuat/activities-and-regulations-en",
-  "summary": "Türkiye İzcilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-12T08:15:35+00:00",
-  "first_seen_at": "2026-09-12T08:15:35+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "4a41a25cc70cbdd7",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Mevzuat güncellendi: Bütçe ve Muhasebe Talimatı PDF · 13 sayfa Federasyon başkanlığının bütçe hazırlama, harcama ve muhasebe işlemlerine ilişkin usul ve esasları düzenler.",
-  "url": "https://tif.org.tr/mevzuat/butce-ve-muhasebe-talimati",
-  "summary": "Türkiye İzcilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-12T08:15:35+00:00",
-  "first_seen_at": "2026-09-12T08:15:35+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "8f98d62b410bc39b",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Mevzuat güncellendi: Disciplinary Regulation (İngilizce) Word Disiplin Talimatı’nın İngilizce sürümü.",
-  "url": "https://tif.org.tr/mevzuat/disciplinary-regulation-en",
-  "summary": "Türkiye İzcilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-12T08:15:35+00:00",
-  "first_seen_at": "2026-09-12T08:15:35+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "c526fe04a196d109",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Mevzuat güncellendi: Program ve Eğitim Kurulu Çalışma Usul ve Esasları Talimatı PDF · 5 sayfa Federasyon alt kurullarından program ve eğitim kurulunun oluşumu, görevleri ve çalışma usullerini düzenler.",
-  "url": "https://tif.org.tr/mevzuat/program-ve-egitim-kurulu-talimati",
-  "summary": "Türkiye İzcilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-12T08:15:34+00:00",
-  "first_seen_at": "2026-09-12T08:15:34+00:00",
   "source": "mevzuat"
  }
 ]

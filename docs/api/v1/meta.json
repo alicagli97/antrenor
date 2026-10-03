@@ -1,9 +1,9 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-03T01:08:06+00:00",
+ "generated_at": "2026-10-03T06:27:23+00:00",
  "total": 5998,
- "new_in_last_run": 545,
- "sources_ok": 64,
+ "new_in_last_run": 543,
+ "sources_ok": 63,
  "sources_failed": [
   "basketbol",
   "gures"
@@ -11,13 +11,13 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-03T01:08:06+00:00",
+ "latest_published_at": "2026-10-03T06:27:23+00:00",
  "categories": {
+  "musabaka": 259,
   "duyuru": 598,
   "takvim": 76,
-  "musabaka": 258,
   "kurs": 159,
-  "mevzuat": 4875,
+  "mevzuat": 4874,
   "haber": 32
  },
  "silent_sources": [
@@ -48,7 +48,7 @@
   }
  ],
  "federation_counts": {
-  "futbol": 181,
+  "futbol": 182,
   "havasporlari": 24,
   "masatenisi": 49,
   "wushu": 9,
@@ -64,7 +64,7 @@
   "taekwondo": 14,
   "pentatlon": 2,
   "gsb": 766,
-  "izcilik": 632,
+  "izcilik": 631,
   "ragbi": 63,
   "universitesporlari": 71,
   "oryantiring": 50,

@@ -6,8 +6,16 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "69a8a571214b019c",
- "event_count": 389,
+ "event_count": 390,
  "events": [
+  {
+   "ad": "Küçükler Kulüplerarası Türkiye Şampiyonası",
+   "tarih": "2026-10-29",
+   "tarih_metni": "2026.11.01 29.10.2026 - 01.11.2026",
+   "yer": "İstanbul",
+   "brans": "Yarışma",
+   "satir": "2026 | Yarışma | Küçükler Kulüplerarası Türkiye Şampiyonası | Aerobik Cimnastik | İstanbul | 2026.11.01 29.10.2026 - 01.11.2026 | İncele"
+  },
   {
    "ad": "Ritmik Cimnastik Gelişim Semineri-2 14 Ekim 2026",
    "tarih": "2026-10-14",
@@ -3121,8 +3129,8 @@
    "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
   }
  ],
- "checked_at": "2026-10-03T06:25:30",
- "bekleyen_iz": null,
+ "checked_at": "2026-10-03T12:27:37",
+ "bekleyen_iz": "42be6e33850dc601",
  "changed_at": "2026-09-30T19:08:32+00:00",
  "parmak_izi": "69a8a571214b019c"
 }

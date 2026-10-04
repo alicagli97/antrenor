@@ -1,5 +1,105 @@
 [
  {
+  "id": "40f238b389cbebc9",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Vincenzo Montella: \"Güzel Bir Sonuç Alacağımıza İnanıyorum\"",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51558",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-04T21:19:53+00:00",
+  "first_seen_at": "2026-10-04T21:19:53+00:00",
+  "source": "html"
+ },
+ {
+  "id": "29ed591286b1e282",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Kadın A Millî Takımımızın Slovenya Maçları Hazırlıkları Devam Ediyor",
+  "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51560",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "milli_takim"
+  ],
+  "published_at": "2026-10-04T21:19:53+00:00",
+  "first_seen_at": "2026-10-04T21:19:53+00:00",
+  "source": "html"
+ },
+ {
+  "id": "40c7ba3ef63c019f",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ümit Millî Takımımız, Macaristan Maçı Hazırlıklarını Sürdürdü",
+  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51559",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-04T21:19:53+00:00",
+  "first_seen_at": "2026-10-04T21:19:53+00:00",
+  "source": "html"
+ },
+ {
+  "id": "984c3a8cafa1ac5b",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 390 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-04T21:18:22+00:00",
+  "first_seen_at": "2026-10-04T21:18:22+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "3902cbe93f04c3e0",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-04T21:18:17+00:00",
+  "first_seen_at": "2026-10-04T21:18:17+00:00",
+  "source": "takvim-excel"
+ },
+ {
+  "id": "980f7b6e9412b71b",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF'den Mesajlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51554",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-04T18:07:46+00:00",
+  "first_seen_at": "2026-10-04T18:07:46+00:00",
+  "source": "html"
+ },
+ {
   "id": "c6e1513cef0ebee6",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -27,21 +127,6 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-10-04T18:07:46+00:00",
-  "first_seen_at": "2026-10-04T18:07:46+00:00",
-  "source": "html"
- },
- {
-  "id": "980f7b6e9412b71b",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "TFF'den Mesajlar Detay Sayfası TFF",
-  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51554",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-10-04T18:07:46+00:00",
   "first_seen_at": "2026-10-04T18:07:46+00:00",
   "source": "html"
@@ -107244,114 +107329,6 @@
   ],
   "published_at": "2026-09-14T09:21:29+00:00",
   "first_seen_at": "2026-09-14T09:21:29+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "e6a6311d9d062700",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Mevzuat güncellendi: Ödül ve Yardım Talimatı Word İzcilik hizmetlerinde başarı gösterenlere verilecek ödüller ile yapılacak yardımların esaslarını belirler.",
-  "url": "https://tif.org.tr/mevzuat/odul-ve-yardim-talimati",
-  "summary": "Türkiye İzcilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-14T09:21:29+00:00",
-  "first_seen_at": "2026-09-14T09:21:29+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "fd6b99ca74fc7dbf",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Mevzuat güncellendi: Tesisler Talimatı PDF · 7 sayfa Federasyonun sabit ve hareketli kamp tesislerinin organizasyonu, personeli, çalışma şartları ve kullanımına ilişkin esaslar.",
-  "url": "https://tif.org.tr/mevzuat/tesisler-talimati",
-  "summary": "Türkiye İzcilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-14T09:21:28+00:00",
-  "first_seen_at": "2026-09-14T09:21:28+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "3830ff88e0cc07b2",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Mevzuat güncellendi: TİFAKE Kurulu Çalışma Usul ve Esasları Talimatı PDF · 16 sayfa Arama-kurtarma alanında görev yapan TİFAKE kurulunun oluşumu, görevleri ve çalışma usullerini düzenler.",
-  "url": "https://tif.org.tr/mevzuat/tifake-kurulu-talimati",
-  "summary": "Türkiye İzcilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-14T09:21:28+00:00",
-  "first_seen_at": "2026-09-14T09:21:28+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "f5872af0b24f042c",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Mevzuat güncellendi: Türkiye İzcilik Federasyonu Ana Statüsü PDF · 17 sayfa 27 Nisan 2025 tarihli Resmî Gazete’de (sayı 32883) yayımlanan Ana Statü. Federasyonun teşkilatı, organları, görev ve yetkileri ile çalışma usullerini düzenler.",
-  "url": "https://tif.org.tr/mevzuat/ana-statu",
-  "summary": "Türkiye İzcilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-14T09:21:28+00:00",
-  "first_seen_at": "2026-09-14T09:21:28+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "2f7eff85bde8b0d7",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Mevzuat güncellendi: Salgın Şartlarında Kurs ve Kamp Kuralları Word Salgın dönemlerinde kurs ve kampların yürütülmesine ilişkin kurallar.",
-  "url": "https://tif.org.tr/mevzuat/salgin-sartlarinda-kurs-ve-kamp-kurallari",
-  "summary": "Türkiye İzcilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-14T09:21:27+00:00",
-  "first_seen_at": "2026-09-14T09:21:27+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "d9684ccec72aaf63",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Mevzuat güncellendi: Satın Alma Talimatı PDF · 9 sayfa Federasyonun mal ve hizmet alımlarında uygulayacağı satın alma usul ve esaslarını düzenler.",
-  "url": "https://tif.org.tr/mevzuat/satin-alma-talimati",
-  "summary": "Türkiye İzcilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-14T09:21:27+00:00",
-  "first_seen_at": "2026-09-14T09:21:27+00:00",
   "source": "mevzuat"
  }
 ]

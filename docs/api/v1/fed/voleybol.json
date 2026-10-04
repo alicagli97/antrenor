@@ -1,5 +1,23 @@
 [
  {
+  "id": "3902cbe93f04c3e0",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-04T21:18:17+00:00",
+  "first_seen_at": "2026-10-04T21:18:17+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "e3e46911705c9075",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -1057,22 +1075,5 @@
   "published_at": "2026-09-25T09:04:57+00:00",
   "first_seen_at": "2026-09-25T09:04:57+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "b6cce287f89ffdc9",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Türkiye Voleybol Federasyonu 2026 Yılı Mali Genel Kurulu Delege Belirleme Kura Çekilişi Duyurusu - Türkiye Voleybol Federasyonu | TVF",
-  "url": "https://tvf.org.tr/icerik/turkiye-voleybol-federasyonu-2026-yili-mali-genel-kurulu-delege-belirleme-kura-cekilisi-duyurusu",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-25T00:00:00+00:00",
-  "first_seen_at": "2026-09-25T13:41:25+00:00",
-  "source": "html"
  }
 ]

@@ -1,22 +1,24 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-03T21:09:41+00:00",
- "total": 5998,
- "new_in_last_run": 585,
- "sources_ok": 63,
+ "generated_at": "2026-10-04T00:39:21+00:00",
+ "total": 5999,
+ "new_in_last_run": 524,
+ "sources_ok": 61,
  "sources_failed": [
   "basketbol",
-  "gures"
+  "binicilik",
+  "gures",
+  "paralimpik"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-03T21:09:41+00:00",
+ "latest_published_at": "2026-10-04T00:39:20+00:00",
  "categories": {
-  "musabaka": 289,
-  "kurs": 162,
-  "duyuru": 609,
-  "mevzuat": 4830,
+  "duyuru": 611,
+  "musabaka": 290,
+  "kurs": 163,
+  "mevzuat": 4827,
   "takvim": 77,
   "haber": 31
  },
@@ -48,8 +50,9 @@
   }
  ],
  "federation_counts": {
-  "futbol": 191,
-  "buzpateni": 451,
+  "futbol": 192,
+  "buzpateni": 452,
+  "bedenselengelliler": 16,
   "masatenisi": 87,
   "okculuk": 41,
   "atletizm": 56,
@@ -59,7 +62,7 @@
   "eskrim": 232,
   "gelenekselguresler": 39,
   "hentbol": 28,
-  "gsb": 738,
+  "gsb": 735,
   "izcilik": 613,
   "ragbi": 63,
   "universitesporlari": 71,
@@ -89,7 +92,6 @@
   "danssporlari": 15,
   "tenis": 18,
   "gormeengelliler": 44,
-  "bedenselengelliler": 14,
   "halkoyunlari": 9,
   "beyzbol": 20,
   "hokey": 22,

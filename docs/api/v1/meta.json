@@ -1,24 +1,22 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-04T00:39:21+00:00",
+ "generated_at": "2026-10-04T06:48:09+00:00",
  "total": 5999,
- "new_in_last_run": 524,
- "sources_ok": 61,
+ "new_in_last_run": 540,
+ "sources_ok": 63,
  "sources_failed": [
   "basketbol",
-  "binicilik",
-  "gures",
-  "paralimpik"
+  "gures"
  ],
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-04T00:39:20+00:00",
+ "latest_published_at": "2026-10-04T06:48:09+00:00",
  "categories": {
+  "musabaka": 291,
   "duyuru": 611,
-  "musabaka": 290,
   "kurs": 163,
-  "mevzuat": 4827,
+  "mevzuat": 4826,
   "takvim": 77,
   "haber": 31
  },
@@ -50,7 +48,7 @@
   }
  ],
  "federation_counts": {
-  "futbol": 192,
+  "futbol": 193,
   "buzpateni": 452,
   "bedenselengelliler": 16,
   "masatenisi": 87,
@@ -62,7 +60,7 @@
   "eskrim": 232,
   "gelenekselguresler": 39,
   "hentbol": 28,
-  "gsb": 735,
+  "gsb": 734,
   "izcilik": 613,
   "ragbi": 63,
   "universitesporlari": 71,

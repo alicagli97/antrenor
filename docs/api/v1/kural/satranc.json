@@ -3,60 +3,187 @@
  "federation_name": "Türkiye Satranç Federasyonu",
  "federation_short": "TSF",
  "sources": [
-  "https://www.tsf.org.tr/kaynaklar/belgeler/talimatlar",
-  "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri"
+  "https://www.tsf.org.tr/belgeler/kategori/3"
  ],
- "document_count": 6,
- "coach_document_count": 0,
+ "document_count": 25,
+ "coach_document_count": 9,
  "documents": [
   {
-   "baslik": "FIDE Kuralları",
-   "url": "https://www.tsf.org.tr/kaynaklar/belgeler/fide-kurallari",
+   "baslik": "Antrenör Eğitimi Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1949",
    "tur": "html",
-   "onemli": false,
-   "parmak_izi": "e503e3e8c31dc65e",
-   "guncellendi": "2026-09-24T08:47:40+00:00"
+   "onemli": true,
+   "parmak_izi": ""
   },
   {
-   "baslik": "KURULLAR",
-   "url": "https://www.tsf.org.tr/kaynaklar/belgeler/talimatlar",
+   "baslik": "GSB - Milli Sporcu Belgesi Sınıflarına İlişkin Müsabaka Türlerinin Belirlenmesine Dair Genelge Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1562",
    "tur": "html",
-   "onemli": false,
-   "parmak_izi": "99bc9182541f2bb3",
-   "guncellendi": "2026-09-24T08:47:40+00:00"
+   "onemli": true,
+   "parmak_izi": ""
   },
   {
-   "baslik": "Mobile menu",
-   "url": "https://www.tsf.org.tr/kaynaklar/belgeler/talimatlar#vtem_menu_mobile",
+   "baslik": "Milli Sporcu Belgesi Verilmesi Hakkında Talimat Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1205",
    "tur": "html",
-   "onemli": false,
-   "parmak_izi": "99bc9182541f2bb3",
-   "guncellendi": "2026-09-24T08:47:41+00:00"
+   "onemli": true,
+   "parmak_izi": ""
   },
   {
-   "baslik": "tsf ozendirme odulleri talimat",
-   "url": "https://www.tsf.org.tr/images/stories/2021-2022/tsf_ozendirme_odulleri_talimat.pdf",
-   "tur": "pdf",
-   "onemli": false,
-   "parmak_izi": "3f3d2d8955322f32"
+   "baslik": "Spor Dalı Tescil Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1945",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
   },
   {
-   "baslik": "Turnuva Yönergeleri",
-   "url": "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri",
+   "baslik": "Sporcu Eğitim Kampları Talimatı (Değişiklik Yapılmasına İlişkin Talimat) Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/19",
    "tur": "html",
-   "onemli": false,
-   "parmak_izi": "b426dac9f7584b76",
-   "guncellendi": "2026-09-24T08:47:43+00:00"
+   "onemli": true,
+   "parmak_izi": ""
   },
   {
-   "baslik": "Mobile menu",
-   "url": "https://www.tsf.org.tr/kaynaklar/belgeler/turnuva-yonergeleri#vtem_menu_mobile",
+   "baslik": "Sporcu Eğitim Kampları Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/18",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Sporcu Lisans, Vize ve Transfer Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1989",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Türkiye Satranç Federasyonu Hakem Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/12",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Özel Beden Eğitimi ve Spor Tesisleri ve Satranç Merkezleri Yeterlilik ve Açılması Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/63",
+   "tur": "html",
+   "onemli": true,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Federasyon Temsilcilikleri Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/24",
    "tur": "html",
    "onemli": false,
-   "parmak_izi": "b426dac9f7584b76",
-   "guncellendi": "2026-09-24T08:47:43+00:00"
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Görev Ücretleri Yolluk ve Ulaşım Ücretleri Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1893",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Milli Takım Belirleme Kriterleri Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1946",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Satranç Yarışmaları Organizasyon Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/16",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Satın Alma Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1834",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "TSF - Federasyon Temsilcilikleri Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1515",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "TSF Özendirme Ödülleri Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1660",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Türkiye Dopingle Mücadele Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1495",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Türkiye Satranç Federasyonu Arşiv Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/21",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Türkiye Satranç Federasyonu Atama ile Göreve Gelen Federasyon Kurulları Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/10",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Türkiye Satranç Federasyonu Bütçe Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/20",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Türkiye Satranç Federasyonu Disiplin Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/254",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Türkiye Satranç Federasyonu Hizmet Pasaportu Verilmesine İlişkin Talimat Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1995",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Türkiye Satranç Federasyonu Ligler Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1840",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Türkiye Satranç Federasyonu Satın Alma ve İhale Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1983",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
+  },
+  {
+   "baslik": "Yarışmalar Talimatı Detayları incele",
+   "url": "https://www.tsf.org.tr/belge-detayi/1371",
+   "tur": "html",
+   "onemli": false,
+   "parmak_izi": ""
   }
  ],
- "checked_at": "2026-09-24T09:55:15+00:00",
- "list_fingerprint": "882fd9317e0f61ab"
+ "checked_at": "2026-10-05T15:54:45+00:00",
+ "list_fingerprint": "f9237d5b1e023fc4"
 }

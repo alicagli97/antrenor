@@ -6,8 +6,64 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "2f0acbd0bcbe4c3e",
- "event_count": 390,
+ "event_count": 398,
  "events": [
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-10-18",
+   "tarih_metni": "2026.10.23 18.10.2026 - 23.10.2026",
+   "yer": "Antalya",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | Antalya | 2026.10.23 18.10.2026 - 23.10.2026 | İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-10-19",
+   "tarih_metni": "2026.10.24 19.10.2026 - 24.10.2026",
+   "yer": "Bolu",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Bolu | 2026.10.24 19.10.2026 - 24.10.2026 | İncele"
+  },
+  {
+   "ad": "2026.10.24 19.10.2026 - 24.10.2026",
+   "tarih": "2026-10-19",
+   "tarih_metni": "2026.10.24 19.10.2026 - 24.10.2026",
+   "yer": "İstanbul",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | İstanbul | 2026.10.24 19.10.2026 - 24.10.2026 | İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-10-19",
+   "tarih_metni": "2026.10.24 19.10.2026 - 24.10.2026",
+   "yer": "Antalya",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Antalya | 2026.10.24 19.10.2026 - 24.10.2026 | İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-10-19",
+   "tarih_metni": "2026.10.24 19.10.2026 - 24.10.2026",
+   "yer": "İzmir",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | İzmir | 2026.10.24 19.10.2026 - 24.10.2026 | İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-10-19",
+   "tarih_metni": "2026.10.24 19.10.2026 - 24.10.2026",
+   "yer": "Ankara",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.10.24 19.10.2026 - 24.10.2026 | İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-10-19",
+   "tarih_metni": "2026.10.24 19.10.2026 - 24.10.2026",
+   "yer": "Bursa",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Step - Aerobik | Bursa | 2026.10.24 19.10.2026 - 24.10.2026 | İncele"
+  },
   {
    "ad": "Küçükler Kulüplerarası Türkiye Şampiyonası",
    "tarih": "2026-10-29",
@@ -263,6 +319,14 @@
    "yer": "İzmir",
    "brans": "Kurs",
    "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | İzmir | 2026.10.03 28.09.2026 - 03.10.2026 | Katılımcı Listesi İncele"
+  },
+  {
+   "ad": "2026.10.23 18.10.2026 - 23.10.2026",
+   "tarih": "2026-10-18",
+   "tarih_metni": "2026.10.23 18.10.2026 - 23.10.2026",
+   "yer": "Ankara",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | Ankara | 2026.10.23 18.10.2026 - 23.10.2026 | İncele"
   },
   {
    "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
@@ -3129,8 +3193,8 @@
    "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
   }
  ],
- "checked_at": "2026-10-05T06:54:12",
- "bekleyen_iz": null,
+ "checked_at": "2026-10-05T15:54:24",
+ "bekleyen_iz": "7ac5ed06a91f29d6",
  "changed_at": "2026-10-04T21:18:22+00:00",
  "parmak_izi": "2f0acbd0bcbe4c3e"
 }

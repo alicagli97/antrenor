@@ -1,5 +1,20 @@
 [
  {
+  "id": "7eac4c58bdb86895",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Atıcılarımız Avrupa şampiyonu!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303465/aticilarimiz-avrupa-sampiyonu.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-05T06:55:56+00:00",
+  "first_seen_at": "2026-10-05T06:55:56+00:00",
+  "source": "html"
+ },
+ {
   "id": "706c3a56ac264207",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3068,23 +3083,6 @@
   "image": null,
   "category": "duyuru",
   "tags": [],
-  "published_at": "2026-09-30T13:38:46+00:00",
-  "first_seen_at": "2026-09-30T13:38:46+00:00",
-  "source": "html"
- },
- {
-  "id": "60c59cb9237b3f43",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "VAR Odasında Gerçekleştirilen İncelemeye İlişkin Kamuoyuna Duyuru",
-  "url": "https://www.tff.org/default.aspx?pageID=687&ftxtID=51490",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "hakem"
-  ],
   "published_at": "2026-09-30T13:38:46+00:00",
   "first_seen_at": "2026-09-30T13:38:46+00:00",
   "source": "html"

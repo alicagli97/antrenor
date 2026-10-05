@@ -1,5 +1,52 @@
 [
  {
+  "id": "c10efe53b404521c",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U18 Millî Takımımız, Portekiz Karşısında",
+  "url": "https://www.tff.org/default.aspx?pageID=275&ftxtID=51562",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-05T06:55:56+00:00",
+  "first_seen_at": "2026-10-05T06:55:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "7eac4c58bdb86895",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Atıcılarımız Avrupa şampiyonu!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303465/aticilarimiz-avrupa-sampiyonu.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-05T06:55:56+00:00",
+  "first_seen_at": "2026-10-05T06:55:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "240174c5d708ca94",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Milli atıcılarımızdan 2 madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303464/milli-aticilarimizdan-2-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-05T06:55:56+00:00",
+  "first_seen_at": "2026-10-05T06:55:56+00:00",
+  "source": "html"
+ },
+ {
   "id": "706c3a56ac264207",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -107284,63 +107331,6 @@
   ],
   "published_at": "2026-09-14T09:21:46+00:00",
   "first_seen_at": "2026-09-14T09:21:46+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "f0561f3e5bc30aee",
-  "federation": "havasporlari",
-  "federation_name": "Türkiye Hava Sporları Federasyonu",
-  "federation_short": "THSF",
-  "title": "Mevzuat güncellendi: HAKEM ve GÖZLEMCİ TALİMATINDA DEĞİŞİKLİK YAPILMASINA DAİR TALİMAT Onay Tarihi 16.04.2026",
-  "url": "https://thsf.org.tr/wp-content/uploads/2026/04/Turkiye-Hava-sporlari-Federasyonu-Hakem-ve-Gozlemci-Talimatinda-Degisiklik-Yapilmasina-Dair-Talimat.pdf",
-  "summary": "Türkiye Hava Sporları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-14T09:21:44+00:00",
-  "first_seen_at": "2026-09-14T09:21:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "bf3b2b01aeb59706",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Başarılı Sporculara Aylık Bağlanması ve Devlet Sporcusu Unvanı Verilmesi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13077&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-14T09:21:41+00:00",
-  "first_seen_at": "2026-09-14T09:21:41+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "90a54df1961c4b4e",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Faal Sporculuğu Bırakma Törenleri Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4165&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-14T09:21:41+00:00",
-  "first_seen_at": "2026-09-14T09:21:41+00:00",
   "source": "mevzuat"
  }
 ]

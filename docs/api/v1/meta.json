@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T16:48:39+00:00",
+ "generated_at": "2026-10-05T17:37:17+00:00",
  "total": 6000,
- "new_in_last_run": 12,
+ "new_in_last_run": 0,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -11,7 +11,7 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": [
-  "gures"
+  "basketbol"
  ],
  "latest_published_at": "2026-10-05T15:56:18+00:00",
  "categories": {

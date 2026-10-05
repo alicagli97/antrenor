@@ -1,5 +1,35 @@
 [
  {
+  "id": "e32d4c134e98e1ca",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF Başkanı Hacıosmanoğlu, FIGC Başkanı Giovanni Malagò ile Bir Araya Geldi",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51570",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-05T22:35:40+00:00",
+  "first_seen_at": "2026-10-05T22:35:40+00:00",
+  "source": "html"
+ },
+ {
+  "id": "9191c362dbfa42b0",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» 15-18 Ekim Oran Büyükler Dünya Kupası Kılıç Kafile Listesi Hk.",
+  "url": "https://www.eskrim.org.tr/15-18-ekim-oran-buyukler-dunya-kupasi-kilic-kafile-listesi-hk-2667.html",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-05T22:35:40+00:00",
+  "first_seen_at": "2026-10-05T22:35:40+00:00",
+  "source": "html"
+ },
+ {
   "id": "2600dd44dc56e07b",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -219,6 +249,23 @@
   "source": "headings"
  },
  {
+  "id": "c92d5a5887c51d43",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Pistte Çifte Heyecan İstanbul Park’ta",
+  "url": "https://www.tosfed.org.tr/pistte-cifte-heyecan-istanbul-parkta/",
+  "summary": "AVIS 2026 Türkiye Pist Şampiyonası dördüncü ve beşinci ayak yarışları, 09 ve 11 Ekim tarihlerinde TOSFED İstanbul Park’ta düzenlenecek. Maxi ve süper grupta otomobillerin mücadele edeceği hafta sonu, rekabetin yanı sıra pist deneyimleri ve otomobil tutkunlarına yönelik etkinlikleriyle sporseverlere dolu dolu bir hafta sonu sunacak. Ayrıca 10 Ekim Cumartesi günü gerçekleştirilecek olan TOSFED Track Faest etkinliğinde, […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-05T15:11:23+00:00",
+  "first_seen_at": "2026-10-05T22:35:40+00:00",
+  "source": "rss"
+ },
+ {
   "id": "d8ea2a89e6df361b",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -358,6 +405,21 @@
   "tags": [],
   "published_at": "2026-10-05T00:50:10+00:00",
   "first_seen_at": "2026-10-05T00:50:10+00:00",
+  "source": "html"
+ },
+ {
+  "id": "c0655aa5f22dd34d",
+  "federation": "herkesicinspor",
+  "federation_name": "Türkiye Herkes İçin Spor Federasyonu",
+  "federation_short": "HİS",
+  "title": "Türkiye Herkes için Spor Federasyonu’nun 9. Mali Genel Kurulu Yapıldı",
+  "url": "https://his.gov.tr/turkiye-herkes-icin-spor-federasyonunun-9-mali-genel-kurulu-yapildi",
+  "summary": "",
+  "image": "https://his.gov.tr/upload/1791224143-6ac3e94fbe591.JPG",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-10-05T22:35:40+00:00",
   "source": "html"
  },
  {
@@ -3016,68 +3078,6 @@
   "federation_short": "TMOK",
   "title": "İnsan Kaynakları",
   "url": "https://olimpiyat.org.tr/Kurumsal/İnsan-Kaynaklari",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "0ca3ec851b79f7f1",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Staj Olanakları",
-  "url": "https://olimpiyat.org.tr/Kurumsal/Staj-Olanaklari",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "35d67e2ba5737831",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "İş Başvurusu",
-  "url": "https://olimpiyat.org.tr/Kurumsal/İs-Basvurusu",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "burs"
-  ],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "f33c5374c02b63a1",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Gizlilik ve Kişisel Veri Politikamız",
-  "url": "https://olimpiyat.org.tr/Kurumsal/Gizlilik-ve-Kisisel-Veri-Politikamiz",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "12db2a5444c2eec0",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Olimpik Antlaşma",
-  "url": "https://olimpiyat.org.tr/Upload/Menu/624923_ioc_antlasmasi.pdf",
   "summary": "",
   "image": null,
   "category": "duyuru",

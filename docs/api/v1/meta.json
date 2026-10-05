@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-05T16:00:24+00:00",
+ "generated_at": "2026-10-05T16:48:39+00:00",
  "total": 6000,
- "new_in_last_run": 1,
+ "new_in_last_run": 12,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -11,25 +11,20 @@
  "sources_empty": [],
  "sources_missing": [],
  "partial_run": [
-  "basketbol"
+  "gures"
  ],
  "latest_published_at": "2026-10-05T15:56:18+00:00",
  "categories": {
   "kurs": 146,
-  "duyuru": 582,
-  "musabaka": 277,
-  "mevzuat": 4889,
+  "duyuru": 585,
+  "musabaka": 286,
+  "mevzuat": 4877,
   "haber": 32,
   "takvim": 74
  },
  "silent_sources": [
   {
    "federation": "curling",
-   "last_published_at": null,
-   "days": null
-  },
-  {
-   "federation": "gures",
    "last_published_at": null,
    "days": null
   },
@@ -61,7 +56,7 @@
   "satranc": 45,
   "ozelsporcular": 149,
   "dagcilik": 732,
-  "gsb": 748,
+  "gsb": 736,
   "izcilik": 615,
   "havasporlari": 20,
   "ragbi": 62,
@@ -107,6 +102,7 @@
   "sualti": 11,
   "sportoto": 7,
   "vucutgelistirme": 17,
+  "gures": 12,
   "gelenekselsporlar": 3,
   "paralimpik": 3,
   "judo": 3

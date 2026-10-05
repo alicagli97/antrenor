@@ -77,42 +77,29 @@
  ],
  "gures": [
   {
-   "url": "https://tgf.tr/wp-json/wp/v2/posts?per_page=20&_embed",
-   "kind": "wp_json",
-   "score": 70.0,
-   "item_count": 20,
+   "url": "https://tgf.tr/haberler",
+   "kind": "html",
+   "score": 47.0,
+   "item_count": 12,
    "dated_ratio": 1.0,
-   "label": "WordPress REST",
+   "label": "Haberler",
    "sample": [
+    "Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurul Hakkında",
     "Minikler Gelişim Kampı Hakkında",
-    "2. Kademe Antrenörlük Kursu Hakkında",
-    "3. KADEME GÜREŞ ANTRENÖRLÜĞÜ HAKKINDA"
+    "TÜRKİYE GÜREŞ FEDERASYONU 2026 YILI 9-10-11-12-13-14 YAŞMİNİKLER TÜRKİYE ŞAMPİYONASI İLLERE VERİLEN KONTENJAN VE TEKNİK KONULAR HAKKINDA"
    ]
   },
   {
-   "url": "https://tgf.tr/feed/",
-   "kind": "rss",
-   "score": 55.0,
+   "url": "https://tgf.tr/duyurular",
+   "kind": "html",
+   "score": 45.0,
    "item_count": 10,
    "dated_ratio": 1.0,
-   "label": "RSS",
+   "label": "Duyurular",
    "sample": [
-    "Minikler Gelişim Kampı Hakkında",
-    "2. Kademe Antrenörlük Kursu Hakkında",
-    "3. KADEME GÜREŞ ANTRENÖRLÜĞÜ HAKKINDA"
-   ]
-  },
-  {
-   "url": "https://tgf.tr/rss",
-   "kind": "rss",
-   "score": 55.0,
-   "item_count": 10,
-   "dated_ratio": 1.0,
-   "label": "RSS",
-   "sample": [
-    "Minikler Gelişim Kampı Hakkında",
-    "2. Kademe Antrenörlük Kursu Hakkında",
-    "3. KADEME GÜREŞ ANTRENÖRLÜĞÜ HAKKINDA"
+    "TÜRKİYE GÜREŞ FEDERASYONU BAŞKANLIĞI MALİ KURUL DELEGE BELİRLEME KURA ÇEKİLİŞİ",
+    "Veteranlar Dünya Şampiyonası Katılımı Hakkında",
+    "Minikler Gelişim Kampı Hakkında"
    ]
   }
  ],

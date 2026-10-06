@@ -1,5 +1,39 @@
 [
  {
+  "id": "10d7c329b38cef93",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Nesine 2. ve 3. Lig'de Haftanın Canlı Yayınlanacak Maçları Belirlendi",
+  "url": "https://www.tff.org/default.aspx?pageID=204&ftxtID=51584",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-06T21:41:10+00:00",
+  "first_seen_at": "2026-10-06T21:41:10+00:00",
+  "source": "html"
+ },
+ {
+  "id": "1d91cb04d64d6649",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Büyükler Türkiye Squash Şampiyonası Reglamanı Yayınlandı",
+  "url": "https://www.badminton.org.tr/buyukler-turkiye-squash-sampiyonasi-reglamani-yayinlandi/",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-06T20:10:02+00:00",
+  "first_seen_at": "2026-10-06T21:41:10+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "7a7e5a45e6ca53d0",
   "federation": "masatenisi",
   "federation_name": "Türkiye Masa Tenisi Federasyonu",
@@ -1965,6 +1999,23 @@
   "source": "wp_json"
  },
  {
+  "id": "df7899fef75b9ec4",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yaş Altı Türkiye Takım Şampiyonası Tamamlandı",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/581",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Cumhurbaşkanlığı Tenis Kupası Cumhurbaşkanlığı Tenis Kupası müsabakaları 19 – 23 Ekim tarihleri arasında gerçekleştirilecektir. Turnuvaya ilişkin kategori, format ve katılım bilgileri duyuruda yer almaktadır. Detaylar Mercedes-Benz Cup Tenis Turnuvası, One Point Formatıyla Türkiye’de Bir İlke İmza Atıyor Türkiye Tenis Federasyonu (TTF) Ana Sponsoru Mercedes-",
+  "image": "http://www.ttf.org.tr/public/news_post/6aabe5a5eb0c6_1789650341.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-02T00:00:00+00:00",
+  "first_seen_at": "2026-10-06T21:41:10+00:00",
+  "source": "html"
+ },
+ {
   "id": "11ea43515a136317",
   "federation": "bocce",
   "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
@@ -3363,57 +3414,5 @@
   "published_at": "2026-09-27T00:00:00+00:00",
   "first_seen_at": "2026-09-29T20:43:13+00:00",
   "source": "html"
- },
- {
-  "id": "6c91df7923413d30",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "U23 Balkan Judo Şampiyonası’nda 6 madalya ve takım ikinciliği!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303265/u23-balkan-judo-sampiyonasinda-6-madalya-ve-takim-ikinciligi.aspx",
-  "summary": "Kosova’nın Peja kentinde 26- tarihlerinde düzenlenen U23 Balkan Judo Şampiyonası’nda millî judocularımız, ferdi müsabakalarda 1 altın, 3 gümüş ve 2 bronz olmak üzere toplam 6 madalya kazandı. Karışık takım müsabakalarında ise millî takımımız Balkan ikincisi oldu. Haberi Oku",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-27T00:00:00+00:00",
-  "first_seen_at": "2026-09-28T15:21:31+00:00",
-  "source": "html"
- },
- {
-  "id": "1163a24b7f10ab04",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "A Millî Takım'da İtalya Hazırlıkları Başladı",
-  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51454",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-26T19:49:09+00:00",
-  "first_seen_at": "2026-09-26T19:49:09+00:00",
-  "source": "html"
- },
- {
-  "id": "68bcc63b4a4cd522",
-  "federation": "taekwondo",
-  "federation_name": "Türkiye Taekwondo Federasyonu",
-  "federation_short": "TTF",
-  "title": "Yıldızlar Milli Takım Seçme Müsabakası",
-  "url": "https://turkiyetaekwondofed.gov.tr/yildizlar-milli-takim-secme-musabakasi-3/",
-  "summary": "26-28 Kasım 2026 tarihleri arasında Romanya’nın Bükreş kentinde yapılacak olan Avrupa Yıldızlar Taekwondo Şampiyonası’nda ülkemizi temsil edecek Yıldızlar Milli Takımımızı belirlemek için Seçme Müsabakası yapılacaktır. Avrupa Yıldızlar Milli Takım Seçme Müsabakaları’nın 12 Ekim 2026 tarihi tartı, 13-14 Ekim 2026 tarihinde Ankara Yenimahalle Spor Kompleksinde yapılması planlanmaktadır. Seçme Tarihi : 13-14 Ekim 2026 Saat: 09.00Tartı Tarihi-Saati […]",
-  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2024/01/MAVI-scaled.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "milli_takim"
-  ],
-  "published_at": "2026-09-26T14:56:25+00:00",
-  "first_seen_at": "2026-09-26T17:07:35+00:00",
-  "source": "wp_json"
  }
 ]

@@ -1,5 +1,41 @@
 [
  {
+  "id": "65ec2749b3e655a6",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "Mevzuat güncellendi: Ana Statü",
+  "url": "https://www.tyf.gov.tr/sayfa/ana-statu.html",
+  "summary": "Türkiye Yüzme Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-10-06T10:45:59+00:00",
+  "first_seen_at": "2026-10-06T10:45:59+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "247632ae53cc8d5f",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "Mevzuat güncellendi: Genelgeler",
+  "url": "https://www.tyf.gov.tr/sayfa/genelgeler.html",
+  "summary": "Türkiye Yüzme Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-10-06T10:45:59+00:00",
+  "first_seen_at": "2026-10-06T10:45:59+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "e66579e883eb5824",
   "federation": "yuzme",
   "federation_name": "Türkiye Yüzme Federasyonu",
@@ -382,41 +418,5 @@
   "published_at": "2026-09-17T00:00:00+00:00",
   "first_seen_at": "2026-09-17T16:54:12+00:00",
   "source": "html"
- },
- {
-  "id": "65ec2749b3e655a6",
-  "federation": "yuzme",
-  "federation_name": "Türkiye Yüzme Federasyonu",
-  "federation_short": "TYF",
-  "title": "Mevzuat güncellendi: Ana Statü",
-  "url": "https://www.tyf.gov.tr/sayfa/ana-statu.html",
-  "summary": "Türkiye Yüzme Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-16T08:50:22+00:00",
-  "first_seen_at": "2026-09-16T08:50:22+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "247632ae53cc8d5f",
-  "federation": "yuzme",
-  "federation_name": "Türkiye Yüzme Federasyonu",
-  "federation_short": "TYF",
-  "title": "Mevzuat güncellendi: Genelgeler",
-  "url": "https://www.tyf.gov.tr/sayfa/genelgeler.html",
-  "summary": "Türkiye Yüzme Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-16T08:50:22+00:00",
-  "first_seen_at": "2026-09-16T08:50:22+00:00",
-  "source": "mevzuat"
  }
 ]

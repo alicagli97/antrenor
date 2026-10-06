@@ -6,8 +6,16 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "7ac5ed06a91f29d6",
- "event_count": 399,
+ "event_count": 400,
  "events": [
+  {
+   "ad": "Genel Cimnastik Hareket Eğitimi Gelişim Semineri",
+   "tarih": "2026-10-24",
+   "tarih_metni": "2026.10.24 24.10.2026 - 24.10.2026",
+   "yer": "Online",
+   "brans": "Seminer",
+   "satir": "2026 | Seminer | Genel Cimnastik Hareket Eğitimi Gelişim Semineri | Genel Cimnastik Hareket Eğitimi | Online | 2026.10.24 24.10.2026 - 24.10.2026 | İncele"
+  },
   {
    "ad": "3. Kademe Kıdemli Antrenörlük Kursu",
    "tarih": "2026-10-19",
@@ -126,7 +134,7 @@
    "tarih_metni": "2026.10.17 12.10.2026 - 17.10.2026",
    "yer": "Ankara",
    "brans": "Kurs",
-   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.10.17 12.10.2026 - 17.10.2026 | İncele"
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.10.17 12.10.2026 - 17.10.2026 | Katılımcı Listesi İncele"
   },
   {
    "ad": "2026.10.17 12.10.2026 - 17.10.2026",
@@ -142,7 +150,7 @@
    "tarih_metni": "2026.10.16 11.10.2026 - 16.10.2026",
    "yer": "Edirne",
    "brans": "Kurs",
-   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | Edirne | 2026.10.16 11.10.2026 - 16.10.2026 | İncele"
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | Edirne | 2026.10.16 11.10.2026 - 16.10.2026 | Katılımcı Listesi İncele"
   },
   {
    "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
@@ -3201,8 +3209,8 @@
    "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
   }
  ],
- "checked_at": "2026-10-06T10:06:38",
- "bekleyen_iz": "1871ece83e555212",
+ "checked_at": "2026-10-06T16:45:12",
+ "bekleyen_iz": "dc0574c4c06c1e32",
  "changed_at": "2026-10-05T22:33:45+00:00",
  "parmak_izi": "7ac5ed06a91f29d6"
 }

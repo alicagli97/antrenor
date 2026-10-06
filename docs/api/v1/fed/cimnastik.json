@@ -1,5 +1,38 @@
 [
  {
+  "id": "f334612a05407c34",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "İstanbul 2028 Dünya Cimnastik Federasyon 87. Seçimli Kongresi’ne ev sahipliği yapacak",
+  "url": "https://www.tcf.gov.tr/istanbul-2028-dunya-cimnastik-federasyon-87-secimli-kongresine-ev-sahipligi-yapacak/",
+  "summary": "Dünya Cimnastik Federasyonunun (WG) 87. Seçimli Kongresi’nin gerçekleştirileceği şehir, Tayland’ın başkenti Bangkok’ta düzenlenen kongrede belli oldu. İstanbul, 350 geçerli oyun 210’unu alarak (%60) Roma’nın önünde yer aldı ve 2028 yılında gerçekleştirilecek Dünya Cimnastik Federasyonu’nun 87. Seçimli Kongresi’ne ev sahipliği yapma hakkını kazandı. 2028 yılında İstanbul’da gerçekleştirilecek kongrede, Dünya Cimnastik Federasyonu Başkanı ve Yönetim Kurulu üyelerinin […]",
+  "image": "https://www.tcf.gov.tr/wp-content/uploads/2026/10/5-ekim-tayland-kongre-3.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-06T12:13:54+00:00",
+  "first_seen_at": "2026-10-06T16:46:41+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "68f5624d7f784951",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Mevzuat güncellendi: Ana Statü",
+  "url": "https://www.tcf.gov.tr/kurumsal/ana-statu/",
+  "summary": "Türkiye Cimnastik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-10-06T10:46:56+00:00",
+  "first_seen_at": "2026-10-06T10:46:56+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "aa273ac903599ad7",
   "federation": "cimnastik",
   "federation_name": "Türkiye Cimnastik Federasyonu",
@@ -662,42 +695,6 @@
   ],
   "published_at": "2026-09-16T18:09:07+00:00",
   "first_seen_at": "2026-09-16T18:09:07+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "68f5624d7f784951",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Mevzuat güncellendi: Ana Statü",
-  "url": "https://www.tcf.gov.tr/kurumsal/ana-statu/",
-  "summary": "Türkiye Cimnastik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-16T08:51:41+00:00",
-  "first_seen_at": "2026-09-16T08:51:41+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "db61bac2e719aee5",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 359 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-15T22:08:12+00:00",
-  "first_seen_at": "2026-09-15T22:08:12+00:00",
   "source": "takvim-html"
  }
 ]

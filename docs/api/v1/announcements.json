@@ -1,5 +1,53 @@
 [
  {
+  "id": "0616191783a75d52",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Vincenzo Montella: \"Gelişmeye Devam Ederek İstediğimiz Noktaya Geleceğiz\"",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51571",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-06T02:56:15+00:00",
+  "first_seen_at": "2026-10-06T02:56:15+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d0a23798d229b1e7",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF'den Mesajlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51573",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-06T02:56:15+00:00",
+  "first_seen_at": "2026-10-06T02:56:15+00:00",
+  "source": "html"
+ },
+ {
+  "id": "643c47793add81d0",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-06T02:54:34+00:00",
+  "first_seen_at": "2026-10-06T02:54:34+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "e32d4c134e98e1ca",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -10070,6 +10118,41 @@
   "source": "html"
  },
  {
+  "id": "bb5c3faaf11e6968",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "🇹🇷 15 Yaş Altı Badminton Millî Takımımız Avrupa Şampiyonası Yolcusu!",
+  "url": "https://www.badminton.org.tr/%f0%9f%87%b9%f0%9f%87%b7-15-yas-alti-badminton-milli-takimimiz-avrupa-sampiyonasi-yolcusu/",
+  "summary": "7-10 Ekim 2026 tarihleri arasında Norveç’te düzenlenecek olan 15 Yaş Altı Badminton Avrupa Şampiyonası öncesinde Millî Takımımız, Erzincan’da gerçekleştirdiği hazırlık kampını başarıyla tamamladı. Şampiyona boyunca ülkemizi en iyi şekilde temsil etmek için yoğun ve verimli bir hazırlık dönemi geçiren millî sporcularımız, Avrupa Şampiyonası’na katılmak üzere yola çıkıyor. Kamp süresince bizlere sağladıkları destek, gösterdikleri ilgi ve […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-05-at-00.47.12-scaled.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-10-03T23:01:55+00:00",
+  "first_seen_at": "2026-10-06T02:56:15+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "d6a20eb4076690f4",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "🏸 Dünya Badminton Şampiyonası Başlıyor 🇹🇷",
+  "url": "https://www.badminton.org.tr/%f0%9f%8f%b8-dunya-badminton-sampiyonasi-basliyor-%f0%9f%87%b9%f0%9f%87%b7/",
+  "summary": "5–17 Ekim 2026 tarihleri arasında Mısır’ın başkenti Kahire’de düzenlenecek olan BWF Dünya Gençler Badminton Şampiyonası başlıyor. Şampiyona öncesi hazırlıklarını tamamlayan Genç Milli Takımımız, ülkemizi en iyi şekilde temsil etmek için mücadele edecek. Dünyanın farklı ülkelerinden sporcuların katılacağı şampiyonada mücadele edecek tüm sporcularımıza ve teknik ekibimize başarılar diliyoruz.",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-04-at-14.34.47-scaled.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-03T22:57:31+00:00",
+  "first_seen_at": "2026-10-06T02:56:15+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "1169668a8571227f",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -15596,6 +15679,23 @@
   "published_at": "2026-10-03T00:00:00+00:00",
   "first_seen_at": "2026-10-03T12:29:12+00:00",
   "source": "html"
+ },
+ {
+  "id": "c472360b067ee8c4",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "🇹🇷🏸 Badminton Milli Takımımız Dünya Şampiyonası İçin Mısır’da!",
+  "url": "https://www.badminton.org.tr/%f0%9f%87%b9%f0%9f%87%b7%f0%9f%8f%b8-badminton-milli-takimimiz-dunya-sampiyonasi-icin-misirda/",
+  "summary": "5-17 Ekim 2026 tarihleri arasında Mısır’ın başkenti Kahire’de düzenlenecek olan BWF Dünya Gençler Badminton Şampiyonası’na katılacak Milli Takımımız, Kahire’ye ulaştı. Ay yıldızlı bayrağımızı dünya sahnesinde en iyi şekilde temsil etmek için mücadele edecek sporcularımız, şampiyonada ülkemize yeni başarılar kazandırmayı hedefliyor. Uzun ve özverili bir hazırlık sürecinin ardından dünya arenasına çıkan millî sporcularımıza ve teknik ekibimize […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-03-at-17.02.36.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-02T22:53:33+00:00",
+  "first_seen_at": "2026-10-06T02:56:15+00:00",
+  "source": "wp_json"
  },
  {
   "id": "fa7483df3255d449",
@@ -107290,105 +107390,5 @@
   "published_at": "2026-09-15T13:33:34+00:00",
   "first_seen_at": "2026-09-15T13:33:34+00:00",
   "source": "html"
- },
- {
-  "id": "ee0d1464606823aa",
-  "federation": "masatenisi",
-  "federation_name": "Türkiye Masa Tenisi Federasyonu",
-  "federation_short": "TMTF",
-  "title": "Masa Tenisi faaliyet takviminde değişiklik",
-  "url": "https://tmtf.gov.tr/haberler-35",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-15T13:27:43+00:00",
-  "first_seen_at": "2026-09-15T13:27:43+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "8fe08205e9c52498",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "Federasyon Başkanı Birol Aydın’dan İstanbul Gençlik ve Spor İl Müdürü’ne Ziyaret",
-  "url": "https://tossfed.gov.tr/federasyon-baskani-birol-aydindan-istanbul-genclik-ve-spor-il-mudurune-ziyaret/",
-  "summary": "Türkiye Özel Sporcular Spor Federasyonu Başkanı Birol Aydın, beraberinde Federasyon Başkan Danışmanı ile birlikte İstanbul Gençlik ve Spor İl Müdürü Sayın Seyda Dursun’u makamında ziyaret etti. Samimi bir ortamda gerçekleşen ziyarette çeşitli konularda görüş alışverişinde bulunuldu. Ziyaret, günün anısına gerçekleştirilen fotoğraf çekimiyle sona erdi. Türkiye Özel Sporcular Spor Federasyonu Başkanı Birol Aydın, ziyaretin ardından yaptığı …",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-15T13:10:28+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "rss"
- },
- {
-  "id": "3114dc1fb2e2f8f7",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "TRT 7 Metre’de 2026-2027 Sezonu Başlıyor",
-  "url": "https://thf.org.tr/haber/trt-7-metrede-2026-2027-sezonu-basliyor",
-  "summary": "Türk hentbolunun ekranlardaki buluşma noktası TRT 7 Metre, 2026-2027 sezonunda TRT Spor Yıldız'da izleyiciyle buluşacak. Yeni sezonun ilk programı, 16 Eylül 2026 Çarşamba günü saat 11.00’de, Ankara’daki THF Prof. Dr. Yaşar Sevim Hentbol Salonu’nda gerçekleştirilecek. Sezonun ilk programının konuğu ise Türkiye Hentbol Federasyonu Başkanı Mesut Çebi olacak. Programda yeni sezonun yanı sıra Türk hentbolundaki güncel gelişmeler ve Türkiye Hentbol Federasyonu’nun yeni döneme ilişkin çalışmaları ele alınacak.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-15T13:03:59+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "api"
- },
- {
-  "id": "99abd736990dc1b1",
-  "federation": "taekwondo",
-  "federation_name": "Türkiye Taekwondo Federasyonu",
-  "federation_short": "TTF",
-  "title": "2028 Dünya Taekwondo Poomsae Şampiyonası Türkiye’de",
-  "url": "https://turkiyetaekwondofed.gov.tr/2028-dunya-taekwondo-poomsae-sampiyonasi-turkiyede/",
-  "summary": "Türkiye, 2028 yılında düzenlenecek Dünya Taekwondo Poomsae Şampiyonası’na evsahipliği yapmaya hak kazandı. Güney Kore’de başlayacak olan 2026 Dünya Taekwondo Poomsae Şampiyonası öncesinde Dünya Taekwondo Federasyonu Yönetim Kurulu bir toplantı yaptı. Toplantıda, 2028 yılında düzenlenecek Dünya Taekwondo Poomsae Şampiyonası’na Antalya’nın evsahipliği yapması kararlaştırıldı. Toplantının ardından Dünya Taekwondo Federasyonu Başkanı Dr. Chungwon Choue ile Türkiye Taekwondo Federasyonu […]",
-  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/09/IMG-20260915-WA0045.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-15T13:00:50+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "83ec1aae1791583d",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "TOHM Duyurusu Değişikliği",
-  "url": "https://taf.org.tr/tohm-duyurusu-degisikligi/",
-  "summary": "Sporcu Yetiştirme Dairesi Başkanlığı ve Türkiye Atletizm Federasyonu 2026 yılında Türkiye Olimpik Hazırlık Merkezlerine sporcu alım kriterlerini (TOHM Baraj Derecelerini) belirlemiştir. Türkiye Atletizm Federasyonu 2026 yılı Faaliyet programında yer alan 1 ocak – 1 Eylül 2026 tarihleri arasında yapılan Ulusal ve Uluslararası resmi yarışmalarda elde edilen resmi dereceler dikkate alınacaktır. Okul Sporları Müsabaka sonuçları dikkate […]",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/06/DUYURU-1.png",
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-15T12:41:26+00:00",
-  "first_seen_at": "2026-09-15T13:33:34+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "2da3ff1485b528b6",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Spor Tırmanış Temel Seviye Eğitimi – Ankara Başvuruları",
-  "url": "https://tdf.tr/spor-tirmanis-temel-seviye-egitimi-ankara-basvurulari-5/",
-  "summary": "Federasyonumuzun 2026 faaliyet programında bulunan Spor Tırmanış Temel Seviye Eğitimi, 29 Eylül-03 Ekim 2026 tarihleri arasında Ankara ilinde yapılacaktır. Eğitim Bilgileri Eğitim Tarihi:29 Eylül-03 Ekim 2026 Son Başvuru: 22 Eylül 2026 – Saat: 07:00 Kontenjan: 30 Kişi (Başvuru Önceliklidir) İletişim: Burak GÖKTAŞ (İl Temsilcisi) / 0507 7728145 Katılım Şartları Vize: 2026 yılı geçerli Spor Tırmanış sporcu lisansına ve branş vizesine […]",
-  "image": "https://tdf.tr/wp-content/uploads/2026/09/Ekran-goruntusu-2026-09-10-102120.png",
-  "category": "duyuru",
-  "tags": [
-   "vize",
-   "burs"
-  ],
-  "published_at": "2026-09-15T12:05:21+00:00",
-  "first_seen_at": "2026-09-30T19:10:20+00:00",
-  "source": "wp_json"
  }
 ]

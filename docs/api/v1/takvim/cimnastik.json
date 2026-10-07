@@ -6,8 +6,24 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "dc0574c4c06c1e32",
- "event_count": 400,
+ "event_count": 402,
  "events": [
+  {
+   "ad": "Artistik Cimnastik GENÇ-PREJUNIOR 1 Kadınlar Hazırlık Kampı",
+   "tarih": "2026-10-21",
+   "tarih_metni": "2026.10.29 21.10.2026 - 29.10.2026",
+   "yer": "İstanbul",
+   "brans": "Kamp",
+   "satir": "2026 | Kamp | Artistik Cimnastik GENÇ-PREJUNIOR 1 Kadınlar Hazırlık Kampı | Kadın Artistik Cimnastik | İstanbul | 2026.10.29 21.10.2026 - 29.10.2026 | İncele"
+  },
+  {
+   "ad": "Artistik Cimnastik BÜYÜK- PREJUNIOR 2 Kadınlar Hazırlık Kampı",
+   "tarih": "2026-10-12",
+   "tarih_metni": "2026.10.20 12.10.2026 - 20.10.2026",
+   "yer": "İstanbul",
+   "brans": "Kamp",
+   "satir": "2026 | Kamp | Artistik Cimnastik BÜYÜK- PREJUNIOR 2 Kadınlar Hazırlık Kampı | Kadın Artistik Cimnastik | İstanbul | 2026.10.20 12.10.2026 - 20.10.2026 | İncele"
+  },
   {
    "ad": "Genel Cimnastik Hareket Eğitimi Gelişim Semineri",
    "tarih": "2026-10-24",
@@ -3191,26 +3207,10 @@
    "yer": "Bolu",
    "brans": "Kamp",
    "satir": "2026 | Kamp | Artistik Cimnastik Büyük Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.24 14.01.2026 - 24.01.2026 | İncele"
-  },
-  {
-   "ad": "Artistik Cimnastik Genç Erkekler Hazırlık Kampı",
-   "tarih": "2026-01-15",
-   "tarih_metni": "2026.01.24 15.01.2026 - 24.01.2026",
-   "yer": "Bolu",
-   "brans": "Kamp",
-   "satir": "2026 | Kamp | Artistik Cimnastik Genç Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.24 15.01.2026 - 24.01.2026 | İncele"
-  },
-  {
-   "ad": "Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı",
-   "tarih": "2026-01-25",
-   "tarih_metni": "2026.01.31 25.01.2026 - 31.01.2026",
-   "yer": "Bolu",
-   "brans": "Kamp",
-   "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Erkekler Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.01.31 25.01.2026 - 31.01.2026 | İncele"
   }
  ],
- "checked_at": "2026-10-07T01:27:05",
- "bekleyen_iz": null,
+ "checked_at": "2026-10-07T08:34:01",
+ "bekleyen_iz": "8e404278d4a5b16e",
  "changed_at": "2026-10-06T21:35:38+00:00",
  "parmak_izi": "dc0574c4c06c1e32"
 }

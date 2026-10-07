@@ -1,5 +1,35 @@
 [
  {
+  "id": "e387491eaa5b70c1",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF'den Mesajlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51581",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-07T01:28:32+00:00",
+  "first_seen_at": "2026-10-07T01:28:32+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b69c801ff858e9c6",
+  "federation": "hokey",
+  "federation_name": "Türkiye Hokey Federasyonu",
+  "federation_short": "THF",
+  "title": "FAALİYET DUYURUSU",
+  "url": "https://www.turkhokey.gov.tr/haber/10222/faaliyet-duyurusu",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-07T01:28:32+00:00",
+  "first_seen_at": "2026-10-07T01:28:32+00:00",
+  "source": "html"
+ },
+ {
   "id": "e768006fffd8d8dc",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -2304,6 +2334,24 @@
   "source": "html"
  },
  {
+  "id": "9fb12871869f7feb",
+  "federation": "gormeengelliler",
+  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "federation_short": "GESF",
+  "title": "Türkiye Görme Engelliler Spor Federasyonu Futbol Aday Hakem Kursu Duyurusu 26 Eylül / 27 Eylül 2026 Kayseri",
+  "url": "https://www.gesf.org.tr/haber/turkiye-gorme-engelliler-spor-federasyonu-futbol-aday-hakem-kursu-duyurusu-26-eylul-27-eylul-2026-ka-99",
+  "summary": "duyuru Futbol Deplasmanlı Süper Lig 10. Hafta Hakem ve Görevli Listesi Yayınlandı Futbol Deplasmanlı Süper Lig 10. Hafta Hakem ve Görevli Listesi Yayınlandı 2134 görüntülenme duyuru 8. Olağan Mali Genel Kurul Delege Bildirimleri Hakkında Duyuru Türkiye Görme Engelliler Spor Federasyonunun 8. Olağan Mali Genel Kurulu, 15 Kasım 2026 tarihinde Ankara’da gerçekleştirilecektir. 276 görüntülenme duyuru ",
+  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1789561379_c2fb188c.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-10-02T00:00:00+00:00",
+  "first_seen_at": "2026-10-07T01:28:32+00:00",
+  "source": "html"
+ },
+ {
   "id": "382fbf74b3bca618",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3060,54 +3108,6 @@
    "kurs",
    "hakem"
   ],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "f4b8ec70d16226c1",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "05-07 Haziran 2026 Plaj Korfbol Katılımcı Kulüpler Listesi",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-448-05-07-haziran-2026-plaj-korfbol-katilimci-kulupler-listesi",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "969b120400d4375d",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "06-07 Haziran 2026 Hemsball Aday Hakem Kursu / Muğla",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-440-06-07-haziran-2026-hemsball-aday-hakem-kursu-mugla",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
-  "source": "html"
- },
- {
-  "id": "f745651959418e59",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Yaz Olimpiyat Oyunları",
-  "url": "https://olimpiyat.org.tr/Oyunlar?cat=1",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-10-01T13:04:29+00:00",
   "first_seen_at": "2026-10-01T13:04:29+00:00",
   "source": "html"

@@ -1,5 +1,20 @@
 [
  {
+  "id": "e387491eaa5b70c1",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "İstanbul’un Başakşehir ilçesinde bulunan bir ortaokulda meydana gelen olayda yaralanan bir öğrencimizin hastanede hayatını kaybettiğini derin…",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51581",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-08T01:52:13+00:00",
+  "first_seen_at": "2026-10-08T01:52:13+00:00",
+  "source": "html"
+ },
+ {
   "id": "80ac838383d047e1",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -2534,6 +2549,21 @@
   "source": "html"
  },
  {
+  "id": "4dfa06f72d562c3d",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
+  "url": "https://tusf.org.tr/Haber.aspx?b=28551889-94ac-4687-af7d-265359b05d5c&bid=4371&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-07T00:00:00+00:00",
+  "first_seen_at": "2026-10-08T01:52:13+00:00",
+  "source": "html"
+ },
+ {
   "id": "fe23313dd7c7a3b1",
   "federation": "gormeengelliler",
   "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
@@ -2542,21 +2572,6 @@
   "url": "https://www.gesf.org.tr/haber/kadin-gorme-engelliler-futbol-mill-takimimizdan-tarih-avrupa-sampiyonlugu-111",
   "summary": "haber Kadın Görme Engelliler Futbol Millî Takımımız, tarihinde ilk kez katıldığı Avrupa Şampiyonası’nı namağlup ve kalesinde tek gol dahi görmeden şampiyon tamamlayarak Türk spor tarihine geçen bir başarıya imza attı. Ay-yıldızlılar, İstanbul’da düzenlenen 10 görüntülenme duyuru Futbol Deplasmanlı Süper Lig 10. Hafta Hakem ve Görevli Listesi Yayınlandı Futbol Deplasmanlı Süper Lig 10. Hafta Hakem ",
   "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1791399617_7477bcde.png",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-07T00:00:00+00:00",
-  "first_seen_at": "2026-10-07T21:59:14+00:00",
-  "source": "html"
- },
- {
-  "id": "fbffb890784f2f7e",
-  "federation": "universitesporlari",
-  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
-  "federation_short": "TÜSF",
-  "title": "Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
-  "url": "https://tusf.org.tr/Haber.aspx?b=f30488e9-2a2b-46d5-a469-8d5f48d85832&bid=4408&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
-  "summary": "",
-  "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-07T00:00:00+00:00",
@@ -4378,6 +4393,155 @@
   "source": "html"
  },
  {
+  "id": "233b165f43b8cdb5",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! HABER 26.08.2026",
+  "url": "https://www.tbhf.org.tr/news/2026-2027-sezonu-lig-statuleri-yayinlandi",
+  "summary": "Duyuru 2026-2027 Sezonu Antrenör Vize Süreci Başlıyor DUYURU Haber Kaleci Gelişim Antrenmanları Başlıyor HABER Haber IIHF Kadınlar Avrupa Uluslar Kupası 2027 HABER 23.09.2026 Haber Ankara 3.Kademe Kursu Ders Programı HABER 04.08.2026 Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! HABER 30.07.2026 Duyuru Kademe Kursları Ders Programları! DUYURU 27.06.2026 Duyuru Kaleci Gelişim Çalışmaları Buz A",
+  "image": "https://tbhf-public.sporpano.com/news/a705ca5c837b4dc3b891111adbb80dd0.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-10-08T01:52:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "4c48de8d866cd437",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Haber Ankara 3.Kademe Kursu Ders Programı HABER 04.08.2026",
+  "url": "https://www.tbhf.org.tr/news/ankara-3-kademe-kurs-katilimci-listesi",
+  "summary": "Duyuru 2026-2027 Sezonu Antrenör Vize Süreci Başlıyor DUYURU Haber Kaleci Gelişim Antrenmanları Başlıyor HABER Haber IIHF Kadınlar Avrupa Uluslar Kupası 2027 HABER 23.09.2026 Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! HABER 26.08.2026 Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! HABER 30.07.2026 Duyuru Kademe Kursları Ders Programları! DUYURU 27.06.2026 Duyuru Kaleci Gelişim Çalışmal",
+  "image": "https://tbhf-public.sporpano.com/news/6b89762e7a7f4c81a1b6d24dce772b58.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-10-08T01:52:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "1d71bd5d7f162f5b",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! HABER 30.07.2026",
+  "url": "https://www.tbhf.org.tr/news/3-kademe-antrenor-kursu-ankarada-aciliyor",
+  "summary": "Duyuru 2026-2027 Sezonu Antrenör Vize Süreci Başlıyor DUYURU Haber Kaleci Gelişim Antrenmanları Başlıyor HABER Haber IIHF Kadınlar Avrupa Uluslar Kupası 2027 HABER 23.09.2026 Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! HABER 26.08.2026 Haber Ankara 3.Kademe Kursu Ders Programı HABER 04.08.2026 Duyuru Kademe Kursları Ders Programları! DUYURU 27.06.2026 Duyuru Kaleci Gelişim Çalışmaları Buz A",
+  "image": "https://tbhf-public.sporpano.com/news/7215684a3ed34495875559fcd75668f8.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-10-08T01:52:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "1ec4185a8ed1d617",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Duyuru Kademe Kursları Ders Programları! DUYURU 27.06.2026",
+  "url": "https://www.tbhf.org.tr/news/kademe-kurslari-ders-programlari",
+  "summary": "Duyuru 2026-2027 Sezonu Antrenör Vize Süreci Başlıyor DUYURU Haber Kaleci Gelişim Antrenmanları Başlıyor HABER Haber IIHF Kadınlar Avrupa Uluslar Kupası 2027 HABER 23.09.2026 Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! HABER 26.08.2026 Haber Ankara 3.Kademe Kursu Ders Programı HABER 04.08.2026 Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! HABER 30.07.2026 Duyuru Kaleci Gelişim Çalışmal",
+  "image": "https://tbhf-public.sporpano.com/news/6b89762e7a7f4c81a1b6d24dce772b58.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-10-08T01:52:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "211de144c162bf99",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Duyuru Kaleci Gelişim Çalışmaları Buz Adası'nda! DUYURU 25.06.2026",
+  "url": "https://www.tbhf.org.tr/news/kaleci-gelisim-calismalari-buz-adasinda",
+  "summary": "Duyuru 2026-2027 Sezonu Antrenör Vize Süreci Başlıyor DUYURU Haber Kaleci Gelişim Antrenmanları Başlıyor HABER Haber IIHF Kadınlar Avrupa Uluslar Kupası 2027 HABER 23.09.2026 Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! HABER 26.08.2026 Haber Ankara 3.Kademe Kursu Ders Programı HABER 04.08.2026 Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! HABER 30.07.2026 Duyuru Kademe Kursları Ders Pr",
+  "image": "https://tbhf-public.sporpano.com/news/cf2ef58801194593b17ccef2bfdf7496.jpeg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-10-08T01:52:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "80b1131ef2880f5e",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Haber Yıldız B Şampiyonu Buz Korsanları SK! HABER 24.06.2026",
+  "url": "https://www.tbhf.org.tr/news/yildiz-b-sampiyonu-buz-korsanlari-sk",
+  "summary": "Duyuru 2026-2027 Sezonu Antrenör Vize Süreci Başlıyor DUYURU Haber Kaleci Gelişim Antrenmanları Başlıyor HABER Haber IIHF Kadınlar Avrupa Uluslar Kupası 2027 HABER 23.09.2026 Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! HABER 26.08.2026 Haber Ankara 3.Kademe Kursu Ders Programı HABER 04.08.2026 Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! HABER 30.07.2026 Duyuru Kademe Kursları Ders Pr",
+  "image": "https://tbhf-public.sporpano.com/news/30877b18854e49418f5d629421f87662.jpg",
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-10-08T01:52:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "625937de86ef4995",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Haber Minikler Türkiye Şampiyonası Sona Erdi! HABER 22.06.2026",
+  "url": "https://www.tbhf.org.tr/news/minikler-turkiye-sampiyonasi-sona-erdi",
+  "summary": "Duyuru 2026-2027 Sezonu Antrenör Vize Süreci Başlıyor DUYURU Haber Kaleci Gelişim Antrenmanları Başlıyor HABER Haber IIHF Kadınlar Avrupa Uluslar Kupası 2027 HABER 23.09.2026 Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! HABER 26.08.2026 Haber Ankara 3.Kademe Kursu Ders Programı HABER 04.08.2026 Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! HABER 30.07.2026 Duyuru Kademe Kursları Ders Pr",
+  "image": "https://tbhf-public.sporpano.com/news/a018a31a8cf4443b89436d7dcfab2fb4.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-10-08T01:52:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "9fe85243266abbb4",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Haber U16 Erkekler Ligi’nde Şampiyon Belli Oldu! HABER 21.06.2026",
+  "url": "https://www.tbhf.org.tr/news/u16-erkekler-liginde-sampiyon-belli-oldu",
+  "summary": "Duyuru 2026-2027 Sezonu Antrenör Vize Süreci Başlıyor DUYURU Haber Kaleci Gelişim Antrenmanları Başlıyor HABER Haber IIHF Kadınlar Avrupa Uluslar Kupası 2027 HABER 23.09.2026 Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! HABER 26.08.2026 Haber Ankara 3.Kademe Kursu Ders Programı HABER 04.08.2026 Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! HABER 30.07.2026 Duyuru Kademe Kursları Ders Pr",
+  "image": "https://tbhf-public.sporpano.com/news/d8a0abbe4d6f464393d88634b9c62f4a.jpeg",
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-10-08T01:52:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "3cb4f3215ec7d591",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Haber 2. ve 3. Kademe Antrenör Kursları Açılıyor! HABER 19.06.2026",
+  "url": "https://www.tbhf.org.tr/news/2-ve-3-kademe-antrenor-kurslari-aciliyor",
+  "summary": "Duyuru 2026-2027 Sezonu Antrenör Vize Süreci Başlıyor DUYURU Haber Kaleci Gelişim Antrenmanları Başlıyor HABER Haber IIHF Kadınlar Avrupa Uluslar Kupası 2027 HABER 23.09.2026 Haber 2026 - 2027 Sezonu Lig Statüleri Yayınlandı! HABER 26.08.2026 Haber Ankara 3.Kademe Kursu Ders Programı HABER 04.08.2026 Haber 3. Kademe Antrenör Kursu Ankara'da Açılıyor! HABER 30.07.2026 Duyuru Kademe Kursları Ders Pr",
+  "image": "https://tbhf-public.sporpano.com/news/7215684a3ed34495875559fcd75668f8.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-10-05T00:00:00+00:00",
+  "first_seen_at": "2026-10-08T01:52:13+00:00",
+  "source": "html"
+ },
+ {
   "id": "624214a254a9da28",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -4948,178 +5112,5 @@
   "published_at": "2026-10-04T11:57:29+00:00",
   "first_seen_at": "2026-10-04T13:10:32+00:00",
   "source": "wp_json"
- },
- {
-  "id": "66747132dd11d5dc",
-  "federation": "bisiklet",
-  "federation_name": "Türkiye Bisiklet Federasyonu",
-  "federation_short": "TBF",
-  "title": "Pist Bisikleti Kupası’nın Genç Yıldızları Konya Velodromu’nda Pedal Çevirdi",
-  "url": "https://bisiklet.org.tr/pist-bisikleti-kupasinin-genc-yildizlari-konya-velodromunda-pedal-cevirdi/",
-  "summary": "Türkiye Bisiklet Federasyonu tarafından düzenlenen 2026 Puanlı Pist Bisikleti Kupası’nın 3. Yarışı, 11 ilden 28 kulüp ve 124 genç sporcunun katılımıyla Konya Velodromu’nda gerçekleştirildi. U13, U15 ve U17 kategorilerindeki sporcular, iki gün boyunca hem gelişim hem de Türkiye genel sıralamasına puan kazandıran mücadelelerde pedal çevirdi. Türkiye Bisiklet Federasyonu faaliyet programında yer alan 2026 Puanlı Pist…",
-  "image": "https://bisiklet.org.tr/wp-content/uploads/2026/10/IMG_6386.JPG-scaled.jpeg",
-  "category": "duyuru",
-  "tags": [
-   "kulup"
-  ],
-  "published_at": "2026-10-04T08:43:41+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "d12a82b138043b87",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U19 Millî Takımımız, Hırvatistan Karşısında",
-  "url": "https://www.tff.org/default.aspx?pageID=274&ftxtID=51550",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-04T06:48:09+00:00",
-  "first_seen_at": "2026-10-04T06:48:09+00:00",
-  "source": "html"
- },
- {
-  "id": "3cce72e06005fb6e",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Devam eden soruşturma nedeniyle Merkez Hakem Kurulu Başkanı Sayın Dr.",
-  "url": "https://www.tff.org/default.aspx?pageID=687&ftxtID=51549",
-  "summary": "Ferhat Gündoğdu, adli sürecin sağlıklı yürüyebilmesi ve Merkez Hakem Kurulu faaliyetlerinin aksamaması amacıyla görevinden istifa ettiğini Federasyonumuza yazılı olarak bildirmişti...",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "hakem"
-  ],
-  "published_at": "2026-10-04T00:39:20+00:00",
-  "first_seen_at": "2026-10-04T00:39:20+00:00",
-  "source": "html"
- },
- {
-  "id": "b4b2eec83e37bce6",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
-  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-gebze-13",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-04T00:39:20+00:00",
-  "first_seen_at": "2026-10-04T00:39:20+00:00",
-  "source": "html"
- },
- {
-  "id": "0ce45727595f484d",
-  "federation": "bedenselengelliler",
-  "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
-  "federation_short": "TBESF",
-  "title": "2026-2027 Tekerlekli Sandalye Basketbol Süper Lig Fikstürü",
-  "url": "https://www.tbesf.org.tr/tr/2026-2027-tekerlekli-sandalye-basketbol-super-lig-fiksturu",
-  "summary": "0 % 2026-2027 Tekerlekli Sandalye Basketbol Süper Lig Fikstürü 2026-2027 Tekerlekli Sandalye Basketbol Süper Lig Fikstürü Federasyonumuz tarafından düzenlenen 2026-2027 Sezonu Tekerlekli Sandalye Basketbol Süper Lig müsabakalarının fikstürü belirlenmiştir. Yeni sezonda mücadele edecek takımların karşılaşma programına aşağıda yer alan fikstürden ulaşabilirsiniz. Tüm kulüplerimize ve sporcularımıza başarılı bir sezon dileriz. Dökümanı İndir Bu içerik 04 Ekim 2026 tarihinde eklendi. 28 defa incelendi. Duyurular 2026-2027 Tekerlekli Sandalye Basketbol Süper Lig Fikstürü AMPUTE FUTBOL SÜPER LİG, 1.",
-  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/2273-3741-tekerlekli-sandalye-basketbolda-lige-yeni-katilacak-olan-kuluplerin-dikkatine-img_01.jpeg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-04T00:39:20+00:00",
-  "first_seen_at": "2026-10-04T00:39:20+00:00",
-  "source": "html"
- },
- {
-  "id": "1be131b66de7cd03",
-  "federation": "bedenselengelliler",
-  "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
-  "federation_short": "TBESF",
-  "title": "2026-2027 Sezonu Ampute Futbol Hakem ve Gözlemci Vize Takvimi",
-  "url": "https://www.tbesf.org.tr/tr/2026-2027-sezonu-ampute-futbol-hakem-ve-gozlemci-vize-takvi",
-  "summary": "",
-  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/5922-1000116547.jpg",
-  "category": "kurs",
-  "tags": [
-   "vize",
-   "hakem"
-  ],
-  "published_at": "2026-10-04T00:39:20+00:00",
-  "first_seen_at": "2026-10-04T00:39:20+00:00",
-  "source": "html"
- },
- {
-  "id": "ef93ffe109acebd6",
-  "federation": "bilardo",
-  "federation_name": "Türkiye Bilardo Federasyonu",
-  "federation_short": "TBF",
-  "title": "Türkiye Bilardo Federasyonu | Haberler | Kadınlar, Gençler U17, U21 3 Bant Türkiye Şampiyonaları 2026 2.Etap ve Final Etabı Başvuruları Açılmıştır",
-  "url": "https://www.bilardo.org.tr/haberler/kadinlar,-gencler-u17,-u21-3-bant-turkiye-sampiyonalari-2026-2.etap-ve-final-etabi-basvurulari-acilmistir-1155",
-  "summary": "Başvurular 30 Eylül- tarihleri arasında alınacaktır. Haber Tarihi: 30 September 2026 TAYFUN TAŞDEMİR’DEN DÜNYA ŞAMPİYONASI’NDA BRONZ MADALYA! Fransa Haber Tarihi: 28 September 2026 2026 SNOOKER A LİGİ 2. ETAP TÜRKİYE ŞAMPİYONASI 2026 Türkiye Snooker Şampiyonası A Ligi 2. Etap 9-10-11 Ekim Tarihleri arasında Anadolu Snooker Spor Kulübü - Alt Kat Snooker & Pool Cafe salonunda yapılacaktır. Haber Tar",
-  "image": "https://www.bilardo.org.tr/image/120/90/4eca12a2663d700b9eba0245c8c6b875.png",
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "burs"
-  ],
-  "published_at": "2026-10-04T00:00:00+00:00",
-  "first_seen_at": "2026-10-05T15:56:18+00:00",
-  "source": "html"
- },
- {
-  "id": "331e803c14d6d97e",
-  "federation": "basketbol",
-  "federation_name": "Türkiye Basketbol Federasyonu",
-  "federation_short": "TBF",
-  "title": "Basketbol Yönetici Gelişim Semineri İstanbul'da Düzenlendi 04.10.2026",
-  "url": "https://www.tbf.org.tr/haber/basketbol-yonetici-gelisim-semineri-istanbul-da-duzenlendi-2026-10-04",
-  "summary": "TBF Akademi tarafından düzenlenen Basketbol Yönetici Gelişim Semineri, Turkcell Basketbol Gelişim Merkezi’nde gerçekleştirildi. Devamını Gör",
-  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/35fafc15f8ce468185dba4a2cdc40623_1.jpg",
-  "category": "kurs",
-  "tags": [
-   "kurs"
-  ],
-  "published_at": "2026-10-04T00:00:00+00:00",
-  "first_seen_at": "2026-10-05T11:00:27+00:00",
-  "source": "html"
- },
- {
-  "id": "cb69abd477f2cb19",
-  "federation": "bilardo",
-  "federation_name": "Türkiye Bilardo Federasyonu",
-  "federation_short": "TBF",
-  "title": "2026/3 Antrenör Temel Eğitim Sınavı",
-  "url": "https://www.bilardo.org.tr/haberler/-2026/3-antrenor-temel-egitim-sinavi-1148",
-  "summary": "Kadınlar, Gençler U17, U21 ve U25 3 Bant Türkiye Şampiyonaları 2026 2.Etap ve Final Etabı Başvuruları Açılmıştır Başvurular 30 Eylül- tarihleri arasında alınacaktır. Haber Tarihi: 30 September 2026 TAYFUN TAŞDEMİR’DEN DÜNYA ŞAMPİYONASI’NDA BRONZ MADALYA! Fransa Haber Tarihi: 28 September 2026 2026 SNOOKER A LİGİ 2. ETAP TÜRKİYE ŞAMPİYONASI 2026 Türkiye Snooker Şampiyonası A Ligi 2. Etap 9-10-11 Ek",
-  "image": "https://www.bilardo.org.tr/image/120/90/fb6c8b2c74fe73fe8a1c4dc2f565c058.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-10-04T00:00:00+00:00",
-  "first_seen_at": "2026-10-04T18:07:46+00:00",
-  "source": "html"
- },
- {
-  "id": "dc506dbb4be2fcc2",
-  "federation": "bilardo",
-  "federation_name": "Türkiye Bilardo Federasyonu",
-  "federation_short": "TBF",
-  "title": "2026 3 Bant A Kategorisi Türkiye Şampiyonası 2.etap",
-  "url": "https://www.bilardo.org.tr/haberler/2026-3-bant-a-kategorisi-turkiye-sampiyonasi-2.etap-1147",
-  "summary": "Kadınlar, Gençler U17, U21 ve U25 3 Bant Türkiye Şampiyonaları 2026 2.Etap ve Final Etabı Başvuruları Açılmıştır Başvurular 30 Eylül- tarihleri arasında alınacaktır. Haber Tarihi: 30 September 2026 TAYFUN TAŞDEMİR’DEN DÜNYA ŞAMPİYONASI’NDA BRONZ MADALYA! Fransa Haber Tarihi: 28 September 2026 2026 SNOOKER A LİGİ 2. ETAP TÜRKİYE ŞAMPİYONASI 2026 Türkiye Snooker Şampiyonası A Ligi 2. Etap 9-10-11 Ek",
-  "image": "https://www.bilardo.org.tr/image/120/90/c0e88367533ef8808b89ab2583f407e2.png",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-04T00:00:00+00:00",
-  "first_seen_at": "2026-10-04T18:07:46+00:00",
-  "source": "html"
  }
 ]

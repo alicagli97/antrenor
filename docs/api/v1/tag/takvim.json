@@ -1,5 +1,41 @@
 [
  {
+  "id": "b68d4a8d5f852157",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Hava Sporları faaliyet takviminde değişiklik",
+  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-08T22:00:53+00:00",
+  "first_seen_at": "2026-10-08T22:00:53+00:00",
+  "source": "takvim-pdf"
+ },
+ {
+  "id": "fcabc45d38928aca",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Masa Tenisi faaliyet takviminde değişiklik",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-08T22:00:41+00:00",
+  "first_seen_at": "2026-10-08T22:00:41+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "4c5cb17279f8ad74",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",

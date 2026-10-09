@@ -1,9 +1,12 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-09T08:54:25+00:00",
+ "generated_at": "2026-10-09T16:06:58+00:00",
  "total_calendars": 37,
- "total_events": 1475,
- "changed_in_last_run": [],
+ "total_events": 1462,
+ "changed_in_last_run": [
+  "cimnastik",
+  "havasporlari"
+ ],
  "calendars": [
   {
    "federation": "aticilik",
@@ -648,7 +651,7 @@
      "satir": "Kurs | 3. Kademe Kıdemli Antrenörlük Kursu | Havalı - Ateşli Silahlar | Muhtelif | İstanbul | İncele"
     }
    ],
-   "checked_at": "2026-10-09T08:54:16",
+   "checked_at": "2026-10-09T16:06:50",
    "bekleyen_iz": null,
    "changed_at": "2026-09-14T18:33:11+00:00",
    "parmak_izi": "23c618cb17d017ef"
@@ -1992,7 +1995,7 @@
      "satir": "26 - 27 Aralık Selahattin Yıldız Salon Kupası B-U20-U18 İstanbul Ulusal"
     }
    ],
-   "checked_at": "2026-10-09T08:54:14",
+   "checked_at": "2026-10-09T16:06:48",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "624a00b978c244a7"
@@ -2022,7 +2025,7 @@
    "fingerprint": "1fa76ad529605d0a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:22",
+   "checked_at": "2026-10-09T16:06:56",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "1fa76ad529605d0a"
@@ -2366,7 +2369,7 @@
      "satir": "Türkiye Beyzbol Şampiyonası 11-12-13 Nisan ... Devamı"
     }
    ],
-   "checked_at": "2026-10-09T08:54:22",
+   "checked_at": "2026-10-09T16:06:56",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "c26505c98fc488ff"
@@ -2381,8 +2384,8 @@
    "fingerprint": "6054156bc3223de4",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:19",
-   "bekleyen_iz": null,
+   "checked_at": "2026-10-09T16:06:53",
+   "bekleyen_iz": "e2c76048958a845a",
    "changed_at": "2026-10-01T05:40:52+00:00",
    "parmak_izi": "6054156bc3223de4"
   },
@@ -2445,12 +2448,28 @@
      "satir": "İASK ENGEL ATLAMA YARIŞMALARI | İSTANBUL ATLI SPOR KULÜBÜ | İSTANBUL | 28.11.2026 | 29.11.2026"
     },
     {
+     "ad": "ADANA ATLI SPOR KULÜBÜ TEŞVİK YARIŞMALARI",
+     "tarih": "2026-11-21",
+     "tarih_metni": "21.11.2026",
+     "yer": "ADANA ATLI SPOR KULÜBÜ, ADANA",
+     "brans": "",
+     "satir": "ADANA ATLI SPOR KULÜBÜ TEŞVİK YARIŞMALARI | ADANA ATLI SPOR KULÜBÜ | ADANA ATLI SPOR KULÜBÜ, ADANA | 21.11.2026 | 22.11.2026"
+    },
+    {
      "ad": "KCC ENGEL ATLAMA YARIŞMALARI",
      "tarih": "2026-11-21",
      "tarih_metni": "21.11.2026",
      "yer": "İSTANBUL",
      "brans": "",
      "satir": "KCC ENGEL ATLAMA YARIŞMALARI | KEMER COUNTRY CLUB | İSTANBUL | 21.11.2026 | 22.11.2026"
+    },
+    {
+     "ad": "ADANA ATLI SPOR KULÜBÜ TEŞVİK YARIŞMALARI",
+     "tarih": "2026-11-14",
+     "tarih_metni": "14.11.2026",
+     "yer": "Adana Atlı Spor Kulübü, ADANA",
+     "brans": "",
+     "satir": "ADANA ATLI SPOR KULÜBÜ TEŞVİK YARIŞMALARI | ADANA ATLI SPOR KULÜBÜ | Adana Atlı Spor Kulübü, ADANA | 14.11.2026 | 15.11.2026"
     },
     {
      "ad": "ANKARA ATLI SPOR KULÜBÜ E.A YARIŞMALARI",
@@ -2499,26 +2518,10 @@
      "yer": "İSTANBUL",
      "brans": "",
      "satir": "MAGICAL CLUB CSI 1* | MAGICAL CLUB SPOR KULÜBÜ | İSTANBUL | 06.11.2026 | 08.11.2026"
-    },
-    {
-     "ad": "TBF ULUSAL ATLI DAYANIKLILIK KALİFİKASYON YARIŞMALARI",
-     "tarih": "2026-11-06",
-     "tarih_metni": "06.11.2026",
-     "yer": "GÖBEKLİTEPE, ŞANLIURFA",
-     "brans": "",
-     "satir": "TBF ULUSAL ATLI DAYANIKLILIK KALİFİKASYON YARIŞMALARI | Türkiye Binicilik Federasyonu | GÖBEKLİTEPE, ŞANLIURFA | 06.11.2026 | 08.11.2026"
-    },
-    {
-     "ad": "TÜRKİYE LİGİ 9 AYAK & CUMHURİYET KUPASI",
-     "tarih": "2026-10-29",
-     "tarih_metni": "29.10.2026",
-     "yer": "ANTALYA ATLI SPOR KULÜBÜ",
-     "brans": "",
-     "satir": "TÜRKİYE LİGİ 9 AYAK & CUMHURİYET KUPASI | Türkiye Binicilik Federasyonu | ANTALYA ATLI SPOR KULÜBÜ | 29.10.2026 | 01.11.2026"
     }
    ],
-   "checked_at": "2026-10-09T08:54:15",
-   "bekleyen_iz": null,
+   "checked_at": "2026-10-09T16:06:49",
+   "bekleyen_iz": "9d4c1d5479ded0ff",
    "changed_at": "2026-10-01T18:49:08+00:00",
    "parmak_izi": "b7cd1928ee808e8b"
   },
@@ -3893,7 +3896,7 @@
      "satir": "11.12.2026 12.12.2026 TRACK CYCLİNG CHALLENGE İSVİÇRE CLASS 1 Milli"
     }
    ],
-   "checked_at": "2026-10-09T08:54:17",
+   "checked_at": "2026-10-09T16:06:50",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:11:18+00:00",
    "parmak_izi": "80f1546bef10a704"
@@ -3981,28 +3984,28 @@
      "satir": "9 Türkiye Volo Yer Oyunları Şampiyonası (Ümitler-Büyükler) 11-14 Haziran 2026 Gülşehir/Nevşehir"
     },
     {
-     "ad": "05 – 2026 Erzurum, Hakkari, Karaman,",
+     "ad": "11 Türkiye Okullararası Bocce (Petank-Volo) Şampiyonası Küçükler ve Yıldızlar Gruplar 05 – 2026 Erzurum, Hakkari, Karaman, Kırıkkale, Kocaeli, Manisa",
      "tarih": "2026-05-08",
      "tarih_metni": "08 Mayıs",
      "yer": "",
      "brans": "",
-     "satir": "05 – 08 Mayıs 2026 Erzurum, Hakkari, Karaman,"
+     "satir": "11 Türkiye Okullararası Bocce (Petank-Volo) Şampiyonası Küçükler ve Yıldızlar Gruplar 05 – 08 Mayıs 2026 Erzurum, Hakkari, Karaman, Kırıkkale, Kocaeli, Manisa"
     },
     {
-     "ad": "12 Türkiye Okullararası Bocce (Petank-Volo) Şampiyonası Gençler Gruplar 09 – 2026 Erzurum, Hakkari, Karaman,",
+     "ad": "12 Türkiye Okullararası Bocce (Petank-Volo) Şampiyonası Gençler Gruplar 09 – 2026 Erzurum, Hakkari, Karaman, Kırıkkale, Kocaeli, Manisa",
      "tarih": "2026-05-11",
      "tarih_metni": "11 Mayıs",
      "yer": "",
      "brans": "",
-     "satir": "12 Türkiye Okullararası Bocce (Petank-Volo) Şampiyonası Gençler Gruplar 09 – 11 Mayıs 2026 Erzurum, Hakkari, Karaman,"
+     "satir": "12 Türkiye Okullararası Bocce (Petank-Volo) Şampiyonası Gençler Gruplar 09 – 11 Mayıs 2026 Erzurum, Hakkari, Karaman, Kırıkkale, Kocaeli, Manisa"
     },
     {
-     "ad": "Haziran 2026",
+     "ad": "13 Türkiye Okullararası Bocce (Petank-Volo) Şampiyonası Küçükler ve Yıldızlar Finaller Haziran 2026 Bursa",
      "tarih": "2026-06-05",
      "tarih_metni": "02-05",
      "yer": "",
      "brans": "",
-     "satir": "02-05 Haziran 2026"
+     "satir": "13 Türkiye Okullararası Bocce (Petank-Volo) Şampiyonası Küçükler ve Yıldızlar Finaller 02-05 Haziran 2026 Bursa"
     },
     {
      "ad": "14 Türkiye Okullararası Bocce (Petank-Volo) Şampiyonası Gençler Finaller Haziran 2026 Bursa",
@@ -4109,12 +4112,12 @@
      "satir": "11 Avrupa Gençler Raffa Şampiyonası 21-27 Eylül 2026 Predazzo / İtalya"
     },
     {
-     "ad": "12 Dünya Büyükler Raffa Şampiyonası Ekim 2026 Garibaldi / Rio Grande do Sul",
+     "ad": "12 Dünya Büyükler Raffa Şampiyonası Ekim 2026 Garibaldi / Rio Grande do Sul / Brezilya",
      "tarih": "2026-10-17",
      "tarih_metni": "12-17",
      "yer": "",
      "brans": "",
-     "satir": "12 Dünya Büyükler Raffa Şampiyonası 12-17 Ekim 2026 Garibaldi / Rio Grande do Sul"
+     "satir": "12 Dünya Büyükler Raffa Şampiyonası 12-17 Ekim 2026 Garibaldi / Rio Grande do Sul / Brezilya"
     },
     {
      "ad": "19 Dünya Gençler Çim Topu Şampiyonası Aralık 2026 Hong Kong",
@@ -4229,12 +4232,12 @@
      "satir": "1 Türkiye Bowling Kış Ligi; Süper, 1. 2. ve 3. (8 Haf ta) 15 Kasım 2025 – 05 Ocak 2026 Muhtelif İllerde"
     },
     {
-     "ad": "2 Türkiye Okullararası Bowling Şampiyonası Gençler Gruplar Ocak 2026 Ankara, Antalya, Kocaeli,",
+     "ad": "2 Türkiye Okullararası Bowling Şampiyonası Gençler Gruplar Ocak 2026 Ankara, Antalya, Kocaeli, Samsun",
      "tarih": "2026-01-09",
      "tarih_metni": "06-09",
      "yer": "",
      "brans": "",
-     "satir": "2 Türkiye Okullararası Bowling Şampiyonası Gençler Gruplar 06-09 Ocak 2026 Ankara, Antalya, Kocaeli,"
+     "satir": "2 Türkiye Okullararası Bowling Şampiyonası Gençler Gruplar 06-09 Ocak 2026 Ankara, Antalya, Kocaeli, Samsun"
     },
     {
      "ad": "3 2. ve 3. Lig Federasyon Bowling Şampiyonası Ocak 2026 Samsun",
@@ -4389,12 +4392,12 @@
      "satir": "2 Şehit Eren Bülbül Türkiye Şampiyonası Sıralama Serisi 4 13-15 Şubat 2026 Denizli"
     },
     {
-     "ad": "3 Türkiye Okullararası Dart Şampiyonası Yıldızlar ve Gençler Gruplar 31 Mar – 2026 Burdur, Bursa, Elazığ,",
+     "ad": "3 Türkiye Okullararası Dart Şampiyonası Yıldızlar ve Gençler Gruplar 31 Mar – 2026 Burdur, Bursa, Elazığ, Osmaniye, Sinop",
      "tarih": "2026-04-03",
      "tarih_metni": "3 Nisan",
      "yer": "",
      "brans": "",
-     "satir": "3 Türkiye Okullararası Dart Şampiyonası Yıldızlar ve Gençler Gruplar 31 Mar – 3 Nisan 2026 Burdur, Bursa, Elazığ,"
+     "satir": "3 Türkiye Okullararası Dart Şampiyonası Yıldızlar ve Gençler Gruplar 31 Mar – 3 Nisan 2026 Burdur, Bursa, Elazığ, Osmaniye, Sinop"
     },
     {
      "ad": "4 Şehit Eren Bülbül Türkiye Şampiyonası Sıralama Serisi 5 Mart 2026 Erzincan",
@@ -4477,7 +4480,7 @@
      "satir": "5 IDF Avrupa Elektronik Dart Şampiyonası 30 Mayıs – 5 Haziran 2026 Samorin- Slovakya"
     }
    ],
-   "checked_at": "2026-10-09T08:54:20",
+   "checked_at": "2026-10-09T16:06:54",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "93a315b3298387eb"
@@ -4733,7 +4736,7 @@
      "satir": "TÜRKİYE BUZ PATENİ FEDERASYONU SEZON İÇERİSİNDE GEREKLİ GÖRDÜĞÜ TAKDİRDE TÜM FAALYETLERDE DEĞİŞİKLİK YAPMA HAKKINA SAHİPTİR."
     }
    ],
-   "checked_at": "2026-10-09T08:54:19",
+   "checked_at": "2026-10-09T16:06:53",
    "bekleyen_iz": null,
    "changed_at": "2026-10-01T18:49:13+00:00",
    "parmak_izi": "4b189e7e6d887025"
@@ -4745,7 +4748,7 @@
    "url": "https://www.tcf.gov.tr/faaliyetler/",
    "type": "html",
    "label": "Tüm Faaliyetleri Gör",
-   "fingerprint": "8e404278d4a5b16e",
+   "fingerprint": "cce6159cfc4b5971",
    "event_count": 403,
    "events": [
     {
@@ -7949,10 +7952,10 @@
      "satir": "2026 | Kamp | Artistik Cimnastik Küçük Yıldız Kadınlar Hazırlık Kampı | Kadın Artistik Cimnastik | İstanbul | 2026.01.29 25.01.2026 - 29.01.2026 | İncele"
     }
    ],
-   "checked_at": "2026-10-09T08:54:17",
-   "bekleyen_iz": "cce6159cfc4b5971",
-   "changed_at": "2026-10-07T16:21:46+00:00",
-   "parmak_izi": "8e404278d4a5b16e"
+   "checked_at": "2026-10-09T16:06:51",
+   "bekleyen_iz": null,
+   "changed_at": "2026-10-09T16:06:51+00:00",
+   "parmak_izi": "cce6159cfc4b5971"
   },
   {
    "federation": "danssporlari",
@@ -8428,7 +8431,7 @@
    "fingerprint": "f13c2d39bf647bee",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:16",
+   "checked_at": "2026-10-09T16:06:50",
    "bekleyen_iz": null,
    "changed_at": "2026-10-08T16:23:47+00:00",
    "parmak_izi": "f13c2d39bf647bee"
@@ -8524,7 +8527,7 @@
      "satir": "10 | 11.10.2026 | KAŞ BELEDİYESİ YAĞLI GÜREŞLERİ | KAŞ/ANTALYA"
     }
    ],
-   "checked_at": "2026-10-09T08:54:23",
+   "checked_at": "2026-10-09T16:06:56",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "ad6c280638ad2ad0"
@@ -8539,8 +8542,8 @@
    "fingerprint": "d0a4cb5a3e83f24a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:24",
-   "bekleyen_iz": "9f951f6204a2cb08",
+   "checked_at": "2026-10-09T16:06:58",
+   "bekleyen_iz": "3d144efedce14f8f",
    "changed_at": "2026-10-07T21:57:04+00:00",
    "parmak_izi": "d0a4cb5a3e83f24a"
   },
@@ -8551,7 +8554,7 @@
    "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
    "type": "pdf",
    "label": "Etkinlikler > THSF 2026 Faaliyet Takvimi",
-   "fingerprint": "066ebfa88387bfaa",
+   "fingerprint": "415109b84b691199",
    "event_count": 40,
    "events": [
     {
@@ -8875,10 +8878,10 @@
      "satir": "24-25 Ekim 2026 Hava Modelciliği F3P Büyükler/Gençler/Kadınlar F3P RC Model Uçak 2. Etap Ankara Ulusal"
     }
    ],
-   "checked_at": "2026-10-09T08:54:25",
-   "bekleyen_iz": "415109b84b691199",
-   "changed_at": "2026-10-08T22:00:53+00:00",
-   "parmak_izi": "066ebfa88387bfaa"
+   "checked_at": "2026-10-09T16:06:58",
+   "bekleyen_iz": null,
+   "changed_at": "2026-10-09T16:06:58+00:00",
+   "parmak_izi": "415109b84b691199"
   },
   {
    "federation": "herkesicinspor",
@@ -9435,7 +9438,7 @@
      "satir": "49 28-31 AĞUSTOS 2025 AÇIK ALAN U14 TÜRKİYE ŞAMPİYONASI MUHTELİF"
     }
    ],
-   "checked_at": "2026-10-09T08:54:22",
+   "checked_at": "2026-10-09T16:06:56",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "03072fe7da5a8ac4"
@@ -9450,7 +9453,7 @@
    "fingerprint": "89f0b209e82ac623",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:13",
+   "checked_at": "2026-10-09T16:06:47",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "89f0b209e82ac623"
@@ -9474,12 +9477,12 @@
      "satir": "1 Kano Slalom 2026 Aday Milli Takım Seçme Yarışları Yurtiçi Yarış 29 Ocak 1 Şubat Rize Ardeşen"
     },
     {
-     "ad": "ve Milli Takım Seçme Yarışı Yurtiçi Yarış 29 Mart Tunceli",
+     "ad": "2 Rafting Yeşilay Rafting Türkiye Şampiyonası 1. Ayak ve Milli Takım Seçme Yarışı Yurtiçi Yarış 29 Mart Tunceli",
      "tarih": null,
      "tarih_metni": "26 Mart",
      "yer": "",
      "brans": "",
-     "satir": "ve Milli Takım Seçme Yarışı Yurtiçi Yarış 26 Mart 29 Mart Tunceli"
+     "satir": "2 Rafting Yeşilay Rafting Türkiye Şampiyonası 1. Ayak ve Milli Takım Seçme Yarışı Yurtiçi Yarış 26 Mart 29 Mart Tunceli"
     },
     {
      "ad": "3 Durgunsu Kano Aday Milli Takım Seçme Testi Yurtiçi Yarış 5 Nisan Muğla Köyceğiz",
@@ -9514,28 +9517,28 @@
      "satir": "6 Rafting Okul Sporları Türkiye Finali Yurtiçi Yarış 6 Mayıs 10 Mayıs Bingöl Genç"
     },
     {
-     "ad": "2. Ayak Yurtiçi Yarış 17 Mayıs Yozgat",
+     "ad": "7 Rafting Rafting Türkiye Şampiyonası 2. Ayak Yurtiçi Yarış 17 Mayıs Yozgat",
      "tarih": null,
      "tarih_metni": "14 Mayıs",
      "yer": "",
      "brans": "",
-     "satir": "2. Ayak Yurtiçi Yarış 14 Mayıs 17 Mayıs Yozgat"
+     "satir": "7 Rafting Rafting Türkiye Şampiyonası 2. Ayak Yurtiçi Yarış 14 Mayıs 17 Mayıs Yozgat"
     },
     {
-     "ad": "Dragon Bot Unilig Yurtiçi Yarış 21 Mayıs İstanbul",
+     "ad": "8 Deniz KanosuDragon Bot Unilig Yurtiçi Yarış 21 Mayıs İstanbul",
      "tarih": null,
      "tarih_metni": "20 Mayıs",
      "yer": "",
      "brans": "",
-     "satir": "Dragon Bot Unilig Yurtiçi Yarış 20 Mayıs 21 Mayıs İstanbul"
+     "satir": "8 Deniz KanosuDragon Bot Unilig Yurtiçi Yarış 20 Mayıs 21 Mayıs İstanbul"
     },
     {
-     "ad": "ve Milli Takım Seçme Yarışı Yurtiçi Yarış 7 Haziran Hakkari Çukurca",
+     "ad": "9 Rafting Rafting Türkiye Şampiyonası 3. Ayak Süper Kupa ve Milli Takım Seçme Yarışı Yurtiçi Yarış 7 Haziran Hakkari Çukurca",
      "tarih": null,
      "tarih_metni": "4 Haziran",
      "yer": "",
      "brans": "",
-     "satir": "ve Milli Takım Seçme Yarışı Yurtiçi Yarış 4 Haziran 7 Haziran Hakkari Çukurca"
+     "satir": "9 Rafting Rafting Türkiye Şampiyonası 3. Ayak Süper Kupa ve Milli Takım Seçme Yarışı Yurtiçi Yarış 4 Haziran 7 Haziran Hakkari Çukurca"
     },
     {
      "ad": "10 Kano Slalom Türkiye Bahar Kupası Yurtiçi Yarış 21 Haziran Tunceli",
@@ -10234,7 +10237,7 @@
      "satir": "120 Rafting Nehir Rehberlik Vize 2027 Vizesi Seminer 19 Aralık 20 Aralık Muhtelif"
     }
    ],
-   "checked_at": "2026-10-09T08:54:18",
+   "checked_at": "2026-10-09T16:06:53",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:50+00:00",
    "parmak_izi": "06888a70817751cc"
@@ -10249,7 +10252,7 @@
    "fingerprint": "e1280d8316fdf1be",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:13",
+   "checked_at": "2026-10-09T16:06:47",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "e1280d8316fdf1be"
@@ -10513,12 +10516,12 @@
      "satir": "90 KAYKAY YARIŞMA WSG PARK DÜNYA ŞAMPİYONASI 11-18 EKİM PARAGUAY SOKAK"
     },
     {
-     "ad": "92 KAYKAY ETKİNLİK CUMHURİYET BAYRAMI ETKİNLİĞİ /",
+     "ad": "92 KAYKAY ETKİNLİK CUMHURİYET BAYRAMI ETKİNLİĞİ / WORKSHOP EKİM",
      "tarih": null,
      "tarih_metni": "29 EKİM",
      "yer": "",
      "brans": "",
-     "satir": "92 KAYKAY ETKİNLİK 29 EKİM CUMHURİYET BAYRAMI ETKİNLİĞİ /"
+     "satir": "92 KAYKAY ETKİNLİK 29 EKİM CUMHURİYET BAYRAMI ETKİNLİĞİ / WORKSHOP EKİM"
     },
     {
      "ad": "98 TEKERLEKLİ PATEN YARIŞMA PARAGUAY ROLLER GAMES EKİM 206 PARAGUAY",
@@ -10577,7 +10580,7 @@
      "satir": "114 TEKERLEKLİ PATEN KAMP MİLLİ TAKIM KAMPI 15-25 ARALIK 2026 TÜM KATEGORİLER"
     }
    ],
-   "checked_at": "2026-10-09T08:54:25",
+   "checked_at": "2026-10-09T16:06:58",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:54+00:00",
    "parmak_izi": "f125ba37d779c765"
@@ -10592,7 +10595,7 @@
    "fingerprint": "26d7710445bd81be",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:17",
+   "checked_at": "2026-10-09T16:06:52",
    "bekleyen_iz": null,
    "changed_at": "2026-10-06T21:35:37+00:00",
    "parmak_izi": "26d7710445bd81be"
@@ -10607,7 +10610,7 @@
    "fingerprint": "d8e2dd74b84fff02",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:15",
+   "checked_at": "2026-10-09T16:06:49",
    "bekleyen_iz": null,
    "changed_at": "2026-10-08T22:00:41+00:00",
    "parmak_izi": "d8e2dd74b84fff02"
@@ -10622,7 +10625,7 @@
    "fingerprint": "d759d0342954b53a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:21",
+   "checked_at": "2026-10-09T16:06:54",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "d759d0342954b53a"
@@ -10635,95 +10638,103 @@
    "type": "pdf",
    "label": "Ulusal Yarışma Takvimi > Open in new tab",
    "fingerprint": "e1a36bd06e3f7e25",
-   "event_count": 24,
+   "event_count": 32,
    "events": [
     {
-     "ad": "EGE RALLİSİ (A)",
+     "ad": "EGE RALLİSİ (A)EOSK",
      "tarih": null,
      "tarih_metni": "4-5",
      "yer": "",
      "brans": "",
-     "satir": "4-5 EGE RALLİSİ (A)"
+     "satir": "4-5 EGE RALLİSİ (A)EOSK"
     },
     {
-     "ad": "KOKART",
+     "ad": "KOKARTKÖRFEZ YARIŞ PİSTİ TRABZON TROFF",
      "tarih": null,
      "tarih_metni": "11-12",
      "yer": "",
      "brans": "",
-     "satir": "11-12 KOKART"
+     "satir": "11-12 KOKARTKÖRFEZ YARIŞ PİSTİ TRABZON TROFF"
     },
     {
-     "ad": "BAHAR RALLİSİ",
+     "ad": "BAHAR RALLİSİ ÇANAKKALE",
      "tarih": null,
      "tarih_metni": "18-19",
      "yer": "",
      "brans": "",
-     "satir": "18-19 BAHAR RALLİSİ"
+     "satir": "18-19 BAHAR RALLİSİ ÇANAKKALE"
     },
     {
-     "ad": "KAHRAMANMARAŞ",
+     "ad": "KAHRAMANMARAŞ KAROFF İSTANBUL PARKDRİFT KULÜBÜ",
      "tarih": null,
      "tarih_metni": "25-26",
      "yer": "",
      "brans": "",
-     "satir": "25-26 KAHRAMANMARAŞ"
+     "satir": "25-26 KAHRAMANMARAŞ KAROFF İSTANBUL PARKDRİFT KULÜBÜ"
     },
     {
-     "ad": "BODRUM RALLİSİ (A)",
+     "ad": "BODRUM RALLİSİ (A)KAROSK",
      "tarih": null,
      "tarih_metni": "2-3",
      "yer": "",
      "brans": "",
-     "satir": "2-3 BODRUM RALLİSİ (A)"
+     "satir": "2-3 BODRUM RALLİSİ (A)KAROSK"
     },
     {
-     "ad": "TOSFED İSTANBUL PARK 1 KAHRAMANMARAŞ",
+     "ad": "TOSFED İSTANBUL PARK 1 KAHRAMANMARAŞ KAROFF",
      "tarih": null,
      "tarih_metni": "9-10",
      "yer": "",
      "brans": "",
-     "satir": "9-10 TOSFED İSTANBUL PARK 1 KAHRAMANMARAŞ"
+     "satir": "9-10 TOSFED İSTANBUL PARK 1 KAHRAMANMARAŞ KAROFF"
     },
     {
-     "ad": "NİMOSK",
+     "ad": "NİMOSKKÖRFEZ YARIŞ PİSTİ ANTALYA ANTOFF ESKİŞEHİR ESOK",
      "tarih": null,
      "tarih_metni": "16-17",
      "yer": "",
      "brans": "",
-     "satir": "16-17 NİMOSK"
+     "satir": "16-17 NİMOSKKÖRFEZ YARIŞ PİSTİ ANTALYA ANTOFF ESKİŞEHİR ESOK"
     },
     {
-     "ad": "GAZİANTEP",
+     "ad": "GAZİANTEPDRİFT KULÜBÜ",
      "tarih": null,
      "tarih_metni": "23-24",
      "yer": "",
      "brans": "",
-     "satir": "23-24 GAZİANTEP"
+     "satir": "23-24 GAZİANTEPDRİFT KULÜBÜ"
     },
     {
-     "ad": "YEŞİL BURSA RALLİSİ (A)",
+     "ad": "YEŞİL BURSA RALLİSİ (A)BOSSEK BATI ANADOLU RALLİSİ KUŞADASI-İZMİR",
      "tarih": null,
      "tarih_metni": "6-7",
      "yer": "",
      "brans": "",
-     "satir": "6-7 YEŞİL BURSA RALLİSİ (A)"
+     "satir": "6-7 YEŞİL BURSA RALLİSİ (A)BOSSEK BATI ANADOLU RALLİSİ KUŞADASI-İZMİR"
     },
     {
-     "ad": "İSTANBUL PARK",
+     "ad": "DÜZCE DOSOD",
+     "tarih": null,
+     "tarih_metni": "13-14",
+     "yer": "",
+     "brans": "",
+     "satir": "13-14 DÜZCE DOSOD"
+    },
+    {
+     "ad": "İSTANBUL PARKDRİFT KULÜBÜ",
      "tarih": null,
      "tarih_metni": "20-21",
      "yer": "",
      "brans": "",
-     "satir": "20-21 İSTANBUL PARK"
+     "satir": "20-21 İSTANBUL PARKDRİFT KULÜBÜ"
     },
     {
-     "ad": "BUMOSK",
+     "ad": "BUMOSK*BURSA BŞB KARTİNG PİSTİ BOLU BOLOFF KOCAELİ KOSK",
      "tarih": null,
      "tarih_metni": "27-28",
      "yer": "",
      "brans": "",
-     "satir": "27-28 BUMOSK"
+     "satir": "27-28 BUMOSK*BURSA BŞB KARTİNG PİSTİ BOLU BOLOFF KOCAELİ KOSK"
     },
     {
      "ad": "TOSFED İSTANBUL PARK 2",
@@ -10734,60 +10745,116 @@
      "satir": "4-5 TOSFED İSTANBUL PARK 2"
     },
     {
-     "ad": "SAMSUN",
+     "ad": "BURSA BOSSEK",
+     "tarih": null,
+     "tarih_metni": "18-19",
+     "yer": "",
+     "brans": "",
+     "satir": "18-19 BURSA BOSSEK"
+    },
+    {
+     "ad": "SAMSUN SAMOSK",
      "tarih": null,
      "tarih_metni": "25-26",
      "yer": "",
      "brans": "",
-     "satir": "25-26 SAMSUN"
+     "satir": "25-26 SAMSUN SAMOSK"
     },
     {
-     "ad": "KAPADOKYA RALLİSİ (T)",
+     "ad": "BAŞKENTKAPADOKYA KARTİNG PİSTİ",
+     "tarih": null,
+     "tarih_metni": "8-9",
+     "yer": "",
+     "brans": "",
+     "satir": "8-9 BAŞKENTKAPADOKYA KARTİNG PİSTİ"
+    },
+    {
+     "ad": "KAPADOKYA RALLİSİ (T)BAŞKENT",
      "tarih": null,
      "tarih_metni": "22-23",
      "yer": "",
      "brans": "",
-     "satir": "22-23 KAPADOKYA RALLİSİ (T)"
+     "satir": "22-23 KAPADOKYA RALLİSİ (T)BAŞKENT"
     },
     {
-     "ad": "TOSFED İSTANBUL PARK 3 TransAnatolia",
+     "ad": "TOSFED İSTANBUL PARK 3 TransAnatolia (Uluslararası)",
      "tarih": null,
      "tarih_metni": "29-30",
      "yer": "",
      "brans": "",
-     "satir": "29-30 TOSFED İSTANBUL PARK 3 TransAnatolia"
+     "satir": "29-30 TOSFED İSTANBUL PARK 3 TransAnatolia (Uluslararası)"
     },
     {
-     "ad": "ANKARA",
+     "ad": "İKKUŞAK BELEDİYESİ YARIŞ PİSTİ TransAnatolia (Uluslararası) AYDIN EOSK",
+     "tarih": null,
+     "tarih_metni": "5-6",
+     "yer": "",
+     "brans": "",
+     "satir": "5-6 İKKUŞAK BELEDİYESİ YARIŞ PİSTİ TransAnatolia (Uluslararası) AYDIN EOSK"
+    },
+    {
+     "ad": "ANKARA ANDOFF",
      "tarih": null,
      "tarih_metni": "12-13",
      "yer": "",
      "brans": "",
-     "satir": "12-13 ANKARA"
+     "satir": "12-13 ANKARA ANDOFF"
     },
     {
-     "ad": "ESKİŞEHİR RALLİSİ (T)",
+     "ad": "ESKİŞEHİR RALLİSİ (T)ESOK KÖRFEZ YARIŞ PİSTİDRİFT KULÜBÜ",
      "tarih": null,
      "tarih_metni": "19-20",
      "yer": "",
      "brans": "",
-     "satir": "19-20 ESKİŞEHİR RALLİSİ (T)"
+     "satir": "19-20 ESKİŞEHİR RALLİSİ (T)ESOK KÖRFEZ YARIŞ PİSTİDRİFT KULÜBÜ"
     },
     {
-     "ad": "TOSFED İSTANBUL PARK 4 - 5 SAKARYA",
+     "ad": "BURSA BASK",
+     "tarih": null,
+     "tarih_metni": "26-27",
+     "yer": "",
+     "brans": "",
+     "satir": "26-27 BURSA BASK"
+    },
+    {
+     "ad": "TMKTUZLA KARTİNG PARK",
+     "tarih": null,
+     "tarih_metni": "3-4",
+     "yer": "",
+     "brans": "",
+     "satir": "3-4 TMKTUZLA KARTİNG PARK"
+    },
+    {
+     "ad": "TOSFED İSTANBUL PARK 4 - 5 SAKARYA 54 OSK İSTANBUL İSOK",
      "tarih": null,
      "tarih_metni": "10-11",
      "yer": "",
      "brans": "",
-     "satir": "10-11 TOSFED İSTANBUL PARK 4 - 5 SAKARYA"
+     "satir": "10-11 TOSFED İSTANBUL PARK 4 - 5 SAKARYA 54 OSK İSTANBUL İSOK"
     },
     {
-     "ad": "KOCAELİ RALLİSİ (T)",
+     "ad": "KOCAELİ RALLİSİ (T)KOSK",
      "tarih": null,
      "tarih_metni": "17-18",
      "yer": "",
      "brans": "",
-     "satir": "17-18 KOCAELİ RALLİSİ (T)"
+     "satir": "17-18 KOCAELİ RALLİSİ (T)KOSK"
+    },
+    {
+     "ad": "OSKKKÖRFEZ YARIŞ PİSTİ DENİZLİ DENDOFF CUMHURİYET RALLİSİ İSTANBUL İSTANBUL PARKDRİFT KULÜBÜ",
+     "tarih": null,
+     "tarih_metni": "24-25",
+     "yer": "",
+     "brans": "",
+     "satir": "24-25 OSKKKÖRFEZ YARIŞ PİSTİ DENİZLİ DENDOFF CUMHURİYET RALLİSİ İSTANBUL İSTANBUL PARKDRİFT KULÜBÜ"
+    },
+    {
+     "ad": "ANKARA ANOK",
+     "tarih": null,
+     "tarih_metni": "31-1",
+     "yer": "",
+     "brans": "",
+     "satir": "31-1 ANKARA ANOK"
     },
     {
      "ad": "TOSFED İSTANBUL PARK 6",
@@ -10798,20 +10865,20 @@
      "satir": "7-8 TOSFED İSTANBUL PARK 6"
     },
     {
-     "ad": "İSTANBUL RALLİSİ (T)",
+     "ad": "İSTANBUL RALLİSİ (T)İSOK",
      "tarih": null,
      "tarih_metni": "14-15",
      "yer": "",
      "brans": "",
-     "satir": "14-15 İSTANBUL RALLİSİ (T)"
+     "satir": "14-15 İSTANBUL RALLİSİ (T)İSOK"
     },
     {
-     "ad": "MANİSA",
+     "ad": "MANİSA İMOK",
      "tarih": null,
      "tarih_metni": "21-22",
      "yer": "",
      "brans": "",
-     "satir": "21-22 MANİSA"
+     "satir": "21-22 MANİSA İMOK"
     },
     {
      "ad": "FİNAL YARIŞI",
@@ -10830,7 +10897,7 @@
      "satir": "Güncelleme Tarihi: 31.07.2026v7"
     }
    ],
-   "checked_at": "2026-10-09T08:54:19",
+   "checked_at": "2026-10-09T16:06:53",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "e1a36bd06e3f7e25"
@@ -10845,8 +10912,8 @@
    "fingerprint": "40117a8a8094bf43",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:21",
-   "bekleyen_iz": "380be4f1cbb82e76",
+   "checked_at": "2026-10-09T16:06:53",
+   "bekleyen_iz": "a716b2f669e29268",
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "40117a8a8094bf43"
   },
@@ -10860,7 +10927,7 @@
    "fingerprint": "209443816a76df0f",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:23",
+   "checked_at": "2026-10-09T16:06:56",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "209443816a76df0f"
@@ -11163,7 +11230,7 @@
      "satir": "ULUSAL | SUALTI RAGBİSİ | YARIŞMA | SUALTI RAGBİSİ BÜYÜKLER (ELİTLER) TÜRKİYE ŞAMPİYONASI VE MİLLİ TAKIM SEÇMELERİ | MANİSA | 18-20 EYLÜL 2026"
     }
    ],
-   "checked_at": "2026-10-09T08:54:21",
+   "checked_at": "2026-10-09T16:06:55",
    "bekleyen_iz": null,
    "changed_at": "2026-08-21T15:43:55+00:00",
    "parmak_izi": "29f623280b19351c"
@@ -11176,7 +11243,7 @@
    "type": "pdf",
    "label": "2026 Turnuva Takvimi > Turnuva Takvimi",
    "fingerprint": "ef844991598654f2",
-   "event_count": 65,
+   "event_count": 51,
    "events": [
     {
      "ad": "25K 35K ITF Junior J100",
@@ -11195,52 +11262,36 @@
      "satir": "12 Ocak 25K 35K"
     },
     {
-     "ad": "25K Türkiye Kış Kupası-1 15K Türkiye Kış Kupası-1 ITF Junior J30 Türkiye Kış Kupası-1 Türkiye Kış Kupası-1 8 - 9 Yaş",
+     "ad": "25K Türkiye Kış Kupası-1 15K Türkiye Kış Kupası-1 ITF Junior J30 Türkiye Kış Kupası-1 Türkiye Kış Kupası-1 8 - 9 Yaş Türkiye Kış Kupası",
      "tarih": null,
      "tarih_metni": "19 Ocak",
      "yer": "",
      "brans": "",
-     "satir": "19 Ocak 25K Türkiye Kış Kupası-1 15K Türkiye Kış Kupası-1 ITF Junior J30 Türkiye Kış Kupası-1 Türkiye Kış Kupası-1 8 - 9 Yaş"
+     "satir": "19 Ocak 25K Türkiye Kış Kupası-1 15K Türkiye Kış Kupası-1 ITF Junior J30 Türkiye Kış Kupası-1 Türkiye Kış Kupası-1 8 - 9 Yaş Türkiye Kış Kupası"
     },
     {
-     "ad": "15K 15K Türkiye Kış Kupası-1 Türkiye Kış Kupası-1 10 Yaş",
+     "ad": "15K 15K Türkiye Kış Kupası-1 Türkiye Kış Kupası-1 10 Yaş Türkiye Kış Kupası",
      "tarih": null,
      "tarih_metni": "26 Ocak",
      "yer": "",
      "brans": "",
-     "satir": "26 Ocak 15K 15K Türkiye Kış Kupası-1 Türkiye Kış Kupası-1 10 Yaş"
+     "satir": "26 Ocak 15K 15K Türkiye Kış Kupası-1 Türkiye Kış Kupası-1 10 Yaş Türkiye Kış Kupası"
     },
     {
-     "ad": "15K Haftasonu Turnuvası",
+     "ad": "15K Haftasonu Turnuvası 05-08 Şubat 15K Haftasonu Turnuvası 05-08 Şubat ITF Junior J60",
      "tarih": null,
      "tarih_metni": "2 Şubat",
      "yer": "",
      "brans": "",
-     "satir": "2 Şubat 15K Haftasonu Turnuvası"
+     "satir": "2 Şubat 15K Haftasonu Turnuvası 05-08 Şubat 15K Haftasonu Turnuvası 05-08 Şubat ITF Junior J60"
     },
     {
-     "ad": "Şubat 15K Haftasonu Turnuvası",
+     "ad": "25K DAVİS CUP Türkiye Kış Kupası-2 35K Türkiye Kış Kupası-2 ITF Junıor J60 Hafta Sonu Turnuvası 12-15 Şubat GELİŞİM KAMPI Türkiye Kış Kupası-2",
      "tarih": null,
-     "tarih_metni": "05-08",
+     "tarih_metni": "9 Şubat",
      "yer": "",
      "brans": "",
-     "satir": "05-08 Şubat 15K Haftasonu Turnuvası"
-    },
-    {
-     "ad": "Şubat ITF Junior J60",
-     "tarih": null,
-     "tarih_metni": "05-08",
-     "yer": "",
-     "brans": "",
-     "satir": "05-08 Şubat ITF Junior J60"
-    },
-    {
-     "ad": "Şubat GELİŞİM KAMPI Türkiye Kış Kupası-2",
-     "tarih": null,
-     "tarih_metni": "12-15",
-     "yer": "",
-     "brans": "",
-     "satir": "12-15 Şubat GELİŞİM KAMPI Türkiye Kış Kupası-2"
+     "satir": "9 Şubat 25K DAVİS CUP Türkiye Kış Kupası-2 35K Türkiye Kış Kupası-2 ITF Junıor J60 Hafta Sonu Turnuvası 12-15 Şubat GELİŞİM KAMPI Türkiye Kış Kupası-2"
     },
     {
      "ad": "15K 15K",
@@ -11251,28 +11302,36 @@
      "satir": "16 Şubat 15K 15K"
     },
     {
-     "ad": "15K WTA 125",
+     "ad": "Haftasonu Turnuvası Şubat",
+     "tarih": null,
+     "tarih_metni": "20-22",
+     "yer": "",
+     "brans": "",
+     "satir": "Haftasonu Turnuvası 20-22 Şubat"
+    },
+    {
+     "ad": "15K WTA 125 35K Türkiye Kış Kupası-2 Tennis Europe-U14-Cat3",
      "tarih": null,
      "tarih_metni": "23 Şubat",
      "yer": "",
      "brans": "",
-     "satir": "23 Şubat 15K WTA 125"
+     "satir": "23 Şubat 15K WTA 125 35K Türkiye Kış Kupası-2 Tennis Europe-U14-Cat3"
     },
     {
-     "ad": "15K WTA 125",
+     "ad": "15K WTA 125 15K Tennis Europe -U16-Cat.2 Haftasonu Turnuvası Development Championships Development Championships Türkiye Kış Kupası-3",
      "tarih": null,
      "tarih_metni": "2 Mart",
      "yer": "",
      "brans": "",
-     "satir": "2 Mart 15K WTA 125"
+     "satir": "2 Mart 15K WTA 125 15K Tennis Europe -U16-Cat.2 Haftasonu Turnuvası Development Championships Development Championships Türkiye Kış Kupası-3"
     },
     {
-     "ad": "15K Türkiye Kış Kupası-3 WTA 125",
+     "ad": "15K Türkiye Kış Kupası-3 WTA 125 15K Türkiye Kış Kupası-3 ITF Junior J100 Development Championsship Türkiye Kış Kupası-2. Development Championships Haftasonu Turnuvası 13-15 Mart",
      "tarih": null,
      "tarih_metni": "9 Mart",
      "yer": "",
      "brans": "",
-     "satir": "9 Mart 15K Türkiye Kış Kupası-3 WTA 125"
+     "satir": "9 Mart 15K Türkiye Kış Kupası-3 WTA 125 15K Türkiye Kış Kupası-3 ITF Junior J100 Development Championsship Türkiye Kış Kupası-2. Development Championships Haftasonu Turnuvası 13-15 Mart"
     },
     {
      "ad": "15K 15K ITF Junior J60 Tennis Europe-U12-Cat1",
@@ -11283,12 +11342,12 @@
      "satir": "16 Mart 15K 15K ITF Junior J60 Tennis Europe-U12-Cat1"
     },
     {
-     "ad": "15K 15K Türkiye Kış Kupası-3 Hafta Sonu Turnuvası",
+     "ad": "15K 15K Türkiye Kış Kupası-3 Hafta Sonu Turnuvası 26-29 Mart",
      "tarih": null,
      "tarih_metni": "23 Mart",
      "yer": "",
      "brans": "",
-     "satir": "23 Mart 15K 15K Türkiye Kış Kupası-3 Hafta Sonu Turnuvası"
+     "satir": "23 Mart 15K 15K Türkiye Kış Kupası-3 Hafta Sonu Turnuvası 26-29 Mart"
     },
     {
      "ad": "Yaş Ulusal /",
@@ -11299,100 +11358,68 @@
      "satir": "8 - 9 - 10 Yaş Ulusal /"
     },
     {
-     "ad": "15K 4. Türkiye Kış Kupası 15K 4. Türkiye Kış Kupası ITF Junior J100 Hafta Sonu Turnuvası",
+     "ad": "15K 4. Türkiye Kış Kupası 15K 4. Türkiye Kış Kupası ITF Junior J100 Hafta Sonu Turnuvası 2-5 Nisan Hafta Sonu Turnuvası 2-5 Nisan Hafta Sonu Turnuvası 2-5 Nisan Hafta Sonu Turnuvası 3-5 Nisan",
      "tarih": null,
      "tarih_metni": "30 Mart",
      "yer": "",
      "brans": "",
-     "satir": "30 Mart 15K 4. Türkiye Kış Kupası 15K 4. Türkiye Kış Kupası ITF Junior J100 Hafta Sonu Turnuvası"
+     "satir": "30 Mart 15K 4. Türkiye Kış Kupası 15K 4. Türkiye Kış Kupası ITF Junior J100 Hafta Sonu Turnuvası 2-5 Nisan Hafta Sonu Turnuvası 2-5 Nisan Hafta Sonu Turnuvası 2-5 Nisan Hafta Sonu Turnuvası 3-5 Nisan"
     },
     {
-     "ad": "15K 15K",
+     "ad": "15K 15K BJK CUP 2026 ITF Junior J100",
      "tarih": null,
      "tarih_metni": "6 Nisan",
      "yer": "",
      "brans": "",
-     "satir": "6 Nisan 15K 15K"
+     "satir": "6 Nisan 15K 15K BJK CUP 2026 ITF Junior J100"
     },
     {
-     "ad": "15K 15K ITF Junior J30 Tennis Europe Cat.1 23",
+     "ad": "15K 15K ITF Junior J30 Tennis Europe Cat.1 23 APRİL CUP (ATİK)",
      "tarih": null,
      "tarih_metni": "13 Nisan",
      "yer": "",
      "brans": "",
-     "satir": "13 Nisan 15K 15K ITF Junior J30 Tennis Europe Cat.1 23"
+     "satir": "13 Nisan 15K 15K ITF Junior J30 Tennis Europe Cat.1 23 APRİL CUP (ATİK)"
     },
     {
-     "ad": "15K Haftasonu Turnuvası",
+     "ad": "15K Haftasonu Turnuvası 23-26 Nisan 15K Haftasonu Turnuvası 23-26 Nisan ITF Junior J100 Tennis Europe-U14-Cat2",
      "tarih": null,
      "tarih_metni": "20 Nisan",
      "yer": "",
      "brans": "",
-     "satir": "20 Nisan 15K Haftasonu Turnuvası"
+     "satir": "20 Nisan 15K Haftasonu Turnuvası 23-26 Nisan 15K Haftasonu Turnuvası 23-26 Nisan ITF Junior J100 Tennis Europe-U14-Cat2"
     },
     {
-     "ad": "Nisan 15K Haftasonu Turnuvası",
-     "tarih": null,
-     "tarih_metni": "23-26",
-     "yer": "",
-     "brans": "",
-     "satir": "23-26 Nisan 15K Haftasonu Turnuvası"
-    },
-    {
-     "ad": "Nisan ITF Junior J100 Tennis Europe-U14-Cat2",
-     "tarih": null,
-     "tarih_metni": "23-26",
-     "yer": "",
-     "brans": "",
-     "satir": "23-26 Nisan ITF Junior J100 Tennis Europe-U14-Cat2"
-    },
-    {
-     "ad": "15K 15K ITF Junior J60 GELİŞİM KAMPI Haftasonu Turnuvası",
+     "ad": "15K 15K ITF Junior J60 GELİŞİM KAMPI Haftasonu Turnuvası 01-03 Mayıs",
      "tarih": null,
      "tarih_metni": "27 Nisan",
      "yer": "",
      "brans": "",
-     "satir": "27 Nisan 15K 15K ITF Junior J60 GELİŞİM KAMPI Haftasonu Turnuvası"
+     "satir": "27 Nisan 15K 15K ITF Junior J60 GELİŞİM KAMPI Haftasonu Turnuvası 01-03 Mayıs"
     },
     {
-     "ad": "15K Haftasonu Turnuvası",
+     "ad": "15K Haftasonu Turnuvası 07-10 Mayıs 15K WTA 125 İSTANBUL OPEN Haftasonu Turnuvası 07-10 Mayıs ITF Junior J60 MTB",
      "tarih": null,
      "tarih_metni": "4 Mayıs",
      "yer": "",
      "brans": "",
-     "satir": "4 Mayıs 15K Haftasonu Turnuvası"
+     "satir": "4 Mayıs 15K Haftasonu Turnuvası 07-10 Mayıs 15K WTA 125 İSTANBUL OPEN Haftasonu Turnuvası 07-10 Mayıs ITF Junior J60 MTB"
     },
     {
-     "ad": "Mayıs ITF Junior J60 MTB",
-     "tarih": null,
-     "tarih_metni": "07-10",
-     "yer": "",
-     "brans": "",
-     "satir": "07-10 Mayıs ITF Junior J60 MTB"
-    },
-    {
-     "ad": "15K 15K ITF Junior J30 Hafta Sonu Turnuvası",
+     "ad": "15K 15K ITF Junior J30 Hafta Sonu Turnuvası 14-17 Mayıs",
      "tarih": null,
      "tarih_metni": "11 Mayıs",
      "yer": "",
      "brans": "",
-     "satir": "11 Mayıs 15K 15K ITF Junior J30 Hafta Sonu Turnuvası"
+     "satir": "11 Mayıs 15K 15K ITF Junior J30 Hafta Sonu Turnuvası 14-17 Mayıs"
     },
     {
-     "ad": "Mayıs 15K Haftasonu Turnuvası",
+     "ad": "Mayıs 15K Haftasonu Turnuvası Mayıs MTB MTB Tennis Europe-U14- Cat3 Cudi CUP MTB",
      "tarih": null,
      "tarih_metni": "21-24",
      "yer": "",
      "brans": "",
-     "satir": "21-24 Mayıs 15K Haftasonu Turnuvası"
-    },
-    {
-     "ad": "Mayıs MTB MTB Tennis Europe-U14- Cat3",
-     "tarih": null,
-     "tarih_metni": "21-24",
-     "yer": "",
-     "brans": "",
-     "satir": "21-24 Mayıs MTB MTB Tennis Europe-U14- Cat3"
+     "satir": "21-24 Mayıs 15K Haftasonu Turnuvası 21-24 Mayıs MTB MTB Tennis Europe-U14- Cat3 Cudi CUP MTB"
     },
     {
      "ad": "15K 15K",
@@ -11459,60 +11486,20 @@
      "satir": "13 Temmuz ITF Junior J30 Yaz Kupası-2 Yaz Kupası-2"
     },
     {
-     "ad": "Haftasonu Turnuvası",
+     "ad": "Haftasonu Turnuvası 23-26 Temmuz Haftasonu Turnuvası 23-26 Temmuz 18 Yaş Altı Takım Şampiyonası Bölgesel Müsabakaları Haftasonu Turnuvası 23-26 Temmuz Haftasonu Turnuvası 23-26 Temmuz Yaz Kupası 2",
      "tarih": null,
      "tarih_metni": "20 Temmuz",
      "yer": "",
      "brans": "",
-     "satir": "20 Temmuz Haftasonu Turnuvası"
+     "satir": "20 Temmuz Haftasonu Turnuvası 23-26 Temmuz Haftasonu Turnuvası 23-26 Temmuz 18 Yaş Altı Takım Şampiyonası Bölgesel Müsabakaları Haftasonu Turnuvası 23-26 Temmuz Haftasonu Turnuvası 23-26 Temmuz Yaz Kupası 2"
     },
     {
-     "ad": "Temmuz",
-     "tarih": null,
-     "tarih_metni": "23-26",
-     "yer": "",
-     "brans": "",
-     "satir": "23-26 Temmuz"
-    },
-    {
-     "ad": "Temmuz",
-     "tarih": null,
-     "tarih_metni": "23-26",
-     "yer": "",
-     "brans": "",
-     "satir": "23-26 Temmuz"
-    },
-    {
-     "ad": "Temmuz",
-     "tarih": null,
-     "tarih_metni": "23-26",
-     "yer": "",
-     "brans": "",
-     "satir": "23-26 Temmuz"
-    },
-    {
-     "ad": "Temmuz Yaz Kupası 2",
-     "tarih": null,
-     "tarih_metni": "23-26",
-     "yer": "",
-     "brans": "",
-     "satir": "23-26 Temmuz Yaz Kupası 2"
-    },
-    {
-     "ad": "Haftasonu Turnuvası",
+     "ad": "Haftasonu Turnuvası 31 Temmuz-02 Ağustos",
      "tarih": null,
      "tarih_metni": "27 Temmuz",
      "yer": "",
      "brans": "",
-     "satir": "27 Temmuz Haftasonu Turnuvası"
-    },
-    {
-     "ad": "02 Ağustos",
-     "tarih": null,
-     "tarih_metni": "31 Temmuz",
-     "yer": "",
-     "brans": "",
-     "satir": "31 Temmuz-02 Ağustos"
+     "satir": "27 Temmuz Haftasonu Turnuvası 31 Temmuz-02 Ağustos"
     },
     {
      "ad": "Yaz Kupası-3 Yaz Kupası-3 Yaz Kupası-3 Tennis Europe Cat.3 Yaz Kupası-2 Yaz Kupası-3",
@@ -11523,20 +11510,12 @@
      "satir": "3 Ağustos Yaz Kupası-3 Yaz Kupası-3 Yaz Kupası-3 Tennis Europe Cat.3 Yaz Kupası-2 Yaz Kupası-3"
     },
     {
-     "ad": "GELİŞİM LİGİ TÜRKİYE",
+     "ad": "GELİŞİM LİGİ TÜRKİYE ŞAMPİYONASI GELİŞİM LİGİ TÜRKİYE ŞAMPİYONASI Haftasonu Turnuvası 14-16 Ağustos",
      "tarih": null,
      "tarih_metni": "10 Ağustos",
      "yer": "",
      "brans": "",
-     "satir": "10 Ağustos GELİŞİM LİGİ TÜRKİYE"
-    },
-    {
-     "ad": "Ağustos",
-     "tarih": null,
-     "tarih_metni": "14-16",
-     "yer": "",
-     "brans": "",
-     "satir": "14-16 Ağustos"
+     "satir": "10 Ağustos GELİŞİM LİGİ TÜRKİYE ŞAMPİYONASI GELİŞİM LİGİ TÜRKİYE ŞAMPİYONASI Haftasonu Turnuvası 14-16 Ağustos"
     },
     {
      "ad": "ENKA WTA 125 Tennis Europe Cat.3 Yaz Kupası-3",
@@ -11555,12 +11534,12 @@
      "satir": "24 Ağustos Türkiye Şampiyonası Türkiye Şampiyonası Türkiye Şampiyonası Türkiye Şampiyonası Türkiye Şampiyonası Türkiye Şampiyonası"
     },
     {
-     "ad": "İSTANBUL",
+     "ad": "İSTANBUL CHALLENGER Tennis Europe Cat.3",
      "tarih": null,
      "tarih_metni": "31 Ağustos",
      "yer": "",
      "brans": "",
-     "satir": "31 Ağustos İSTANBUL"
+     "satir": "31 Ağustos İSTANBUL CHALLENGER Tennis Europe Cat.3"
     },
     {
      "ad": "Sonbahar Kupası 1 ATİK WTA 125 Sonbahar Kupası 1 Tennis Europe Cat.3",
@@ -11587,12 +11566,12 @@
      "satir": "28 Eylül Tenis Ligi Grup Maçları SAMSUN OPEN 125 K Tenis Ligi Grup Maçları ITF Junior J200 Tennis Europe Cat.3"
     },
     {
-     "ad": "CUMHURBAŞKANLIĞI",
+     "ad": "CUMHURBAŞKANLIĞI KUPASI CUMHURBAŞKANLIĞI KUPASI CUMHURBAŞKANLIĞI KUPASI CUMHURBAŞKANLIĞI KUPASI ITF Junior J30 CUMHURBAŞKANLIĞI KUPASI CUMHURBAŞKANLIĞI KUPASI Tennis Europe Cat.2 CUMHURBAŞKANLIĞI KUPASI CUMHURBAŞKANLIĞI ",
      "tarih": null,
      "tarih_metni": "5 Ekim",
      "yer": "",
      "brans": "",
-     "satir": "5 Ekim CUMHURBAŞKANLIĞI"
+     "satir": "5 Ekim CUMHURBAŞKANLIĞI KUPASI CUMHURBAŞKANLIĞI KUPASI CUMHURBAŞKANLIĞI KUPASI CUMHURBAŞKANLIĞI KUPASI ITF Junior J30 CUMHURBAŞKANLIĞI KUPASI CUMHURBAŞKANLIĞI KUPASI Tennis Europe Cat.2 CUMHURBAŞKANLIĞI KUPASI CUMHURBAŞKANLIĞI KUPASI Haftasonu Turnuvası 9-11 Ekim"
     },
     {
      "ad": "ITF Junior J30 Sonbahar Kupası-1 Sonbahar Kupası-1 Sonbahar Kupası-1",
@@ -11603,12 +11582,12 @@
      "satir": "12 Ekim ITF Junior J30 Sonbahar Kupası-1 Sonbahar Kupası-1 Sonbahar Kupası-1"
     },
     {
-     "ad": "Sonbahar Kupası-2 Sonbahar Kupası-2 Tennis Europe Cat.3 Haftasonu Turnuvası",
+     "ad": "Sonbahar Kupası-2 Sonbahar Kupası-2 Tennis Europe Cat.3 Haftasonu Turnuvası 23-25 Ekim",
      "tarih": null,
      "tarih_metni": "19 Ekim",
      "yer": "",
      "brans": "",
-     "satir": "19 Ekim Sonbahar Kupası-2 Sonbahar Kupası-2 Tennis Europe Cat.3 Haftasonu Turnuvası"
+     "satir": "19 Ekim Sonbahar Kupası-2 Sonbahar Kupası-2 Tennis Europe Cat.3 Haftasonu Turnuvası 23-25 Ekim"
     },
     {
      "ad": "25K CUMHURİYET KIZLARI",
@@ -11627,12 +11606,12 @@
      "satir": "2 Kasım Sonbahar Kupası-3 Sonbahar Kupası-3 Sonbahar Kupası-2 Tennis Europe Cat.1"
     },
     {
-     "ad": "ITF Junior J30 Sonbahar Kupası-2 En iyi 8 Masters Turnuvası Sonbahar Kupası-2 Haftasonu Turnuvası",
+     "ad": "ITF Junior J30 Sonbahar Kupası-2 En iyi 8 Masters Turnuvası Sonbahar Kupası-2 Haftasonu Turnuvası 13-15 Kasım",
      "tarih": null,
      "tarih_metni": "9 Kasım",
      "yer": "",
      "brans": "",
-     "satir": "9 Kasım ITF Junior J30 Sonbahar Kupası-2 En iyi 8 Masters Turnuvası Sonbahar Kupası-2 Haftasonu Turnuvası"
+     "satir": "9 Kasım ITF Junior J30 Sonbahar Kupası-2 En iyi 8 Masters Turnuvası Sonbahar Kupası-2 Haftasonu Turnuvası 13-15 Kasım"
     },
     {
      "ad": "BJK CUP Tennis Europe Cat.3 En iyi 8 Masters Turnuvası",
@@ -11643,44 +11622,20 @@
      "satir": "16 Kasım BJK CUP Tennis Europe Cat.3 En iyi 8 Masters Turnuvası"
     },
     {
-     "ad": "Haftasonu Turnuvası",
+     "ad": "Haftasonu Turnuvası 26-29 Kasım Tennis Europe Cat.3 Haftasonu Turnuvası 26-29 Kasım Tennis Europe Cat.3 Haftasonu Turnuvası 26-29 Kasım",
      "tarih": null,
      "tarih_metni": "23 Kasım",
      "yer": "",
      "brans": "",
-     "satir": "23 Kasım Haftasonu Turnuvası"
+     "satir": "23 Kasım Haftasonu Turnuvası 26-29 Kasım Tennis Europe Cat.3 Haftasonu Turnuvası 26-29 Kasım Tennis Europe Cat.3 Haftasonu Turnuvası 26-29 Kasım"
     },
     {
-     "ad": "Haftasonu Turnuvası",
+     "ad": "Haftasonu Turnuvası 03-06 Aralık Haftasonu Turnuvası 03-06 Aralık Haftasonu Turnuvası 04-06 Aralık",
      "tarih": null,
      "tarih_metni": "30 Kasım",
      "yer": "",
      "brans": "",
-     "satir": "30 Kasım Haftasonu Turnuvası"
-    },
-    {
-     "ad": "Aralık",
-     "tarih": null,
-     "tarih_metni": "03-06",
-     "yer": "",
-     "brans": "",
-     "satir": "03-06 Aralık"
-    },
-    {
-     "ad": "Aralık",
-     "tarih": null,
-     "tarih_metni": "03-06",
-     "yer": "",
-     "brans": "",
-     "satir": "03-06 Aralık"
-    },
-    {
-     "ad": "Aralık",
-     "tarih": null,
-     "tarih_metni": "04-06",
-     "yer": "",
-     "brans": "",
-     "satir": "04-06 Aralık"
+     "satir": "30 Kasım Haftasonu Turnuvası 03-06 Aralık Haftasonu Turnuvası 03-06 Aralık Haftasonu Turnuvası 04-06 Aralık"
     },
     {
      "ad": "MTB MTB MTB",
@@ -11691,15 +11646,15 @@
      "satir": "7 Aralık MTB MTB MTB"
     },
     {
-     "ad": "Tenis Ligi Final",
+     "ad": "Tenis Ligi Final Müsabakaları Tenis Ligi Final Müsabakaları",
      "tarih": null,
      "tarih_metni": "14 Aralık",
      "yer": "",
      "brans": "",
-     "satir": "14 Aralık Tenis Ligi Final"
+     "satir": "14 Aralık Tenis Ligi Final Müsabakaları Tenis Ligi Final Müsabakaları"
     }
    ],
-   "checked_at": "2026-10-09T08:54:13",
+   "checked_at": "2026-10-09T16:06:47",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:48+00:00",
    "parmak_izi": "ef844991598654f2"
@@ -11714,8 +11669,8 @@
    "fingerprint": "5a3b7854c650d86b",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:19",
-   "bekleyen_iz": "95cdc773d1f5014e",
+   "checked_at": "2026-10-09T16:06:52",
+   "bekleyen_iz": "11e7d5451206f047",
    "changed_at": "2026-10-02T21:17:49+00:00",
    "parmak_izi": "5a3b7854c650d86b"
   },
@@ -11729,8 +11684,8 @@
    "fingerprint": "950b98073aeaed81",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:13",
-   "bekleyen_iz": "5133afddedecdcdf",
+   "checked_at": "2026-10-09T16:06:47",
+   "bekleyen_iz": "5a7643a9c1c5df54",
    "changed_at": "2026-10-08T16:23:44+00:00",
    "parmak_izi": "950b98073aeaed81"
   },
@@ -11744,7 +11699,7 @@
    "fingerprint": "b9f2c588bd7c97d8",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-10-09T08:54:21",
+   "checked_at": "2026-10-09T16:06:54",
    "bekleyen_iz": null,
    "changed_at": "2026-09-27T01:20:56+00:00",
    "parmak_izi": "b9f2c588bd7c97d8"
@@ -12007,7 +11962,7 @@
      "satir": "2 | 20.05.2026 16:09 | HANSA 303 ERKEK KESİN SONUÇLAR"
     }
    ],
-   "checked_at": "2026-10-09T08:54:18",
+   "checked_at": "2026-10-09T16:06:52",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:49+00:00",
    "parmak_izi": "b76b0070a88cf7ee"
@@ -12020,7 +11975,7 @@
    "type": "pdf",
    "label": "takvim > 2026-2027 SEZONU YÜZME FAALİYET TAKVİMİ (TASLAK)",
    "fingerprint": "23e93d6485844fb0",
-   "event_count": 41,
+   "event_count": 34,
    "events": [
     {
      "ad": "20 27 SEZONU YÜZME FAALİYET TAKVİMİ (TASLAK) sefa",
@@ -12047,36 +12002,36 @@
      "satir": "1 EKİM - 31 ARALIK 2026 TÜRKİYE YÜZME FEDERASYONU 7-8-9 YAŞ YÜZME ŞENLİKLERİ 25M / 50M 2017-2018-2019 Kadın-Erkek İLLER"
     },
     {
-     "ad": "EKİM 2026 DÜNYA YÜZME KUPASI SERİ 1 25M Açık Yaş AZERBAYCAN",
+     "ad": "EKİM 2026 DÜNYA YÜZME KUPASI SERİ 1 25M Açık Yaş AZERBAYCAN BAKÜ",
      "tarih": null,
      "tarih_metni": "1-3",
      "yer": "",
      "brans": "",
-     "satir": "1-3 EKİM 2026 DÜNYA YÜZME KUPASI SERİ 1 25M Açık Yaş AZERBAYCAN"
+     "satir": "1-3 EKİM 2026 DÜNYA YÜZME KUPASI SERİ 1 25M Açık Yaş AZERBAYCAN BAKÜ"
     },
     {
-     "ad": "EKİM 2026 DÜNYA YÜZME KUPASI SERİ 2 25M Açık Yaş ÖZBEKİSTAN",
+     "ad": "EKİM 2026 DÜNYA YÜZME KUPASI SERİ 2 25M Açık Yaş ÖZBEKİSTAN TAŞKENT",
      "tarih": null,
      "tarih_metni": "8-10",
      "yer": "",
      "brans": "",
-     "satir": "8-10 EKİM 2026 DÜNYA YÜZME KUPASI SERİ 2 25M Açık Yaş ÖZBEKİSTAN"
+     "satir": "8-10 EKİM 2026 DÜNYA YÜZME KUPASI SERİ 2 25M Açık Yaş ÖZBEKİSTAN TAŞKENT"
     },
     {
-     "ad": "EKİM 2026 DÜNYA YÜZME KUPASI SERİ 3 25M Açık Yaş KAZAKİSTAN",
+     "ad": "EKİM 2026 DÜNYA YÜZME KUPASI SERİ 3 25M Açık Yaş KAZAKİSTAN ASTANA",
      "tarih": null,
      "tarih_metni": "15-17",
      "yer": "",
      "brans": "",
-     "satir": "15-17 EKİM 2026 DÜNYA YÜZME KUPASI SERİ 3 25M Açık Yaş KAZAKİSTAN"
+     "satir": "15-17 EKİM 2026 DÜNYA YÜZME KUPASI SERİ 3 25M Açık Yaş KAZAKİSTAN ASTANA"
     },
     {
-     "ad": "KASIM 2026 DAKAR YAZ GENÇLİK OLİMPİYAT OYUNLARI 50M 15 Kasım 2008-2009-2010-2011- 31 Ekim 2012",
+     "ad": "KASIM 2026 DAKAR YAZ GENÇLİK OLİMPİYAT OYUNLARI 50M 15 Kasım 2008-2009-2010-2011- 31 Ekim 2012 Kadın-Erkek DAKAR SENEGAL",
      "tarih": "2026-11-06",
      "tarih_metni": "1-6",
      "yer": "",
      "brans": "",
-     "satir": "1-6 KASIM 2026 DAKAR YAZ GENÇLİK OLİMPİYAT OYUNLARI 50M 15 Kasım 2008-2009-2010-2011- 31 Ekim 2012"
+     "satir": "1-6 KASIM 2026 DAKAR YAZ GENÇLİK OLİMPİYAT OYUNLARI 50M 15 Kasım 2008-2009-2010-2011- 31 Ekim 2012 Kadın-Erkek DAKAR SENEGAL"
     },
     {
      "ad": "KASIM 2026",
@@ -12111,52 +12066,20 @@
      "satir": "1-6 ARALIK 2026 DÜNYA KISA KULVAR YÜZME ŞAMPİYONASI 25M Açık Yaş"
     },
     {
-     "ad": "ARALIK 2026 TÜRKİYE ARENA YILDIZ-GENÇ VE AÇIK YAŞ UZUN KULVAR MİLLİ",
+     "ad": "ARALIK 2026 TÜRKİYE ARENA YILDIZ-GENÇ VE AÇIK YAŞ UZUN KULVAR MİLLİ TAKIM SEÇMESİ 50M Yıldız 2012-2013-2014 Kadın-Erkek Gençler 2009-2010-2011 Kadın-Erkek Açık Yaş 2014- Kadın-Erkek ANTALYA",
      "tarih": "2026-12-20",
      "tarih_metni": "18-20",
      "yer": "",
      "brans": "",
-     "satir": "18-20 ARALIK 2026 TÜRKİYE ARENA YILDIZ-GENÇ VE AÇIK YAŞ UZUN KULVAR MİLLİ"
+     "satir": "18-20 ARALIK 2026 TÜRKİYE ARENA YILDIZ-GENÇ VE AÇIK YAŞ UZUN KULVAR MİLLİ TAKIM SEÇMESİ 50M Yıldız 2012-2013-2014 Kadın-Erkek Gençler 2009-2010-2011 Kadın-Erkek Açık Yaş 2014- Kadın-Erkek ANTALYA"
     },
     {
-     "ad": "Yıldız 20 13-2014 Kadın-Erkek",
-     "tarih": null,
-     "tarih_metni": "12-20",
-     "yer": "",
-     "brans": "",
-     "satir": "Yıldız 2012-2013-2014 Kadın-Erkek"
-    },
-    {
-     "ad": "Gençler 20 10-2011 Kadın-Erkek",
-     "tarih": null,
-     "tarih_metni": "09-20",
-     "yer": "",
-     "brans": "",
-     "satir": "Gençler 2009-2010-2011 Kadın-Erkek"
-    },
-    {
-     "ad": "ARALIK 2026 TÜRKİYE KULÜPLER ARASI KISA KULVAR",
+     "ad": "ARALIK 2026 TÜRKİYE KULÜPLER ARASI KISA KULVAR YILIDIZ, GENÇ VE AÇIK YAŞ YÜZME ŞAMPİYONASI 25M Yıldız 2011-2012-2013 Kadın-Erkek Gençler 2008-2009-2010-2011-2012 Kadın-Erkek Açık Yaş 2013- Kadın-Erkek ANTALYA",
      "tarih": "2026-12-26",
      "tarih_metni": "22-26",
      "yer": "",
      "brans": "",
-     "satir": "22-26 ARALIK 2026 TÜRKİYE KULÜPLER ARASI KISA KULVAR"
-    },
-    {
-     "ad": "Yıldız 20 12-2013 Kadın-Erkek",
-     "tarih": null,
-     "tarih_metni": "11-20",
-     "yer": "",
-     "brans": "",
-     "satir": "Yıldız 2011-2012-2013 Kadın-Erkek"
-    },
-    {
-     "ad": "Gençler 20 09-2010-2011-2012 Kadın-Erkek",
-     "tarih": null,
-     "tarih_metni": "08-20",
-     "yer": "",
-     "brans": "",
-     "satir": "Gençler 2008-2009-2010-2011-2012 Kadın-Erkek"
+     "satir": "22-26 ARALIK 2026 TÜRKİYE KULÜPLER ARASI KISA KULVAR YILIDIZ, GENÇ VE AÇIK YAŞ YÜZME ŞAMPİYONASI 25M Yıldız 2011-2012-2013 Kadın-Erkek Gençler 2008-2009-2010-2011-2012 Kadın-Erkek Açık Yaş 2013- Kadın-Erkek ANTALYA"
     },
     {
      "ad": "NİSAN 2027 MULTINATIONS YILDIZLAR MİLLİ TAKIMI 50M Yıldız 2012-2013-2014 Kadın-Erkek YUNANİSTAN",
@@ -12223,20 +12146,12 @@
      "satir": "10-11-12 YAŞ ULUSAL GELİŞİM LİGİ MÜSABAKASI 50M 2015-2016-2017 Kadın-Erkek MUHTELİF"
     },
     {
-     "ad": "HAZİRAN 2027 COMEN CUP MİLLİ TAKIMI 50M 2012-2013-2014 Kadın",
+     "ad": "HAZİRAN 2027 COMEN CUP MİLLİ TAKIMI 50M 2012-2013-2014 Kadın 2011-2012-2013 Erkek MUHTELİF",
      "tarih": null,
      "tarih_metni": "4-6",
      "yer": "",
      "brans": "",
-     "satir": "4-6 HAZİRAN 2027 COMEN CUP MİLLİ TAKIMI 50M 2012-2013-2014 Kadın"
-    },
-    {
-     "ad": "20 12-2013 Erkek MUHTELİF",
-     "tarih": null,
-     "tarih_metni": "11-20",
-     "yer": "",
-     "brans": "",
-     "satir": "2011-2012-2013 Erkek MUHTELİF"
+     "satir": "4-6 HAZİRAN 2027 COMEN CUP MİLLİ TAKIMI 50M 2012-2013-2014 Kadın 2011-2012-2013 Erkek MUHTELİF"
     },
     {
      "ad": "HAZİRAN 2027 AVRUPA OYUNLARI 50M 2004-2005-2006-2007-2008 Kadın-Erkek İSTANBUL",
@@ -12263,12 +12178,12 @@
      "satir": "2027 AVRUPA GENÇLER YÜZME ŞAMPİYONASI 50M 2009-2010-2011-2012-2013 Kadın-Erkek"
     },
     {
-     "ad": "TEMMUZ 2027 DÜNYA ŞAMPİYONASI 50M Açık Yaş",
+     "ad": "TEMMUZ 2027 DÜNYA ŞAMPİYONASI 50M Açık Yaş MACARİSTAN BUDAPEŞTE",
      "tarih": "2027-07-18",
      "tarih_metni": "10-18",
      "yer": "",
      "brans": "",
-     "satir": "10-18 TEMMUZ 2027 DÜNYA ŞAMPİYONASI 50M Açık Yaş"
+     "satir": "10-18 TEMMUZ 2027 DÜNYA ŞAMPİYONASI 50M Açık Yaş MACARİSTAN BUDAPEŞTE"
     },
     {
      "ad": "1 AĞUSTOS",
@@ -12279,36 +12194,20 @@
      "satir": "24 TEMMUZ - 1 AĞUSTOS"
     },
     {
-     "ad": "2027 EYOF (AVRUPA GENÇLİK OLİMPİK FESTİVALİ) 50M 20 13 Kadın-Erkek İTALYA",
+     "ad": "2027 EYOF (AVRUPA GENÇLİK OLİMPİK FESTİVALİ) 50M 20 13 Kadın-Erkek İTALYA TARANTO",
      "tarih": null,
      "tarih_metni": "12-20",
      "yer": "",
      "brans": "",
-     "satir": "2027 EYOF (AVRUPA GENÇLİK OLİMPİK FESTİVALİ) 50M 2012-2013 Kadın-Erkek İTALYA"
+     "satir": "2027 EYOF (AVRUPA GENÇLİK OLİMPİK FESTİVALİ) 50M 2012-2013 Kadın-Erkek İTALYA TARANTO"
     },
     {
-     "ad": "AĞUSTOS 2027 TÜRKİYE KULÜPLER ARASI UZUN KULVAR",
+     "ad": "AĞUSTOS 2027 TÜRKİYE KULÜPLER ARASI UZUN KULVAR YILIDIZ, GENÇ VE AÇIK YAŞ YÜZME ŞAMPİYONASI 50M Yıldız 2012-2013-2014 Kadın-Erkek Gençler 2009-2010-2011 Kadın-Erkek Açık Yaş 2014- Kadın-Erkek MUHTELİF",
      "tarih": "2027-08-08",
      "tarih_metni": "4-8",
      "yer": "",
      "brans": "",
-     "satir": "4-8 AĞUSTOS 2027 TÜRKİYE KULÜPLER ARASI UZUN KULVAR"
-    },
-    {
-     "ad": "Yıldız 20 13-2014 Kadın-Erkek",
-     "tarih": null,
-     "tarih_metni": "12-20",
-     "yer": "",
-     "brans": "",
-     "satir": "Yıldız 2012-2013-2014 Kadın-Erkek"
-    },
-    {
-     "ad": "Gençler 20 10-2011 Kadın-Erkek",
-     "tarih": null,
-     "tarih_metni": "09-20",
-     "yer": "",
-     "brans": "",
-     "satir": "Gençler 2009-2010-2011 Kadın-Erkek"
+     "satir": "4-8 AĞUSTOS 2027 TÜRKİYE KULÜPLER ARASI UZUN KULVAR YILIDIZ, GENÇ VE AÇIK YAŞ YÜZME ŞAMPİYONASI 50M Yıldız 2012-2013-2014 Kadın-Erkek Gençler 2009-2010-2011 Kadın-Erkek Açık Yaş 2014- Kadın-Erkek MUHTELİF"
     },
     {
      "ad": "AĞUSTOS 2027 DÜNYA GENÇLER YÜZME ŞAMPİYONASI 50M 2009-2010-2011-2012-2013 Kadın-Erkek MUHTELİF",
@@ -12351,7 +12250,7 @@
      "satir": "KASIM 2027 CENTRAL EUROPEAN COUNTRIES MEET 50M 2012-2013-2014 Kadın-Erkek MUHTELİF"
     }
    ],
-   "checked_at": "2026-10-09T08:54:14",
+   "checked_at": "2026-10-09T16:06:48",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "23e93d6485844fb0"

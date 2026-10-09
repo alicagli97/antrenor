@@ -1,5 +1,23 @@
 [
  {
+  "id": "40ad15cda85b3dea",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-09T20:53:20+00:00",
+  "first_seen_at": "2026-10-09T20:53:20+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "3c789f3e1e381474",
   "federation": "binicilik",
   "federation_name": "Türkiye Binicilik Federasyonu",
@@ -1059,24 +1077,6 @@
   "federation_short": "TBF",
   "title": "Mevzuat güncellendi: Ödül ve Yardım Talimatı - Onay Tarihi 19.03.2026",
   "url": "https://binicilik.org.tr/mevzuat/talimatlar/belge/101",
-  "summary": "Türkiye Binicilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-05T10:50:58+00:00",
-  "first_seen_at": "2026-10-05T10:50:58+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "d7266fa56118c910",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: Üç Günlük Yarışma Talimatı - Onay Tarihi 24.11.2025",
-  "url": "https://binicilik.org.tr/mevzuat/talimatlar/belge/132",
   "summary": "Türkiye Binicilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

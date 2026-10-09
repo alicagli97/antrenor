@@ -1,5 +1,143 @@
 [
  {
+  "id": "40bbd46bf304a318",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Duyuru ve Kararlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=687&ftxtID=51615",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-09T20:55:08+00:00",
+  "first_seen_at": "2026-10-09T20:55:08+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b7fe84c34fbfdc91",
+  "federation": "hokey",
+  "federation_name": "Türkiye Hokey Federasyonu",
+  "federation_short": "THF",
+  "title": "2025/2026 Sezonu Erkekler-kızlar Gelişim Ligi U14 İl Karmaları",
+  "url": "https://www.turkhokey.gov.tr/haber/10218/20252026-sezonu-erkekler-kizlar-gelisim-ligi-u14-il-karmalari",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-09T20:55:08+00:00",
+  "first_seen_at": "2026-10-09T20:55:08+00:00",
+  "source": "html"
+ },
+ {
+  "id": "4e65ea6aaac96624",
+  "federation": "gormeengelliler",
+  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "federation_short": "GESF",
+  "title": "Futbol Deplasmanlı Süper Lig 11. Hafta Hakem ve Görevli Listesi Yayınlandı",
+  "url": "https://www.gesf.org.tr/haber/futbol-deplasmanli-super-lig-11-hafta-hakem-ve-gorevli-listesi-yayinlandi-57",
+  "summary": "duyuru 2210 görüntülenme duyuru GENÇ KADIN GOALBALL MİLLİ TAKIMIMIZ KONYA’DA KAMPA GİRİYOR Genç Kadın Goalball Milli Takımımız, 15-23 Ekim 2026 tarihleri arasında Konya’da gerçekleştirilecek hazırlık kampında çalışmalarını sürdürecektir.Milli takımımızın kamp sürecinin verimli ve başarılı geçmesini temenni ediyor, teknik ekibimize ve tüm s 09.10.2026 33 görüntülenme haber Kadın Görme Engelliler Fu",
+  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1776946550_ce6fcf32.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "hakem",
+   "musabaka"
+  ],
+  "published_at": "2026-10-09T20:55:08+00:00",
+  "first_seen_at": "2026-10-09T20:55:08+00:00",
+  "source": "html"
+ },
+ {
+  "id": "47ba4320d8da841a",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "Gelişmekte Olan Branşlar faaliyet takviminde değişiklik",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-469-10-13-eylul-2026-hemsball-gencler-ve-buyukler-turkiye-sampiyonasi-mugla-mentese",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-09T20:53:30+00:00",
+  "first_seen_at": "2026-10-09T20:53:30+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "869402e06cfbe28b",
+  "federation": "bilardo",
+  "federation_name": "Türkiye Bilardo Federasyonu",
+  "federation_short": "TBF",
+  "title": "Bilardo faaliyet takviminde değişiklik",
+  "url": "https://www.bilardo.org.tr/haberler/turkiye-bilardo-federasyonu-2026-agustos-aralik-ayi-faaliyet-takvimi-1141",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-09T20:53:24+00:00",
+  "first_seen_at": "2026-10-09T20:53:24+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "40ad15cda85b3dea",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-09T20:53:20+00:00",
+  "first_seen_at": "2026-10-09T20:53:20+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "ec4306b2062232e7",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-09T20:53:17+00:00",
+  "first_seen_at": "2026-10-09T20:53:17+00:00",
+  "source": "takvim-excel"
+ },
+ {
+  "id": "8bcc62d0e939940a",
+  "federation": "taekwondo",
+  "federation_name": "Türkiye Taekwondo Federasyonu",
+  "federation_short": "TTF",
+  "title": "Para Taekwondo Milli Takım Seçme Müsabakası",
+  "url": "https://turkiyetaekwondofed.gov.tr/para-taekwondo-milli-takim-secme-musabakasi/",
+  "summary": "20-22 Kasım 2026 tarihinde Güne Kore’nin Muju kentinde yapılacak olan Dünya Para Taekwondo Şampiyonası’nda ülkemizi temsil edecek olan Milli Takımımızı belirlemek üzere seçme müsabakası yapılacaktır. Dünya Para Taekwondo Milli Takım Seçme Müsabakaları 14 Ekim 2026 tarihi Yenimahalle Spor Kompleksinde tartı , 15 Ekim 2026 tarinde Nur Tatar Spor Salonunda müsabaka olarak yapılması planlanmaktadır. Seçme Tarihi: 15 Ekim 2026 […]",
+  "image": "https://turkiyetaekwondofed.gov.tr/wp-content/uploads/2024/01/MAVI-scaled.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-10-09T18:00:00+00:00",
+  "first_seen_at": "2026-10-09T20:55:08+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "e9196748b5889fd8",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -15,6 +153,23 @@
   "published_at": "2026-10-09T17:51:38+00:00",
   "first_seen_at": "2026-10-09T16:08:29+00:00",
   "source": "api"
+ },
+ {
+  "id": "8d7304c062984be6",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "TPŞ 4. Ayakta Zirve Mücadelesi Nefes Kesti",
+  "url": "https://www.tosfed.org.tr/tps-4-ayakta-zirve-mucadelesi-nefes-kesti/",
+  "summary": "Türkiye Otomobil Sporları Federasyonu (TOSFED) tarafından AVIS, Spor Toto, Tuzla Belediyesi ve Salados katkılarıyla düzenlenen AVIS 2026 Türkiye Pist Şampiyonası dördüncü ayak yarışları, nefes kesen çekişmelere sahne oldu. İki ayrı grupta 23 sporcunun mücadele ettiği organizasyonda; Maxi grupta ilk yarışın birinciliğini Texaco Team AMS pilotu Seda Kaçan Bakan elde ederken, SESA European GT Team’den Kamil Çat […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-09T16:18:05+00:00",
+  "first_seen_at": "2026-10-09T20:55:08+00:00",
+  "source": "rss"
  },
  {
   "id": "f5acb3f03d8400b0",
@@ -4271,18 +4426,35 @@
   "source": "html"
  },
  {
-  "id": "4dfa06f72d562c3d",
+  "id": "8af309d9ffd58568",
+  "federation": "karate",
+  "federation_name": "Türkiye Karate Federasyonu",
+  "federation_short": "TKF",
+  "title": "Millî Takımımız Dünya Şampiyonası'na Hazır!",
+  "url": "https://karate.gov.tr/blog_detay.php?id=97",
+  "summary": "HABER Uluslararası Haberler Dünya Ümit, Genç ve U21 Karate Şampiyonası'nda Millî Takımımız, 17 kadın ve 18 erkek olmak üzere toplam 35 sporcuyla ülkemizi temsil edecek.... DEVAMINI OKU",
+  "image": "https://karate.gov.tr/uploads/blog/blog_1791571256_561.webp",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-07T00:00:00+00:00",
+  "first_seen_at": "2026-10-09T20:55:08+00:00",
+  "source": "html"
+ },
+ {
+  "id": "fbffb890784f2f7e",
   "federation": "universitesporlari",
   "federation_name": "Türkiye Üniversite Sporları Federasyonu",
   "federation_short": "TÜSF",
   "title": "Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
-  "url": "https://tusf.org.tr/Haber.aspx?b=28551889-94ac-4687-af7d-265359b05d5c&bid=4371&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
+  "url": "https://tusf.org.tr/Haber.aspx?b=f30488e9-2a2b-46d5-a469-8d5f48d85832&bid=4408&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
   "summary": "",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-07T00:00:00+00:00",
-  "first_seen_at": "2026-10-09T16:08:29+00:00",
+  "first_seen_at": "2026-10-09T20:55:08+00:00",
   "source": "html"
  },
  {
@@ -4645,53 +4817,6 @@
   "source": "wp_json"
  },
  {
-  "id": "24b3d280b6c80f2f",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Kadın U19 Milli Takımımız Ankara’da Kamp Yapacak",
-  "url": "https://thf.org.tr/haber/kadin-u19-milli-takimimiz-ankarada-kamp-yapacak",
-  "summary": "Kadın U19 Milli Takımı, 19-25 Ekim 2026 tarihleri arasında Ankara’da hazırlık kampı gerçekleştirecek. Ankara Prof. Dr. Yaşar Sevim Hentbol Salonu’nda gerçekleştirilecek kamp kapsamında Milli Takımımız çalışmalarını sürdürecek. Kadın U19 Milli Takımımızın kamp kadrosu ekte yer almaktadır.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "milli_takim"
-  ],
-  "published_at": "2026-10-06T17:40:38+00:00",
-  "first_seen_at": "2026-10-06T16:46:41+00:00",
-  "source": "api"
- },
- {
-  "id": "799dac44e7f3a7ac",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U19 Kadın Millî Takımı'nın Slovakya Maçları Hazırlıkları Başladı",
-  "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51582",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-06T16:46:41+00:00",
-  "first_seen_at": "2026-10-06T16:46:41+00:00",
-  "source": "html"
- },
- {
-  "id": "590faf0f8752fcc7",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "UEFA'dan Melek Dakan'a Görev",
-  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51580",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-06T16:46:41+00:00",
-  "first_seen_at": "2026-10-06T16:46:41+00:00",
-  "source": "html"
- },
- {
   "id": "7a7e5a45e6ca53d0",
   "federation": "masatenisi",
   "federation_name": "Türkiye Masa Tenisi Federasyonu",
@@ -4985,129 +5110,5 @@
   "published_at": "2026-10-05T22:35:40+00:00",
   "first_seen_at": "2026-10-05T22:35:40+00:00",
   "source": "html"
- },
- {
-  "id": "92d9357d848b57f5",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U18 Millî Takımımız, Portekiz’e 3-2 Mağlup Oldu",
-  "url": "https://www.tff.org/default.aspx?pageID=275&ftxtID=51569",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-05T22:35:40+00:00",
-  "first_seen_at": "2026-10-05T22:35:40+00:00",
-  "source": "html"
- },
- {
-  "id": "570c5cab2a3570b7",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Ümit Millî Takımımız, Macaristan Maçı Hazırlıklarını Tamamladı",
-  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51562",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-05T22:35:40+00:00",
-  "first_seen_at": "2026-10-05T22:35:40+00:00",
-  "source": "html"
- },
- {
-  "id": "e66579e883eb5824",
-  "federation": "yuzme",
-  "federation_name": "Türkiye Yüzme Federasyonu",
-  "federation_short": "TYF",
-  "title": "2. Kademe Yüzme Antrenörü Yetiştirme Kursu 19-23 Ekim 2026 Ankara",
-  "url": "https://www.tyf.gov.tr/haber/2-kademe-yuzme-antrenoru-yetistirme-kursu-19-23-ekim-2026-ankara.html",
-  "summary": "BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
-  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-10/1499/1791227899_y.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-10-05T22:35:40+00:00",
-  "first_seen_at": "2026-10-05T22:35:40+00:00",
-  "source": "html"
- },
- {
-  "id": "096d19bef8417fcd",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Gelişmekte Olan Branşlar faaliyet takviminde değişiklik",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-469-10-13-eylul-2026-hemsball-gencler-ve-buyukler-turkiye-sampiyonasi-mugla-mentese",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-05T22:33:53+00:00",
-  "first_seen_at": "2026-10-05T22:33:53+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "1dcec41c467c32aa",
-  "federation": "havasporlari",
-  "federation_name": "Türkiye Hava Sporları Federasyonu",
-  "federation_short": "THSF",
-  "title": "Hava Sporları faaliyet takviminde değişiklik",
-  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-05T22:33:53+00:00",
-  "first_seen_at": "2026-10-05T22:33:53+00:00",
-  "source": "takvim-pdf"
- },
- {
-  "id": "aa273ac903599ad7",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 398 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-05T22:33:45+00:00",
-  "first_seen_at": "2026-10-05T22:33:45+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "afe22fd977179a14",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Voleybol faaliyet takviminde değişiklik",
-  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-05T22:33:39+00:00",
-  "first_seen_at": "2026-10-05T22:33:39+00:00",
-  "source": "takvim-excel"
  }
 ]

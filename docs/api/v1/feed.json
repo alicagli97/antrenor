@@ -1,5 +1,115 @@
 [
  {
+  "id": "68b78ef17d32f4ad",
+  "federation": "hokey",
+  "federation_name": "Türkiye Hokey Federasyonu",
+  "federation_short": "THF",
+  "title": "Tertip Komitesi Kararı",
+  "url": "https://www.turkhokey.gov.tr/haber/10178/tertip-komitesi-karari",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-09T02:03:39+00:00",
+  "first_seen_at": "2026-10-09T02:03:39+00:00",
+  "source": "html"
+ },
+ {
+  "id": "c36d79516b586a0e",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Yeni mevzuat: Antrenör Eğitim Talimatı",
+  "url": "https://shgm.gsb.gov.tr/Public/images/SGM/Federasyon/Antrenor%20Egitim%20Talimati%20.pdf",
+  "summary": "Ragbi federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-10-09T02:02:24+00:00",
+  "first_seen_at": "2026-10-09T02:02:24+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "50b99f7a5271d1dc",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Yeni mevzuat: Başarılı Sporculara Aylık Bağlanması Ve Devlet Sporcusu Unvanı Verilmesi Hakkında Yönetmelik",
+  "url": "http://www.mevzuat.gov.tr/Metin.Aspx?MevzuatKod=7.5.13077&MevzuatIliski=0&sourceXmlSearch=",
+  "summary": "Ragbi federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-10-09T02:02:24+00:00",
+  "first_seen_at": "2026-10-09T02:02:24+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "af717f00732a6364",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Yeni mevzuat: Beyzbol Hakem Ve Gözlemci Talimatı",
+  "url": "https://shgm.gsb.gov.tr/Public/images/SGM/Federasyon/45050S22C-6e21082312580.pdf",
+  "summary": "Ragbi federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-10-09T02:02:24+00:00",
+  "first_seen_at": "2026-10-09T02:02:24+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "772258ea1a4cb497",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Yeni mevzuat: Beyzbol Hakem Ve Gözlemci Talimatında Değişiklik Yapılmasına Dair Talimat",
+  "url": "https://shgm.gsb.gov.tr/Public/images/SGM/Federasyon/96073BEYZBOL%20HAKEM%20VE%20G%C3%96ZLEMC%C4%B0%20TAL%C4%B0MATINDA%20DE%C4%9E%C4%B0%C5%9E%C4%B0KL%C4%B0K%20YAPILMASINA%20DA%C4%B0R%20TAL%C4%B0MAT.pdf",
+  "summary": "Ragbi federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-10-09T02:02:24+00:00",
+  "first_seen_at": "2026-10-09T02:02:24+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "37fd2448b8d59408",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Yeni mevzuat: Korumalı Futbol Hakem Talimatı",
+  "url": "https://shgm.gsb.gov.tr/Public/images/SGM/Federasyon/35151Tara_2015_11_26_12_30_08_556.pdf",
+  "summary": "Ragbi federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-10-09T02:02:24+00:00",
+  "first_seen_at": "2026-10-09T02:02:24+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "c6f12f5afafc56c6",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -2390,96 +2500,6 @@
   "source": "mevzuat"
  },
  {
-  "id": "620b736be8c9728c",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Talimatlar",
-  "url": "https://tbbdf.org.tr/tr/talimatlar",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-08T10:57:59+00:00",
-  "first_seen_at": "2026-10-08T10:57:59+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "7b65c9e4182380f9",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Ödül ve Yardım Talimatı",
-  "url": "https://tbbdf.org.tr/tr/odul_ve_yardim_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-08T10:57:59+00:00",
-  "first_seen_at": "2026-10-08T10:57:59+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "11cf5675098fb568",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Yarışmaları TDF 2020 IFSC Kural Değişiklikleri Sürüm 3",
-  "url": "https://drive.google.com/file/d/1cgh2NrRwIEQI3aZhOqYHZvyI7IIYJkHu/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-08T10:57:58+00:00",
-  "first_seen_at": "2026-10-08T10:57:58+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "c39d420498ec5133",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Yarışmaları TDF 2021 Yılı Kuralları -Paratırmanış kuralları dahil",
-  "url": "https://drive.google.com/file/d/18uhlhGUtHuTO_y4j3Pb4e9F7521d6yVE/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-08T10:57:58+00:00",
-  "first_seen_at": "2026-10-08T10:57:58+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "694dc2b6972ef444",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: TDF Covid-19 Normalleşme Sürecinde Uyulması Gereken Sağlık Kuralları Yönergesi",
-  "url": "https://drive.google.com/file/d/1Z9WXrbJsCqVv-UieeZZNNqr6RC13XNQV/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-08T10:57:58+00:00",
-  "first_seen_at": "2026-10-08T10:57:58+00:00",
-  "source": "mevzuat"
- },
- {
   "id": "d96c7124908fe182",
   "federation": "havasporlari",
   "federation_name": "Türkiye Hava Sporları Federasyonu",
@@ -3482,6 +3502,21 @@
   "source": "html"
  },
  {
+  "id": "4dfa06f72d562c3d",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
+  "url": "https://tusf.org.tr/Haber.aspx?b=28551889-94ac-4687-af7d-265359b05d5c&bid=4371&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-07T00:00:00+00:00",
+  "first_seen_at": "2026-10-09T02:03:39+00:00",
+  "source": "html"
+ },
+ {
   "id": "df9abb8a8b065d6a",
   "federation": "gormeengelliler",
   "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
@@ -3495,21 +3530,6 @@
    "antrenor",
    "kurs"
   ],
-  "published_at": "2026-10-07T00:00:00+00:00",
-  "first_seen_at": "2026-10-08T22:08:27+00:00",
-  "source": "html"
- },
- {
-  "id": "fbffb890784f2f7e",
-  "federation": "universitesporlari",
-  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
-  "federation_short": "TÜSF",
-  "title": "Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
-  "url": "https://tusf.org.tr/Haber.aspx?b=f30488e9-2a2b-46d5-a469-8d5f48d85832&bid=4408&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-10-07T00:00:00+00:00",
   "first_seen_at": "2026-10-08T22:08:27+00:00",
   "source": "html"
@@ -5009,21 +5029,6 @@
   "title": "4. Mali Genel Kurul Duyurusu",
   "url": "https://oryantiring.org.tr/haberler#4-mali-genel-kurul-duyurusu",
   "summary": "TÜRKİYE ORYANTİRİNG FEDERASYONU Federasyonumuz 4. Mali Genel Kurul Toplantısı, 31 Ekim 2026 Cumartesi günü, saat 10.00 'da, The Green Park Hotel ’de (Adres: Kızılırmak Mahallesi 1443 Cad. No: 39 Çukurambar / Çankaya / Ankara) çoğunluk sağlanamadığı takdirde ikinci toplantı 01 Kasım 2026 Pazar günü aynı yer ve saatte çoğunluk aranmaksızın yapılacaktır. Mali Genel Kurul Toplantısı Çağrısı ve Gündemi",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-05T15:56:18+00:00",
-  "first_seen_at": "2026-10-05T15:56:18+00:00",
-  "source": "headings"
- },
- {
-  "id": "6c69c18a46088e3e",
-  "federation": "oryantiring",
-  "federation_name": "Türkiye Oryantiring Federasyonu",
-  "federation_short": "TOF",
-  "title": "2026-2027 Faaliyet Takvimi Güncelleme",
-  "url": "https://oryantiring.org.tr/haberler#2026-2027-faaliyet-takvimi-guncelleme",
-  "summary": "Site sezonu 2026-2027 seçiliyken bu bağlantıdan ulaşabilirsiniz .",
   "image": null,
   "category": "duyuru",
   "tags": [],

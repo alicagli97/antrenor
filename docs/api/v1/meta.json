@@ -1,6 +1,6 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-10T00:45:57+00:00",
+ "generated_at": "2026-10-10T07:00:40+00:00",
  "total": 5999,
  "new_in_last_run": 545,
  "sources_ok": 64,
@@ -12,14 +12,14 @@
  ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-10T00:45:57+00:00",
+ "latest_published_at": "2026-10-10T07:00:40+00:00",
  "categories": {
+  "duyuru": 632,
   "musabaka": 282,
-  "duyuru": 631,
   "takvim": 79,
   "kurs": 139,
   "haber": 30,
-  "mevzuat": 4838
+  "mevzuat": 4837
  },
  "silent_sources": [
   {
@@ -29,7 +29,7 @@
   }
  ],
  "federation_counts": {
-  "futbol": 201,
+  "futbol": 202,
   "hokey": 24,
   "gormeengelliler": 47,
   "gelismekteolan": 42,
@@ -51,7 +51,7 @@
   "gsb": 728,
   "danssporlari": 17,
   "izcilik": 613,
-  "ragbi": 63,
+  "ragbi": 62,
   "universitesporlari": 66,
   "oryantiring": 49,
   "beyzbol": 22,

@@ -1,5 +1,40 @@
 [
  {
+  "id": "e8c41eb2446dc8ab",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Paletli Yüzme Açık Su Dünya Şampiyonası Milli Takım Kadrosu",
+  "url": "https://www.tssf.gov.tr/paletli-yuzme-acik-su-dunya-sampiyonasi-milli-takim-kadrosu/",
+  "summary": "Sporcu Adı Yarışma Kategorisi Kulübü BÜYÜK KADINLAR Feyza SARIHAN (2006) Suüstü Beylikdüzü Olimpiyat Spor Kulübü Berra Nur YILMAZ",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-10-11T10:43:47+00:00",
+  "first_seen_at": "2026-10-11T15:37:04+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "4b64a3f00a043ec6",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Millilerimiz, Endonezya’da İki Dünya Şampiyonluğu, Bir İkincilik, İki Üçüncülük Kazandılar",
+  "url": "https://www.tssf.gov.tr/millilerimiz-endonezyada-iki-dunya-sampiyonlugu-bir-ikincilik-iki-ucunculuk-kazandilar/",
+  "summary": "Sualtı Sporları Federasyonumuz, 2026 yılında katıldığı sezonun son dünya şampiyonasında yine ülkemizi gururlandıran başarılar elde etti. Sualtı Görüntüleme",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "haber",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-11T10:35:08+00:00",
+  "first_seen_at": "2026-10-11T15:37:04+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "5890febac26ecd2d",
   "federation": "sualti",
   "federation_name": "Türkiye Sualtı Sporları Federasyonu",
@@ -172,59 +207,5 @@
   "published_at": "2026-09-29T17:13:44+00:00",
   "first_seen_at": "2026-09-29T20:43:13+00:00",
   "source": "wp_json"
- },
- {
-  "id": "5890febac26ecd2d",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "Mevzuat güncellendi: Donanımlı Dalış Sınav Rehberi Genel Kuralları",
-  "url": "https://www.tssf.gov.tr/donanimli-dalis-sinav-rehberi-genel-kurallari/",
-  "summary": "Türkiye Sualtı Sporları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-21T09:23:57+00:00",
-  "first_seen_at": "2026-09-21T09:23:57+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "aba72f080ac7ddb8",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "Mevzuat güncellendi: Yönetmelik ve Talimatlar",
-  "url": "https://www.tssf.gov.tr/yonetmelik-ve-talimatlar/",
-  "summary": "Türkiye Sualtı Sporları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-21T09:23:34+00:00",
-  "first_seen_at": "2026-09-21T09:23:34+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "5befdf2a5cb34421",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "Mevzuat güncellendi: Skip to content",
-  "url": "https://www.tssf.gov.tr/yonetmelik-ve-talimatlar/#content",
-  "summary": "Türkiye Sualtı Sporları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-21T09:23:02+00:00",
-  "first_seen_at": "2026-09-21T09:23:02+00:00",
-  "source": "mevzuat"
  }
 ]

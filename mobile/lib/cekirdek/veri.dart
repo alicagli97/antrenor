@@ -14,15 +14,7 @@ import 'modeller.dart';
 class Veri extends ChangeNotifier {
   static const kok = 'https://alicagli97.github.io/antrenor/api/v1';
 
-  /// Ücretsiz sürümde takip edilebilecek federasyon sayısı
-  static const ucretsizTakipSiniri = 5;
-
   bool get premium => Abonelik.ornek.premium;
-
-  /// Yeni bir federasyon takibe alınabilir mi? (Zaten takiptekini bırakmak
-  /// her zaman serbest; bu denetim yalnızca ekleme için çağrılır.)
-  bool get takipEklenebilir =>
-      premium || takipEdilen.length < ucretsizTakipSiniri;
 
   final List<Duyuru> duyurular = [];
   final List<Federasyon> federasyonlar = [];

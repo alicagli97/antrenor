@@ -5,6 +5,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 
 import 'cekirdek/abonelik.dart';
 import 'cekirdek/bildirim.dart';
+import 'cekirdek/degerlendirme.dart';
 import 'cekirdek/hatirlatici.dart';
 import 'cekirdek/profil.dart';
 import 'cekirdek/reklam.dart';
@@ -59,6 +60,7 @@ class _AntrenorUygulamasiDurumu extends State<AntrenorUygulamasi> {
   /// dogru kuruluyor. Hepsi acilista pesin kurulunca ana is parcacigi
   /// saniyelerce kilitleniyor ve uygulama donuyordu.
   Future<void> _altyapiyiBaslat() async {
+    await Degerlendirme.acilisiSay();
     await Bildirim.baslat();
     // Yerel hatirlatmalar: ucuz, sunucuya bagli degil
     await Hatirlatici.baslat();
@@ -75,6 +77,11 @@ class _AntrenorUygulamasiDurumu extends State<AntrenorUygulamasi> {
       await Future<void>.delayed(const Duration(seconds: 3));
       await Reklam.baslat();
     }
+
+    // En sonda: kullanici akisi yerlesmis, veri gelmis oluyor. Kosullar
+    // tutmazsa sessizce geri doner.
+    await Future<void>.delayed(const Duration(seconds: 8));
+    await Degerlendirme.belkiIste();
   }
 
   void _ekrandakiBildirim(

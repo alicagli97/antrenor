@@ -8,8 +8,8 @@ import '../cekirdek/veri.dart';
 import '../ekranlar/duyuru_detay.dart';
 import '../ekranlar/premium.dart';
 
-/// Ücretsiz sürümün sınırları tek yerde toplanıyor: duyuru açarken reklam,
-/// takipte tek federasyon. Premium'da ikisi de kalkar.
+/// Ücretsiz sürümün tek sınırı burada: duyuru açarken kısa bir reklam.
+/// Federasyon takibi sınırsız; Premium'un karşılığı reklamsızlıktır.
 
 /// Bu oturumda reklam izlenerek açılmış duyurular. Kullanıcı geri dönüp aynı
 /// duyuruya tekrar girdiğinde ikinci kez reklam izlemez.
@@ -71,25 +71,10 @@ Future<void> duyuruyuAc(BuildContext context, Duyuru duyuru) async {
   }
 }
 
-/// Takip sınırı denetimi. Sınıra takılırsa ödeme duvarını açar ve kullanıcı
-/// premium olursa true döner.
-Future<bool> takipEklenebilirMi(BuildContext context, Veri veri) async {
-  if (veri.takipEklenebilir) return true;
-
-  final gecti = await showModalBottomSheet<bool>(
-        context: context,
-        backgroundColor: Renkler.yuzey,
-        isScrollControlled: true,
-        shape: const RoundedRectangleBorder(
-          borderRadius: BorderRadius.vertical(top: Radius.circular(24)),
-        ),
-        builder: (c) => _TakipSiniri(mevcut: veri.takipEdilen.length),
-      ) ??
-      false;
-
-  if (!gecti || !context.mounted) return false;
-  return PremiumEkrani.ac(context);
-}
+/// Takip sınırı kaldırıldı: ücretsiz sürümde de istenen kadar federasyon
+/// takip edilebiliyor. Premium'un karşılığı artık yalnızca reklamsızlık.
+/// Çağrı noktaları korunuyor; sınır geri gelirse değişecek tek yer burası.
+Future<bool> takipEklenebilirMi(BuildContext context, Veri veri) async => true;
 
 class _Tutamak extends StatelessWidget {
   const _Tutamak();
@@ -175,69 +160,6 @@ class _ReklamKapisi extends StatelessWidget {
               onPressed: () => Navigator.pop(context, 'premium'),
               icon: const Icon(Icons.workspace_premium_rounded, size: 18),
               label: const Text('Premium ile reklamsız oku'),
-            ),
-          ],
-        ),
-      );
-}
-
-class _TakipSiniri extends StatelessWidget {
-  final int mevcut;
-  const _TakipSiniri({required this.mevcut});
-
-  @override
-  Widget build(BuildContext context) => Padding(
-        padding: const EdgeInsets.fromLTRB(22, 10, 22, 28),
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            const _Tutamak(),
-            Container(
-              padding: const EdgeInsets.all(11),
-              decoration: BoxDecoration(
-                color: Renkler.kurs.withValues(alpha: 0.14),
-                borderRadius: BorderRadius.circular(14),
-              ),
-              child: Icon(Icons.star_rounded, color: Renkler.kurs, size: 22),
-            ),
-            const SizedBox(height: 16),
-            Text('Takip sınırına ulaştın', style: Yazi.baslik),
-            const SizedBox(height: 10),
-            Text(
-              'Ücretsiz sürümde ${Veri.ucretsizTakipSiniri} federasyon takip '
-              'edilebiliyor. Birden çok branşta çalışıyorsan Premium ile '
-              'istediğin kadar federasyonu takip edebilir, hepsinin '
-              'bildirimini alabilirsin.',
-              style: Yazi.govde.copyWith(height: 1.5),
-            ),
-            const SizedBox(height: 20),
-            FilledButton.icon(
-              style: FilledButton.styleFrom(
-                backgroundColor: Renkler.kurs,
-                foregroundColor:
-                    Renkler.koyuMu ? const Color(0xFF13181F) : Colors.white,
-                padding: const EdgeInsets.symmetric(vertical: 15),
-                minimumSize: const Size(double.infinity, 0),
-                shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(12)),
-              ),
-              onPressed: () => Navigator.pop(context, true),
-              icon: const Icon(Icons.workspace_premium_rounded, size: 19),
-              label: Text('Premium\'u incele',
-                  style: Yazi.govde.copyWith(
-                      fontWeight: FontWeight.w700,
-                      color: Renkler.koyuMu
-                          ? const Color(0xFF13181F)
-                          : Colors.white)),
-            ),
-            const SizedBox(height: 6),
-            Center(
-              child: TextButton(
-                onPressed: () => Navigator.pop(context, false),
-                child: Text('Şimdi değil',
-                    style: Yazi.govde.copyWith(color: Renkler.metinIkincil)),
-              ),
             ),
           ],
         ),

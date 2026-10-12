@@ -1,5 +1,110 @@
 [
  {
+  "id": "6012d4fbf758120f",
+  "federation": "beyzbol",
+  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
+  "federation_short": "TBSF",
+  "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
+  "url": "https://tbsf.org.tr/incele.php?id=Mzg1",
+  "summary": "",
+  "image": "https://tbsf.org.tr/icerikresim/x385.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "73c55a081c51fd74",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Atıcımız Nisa Nur’dan gümüş madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303634/aticimiz-nisa-nurdan-gumus-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "160dcb2d1a0f6f11",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Safiye’den de Avrupa şampiyonluğu!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303635/safiyeden-de-avrupa-sampiyonlugu.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "61f8bee08844f9bf",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Boccede 2 madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303637/boccede-2-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "61de44def033e97a",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Murat’tan da atıcılıkta 1 gümüş madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303639/murattan-da-aticilikta-1-gumus-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "72f559103a2a69ca",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "ilde ‘Amatör Spor Haftası coşkusu!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303632/81-ilde-amator-spor-haftasi-coskusu.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "45d2216c0d2234b6",
+  "federation": "gelenekselguresler",
+  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
+  "federation_short": "TGGF",
+  "title": "Gölmarmara Belediyesi Yağlı Güreşleri",
+  "url": "https://tggf.org.tr/golmarmara-belediyesi-yagli-guresleri/",
+  "summary": "SONUÇLAR İÇİN TIKLAYINIZ !.. … Devamını Oku",
+  "image": "https://tggf.org.tr/wp-content/uploads/2026/10/golmarama-ilkdort.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-12T05:52:35+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "b752b4a8d9efaeee",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -8,21 +113,6 @@
   "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51629",
   "summary": "",
   "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-12T00:29:36+00:00",
-  "first_seen_at": "2026-10-12T00:29:36+00:00",
-  "source": "html"
- },
- {
-  "id": "be0c74d7062823bd",
-  "federation": "beyzbol",
-  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
-  "federation_short": "TBSF",
-  "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
-  "url": "https://tbsf.org.tr/incele.php?id=MzU1",
-  "summary": "",
-  "image": "https://tbsf.org.tr/icerikresim/x355.jpg",
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-12T00:29:36+00:00",
@@ -64,6 +154,39 @@
   "published_at": "2026-10-12T00:27:49+00:00",
   "first_seen_at": "2026-10-12T00:27:49+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "46887f3b3960cce4",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Üçüncü Kademe Kıdemli Antrenör Uygulama Eğitim Kursu Sınav Sonuçları Açıklandı - Türkiye Voleybol Federasyonu | TVF",
+  "url": "https://tvf.org.tr/icerik/ucuncu-kademe-kidemli-antrenor-uygulama-egitim-kursu-sinav-sonuclari-aciklandi-4",
+  "summary": "12 Ekim 2026 Üçüncü Kademe Kıdemli Antrenör Uygulama Eğitim Kursu Sınav Sonuçları Açıklandı 29 Eylül-3 Ekim 2026 tarihleri arasında Van ilinde düzenlenen Üçüncü Kademe Kıdemli Antrenör Uygulama Eğitim Kursu'nun sınav sonuçları spor bilgi sisteminden yayınlanmıştır. Adaylar, sınav sonuçlarının ilan edilmesinden itibaren beş iş günü içerisinde itiraz edebilir. İtirazlar, on beş iş günü içerisinde incelenerek karara bağlanır. Adaylar, itiraz için dilekçelerini word dosyası olarak [email protected] mail adresine iletebilir. Ders notu erişim kılavuzu için tıklayınız . Eklenme Tarihi: 12 Ekim 2026 L",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-10-12T00:00:00+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "374db52eb04c65cf",
+  "federation": "motosiklet",
+  "federation_name": "Türkiye Motosiklet Federasyonu",
+  "federation_short": "TMF",
+  "title": "Pistte Son Kupalar İstanbul Park’ta Sahibini Bulacak",
+  "url": "https://www.tmf.org.tr/Haberler/Pistte-Son-Kupalar-istanbul-Park-ta-Sahibini-Bulacak/",
+  "summary": "Pistte Son Kupalar İstanbul Park’ta Sahibini Bulacak Türkiye Pist Şampiyonası’nda sezonun son ayak yarışları 17-18 Ekim tarihlerinde İstanbul Park'ta yapılacak. Türkiye Motosiklet Federasyonu 2026 yarış takviminde yer alan Türkiye Pist Şampiyonası’nda sezon İstanbul Park Yarış Pistinde kapanacak. Türkiye Pist Şampiyonası'nda sporcular, SBK, SSP600, STK1000, STK600, OPEN500, SS300, 250cc (Gençler-Büyükler) ve Kadınlar olmak üzere farklı sınıflarda sezonun son kupalarını kazanmak için mücadele edecek. Şampiyona, 17 Ekim Cumartesi günü serbest ve ilk sıralama seanslarıyla başlayacak. 18 Ekim Paza",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-12T00:00:00+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
  },
  {
   "id": "8ad383e4b801b469",
@@ -4662,36 +4785,6 @@
   "source": "html"
  },
  {
-  "id": "471dc716e4a45951",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Bakan Bak Formula 1 Öncesi İstanbul Park’ta Sürüş Yaptı",
-  "url": "https://gsb.gov.tr/tr/haber-detay/303568-bakan-bak-formula-1-oncesi-istanbul-parkta-surus-yapti",
-  "summary": "",
-  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/f699da23-20e5-4fd4-9626-aa4a12d548e3.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-08T00:00:00+00:00",
-  "first_seen_at": "2026-10-08T08:52:50+00:00",
-  "source": "html"
- },
- {
-  "id": "80ac838383d047e1",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "FIBA Kadınlar Süper Kupa Şampiyonu Fenerbahçe Tarfin'i Kutlarız",
-  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51601",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-07T21:59:14+00:00",
-  "first_seen_at": "2026-10-07T21:59:14+00:00",
-  "source": "html"
- },
- {
   "id": "7c39783fb6c41f1e",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -4709,21 +4802,6 @@
   "source": "html"
  },
  {
-  "id": "7e0868461c487ce5",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Kadın A Millî Takımımız, Slovenya Maçının Hazırlıklarına Devam Etti",
-  "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51599",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-07T21:59:14+00:00",
-  "first_seen_at": "2026-10-07T21:59:14+00:00",
-  "source": "html"
- },
- {
   "id": "96cddc48b9924164",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -4736,21 +4814,6 @@
   "tags": [
    "milli_takim"
   ],
-  "published_at": "2026-10-07T21:59:14+00:00",
-  "first_seen_at": "2026-10-07T21:59:14+00:00",
-  "source": "html"
- },
- {
-  "id": "3be6313098378822",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "TFF'den Mesajlar Detay Sayfası TFF",
-  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51588",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-10-07T21:59:14+00:00",
   "first_seen_at": "2026-10-07T21:59:14+00:00",
   "source": "html"
@@ -5045,75 +5108,6 @@
   "tags": [],
   "published_at": "2026-10-07T08:36:01+00:00",
   "first_seen_at": "2026-10-07T08:36:01+00:00",
-  "source": "html"
- },
- {
-  "id": "0d0a00bbfad640b7",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» 09-17 Ekim Tiflis Veteranlar Dünya Şampiyonası Epe & Flöre & Kılıç Kafile Listeleri Hk.",
-  "url": "https://www.eskrim.org.tr/09-17-ekim-tiflis-veteranlar-dunya-sampiyonasi-epe-flore-kilic-kafile-listeleri-hk-2645.html",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-07T01:28:32+00:00",
-  "first_seen_at": "2026-10-07T01:28:32+00:00",
-  "source": "html"
- },
- {
-  "id": "c6fb5689ded0b377",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Kuraş Milli Takımımız Avrupa Şampiyonası’nda Zirvede!",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-479-kuras-milli-takimimiz-avrupa-sampiyonasi-nda-zirvede-",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-07T01:28:32+00:00",
-  "first_seen_at": "2026-10-07T01:28:32+00:00",
-  "source": "html"
- },
- {
-  "id": "8af309d9ffd58568",
-  "federation": "karate",
-  "federation_name": "Türkiye Karate Federasyonu",
-  "federation_short": "TKF",
-  "title": "Millî Takımımız Dünya Şampiyonası'na Hazır!",
-  "url": "https://karate.gov.tr/blog_detay.php?id=97",
-  "summary": "HABER Uluslararası Haberler Dünya Ümit, Genç ve U21 Karate Şampiyonası'nda Millî Takımımız, 17 kadın ve 18 erkek olmak üzere toplam 35 sporcuyla ülkemizi temsil edecek.... DEVAMINI OKU",
-  "image": "https://karate.gov.tr/uploads/blog/blog_1791571256_561.webp",
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-07T00:00:00+00:00",
-  "first_seen_at": "2026-10-09T20:55:08+00:00",
-  "source": "html"
- },
- {
-  "id": "df9abb8a8b065d6a",
-  "federation": "gormeengelliler",
-  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
-  "federation_short": "GESF",
-  "title": "Golbol 3. Kademe Kıdemli Antrenör Yetiştirme Kursu Duyurusu",
-  "url": "https://www.gesf.org.tr/haber/golbol-3-kademe-kidemli-antrenor-yetistirme-kursu-duyurusu-100",
-  "summary": "haber Kadın Görme Engelliler Futbol Millî Takımımızdan Tarihî Avrupa Şampiyonluğu Kadın Görme Engelliler Futbol Millî Takımımız, tarihinde ilk kez katıldığı Avrupa Şampiyonası’nı namağlup ve kalesinde tek gol dahi görmeden şampiyon tamamlayarak Türk spor tarihine geçen bir başarıya imza attı. Ay-yıldızlılar, İstanbul’da düzenlenen 43 görüntülenme duyuru Futbol Deplasmanlı Süper Lig 10. Hafta Hakem",
-  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1789762073_b8e39f03.png",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-10-07T00:00:00+00:00",
-  "first_seen_at": "2026-10-08T22:08:27+00:00",
   "source": "html"
  }
 ]

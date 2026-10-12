@@ -1,5 +1,110 @@
 [
  {
+  "id": "6012d4fbf758120f",
+  "federation": "beyzbol",
+  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
+  "federation_short": "TBSF",
+  "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
+  "url": "https://tbsf.org.tr/incele.php?id=Mzg1",
+  "summary": "",
+  "image": "https://tbsf.org.tr/icerikresim/x385.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "73c55a081c51fd74",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Atıcımız Nisa Nur’dan gümüş madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303634/aticimiz-nisa-nurdan-gumus-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "160dcb2d1a0f6f11",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Safiye’den de Avrupa şampiyonluğu!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303635/safiyeden-de-avrupa-sampiyonlugu.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "61f8bee08844f9bf",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Boccede 2 madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303637/boccede-2-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "61de44def033e97a",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Murat’tan da atıcılıkta 1 gümüş madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303639/murattan-da-aticilikta-1-gumus-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "72f559103a2a69ca",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "ilde ‘Amatör Spor Haftası coşkusu!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303632/81-ilde-amator-spor-haftasi-coskusu.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-12T07:18:22+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "45d2216c0d2234b6",
+  "federation": "gelenekselguresler",
+  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
+  "federation_short": "TGGF",
+  "title": "Gölmarmara Belediyesi Yağlı Güreşleri",
+  "url": "https://tggf.org.tr/golmarmara-belediyesi-yagli-guresleri/",
+  "summary": "SONUÇLAR İÇİN TIKLAYINIZ !.. … Devamını Oku",
+  "image": "https://tggf.org.tr/wp-content/uploads/2026/10/golmarama-ilkdort.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-12T05:52:35+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "b752b4a8d9efaeee",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -8,21 +113,6 @@
   "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51629",
   "summary": "",
   "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-12T00:29:36+00:00",
-  "first_seen_at": "2026-10-12T00:29:36+00:00",
-  "source": "html"
- },
- {
-  "id": "be0c74d7062823bd",
-  "federation": "beyzbol",
-  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
-  "federation_short": "TBSF",
-  "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
-  "url": "https://tbsf.org.tr/incele.php?id=MzU1",
-  "summary": "",
-  "image": "https://tbsf.org.tr/icerikresim/x355.jpg",
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-12T00:29:36+00:00",
@@ -64,6 +154,39 @@
   "published_at": "2026-10-12T00:27:49+00:00",
   "first_seen_at": "2026-10-12T00:27:49+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "46887f3b3960cce4",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Üçüncü Kademe Kıdemli Antrenör Uygulama Eğitim Kursu Sınav Sonuçları Açıklandı - Türkiye Voleybol Federasyonu | TVF",
+  "url": "https://tvf.org.tr/icerik/ucuncu-kademe-kidemli-antrenor-uygulama-egitim-kursu-sinav-sonuclari-aciklandi-4",
+  "summary": "12 Ekim 2026 Üçüncü Kademe Kıdemli Antrenör Uygulama Eğitim Kursu Sınav Sonuçları Açıklandı 29 Eylül-3 Ekim 2026 tarihleri arasında Van ilinde düzenlenen Üçüncü Kademe Kıdemli Antrenör Uygulama Eğitim Kursu'nun sınav sonuçları spor bilgi sisteminden yayınlanmıştır. Adaylar, sınav sonuçlarının ilan edilmesinden itibaren beş iş günü içerisinde itiraz edebilir. İtirazlar, on beş iş günü içerisinde incelenerek karara bağlanır. Adaylar, itiraz için dilekçelerini word dosyası olarak [email protected] mail adresine iletebilir. Ders notu erişim kılavuzu için tıklayınız . Eklenme Tarihi: 12 Ekim 2026 L",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-10-12T00:00:00+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "374db52eb04c65cf",
+  "federation": "motosiklet",
+  "federation_name": "Türkiye Motosiklet Federasyonu",
+  "federation_short": "TMF",
+  "title": "Pistte Son Kupalar İstanbul Park’ta Sahibini Bulacak",
+  "url": "https://www.tmf.org.tr/Haberler/Pistte-Son-Kupalar-istanbul-Park-ta-Sahibini-Bulacak/",
+  "summary": "Pistte Son Kupalar İstanbul Park’ta Sahibini Bulacak Türkiye Pist Şampiyonası’nda sezonun son ayak yarışları 17-18 Ekim tarihlerinde İstanbul Park'ta yapılacak. Türkiye Motosiklet Federasyonu 2026 yarış takviminde yer alan Türkiye Pist Şampiyonası’nda sezon İstanbul Park Yarış Pistinde kapanacak. Türkiye Pist Şampiyonası'nda sporcular, SBK, SSP600, STK1000, STK600, OPEN500, SS300, 250cc (Gençler-Büyükler) ve Kadınlar olmak üzere farklı sınıflarda sezonun son kupalarını kazanmak için mücadele edecek. Şampiyona, 17 Ekim Cumartesi günü serbest ve ilk sıralama seanslarıyla başlayacak. 18 Ekim Paza",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-12T00:00:00+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
+  "source": "html"
  },
  {
   "id": "8ad383e4b801b469",
@@ -27120,18 +27243,18 @@
   "source": "html"
  },
  {
-  "id": "fbffb890784f2f7e",
+  "id": "4dfa06f72d562c3d",
   "federation": "universitesporlari",
   "federation_name": "Türkiye Üniversite Sporları Federasyonu",
   "federation_short": "TÜSF",
   "title": "Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
-  "url": "https://tusf.org.tr/Haber.aspx?b=f30488e9-2a2b-46d5-a469-8d5f48d85832&bid=4408&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
+  "url": "https://tusf.org.tr/Haber.aspx?b=28551889-94ac-4687-af7d-265359b05d5c&bid=4371&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
   "summary": "",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-07T00:00:00+00:00",
-  "first_seen_at": "2026-10-12T00:29:36+00:00",
+  "first_seen_at": "2026-10-12T07:18:22+00:00",
   "source": "html"
  },
  {
@@ -106976,150 +107099,6 @@
   ],
   "published_at": "2026-09-22T08:51:45+00:00",
   "first_seen_at": "2026-09-22T08:51:45+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "7b65c9e4182380f9",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Ödül ve Yardım Talimatı",
-  "url": "https://tbbdf.org.tr/tr/odul_ve_yardim_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-22T08:51:45+00:00",
-  "first_seen_at": "2026-09-22T08:51:45+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "d3a3d23416c52487",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Yarışmaları TDF 2020 Yılı Kuralları -Paratırmanış kuralları dahil",
-  "url": "https://drive.google.com/file/d/1ou-mL5l7p1COJlRNelS1y5jCBEaituMA/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-22T08:51:44+00:00",
-  "first_seen_at": "2026-09-22T08:51:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "11cf5675098fb568",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Yarışmaları TDF 2020 IFSC Kural Değişiklikleri Sürüm 3",
-  "url": "https://drive.google.com/file/d/1cgh2NrRwIEQI3aZhOqYHZvyI7IIYJkHu/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-22T08:51:44+00:00",
-  "first_seen_at": "2026-09-22T08:51:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "c39d420498ec5133",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Yarışmaları TDF 2021 Yılı Kuralları -Paratırmanış kuralları dahil",
-  "url": "https://drive.google.com/file/d/18uhlhGUtHuTO_y4j3Pb4e9F7521d6yVE/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-22T08:51:44+00:00",
-  "first_seen_at": "2026-09-22T08:51:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "b6ae73cada19bc63",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Dart Yarışma Talimatı",
-  "url": "https://tbbdf.org.tr/tr/dart_yarisma_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-22T08:51:44+00:00",
-  "first_seen_at": "2026-09-22T08:51:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "fc3b51866f0ffe37",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Disiplin Talimatı",
-  "url": "https://tbbdf.org.tr/tr/disiplin_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-22T08:51:44+00:00",
-  "first_seen_at": "2026-09-22T08:51:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "0df1fa1f82ec13c2",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Harcırah Talimatı",
-  "url": "https://tbbdf.org.tr/tr/harcirah___harcama_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-22T08:51:44+00:00",
-  "first_seen_at": "2026-09-22T08:51:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "1fb3022f5d4ec9ed",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Milli Takımlar Yönergesi",
-  "url": "https://tbbdf.org.tr/tr/milli-takimlar-yonergesi",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-22T08:51:44+00:00",
-  "first_seen_at": "2026-09-22T08:51:44+00:00",
   "source": "mevzuat"
  }
 ]

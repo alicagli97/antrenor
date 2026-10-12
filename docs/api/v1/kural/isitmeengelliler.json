@@ -6,8 +6,8 @@
   "https://tiesf.org.tr/talimat",
   "https://tiesf.org.tr/yonetmelik"
  ],
- "document_count": 24,
- "coach_document_count": 9,
+ "document_count": 23,
+ "coach_document_count": 8,
  "documents": [
   {
    "baslik": "Antrenör Eğitim Talimatı",
@@ -15,13 +15,6 @@
    "tur": "pdf",
    "onemli": true,
    "parmak_izi": "58f36120d3c34a27"
-  },
-  {
-   "baslik": "Devlet Sporculuğu ve Şeref Aylığı İçin Başvuru Dilekçesi Örneği",
-   "url": "https://tiesf.org.tr/dosya/talimat/1764594141_serefayligiicinbasvurudilekcesiornegi.docx",
-   "tur": "word",
-   "onemli": true,
-   "parmak_izi": "950f6bdc232cf477"
   },
   {
    "baslik": "Eğitim Kurulu Talimatı",
@@ -70,7 +63,8 @@
    "url": "https://tiesf.org.tr/talimat",
    "tur": "html",
    "onemli": false,
-   "parmak_izi": "d5f7b50d56db8516"
+   "parmak_izi": "8dade3da241a62da",
+   "guncellendi": "2026-10-12T11:21:30+00:00"
   },
   {
    "baslik": "Federasyon Ligleri Temsilci Talimatı",
@@ -108,6 +102,13 @@
    "parmak_izi": "71eff0349e6c6600"
   },
   {
+   "baslik": "Odyolojik Değerlendirme Talimatı",
+   "url": "https://tiesf.org.tr/dosya/talimat/1791801626_Odyolojik_De_erlendirme_Talimat.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": "345312dd86bc1e2d"
+  },
+  {
    "baslik": "Satın Alma ve Taşınır Mal İşlemleri Talimatı",
    "url": "https://tiesf.org.tr/dosya/talimat/1764594322_satinalmaveihaletalimati.pdf",
    "tur": "pdf",
@@ -120,13 +121,6 @@
    "tur": "pdf",
    "onemli": false,
    "parmak_izi": "71853c6197a6a7f2"
-  },
-  {
-   "baslik": "Şeref Aylığı Artırımı için Başvuru Dilekçesi Örneği",
-   "url": "https://tiesf.org.tr/dosya/talimat/1764594115_serefayligiarttirimiicinbasvurudilekcesiornegi.docx",
-   "tur": "word",
-   "onemli": false,
-   "parmak_izi": "bb257de068147e53"
   },
   {
    "baslik": "Başarılı Sporculara Aylık Bağlanması ve Devlet Sporcusu Unvanı Verilmesi Hakkında Yönetmelik (28.05.2009 / 27241)",
@@ -180,6 +174,6 @@
    "parmak_izi": "538e43c5c02c45f4"
   }
  ],
- "checked_at": "2026-10-12T07:17:06+00:00",
- "list_fingerprint": "9c093fdcef44af52"
+ "checked_at": "2026-10-12T11:21:36+00:00",
+ "list_fingerprint": "9b75970f44107828"
 }

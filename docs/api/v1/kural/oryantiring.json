@@ -6,9 +6,16 @@
   "https://oryantiring.org.tr/talimatlar",
   "https://oryantiring.org.tr/talimat"
  ],
- "document_count": 4,
+ "document_count": 5,
  "coach_document_count": 0,
  "documents": [
+  {
+   "baslik": "bu bağlantıdan",
+   "url": "https://www.oryantiring.org.tr/files/sezon/2026/2026_2027_Sezon_Yaris_Kurallari.pdf",
+   "tur": "pdf",
+   "onemli": false,
+   "parmak_izi": ""
+  },
   {
    "baslik": "Haftalık",
    "url": "https://oryantiring.org.tr/talimatlar#!",
@@ -42,6 +49,6 @@
    "guncellendi": "2026-10-12T11:22:50+00:00"
   }
  ],
- "checked_at": "2026-10-13T00:33:35+00:00",
- "list_fingerprint": "1255cf3a8bd73311"
+ "checked_at": "2026-10-13T07:39:31+00:00",
+ "list_fingerprint": "5394b43ee7990a83"
 }

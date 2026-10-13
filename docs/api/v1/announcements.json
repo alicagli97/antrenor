@@ -1,5 +1,113 @@
 [
  {
+  "id": "83058e1a5e637eb5",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "10. Mali Genel Kurulu Duyurusu (Kesin Delege Listesi)",
+  "url": "https://tgf.org.tr/upload/kesin-delege-listesi_086d3f_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-13T07:42:48+00:00",
+  "first_seen_at": "2026-10-13T07:42:48+00:00",
+  "source": "html"
+ },
+ {
+  "id": "9f80a7aaf00def18",
+  "federation": "beyzbol",
+  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
+  "federation_short": "TBSF",
+  "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
+  "url": "https://tbsf.org.tr/incele.php?id=Mzkw",
+  "summary": "",
+  "image": "https://tbsf.org.tr/icerikresim/x390.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-13T07:42:48+00:00",
+  "first_seen_at": "2026-10-13T07:42:48+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f4c921c960fde0a1",
+  "federation": "oryantiring",
+  "federation_name": "Türkiye Oryantiring Federasyonu",
+  "federation_short": "TOF",
+  "title": "2026-2027 Sezon Yarış Kuralları",
+  "url": "https://oryantiring.org.tr/haberler#2026-2027-sezon-yaris-kurallari",
+  "summary": "Türkiye Oryantiring Federasyonu \"Sezon Yarış Kuralları\" güncellenmiştir. U14 için \" 2) İl Birinciliği Yarışları \" bölümüne f. Bir önceki sezon Türkiye Şampiyonası ve/veya kademe yarışlarında yarışan sporcular il birinciliği yarışları zorunluluğundan muaftır. Maddesi eklenmiştir. Sezon yarış kurallarına bu bağlantıdan ve Sezon sayfasından ulaşabilirsiniz.",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-13T07:42:48+00:00",
+  "first_seen_at": "2026-10-13T07:42:48+00:00",
+  "source": "headings"
+ },
+ {
+  "id": "0a6702adc7ce6be5",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Atıcılarımız Avrupa şampiyonu!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303668/aticilarimiz-avrupa-sampiyonu.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-13T07:42:48+00:00",
+  "first_seen_at": "2026-10-13T07:42:48+00:00",
+  "source": "html"
+ },
+ {
+  "id": "6000b3ca76923da5",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Atıcılarımızdan bronz madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303669/aticilarimizdan-bronz-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-13T07:42:48+00:00",
+  "first_seen_at": "2026-10-13T07:42:48+00:00",
+  "source": "html"
+ },
+ {
+  "id": "01c08120375a6b40",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Ritmik cimnastikte 16 madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303670/ritmik-cimnastikte-16-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-13T07:42:48+00:00",
+  "first_seen_at": "2026-10-13T07:42:48+00:00",
+  "source": "html"
+ },
+ {
+  "id": "33110b2f83b531e9",
+  "federation": "oryantiring",
+  "federation_name": "Türkiye Oryantiring Federasyonu",
+  "federation_short": "TOF",
+  "title": "Yeni mevzuat: bu bağlantıdan",
+  "url": "https://www.oryantiring.org.tr/files/sezon/2026/2026_2027_Sezon_Yaris_Kurallari.pdf",
+  "summary": "Oryantiring federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-10-13T07:39:31+00:00",
+  "first_seen_at": "2026-10-13T07:39:31+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "7b34b748f278268b",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -105,21 +213,6 @@
    "antrenor",
    "kurs"
   ],
-  "published_at": "2026-10-13T00:34:50+00:00",
-  "first_seen_at": "2026-10-13T00:34:50+00:00",
-  "source": "html"
- },
- {
-  "id": "6012d4fbf758120f",
-  "federation": "beyzbol",
-  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
-  "federation_short": "TBSF",
-  "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
-  "url": "https://tbsf.org.tr/incele.php?id=Mzg1",
-  "summary": "",
-  "image": "https://tbsf.org.tr/icerikresim/x385.jpg",
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-10-13T00:34:50+00:00",
   "first_seen_at": "2026-10-13T00:34:50+00:00",
   "source": "html"
@@ -231,6 +324,39 @@
   "published_at": "2026-10-13T00:33:07+00:00",
   "first_seen_at": "2026-10-13T00:33:07+00:00",
   "source": "takvim-excel"
+ },
+ {
+  "id": "d9799de70216fb5f",
+  "federation": "yelken",
+  "federation_name": "Türkiye Yelken Federasyonu",
+  "federation_short": "TYF",
+  "title": "8. Mali Genel Kurul ile ilgili Hatırlatma",
+  "url": "https://www.tyf.org.tr/duyurular/bilgilendirme/8-mali-genel-kurul-ile-ilgili-hatirlatma/315829/",
+  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular 8. Mali Genel Kurul ile ilgili Hatırlatma 8. Mali Genel Kurul ile ilgili Hatırlatma 13.10.2026 Duyurular 19 Paylaş Tweetle Değerli Kulüplerimiz, Türkiye Yelken Federasyonu’nun 8. Mali Genel Kurulu, 14 Ekim 2026 saat 13:30'da , Ankara’da, The Green Park Hotel Ankara’da gerçekleştirilecektir. 14 Ekim 2026 t",
+  "image": "https://portal.tyf.org.tr/content/images/pageimages/image-not-found.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-13T00:00:00+00:00",
+  "first_seen_at": "2026-10-13T07:42:48+00:00",
+  "source": "html"
+ },
+ {
+  "id": "16866ab3d1106e81",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "2026 - 2027 Sezonu Antrenör Vize ve Gelişim Mazeret Seminerleri yapılacak.",
+  "url": "https://tbbdf.org.tr/2026-2027-sezonu-antrenor-vize-ve-gelisim-mazeret-seminerleri-yapilacak--1",
+  "summary": ", Salı 2026 - 2027 Sezonu Antrenör Vize ve Gelişim Mazeret Seminerleri, Federasyon Başkanlığımızın Akademi sayfası üzerinden...",
+  "image": "https://tbbdf.org.tr/images/tr.gif",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "vize"
+  ],
+  "published_at": "2026-10-13T00:00:00+00:00",
+  "first_seen_at": "2026-10-13T07:42:48+00:00",
+  "source": "html"
  },
  {
   "id": "bdee8a2ed2e9c2db",
@@ -32876,18 +33002,18 @@
   "source": "html"
  },
  {
-  "id": "4dfa06f72d562c3d",
+  "id": "fbffb890784f2f7e",
   "federation": "universitesporlari",
   "federation_name": "Türkiye Üniversite Sporları Federasyonu",
   "federation_short": "TÜSF",
   "title": "Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
-  "url": "https://tusf.org.tr/Haber.aspx?b=28551889-94ac-4687-af7d-265359b05d5c&bid=4371&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
+  "url": "https://tusf.org.tr/Haber.aspx?b=f30488e9-2a2b-46d5-a469-8d5f48d85832&bid=4408&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
   "summary": "",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-07T00:00:00+00:00",
-  "first_seen_at": "2026-10-13T00:34:50+00:00",
+  "first_seen_at": "2026-10-13T07:42:48+00:00",
   "source": "html"
  },
  {
@@ -106937,225 +107063,6 @@
   ],
   "published_at": "2026-09-23T08:53:44+00:00",
   "first_seen_at": "2026-09-23T08:53:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "0d9252449346cc39",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "Mevzuat güncellendi: Başa dön tuşu",
-  "url": "https://tossfed.gov.tr/yonetmelikler/#go-to-tie-body",
-  "summary": "Türkiye Özel Sporcular Spor Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-23T08:53:29+00:00",
-  "first_seen_at": "2026-09-23T08:53:29+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "3bd0414373659f28",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "Mevzuat güncellendi: Spor Hizmet ve Faaliyetlerinde Üstün Başarı Gösterenlerin Ödüllendirilmesi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2010956&MevzuatTur=3&MevzuatTertip=5",
-  "summary": "Türkiye Özel Sporcular Spor Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-23T08:53:29+00:00",
-  "first_seen_at": "2026-09-23T08:53:29+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "11b46de2bd432447",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "Mevzuat güncellendi: Önceki sayfa",
-  "url": "https://tossfed.gov.tr/yonetmelikler/",
-  "summary": "Türkiye Özel Sporcular Spor Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-23T08:53:29+00:00",
-  "first_seen_at": "2026-09-23T08:53:29+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "0d7574e6507af7b1",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "Mevzuat güncellendi: Olimpik ve Paralimpik Sporcu Yetiştirilmesine Dair Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38618&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Türkiye Özel Sporcular Spor Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-23T08:53:28+00:00",
-  "first_seen_at": "2026-09-23T08:53:28+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "b9ad06ac81a6dd42",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "Mevzuat güncellendi: Bağımsız Spor Federasyonlarının Çalışma Usul ve Esasları Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=16396&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Türkiye Özel Sporcular Spor Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-23T08:53:28+00:00",
-  "first_seen_at": "2026-09-23T08:53:28+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "8984712059f11b7a",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "Mevzuat güncellendi: Millî Sporcu Belgesi Verilmesi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=34607&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Türkiye Özel Sporcular Spor Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-23T08:53:27+00:00",
-  "first_seen_at": "2026-09-23T08:53:27+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "5e3df07ce1408cdf",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "Mevzuat güncellendi: Başarılı Sporculara Aylık Bağlanması ve Devlet Sporcusu Unvanı Verilmesi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13077&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Türkiye Özel Sporcular Spor Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-09-23T08:53:26+00:00",
-  "first_seen_at": "2026-09-23T08:53:26+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "1a59f81f4b5f7d3f",
-  "federation": "motosiklet",
-  "federation_name": "Türkiye Motosiklet Federasyonu",
-  "federation_short": "TMF",
-  "title": "Mevzuat güncellendi: Logo ve TMF Bilgilendirme Rehberi",
-  "url": "https://www.tmf.org.tr/mevzuat/Logo-ve-TMF-Bilgilendirme-Rehberi/",
-  "summary": "Türkiye Motosiklet Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-23T08:53:05+00:00",
-  "first_seen_at": "2026-09-23T08:53:05+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "d193559a54b13bfe",
-  "federation": "bisiklet",
-  "federation_name": "Türkiye Bisiklet Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: Skip to content",
-  "url": "https://bisiklet.org.tr/yonetmelik-ve-talimatlar/#content",
-  "summary": "Türkiye Bisiklet Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-23T08:52:44+00:00",
-  "first_seen_at": "2026-09-23T08:52:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "3a80f23b75e09324",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: ISMF Dağ Kayağı Müsabaka Kuralları (Türkçe)",
-  "url": "https://drive.google.com/file/d/1BXY_BVgAy8r3PFYijOIzecLHtASwuLfu/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-23T08:52:41+00:00",
-  "first_seen_at": "2026-09-23T08:52:41+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "ca683f95db512b61",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: IFSC 2018 Rules 2018 modification V1.5 (English)",
-  "url": "https://drive.google.com/file/d/1MGuQvQxg-ZS4V8b41fuE_ea_PXw294tO/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-23T08:52:40+00:00",
-  "first_seen_at": "2026-09-23T08:52:40+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "18e40546e22455cb",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: IFSC 2018 Rules 2018 V1.5 (English)",
-  "url": "https://drive.google.com/file/d/1kclftr4XZMvkjTDGGBPUbGcUxrOIvBV3/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-23T08:52:40+00:00",
-  "first_seen_at": "2026-09-23T08:52:40+00:00",
   "source": "mevzuat"
  }
 ]

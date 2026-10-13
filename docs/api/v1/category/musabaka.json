@@ -1,5 +1,56 @@
 [
  {
+  "id": "bcd3167d07cf04e9",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "UEFA'dan Kadir Sağlam'a Görev",
+  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51643",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-13T15:54:55+00:00",
+  "first_seen_at": "2026-10-13T15:54:55+00:00",
+  "source": "html"
+ },
+ {
+  "id": "83d9a5237cb6918b",
+  "federation": "dagcilik",
+  "federation_name": "Türkiye Dağcılık Federasyonu",
+  "federation_short": "TDF",
+  "title": "2026 Spor Tırmanış Türkiye Şampiyonası (Boulder, Lider, Speed) 14-21 Kasım-ANKARA",
+  "url": "https://tdf.tr/2026-spor-tirmanis-turkiye-sampiyonasi-boulder-lider-speed-14-21-kasim-ankara/",
+  "summary": "Federasyonumuzun 2026 Yıllık faaliyet programında yer alan “Spor Tırmanış Büyükler, Gençler Genç-A, Genç-B ve Yıldızlar, Boulder, Lider ve Speed Türkiye Şampiyonası” 14-21 Kasım 2026 tarihleri arasında Ankara’da gerçekleştirilecektir. Yarışma Kategorileri Yaş Grubu Kategori Doğum Tarihi Aralığı 13–14 Yıldızlar 01/01/2013 – 31/12/2014 15–16 Genç B 01/01/2011 – 31/12/2012 17–18 Genç A 01/01/2009 – 31/12/2010 19–20 Gençler […]",
+  "image": "https://tdf.tr/wp-content/uploads/2026/10/2026-Spor-Tirmanis-Turkiye-Sampiyonasi.png",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-13T15:09:41+00:00",
+  "first_seen_at": "2026-10-13T15:54:55+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "9dd00bbbebfc0d88",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Büşra Işıkhan, Antalya'da Düzenlenecek Kadınlar 2026 Avrupa Şampiyonası Öncesinde Açıklamalarda Bulundu",
+  "url": "https://thf.org.tr/haber/busra-isikhan-antalyada-duzenlenecek-kadinlar-2026-avrupa-sampiyonasi-oncesinde-aciklamalarda-bulundu",
+  "summary": "Türkiye, hentbol tarihinde ilk kez bir Avrupa Şampiyonası’na ev sahipliği yapmaya hazırlanıyor. Türkiye’nin de ev sahibi ülkeler arasında yer aldığı 2026 Hentbol Kadınlar Avrupa Şampiyonası’nın (EURO 2026) Antalya etabı, 3, 5 ve 7 Aralık 2026 tarihlerinde gerçekleştirilecek. Antalya Spor Salonu’nda oynanacak C Grubu karşılaşmalarında Kadın A Milli Takımımız, Danimarka, İspanya ve Yunanistan ile mücadele edecek. Millilerimiz, gruptaki ilk maçında 3 Aralık Perşembe günü saat 18.30’da Yunanistan ile karşılaşacak. Ay-yıldızlılarımız, ikinci maçında 5 Aralık Cumartesi günü saat 21.00’de Danimarka, ",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-13T13:59:51+00:00",
+  "first_seen_at": "2026-10-13T15:54:55+00:00",
+  "source": "api"
+ },
+ {
   "id": "509367d1db3b85aa",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3368,58 +3419,6 @@
   ],
   "published_at": "2026-10-01T05:42:42+00:00",
   "first_seen_at": "2026-10-01T05:42:42+00:00",
-  "source": "html"
- },
- {
-  "id": "ffe75a6c78a9979e",
-  "federation": "bilardo",
-  "federation_name": "Türkiye Bilardo Federasyonu",
-  "federation_short": "TBF",
-  "title": "Türkiye Bilardo Federasyonu | Haberler | Kadınlar, Gençler U17, U21 ve U25 3 Bant Türkiye Şampiyonaları 2026 2.Etap ve Final Etabı Başvuruları Açılmıştır",
-  "url": "https://www.bilardo.org.tr/haberler/kadinlar,-gencler-u17,-u21-ve-u25-3-bant-turkiye-sampiyonalari-2026-2.etap-ve-final-etabi-basvurulari-acilmistir-1155",
-  "summary": "Başvurular 30 Eylül- tarihleri arasında alınacaktır. Haber Tarihi: 30 September 2026 TAYFUN TAŞDEMİR’DEN DÜNYA ŞAMPİYONASI’NDA BRONZ MADALYA! Fransa Haber Tarihi: 28 September 2026 2026 SNOOKER A LİGİ 2. ETAP TÜRKİYE ŞAMPİYONASI 2026 Türkiye Snooker Şampiyonası A Ligi 2. Etap 9-10-11 Ekim Tarihleri arasında Anadolu Snooker Spor Kulübü - Alt Kat Snooker & Pool Cafe salonunda yapılacaktır. Haber Tar",
-  "image": "https://www.bilardo.org.tr/image/120/90/4eca12a2663d700b9eba0245c8c6b875.png",
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "burs"
-  ],
-  "published_at": "2026-09-30T19:10:20+00:00",
-  "first_seen_at": "2026-09-30T19:10:20+00:00",
-  "source": "html"
- },
- {
-  "id": "312145654de08843",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Nesine 2. ve 3. Lig'de 5. Hafta Müsabaka Görevlileri Açıklandı",
-  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51488",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-30T13:38:46+00:00",
-  "first_seen_at": "2026-09-30T13:38:46+00:00",
-  "source": "html"
- },
- {
-  "id": "bc909007886d4a39",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U-16 Milli Takım Haber Detay Sayfası TFF",
-  "url": "https://www.tff.org/default.aspx?pageID=281&ftxtID=51485",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-09-30T06:40:12+00:00",
-  "first_seen_at": "2026-09-30T06:40:12+00:00",
   "source": "html"
  }
 ]

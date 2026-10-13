@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-13T00:34:50+00:00",
- "total": 5988,
- "new_in_last_run": 543,
+ "generated_at": "2026-10-13T06:00:22+00:00",
+ "total": 5992,
+ "new_in_last_run": 4,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -11,10 +11,12 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-10-13T00:34:50+00:00",
  "categories": {
-  "duyuru": 628,
+  "duyuru": 632,
   "kurs": 142,
   "takvim": 77,
   "musabaka": 275,
@@ -68,6 +70,7 @@
   "otomobil": 26,
   "buzhokeyi": 21,
   "kano": 12,
+  "basketbol": 26,
   "tenis": 12,
   "badminton": 17,
   "gormeengelliler": 47,
@@ -79,7 +82,6 @@
   "yuzme": 35,
   "pentatlon": 2,
   "wushu": 11,
-  "basketbol": 22,
   "kurek": 2,
   "kaykay": 4,
   "karate": 5,

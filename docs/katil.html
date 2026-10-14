@@ -27,6 +27,11 @@ a{color:var(--accent)}
      text-decoration:none;font-weight:600;font-size:17px;padding:15px 20px;
      border-radius:10px}
 .btn.alt{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.adim{display:flex;gap:12px;align-items:flex-start}
+.adim .no{flex:0 0 26px;height:26px;border-radius:50%;background:var(--accent);
+          color:#fff;font:700 14px/26px system-ui;text-align:center}
+.adim > div{flex:1;display:flex;flex-direction:column;gap:8px}
+.adim strong{font-size:16px}
 .gizli{display:none}
 nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;
     border-top:1px solid var(--line);padding-top:16px}
@@ -50,17 +55,33 @@ nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;
 <!-- Android -->
 <div class="card gizli" id="android">
   <h2>Android</h2>
-  <p>Android sürümü şu an <strong>kapalı test</strong> aşamasında. Google,
+  <p>Android sürümü şu an <strong>kapalı test</strong> aşamasında: Google,
   uygulamayı herkese açmadan önce bir süre test edilmesini şart koşuyor.
-  Katılmak ücretsiz ve birkaç dakika sürüyor:</p>
-  <ol>
-    <li>Aşağıdaki formu doldurun, Google hesabınızın e-posta adresini yazın.</li>
-    <li>Adresinizi test listesine ekleyelim.</li>
-    <li>Size indirme bağlantısını e-postayla gönderelim.</li>
-  </ol>
-  <a class="btn" id="form-bag" href="#">Test listesine katıl</a>
-  <p class="muted">E-posta adresiniz yalnızca test davetini göndermek için
-  kullanılır, üçüncü tarafla paylaşılmaz.</p>
+  Katılmak ücretsiz, iki adım sürüyor.</p>
+
+  <div class="adim">
+    <span class="no">1</span>
+    <div>
+      <strong>Test grubuna katıl</strong>
+      <p class="muted">Açılan sayfada <em>"Gruba katıl"</em> düğmesine basın.
+      Google hesabınızla giriş yapmış olmanız gerekir.</p>
+      <a class="btn" href="https://groups.google.com/g/antrenor-android-test">Gruba katıl</a>
+    </div>
+  </div>
+
+  <div class="adim">
+    <span class="no">2</span>
+    <div>
+      <strong>Uygulamayı indir</strong>
+      <p class="muted">Açılan sayfada <em>"Test kullanıcısı ol"</em> deyin,
+      ardından çıkan Google Play bağlantısından indirin.</p>
+      <a class="btn alt" href="https://play.google.com/apps/testing/com.antrenorapp.antrenor">İndirme sayfasını aç</a>
+    </div>
+  </div>
+
+  <p class="muted">İlk adımı atlamayın — gruba katılmadan indirme sayfası
+  "uygulama bulunamadı" der. Grup üyeliğiniz yalnızca test erişimi için
+  kullanılır; gruba ileti gönderilmez ve diğer üyeler adresinizi görmez.</p>
 </div>
 
 <!-- Bilgisayar / tanınmayan cihaz -->
@@ -69,7 +90,7 @@ nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;
   <p class="muted">Bu sayfayı telefonunuzdan açarsanız doğrudan mağazaya
   yönlendirilirsiniz. Elle seçmek için:</p>
   <a class="btn" href="https://apps.apple.com/tr/app/id6804263306">iPhone — App Store</a>
-  <a class="btn alt" id="form-bag2" href="#">Android — test listesine katıl</a>
+  <a class="btn alt" href="https://groups.google.com/g/antrenor-android-test">Android — test grubuna katıl</a>
 </div>
 
 <nav>
@@ -81,32 +102,13 @@ nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;
 
 </div>
 <script>
-// Android kapalı test başvuru formu. Form kurulunca bu adres değişecek;
-// QR kodlar bu sayfaya baktığı için yeniden baskı gerekmiyor.
-var FORM = "";
-
 (function () {
   var ua = navigator.userAgent || "";
   var iOS = /iPad|iPhone|iPod/.test(ua) ||
             (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1); // iPadOS
   var android = /Android/.test(ua);
-
-  var hedef = iOS ? "ios" : (android ? "android" : "diger");
-  document.getElementById(hedef).classList.remove("gizli");
-
-  // Form adresi henüz girilmemişse Android'i de el seçimine düşür: ölü
-  // bağlantı göstermek, "hangisi?" diye sormaktan kötü.
-  ["form-bag", "form-bag2"].forEach(function (id) {
-    var a = document.getElementById(id);
-    if (!a) return;
-    if (FORM) { a.href = FORM; }
-    else {
-      a.removeAttribute("href");
-      a.textContent = "Test listesi başvurusu birazdan açılıyor";
-      a.style.opacity = ".55";
-      a.style.cursor = "default";
-    }
-  });
+  document.getElementById(iOS ? "ios" : (android ? "android" : "diger"))
+          .classList.remove("gizli");
 })();
 </script>
 </body></html>

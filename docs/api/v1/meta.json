@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T18:32:37+00:00",
- "total": 5989,
- "new_in_last_run": 529,
+ "generated_at": "2026-10-14T18:49:52+00:00",
+ "total": 5996,
+ "new_in_last_run": 7,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -11,11 +11,13 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-10-14T18:32:37+00:00",
  "categories": {
-  "duyuru": 637,
-  "musabaka": 273,
+  "duyuru": 642,
+  "musabaka": 275,
   "mevzuat": 4823,
   "takvim": 75,
   "kurs": 140,
@@ -64,6 +66,7 @@
   "aticilik": 61,
   "bisiklet": 31,
   "boks": 37,
+  "basketbol": 31,
   "gures": 14,
   "karate": 8,
   "kano": 12,
@@ -77,7 +80,6 @@
   "muaythai": 84,
   "sualti": 15,
   "buzhokeyi": 21,
-  "basketbol": 24,
   "tenis": 14,
   "taekwondo": 10,
   "havasporlari": 22,

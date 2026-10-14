@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T18:49:52+00:00",
- "total": 5996,
- "new_in_last_run": 7,
+ "generated_at": "2026-10-14T22:15:49+00:00",
+ "total": 5989,
+ "new_in_last_run": 518,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -11,14 +11,12 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": [
-  "basketbol"
- ],
- "latest_published_at": "2026-10-14T18:32:37+00:00",
+ "partial_run": null,
+ "latest_published_at": "2026-10-14T22:15:49+00:00",
  "categories": {
+  "musabaka": 277,
   "duyuru": 642,
-  "musabaka": 275,
-  "mevzuat": 4823,
+  "mevzuat": 4814,
   "takvim": 75,
   "kurs": 140,
   "haber": 41
@@ -31,11 +29,12 @@
   }
  ],
  "federation_counts": {
-  "futbol": 181,
+  "futbol": 182,
+  "beyzbol": 25,
+  "badminton": 17,
   "golf": 436,
   "bedenselengelliler": 27,
   "isitmeengelliler": 11,
-  "beyzbol": 25,
   "gormeengelliler": 47,
   "gelismekteolan": 53,
   "eskrim": 192,
@@ -46,7 +45,7 @@
   "buzpateni": 437,
   "shgm": 39,
   "halter": 12,
-  "gsb": 695,
+  "gsb": 686,
   "okculuk": 43,
   "izcilik": 584,
   "ragbi": 61,
@@ -76,7 +75,6 @@
   "vucutgelistirme": 21,
   "judo": 3,
   "sportoto": 10,
-  "badminton": 16,
   "muaythai": 84,
   "sualti": 15,
   "buzhokeyi": 21,

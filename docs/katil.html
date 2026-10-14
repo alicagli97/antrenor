@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Uygulamayı indir — Antrenör</title>
+<meta name="description" content="Antrenör uygulamasını iPhone veya Android cihazınıza indirin.">
+<style>
+:root{--bg:#EDF0F3;--card:#fff;--line:#DCE2E8;--ink:#101720;--ink2:#4C5966;
+      --ink3:#7A8794;--accent:#A8201A;--ok:#12674A}
+@media (prefers-color-scheme:dark){:root{--bg:#0C1015;--card:#141A21;--line:#28323D;
+      --ink:#E7ECF1;--ink2:#A7B3BF;--ink3:#7B8896;--accent:#E4635A;--ok:#4CBE92}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+     font:16px/1.62 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:560px;margin:0 auto;padding:40px 20px 80px;display:flex;
+      flex-direction:column;gap:20px}
+.eyebrow{font:600 11px/1 ui-monospace,Consolas,monospace;letter-spacing:.16em;
+         text-transform:uppercase;color:var(--accent)}
+h1{font-size:30px;line-height:1.14;letter-spacing:-.02em;margin:8px 0 0}
+h2{font-size:18px;margin:0 0 4px}
+p,ol{margin:0}
+ol{padding-left:20px;display:flex;flex-direction:column;gap:6px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;
+      padding:20px 22px;display:flex;flex-direction:column;gap:12px}
+.muted{color:var(--ink3);font-size:14px}
+a{color:var(--accent)}
+.btn{display:block;text-align:center;background:var(--accent);color:#fff;
+     text-decoration:none;font-weight:600;font-size:17px;padding:15px 20px;
+     border-radius:10px}
+.btn.alt{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+.gizli{display:none}
+nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;
+    border-top:1px solid var(--line);padding-top:16px}
+</style></head>
+<body><div class="wrap">
+
+<header>
+  <div class="eyebrow">65 federasyon, tek akış</div>
+  <h1>Antrenör'ü indir</h1>
+  <p class="muted">Antrenör kursu, vize semineri, kademe ve hakem duyuruları —
+  her federasyonun sitesini tek tek gezmeden.</p>
+</header>
+
+<!-- iPhone / iPad -->
+<div class="card gizli" id="ios">
+  <h2>iPhone veya iPad</h2>
+  <p class="muted">App Store'da yayında, ücretsiz.</p>
+  <a class="btn" id="ios-bag" href="https://apps.apple.com/tr/app/id6804263306">App Store'dan indir</a>
+</div>
+
+<!-- Android -->
+<div class="card gizli" id="android">
+  <h2>Android</h2>
+  <p>Android sürümü şu an <strong>kapalı test</strong> aşamasında. Google,
+  uygulamayı herkese açmadan önce bir süre test edilmesini şart koşuyor.
+  Katılmak ücretsiz ve birkaç dakika sürüyor:</p>
+  <ol>
+    <li>Aşağıdaki formu doldurun, Google hesabınızın e-posta adresini yazın.</li>
+    <li>Adresinizi test listesine ekleyelim.</li>
+    <li>Size indirme bağlantısını e-postayla gönderelim.</li>
+  </ol>
+  <a class="btn" id="form-bag" href="#">Test listesine katıl</a>
+  <p class="muted">E-posta adresiniz yalnızca test davetini göndermek için
+  kullanılır, üçüncü tarafla paylaşılmaz.</p>
+</div>
+
+<!-- Bilgisayar / tanınmayan cihaz -->
+<div class="card gizli" id="diger">
+  <h2>Hangi cihazı kullanıyorsunuz?</h2>
+  <p class="muted">Bu sayfayı telefonunuzdan açarsanız doğrudan mağazaya
+  yönlendirilirsiniz. Elle seçmek için:</p>
+  <a class="btn" href="https://apps.apple.com/tr/app/id6804263306">iPhone — App Store</a>
+  <a class="btn alt" id="form-bag2" href="#">Android — test listesine katıl</a>
+</div>
+
+<nav>
+  <a href="./index.html">Ana sayfa</a>
+  <a href="./gizlilik.html">Gizlilik</a>
+  <a href="./kosullar.html">Kullanım koşulları</a>
+  <a href="./destek.html">Destek</a>
+</nav>
+
+</div>
+<script>
+// Android kapalı test başvuru formu. Form kurulunca bu adres değişecek;
+// QR kodlar bu sayfaya baktığı için yeniden baskı gerekmiyor.
+var FORM = "";
+
+(function () {
+  var ua = navigator.userAgent || "";
+  var iOS = /iPad|iPhone|iPod/.test(ua) ||
+            (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1); // iPadOS
+  var android = /Android/.test(ua);
+
+  var hedef = iOS ? "ios" : (android ? "android" : "diger");
+  document.getElementById(hedef).classList.remove("gizli");
+
+  // Form adresi henüz girilmemişse Android'i de el seçimine düşür: ölü
+  // bağlantı göstermek, "hangisi?" diye sormaktan kötü.
+  ["form-bag", "form-bag2"].forEach(function (id) {
+    var a = document.getElementById(id);
+    if (!a) return;
+    if (FORM) { a.href = FORM; }
+    else {
+      a.removeAttribute("href");
+      a.textContent = "Test listesi başvurusu birazdan açılıyor";
+      a.style.opacity = ".55";
+      a.style.cursor = "default";
+    }
+  });
+})();
+</script>
+</body></html>

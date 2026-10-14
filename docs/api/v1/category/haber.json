@@ -1,5 +1,37 @@
 [
  {
+  "id": "2e9915a64b2dd7ae",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Milli boksörlerimizden 6 madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303697/milli-boksorlerimizden-6-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-14T13:39:21+00:00",
+  "first_seen_at": "2026-10-14T13:39:21+00:00",
+  "source": "html"
+ },
+ {
+  "id": "3b5b0af24313f1ff",
+  "federation": "halter",
+  "federation_name": "Türkiye Halter Federasyonu",
+  "federation_short": "THF",
+  "title": "Merve ve Tuba bronz kazandı",
+  "url": "https://halter.gov.tr/merve-ve-tuba-bronz-kazandi/",
+  "summary": "Arnavutluk Durres şehrinde organize edilen Gençler ve U23 Avrupa Halter Şampiyonası üçüncü gününde kadınlar U23 57 kiloda Merve İldem toplamda 187 kilo ile bronz madalya kazandı. Sporcumuz koparmada 83, silkmede ise 104 kiloluk derece elde etti. Aynı kiloda yarışan Tuba Kılınç ise silkmede 105 kilo ile bronz madalyanın sahibi olurken koparmada 81 toplamda ise 186 […]",
+  "image": null,
+  "category": "haber",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-14T13:16:12+00:00",
+  "first_seen_at": "2026-10-14T13:39:21+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "a8a71d2907baa2e2",
   "federation": "halter",
   "federation_name": "Türkiye Halter Federasyonu",
@@ -590,36 +622,6 @@
   "tags": [],
   "published_at": "2026-09-25T13:41:25+00:00",
   "first_seen_at": "2026-09-25T13:41:25+00:00",
-  "source": "html"
- },
- {
-  "id": "5a01f7a8052953f0",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Boksta 2 madalya daha!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303205/boksta-2-madalya-daha.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-24T15:00:06+00:00",
-  "first_seen_at": "2026-09-24T15:00:06+00:00",
-  "source": "html"
- },
- {
-  "id": "6e7ce34654f7e67f",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Boksörlerimizden 2 bronz madalya!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303187/boksorlerimizden-2-bronz-madalya.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-24T09:57:31+00:00",
-  "first_seen_at": "2026-09-24T09:57:31+00:00",
   "source": "html"
  }
 ]

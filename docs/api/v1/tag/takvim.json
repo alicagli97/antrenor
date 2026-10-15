@@ -1,5 +1,23 @@
 [
  {
+  "id": "e8d0660a0b23dba0",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-15T22:09:42+00:00",
+  "first_seen_at": "2026-10-15T22:09:42+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "11cb746caaa44437",
   "federation": "masatenisi",
   "federation_name": "Türkiye Masa Tenisi Federasyonu",
@@ -1275,24 +1293,6 @@
   ],
   "published_at": "2026-09-27T18:17:55+00:00",
   "first_seen_at": "2026-09-27T18:17:55+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "b941e7163efab330",
-  "federation": "vucutgelistirme",
-  "federation_name": "Türkiye Vücut Geliştirme, Fitness ve Bilek Güreşi Federasyonu",
-  "federation_short": "TVGFBF",
-  "title": "Vücut Geliştirme & Fitness faaliyet takviminde değişiklik",
-  "url": "https://tvgfbf.gov.tr/etkinlikler",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-27T01:20:56+00:00",
-  "first_seen_at": "2026-09-27T01:20:56+00:00",
   "source": "takvim-html"
  }
 ]

@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-14T22:15:49+00:00",
- "total": 5989,
- "new_in_last_run": 518,
+ "generated_at": "2026-10-15T01:26:09+00:00",
+ "total": 5990,
+ "new_in_last_run": 516,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -12,10 +12,10 @@
  ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-14T22:15:49+00:00",
+ "latest_published_at": "2026-10-15T01:26:09+00:00",
  "categories": {
+  "duyuru": 643,
   "musabaka": 277,
-  "duyuru": 642,
   "mevzuat": 4814,
   "takvim": 75,
   "kurs": 140,
@@ -29,8 +29,8 @@
   }
  ],
  "federation_counts": {
+  "beyzbol": 26,
   "futbol": 182,
-  "beyzbol": 25,
   "badminton": 17,
   "golf": 436,
   "bedenselengelliler": 27,

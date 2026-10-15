@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-15T01:26:09+00:00",
+ "generated_at": "2026-10-15T07:22:14+00:00",
  "total": 5990,
- "new_in_last_run": 516,
+ "new_in_last_run": 515,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -12,11 +12,11 @@
  ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-15T01:26:09+00:00",
+ "latest_published_at": "2026-10-15T07:22:14+00:00",
  "categories": {
-  "duyuru": 643,
+  "duyuru": 644,
   "musabaka": 277,
-  "mevzuat": 4814,
+  "mevzuat": 4813,
   "takvim": 75,
   "kurs": 140,
   "haber": 41
@@ -45,7 +45,7 @@
   "buzpateni": 437,
   "shgm": 39,
   "halter": 12,
-  "gsb": 686,
+  "gsb": 685,
   "okculuk": 43,
   "izcilik": 584,
   "ragbi": 61,
@@ -63,11 +63,11 @@
   "cimnastik": 33,
   "binicilik": 261,
   "aticilik": 61,
-  "bisiklet": 31,
+  "bisiklet": 30,
   "boks": 37,
+  "karate": 10,
   "basketbol": 31,
   "gures": 14,
-  "karate": 8,
   "kano": 12,
   "hokey": 24,
   "kurek": 3,

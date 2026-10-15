@@ -1,5 +1,20 @@
 [
  {
+  "id": "c594b77d1f89f436",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Güreşçilerimizden 4 madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303751/gurescilerimizden-4-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-15T13:29:48+00:00",
+  "first_seen_at": "2026-10-15T13:29:48+00:00",
+  "source": "html"
+ },
+ {
   "id": "2e9915a64b2dd7ae",
   "federation": "shgm",
   "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
@@ -76,6 +91,21 @@
   "tags": [],
   "published_at": "2026-10-13T07:42:48+00:00",
   "first_seen_at": "2026-10-13T07:42:48+00:00",
+  "source": "html"
+ },
+ {
+  "id": "55797df35c75378d",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "Milli Petankçılarımızdan Avrupa’da 1 Altın, 1 Bronz Madalya",
+  "url": "https://tbbdf.org.tr/milli-petankcilarimizdan-avrupada-1-altin-1-bronz-madalya",
+  "summary": ", Salı Yunanistan’ın Loutraki kentinde düzenlenen Avrupa Kadınlar Bocce (Petank) Şampiyonası’nda millî sporcularımız, 1 altın ve 1 bronz...",
+  "image": "https://tbbdf.org.tr/images/tr.gif",
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-13T00:00:00+00:00",
+  "first_seen_at": "2026-10-15T13:29:48+00:00",
   "source": "html"
  },
  {
@@ -607,21 +637,6 @@
   "tags": [],
   "published_at": "2026-09-28T00:00:00+00:00",
   "first_seen_at": "2026-09-28T21:54:45+00:00",
-  "source": "html"
- },
- {
-  "id": "31fb0d1b84e62dbb",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Esra’dan da bir bronz madalya!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303227/esradan-da-bir-bronz-madalya.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-25T13:41:25+00:00",
-  "first_seen_at": "2026-09-25T13:41:25+00:00",
   "source": "html"
  }
 ]

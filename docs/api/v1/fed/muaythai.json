@@ -1,5 +1,20 @@
 [
  {
+  "id": "439bd4e36dad51a8",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "KHAN SINAVI",
+  "url": "https://muaythai.gov.tr/2026/10/15/khan-sinavi-3/",
+  "summary": "Sınava katılacak adayların aşağıdaki belgeleri hazırlayarak sınav tarihinde komisyona vermeleri gereklidir. İlgililere duyurulur. Sınav Kayıt : 25 Ekim",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2020/04/khan-sınavı.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-15T11:54:21+00:00",
+  "first_seen_at": "2026-10-15T13:29:48+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "d2d9e315828c6cd1",
   "federation": "muaythai",
   "federation_name": "Türkiye Muaythai Federasyonu",
@@ -1049,24 +1064,6 @@
   ],
   "published_at": "2026-09-30T10:03:36+00:00",
   "first_seen_at": "2026-09-30T10:03:36+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "11e90a4bb710ab86",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "Mevzuat güncellendi: Yönetmelik",
-  "url": "https://muaythai.gov.tr/tag/yonetmelik/",
-  "summary": "Türkiye Muaythai Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-30T10:03:35+00:00",
-  "first_seen_at": "2026-09-30T10:03:35+00:00",
   "source": "mevzuat"
  }
 ]

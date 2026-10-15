@@ -1,5 +1,35 @@
 [
  {
+  "id": "c594b77d1f89f436",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Güreşçilerimizden 4 madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303751/gurescilerimizden-4-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-15T13:29:48+00:00",
+  "first_seen_at": "2026-10-15T13:29:48+00:00",
+  "source": "html"
+ },
+ {
+  "id": "66e28747870242a2",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "ETTU’dan Prof. Dr. Çakır’a Onur Ödülü!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303740/ettudan-prof-dr-cakira-onur-odulu.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-15T13:29:48+00:00",
+  "first_seen_at": "2026-10-15T13:29:48+00:00",
+  "source": "html"
+ },
+ {
   "id": "2e9915a64b2dd7ae",
   "federation": "shgm",
   "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
@@ -539,51 +569,6 @@
   ],
   "published_at": "2026-09-27T00:00:00+00:00",
   "first_seen_at": "2026-09-28T15:21:31+00:00",
-  "source": "html"
- },
- {
-  "id": "c7ed08451b159783",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Kick boksta 2 dünya şampiyonluğu!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303236/kick-boksta-2-dunya-sampiyonlugu.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-25T13:41:25+00:00",
-  "first_seen_at": "2026-09-25T13:41:25+00:00",
-  "source": "html"
- },
- {
-  "id": "9963b64f20df270f",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Havvanur, Avrupa şampiyonu!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303226/havvanur-avrupa-sampiyonu.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-25T13:41:25+00:00",
-  "first_seen_at": "2026-09-25T13:41:25+00:00",
-  "source": "html"
- },
- {
-  "id": "31fb0d1b84e62dbb",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Esra’dan da bir bronz madalya!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303227/esradan-da-bir-bronz-madalya.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-09-25T13:41:25+00:00",
-  "first_seen_at": "2026-09-25T13:41:25+00:00",
   "source": "html"
  }
 ]

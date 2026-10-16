@@ -1,17 +1,32 @@
 [
  {
-  "id": "91b7779876486092",
+  "id": "785b9d97a4e4efdd",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "Yılı Olağan Mali Genel Kurul Duyurusu",
+  "url": "https://www.tyf.gov.tr/haber/2026-yili-olagan-mali-genel-kurul-duyurusu.html",
+  "summary": "01.01.2026 - 30.09.2026 DENETİM KURULU RAPORU 01.01.2025 - 31.12.2025 DENETİM KURULU RAPORU 01.10.2024 - 31.12.2024 DENETİM KURULU RAPORU 2027-2028 SEZONU FAALİYET TAKVİMLERİ (TASLAK) 2026-2027 SEZONU FAALİYET TAKVİMLERİ (TASLAK) 2025-2026 SEZONU FAALİYETLERİ 2024-2025 SEZONU FAALİYETLERİ TÜRKİYE YÜZME FEDERASYONU 2027 YILI TAHMİNİ BÜTÇESİ TÜRKİYE YÜZME FEDERASYONU 2028 YILI TAHMİNİ BÜTÇESİ",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/default/default_y.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-17T00:00:00+00:00",
+  "first_seen_at": "2026-10-16T23:39:21+00:00",
+  "source": "html"
+ },
+ {
+  "id": "761b2b6fabf3ba99",
   "federation": "beyzbol",
   "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
   "federation_short": "TBSF",
   "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
-  "url": "https://tbsf.org.tr/incele.php?id=MzI5",
+  "url": "https://tbsf.org.tr/incele.php?id=Mzgy",
   "summary": "",
-  "image": "https://tbsf.org.tr/icerikresim/x329.jpg",
+  "image": "https://tbsf.org.tr/icerikresim/x382.jpg",
   "category": "duyuru",
   "tags": [],
-  "published_at": "2026-10-16T21:00:40+00:00",
-  "first_seen_at": "2026-10-16T21:00:40+00:00",
+  "published_at": "2026-10-16T23:39:21+00:00",
+  "first_seen_at": "2026-10-16T23:39:21+00:00",
   "source": "html"
  },
  {
@@ -302,6 +317,21 @@
   "published_at": "2026-10-16T07:00:39+00:00",
   "first_seen_at": "2026-10-16T07:06:43+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "971b8e875c18d5d3",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Tahkim Kurulu Kararları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=247&ftxtID=51677",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-16T00:00:00+00:00",
+  "first_seen_at": "2026-10-16T23:39:21+00:00",
+  "source": "html"
  },
  {
   "id": "ae0d608e7fd0e7a5",
@@ -3079,36 +3109,6 @@
   "tags": [],
   "published_at": "2026-10-09T08:56:03+00:00",
   "first_seen_at": "2026-10-09T08:56:03+00:00",
-  "source": "html"
- },
- {
-  "id": "b17fd06edfb10aac",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Atıcımız Egemen, Avrupa şampiyonu!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303594/aticimiz-egemen-avrupa-sampiyonu.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-09T08:56:03+00:00",
-  "first_seen_at": "2026-10-09T08:56:03+00:00",
-  "source": "html"
- },
- {
-  "id": "68b78ef17d32f4ad",
-  "federation": "hokey",
-  "federation_name": "Türkiye Hokey Federasyonu",
-  "federation_short": "THF",
-  "title": "Tertip Komitesi Kararı",
-  "url": "https://www.turkhokey.gov.tr/haber/10178/tertip-komitesi-karari",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-09T02:03:39+00:00",
-  "first_seen_at": "2026-10-09T02:03:39+00:00",
   "source": "html"
  }
 ]

@@ -1,5 +1,24 @@
 [
  {
+  "id": "810e1fbf668d164b",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "Jujitsu Aday Hakem Kursu",
+  "url": "https://muaythai.gov.tr/2026/10/16/jujitsu-aday-hakem-kursu-2/",
+  "summary": "Jujitsu Aday Hakem Kursu 24-25 Ekim 2026 tarihlerinde Adana’da açılacaktır. İlgili kursa Jujitsu Hakem Talimatında belirtilen hakem olabilme",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2026/10/JUJITSU-ADAY-HAKEM-KURSU.jpeg",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem",
+   "mevzuat"
+  ],
+  "published_at": "2026-10-16T13:27:45+00:00",
+  "first_seen_at": "2026-10-16T17:22:41+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "439bd4e36dad51a8",
   "federation": "muaythai",
   "federation_name": "Türkiye Muaythai Federasyonu",
@@ -1046,24 +1065,6 @@
   ],
   "published_at": "2026-09-30T10:03:37+00:00",
   "first_seen_at": "2026-09-30T10:03:37+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a483e99d4fda3d3c",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "Mevzuat güncellendi: Muaythai Oyun Kuralları",
-  "url": "https://muaythai.gov.tr/2018/04/04/muaythai-oyun-kurallari/",
-  "summary": "Türkiye Muaythai Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-30T10:03:36+00:00",
-  "first_seen_at": "2026-09-30T10:03:36+00:00",
   "source": "mevzuat"
  }
 ]

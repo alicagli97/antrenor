@@ -1,18 +1,121 @@
 [
  {
-  "id": "c32d149a989b6cbd",
+  "id": "0a52a2359a66a7ad",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "World Tennis Konferansı ve Seçimli Genel Kurulu Türkiye Tenis Federasyonu Ev Sahipliğinde İstanbul’da Düzenlenecek",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/596",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 2027 2027 World Tennis Konferansı ve Seçimli Genel Kurulu, 4- tarihinde Türkiye Tenis Federasyonu ev sahipliğinde İstanbul’da gerçekleştirilecek. Uluslararası tenis camiasının temsilcilerini bir araya getirecek organizasyonun Türkiye’de düzenleneceğini, Türkiye Tenis Federasyonu Başkanı Şafak Müderrisgil, Kazakistan’ın Almatı kentinde gerçekleştir 17 Ekim 20",
+  "image": "http://www.ttf.org.tr/public/news_post/6ad354221d988_1792234530.jpeg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-17T13:40:47+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "66e847cf9071608c",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "3. Kademe Yüzme Antrenörü Yetiştirme Kursu 12-16 Ekim 2026 Ankara",
+  "url": "https://www.tyf.gov.tr/haber/3-kademe-yuzme-antrenoru-yetistirme-kursu-12-16-ekim-2026-ankara.html",
+  "summary": "BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-09/1493/1790621180_y.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-10-17T13:40:47+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "84b3d62a26204a8f",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Test Yarışması / Ankara",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-ankara-13060606",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-17T13:40:47+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ab90084bce6387dc",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-13414101",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-17T13:40:47+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "3328e7bfab088623",
+  "federation": "bedenselengelliler",
+  "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
+  "federation_short": "TBESF",
+  "title": "Oturarak Voleybol 1. Kademe Antrenör Uygulama Bütünleme Kursu",
+  "url": "https://www.tbesf.org.tr/tr/oturarak-voleybol-1-kademe-antrenor-uygulama-butunleme-kurs",
+  "summary": "0 % Oturarak Voleybol 1. Kademe Antrenör Uygulama Bütünleme Kursu 1. Kademe Antrenör Uygulama Bütünleme Kursu’na Katılacak Kursiyerlerin Dikkatine Kursa katılım sağlayacak kursiyerlerin, başvuru dilekçelerini tbesfkulup@gmail.com e-posta adresine göndermeleri gerekmektedir. Dilekçede, hangi uygulama bütünlemesinden kaldığınızı belirtmeniz gerekmektedir. Son Gönderim Tarihi: 2 Ekim Cuma Saat 17.00 Ayrıca, e-posta yoluyla gönderilen dilekçelerin ıslak imzalı asıllarının kurs sırasında kursiyerler tarafından yanlarında getirilmesi gerekmektedir. Kursiyerlerin herhangi bir aksaklık yaşamamaları ad",
+  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/6110-6366-6435-oturarak-voleybol-duyurusu.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-10-17T13:40:47+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "91b7779876486092",
   "federation": "beyzbol",
   "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
   "federation_short": "TBSF",
   "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
-  "url": "https://tbsf.org.tr/incele.php?id=Mzkx",
+  "url": "https://tbsf.org.tr/incele.php?id=MzI5",
   "summary": "",
-  "image": "https://tbsf.org.tr/icerikresim/x391.jpg",
+  "image": "https://tbsf.org.tr/icerikresim/x329.jpg",
   "category": "duyuru",
   "tags": [],
-  "published_at": "2026-10-17T09:14:38+00:00",
-  "first_seen_at": "2026-10-17T09:14:38+00:00",
+  "published_at": "2026-10-17T13:40:47+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
   "source": "html"
+ },
+ {
+  "id": "64530bf10108b537",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-17T13:39:11+00:00",
+  "first_seen_at": "2026-10-17T13:39:11+00:00",
+  "source": "takvim-html"
  },
  {
   "id": "958efa4cf9452fe3",
@@ -2369,6 +2472,153 @@
   "source": "wp_json"
  },
  {
+  "id": "095f58afbe5781c3",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurul Hakkında",
+  "url": "https://tgf.tr/haberler/turkiye-gures-federasyonu-baskanligi-mali-genel-kurul-hakkinda",
+  "summary": "ANTRENÖRLER İÇİN UZAKTAN EĞİTİM ve GELİŞİM SEMİNERLERİ 14.10.2026 2026 MALİ GENEL KURUL KESİN DELEGE LİSTESİ 07.10.2026 TÜRKİYE GÜREŞ FEDERAYONU BAŞKANLIĞI MALİ GENEL KURUL GEÇİCİ DELEGE LİSTESİ Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurulu kapsamında hazırlanan Geçici Delege Listesi aşağıda yayımlanmıştı... 29.09.2026 Mali Genel Kurul 07.08.2026 Minikler Gelişim Kampı Hakkında Türkiye Gü",
+  "image": "https://tgf.tr/storage/media/images/01M3P3BXDWT8E8A306Q29GJQRP.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-16T00:00:00+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "8333196e6ef3a8ee",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "Minikler Gelişim Kampı Hakkında",
+  "url": "https://tgf.tr/haberler/minikler-gelisim-kampi-hakkinda",
+  "summary": "ANTRENÖRLER İÇİN UZAKTAN EĞİTİM ve GELİŞİM SEMİNERLERİ 14.10.2026 2026 MALİ GENEL KURUL KESİN DELEGE LİSTESİ 07.10.2026 TÜRKİYE GÜREŞ FEDERAYONU BAŞKANLIĞI MALİ GENEL KURUL GEÇİCİ DELEGE LİSTESİ Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurulu kapsamında hazırlanan Geçici Delege Listesi aşağıda yayımlanmıştı... 29.09.2026 Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurul Hakkında Mali Ge",
+  "image": "https://tgf.tr/storage/media/images/01M0K5KXEXE9GNTJQSS8JH7WNM.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-16T00:00:00+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "1c65345b8f73560c",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "Türkiye Güreş Federasyonu 2026 Yılı 9-10-11-12-13-14 Yaşminikler Türkiye Şampiyonası İllere Verilen Kontenjan ve Teknik Konular Hakkında",
+  "url": "https://tgf.tr/haberler/turkiye-gures-federasyonu2026-yili-9-10-11-12-13-14-yasminikler-turkiye-sampiyonasiillere-verilen-kontenjan-ve-teknik-konular-hakkinda",
+  "summary": "ANTRENÖRLER İÇİN UZAKTAN EĞİTİM ve GELİŞİM SEMİNERLERİ 14.10.2026 2026 MALİ GENEL KURUL KESİN DELEGE LİSTESİ 07.10.2026 TÜRKİYE GÜREŞ FEDERAYONU BAŞKANLIĞI MALİ GENEL KURUL GEÇİCİ DELEGE LİSTESİ Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurulu kapsamında hazırlanan Geçici Delege Listesi aşağıda yayımlanmıştı... 29.09.2026 Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurul Hakkında Mali Ge",
+  "image": "https://tgf.tr/storage/media/images/haber-duyuru-kapak-cj4s6ce9.png",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-16T00:00:00+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "2e56c0aeb458afc6",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "U20 Serbest Güreş Türkiye Şampiyonası’nda İkinci Gün Tamamlandı",
+  "url": "https://tgf.tr/haberler/u20-serbest-gures-turkiye-sampiyonasinda-ikinci-gun-tamamlandi-9084",
+  "summary": "ANTRENÖRLER İÇİN UZAKTAN EĞİTİM ve GELİŞİM SEMİNERLERİ 14.10.2026 2026 MALİ GENEL KURUL KESİN DELEGE LİSTESİ 07.10.2026 TÜRKİYE GÜREŞ FEDERAYONU BAŞKANLIĞI MALİ GENEL KURUL GEÇİCİ DELEGE LİSTESİ Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurulu kapsamında hazırlanan Geçici Delege Listesi aşağıda yayımlanmıştı... 29.09.2026 Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurul Hakkında Mali Ge",
+  "image": "https://tgf.tr/storage/media/images/img-4806-1536x1152-xijccsbi.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-16T00:00:00+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "db2a857a59973a6b",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "Uluslararası Yaşar Doğu, Vehbi Emre ve Hamit Kaplan Turnuvası Sona Erdi",
+  "url": "https://tgf.tr/haberler/uluslararasi-yasar-dogu-vehbi-emre-ve-hamit-kaplan-turnuvasi-sona-erdi",
+  "summary": "ANTRENÖRLER İÇİN UZAKTAN EĞİTİM ve GELİŞİM SEMİNERLERİ 14.10.2026 2026 MALİ GENEL KURUL KESİN DELEGE LİSTESİ 07.10.2026 TÜRKİYE GÜREŞ FEDERAYONU BAŞKANLIĞI MALİ GENEL KURUL GEÇİCİ DELEGE LİSTESİ Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurulu kapsamında hazırlanan Geçici Delege Listesi aşağıda yayımlanmıştı... 29.09.2026 Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurul Hakkında Mali Ge",
+  "image": "https://tgf.tr/storage/imports/tgf/2026/01/a4135839-364e-4d74-9730-26f988e3602d.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-16T00:00:00+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "43b7ef95cfea7b8b",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "Uluslararası Yaşar Doğu, Vehbi Emre ve Hamit Kaplan Turnuvası’nda İkinci Gün Tamamlandı",
+  "url": "https://tgf.tr/haberler/uluslararasi-yasar-dogu-vehbi-emre-ve-hamit-kaplan-turnuvasinda-ikinci-gun-tamamlandi-8923",
+  "summary": "ANTRENÖRLER İÇİN UZAKTAN EĞİTİM ve GELİŞİM SEMİNERLERİ 14.10.2026 2026 MALİ GENEL KURUL KESİN DELEGE LİSTESİ 07.10.2026 TÜRKİYE GÜREŞ FEDERAYONU BAŞKANLIĞI MALİ GENEL KURUL GEÇİCİ DELEGE LİSTESİ Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurulu kapsamında hazırlanan Geçici Delege Listesi aşağıda yayımlanmıştı... 29.09.2026 Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurul Hakkında Mali Ge",
+  "image": "https://tgf.tr/storage/media/images/407aedab-eaa1-4e81-b624-1b7f3ae1bff2-1536x1152-l4pyefzz.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-16T00:00:00+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0902f785c02fce46",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "Büyükler Serbest Güreş Türkiye Şampiyonası Sona Erdi",
+  "url": "https://tgf.tr/haberler/buyukler-serbest-gures-turkiye-sampiyonasi-sona-erdi",
+  "summary": "ANTRENÖRLER İÇİN UZAKTAN EĞİTİM ve GELİŞİM SEMİNERLERİ 14.10.2026 2026 MALİ GENEL KURUL KESİN DELEGE LİSTESİ 07.10.2026 TÜRKİYE GÜREŞ FEDERAYONU BAŞKANLIĞI MALİ GENEL KURUL GEÇİCİ DELEGE LİSTESİ Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurulu kapsamında hazırlanan Geçici Delege Listesi aşağıda yayımlanmıştı... 29.09.2026 Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurul Hakkında Mali Ge",
+  "image": "https://tgf.tr/storage/media/images/00346661-a421-4792-bf4d-260c052d7ebb-1536x1023-d0czqmfw.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-16T00:00:00+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "96e24d454a568b18",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "Türkiye Olimpiyat Hazırlık Merkezleri ile Sporcu Yetiştirme Merkezleri Hakkında",
+  "url": "https://tgf.tr/haberler/duyuru",
+  "summary": "ANTRENÖRLER İÇİN UZAKTAN EĞİTİM ve GELİŞİM SEMİNERLERİ 14.10.2026 2026 MALİ GENEL KURUL KESİN DELEGE LİSTESİ 07.10.2026 TÜRKİYE GÜREŞ FEDERAYONU BAŞKANLIĞI MALİ GENEL KURUL GEÇİCİ DELEGE LİSTESİ Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurulu kapsamında hazırlanan Geçici Delege Listesi aşağıda yayımlanmıştı... 29.09.2026 Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurul Hakkında Mali Ge",
+  "image": "https://tgf.tr/storage/news/01KXH10NN8J4NZ23FVPCB12YX8.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-16T00:00:00+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "db65f98b1803257d",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "Büyükler Grekoromen Güreş ve Kadınlar Türkiye Şampiyonası Sona Erdi",
+  "url": "https://tgf.tr/haberler/buyukler-grekoromen-gures-ve-kadinlar-turkiye-sampiyonasi-sona-erdi",
+  "summary": "ANTRENÖRLER İÇİN UZAKTAN EĞİTİM ve GELİŞİM SEMİNERLERİ 14.10.2026 2026 MALİ GENEL KURUL KESİN DELEGE LİSTESİ 07.10.2026 TÜRKİYE GÜREŞ FEDERAYONU BAŞKANLIĞI MALİ GENEL KURUL GEÇİCİ DELEGE LİSTESİ Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurulu kapsamında hazırlanan Geçici Delege Listesi aşağıda yayımlanmıştı... 29.09.2026 Türkiye Güreş Federasyonu Başkanlığı Mali Genel Kurul Hakkında Mali Ge",
+  "image": "https://tgf.tr/storage/media/images/01kw5607nv7ndgvgnqmrgh28w4-ntctxqyu.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-16T00:00:00+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
   "id": "448e0810707659ac",
   "federation": "karate",
   "federation_name": "Türkiye Karate Federasyonu",
@@ -4704,105 +4954,6 @@
   "source": "html"
  },
  {
-  "id": "a779f93a6f9d3eff",
-  "federation": "gormeengelliler",
-  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
-  "federation_short": "GESF",
-  "title": "B2-b3 Futsal Millî Takım Seçme Kampı Aksaray’da Gerçekleştirilecek",
-  "url": "https://www.gesf.org.tr/haber/b2-b3-futsal-mill-takim-secme-kampi-aksarayda-gerceklestirilecek-113",
-  "summary": "duyuru Türkiye Görme Engelliler Spor Federasyonu’nun 2026 yılı faaliyet programı kapsamında, B2-B3 Futsal Avrupa Şampiyonası Millî Takım Seçme Kampı, 27 Ekim – tarihleri arasında Aksaray’da gerçekleştirilecektir. Millî takım kadrosunun olu 13.10.2026 169 görüntülenme duyuru Futbol Deplasmanlı Süper Lig 11. Hafta Hakem ve Görevli Listesi Yayınlandı Futbol Deplasmanlı Süper Lig 11. Hafta Hakem ve Gö",
-  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1791877965_017ff5af.png",
-  "category": "duyuru",
-  "tags": [
-   "milli_takim"
-  ],
-  "published_at": "2026-10-13T15:54:55+00:00",
-  "first_seen_at": "2026-10-13T15:54:55+00:00",
-  "source": "html"
- },
- {
-  "id": "89a377c1e561d1d5",
-  "federation": "oryantiring",
-  "federation_name": "Türkiye Oryantiring Federasyonu",
-  "federation_short": "TOF",
-  "title": "Genel Kurul Duyurusu",
-  "url": "https://oryantiring.org.tr/haberler#genel-kurul-duyurusu",
-  "summary": "TÜRKİYE ORYANTİRİNG FEDERASYONU 4. MALİ Federasyonumuz 4. Mali Genel Kurul Toplantısı, 31 Ekim 2026 Cumartesi günü, saat 10.00 'da, The Green Park Hotel ’de (Adres: Kızılırmak Mahallesi 1443 Cad. No: 39 Çukurambar / Çankaya / Ankara) çoğunluk sağlanamadığı takdirde ikinci toplantı 01 Kasım 2026 Pazar günü aynı yer ve saatte çoğunluk aranmaksızın yapılacaktır. 4. Mali Genel Kurul Toplantısına ilişk",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-13T15:54:55+00:00",
-  "first_seen_at": "2026-10-13T15:54:55+00:00",
-  "source": "headings"
- },
- {
-  "id": "dd2fe920a5d9f210",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Ekim 2026 Kuraş Online Hakem Terfi Kursu ve Sınavı",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-504-31-ekim-2026-kuras-online-hakem-terfi-kursu-ve-sinavi",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "terfi",
-   "hakem"
-  ],
-  "published_at": "2026-10-13T15:54:55+00:00",
-  "first_seen_at": "2026-10-13T15:54:55+00:00",
-  "source": "html"
- },
- {
-  "id": "e642a0d64f3ae03f",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Ekim 2026 Savate 1. ve 2. Dang Sınavları / Kütahya",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-503-31-ekim-2026-savate-1.-ve-2.-dang-sinavlari-kutahya",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-13T15:54:55+00:00",
-  "first_seen_at": "2026-10-13T15:54:55+00:00",
-  "source": "html"
- },
- {
-  "id": "18042b7d762173c2",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Ekim - 01 Kasım 2026 Savate Aday Hakem Kursu / Kütahya",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-502-31-ekim---01-kasim-2026-savate-aday-hakem-kursu-kutahya",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-10-13T15:54:55+00:00",
-  "first_seen_at": "2026-10-13T15:54:55+00:00",
-  "source": "html"
- },
- {
-  "id": "311f8b4d72aadaa6",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "AXA Sigorta Erkekler Şampiyonlar Kupası’nın sahibi Galatasaray!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303672/axa-sigorta-erkekler-sampiyonlar-kupasinin-sahibi-galatasaray.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-13T15:54:55+00:00",
-  "first_seen_at": "2026-10-13T15:54:55+00:00",
-  "source": "html"
- },
- {
   "id": "00383fe3cd2fc43f",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -4952,159 +5103,6 @@
   ],
   "published_at": "2026-10-13T00:34:50+00:00",
   "first_seen_at": "2026-10-13T00:34:50+00:00",
-  "source": "html"
- },
- {
-  "id": "431ee425ca53d6e8",
-  "federation": "oryantiring",
-  "federation_name": "Türkiye Oryantiring Federasyonu",
-  "federation_short": "TOF",
-  "title": "Türkiye Oryantiring Şampiyonası 1.kademe Tokat Yarışı - 14-16 Kasım",
-  "url": "https://oryantiring.org.tr/haberler#turkiye-oryantiring-sampiyonasi-1-kademe-tokat-yarisi-14-16-",
-  "summary": "TÜRKİYE ORYANTİRİNG ŞAMPİYONASI 1.KADEME YARIŞI - TOKAT 14-16 Kasım 2026 tarihleri arasında Tokat ilinde düzenlenecek olan Türkiye Oryantiring Şampiyonası 1.Kademe Yarışı Bülten 1 ve Özel Yarış Kuralları yayınlanmıştır. Duyuru belgelerinden inceleyebilirsiniz.",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "musabaka"
-  ],
-  "published_at": "2026-10-13T00:34:50+00:00",
-  "first_seen_at": "2026-10-13T00:34:50+00:00",
-  "source": "headings"
- },
- {
-  "id": "23d1b87e171d2467",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-13T00:33:10+00:00",
-  "first_seen_at": "2026-10-13T00:33:10+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "55797df35c75378d",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Milli Petankçılarımızdan Avrupa’da 1 Altın, 1 Bronz Madalya",
-  "url": "https://tbbdf.org.tr/milli-petankcilarimizdan-avrupada-1-altin-1-bronz-madalya",
-  "summary": ", Salı Yunanistan’ın Loutraki kentinde düzenlenen Avrupa Kadınlar Bocce (Petank) Şampiyonası’nda millî sporcularımız, 1 altın ve 1 bronz...",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-10-13T00:00:00+00:00",
-  "first_seen_at": "2026-10-15T13:29:48+00:00",
-  "source": "html"
- },
- {
-  "id": "437262dd62612eff",
-  "federation": "basketbol",
-  "federation_name": "Türkiye Basketbol Federasyonu",
-  "federation_short": "TBF",
-  "title": "Ekim - 08 Kasım 2026 Tarihleri Arasında Oynanacak TB2L Müsabakaları Hakem Görevlendirmeleri 13.10.2026",
-  "url": "https://www.tbf.org.tr/haber/30-ekim-08-kasim-2026-tarihleri-arasinda-oynanacak-tb2l-musabakalari-hakem-gorevlendirmeleri-2026-10-13",
-  "summary": "",
-  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/f21f7dbc4d164992aab99f65032b1390_TBFLOGO...jpg",
-  "category": "musabaka",
-  "tags": [
-   "hakem",
-   "musabaka"
-  ],
-  "published_at": "2026-10-13T00:00:00+00:00",
-  "first_seen_at": "2026-10-14T18:49:52+00:00",
-  "source": "html"
- },
- {
-  "id": "16866ab3d1106e81",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "2026 - 2027 Sezonu Antrenör Vize ve Gelişim Mazeret Seminerleri yapılacak.",
-  "url": "https://tbbdf.org.tr/2026-2027-sezonu-antrenor-vize-ve-gelisim-mazeret-seminerleri-yapilacak--1",
-  "summary": ", Salı 2026 - 2027 Sezonu Antrenör Vize ve Gelişim Mazeret Seminerleri, Federasyon Başkanlığımızın Akademi sayfası üzerinden...",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "vize"
-  ],
-  "published_at": "2026-10-13T00:00:00+00:00",
-  "first_seen_at": "2026-10-13T07:42:48+00:00",
-  "source": "html"
- },
- {
-  "id": "302d9deccb0645b3",
-  "federation": "badminton",
-  "federation_name": "Türkiye Badminton Federasyonu",
-  "federation_short": "TBF",
-  "title": "🏆 İstanbul’da 1 Gümüş, 2 Bronz Madalya! 🇹🇷",
-  "url": "https://www.badminton.org.tr/%f0%9f%8f%86-istanbulda-1-gumus-2-bronz-madalya-%f0%9f%87%b9%f0%9f%87%b7/",
-  "summary": "7-11 Ekim 2026 tarihleri arasında İstanbul’da düzenlenen Navek Türkiye International Challenge 2026 Turnuvası’nı 1 Gümüş ve 2 Bronz madalya ile tamamladık! 🏸✨ Kürsüye çıkan başarılı sporcularımız:🥈 Çift Kadınlar Gümüş Madalya: Bengisu Erçetin – Nazlıcan İnci🥉 Çift Kadınlar Bronz Madalya: Yasemen Bektaş – Sinem Yıldız🥉 Çift Erkekler Bronz Madalya: Emre Sönmez – Buğra Aktaş Turnuvada derece […]",
-  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/10/IMG_5741.JPG-scaled.jpeg",
-  "category": "haber",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-12T19:31:13+00:00",
-  "first_seen_at": "2026-10-13T21:13:04+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "509367d1db3b85aa",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Bölgesel Amatör Ligi Haber Detay Sayfası TFF",
-  "url": "https://www.tff.org/default.aspx?pageID=982&ftxtID=51634",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-12T17:48:24+00:00",
-  "first_seen_at": "2026-10-12T17:48:24+00:00",
-  "source": "html"
- },
- {
-  "id": "42417ce8559f8593",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Kadın U19 Millî Takımımız, Slovakya'yı 5-3 Mağlup Etti",
-  "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51636",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-10-12T17:48:24+00:00",
-  "first_seen_at": "2026-10-12T17:48:24+00:00",
-  "source": "html"
- },
- {
-  "id": "a6f2e642402edcfe",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Nesine 2. ve 3. Lig'de Haftanın Canlı Yayınlanacak Maçları Belirlendi",
-  "url": "https://www.tff.org/default.aspx?pageID=285&ftxtID=51633",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-12T17:48:24+00:00",
-  "first_seen_at": "2026-10-12T17:48:24+00:00",
   "source": "html"
  }
 ]

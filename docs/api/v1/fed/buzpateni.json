@@ -1,5 +1,39 @@
 [
  {
+  "id": "84b3d62a26204a8f",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Test Yarışması / Ankara",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-ankara-13060606",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-17T13:40:47+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ab90084bce6387dc",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-13414101",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-17T13:40:47+00:00",
+  "first_seen_at": "2026-10-17T13:40:47+00:00",
+  "source": "html"
+ },
+ {
   "id": "19f92ca39127bb78",
   "federation": "buzpateni",
   "federation_name": "Türkiye Buz Pateni Federasyonu",
@@ -1043,43 +1077,6 @@
   ],
   "published_at": "2026-10-15T08:36:34+00:00",
   "first_seen_at": "2026-10-15T08:36:34+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "8e14ffc92af4fd30",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Mevzuat güncellendi: Short Track Federasyon Kupası - 4 Yarışma Talimatı...",
-  "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-4-yarisma-talimati-1144",
-  "summary": "Türkiye Buz Pateni Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-15T08:36:34+00:00",
-  "first_seen_at": "2026-10-15T08:36:34+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "63ed91f8d1c741cd",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Mevzuat güncellendi: Short Track Başkent Kupası Revize Yarışma Talimatı...",
-  "url": "https://buzpateni.org.tr/bildiri-detay/short-track-baskent-kupasi-revize-yarisma-talimati-11",
-  "summary": "Türkiye Buz Pateni Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-15T08:36:33+00:00",
-  "first_seen_at": "2026-10-15T08:36:33+00:00",
   "source": "mevzuat"
  }
 ]

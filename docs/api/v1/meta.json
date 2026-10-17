@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-17T13:40:48+00:00",
+ "generated_at": "2026-10-17T17:03:56+00:00",
  "total": 5992,
- "new_in_last_run": 542,
+ "new_in_last_run": 524,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -12,7 +12,7 @@
  ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-17T13:40:47+00:00",
+ "latest_published_at": "2026-10-17T17:03:56+00:00",
  "categories": {
   "duyuru": 626,
   "kurs": 125,
@@ -39,11 +39,11 @@
   }
  ],
  "federation_counts": {
+  "beyzbol": 28,
   "tenis": 16,
   "yuzme": 31,
   "buzpateni": 437,
   "bedenselengelliler": 24,
-  "beyzbol": 28,
   "eskrim": 194,
   "masatenisi": 93,
   "gsb": 682,

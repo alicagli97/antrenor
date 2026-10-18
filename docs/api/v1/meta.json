@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-18T20:34:49+00:00",
+ "generated_at": "2026-10-18T23:03:03+00:00",
  "total": 5993,
- "new_in_last_run": 518,
+ "new_in_last_run": 516,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -12,7 +12,7 @@
  ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-18T22:12:17+00:00",
+ "latest_published_at": "2026-10-18T23:03:03+00:00",
  "categories": {
   "duyuru": 653,
   "takvim": 70,
@@ -39,8 +39,8 @@
   }
  ],
  "federation_counts": {
-  "hentbol": 38,
   "beyzbol": 29,
+  "hentbol": 38,
   "halter": 15,
   "buzpateni": 439,
   "cimnastik": 31,

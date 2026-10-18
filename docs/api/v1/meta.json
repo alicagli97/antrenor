@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-17T22:14:20+00:00",
- "total": 5992,
+ "generated_at": "2026-10-18T00:55:09+00:00",
+ "total": 5993,
  "new_in_last_run": 524,
  "sources_ok": 64,
  "sources_failed": [
@@ -12,9 +12,9 @@
  ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-17T22:14:20+00:00",
+ "latest_published_at": "2026-10-18T00:55:09+00:00",
  "categories": {
-  "duyuru": 636,
+  "duyuru": 637,
   "kurs": 125,
   "takvim": 70,
   "mevzuat": 4857,
@@ -39,7 +39,7 @@
   }
  ],
  "federation_counts": {
-  "beyzbol": 28,
+  "beyzbol": 29,
   "tenis": 16,
   "yuzme": 31,
   "buzpateni": 437,

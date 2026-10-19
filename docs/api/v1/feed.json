@@ -1,18 +1,113 @@
 [
  {
-  "id": "aab1af6f43a64063",
+  "id": "c0a111d658416651",
   "federation": "beyzbol",
   "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
   "federation_short": "TBSF",
   "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
-  "url": "https://tbsf.org.tr/incele.php?id=Mzk1",
+  "url": "https://tbsf.org.tr/incele.php?id=NDAw",
   "summary": "",
-  "image": "https://tbsf.org.tr/icerikresim/x395.jpg",
+  "image": "https://tbsf.org.tr/icerikresim/x400.jpg",
   "category": "duyuru",
   "tags": [],
-  "published_at": "2026-10-19T01:13:06+00:00",
-  "first_seen_at": "2026-10-19T01:13:06+00:00",
+  "published_at": "2026-10-19T06:09:42+00:00",
+  "first_seen_at": "2026-10-19T06:09:42+00:00",
   "source": "html"
+ },
+ {
+  "id": "1c9929043e8b52ae",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "Yeni mevzuat: Antrenör Eğitim Talimatı",
+  "url": "https://tbbdf.org.tr/antrenor_egitim_talimati",
+  "summary": "Bocce, Bowling & Dart federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-10-19T06:08:07+00:00",
+  "first_seen_at": "2026-10-19T06:08:07+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "724c25f5bb5a4522",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "Yeni mevzuat: Boccia Sporcu Lisans, Vize ve...",
+  "url": "https://tbbdf.org.tr/boccia-sporcu-lisans-vize-ve-transfer-talimati",
+  "summary": "Bocce, Bowling & Dart federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-10-19T06:08:07+00:00",
+  "first_seen_at": "2026-10-19T06:08:07+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "50e1673f4dd0fdfb",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "Yeni mevzuat: Eğitim Altyapı ve Yardım...",
+  "url": "https://tbbdf.org.tr/egitim__altyapi_ve_kuluplere_yardim_talimati",
+  "summary": "Bocce, Bowling & Dart federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-10-19T06:08:07+00:00",
+  "first_seen_at": "2026-10-19T06:08:07+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "b36ad9b84cc78d3f",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "Yeni mevzuat: Hakem Talimatı",
+  "url": "https://tbbdf.org.tr/hakem_talimati",
+  "summary": "Bocce, Bowling & Dart federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-10-19T06:08:07+00:00",
+  "first_seen_at": "2026-10-19T06:08:07+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "32bd8fc4b86b0e2f",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "Yeni mevzuat: Hakem Yönergesi",
+  "url": "https://tbbdf.org.tr/hakem ",
+  "summary": "Bocce, Bowling & Dart federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-10-19T06:08:07+00:00",
+  "first_seen_at": "2026-10-19T06:08:07+00:00",
+  "source": "mevzuat"
  },
  {
   "id": "91b7779876486092",
@@ -2079,96 +2174,6 @@
   ],
   "published_at": "2026-10-18T08:21:23+00:00",
   "first_seen_at": "2026-10-18T08:21:23+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "c28651e36f3bd5e0",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Kurullarının Görevlerine İlişkin Talimatı",
-  "url": "https://drive.google.com/file/d/1JXEUQkJTkZeW3_forokGN-8MXVAkzvWE/view",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-18T08:21:21+00:00",
-  "first_seen_at": "2026-10-18T08:21:21+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "b4bb6eaead0377ee",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Milli Takım Kamp Talimatı",
-  "url": "https://drive.google.com/file/d/10N_TVZv7xHyJGkJ1sEXZyERPDjViCjsz/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-18T08:21:21+00:00",
-  "first_seen_at": "2026-10-18T08:21:21+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "227eeae16360b7ac",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: İl Temsilcisi Talimatı",
-  "url": "https://drive.google.com/file/d/1on7GN5BD36Vlruf2RXD4fSaggU_S3NTb/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-18T08:21:20+00:00",
-  "first_seen_at": "2026-10-18T08:21:20+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cffe38d2c6bf54a5",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Ayniyat Talimatı",
-  "url": "https://drive.google.com/file/d/1-ohzPQv4Rk-LMM9oszmGwjnFbXXScCyW/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-18T08:21:18+00:00",
-  "first_seen_at": "2026-10-18T08:21:18+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cf2efba0d9379d0b",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Bütçe ve Muhasebe Talimatı",
-  "url": "https://drive.google.com/file/d/1joWmYEBq2cOD7WA730mwCpwIpA5TOdUZ/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-18T08:21:18+00:00",
-  "first_seen_at": "2026-10-18T08:21:18+00:00",
   "source": "mevzuat"
  },
  {

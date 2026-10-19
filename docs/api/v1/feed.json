@@ -1,5 +1,125 @@
 [
  {
+  "id": "aab1af6f43a64063",
+  "federation": "beyzbol",
+  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
+  "federation_short": "TBSF",
+  "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
+  "url": "https://tbsf.org.tr/incele.php?id=Mzk1",
+  "summary": "",
+  "image": "https://tbsf.org.tr/icerikresim/x395.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-19T23:35:45+00:00",
+  "first_seen_at": "2026-10-19T23:35:45+00:00",
+  "source": "html"
+ },
+ {
+  "id": "7fe689f488aabec0",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "24-25 Ekim 2026 Hemsball Aday Hakem Kursu / Kocaeli",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-488-24-25-ekim-2026-hemsball-aday-hakem-kursu-kocaeli",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-10-19T23:35:45+00:00",
+  "first_seen_at": "2026-10-19T23:35:45+00:00",
+  "source": "html"
+ },
+ {
+  "id": "1e33e2c1304c881f",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "17-18 Ekim 2026 Hemsball Aday Hakem Kursu / Sivas",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-487-17-18-ekim-2026-hemsball-aday-hakem-kursu-sivas",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-10-19T23:35:45+00:00",
+  "first_seen_at": "2026-10-19T23:35:45+00:00",
+  "source": "html"
+ },
+ {
+  "id": "4791194de707eac0",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "17-18 Ekim 2026 Hemsball Aday Hakem Kursu / Eskişehir",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-486-17-18-ekim-2026-hemsball-aday-hakem-kursu-eskisehir",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-10-19T23:35:45+00:00",
+  "first_seen_at": "2026-10-19T23:35:45+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f6380197b74d6d05",
+  "federation": "boks",
+  "federation_name": "Türkiye Boks Federasyonu",
+  "federation_short": "TBF",
+  "title": "Erkan Efe ve Remzi Karaca’dan Başkanımız Suat Hekimoğlu’na Ziyaret",
+  "url": "https://www.turkboks.gov.tr/erkan-efe-ve-remzi-karacadan-baskanimiz-suat-hekimogluna-ziyaret/",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-19T23:35:44+00:00",
+  "first_seen_at": "2026-10-19T23:35:44+00:00",
+  "source": "html"
+ },
+ {
+  "id": "3de01f768be33a91",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 417 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-19T23:33:53+00:00",
+  "first_seen_at": "2026-10-19T23:33:53+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "b8217b1f29f4af68",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Masa Tenisi faaliyet takviminde değişiklik",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-19T23:33:51+00:00",
+  "first_seen_at": "2026-10-19T23:33:51+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "4fea3538af8b7ef7",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -73,21 +193,6 @@
   "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Cumhurbaşkanlığı Tenis Kupası’nın Açılış Töreni Gerçekleştirildi Cumhurbaşkanlığı himayelerinde, Gençlik ve Spor Bakanlığı destekleriyle Türkiye Tenis Federasyonu (TTF) tarafından bu yıl ikinci kez düzenlenen Cumhurbaşkanlığı Tenis Kupası, Ankara’da gerçekleştirilen açılış töreniyle başladı. 19- tarihleri arasında TTF Ankara Kamp Eğitim Merkezi’nde düzenlene",
   "image": "http://www.ttf.org.tr/public/news_post/6ad61e4740be3_1792417351.PNG",
   "category": "haber",
-  "tags": [],
-  "published_at": "2026-10-19T19:17:28+00:00",
-  "first_seen_at": "2026-10-19T19:17:28+00:00",
-  "source": "html"
- },
- {
-  "id": "c0a111d658416651",
-  "federation": "beyzbol",
-  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
-  "federation_short": "TBSF",
-  "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
-  "url": "https://tbsf.org.tr/incele.php?id=NDAw",
-  "summary": "",
-  "image": "https://tbsf.org.tr/icerikresim/x400.jpg",
-  "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-19T19:17:28+00:00",
   "first_seen_at": "2026-10-19T19:17:28+00:00",
@@ -2560,6 +2665,21 @@
   "source": "wp_json"
  },
  {
+  "id": "430b9871590d19e4",
+  "federation": "yelken",
+  "federation_name": "Türkiye Yelken Federasyonu",
+  "federation_short": "TYF",
+  "title": "IQ Foil Youth & Junior Avrupa Şampiyonası Duyurusu",
+  "url": "https://www.tyf.org.tr/duyurular/yaris/iq-foil-youth-junior-avrupa-sampiyonasi-duyurusu/315834/",
+  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular IQ Foil Youth & Junior Avrupa Şampiyonası Duyurusu IQ Foil Youth & Junior Avrupa Şampiyonası Duyurusu 19.10.2026 Duyurular 86 Paylaş Tweetle Türkiye Yelken Federasyonu 2026 Faaliyet Programı’nda yer alan IQ Foil Youth & Junior Avrupa Şampiyonası faaliyeti 20 Ekim - 1 Kasım 2026 tarihleri arasında Atina/ Y",
+  "image": "https://portal.tyf.org.tr/content/images/pageimages/image-not-found.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-19T00:00:00+00:00",
+  "first_seen_at": "2026-10-19T23:35:44+00:00",
+  "source": "html"
+ },
+ {
   "id": "ece9686d7fc4823f",
   "federation": "yuzme",
   "federation_name": "Türkiye Yüzme Federasyonu",
@@ -4446,42 +4566,6 @@
   "source": "html"
  },
  {
-  "id": "ea5ae2296150c9db",
-  "federation": "oryantiring",
-  "federation_name": "Türkiye Oryantiring Federasyonu",
-  "federation_short": "TOF",
-  "title": "Düzce Aday Hakem Kursu Katılımcı Listesi",
-  "url": "https://oryantiring.org.tr/haberler#duzce-aday-hakem-kursu-katilimci-listesi",
-  "summary": "DÜZCE ADAY HAKEM KURSU KATILIMCI DUYURUSU 17-18 Ekim 2026 tarihlerinde Düzce ilinde yapılması planlanan Oryantiring Aday Hakem Kursu cumartesi günü saat 09.30 ’da evrak teslimi ve kontrolü ile başlayacak olup, kesin kayıt yapan kursiyerlerin isim listesi aşağıda belirtilmiştir. Seminer başvurusunda bulunan ve ödeme belgeleri Federasyonumuza ulaşmayan kursiyerlerin, evrak teslimi sırasında ödeme be",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-10-15T13:29:48+00:00",
-  "first_seen_at": "2026-10-15T13:29:48+00:00",
-  "source": "headings"
- },
- {
-  "id": "a908243a29be50e9",
-  "federation": "oryantiring",
-  "federation_name": "Türkiye Oryantiring Federasyonu",
-  "federation_short": "TOF",
-  "title": "Tekirdağ Aday Hakem Kursu Katılımcı Listesi",
-  "url": "https://oryantiring.org.tr/haberler#tekirdag-aday-hakem-kursu-katilimci-listesi",
-  "summary": "TEKİRDAĞ ADAY HAKEM KURSU KATILIMCI DUYURUSU 17-18 Ekim 2026 tarihlerinde Tekirdağ ilinde yapılması planlanan Oryantiring Aday Hakem Kursu cumartesi günü saat 09.30 ’da evrak teslimi ve kontrolü ile başlayacak olup, kesin kayıt yapan kursiyerlerin isim listesi aşağıda belirtilmiştir. Seminer başvurusunda bulunan ve ödeme belgeleri Federasyonumuza ulaşmayan kursiyerlerin, evrak teslimi sırasında öd",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-10-15T13:29:48+00:00",
-  "first_seen_at": "2026-10-15T13:29:48+00:00",
-  "source": "headings"
- },
- {
   "id": "c594b77d1f89f436",
   "federation": "shgm",
   "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
@@ -4495,51 +4579,6 @@
   "published_at": "2026-10-15T13:29:48+00:00",
   "first_seen_at": "2026-10-15T13:29:48+00:00",
   "source": "html"
- },
- {
-  "id": "66e28747870242a2",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "ETTU’dan Prof. Dr. Çakır’a Onur Ödülü!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303740/ettudan-prof-dr-cakira-onur-odulu.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-15T13:29:48+00:00",
-  "first_seen_at": "2026-10-15T13:29:48+00:00",
-  "source": "html"
- },
- {
-  "id": "439bd4e36dad51a8",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "KHAN SINAVI",
-  "url": "https://muaythai.gov.tr/2026/10/15/khan-sinavi-3/",
-  "summary": "Sınava katılacak adayların aşağıdaki belgeleri hazırlayarak sınav tarihinde komisyona vermeleri gereklidir. İlgililere duyurulur. Sınav Kayıt : 25 Ekim",
-  "image": "https://muaythai.gov.tr/wp-content/uploads/2020/04/khan-sınavı.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-15T11:54:21+00:00",
-  "first_seen_at": "2026-10-15T13:29:48+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "50ed2e757c663069",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Küçük Demirkazık Zirve Faaliyeti Başarıyla Tamamlandı",
-  "url": "https://tdf.tr/kucuk-demirkazik-zirve-faaliyeti-basariyla-tamamlandi/",
-  "summary": "Küçük Demirkazık Zirve Faaliyeti Başarıyla Tamamlandı Suyu Kaynağından İçenler Doğa Spor Kulübü, 2026 yılı boyunca sürdürdüğü yaz dağcılığı ve tek ip eğitimlerini, 4–5 Ekim 2026 tarihlerinde gerçekleştirilen Küçük Demirkazık Zirve Faaliyeti ile taçlandırdı. Mevsim geçişinin getirdiği hava koşullarına yönelik gerekli önlemler alınarak gerçekleştirilen faaliyet, sporculara eğitimlerde edindikleri bilgi ve becerileri dağın gerçek koşullarında uygulama fırsatı […]",
-  "image": "https://tdf.tr/wp-content/uploads/2026/10/Ekran-goruntusu-2026-10-15-115428.png",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-15T08:55:34+00:00",
-  "first_seen_at": "2026-10-15T13:29:48+00:00",
-  "source": "wp_json"
  },
  {
   "id": "9e0f20ba42280d43",
@@ -5065,37 +5104,5 @@
   "published_at": "2026-10-14T13:39:21+00:00",
   "first_seen_at": "2026-10-14T13:39:21+00:00",
   "source": "html"
- },
- {
-  "id": "2e9915a64b2dd7ae",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Milli boksörlerimizden 6 madalya!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303697/milli-boksorlerimizden-6-madalya.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-10-14T13:39:21+00:00",
-  "first_seen_at": "2026-10-14T13:39:21+00:00",
-  "source": "html"
- },
- {
-  "id": "3b5b0af24313f1ff",
-  "federation": "halter",
-  "federation_name": "Türkiye Halter Federasyonu",
-  "federation_short": "THF",
-  "title": "Merve ve Tuba bronz kazandı",
-  "url": "https://halter.gov.tr/merve-ve-tuba-bronz-kazandi/",
-  "summary": "Arnavutluk Durres şehrinde organize edilen Gençler ve U23 Avrupa Halter Şampiyonası üçüncü gününde kadınlar U23 57 kiloda Merve İldem toplamda 187 kilo ile bronz madalya kazandı. Sporcumuz koparmada 83, silkmede ise 104 kiloluk derece elde etti. Aynı kiloda yarışan Tuba Kılınç ise silkmede 105 kilo ile bronz madalyanın sahibi olurken koparmada 81 toplamda ise 186 […]",
-  "image": null,
-  "category": "haber",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-14T13:16:12+00:00",
-  "first_seen_at": "2026-10-14T13:39:21+00:00",
-  "source": "wp_json"
  }
 ]

@@ -1,5 +1,23 @@
 [
  {
+  "id": "4db88f056330b6cc",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Yeni mevzuat: Cankurtarma Talimatı (Y.T. 19.10.2026)",
+  "url": "https://www.tssf.gov.tr/wp-content/uploads/2026/10/Cankurtarma-Talimati-Muhurlu.pdf",
+  "summary": "Sualtı Sporları federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-10-19T13:02:57+00:00",
+  "first_seen_at": "2026-10-19T13:02:57+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "5890febac26ecd2d",
   "federation": "sualti",
   "federation_name": "Türkiye Sualtı Sporları Federasyonu",
@@ -261,74 +279,5 @@
   "published_at": "2026-10-09T11:00:05+00:00",
   "first_seen_at": "2026-10-09T11:00:05+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "5890febac26ecd2d",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "Mevzuat güncellendi: Donanımlı Dalış Sınav Rehberi Genel Kuralları",
-  "url": "https://www.tssf.gov.tr/donanimli-dalis-sinav-rehberi-genel-kurallari/",
-  "summary": "Türkiye Sualtı Sporları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-30T10:05:22+00:00",
-  "first_seen_at": "2026-09-30T10:05:22+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "aba72f080ac7ddb8",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "Mevzuat güncellendi: Yönetmelik ve Talimatlar",
-  "url": "https://www.tssf.gov.tr/yonetmelik-ve-talimatlar/",
-  "summary": "Türkiye Sualtı Sporları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-30T10:05:02+00:00",
-  "first_seen_at": "2026-09-30T10:05:02+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "5befdf2a5cb34421",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "Mevzuat güncellendi: Skip to content",
-  "url": "https://www.tssf.gov.tr/yonetmelik-ve-talimatlar/#content",
-  "summary": "Türkiye Sualtı Sporları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-30T10:04:35+00:00",
-  "first_seen_at": "2026-09-30T10:04:35+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "426f5589f09bf650",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "Karadağ’da Ülkemizi Temsil Edecek Zıpkınla Balık Avı Branşı Milli Sporcularımız",
-  "url": "https://www.tssf.gov.tr/karadagda-ulkemizi-temsil-edecek-zipkinla-balik-avi-bransi-milli-sporcularimiz/",
-  "summary": "Türkiye Sualtı Sporları Federasyonu Zıpkınla Balık Avı Millî Takım Aday Kampı’nın ardından yapılan değerlendirmeler sonucunda, 2026 CMAS Avrupa-Afrika",
-  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-09-29T17:13:44+00:00",
-  "first_seen_at": "2026-09-29T20:43:13+00:00",
-  "source": "wp_json"
  }
 ]

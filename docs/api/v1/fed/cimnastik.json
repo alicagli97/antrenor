@@ -1,5 +1,23 @@
 [
  {
+  "id": "68f5624d7f784951",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Mevzuat güncellendi: Ana Statü",
+  "url": "https://www.tcf.gov.tr/kurumsal/ana-statu/",
+  "summary": "Türkiye Cimnastik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-10-19T09:19:45+00:00",
+  "first_seen_at": "2026-10-19T09:19:45+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "c355fafa96e21c98",
   "federation": "cimnastik",
   "federation_name": "Türkiye Cimnastik Federasyonu",
@@ -516,42 +534,6 @@
   ],
   "published_at": "2026-09-30T19:08:32+00:00",
   "first_seen_at": "2026-09-30T19:08:32+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "68f5624d7f784951",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Mevzuat güncellendi: Ana Statü",
-  "url": "https://www.tcf.gov.tr/kurumsal/ana-statu/",
-  "summary": "Türkiye Cimnastik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-09-30T10:00:54+00:00",
-  "first_seen_at": "2026-09-30T10:00:54+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "218e46ccf5da6ea1",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 389 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-09-29T20:41:31+00:00",
-  "first_seen_at": "2026-09-29T20:41:31+00:00",
   "source": "takvim-html"
  }
 ]

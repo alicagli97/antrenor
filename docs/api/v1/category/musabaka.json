@@ -1,5 +1,39 @@
 [
  {
+  "id": "4fea3538af8b7ef7",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Taner Ankara'dan, TFF Başkanı Hacıosmanoğlu'na Ziyaret",
+  "url": "https://www.tff.org/default.aspx?pageID=285&ftxtID=51690",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-19T19:17:28+00:00",
+  "first_seen_at": "2026-10-19T19:17:28+00:00",
+  "source": "html"
+ },
+ {
+  "id": "79530a16e1cef5f4",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ahmet Bayram'dan, TFF Başkanı Hacıosmanoğlu'na Ziyaret",
+  "url": "https://www.tff.org/default.aspx?pageID=285&ftxtID=51689",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-19T19:17:28+00:00",
+  "first_seen_at": "2026-10-19T19:17:28+00:00",
+  "source": "html"
+ },
+ {
   "id": "8fa7896254280c8d",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -83,6 +117,23 @@
   "published_at": "2026-10-19T00:00:00+00:00",
   "first_seen_at": "2026-10-19T13:04:22+00:00",
   "source": "html"
+ },
+ {
+  "id": "25c2ef178dac0081",
+  "federation": "bisiklet",
+  "federation_name": "Türkiye Bisiklet Federasyonu",
+  "federation_short": "TBF",
+  "title": "Ramazan Yılmaz, Dünya Pist Bisikleti Şampiyonası'nda Elimination Disiplininde 10. sırayı aldı - Türkiye Bisiklet Federasyonu",
+  "url": "https://bisiklet.org.tr/ramazan-yilmaz-dunya-pist-bisikleti-sampiyonasinda-elimination-disiplininde-10-sirayi-aldi/",
+  "summary": "Milli sporcumuz Ramazan Yılmaz, Çin’in Şanghay kentinde düzenlenen 2026 UCI Pist Bisikleti Dünya Şampiyonası’nda elimination disiplinini 10. sırada tamamlayarak bizleri gururlandırdı. Dünya çapında önemli sporcuların mücadele ettiği organizasyonda ülkemizi başarıyla temsil eden milli sporcumuzu ve teknik ekibimizi tebrik ediyoruz.",
+  "image": "https://bisiklet.org.tr/wp-content/uploads/2026/10/RY-EM10.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-18T08:00:00+00:00",
+  "first_seen_at": "2026-10-19T19:17:28+00:00",
+  "source": "wp_json"
  },
  {
   "id": "2e80edd649d977cd",
@@ -3363,57 +3414,6 @@
   "federation_short": "TMTF",
   "title": "Süper Lig 4.etap Müsabakaları Çorum'da Devam Ediyor...",
   "url": "https://tmtf.gov.tr/haberdetay-35-829-super-lig-4.etap-musabakalari-corum-da-devam-ediyor...",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-02T16:16:21+00:00",
-  "first_seen_at": "2026-10-02T16:16:21+00:00",
-  "source": "html"
- },
- {
-  "id": "a8f2e7949eb59e66",
-  "federation": "masatenisi",
-  "federation_name": "Türkiye Masa Tenisi Federasyonu",
-  "federation_short": "TMTF",
-  "title": "Süper Lig 3.etap Müsabakaları Nevşehir'de Sona Erdi.",
-  "url": "https://tmtf.gov.tr/haberdetay-35-769-super-lig-3.etap-musabakalari-nevsehir-de-sona-erdi.",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-02T16:16:21+00:00",
-  "first_seen_at": "2026-10-02T16:16:21+00:00",
-  "source": "html"
- },
- {
-  "id": "70533f71f13a71b0",
-  "federation": "masatenisi",
-  "federation_name": "Türkiye Masa Tenisi Federasyonu",
-  "federation_short": "TMTF",
-  "title": "Süper Lig 2.etap Müsabakaları Samsun'da Sona Erdi...",
-  "url": "https://tmtf.gov.tr/haberdetay-35-757-super-lig-2.etap-musabakalari-samsun-da-sona-erdi...",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-02T16:16:21+00:00",
-  "first_seen_at": "2026-10-02T16:16:21+00:00",
-  "source": "html"
- },
- {
-  "id": "e68a45f5777c8fd7",
-  "federation": "masatenisi",
-  "federation_name": "Türkiye Masa Tenisi Federasyonu",
-  "federation_short": "TMTF",
-  "title": "2023-2024 Sezonu Süper Lig 1.Devre Fikstürü Yayımlandı",
-  "url": "https://tmtf.gov.tr/haberdetay-35-692-2023-2024-sezonu-super-lig-1.devre-fiksturu-yayimlandi",
   "summary": "",
   "image": null,
   "category": "musabaka",

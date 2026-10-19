@@ -1,20 +1,22 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-18T23:03:03+00:00",
- "total": 5993,
- "new_in_last_run": 516,
- "sources_ok": 64,
+ "generated_at": "2026-10-19T01:13:06+00:00",
+ "total": 5994,
+ "new_in_last_run": 504,
+ "sources_ok": 62,
  "sources_failed": [
-  "basketbol"
+  "basketbol",
+  "bisiklet",
+  "isitmeengelliler"
  ],
  "sources_empty": [
   "kayak"
  ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-18T23:03:03+00:00",
+ "latest_published_at": "2026-10-19T01:13:06+00:00",
  "categories": {
-  "duyuru": 653,
+  "duyuru": 654,
   "takvim": 70,
   "haber": 42,
   "kurs": 127,
@@ -39,7 +41,7 @@
   }
  ],
  "federation_counts": {
-  "beyzbol": 29,
+  "beyzbol": 30,
   "hentbol": 38,
   "halter": 15,
   "buzpateni": 439,

@@ -1,5 +1,56 @@
 [
  {
+  "id": "c79b445724bfe960",
+  "federation": "hokey",
+  "federation_name": "Türkiye Hokey Federasyonu",
+  "federation_short": "THF",
+  "title": "2. Kademe Antrenörlük Kurs Duyurusu",
+  "url": "https://www.turkhokey.gov.tr/haber/10205/2-kademe-antrenorluk-kurs-duyurusu",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-10-20T19:11:25+00:00",
+  "first_seen_at": "2026-10-20T19:11:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "559232aafc7305af",
+  "federation": "hokey",
+  "federation_name": "Türkiye Hokey Federasyonu",
+  "federation_short": "THF",
+  "title": "Vakıf Üniversiteleri Milli Sporcu Eğitim Bursu",
+  "url": "https://www.turkhokey.gov.tr/haber/10202/vakif-universiteleri-milli-sporcu-egitim-bursu",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [],
+  "published_at": "2026-10-20T19:11:25+00:00",
+  "first_seen_at": "2026-10-20T19:11:25+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0a3cd5a6183aba9b",
+  "federation": "oryantiring",
+  "federation_name": "Türkiye Oryantiring Federasyonu",
+  "federation_short": "TOF",
+  "title": "U14 Türkiye Oryantiring Şampiyonası 1.kademe Akçakoca-düzce Yarışı - 21-22 Kasım",
+  "url": "https://oryantiring.org.tr/haberler#u14-turkiye-oryantiring-sampiyonasi-1-kademe-akcakoca-duzce-",
+  "summary": "U14 TÜRKİYE ORYANTİRİNG ŞAMPİYONASI 1.KADEME AKÇAKOCA / DÜZCE YARIŞI 21-22 Kasım 2026 tarihlerinde Düzce ili Akçakoca 'da düzenlenecek olan 14 Yaş Altı Türkiye Oryantiring Şampiyonası 1.Kademe Yarışı Bülten 1 ve Özel Yarış Kuralları yayınlanmıştır. Duyuru belgelerinden inceleyebilirsiniz.",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "musabaka"
+  ],
+  "published_at": "2026-10-20T19:11:25+00:00",
+  "first_seen_at": "2026-10-20T19:11:25+00:00",
+  "source": "headings"
+ },
+ {
   "id": "7a0fbde2d6393e53",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -2137,112 +2188,6 @@
   ],
   "published_at": "2026-10-02T00:00:00+00:00",
   "first_seen_at": "2026-10-02T16:16:21+00:00",
-  "source": "html"
- },
- {
-  "id": "381956456e09580d",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Endurance Academy 2026, 20-22 Kasım’da Belgrad’da Düzenlenecek",
-  "url": "https://taf.org.tr/endurance-academy-2026-20-22-kasimda-belgradda-duzenlenecek/",
-  "summary": "Avrupa Atletizm Birliği Antrenörler Zirvesi Serisi kapsamında yer alan Endurance Academy 2026, 20-22 Kasım 2026 tarihleri arasında Sırbistan’ın başkenti Belgrad’da düzenlenecek. Belgrad’daki Athletic Hall ev sahipliğinde gerçekleştirilecek organizasyon; Avrupa’nın farklı ülkelerinden antrenörleri, sporcuları ve dayanıklılık branşlarında çalışan profesyonelleri üç gün boyunca eğitim, uygulamalı çalışmalar, bilgi paylaşımı ve networking etkinliklerinde bir araya getirecek. İlk organizasyonunda 30’dan […]",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/10/Cover-Photo-TUR-scaled.png",
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-10-01T19:17:16+00:00",
-  "first_seen_at": "2026-10-01T23:07:58+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "5a17ca4903029e98",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "2026-2027 Eğitim Öğretim Yılı Sporcu Eğitim Merkezleri (sem) Boks Branşı Sporcu Alım Başvuruları Başlıyor",
-  "url": "https://www.turkboks.gov.tr/2026-2027-egitim-ogretim-yili-sporcu-egitim-merkezleri-sem-boks-bransi-sporcu-alim-basvurulari-basliyor/",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "burs"
-  ],
-  "published_at": "2026-10-01T18:50:57+00:00",
-  "first_seen_at": "2026-10-01T18:50:57+00:00",
-  "source": "html"
- },
- {
-  "id": "a0ee2ce81a66f9b7",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» Yabancı Uyruklu Antrenör Denklik İşlemleri",
-  "url": "https://www.eskrim.org.tr/yabanci-uyruklu-antrenor-denklik-islemleri-2300.html",
-  "summary": "",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "vize"
-  ],
-  "published_at": "2026-10-01T18:50:57+00:00",
-  "first_seen_at": "2026-10-01T18:50:57+00:00",
-  "source": "html"
- },
- {
-  "id": "0c229684a4237548",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "30 Eylül 2026 Disiplin Kurulu Kararı",
-  "url": "https://thf.org.tr/haber/30-eylul-2026-disiplin-kurulu-karari",
-  "summary": "Türkiye Hentbol Federasyonu Disiplin Kurulu 30 Eylül 2026 tarihinde tüm üyelerinin katılımıyla toplanmış ve toplantıda aşağıdaki kararlar alınmıştır: 1- E.2026/42.1, K.2026/47.2 13.09.2026 tarihinde Manisa Büyükşehir Belediye Spor Kulübü – Yalıkavak Spor Kulübü arasında oynanan Kadınlar Süper Ligi müsabakası bitiminde yaşanan olayla ilgili olarak Manisa Büyükşehir Belediye Spor Kulübü antrenörü Sertan SARPAŞ’ın savunmasının geldiği görüldü. Tüm dosya kapsamında ve THF TV müsabaka yayım görüntüleri üzerinden yapılan değerlendirme sonucunda; antrenörün savunmasında özetle, takımının önemli bir g",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "musabaka"
-  ],
-  "published_at": "2026-10-01T18:32:19+00:00",
-  "first_seen_at": "2026-10-01T18:50:57+00:00",
-  "source": "api"
- },
- {
-  "id": "4706381ec3df985f",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "Cimnastik 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Bursa’da Açılıyor!",
-  "url": "https://tossfed.gov.tr/cimnastik-1-kademe-yardimci-antrenor-yetistirme-kursu-bursada-aciliyor-2/",
-  "summary": "ÖZEL SPORCULAR 1.KADEME CİMNASTİK YARDIMCI ANTRENÖR KURSU 13 – 18 EKİM 2026 TARİHLERİ ARASINDA BURSA YILDIRIM BELEDİYESİ NAİM SÜLEYMANOĞLU SPOR KOMPLEKSİ CİMNASTİK SALONU’NDA YAPILACAKTIR. BAŞVURULARI 02 – 12 EKİM 2026 TARİHLERİNDE E-DEVLET SPOR BİLGİ SİSTEMİ ÜZERİNDEN BAŞVURU YAPABİLİRSİNİZ. KURS İÇİN ÜCRET YATIRMA SON GÜNÜ 12 EKİM PAZARTESİ GÜNÜDÜR. KURS ÜCRETİNİ YATIRMAYANLAR KURSA KATILIM YAPAMAYACAKLARDIR. ÖNEMLİ NOT : MÜCBİR …",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs",
-   "burs"
-  ],
-  "published_at": "2026-10-01T13:16:20+00:00",
-  "first_seen_at": "2026-10-01T18:50:57+00:00",
-  "source": "rss"
- },
- {
-  "id": "7038666a30e13701",
-  "federation": "beyzbol",
-  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
-  "federation_short": "TBSF",
-  "title": "Başkanımız Şahin KÖMÜRCÜ Hakem Seminerini Ziyaret Etti (2008)",
-  "url": "https://tbsf.org.tr/incele.php?id=MTA2",
-  "summary": "Puan Durumu Validen Spora Tam Destek Trakya Üniversitesi Ziyareti -2008 Hak Ettiği Seviyede Olacak Sayın Şahin Kömürcü'den Dostluk Mesajı Başkanımız Sayın KÖMÜRCÜ Ragbi Hazırlık Müsabakasında (2008) Yeni Başkan Yeni Hedefler Çığ Gibi Büyüyoruz Beyzbol Türkiye Şampiyonası Sonuçlandı-24- Federasyonu Başkanı Şahin Kömürcü Basın Toplantısında Balkan Ülkeleri Amerikan Futbolu Federasyonu Kurma Çalışmal",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "hakem"
-  ],
-  "published_at": "2026-10-01T13:04:29+00:00",
-  "first_seen_at": "2026-10-01T13:04:29+00:00",
   "source": "html"
  }
 ]

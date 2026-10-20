@@ -1,5 +1,77 @@
 [
  {
+  "id": "eacfc186cccdfc72",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Yeni mevzuat: Cankurtarma Talimatı (Y.T. 19.10.2026)",
+  "url": "https://www.tssf.gov.tr/wp-content/uploads/2026/10/Cankurtarma-Talimati-Muhurl.pdf",
+  "summary": "Sualtı Sporları federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-10-20T14:58:49+00:00",
+  "first_seen_at": "2026-10-20T14:58:49+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "03d0ae2a2a621cc4",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Yeni mevzuat: Cankurtarma Talimatı’nın Yürürlüğe Girmesi Hakkında",
+  "url": "https://www.tssf.gov.tr/cankurtarma-talimatinin-yururluge-girmesi-hakkinda/",
+  "summary": "Sualtı Sporları federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-10-20T14:58:49+00:00",
+  "first_seen_at": "2026-10-20T14:58:49+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "9ff753e2128286bd",
+  "federation": "isitmeengelliler",
+  "federation_name": "Türkiye İşitme Engelliler Spor Federasyonu",
+  "federation_short": "TİESF",
+  "title": "Yeni mevzuat: Sporcu Lisans, Vize ve Transfer Talimatı",
+  "url": "https://tiesf.org.tr/dosya/talimat/1792502346_1764594288_IsitmeEngellilerFed_Deg__YapilanTalimat12_08_2021-1.pdf",
+  "summary": "İşitme Engelliler federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-10-20T14:58:49+00:00",
+  "first_seen_at": "2026-10-20T14:58:49+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "cdc653995b24f330",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Cankurtarma Talimatı’nın Yürürlüğe Girmesi Hakkında",
+  "url": "https://www.tssf.gov.tr/cankurtarma-talimatinin-yururluge-girmesi-hakkinda/",
+  "summary": "Türkiye Sualtı Sporları Federasyonu Cankurtarma Talimatı, 19 Ekim 2026 tarihinde Gençlik ve Spor Bakanlığının resmî internet sitesinde yayımlanarak",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat"
+  ],
+  "published_at": "2026-10-20T13:18:11+00:00",
+  "first_seen_at": "2026-10-20T15:00:22+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "aba72f080ac7ddb8",
   "federation": "sualti",
   "federation_name": "Türkiye Sualtı Sporları Federasyonu",
@@ -3578,82 +3650,6 @@
   ],
   "published_at": "2026-10-20T08:54:12+00:00",
   "first_seen_at": "2026-10-20T08:54:12+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "e29bfba059059062",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Boccia Sporcu Lisans, Vize ve...",
-  "url": "https://tbbdf.org.tr/tr/boccia-sporcu-lisans-vize-ve-transfer-talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-20T08:54:12+00:00",
-  "first_seen_at": "2026-10-20T08:54:12+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "1200513e1188b7f5",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Eğitim Altyapı ve Yardım...",
-  "url": "https://tbbdf.org.tr/tr/egitim__altyapi_ve_kuluplere_yardim_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-20T08:54:12+00:00",
-  "first_seen_at": "2026-10-20T08:54:12+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a8128057f01f46af",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Hakem, Gözlemci, Temsilci ve Eğitim Görevlileri ile Diğer Görevlilere Ödenecek Ücretlere İlişkin Talimat",
-  "url": "https://tgf.org.tr/tr/talimatlar/hakem-gozlemci-temsilci-ve-egitim-gorevlileri-ile-diger-gorevlilere-odenecek-ucretlere-iliskin-talimat",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-20T08:54:11+00:00",
-  "first_seen_at": "2026-10-20T08:54:11+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "ef4651390aa20fed",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Kamp Eğitim Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/kamp-egitim-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-20T08:54:11+00:00",
-  "first_seen_at": "2026-10-20T08:54:11+00:00",
   "source": "mevzuat"
  }
 ]

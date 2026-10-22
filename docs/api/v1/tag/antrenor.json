@@ -1,5 +1,23 @@
 [
  {
+  "id": "5c83357dbf06c1c1",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Kriket 1. Kademe Antrenörlük Kursu İçin Ön Kayıtlar Başlıyor",
+  "url": "https://trf.gov.tr/?p=11073",
+  "summary": "Kriket 1. Kademe Antrenörlük Kursu Düzenlenecek Türkiye Ragbi Federasyonu tarafından Kriket 1. Kademe Antrenörlük Kursu, 18-22 Kasım 2026 tarihleri arasında",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-10-22T13:20:39+00:00",
+  "first_seen_at": "2026-10-22T15:09:01+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "bb7c4d1cfba04f02",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -3753,25 +3771,6 @@
   "title": "Mevzuat güncellendi: Kulüplerin Dağcılık Eğitimi Düzenleme Yönergesi (Yürürlükten kaldırıldı yerine TDF Eğitim Yönergesi geldi)",
   "url": "https://drive.google.com/file/d/1_NN0kAbLJuRmoHppOuXuzsx187IDLkQS/view?usp=sharing",
   "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-20T08:54:12+00:00",
-  "first_seen_at": "2026-10-20T08:54:12+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "bbb4c21dbc3cab01",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Profesyonel Golf Antrenörleri Birliği Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/profesyonel-golf-antrenorleri-birligi-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",
   "tags": [

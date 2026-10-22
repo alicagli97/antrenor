@@ -1,5 +1,22 @@
 [
  {
+  "id": "d5432c25b0503aa8",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Şevki Koru Türkiye Maraton Şampiyonası Statüsü",
+  "url": "https://taf.org.tr/sevki-koru-turkiye-maraton-sampiyonasi-statusu/",
+  "summary": "Şevki Koru Türkiye Maraton Şampiyonası 1 Kasım 2026 tarihinde İstanbul’da Türkiye İş Bankası 48. İstanbul Maratonu organizasyonu ile birlikte düzenlenecektir. Yarışma Statüsü ŞEVKİ KORU TÜRKİYE MARATON ŞAMPİYONASI",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/10/DUYURU.png",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-22T12:17:32+00:00",
+  "first_seen_at": "2026-10-22T15:09:01+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "82f9844edfa36d34",
   "federation": "atletizm",
   "federation_name": "Türkiye Atletizm Federasyonu",
@@ -906,22 +923,5 @@
   "published_at": "2026-10-04T10:04:32+00:00",
   "first_seen_at": "2026-10-04T10:04:32+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "bce75eb4507665d5",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Cumhurbaşkanlığı Koşusu Yarışma Statüsü",
-  "url": "https://taf.org.tr/cumhurbaskanligi-kosusu-yarisma-statusu/",
-  "summary": "3 Ekim 2026 Genel Duyuru CUMHURBAŞKANLIĞI KOŞUSU YARIŞMA STATÜSÜ STATÜ CUMHURBAŞKANLIĞI KOŞUSU – 11 EKİM 2026 – ANKARA Paylaş:",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/09/Cumhurbaskanligi-Kosusu.jpeg-scaled.jpg",
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-03T19:27:32+00:00",
-  "first_seen_at": "2026-10-03T21:09:41+00:00",
-  "source": "wp_json"
  }
 ]

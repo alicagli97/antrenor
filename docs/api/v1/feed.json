@@ -1,5 +1,56 @@
 [
  {
+  "id": "ff106ebd23dca1c9",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U17 Kız Millî Takımımız, Avrupa Şampiyonası Elemeleri Hazırlıklarına Başladı",
+  "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51724",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-22T23:19:13+00:00",
+  "first_seen_at": "2026-10-22T23:19:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0799093299622ef7",
+  "federation": "oryantiring",
+  "federation_name": "Türkiye Oryantiring Federasyonu",
+  "federation_short": "TOF",
+  "title": "Milli Takım Seçme Kriterleri",
+  "url": "https://oryantiring.org.tr/haberler#milli-takim-secme-kriterleri",
+  "summary": "Milli Takım Seçme Kriterleri ektedir. Türkiye Oryantiring Federasyonu",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "milli_takim"
+  ],
+  "published_at": "2026-10-22T23:19:13+00:00",
+  "first_seen_at": "2026-10-22T23:19:13+00:00",
+  "source": "headings"
+ },
+ {
+  "id": "030b2f417caf494e",
+  "federation": "oryantiring",
+  "federation_name": "Türkiye Oryantiring Federasyonu",
+  "federation_short": "TOF",
+  "title": "Milli Takımlar ve Sporcu Gelişim Kampları Görev ve Sorumlulukları Talimatı",
+  "url": "https://oryantiring.org.tr/haberler#milli-takimlar-ve-sporcu-gelisim-kamplari-gorev-ve-sorumlulu",
+  "summary": "MİLLİ TAKIMLAR VE SPORCU GELİŞİM KAMPLARI GÖREV VE SORUMLULUKLARI \" Milli Takımlar ve Sporcu Gelişim Kampları Görev ve Sorumluluklar \" talimatı, \"Taahütname\" ve \" Sporcu Sağlık Durum Formu\" ektedir. Türkiye Oryantiring Federasyonu",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat"
+  ],
+  "published_at": "2026-10-22T23:19:13+00:00",
+  "first_seen_at": "2026-10-22T23:19:13+00:00",
+  "source": "headings"
+ },
+ {
   "id": "2c3d924b98d04622",
   "federation": "gelismekteolan",
   "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
@@ -2355,24 +2406,6 @@
   ],
   "published_at": "2026-10-22T08:57:12+00:00",
   "first_seen_at": "2026-10-22T08:57:12+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "d3a3d23416c52487",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Yarışmaları TDF 2020 Yılı Kuralları -Paratırmanış kuralları dahil",
-  "url": "https://drive.google.com/file/d/1ou-mL5l7p1COJlRNelS1y5jCBEaituMA/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-22T08:57:11+00:00",
-  "first_seen_at": "2026-10-22T08:57:11+00:00",
   "source": "mevzuat"
  },
  {
@@ -5072,36 +5105,6 @@
   "federation_short": "TMOK",
   "title": "Kış Olimpiyat Oyunları",
   "url": "https://olimpiyat.org.tr/Oyunlar?cat=3",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-20T19:11:25+00:00",
-  "first_seen_at": "2026-10-20T19:11:25+00:00",
-  "source": "html"
- },
- {
-  "id": "073326c811550ccd",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Yaz Gençlik Olimpiyat Oyunları",
-  "url": "https://olimpiyat.org.tr/Oyunlar?cat=8",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-20T19:11:25+00:00",
-  "first_seen_at": "2026-10-20T19:11:25+00:00",
-  "source": "html"
- },
- {
-  "id": "e1c4e0f71205d8a8",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Kış Gençlik Olimpiyat Oyunları",
-  "url": "https://olimpiyat.org.tr/Oyunlar?cat=9",
   "summary": "",
   "image": null,
   "category": "duyuru",

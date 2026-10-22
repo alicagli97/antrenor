@@ -1132,59 +1132,5 @@
   "published_at": "2026-10-04T18:06:07+00:00",
   "first_seen_at": "2026-10-04T18:06:07+00:00",
   "source": "takvim-html"
- },
- {
-  "id": "f0f1715a19a6d96c",
-  "federation": "havasporlari",
-  "federation_name": "Türkiye Hava Sporları Federasyonu",
-  "federation_short": "THSF",
-  "title": "Hava Sporları faaliyet takviminde değişiklik",
-  "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 40 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-03T17:12:32+00:00",
-  "first_seen_at": "2026-10-03T17:12:32+00:00",
-  "source": "takvim-pdf"
- },
- {
-  "id": "d879891ca6465e05",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 390 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-03T17:12:24+00:00",
-  "first_seen_at": "2026-10-03T17:12:24+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "bd2d9e19de4087d6",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-03T17:12:23+00:00",
-  "first_seen_at": "2026-10-03T17:12:23+00:00",
-  "source": "takvim-html"
  }
 ]

@@ -1,5 +1,59 @@
 [
  {
+  "id": "2af2bd444e70ad72",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Masa Tenisi faaliyet takviminde değişiklik",
+  "url": "https://tmtf.gov.tr/haberler-35",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-23T19:06:03+00:00",
+  "first_seen_at": "2026-10-23T19:06:03+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "4c039e62e50e3a2c",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 420 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-23T19:06:03+00:00",
+  "first_seen_at": "2026-10-23T19:06:03+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "53744e70326e69e6",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-23T19:05:58+00:00",
+  "first_seen_at": "2026-10-23T19:05:58+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "cd8a7df5672efb1d",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",

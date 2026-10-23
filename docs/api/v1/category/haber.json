@@ -1,5 +1,22 @@
 [
  {
+  "id": "a49ae19223220daa",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "🇹🇷 Yunanistan’da 4 Bronz Madalya! 🏸🥉",
+  "url": "https://www.badminton.org.tr/%f0%9f%87%b9%f0%9f%87%b7-yunanistanda-4-bronz-madalya-%f0%9f%8f%b8%f0%9f%a5%89/",
+  "summary": "20-23 Ekim 2026 tarihleri arasında Yunanistan’ın Pyrgos kentinde düzenlenen Hellas International 2026 turnuvasında milli badmintoncularımız kürsüye çıktı! 🇹🇷✨ 🥉 Madalya Kazanan Sporcularımız: 🔹 Tek Erkekler: Mehmet Can Töremiş 🔹 Çift Erkekler: Gökay Göl & Mert Seven 🔹 Çift Kadınlar: Aysu Arslan & Zeynep Berre Ocakoğlu 🔹 Karışık Çiftler: Gökay Göl & Nisa Nur Çimen Ülkemizi […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-23-at-11.57.52.jpeg",
+  "category": "haber",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-23T12:27:48+00:00",
+  "first_seen_at": "2026-10-23T14:58:32+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "6005a51928cafc02",
   "federation": "halter",
   "federation_name": "Türkiye Halter Federasyonu",
@@ -59,6 +76,21 @@
   "tags": [],
   "published_at": "2026-10-20T15:00:22+00:00",
   "first_seen_at": "2026-10-20T15:00:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "20882cc29a8f9b8c",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Haber Kaleci Gelişim Antrenmanları Başlıyor HABER 05.10.2026",
+  "url": "https://www.tbhf.org.tr/news/kaleci-gelisim-antrenmanlari-basliyor",
+  "summary": "Haber Kadın Milli Takımı Hazırlık Kampı Aday Kadrosu HABER Seminer 2026-2027 Sezonu Buz Dışı Hakem Vize Semineri SEMİNER 19.10.2026 Haber 2026–2027 TBHF Kadınlar Süper Ligi Fikstürü Açıklandı HABER 15.10.2026 Haber Buz Hokeyi Dünya Kızlar Haftasonu Etkinlikleri! HABER 12.10.2026 Haber 1. Kademe Kursu Katılımcı Listesi ve Ders Programı HABER 09.10.2026 Haber Kaleci Gelişim Antrenmanları - İstanbul ",
+  "image": "https://tbhf-public.sporpano.com/news/4efc37c7b76f4a28a64a85c64460d2f6.png",
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-20T00:00:00+00:00",
+  "first_seen_at": "2026-10-23T14:58:32+00:00",
   "source": "html"
  },
  {
@@ -720,21 +752,6 @@
   "tags": [],
   "published_at": "2026-10-05T15:56:18+00:00",
   "first_seen_at": "2026-10-05T15:56:18+00:00",
-  "source": "html"
- },
- {
-  "id": "240174c5d708ca94",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Milli atıcılarımızdan 2 madalya!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303464/milli-aticilarimizdan-2-madalya.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-10-05T06:55:56+00:00",
-  "first_seen_at": "2026-10-05T06:55:56+00:00",
   "source": "html"
  }
 ]

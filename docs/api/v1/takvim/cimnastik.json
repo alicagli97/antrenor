@@ -6,8 +6,16 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "dd0430b6febdc117",
- "event_count": 419,
+ "event_count": 420,
  "events": [
+  {
+   "ad": "ARTİSTİK CİMNASTİK KADINLAR Büyükler ve Prejunior Hazırlık Kampı",
+   "tarih": "2026-11-02",
+   "tarih_metni": "2026.11.07 02.11.2026 - 07.11.2026",
+   "yer": "İSTANBUL",
+   "brans": "Kamp",
+   "satir": "2026 | Kamp | ARTİSTİK CİMNASTİK KADINLAR Büyükler ve Prejunior Hazırlık Kampı | Kadın Artistik Cimnastik | İSTANBUL | 2026.11.07 02.11.2026 - 07.11.2026 | İncele"
+  },
   {
    "ad": "Fiziksel Uygunluk Performans Testi (Motor Test)",
    "tarih": "2026-12-01",
@@ -3199,18 +3207,10 @@
    "yer": "İstanbul",
    "brans": "Seminer",
    "satir": "2026 | Seminer | Pilates Gelişim Semineri 13 Şubat 2026 10:00-14:30 | Pilates | İstanbul | 2026.02.13 13.02.2026 - 13.02.2026 | Katılımcı Listesi İncele"
-  },
-  {
-   "ad": "Pilates Gelişim Semineri 12 Şubat 2026 10:00-14:30",
-   "tarih": "2026-02-12",
-   "tarih_metni": "2026.02.12 12.02.2026 - 12.02.2026",
-   "yer": "İstanbul",
-   "brans": "Seminer",
-   "satir": "2026 | Seminer | Pilates Gelişim Semineri 12 Şubat 2026 10:00-14:30 | Pilates | İstanbul | 2026.02.12 12.02.2026 - 12.02.2026 | Katılımcı Listesi İncele"
   }
  ],
- "checked_at": "2026-10-23T09:57:35",
- "bekleyen_iz": null,
+ "checked_at": "2026-10-23T14:56:50",
+ "bekleyen_iz": "1bad0e9dc321ff94",
  "changed_at": "2026-10-21T15:06:31+00:00",
  "parmak_izi": "dd0430b6febdc117"
 }

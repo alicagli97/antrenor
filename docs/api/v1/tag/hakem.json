@@ -1,5 +1,25 @@
 [
  {
+  "id": "e233d51ef81338ab",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "2027 Yılı Hakem Vize İşlemleri ve Seminerleri",
+  "url": "https://www.badminton.org.tr/2027-yili-hakem-vize-islemleri-ve-seminerleri/",
+  "summary": "Federasyonumuz Merkez Hakem Kurulu kararı gereğince, 2027 yılında görev almak isteyen uluslararası, ulusal, il ve aday hakemlerin vize işlemleri aşağıdaki esaslara göre yürütülecektir. 1. Vize başvuruları 26 Ekim 2026 tarihinde SBS üzerinden başlayacak ve 15 Kasım 2026 tarihinde sona erecektir. Badminton Federasyonu Spor Bilgi Sistemine (SBS) kayıt yapılması zorunludur. SBS kaydı bulunmayan kişilerin vize işlemleri […]",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "vize",
+   "hakem",
+   "transfer",
+   "burs"
+  ],
+  "published_at": "2026-10-23T07:18:49+00:00",
+  "first_seen_at": "2026-10-23T09:59:37+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "3509f0dff34be7bb",
   "federation": "gormeengelliler",
   "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
@@ -904,58 +924,5 @@
   "published_at": "2026-10-05T11:25:30+00:00",
   "first_seen_at": "2026-10-05T15:56:18+00:00",
   "source": "wp_json"
- },
- {
-  "id": "a936635be7575765",
-  "federation": "basketbol",
-  "federation_name": "Türkiye Basketbol Federasyonu",
-  "federation_short": "TBF",
-  "title": "09 - 25 Ekim 2026 Tarihleri Arasında Oynanacak TB2L Müsabakaları Hakem Görevlendirmeleri 05.10.2026",
-  "url": "https://www.tbf.org.tr/haber/09-25-ekim-2026-tarihleri-arasinda-oynanacak-tb2l-musabakalari-hakem-gorevlendirmeleri-2026-10-05",
-  "summary": "",
-  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/6368dd407c694b6c8ab159168eb5bfed_TBFLOGO...jpg",
-  "category": "musabaka",
-  "tags": [
-   "hakem",
-   "musabaka"
-  ],
-  "published_at": "2026-10-05T00:00:00+00:00",
-  "first_seen_at": "2026-10-05T16:00:24+00:00",
-  "source": "html"
- },
- {
-  "id": "3cce72e06005fb6e",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Devam eden soruşturma nedeniyle Merkez Hakem Kurulu Başkanı Sayın Dr.",
-  "url": "https://www.tff.org/default.aspx?pageID=687&ftxtID=51549",
-  "summary": "Ferhat Gündoğdu, adli sürecin sağlıklı yürüyebilmesi ve Merkez Hakem Kurulu faaliyetlerinin aksamaması amacıyla görevinden istifa ettiğini Federasyonumuza yazılı olarak bildirmişti...",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "hakem"
-  ],
-  "published_at": "2026-10-04T00:39:20+00:00",
-  "first_seen_at": "2026-10-04T00:39:20+00:00",
-  "source": "html"
- },
- {
-  "id": "1be131b66de7cd03",
-  "federation": "bedenselengelliler",
-  "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
-  "federation_short": "TBESF",
-  "title": "2026-2027 Sezonu Ampute Futbol Hakem ve Gözlemci Vize Takvimi",
-  "url": "https://www.tbesf.org.tr/tr/2026-2027-sezonu-ampute-futbol-hakem-ve-gozlemci-vize-takvi",
-  "summary": "",
-  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/5922-1000116547.jpg",
-  "category": "kurs",
-  "tags": [
-   "vize",
-   "hakem"
-  ],
-  "published_at": "2026-10-04T00:39:20+00:00",
-  "first_seen_at": "2026-10-04T00:39:20+00:00",
-  "source": "html"
  }
 ]

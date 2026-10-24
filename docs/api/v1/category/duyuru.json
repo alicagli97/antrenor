@@ -304,6 +304,21 @@
   "source": "wp_json"
  },
  {
+  "id": "01714429ffa52fa8",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Tahkim Kurulu Kararları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=247&ftxtID=51729",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-23T00:00:00+00:00",
+  "first_seen_at": "2026-10-24T00:35:53+00:00",
+  "source": "html"
+ },
+ {
   "id": "95c8d20653c15b4f",
   "federation": "tenis",
   "federation_name": "Türkiye Tenis Federasyonu",
@@ -3095,20 +3110,5 @@
   "published_at": "2026-10-19T13:57:01+00:00",
   "first_seen_at": "2026-10-23T19:08:33+00:00",
   "source": "wp_json"
- },
- {
-  "id": "cc67afac15aee33f",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "UEFA'dan Hakemlerimize Görev",
-  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51686",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-19T13:04:22+00:00",
-  "first_seen_at": "2026-10-19T13:04:22+00:00",
-  "source": "html"
  }
 ]

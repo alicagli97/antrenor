@@ -86,6 +86,24 @@
   "source": "wp_json"
  },
  {
+  "id": "ad07dfe2ffc26445",
+  "federation": "basketbol",
+  "federation_name": "Türkiye Basketbol Federasyonu",
+  "federation_short": "TBF",
+  "title": "Ekim - 09 Kasım 2026 Tarihleri Arasında Oynanacak Müsabakaların Hakem Görevlendirmeleri 23.10.2026",
+  "url": "https://www.tbf.org.tr/haber/31-ekim-09-kasim-2026-tarihleri-arasinda-oynanacak-musabakalarin-hakem-gorevlendirmeleri-2026-10-23",
+  "summary": "",
+  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/3ca3ea75a4b548d5b78e4bc7e29850d1_TBFLOGO...jpg",
+  "category": "musabaka",
+  "tags": [
+   "hakem",
+   "musabaka"
+  ],
+  "published_at": "2026-10-23T00:00:00+00:00",
+  "first_seen_at": "2026-10-24T17:46:48+00:00",
+  "source": "html"
+ },
+ {
   "id": "ff106ebd23dca1c9",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3408,23 +3426,6 @@
   ],
   "published_at": "2026-10-07T00:00:00+00:00",
   "first_seen_at": "2026-10-07T16:23:25+00:00",
-  "source": "html"
- },
- {
-  "id": "10d7c329b38cef93",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Nesine 2. ve 3. Lig'de Haftanın Canlı Yayınlanacak Maçları Belirlendi",
-  "url": "https://www.tff.org/default.aspx?pageID=204&ftxtID=51584",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-06T21:41:10+00:00",
-  "first_seen_at": "2026-10-06T21:41:10+00:00",
   "source": "html"
  }
 ]

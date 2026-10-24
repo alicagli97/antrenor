@@ -1,5 +1,103 @@
 [
  {
+  "id": "57dc67a4509050eb",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U15 Kız Millî Takımımız, UEFA Gelişim Turnuvası Hazırlıklarına Başladı",
+  "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51732",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-24T18:05:56+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d664f44cc79fdd4c",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U15 Millî Takımımız, 2026 FIFA U15 Dünya Kupası'nda İlk Maçını Oynadı",
+  "url": "https://www.tff.org/default.aspx?pageID=282&ftxtID=51731",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-24T18:05:56+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "e66579e883eb5824",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "2. Kademe Yüzme Antrenörü Yetiştirme Kursu 19-23 Ekim 2026 Ankara",
+  "url": "https://www.tyf.gov.tr/haber/2-kademe-yuzme-antrenoru-yetistirme-kursu-19-23-ekim-2026-ankara.html",
+  "summary": "BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-10/1499/1791227899_y.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-10-24T18:05:56+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "297a938c42ddcb90",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Milli muaythai takımımız Avrupa üçüncüsü!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/304966/milli-muaythai-takimimiz-avrupa-ucuncusu.aspx",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-24T18:05:56+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "40974cf298f8db39",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Milli eskrimcilerimizden altın ve gümüş madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/304967/milli-eskrimcilerimizden-altin-ve-gumus-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-10-24T18:05:56+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "25a9e47c7002dae9",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 421 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-24T18:04:02+00:00",
+  "first_seen_at": "2026-10-24T18:04:02+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "6aaf0240ad32e098",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -79210,18 +79308,18 @@
   "source": "rss"
  },
  {
-  "id": "8ebbd68e2ac62876",
+  "id": "f341c47a39d0d964",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
   "federation_short": "TİF",
   "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-3",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2026",
   "summary": "11 Eki 26. DÜNYA İZCİ JAMBOREESİ 08 Eki BAŞSAĞLIĞI 8 Ekim 2026 04 Eki JOTA - JOTI 2026 4 Ekim 2026 03 Eki OLAĞAN MALİ GENEL KURUL TOPLANTI TUTANAĞI 3 Ekim 2026 30 Eyl BAŞSAĞLIĞI 30 Eylül 2026 18 Eyl TÜRK JOTA'SI FAALİYETİ 18 Eylül 2026 18 Eyl 18 Eylül 2026 10 Eyl 10 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST TİFAKE Destek Faaliyeti 9 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-11T00:00:00+00:00",
-  "first_seen_at": "2026-10-24T14:29:00+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
   "source": "html"
  },
  {
@@ -96458,6 +96556,104 @@
   "source": "html"
  },
  {
+  "id": "5ee0a7a3319a7dc7",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Wdsf Karayip Dansları Dünya Şampiyonası",
+  "url": "https://tdsf.org.tr/haberler/wdsf-karayip-danslari-dunya-sampiyonasi-1",
+  "summary": "SPORCU GEÇ KAYIT ÜCRETİ HAKKINDA DANS SPORU (LT&ST) İSTANBUL YARIŞMALARI SPORCU LİSTESİ VE PROGRAMI 7 Ekim 2026 ANTRENÖRLÜK UYGULAMASI ÖN BAŞVURU FORMU 6 Ekim 2026 6 Ekim 2026 TEBRİKLER 2 Ekim 2026 DANS SPORU (LT&ST) 1.ETAP YARIŞMA KAYITLARI UZATILDI 2 Ekim 2026 WDSF HİP HOP HAKEM KONGRESİ 30 Eylül 2026 DANS SPORU (LT&ST) 1. ETAP YARIŞMALARI SALON BİLGİSİ 22 Eylül 2026 7. OLAĞAN MALİ GENEL KURULU ",
+  "image": "https://tdsf.org.tr/assets/img/posts/gemini-generated-image-b9w61b9w61b9w61b-1-1791295326.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-08T00:00:00+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "16a76e01b7cf552c",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Ekim 2026 TEBRİKLER",
+  "url": "https://tdsf.org.tr/haberler/wdsftebrik",
+  "summary": "SPORCU GEÇ KAYIT ÜCRETİ HAKKINDA DANS SPORU (LT&ST) İSTANBUL YARIŞMALARI SPORCU LİSTESİ VE PROGRAMI 7 Ekim 2026 ANTRENÖRLÜK UYGULAMASI ÖN BAŞVURU FORMU 6 Ekim 2026 WDSF KARAYİP DANSLARI DÜNYA ŞAMPİYONASI 6 2 Ekim 2026 DANS SPORU (LT&ST) 1.ETAP YARIŞMA KAYITLARI UZATILDI 2 Ekim 2026 WDSF HİP HOP HAKEM KONGRESİ 30 Eylül 2026 DANS SPORU (LT&ST) 1. ETAP YARIŞMALARI SALON BİLGİSİ 22 Eylül 2026 7. OLAĞA",
+  "image": "https://tdsf.org.tr/assets/img/posts/gururumuzsporcularimizmontserrat-1791295017.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-08T00:00:00+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "8a78c68deef3b253",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Dans Sporu (lt&st) 1.etap Yarışma Kayıtları Uzatıldı",
+  "url": "https://tdsf.org.tr/haberler/dans-sporu-ltst-1etap-yarisma-kayitlari-uzatildi",
+  "summary": "SPORCU GEÇ KAYIT ÜCRETİ HAKKINDA DANS SPORU (LT&ST) İSTANBUL YARIŞMALARI SPORCU LİSTESİ VE PROGRAMI 7 Ekim 2026 ANTRENÖRLÜK UYGULAMASI ÖN BAŞVURU FORMU 6 Ekim 2026 WDSF KARAYİP DANSLARI DÜNYA ŞAMPİYONASI 6 Ekim 2026 TEBRİKLER 2 Ekim 2026 2 Ekim 2026 WDSF HİP HOP HAKEM KONGRESİ 30 Eylül 2026 DANS SPORU (LT&ST) 1. ETAP YARIŞMALARI SALON BİLGİSİ 22 Eylül 2026 7. OLAĞAN MALİ GENEL KURULU VE 3. OLAĞANÜ",
+  "image": "https://tdsf.org.tr/assets/img/posts/bilgilendirme-1770022767-1790960918.webp",
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-08T00:00:00+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ce43a0e835127864",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Masa Hakemliği Vize Semineri Açılıyor!",
+  "url": "https://tdsf.org.tr/haberler/masa-hakemligi-vize-semineri-aciliyor",
+  "summary": "SPORCU GEÇ KAYIT ÜCRETİ HAKKINDA DANS SPORU (LT&ST) İSTANBUL YARIŞMALARI SPORCU LİSTESİ VE PROGRAMI 7 Ekim 2026 ANTRENÖRLÜK UYGULAMASI ÖN BAŞVURU FORMU 6 Ekim 2026 WDSF KARAYİP DANSLARI DÜNYA ŞAMPİYONASI 6 Ekim 2026 TEBRİKLER 2 Ekim 2026 DANS SPORU (LT&ST) 1.ETAP YARIŞMA KAYITLARI UZATILDI 2 Ekim 2026 WDSF HİP HOP HAKEM KONGRESİ 30 Eylül 2026 DANS SPORU (LT&ST) 1. ETAP YARIŞMALARI SALON BİLGİSİ 22",
+  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-17-eylul-1-1789667566.jpg",
+  "category": "kurs",
+  "tags": [
+   "vize"
+  ],
+  "published_at": "2026-10-08T00:00:00+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "feb5ca9b5fb31347",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Aday Masa Hakemliği Kursu Açılıyor!",
+  "url": "https://tdsf.org.tr/haberler/aday-masa-hakemligi-kursu-aciliyor",
+  "summary": "SPORCU GEÇ KAYIT ÜCRETİ HAKKINDA DANS SPORU (LT&ST) İSTANBUL YARIŞMALARI SPORCU LİSTESİ VE PROGRAMI 7 Ekim 2026 ANTRENÖRLÜK UYGULAMASI ÖN BAŞVURU FORMU 6 Ekim 2026 WDSF KARAYİP DANSLARI DÜNYA ŞAMPİYONASI 6 Ekim 2026 TEBRİKLER 2 Ekim 2026 DANS SPORU (LT&ST) 1.ETAP YARIŞMA KAYITLARI UZATILDI 2 Ekim 2026 WDSF HİP HOP HAKEM KONGRESİ 30 Eylül 2026 DANS SPORU (LT&ST) 1. ETAP YARIŞMALARI SALON BİLGİSİ 22",
+  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-17-eylul-2-1789667443.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-10-08T00:00:00+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
+  "source": "html"
+ },
+ {
+  "id": "2aa240aa56796dd6",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "2026-2027 Sezonu Dans Sporu (lt&st) 1. Etap Ksy-usy Sporcu Kayıtları",
+  "url": "https://tdsf.org.tr/haberler/2026-2027-sezonu-dans-sporu-ltst-1-etap-ksy-usy-sporcu-kayitlari",
+  "summary": "SPORCU GEÇ KAYIT ÜCRETİ HAKKINDA DANS SPORU (LT&ST) İSTANBUL YARIŞMALARI SPORCU LİSTESİ VE PROGRAMI 7 Ekim 2026 ANTRENÖRLÜK UYGULAMASI ÖN BAŞVURU FORMU 6 Ekim 2026 WDSF KARAYİP DANSLARI DÜNYA ŞAMPİYONASI 6 Ekim 2026 TEBRİKLER 2 Ekim 2026 DANS SPORU (LT&ST) 1.ETAP YARIŞMA KAYITLARI UZATILDI 2 Ekim 2026 WDSF HİP HOP HAKEM KONGRESİ 30 Eylül 2026 DANS SPORU (LT&ST) 1. ETAP YARIŞMALARI SALON BİLGİSİ 22",
+  "image": "https://tdsf.org.tr/assets/img/posts/tdsf-haber-gorselleri-15-eylul-1789462394.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-08T00:00:00+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
+  "source": "html"
+ },
+ {
   "id": "5bc76819f4ba65f2",
   "federation": "danssporlari",
   "federation_name": "Türkiye Dans Sporları Federasyonu",
@@ -102277,18 +102473,18 @@
   "source": "html"
  },
  {
-  "id": "fbffb890784f2f7e",
+  "id": "4dfa06f72d562c3d",
   "federation": "universitesporlari",
   "federation_name": "Türkiye Üniversite Sporları Federasyonu",
   "federation_short": "TÜSF",
   "title": "Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
-  "url": "https://tusf.org.tr/Haber.aspx?b=f30488e9-2a2b-46d5-a469-8d5f48d85832&bid=4408&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
+  "url": "https://tusf.org.tr/Haber.aspx?b=28551889-94ac-4687-af7d-265359b05d5c&bid=4371&_=Pedalını Çevir, Rotanı Slovenya’ya Çevir!",
   "summary": "",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-07T00:00:00+00:00",
-  "first_seen_at": "2026-10-24T14:29:00+00:00",
+  "first_seen_at": "2026-10-24T18:05:56+00:00",
   "source": "html"
  },
  {
@@ -107284,242 +107480,5 @@
   "published_at": "2026-10-06T10:45:47+00:00",
   "first_seen_at": "2026-10-06T10:45:47+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "a2425e76299e29fb",
-  "federation": "boks",
-  "federation_name": "Türkiye Boks Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: U23 Erkekler ve Kadınlar Türkiye Ferdi Boks Şampiyonası Müsabaka Talimatı Yayınlandı",
-  "url": "https://www.turkboks.gov.tr/u23-erkekler-ve-kadinlar-turkiye-ferdi-boks-sampiyonasi-musabaka-talimati-yayinlandi/",
-  "summary": "Türkiye Boks Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-06T10:45:47+00:00",
-  "first_seen_at": "2026-10-06T10:45:47+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cffd18b3d0f00d52",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Ümit Millî Takımımız, Macaristan Karşısında",
-  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51577",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-06T10:08:56+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "html"
- },
- {
-  "id": "a91c7cedf00e7d15",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U17 Millî Takımımız, Avusturya Karşısında",
-  "url": "https://www.tff.org/default.aspx?pageID=276&ftxtID=51576",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-06T10:08:56+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "html"
- },
- {
-  "id": "fb5e0a36aee6b128",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U16 Millî Takımımız, Portekiz Karşısında",
-  "url": "https://www.tff.org/default.aspx?pageID=281&ftxtID=51575",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-06T10:08:56+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "html"
- },
- {
-  "id": "509e83850aae6db2",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Edirne'de Dart Aday Hakem Yetiştirme Kursu Yapılacak. - Duyurular",
-  "url": "https://tbbdf.org.tr/edirnede-dart-aday-hakem-yetistirme-kursu-yapilacak--2",
-  "summary": "TBBDF Haberler Duyurular Edirne'de Dart Aday Hakem Yetiştirme Kursu Yapılacak. Edirne'de Dart Aday Hakem Yetiştirme Kursu Yapılacak. Edirne'de ,10 - 11 Ekim 2026 tarihlerinde Dart Aday Hakem Yetiştirme Kursu yapılacaktır. Hakem Kursuna katılacaklar, kurs bedeli olan 3000 TL'yi (2300 kurs + 700 TL belge ücreti), 10 Ekim 2026 tarihine kadar Federasyonumuzun ( İBAN TR76 0003 2000 0000 0122 0451 17 - TEB / TUNALI HİLMİ ŞUBESİ ) no'lu gelirler hesabına ödemelidir. Katılımcılar, en az 18 yaşını doldurmuş ve 55 yaşından gün almamış olmalıdır, söz konusu kurslara en az lise veya dengi okul mezunu olan",
-  "image": "https://tbbdf.org.tr/images/tr.gif",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-10-06T10:08:56+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "html"
- },
- {
-  "id": "eec011ca0910e734",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Kanocularımızdan 2 madalya!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303503/kanocularimizdan-2-madalya.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-10-06T10:08:56+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "html"
- },
- {
-  "id": "752dac1b07669c50",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Milli tenisçimiz Tuncay'dan şampiyonluk!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303507/milli-teniscimiz-tuncaydan-sampiyonluk.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-06T10:08:56+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "html"
- },
- {
-  "id": "37377547e1fe6054",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Tekerlekli sandalye tenisinde gümüş madalya!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303508/tekerlekli-sandalye-tenisinde-gumus-madalya.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-10-06T10:08:56+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "html"
- },
- {
-  "id": "483d0951c7042551",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Erciyes Dağı 29 Ekim Cumhuriyet Tırmanışı Başvurusu",
-  "url": "https://tdf.tr/erciyes-dagi-29-ekim-cumhuriyet-tirmanisi-basvurusu/",
-  "summary": "Federasyonumuzun 2026 yılı faaliyet programında yer alan Erciyes Dağı 29 Ekim Cumhuriyet Tırmanışı, 28-30 Ekim 2026 tarihleri arasında Kayseri’de gerçekleştirilecektir. Tarih: 28-30 Ekim 2026 Yer: Kayseri Son Başvuru: 22 Ekim 2026 – 07:00 Toplanma Yeri: Kayseri Gençlik ve Spor İl Müdürlüğü 28 Ekim 2026 Saat: 10:00 Sporcuların kazma, kask, krampon ve çadırlarını yanlarında getirmeleri gerekmektedir. Şartlar: Sporcuların kış eğitimini […]",
-  "image": "https://tdf.tr/wp-content/uploads/2026/10/Ekran-goruntusu-2026-10-06-122959.png",
-  "category": "duyuru",
-  "tags": [
-   "burs"
-  ],
-  "published_at": "2026-10-06T09:41:03+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "a1b5daffd4d7561a",
-  "federation": "halter",
-  "federation_name": "Türkiye Halter Federasyonu",
-  "federation_short": "THF",
-  "title": "Federasyonumuzun 8. Olağan Mali Genel Kurulu Ankara’da Gerçekleştirildi",
-  "url": "https://halter.gov.tr/federasyonumuzun-8-olagan-mali-genel-kurulu-ankarada-gerceklestirildi/",
-  "summary": "Türkiye Halter Federasyonu’nun 8. Olağan Mali Genel Kurulu, Ankara’da gerçekleştirildi.Yönetim ve denetim kurulu raporlarının görüşülerek ibra edildiği Genel Kurul’da, federasyonun mali yapısı ve faaliyetleri delegelerle birlikte değerlendirildi.Genel Kurul’da konuşan Türkiye Halter Federasyonu Başkanı Talat Ünlü, Türkiye’nin dört bir yanından gelerek Genel Kurul’a katılan tüm delegelere teşekkür etti.Federasyon olarak yönetim kurulu ile birlikte Türk halterini her […]",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-06T08:52:50+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "a02ee1e18348f64e",
-  "federation": "okculuk",
-  "federation_name": "Türkiye Okçuluk Federasyonu",
-  "federation_short": "TOF",
-  "title": "Para Okçuluk 2. Kademe Temel Antrenör Yetiştirme Uygulama Kursu",
-  "url": "https://www.okculuk.org.tr/para-okculuk-2-kademe-temel-antrenor-yetistirme-uygulama-kursu/",
-  "summary": "Para okçuluk 2. kademe temel antrenör yetiştirme uygulama kursu, başvuru azlığı nedeniyle 2026 yılı sonunda tekrar duyuruya çıkılmak üzere ertelenmiştir. Türkiye Okçuluk Federasyonu",
-  "image": "https://www.okculuk.org.tr/wp-content/uploads/2025/01/antrenor_duyurusu-3.webp",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs",
-   "burs"
-  ],
-  "published_at": "2026-10-06T08:52:10+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "6ad577654071e3c8",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Spor Tırmanış İleri Seviye Eğitimi – Antalya Katılımcı Listesi",
-  "url": "https://tdf.tr/spor-tirmanis-temel-seviye-egitimi-basvurulari-van-2-2-3-2-2-2-3-2-2-copy-copy/",
-  "summary": "14-18 Ekim 2026 tarihleri arasında Antalya ilinde düzenlenecek olan , Spor Tırmanış İleri Seviye Eğitimi Katılımcı Listesi Katılımcı Listesi 📅Eğitim Bilgileri Eğitim Tarihi: 14-18 Ekim 2026 – Antalya Son Başvuru: 06 Ekim 2026 – Saat: 07:00 Kontenjan: 35 Kişi (Başvuru Önceliklidir) Faaliyete kabul edilecek katılımcı sayısı, faaliyetin gerçekleştirileceği yerin koşulları ve kapasitesi dikkate alınarak değişiklik […]",
-  "image": "https://tdf.tr/wp-content/uploads/2025/09/st.jpg",
-  "category": "duyuru",
-  "tags": [
-   "burs"
-  ],
-  "published_at": "2026-10-06T08:44:40+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "6c4d2d1d6a124be5",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Dağ Mihmandarlığı Kursu – Niğde Duyurusu",
-  "url": "https://tdf.tr/dag-mihmandarligi-kursu-nigde-2/",
-  "summary": "Türkiye Dağcılık Federasyonu’nun 2026 yılı faaliyet programında yer alan Dağ Mihmandarlığı Kursu, 23-31 Ekim 2026 tarihleri arasında Niğde Aladağlar Mümtaz Çankaya Dağ Evi‘nde düzenlenecektir. Kurs Yeri: Niğde Aladağlar Mümtaz Çankaya Dağ Evi‘ Kurs Tarihi: 23-31 Ekim 2026 Son Başvuru: 19 Ekim 2026, saat 07:00 Katılım sayısı: En az 10 Katılımcı Dil Yeterlilik Sınavı: 23 Ekim 2026 Saat: 10:00 Dil Yeterlik Sınav yeri: Niğde Ömer Halisdemir Üniversitesi […]",
-  "image": "https://tdf.tr/wp-content/uploads/2026/10/mihmandar-kullanima-hazir-.png",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "burs"
-  ],
-  "published_at": "2026-10-06T07:08:12+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "ab3f31939020b6cc",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "Bocce 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Kırıkkale’de Açılıyor!",
-  "url": "https://tossfed.gov.tr/bocce-1-kademe-yardimci-antrenor-yetistirme-kursu-kirikkalede-aciliyor/",
-  "summary": "ÖZEL SPORCULAR 1.KADEME BOCCE YARDIMCI ANTRENÖR KURSU 20 – 25 EKİM 2026 TARİHLERİ ARASINDA KIRIKKALE YENİ SPOR KOMPLEKSİ’NDE YAPILACAKTIR. BAŞVURULARI 06 – 19 EKİM 2026 TARİHLERİNDE E-DEVLET SPOR BİLGİ SİSTEMİ ÜZERİNDEN BAŞVURU YAPABİLİRSİNİZ. KURS İÇİN ÜCRET YATIRMA SON GÜNÜ 19 EKİM PAZARTESİ GÜNÜDÜR. KURS ÜCRETİNİ YATIRMAYANLAR KURSA KATILIM YAPAMAYACAKLARDIR. ÖNEMLİ NOT : MÜCBİR SEBEPLER DIŞINDA PARA İADESİ YAPILMAYACAKTIR. …",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs",
-   "burs"
-  ],
-  "published_at": "2026-10-06T06:57:52+00:00",
-  "first_seen_at": "2026-10-06T10:08:56+00:00",
-  "source": "rss"
  }
 ]

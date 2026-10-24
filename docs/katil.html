@@ -32,6 +32,11 @@ a{color:var(--accent)}
           color:#fff;font:700 14px/26px system-ui;text-align:center}
 .adim > div{flex:1;display:flex;flex-direction:column;gap:8px}
 .adim strong{font-size:16px}
+.uyari{background:var(--bg);border:1px solid var(--accent);border-left-width:4px;
+       border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:8px}
+.uyari strong{color:var(--accent);font-size:15px}
+.uyari p{font-size:14.5px;color:var(--ink2)}
+.uyari .ipucu{font-size:13.5px;color:var(--ink3)}
 .gizli{display:none}
 nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;
     border-top:1px solid var(--line);padding-top:16px}
@@ -79,9 +84,21 @@ nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;
     </div>
   </div>
 
+  <div class="uyari">
+    <strong>Hemen indiremeyebilirsiniz — bu normal.</strong>
+    <p>Google, grup üyeliğinizi Play Store'a yansıtırken gecikiyor. 2. adımda
+    <em>"uygulama bulunamadı"</em> yazarsa yanlış bir şey yapmış değilsiniz:
+    <strong>birkaç saat içinde</strong> açılır. Aynı bağlantıyı daha sonra
+    tekrar açın; 1. adımı tekrarlamanıza gerek yok.</p>
+    <p class="ipucu">Bu sayfayı telefonunuza yer imi olarak ekleyin, sonra
+    kolayca dönersiniz.</p>
+  </div>
+
   <p class="muted">İlk adımı atlamayın — gruba katılmadan indirme sayfası
-  "uygulama bulunamadı" der. Grup üyeliğiniz yalnızca test erişimi için
-  kullanılır; gruba ileti gönderilmez ve diğer üyeler adresinizi görmez.</p>
+  hiçbir zaman açılmaz. Gruba katılırken kullandığınız Google hesabı,
+  telefonunuzda Play Store'da açık olan hesapla <strong>aynı</strong>
+  olmalı. Grup üyeliğiniz yalnızca test erişimi için kullanılır; gruba ileti
+  gönderilmez ve diğer üyeler adresinizi görmez.</p>
 </div>
 
 <!-- Bilgisayar / tanınmayan cihaz -->

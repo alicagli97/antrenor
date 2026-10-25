@@ -1,5 +1,23 @@
 [
  {
+  "id": "4a5814277cfe9d9a",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Triatlon faaliyet takviminde değişiklik",
+  "url": "https://triatlon.org.tr",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-25T21:40:54+00:00",
+  "first_seen_at": "2026-10-25T21:40:54+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "221eae0326a0b793",
   "federation": "triatlon",
   "federation_name": "Türkiye Triatlon Federasyonu",
@@ -1080,25 +1098,6 @@
   ],
   "published_at": "2026-10-20T08:53:54+00:00",
   "first_seen_at": "2026-10-20T08:53:54+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "5a34f457da66c961",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "Mevzuat güncellendi: Eğitim, Altyapı ve Kulüplere Yardım Talimatı / 04.07.2018",
-  "url": "https://triatlon.org.tr/egitim-altyapi-ve-kuluplere-yardim-talimati.html",
-  "summary": "Türkiye Triatlon Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-20T08:53:53+00:00",
-  "first_seen_at": "2026-10-20T08:53:53+00:00",
   "source": "mevzuat"
  }
 ]

@@ -17,6 +17,23 @@
   "source": "api"
  },
  {
+  "id": "efbf2f3881de617f",
+  "federation": "motosiklet",
+  "federation_name": "Türkiye Motosiklet Federasyonu",
+  "federation_short": "TMF",
+  "title": "Musatti Drag Şampiyonası'nda Kupalar Sahibini Buldu",
+  "url": "https://www.tmf.org.tr/Haberler/Musatti-Drag-sampiyonasi-nda-Kupalar-Sahibini-Buldu/",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-25T00:00:00+00:00",
+  "first_seen_at": "2026-10-25T21:42:55+00:00",
+  "source": "html"
+ },
+ {
   "id": "57dc67a4509050eb",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3409,23 +3426,6 @@
   ],
   "published_at": "2026-10-07T08:36:01+00:00",
   "first_seen_at": "2026-10-07T08:36:01+00:00",
-  "source": "html"
- },
- {
-  "id": "0d0a00bbfad640b7",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» 09-17 Ekim Tiflis Veteranlar Dünya Şampiyonası Epe & Flöre & Kılıç Kafile Listeleri Hk.",
-  "url": "https://www.eskrim.org.tr/09-17-ekim-tiflis-veteranlar-dunya-sampiyonasi-epe-flore-kilic-kafile-listeleri-hk-2645.html",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-07T01:28:32+00:00",
-  "first_seen_at": "2026-10-07T01:28:32+00:00",
   "source": "html"
  }
 ]

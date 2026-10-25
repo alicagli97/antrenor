@@ -1,5 +1,72 @@
 [
  {
+  "id": "4cca28f305d0d379",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "UEFA'dan Hatice Aydın Duygu'ya Görev",
+  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51735",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-25T16:04:26+00:00",
+  "first_seen_at": "2026-10-25T16:04:26+00:00",
+  "source": "html"
+ },
+ {
+  "id": "69fe72f2ca228880",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-25T16:02:38+00:00",
+  "first_seen_at": "2026-10-25T16:02:38+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "e446cd10b3f2f4ea",
+  "federation": "otomobil",
+  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
+  "federation_short": "TOSFED",
+  "title": "Baja Sezonu Denizli’de Son Buldu",
+  "url": "https://www.tosfed.org.tr/baja-sezonu-denizlide-son-buldu/",
+  "summary": "Denizli Doğa Sporları ve 4×4 Offroad Spor Kulübü (DENDOFF) tarafından Merkezefendi Belediyesi ve Spor Toto’nun katkılarıyla düzenlenen Baja Denizli, 16 araç ve 32 sporcunun katılımıyla geride kaldı. 2026 Türkiye Baja Şampiyonası’nın finali niteliğindeki son yarış olan organizasyon, iki gün boyunca Denizli’nin Merkezefendi ilçesinde heyecan dolu anlara sahne oldu. Hierapolis, Laodikeia ve Merkezefendi Belediyesi etaplarında yaşanan […]",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-25T15:55:52+00:00",
+  "first_seen_at": "2026-10-25T16:04:26+00:00",
+  "source": "rss"
+ },
+ {
+  "id": "705c9d5f54b16ef8",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Kadın A Milli Takımımız, Üçlü Hazırlık Turnuvası'nı İki Galibiyetle Tamamladı",
+  "url": "https://thf.org.tr/haber/kadin-a-milli-takimimiz-uclu-hazirlik-turnuvasini-iki-galibiyetle-tamamladi",
+  "summary": "Aralık ayında Antalya'da düzenlenecek EHF EURO 2026 öncesi hazırlıklarını sürdüren Kadın A Milli Hentbol Takımımız, Ankara'da gerçekleştirilen üçlü hazırlık turnuvasının ikinci maçında Ukrayna'yı 32-29 mağlup etti. Türkiye Hentbol Federasyonu Prof. Dr. Yaşar Sevim Hentbol Salonu'nda oynanan karşılaşmanın ilk yarısını 15-13 geride tamamlayan Ay-Yıldızlılarımız, ikinci yarıda ortaya koyduğu performansla mücadelede üstünlüğü ele geçirerek sahadan 32-29 galip ayrıldı. Türkiye, İran ve Ukrayna milli takımlarının katılımıyla 23-25 Ekim 2026 tarihleri arasında düzenlenen turnuvanın ilk maçında İran'ı",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-25T15:12:16+00:00",
+  "first_seen_at": "2026-10-25T16:04:26+00:00",
+  "source": "api"
+ },
+ {
   "id": "82e916dddf4a3d62",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -5065,72 +5132,5 @@
   "published_at": "2026-10-21T15:06:30+00:00",
   "first_seen_at": "2026-10-21T15:06:30+00:00",
   "source": "takvim-html"
- },
- {
-  "id": "702f2d9b9950e9be",
-  "federation": "masatenisi",
-  "federation_name": "Türkiye Masa Tenisi Federasyonu",
-  "federation_short": "TMTF",
-  "title": "Masa Tenisi faaliyet takviminde değişiklik",
-  "url": "https://tmtf.gov.tr/haberler-35",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-21T15:06:29+00:00",
-  "first_seen_at": "2026-10-21T15:06:29+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "9a3011fee9bf1669",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "Yasaklılar Listesi",
-  "url": "https://taf.org.tr/2027-yasaklilar-listesi/",
-  "summary": "21 Ekim 2026 Genel Duyuru 2027 Yasaklılar Listesi 2027 Yasaklılar Listesi Paylaş:",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/10/DUYURU.png",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-21T14:29:23+00:00",
-  "first_seen_at": "2026-10-21T15:08:20+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "f3e83cb69c201f7f",
-  "federation": "okculuk",
-  "federation_name": "Türkiye Okçuluk Federasyonu",
-  "federation_short": "TOF",
-  "title": "4. Kademe Başantrenör Yetiştirme Uygulama Kursu",
-  "url": "https://www.okculuk.org.tr/4-kademe-basantrenor-yetistirme-uygulama-kursu/",
-  "summary": "Değerli Antrenörlerimiz, 2026 yılı Faaliyet Programımızda bulunan “4. Kademe Başantrenör Yetiştirme Uygulama Kursu” 20-28 Kasım 2026 tarihleri arasında Antalya’da yapılacaktır. 2026 Yılı Antrenör Yetiştirme Kurslarımızın aşağıda detayları belirtilmiş olan bir dizi kural ve uygulama eşliğinde düzenlenmesi planlanmaktadır; 1. Kurs katılımı 45 asil ve 5 bütünleme katılımcısı olmak üzere toplamda 50 kişi ile sınırlıdır. Başvurular ve ödeme süreci 23 -30 Ekim 2026 tarihleri arasında tamamlanacak olup, sistem […]",
-  "image": "https://www.okculuk.org.tr/wp-content/uploads/2025/01/antrenor_duyurusu-3.webp",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs",
-   "burs"
-  ],
-  "published_at": "2026-10-21T12:39:29+00:00",
-  "first_seen_at": "2026-10-21T15:08:20+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "6da1f31174af5857",
-  "federation": "ozelsporcular",
-  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
-  "federation_short": "TÖSSF",
-  "title": "MHP Genel Başkanı Dr. Devlet Bahçeli, Federasyon Başkanı Birol Aydın’ı Makamında Kabul Etti!",
-  "url": "https://tossfed.gov.tr/mhp-genel-baskani-dr-devlet-bahceli-federasyon-baskani-birol-aydini-makaminda-kabul-etti/",
-  "summary": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Sayın Dr. Devlet Bahçeli, Türkiye Özel Sporcular Spor Federasyonu Başkanı ve Türk Devletleri Özel Sporcular Spor Federasyonu Başkanı Birol Aydın’ı makamında kabul etti. Gerçekleştirilen ziyarette, 2026 yılında düzenlenmesi planlanan Türk Devletleri Özel Sporcular Spor Organizasyonu hakkında görüş alışverişinde bulunuldu. Federasyon Başkanı Birol Aydın, organizasyonun hazırlık süreci, hedefleri ve kapsamına …",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-21T12:35:39+00:00",
-  "first_seen_at": "2026-10-21T15:08:20+00:00",
-  "source": "rss"
  }
 ]

@@ -1,63 +1,140 @@
 <!doctype html>
 <html lang="tr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Uygulamayı indir — Antrenör</title>
-<meta name="description" content="Antrenör uygulamasını iPhone veya Android cihazınıza indirin.">
+<title>Antrenör — 65 federasyon, tek uygulama</title>
+<meta name="description" content="Antrenörlük kursu, vize semineri, kademe ve hakem duyuruları 65 federasyondan tek akışta. Ücretsiz.">
+<meta property="og:title" content="Antrenör — 65 federasyon, tek uygulama">
+<meta property="og:description" content="Kurs, vize ve mevzuat duyurularını kaçırma. Ücretsiz, hesap gerekmez.">
+<meta property="og:image" content="https://alicagli97.github.io/antrenor/g/simge.png">
 <style>
 :root{--bg:#EDF0F3;--card:#fff;--line:#DCE2E8;--ink:#101720;--ink2:#4C5966;
-      --ink3:#7A8794;--accent:#A8201A;--ok:#12674A}
+      --ink3:#7A8794;--accent:#A8201A}
 @media (prefers-color-scheme:dark){:root{--bg:#0C1015;--card:#141A21;--line:#28323D;
-      --ink:#E7ECF1;--ink2:#A7B3BF;--ink3:#7B8896;--accent:#E4635A;--ok:#4CBE92}}
+      --ink:#E7ECF1;--ink2:#A7B3BF;--ink3:#7B8896;--accent:#E4635A}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);
      font:16px/1.62 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-.wrap{max-width:560px;margin:0 auto;padding:40px 20px 80px;display:flex;
-      flex-direction:column;gap:20px}
+.wrap{max-width:600px;margin:0 auto;padding:32px 20px 72px;display:flex;
+      flex-direction:column;gap:26px}
+h1{font-size:31px;line-height:1.12;letter-spacing:-.02em;margin:0}
+h2{font-size:19px;margin:0 0 4px}
+p,ul,ol{margin:0}
 .eyebrow{font:600 11px/1 ui-monospace,Consolas,monospace;letter-spacing:.16em;
          text-transform:uppercase;color:var(--accent)}
-h1{font-size:30px;line-height:1.14;letter-spacing:-.02em;margin:8px 0 0}
-h2{font-size:18px;margin:0 0 4px}
-p,ol{margin:0}
-ol{padding-left:20px;display:flex;flex-direction:column;gap:6px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:12px;
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;
       padding:20px 22px;display:flex;flex-direction:column;gap:12px}
 .muted{color:var(--ink3);font-size:14px}
 a{color:var(--accent)}
+
+header{display:flex;flex-direction:column;gap:14px;align-items:center;text-align:center}
+header img.simge{width:84px;height:84px;border-radius:19px;box-shadow:0 4px 14px rgba(0,0,0,.18)}
+.spot{font-size:17px;color:var(--ink2);max-width:46ch}
+
+.sayilar{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.sayi{background:var(--card);border:1px solid var(--line);border-radius:12px;
+      padding:13px 8px;text-align:center}
+.sayi b{display:block;font:700 23px/1.1 ui-monospace,Consolas,monospace;
+        font-variant-numeric:tabular-nums}
+.sayi span{font-size:11.5px;color:var(--ink3);letter-spacing:.02em}
+
+.ozellik{display:flex;gap:11px;align-items:flex-start}
+.ozellik .im{flex:0 0 26px;font-size:19px;line-height:1.3;text-align:center}
+.ozellik b{font-size:15.5px}
+.ozellik p{font-size:14.5px;color:var(--ink2)}
+
+.ekranlar{display:flex;gap:11px;overflow-x:auto;padding-bottom:6px;
+          scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch}
+.ekranlar img{width:170px;flex:0 0 auto;border-radius:13px;border:1px solid var(--line);
+              scroll-snap-align:center}
+
+.secim{display:flex;flex-direction:column;gap:10px}
 .btn{display:block;text-align:center;background:var(--accent);color:#fff;
      text-decoration:none;font-weight:600;font-size:17px;padding:15px 20px;
-     border-radius:10px}
-.btn.alt{background:transparent;color:var(--accent);border:1px solid var(--accent)}
+     border-radius:11px;border:none;cursor:pointer;width:100%;font-family:inherit}
+.btn.alt{background:transparent;color:var(--accent);border:1.5px solid var(--accent)}
+.btn.sade{background:var(--card);color:var(--ink);border:1px solid var(--line);font-weight:500}
+
 .adim{display:flex;gap:12px;align-items:flex-start}
-.adim .no{flex:0 0 26px;height:26px;border-radius:50%;background:var(--accent);
-          color:#fff;font:700 14px/26px system-ui;text-align:center}
+.adim .no{flex:0 0 27px;height:27px;border-radius:50%;background:var(--accent);
+          color:#fff;font:700 14px/27px system-ui;text-align:center}
 .adim > div{flex:1;display:flex;flex-direction:column;gap:8px}
 .adim strong{font-size:16px}
 .uyari{background:var(--bg);border:1px solid var(--accent);border-left-width:4px;
-       border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:8px}
+       border-radius:11px;padding:14px 16px;display:flex;flex-direction:column;gap:7px}
 .uyari strong{color:var(--accent);font-size:15px}
 .uyari p{font-size:14.5px;color:var(--ink2)}
-.uyari .ipucu{font-size:13.5px;color:var(--ink3)}
 .gizli{display:none}
-nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;
-    border-top:1px solid var(--line);padding-top:16px}
+nav{display:flex;gap:15px;flex-wrap:wrap;font-size:13.5px;
+    border-top:1px solid var(--line);padding-top:15px;justify-content:center}
 </style></head>
 <body><div class="wrap">
 
 <header>
-  <div class="eyebrow">65 federasyon, tek akış</div>
-  <h1>Antrenör'ü indir</h1>
-  <p class="muted">Antrenör kursu, vize semineri, kademe ve hakem duyuruları —
-  her federasyonun sitesini tek tek gezmeden.</p>
+  <img class="simge" src="./g/simge.png" alt="Antrenör">
+  <div>
+    <div class="eyebrow">Ücretsiz · iPhone ve Android</div>
+    <h1>65 federasyon,<br>tek uygulama</h1>
+  </div>
+  <p class="spot">Antrenörlük kursu, vize semineri, kademe yükseltme ve hakem
+  duyuruları. Her federasyonun sitesini tek tek gezmeden, hepsi tek akışta.</p>
 </header>
 
-<!-- iPhone / iPad -->
-<div class="card gizli" id="ios">
-  <h2>iPhone veya iPad</h2>
-  <p class="muted">App Store'da yayında, ücretsiz.</p>
-  <a class="btn" id="ios-bag" href="https://apps.apple.com/tr/app/id6804263306">App Store'dan indir</a>
+<div class="sayilar">
+  <div class="sayi"><b>65</b><span>FEDERASYON</span></div>
+  <div class="sayi"><b>6.000</b><span>DUYURU</span></div>
+  <div class="sayi"><b>1.000+</b><span>MEVZUAT</span></div>
 </div>
 
-<!-- Android -->
+<div class="ekranlar">
+  <img src="./g/ekran-1.jpg" alt="Duyuru akışı" loading="lazy">
+  <img src="./g/ekran-2.jpg" alt="Vize takibi" loading="lazy">
+  <img src="./g/ekran-3.jpg" alt="Bilgi deposu" loading="lazy">
+</div>
+
+<div class="card">
+  <h2>Ne işe yarıyor?</h2>
+
+  <div class="ozellik"><div class="im">📣</div><div>
+    <b>Kursu kaçırma</b>
+    <p>Kurs ilanı çıkar, on gün açık kalır, kaçırırsan bir yıl beklersin.
+    Takip ettiğin federasyonda yeni duyuru çıkınca telefonuna bildirim düşer.</p>
+  </div></div>
+
+  <div class="ozellik"><div class="im">⏳</div><div>
+    <b>Vize takibi</b>
+    <p>Branşını, kademeni ve vize bitiş tarihini bir kez gir. Son güne 60, 30,
+    7 ve 1 gün kala uygulama sana kendiliğinden hatırlatır.</p>
+  </div></div>
+
+  <div class="ozellik"><div class="im">📚</div><div>
+    <b>Mevzuat arşivi</b>
+    <p>Talimatlar, yönetmelikler ve oyun kuralları federasyon federasyon
+    derlenmiş. Bir kez açtığın belge internetsiz de açılır.</p>
+  </div></div>
+
+  <div class="ozellik"><div class="im">🔒</div><div>
+    <b>Hesap yok</b>
+    <p>Üye olmana, e-posta vermene gerek yok. Vize bilgilerin yalnızca kendi
+    telefonunda saklanır.</p>
+  </div></div>
+</div>
+
+<div class="card" id="secim-karti">
+  <h2>Uygulamayı indir</h2>
+  <p class="muted">Hangi telefonu kullanıyorsun?</p>
+  <div class="secim">
+    <button class="btn" onclick="goster('ios')">iPhone</button>
+    <button class="btn alt" onclick="goster('android')">Android</button>
+  </div>
+</div>
+
+<div class="card gizli" id="ios">
+  <h2>iPhone</h2>
+  <p class="muted">App Store'da yayında, ücretsiz. Tek dokunuş, bekleme yok.</p>
+  <a class="btn" href="https://apps.apple.com/tr/app/id6804263306">App Store'dan indir</a>
+  <button class="btn sade" onclick="goster('android')">Android kullanıyorum</button>
+</div>
+
 <div class="card gizli" id="android">
   <h2>Android</h2>
   <p>Android sürümü şu an <strong>kapalı test</strong> aşamasında: Google,
@@ -68,47 +145,37 @@ nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;
     <span class="no">1</span>
     <div>
       <strong>Test grubuna katıl</strong>
-      <p class="muted">Açılan sayfada <em>"Gruba katıl"</em> düğmesine basın.
-      Google hesabınızla giriş yapmış olmanız gerekir.</p>
-      <a class="btn" href="https://groups.google.com/g/antrenor-android-test">Gruba katıl</a>
+      <p class="muted">Açılan sayfada <em>"Gruba katıl"</em> düğmesine bas.
+      Telefonundaki Play Store hesabınla <strong>aynı</strong> Google hesabıyla
+      giriş yapmış olman gerekiyor.</p>
+      <a class="btn" href="https://groups.google.com/g/antrenor-android-test">1. Gruba katıl</a>
     </div>
   </div>
 
   <div class="adim">
     <span class="no">2</span>
     <div>
-      <strong>Uygulamayı indir</strong>
-      <p class="muted">Açılan sayfada <em>"Test kullanıcısı ol"</em> deyin,
-      ardından çıkan Google Play bağlantısından indirin.</p>
-      <a class="btn alt" href="https://play.google.com/apps/testing/com.antrenorapp.antrenor">İndirme sayfasını aç</a>
+      <strong>Play Store'dan indir</strong>
+      <p class="muted">Açılan sayfada <em>"Test kullanıcısı ol"</em> de,
+      ardından çıkan Google Play bağlantısından indir.</p>
+      <a class="btn alt" href="https://play.google.com/apps/testing/com.antrenorapp.antrenor">2. İndirme sayfasını aç</a>
     </div>
   </div>
 
   <div class="uyari">
-    <strong>Hemen indiremeyebilirsiniz — bu normal.</strong>
-    <p>Google, grup üyeliğinizi Play Store'a yansıtırken gecikiyor. 2. adımda
-    <em>"uygulama bulunamadı"</em> yazarsa yanlış bir şey yapmış değilsiniz:
-    <strong>birkaç saat içinde</strong> açılır. Aynı bağlantıyı daha sonra
-    tekrar açın; 1. adımı tekrarlamanıza gerek yok.</p>
-    <p class="ipucu">Bu sayfayı telefonunuza yer imi olarak ekleyin, sonra
-    kolayca dönersiniz.</p>
+    <strong>Hemen indiremeyebilirsin — bu normal.</strong>
+    <p>Google, grup üyeliğini Play Store'a yansıtırken gecikiyor. 2. adımda
+    <em>"uygulama bulunamadı"</em> yazarsa yanlış bir şey yapmadın:
+    <strong>birkaç saat içinde</strong> açılır. Bu sayfayı yer imine ekle,
+    sonra geri dön — 1. adımı tekrarlamana gerek yok.</p>
   </div>
 
-  <p class="muted">İlk adımı atlamayın — gruba katılmadan indirme sayfası
-  hiçbir zaman açılmaz. Gruba katılırken kullandığınız Google hesabı,
-  telefonunuzda Play Store'da açık olan hesapla <strong>aynı</strong>
-  olmalı. Grup üyeliğiniz yalnızca test erişimi için kullanılır; gruba ileti
-  gönderilmez ve diğer üyeler adresinizi görmez.</p>
+  <button class="btn sade" onclick="goster('ios')">iPhone kullanıyorum</button>
 </div>
 
-<!-- Bilgisayar / tanınmayan cihaz -->
-<div class="card gizli" id="diger">
-  <h2>Hangi cihazı kullanıyorsunuz?</h2>
-  <p class="muted">Bu sayfayı telefonunuzdan açarsanız doğrudan mağazaya
-  yönlendirilirsiniz. Elle seçmek için:</p>
-  <a class="btn" href="https://apps.apple.com/tr/app/id6804263306">iPhone — App Store</a>
-  <a class="btn alt" href="https://groups.google.com/g/antrenor-android-test">Android — test grubuna katıl</a>
-</div>
+<p class="muted" style="text-align:center">Antrenör bağımsız bir uygulamadır;
+federasyonlarla veya Gençlik ve Spor Bakanlığı ile resmî bir bağlantısı yoktur.
+Duyurular federasyonların herkese açık sayfalarından derlenir.</p>
 
 <nav>
   <a href="./index.html">Ana sayfa</a>
@@ -119,13 +186,26 @@ nav{display:flex;gap:16px;flex-wrap:wrap;font-size:14px;
 
 </div>
 <script>
+function goster(hedef) {
+  ["ios", "android"].forEach(function (id) {
+    document.getElementById(id).classList.toggle("gizli", id !== hedef);
+  });
+  document.getElementById("secim-karti").classList.add("gizli");
+  document.getElementById(hedef).scrollIntoView({behavior: "smooth", block: "start"});
+}
+
 (function () {
+  // Cihazi taniyorsak dogrudan o adimi acalim; tanimiyorsak secim karti kalir.
   var ua = navigator.userAgent || "";
   var iOS = /iPad|iPhone|iPod/.test(ua) ||
             (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1); // iPadOS
-  var android = /Android/.test(ua);
-  document.getElementById(iOS ? "ios" : (android ? "android" : "diger"))
-          .classList.remove("gizli");
+  if (iOS) {
+    document.getElementById("ios").classList.remove("gizli");
+    document.getElementById("secim-karti").classList.add("gizli");
+  } else if (/Android/.test(ua)) {
+    document.getElementById("android").classList.remove("gizli");
+    document.getElementById("secim-karti").classList.add("gizli");
+  }
 })();
 </script>
 </body></html>

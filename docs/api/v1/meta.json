@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-25T18:00:21+00:00",
+ "generated_at": "2026-10-25T18:58:30+00:00",
  "total": 5998,
- "new_in_last_run": 0,
+ "new_in_last_run": 540,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -11,16 +11,14 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": [
-  "basketbol"
- ],
- "latest_published_at": "2026-10-25T16:04:26+00:00",
+ "partial_run": null,
+ "latest_published_at": "2026-10-25T17:51:43+00:00",
  "categories": {
-  "duyuru": 609,
+  "duyuru": 612,
   "takvim": 64,
   "musabaka": 208,
   "haber": 46,
-  "mevzuat": 4960,
+  "mevzuat": 4957,
   "kurs": 111
  },
  "silent_sources": [
@@ -46,11 +44,12 @@
   }
  ],
  "federation_counts": {
+  "badminton": 15,
+  "otomobil": 28,
   "futbol": 127,
   "eskrim": 174,
-  "otomobil": 26,
   "hentbol": 47,
-  "gsb": 705,
+  "gsb": 702,
   "izcilik": 581,
   "ragbi": 64,
   "universitesporlari": 61,
@@ -71,7 +70,6 @@
   "aticilik": 59,
   "bisiklet": 28,
   "voleybol": 115,
-  "badminton": 14,
   "yuzme": 25,
   "shgm": 40,
   "hokey": 25,

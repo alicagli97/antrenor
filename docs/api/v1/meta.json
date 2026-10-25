@@ -1,22 +1,12 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-24T23:16:27+00:00",
+ "generated_at": "2026-10-25T01:09:08+00:00",
  "total": 5998,
- "new_in_last_run": 432,
- "sources_ok": 53,
+ "new_in_last_run": 522,
+ "sources_ok": 63,
  "sources_failed": [
-  "atletizm",
   "basketbol",
-  "boks",
-  "dagcilik",
-  "danssporlari",
-  "gormeengelliler",
-  "herkesicinspor",
-  "hokey",
-  "isitmeengelliler",
-  "kano",
-  "sualti",
-  "vucutgelistirme"
+  "paralimpik"
  ],
  "sources_empty": [
   "kayak"

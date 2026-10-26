@@ -19,34 +19,56 @@
  ],
  "atletizm": [
   {
-   "url": "https://taf.org.tr/wp-content/uploads/2025/06/TAF-Faliyet-takvim2026-10.08.2026.pdf",
+   "url": "https://taf.org.tr/wp-content/uploads/2025/06/TAF-Faliyet-takvim2026-26.10.2026.pdf",
    "tur": "pdf",
    "label": "Faaliyet Takvimi > takvim",
    "score": 80.0,
    "event_count": 166
   },
   {
-   "url": "https://taf.org.tr/wp-content/uploads/2025/06/TAF-Faliyet-takvim2026-10.08.2026.pdf",
+   "url": "https://taf.org.tr/wp-content/uploads/2025/06/TAF-Faliyet-takvim2026-21.09.2026.pdf",
    "tur": "pdf",
-   "label": "Faaliyet Takvimi > belge",
+   "label": "Faaliyet Takvimi > takvim",
    "score": 80.0,
-   "event_count": 166
+   "event_count": 168
   }
  ],
  "hentbol": [],
- "judo": [
+ "judo": [],
+ "gures": [
   {
-   "url": "https://www.judo.org.tr/duyuru/3631",
+   "url": "https://tgf.tr/faaliyet-programi/20",
    "tur": "html",
-   "label": "Federasyonumuzun 2026 yılı faaliyet programında yer alan 1. ve 2.Dan Kursu ve Sı",
+   "label": "Faaliyet Programı > 21 Oca BÜYÜKLER TÜRKİYE GÜREŞ ŞAMPİYONASI 2025-2026 Sezonu Ulusal FS-GR-WW 21.01",
+   "score": 55.0,
+   "event_count": 0
+  },
+  {
+   "url": "https://tgf.tr/faaliyet-programi/21",
+   "tur": "html",
+   "label": "Faaliyet Programı > 11 Şub U23 AHMET TURAN DUMAN ŞAMPİYONASI 2025-2026 Sezonu Ulusal FS 11.02.2025 -",
    "score": 55.0,
    "event_count": 0
   }
  ],
- "gures": [],
  "halter": [],
  "boks": [],
- "taekwondo": [],
+ "taekwondo": [
+  {
+   "url": "https://www.turkiyetaekwondofed.gov.tr/faaliyet-takvimi/",
+   "tur": "html",
+   "label": "Faaliyet Takvimi",
+   "score": 10.0,
+   "event_count": 0
+  },
+  {
+   "url": "https://www.turkiyetaekwondofed.gov.tr/tr/faaliyet-takvimi",
+   "tur": "html",
+   "label": "yaygın yol /tr/faaliyet-takvimi",
+   "score": 10.0,
+   "event_count": 0
+  }
+ ],
  "karate": [
   {
    "url": "https://karate.gov.tr/faaliyet_takvimi.php?yil=2027",
@@ -65,34 +87,34 @@
  ],
  "yuzme": [
   {
-   "url": "https://dosya.tyf.gov.tr/public/upload/0/2026-08/Yuzme-2026-2027-Faaliyet-Takvimi-Taslak.pdf",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2026-10/Yuzme-2026-2027-Faaliyet-Takvimi-Revize--25102026.pdf",
    "tur": "pdf",
-   "label": "takvim > 2026-2027 SEZONU YÜZME FAALİYET TAKVİMİ (TASLAK)",
+   "label": "Faaliyet Takvimi Yarışmalar ve Reglamanlar > 2026-2027 SEZONU YÜZME FAALİYET TAKVİMİ (TASLAK) Revize 25.10.2026",
    "score": 80.0,
-   "event_count": 41
+   "event_count": 34
   },
   {
-   "url": "https://dosya.tyf.gov.tr/public/upload/0/2026-08/Yuzme-2026-2027-Faaliyet-Takvimi-Taslak.pdf",
+   "url": "https://dosya.tyf.gov.tr/public/upload/0/2026-10/Yuzme-2026-2027-Faaliyet-Takvimi-Revize--25102026.pdf",
    "tur": "pdf",
-   "label": "takvim > belge",
+   "label": "Faaliyet Takvimi Yarışmalar ve Reglamanlar > belge",
    "score": 80.0,
-   "event_count": 41
+   "event_count": 34
   }
  ],
  "tenis": [
   {
-   "url": "https://www.ttf.org.tr/public/documents/Takvim_2026_-_05_05_2026_1777983778.pdf",
+   "url": "https://www.ttf.org.tr/public/documents/Taslak_Takvim_2026_-_18_08_2026_1788179237.pdf",
    "tur": "pdf",
    "label": "2026 Turnuva Takvimi > Turnuva Takvimi",
    "score": 80.0,
-   "event_count": 65
+   "event_count": 52
   },
   {
-   "url": "https://www.ttf.org.tr/public/documents/Takvim_2026_-_05_05_2026_1777983778.pdf",
+   "url": "https://www.ttf.org.tr/public/documents/Taslak_Takvim_2026_-_18_08_2026_1788179237.pdf",
    "tur": "pdf",
    "label": "2026 Turnuva Takvimi > belge",
    "score": 80.0,
-   "event_count": 65
+   "event_count": 52
   }
  ],
  "masatenisi": [
@@ -111,29 +133,21 @@
    "event_count": 0
   }
  ],
- "badminton": [
-  {
-   "url": "https://www.badminton.org.tr/category/faaliyet-programi/",
-   "tur": "html",
-   "label": "yaygın yol /faaliyetler > Faaliyet Programı",
-   "score": 10.0,
-   "event_count": 0
-  }
- ],
+ "badminton": [],
  "bisiklet": [
   {
-   "url": "https://bisiklet.org.tr/depolama/2026/08/2026-Faaliyet-Takvimi-5.pdf",
+   "url": "https://bisiklet.org.tr/depolama/2026/09/2026-Faaliyet-Takvimi-3.pdf",
    "tur": "pdf",
    "label": "Takvim > 2026 Faaliyet Takvimi (PDF)",
    "score": 80.0,
-   "event_count": 170
+   "event_count": 164
   },
   {
-   "url": "https://bisiklet.org.tr/depolama/2026/08/2026-Faaliyet-Takvimi-5.pdf",
+   "url": "https://bisiklet.org.tr/depolama/2026/09/2026-Faaliyet-Takvimi-3.pdf",
    "tur": "pdf",
    "label": "Takvim > belge",
    "score": 80.0,
-   "event_count": 170
+   "event_count": 164
   }
  ],
  "okculuk": [],
@@ -155,6 +169,13 @@
  ],
  "binicilik": [
   {
+   "url": "https://binicilik.org.tr/faaliyetler/liste",
+   "tur": "html",
+   "label": "2026 Faaliyet Listesi",
+   "score": 67.5,
+   "event_count": 15
+  },
+  {
    "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
    "tur": "html",
    "label": "Yarışma Programları",
@@ -168,40 +189,33 @@
    "tur": "html",
    "label": "Tüm Faaliyetleri Gör",
    "score": 90.0,
-   "event_count": 329
+   "event_count": 421
   },
   {
    "url": "https://www.tcf.gov.tr/tr/faaliyetler",
    "tur": "html",
    "label": "yaygın yol /tr/faaliyetler",
    "score": 90.0,
-   "event_count": 329
+   "event_count": 421
   }
  ],
  "eskrim": [
   {
-   "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+   "url": "https://www.eskrim.org.tr/23-25-ekim-erzurum-epe-federasyon-kupasi-musabaka-programi-hk-2689.html",
    "tur": "html",
-   "label": "» Faaliyet takvimine alınan kamplar hakkında",
+   "label": "» 23-25 Ekim Erzurum Epe Federasyon Kupası Müsabaka Programı Hk.",
    "score": 10.0,
    "event_count": 0
   },
   {
-   "url": "https://www.eskrim.org.tr/faaliyet-takvimi-40.html",
+   "url": "https://www.eskrim.org.tr/23-25-ekim-sanliurfa-flore-federasyon-kupasi-musabaka-programi-hk-2688.html",
    "tur": "html",
-   "label": "FAALİYET TAKVİMİ",
-   "score": 0.0,
+   "label": "» 23-25 Ekim Şanlıurfa Flöre Federasyon Kupası Müsabaka Programı Hk.",
+   "score": 10.0,
    "event_count": 0
   }
  ],
  "kurek": [
-  {
-   "url": "https://tkf.gov.tr/tr/faaliyet-takvimi",
-   "tur": "html",
-   "label": "yaygın yol /tr/faaliyet-takvimi",
-   "score": 10.0,
-   "event_count": 0
-  },
   {
    "url": "https://tkf.gov.tr/tr/faaliyetler",
    "tur": "html",
@@ -224,8 +238,8 @@
    "url": "https://www.tyf.org.tr/faaliyet/detay/285491",
    "tur": "html",
    "label": "2026 TYF Para Yelken Türkiye Şampiyonası",
-   "score": 85.5,
-   "event_count": 27
+   "score": 88.5,
+   "event_count": 29
   },
   {
    "url": "https://www.tyf.org.tr/faaliyet/detay/281579",
@@ -253,14 +267,14 @@
  ],
  "pentatlon": [
   {
-   "url": "https://tmpf.org.tr/wp-content/uploads/2025/11/2026-yili-faaliyet-takvimi-aug-13.pdf",
+   "url": "https://tmpf.org.tr/wp-content/uploads/2025/11/2026-yili-faaliyet-takvimi-aug-20.pdf",
    "tur": "pdf",
    "label": "2026 Faaliyet Takvimi > Faaliyet Takvimini İndir",
    "score": 80.0,
    "event_count": 0
   },
   {
-   "url": "https://tmpf.org.tr/wp-content/uploads/2025/11/2026-yili-faaliyet-takvimi-aug-13.pdf",
+   "url": "https://tmpf.org.tr/wp-content/uploads/2025/11/2026-yili-faaliyet-takvimi-aug-20.pdf",
    "tur": "pdf",
    "label": "2026 Faaliyet Takvimi > belge",
    "score": 80.0,
@@ -269,18 +283,18 @@
  ],
  "buzpateni": [
   {
+   "url": "https://buzpateni.org.tr/faaliyet-programi-short-track",
+   "tur": "html",
+   "label": "Faaliyet Programı > Detaylar",
+   "score": 56.5,
+   "event_count": 31
+  },
+  {
    "url": "https://buzpateni.org.tr/faaliyet-programi-artistik",
    "tur": "html",
    "label": "Faaliyet Programı > Detaylar",
-   "score": 50.5,
-   "event_count": 27
-  },
-  {
-   "url": "https://buzpateni.org.tr/faaliyet-programi/artistik",
-   "tur": "html",
-   "label": "Artistik Buz Pateni",
-   "score": 40.5,
-   "event_count": 27
+   "score": 55.0,
+   "event_count": 30
   }
  ],
  "buzhokeyi": [],
@@ -290,17 +304,10 @@
  "golf": [],
  "satranc": [
   {
-   "url": "https://www.tsf.org.tr/index.php?option=com_tsftakvim&view=takvimview&aid=1031",
+   "url": "https://www.tsf.org.tr/takvim",
    "tur": "html",
-   "label": "Etkinlik Takvimi > 2025 - 2026 Türkiye Küçükler Satranç Şampiyonası",
-   "score": 55.0,
-   "event_count": 0
-  },
-  {
-   "url": "https://www.tsf.org.tr/index.php?option=com_tsftakvim&view=takvimview&aid=1032",
-   "tur": "html",
-   "label": "Etkinlik Takvimi > 2025 - 2026 Türkiye Yıldızlar Satranç Şampiyonası",
-   "score": 55.0,
+   "label": "Tüm etkinlikler",
+   "score": 0.0,
    "event_count": 0
   }
  ],
@@ -321,25 +328,17 @@
    "event_count": 71
   }
  ],
- "bilardo": [
-  {
-   "url": "https://www.bilardo.org.tr/haberler/turkiye-bilardo-federasyonu-2026-agustos-aralik-ayi-faaliyet-takvimi-1141",
-   "tur": "html",
-   "label": "Türkiye Bilardo Federasyonu 2026 Ağustos - Aralık Ayı Faaliyet Takvimi Ankara",
-   "score": 55.0,
-   "event_count": 0
-  }
- ],
+ "bilardo": [],
  "motosiklet": [
   {
-   "url": "https://www.tmf.org.tr/Duyurular/2026-Yaris-Takvimi-Aciklandi/",
+   "url": "https://tmf.org.tr/Duyurular/2026-Yaris-Takvimi-Aciklandi/",
    "tur": "html",
    "label": "2026 Yarış Takvimi Açıklandı",
    "score": 55.0,
    "event_count": 0
   },
   {
-   "url": "https://www.tmf.org.tr/takvim-calendar/",
+   "url": "https://tmf.org.tr/takvim-calendar/",
    "tur": "html",
    "label": "Yarış Takvimi",
    "score": 10.0,
@@ -348,18 +347,18 @@
  ],
  "otomobil": [
   {
-   "url": "https://www.tosfed.org.tr/wp-content/uploads/2026/07/2026.7-TOSFED-Ulusal-Yarisma-Takvimi-31.07.2026.v7.pdf",
+   "url": "https://www.tosfed.org.tr/wp-content/uploads/2026/09/2026.9-TOSFED-Ulusal-Yarisma-Takvimi-17.09.2026.v9.pdf",
    "tur": "pdf",
    "label": "Ulusal Yarışma Takvimi > Open in new tab",
    "score": 80.0,
-   "event_count": 24
+   "event_count": 32
   },
   {
-   "url": "https://www.tosfed.org.tr/wp-content/uploads/2026/07/2026.7-TOSFED-Ulusal-Yarisma-Takvimi-31.07.2026.v7.pdf",
+   "url": "https://www.tosfed.org.tr/wp-content/uploads/2026/09/2026.9-TOSFED-Ulusal-Yarisma-Takvimi-17.09.2026.v9.pdf",
    "tur": "pdf",
    "label": "Ulusal Yarışma Takvimi > belge",
    "score": 80.0,
-   "event_count": 24
+   "event_count": 32
   }
  ],
  "sualti": [
@@ -373,43 +372,35 @@
  ],
  "vucutgelistirme": [
   {
-   "url": "https://tvgfbf.gov.tr/etkinlikler",
+   "url": "https://tvgfbf.gov.tr/faaliyet-takvimi",
    "tur": "html",
-   "label": "Faaliyetler",
-   "score": 15.0,
-   "event_count": 10
+   "label": "yaygın yol /faaliyet-takvimi",
+   "score": 10.0,
+   "event_count": 0
   },
   {
-   "url": "https://tvgfbf.gov.tr/duyurular/yarisma-programinda-bazi-kategori-lerde-tari-h-degi-si-kli-gi",
+   "url": "https://tvgfbf.gov.tr/faaliyet-programi",
    "tur": "html",
-   "label": "ÖNE ÇIKAN DUYURULAR YARIŞMA PROGRAMINDA BAZI KATEGORİLERDE TARİH DEĞİŞİKLİĞİ DUY",
+   "label": "yaygın yol /faaliyet-programi",
    "score": 10.0,
    "event_count": 0
   }
  ],
- "wushu": [
-  {
-   "url": "https://twkf.gov.tr/faaliyet_takvimi.php",
-   "tur": "html",
-   "label": "yaygın yol /faaliyet_takvimi.php",
-   "score": 10.0,
-   "event_count": 0
-  }
- ],
+ "wushu": [],
  "muaythai": [],
  "bedenselengelliler": [
   {
-   "url": "https://www.tbesf.org.tr/userFiles/files/5035-2026-2027-vize-takvim-duyurusu..docx",
-   "tur": "word",
-   "label": "2026-2027 Sezonu Ampute Futbol Hakem ve Gözlemci Vize Takvimi > Dökümanı İndir",
-   "score": 80.0,
+   "url": "https://www.tbesf.org.tr/userFiles/files/8575-2026-2027-super-lig-fikstur-(2).xlsx",
+   "tur": "excel",
+   "label": "2026-2027 Tekerlekli Sandalye Basketbol Süper Lig Fikstürü > Dökümanı İndir",
+   "score": 70.0,
    "event_count": 0
   },
   {
-   "url": "https://www.tbesf.org.tr/userFiles/files/5035-2026-2027-vize-takvim-duyurusu..docx",
-   "tur": "word",
-   "label": "2026-2027 Sezonu Ampute Futbol Hakem ve Gözlemci Vize Takvimi > belge",
-   "score": 80.0,
+   "url": "https://www.tbesf.org.tr/userFiles/files/8575-2026-2027-super-lig-fikstur-(2).xlsx",
+   "tur": "excel",
+   "label": "2026-2027 Tekerlekli Sandalye Basketbol Süper Lig Fikstürü > belge",
+   "score": 70.0,
    "event_count": 0
   }
  ],
@@ -418,11 +409,11 @@
  "ozelsporcular": [],
  "herkesicinspor": [
   {
-   "url": "https://his.gov.tr/agustos-2026-kurs-takvimi",
+   "url": "https://his.gov.tr/kasim-2026-kurs-takvimi",
    "tur": "html",
    "label": "Kurs Takvimi",
-   "score": 80.5,
-   "event_count": 17
+   "score": 70.0,
+   "event_count": 10
   }
  ],
  "gelenekselguresler": [
@@ -461,18 +452,11 @@
  ],
  "beyzbol": [
   {
-   "url": "https://tbsf.org.tr/faaliyet-takvimi",
+   "url": "https://tbsf.org.tr/turk-amator-spor-federasyonlari-beyzbol-ragbi-ve-amerikan-futbolu-icin-seyahatleri-azaltan-ve-programlamayi-kolaylastiran-birlesik-fikstur-platformunu-hayata-gecirdi/",
    "tur": "html",
-   "label": "yaygın yol /faaliyet-takvimi",
-   "score": 71.5,
-   "event_count": 41
-  },
-  {
-   "url": "https://tbsf.org.tr/faaliyet-programi",
-   "tur": "html",
-   "label": "yaygın yol /faaliyet-programi",
-   "score": 71.5,
-   "event_count": 41
+   "label": "Yeni Fixture Platformu, Türk Amatör Sporlarında Beyzbol, Ragbi ve Amerikan Futbo",
+   "score": 0.0,
+   "event_count": 0
   }
  ],
  "ragbi": [
@@ -493,25 +477,17 @@
  ],
  "oryantiring": [],
  "universitesporlari": [],
- "danssporlari": [
-  {
-   "url": "https://tdsf.org.tr/faaliyet-takvimi",
-   "tur": "html",
-   "label": "FAALİYET TAKVİMİ",
-   "score": 84.0,
-   "event_count": 56
-  }
- ],
+ "danssporlari": [],
  "gelismekteolan": [
   {
-   "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-469-10-13-eylul-2026-hemsball-gencler-ve-buyukler-turkiye-sampiyonasi-mugla-mentese",
+   "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-507-16-22-kasim-2026-hemsball-2.-kademe-temel-antrenor-yetistirme-kursu-denizli-merkezefendi",
    "tur": "html",
    "label": "FAALİYETLER > takvim",
    "score": 55.0,
    "event_count": 0
   },
   {
-   "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-468-hemsball-2026-2027-sezonu-online-hakem-vize-semineri-23-agustos-2026",
+   "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-506-17-18-ekim-2026-hemsball-aday-hakem-kursu-sivas-katilimci-listesi",
    "tur": "html",
    "label": "FAALİYETLER > takvim",
    "score": 55.0,
@@ -520,18 +496,18 @@
  ],
  "havasporlari": [
   {
-   "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+   "url": "https://thsf.org.tr/wp-content/uploads/2026/09/THSF-2026-Faaliyet-Takvimi-17_09_2026_16_00.pdf",
    "tur": "pdf",
-   "label": "Etkinlikler > THSF 2026 Faaliyet Takvimi",
+   "label": "Etkinlikler > Faaliyet Takvimi",
    "score": 80.0,
-   "event_count": 40
+   "event_count": 42
   },
   {
-   "url": "https://thsf.org.tr/wp-content/uploads/2026/06/THSF-2026-Faaliyet-Takvimi.pdf",
+   "url": "https://thsf.org.tr/wp-content/uploads/2026/09/THSF-2026-Faaliyet-Takvimi-17_09_2026_16_00.pdf",
    "tur": "pdf",
-   "label": "yaygın yol /faaliyet-takvimi > THSF 2026 Faaliyet Takvimi",
+   "label": "yaygın yol /faaliyet-takvimi > Faaliyet Takvimi",
    "score": 80.0,
-   "event_count": 40
+   "event_count": 42
   }
  ],
  "izcilik": [],
@@ -539,16 +515,9 @@
   {
    "url": "https://kaykay.org.tr/public/uploads/belgeler/1785783607526-faaliyet-programi-yeni.pdf",
    "tur": "pdf",
-   "label": "Faaliyet Programı",
+   "label": "Faaliyet Programı PDF",
    "score": 35.0,
    "event_count": 39
-  },
-  {
-   "url": "https://kaykay.org.tr/faaliyet-takvimi",
-   "tur": "html",
-   "label": "yaygın yol /faaliyet-takvimi",
-   "score": 10.0,
-   "event_count": 0
   }
  ],
  "shgm": [],

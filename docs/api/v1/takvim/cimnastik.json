@@ -129,20 +129,20 @@
    "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | İzmir | 2026.10.31 26.10.2026 - 31.10.2026 | Katılımcı Listesi İncele"
   },
   {
-   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
-   "tarih": "2026-10-26",
-   "tarih_metni": "2026.10.31 26.10.2026 - 31.10.2026",
-   "yer": "Bursa",
-   "brans": "Kurs",
-   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Bursa | 2026.10.31 26.10.2026 - 31.10.2026 | Katılımcı Listesi İncele"
-  },
-  {
    "ad": "3. Kademe Kıdemli Eğitmenlik Kursu",
    "tarih": "2026-10-26",
    "tarih_metni": "2026.10.31 26.10.2026 - 31.10.2026",
    "yer": "İstanbul",
    "brans": "Kurs",
    "satir": "2026 | Kurs | 3. Kademe Kıdemli Eğitmenlik Kursu | Pilates | İstanbul | 2026.10.31 26.10.2026 - 31.10.2026 | Katılımcı Listesi İncele"
+  },
+  {
+   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+   "tarih": "2026-10-26",
+   "tarih_metni": "2026.10.31 26.10.2026 - 31.10.2026",
+   "yer": "Bursa",
+   "brans": "Kurs",
+   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Bursa | 2026.10.31 26.10.2026 - 31.10.2026 | Katılımcı Listesi İncele"
   },
   {
    "ad": "2026.10.31 26.10.2026 - 31.10.2026",
@@ -3209,8 +3209,8 @@
    "satir": "2026 | Seminer | Pilates Gelişim Semineri -1 31 Ocak 2026 13:00-15:30 | Pilates | Diyarbakır | 2026.01.31 31.01.2026 - 31.01.2026 | Katılımcı Listesi İncele"
   }
  ],
- "checked_at": "2026-10-26T00:09:44",
- "bekleyen_iz": null,
+ "checked_at": "2026-10-26T12:48:43",
+ "bekleyen_iz": "92dd5ff97539066b",
  "changed_at": "2026-10-24T18:04:02+00:00",
  "parmak_izi": "53ea9e89f5b72d4f"
 }

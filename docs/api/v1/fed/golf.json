@@ -1,5 +1,70 @@
 [
  {
+  "id": "a0ba71adb05c1e30",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "Zafer Turnuvası Talimatı",
+  "url": "https://tgf.org.tr/upload/yarisma-talimati-zafer-turnuvasi-2026_e69727_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "musabaka"
+  ],
+  "published_at": "2026-10-26T12:50:16+00:00",
+  "first_seen_at": "2026-10-26T12:50:16+00:00",
+  "source": "html"
+ },
+ {
+  "id": "cce842ec4eb20963",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "10. Mali Genel Kurulu Duyurusu (Genel Kurul Çağrısı ve Gündem)",
+  "url": "https://tgf.org.tr/upload/genel-kurul-cagrisi-ve-gundem_7c89f4_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-26T12:50:16+00:00",
+  "first_seen_at": "2026-10-26T12:50:16+00:00",
+  "source": "html"
+ },
+ {
+  "id": "7d45ae280fee0554",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "10. Mali Genel Kurulu Duyurusu (Geçici Delege Listesi)",
+  "url": "https://tgf.org.tr/upload/gecici-delege-listesi_ce011c_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-26T12:50:16+00:00",
+  "first_seen_at": "2026-10-26T12:50:16+00:00",
+  "source": "html"
+ },
+ {
+  "id": "53646b418a02f4da",
+  "federation": "golf",
+  "federation_name": "Türkiye Golf Federasyonu",
+  "federation_short": "TGF",
+  "title": "10. Mali Genel Kurulu Duyurusu (Ana Statü Değişiklik Taslağı)",
+  "url": "https://tgf.org.tr/upload/ana-statu-degisiklik-taslagi_c1a62e_duyuru.pdf",
+  "summary": "",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat"
+  ],
+  "published_at": "2026-10-26T12:50:16+00:00",
+  "first_seen_at": "2026-10-26T12:50:16+00:00",
+  "source": "html"
+ },
+ {
   "id": "ec8c12d73ccf89f1",
   "federation": "golf",
   "federation_name": "Türkiye Golf Federasyonu",
@@ -1017,80 +1082,6 @@
   ],
   "published_at": "2026-10-24T08:25:38+00:00",
   "first_seen_at": "2026-10-24T08:25:38+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a8a48268e1b6fcbd",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: TGF Eğitim, Altyapı ve Kulüplere Yardım Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/tgf-egitim-altyapi-ve-kuluplere-yardim-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-24T08:25:37+00:00",
-  "first_seen_at": "2026-10-24T08:25:37+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "91b6e48609fffa37",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Türkiye Golf Federasyonu Antrenör Eğitimi Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/turkiye-golf-federasyonu-antrenor-egitimi-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-24T08:25:37+00:00",
-  "first_seen_at": "2026-10-24T08:25:37+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "7f6e72ba1335e9b3",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Ana Statü",
-  "url": "https://tgf.org.tr/tr/ana-statu",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-24T08:25:37+00:00",
-  "first_seen_at": "2026-10-24T08:25:37+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "e14409f6d593f46e",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Bütçe ve Muhasebe Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/butce-ve-muhasebe-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-24T08:25:37+00:00",
-  "first_seen_at": "2026-10-24T08:25:37+00:00",
   "source": "mevzuat"
  }
 ]

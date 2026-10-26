@@ -13,6 +13,24 @@
    "mevzuat",
    "talimat"
   ],
+  "published_at": "2026-10-26T09:21:08+00:00",
+  "first_seen_at": "2026-10-26T09:21:08+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "d193559a54b13bfe",
+  "federation": "bisiklet",
+  "federation_name": "Türkiye Bisiklet Federasyonu",
+  "federation_short": "TBF",
+  "title": "Mevzuat güncellendi: Skip to content",
+  "url": "https://bisiklet.org.tr/yonetmelik-ve-talimatlar/#content",
+  "summary": "Türkiye Bisiklet Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
   "published_at": "2026-10-25T08:43:00+00:00",
   "first_seen_at": "2026-10-25T08:43:00+00:00",
   "source": "mevzuat"
@@ -474,23 +492,5 @@
   "published_at": "2026-10-07T13:09:04+00:00",
   "first_seen_at": "2026-10-07T16:23:25+00:00",
   "source": "wp_json"
- },
- {
-  "id": "d193559a54b13bfe",
-  "federation": "bisiklet",
-  "federation_name": "Türkiye Bisiklet Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: Skip to content",
-  "url": "https://bisiklet.org.tr/yonetmelik-ve-talimatlar/#content",
-  "summary": "Türkiye Bisiklet Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-07T10:34:28+00:00",
-  "first_seen_at": "2026-10-07T10:34:28+00:00",
-  "source": "mevzuat"
  }
 ]

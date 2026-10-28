@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-27T21:15:49+00:00",
+ "generated_at": "2026-10-28T01:14:19+00:00",
  "total": 5999,
- "new_in_last_run": 549,
+ "new_in_last_run": 544,
  "sources_ok": 64,
  "sources_failed": [
   "basketbol"
@@ -12,11 +12,11 @@
  ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-27T21:14:12+00:00",
+ "latest_published_at": "2026-10-28T01:14:19+00:00",
  "categories": {
+  "musabaka": 216,
   "takvim": 65,
-  "musabaka": 215,
-  "mevzuat": 4935,
+  "mevzuat": 4934,
   "duyuru": 622,
   "kurs": 117,
   "haber": 45
@@ -44,13 +44,13 @@
   }
  ],
  "federation_counts": {
+  "futbol": 127,
   "gelismekteolan": 54,
   "danssporlari": 15,
   "eskrim": 173,
   "binicilik": 208,
   "hentbol": 50,
   "atletizm": 56,
-  "futbol": 126,
   "boks": 28,
   "golf": 436,
   "isitmeengelliler": 13,
@@ -63,7 +63,7 @@
   "ragbi": 65,
   "ozelsporcular": 143,
   "okculuk": 36,
-  "gsb": 709,
+  "gsb": 708,
   "izcilik": 582,
   "universitesporlari": 63,
   "oryantiring": 52,

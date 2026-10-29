@@ -1,5 +1,37 @@
 [
  {
+  "id": "1ec160ffc36a21ed",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Duyuru ve Kararlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=687&ftxtID=51774",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-29T14:11:02+00:00",
+  "first_seen_at": "2026-10-29T14:11:02+00:00",
+  "source": "html"
+ },
+ {
+  "id": "78f35b6eac735ec5",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "U15 ve U16 Millî Takımlarımız, 29 Ekim Cumhuriyet Bayramı'nı Kutladı",
+  "url": "https://www.tff.org/default.aspx?pageID=628&ftxtID=51773",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "milli_takim"
+  ],
+  "published_at": "2026-10-29T14:11:02+00:00",
+  "first_seen_at": "2026-10-29T14:11:02+00:00",
+  "source": "html"
+ },
+ {
   "id": "29e878a5bde72d63",
   "federation": "okculuk",
   "federation_name": "Türkiye Okçuluk Federasyonu",
@@ -969,18 +1001,18 @@
   "source": "rss"
  },
  {
-  "id": "8ebbd68e2ac62876",
+  "id": "1b97cbcec20be269",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
   "federation_short": "TİF",
   "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-3",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2",
   "summary": "27 Eki BAŞSAĞLIĞI 11 Eki 26. DÜNYA İZCİ JAMBOREESİ 11 Ekim 2026 08 Eki BAŞSAĞLIĞI 8 Ekim 2026 04 Eki JOTA - JOTI 2026 4 Ekim 2026 03 Eki OLAĞAN MALİ GENEL KURUL TOPLANTI TUTANAĞI 3 Ekim 2026 30 Eyl BAŞSAĞLIĞI 30 Eylül 2026 18 Eyl TÜRK JOTA'SI FAALİYETİ 18 Eylül 2026 18 Eyl 18 Eylül 2026 10 Eyl 10 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST TİFAKE Destek Faaliyeti 9 Eylül 2026 09 Eyl Türk",
   "image": null,
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-27T00:00:00+00:00",
-  "first_seen_at": "2026-10-29T06:59:44+00:00",
+  "first_seen_at": "2026-10-29T14:11:02+00:00",
   "source": "html"
  },
  {
@@ -3082,36 +3114,6 @@
   "tags": [],
   "published_at": "2026-10-21T23:14:32+00:00",
   "first_seen_at": "2026-10-21T23:14:32+00:00",
-  "source": "html"
- },
- {
-  "id": "6ac15a5d2ae4b1c9",
-  "federation": "beyzbol",
-  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
-  "federation_short": "TBSF",
-  "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
-  "url": "https://tbsf.org.tr/incele.php?id=Mzk2",
-  "summary": "",
-  "image": "https://tbsf.org.tr/icerikresim/x396.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-21T23:14:32+00:00",
-  "first_seen_at": "2026-10-21T23:14:32+00:00",
-  "source": "html"
- },
- {
-  "id": "410f2b3e1e44550c",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "UEFA'dan Halil Umut Meler'e Görev",
-  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51718",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-21T19:18:44+00:00",
-  "first_seen_at": "2026-10-21T19:18:44+00:00",
   "source": "html"
  }
 ]

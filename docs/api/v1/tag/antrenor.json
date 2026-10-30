@@ -1,5 +1,23 @@
 [
  {
+  "id": "483db7c4278cd956",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Seminer Başvuruları Hk.",
+  "url": "https://taf.org.tr/seminer-basvurulari-hk/",
+  "summary": "6-7-8 Kasım 2026 tarihlerinde çevrimiçi (online) ve 7-8 Kasım 2026 tarihlerinde İzmir ilinde yüz yüze olarak düzenlenecek olan seminer başvuruları ve ödemeleri; Spor Bilgi Sistemi üzerinde yaşanan mezuniyet hatalarının giderilmesi adına 03 Kasım 2026 Salı günü 23.59‘a kadar uzatılmıştır. Mezuniyet hatası yaşayan antrenörlerimiz mezun oldukları üniversite ile iletişime geçerek yada e-posta ile bilgilerini üniversitelerine ileterek […]",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "burs"
+  ],
+  "published_at": "2026-10-30T17:18:25+00:00",
+  "first_seen_at": "2026-10-30T19:14:38+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "5172b5c44f39ecef",
   "federation": "bocce",
   "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
@@ -1325,6 +1343,24 @@
   "published_at": "2026-10-30T10:26:24+00:00",
   "first_seen_at": "2026-10-30T10:26:24+00:00",
   "source": "mevzuat"
+ },
+ {
+  "id": "d510184ec588df6f",
+  "federation": "gormeengelliler",
+  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "federation_short": "GESF",
+  "title": "Futbol-futsal 3. Kademe Kıdemli Antrenör Yetiştirme Kursu Duyurusu",
+  "url": "https://www.gesf.org.tr/haber/futbol-futsal-3-kademe-kidemli-antrenor-yetistirme-kursu-duyurusu-101",
+  "summary": "duyuru Futbol Deplasmanlı Süper Lig 12. Hafta Hakem ve Görevli Listesi Yayınlandı Futbol Deplasmanlı Süper Lig 12. Hafta Hakem ve Görevli Listesi Yayınlandı 2747 görüntülenme duyuru FUTBOL ADAY HAKEM KURSU ANKARA’DA BAŞLIYOR Türkiye Görme Engelliler Spor Federasyonumuz tarafından düzenlenen Futbol Aday Hakem Kursu, 31 Ekim–1 Kasım 2026 tarihlerinde Ankara’da gerçekleştirilecek.Gençlik ve Spor Baka",
+  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1789989326_6355b47b.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-10-30T00:00:00+00:00",
+  "first_seen_at": "2026-10-30T19:14:38+00:00",
+  "source": "html"
  },
  {
   "id": "4520c7ae4c3d6eef",
@@ -3739,44 +3775,6 @@
   "federation_short": "TGF",
   "title": "Mevzuat güncellendi: Sözleşmeli Antrenör ve Personel Çalıştırılması Hakkında Talimat",
   "url": "https://tgf.org.tr/tr/talimatlar/sozlesmeli-antrenor-ve-personel-calistirilmasi-hakkinda-talimat",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-28T10:02:17+00:00",
-  "first_seen_at": "2026-10-28T10:02:17+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a8a48268e1b6fcbd",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: TGF Eğitim, Altyapı ve Kulüplere Yardım Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/tgf-egitim-altyapi-ve-kuluplere-yardim-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-28T10:02:17+00:00",
-  "first_seen_at": "2026-10-28T10:02:17+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "91b6e48609fffa37",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Türkiye Golf Federasyonu Antrenör Eğitimi Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/turkiye-golf-federasyonu-antrenor-egitimi-talimati",
   "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

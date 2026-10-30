@@ -1,5 +1,88 @@
 [
  {
+  "id": "fdef27027b965582",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF-FIFA TDS \"Geleceğin Liderleri\" Eğitim Programı Riva'da Gerçekleştirildi",
+  "url": "https://www.tff.org/default.aspx?pageID=228&ftxtID=51784",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-30T23:40:51+00:00",
+  "first_seen_at": "2026-10-30T23:40:51+00:00",
+  "source": "html"
+ },
+ {
+  "id": "697df84d097bada4",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-30T23:38:59+00:00",
+  "first_seen_at": "2026-10-30T23:38:59+00:00",
+  "source": "takvim-excel"
+ },
+ {
+  "id": "04b032650a050cff",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Para Badminton Türkiye Şampiyonası Teknik Toplantısı Yapıldı",
+  "url": "https://www.badminton.org.tr/para-badminton-turkiye-sampiyonasi-teknik-toplantisi-yapildi-2/",
+  "summary": "31 Ekim-01 Kasım 2026 tarihleri arasında Ankara’da yapılacak olan Para Badminton Türkiye Şampiyonası teknik toplantısı yapıldı. Toplantıya Federasyon Asbaşkanı Zafer Şahin, Para Badminton Teknik Kurulu Üyeleri, antrenör ve idareciler katıldı.",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-19.29.50-e1793389804138.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "antrenor",
+   "musabaka"
+  ],
+  "published_at": "2026-10-30T19:50:15+00:00",
+  "first_seen_at": "2026-10-30T23:40:51+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "1ad45938e6227e77",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Dakar 2026 Yaz Gençlik Olimpiyat Oyunları başlıyor!",
+  "url": "https://www.badminton.org.tr/dakar-2026-yaz-genclik-olimpiyat-oyunlari-basliyor/",
+  "summary": "Senegal’in başkenti Dakar’da 31 Ekim – 13 Kasım tarihleri arasında düzenlenecek 4’üncü Yaz Gençlik Olimpiyat Oyunları’nda ülkemizi sporcumuz Berkay Ceyhan temsil edecek. Afrika kıtasında düzenlenen ilk Olimpik spor organizasyonu olma özelliği taşıyan oyunlarda sporcumuza ve teknik ekibimize başarılar diliyoruz.",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-30-at-19.05.22-e1793389667394.jpeg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-30T19:47:56+00:00",
+  "first_seen_at": "2026-10-30T23:40:51+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "b90164ae7577bd70",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Nilüfer Belediyesi Spor Kulübüne Ziyaret",
+  "url": "https://www.badminton.org.tr/nilufer-belediyesi-spor-kulubune-ziyaret/",
+  "summary": "Federasyon Asbaşkanı Zafer Şahin ve Federasyon Genel Koordinatörü Aytekin Keleş, Nilüfer Belediyesi Spor Kulübü’nü ziyaret etti. Kulüp Başkanı Muharrem Or’un ev sahipliğinde gerçekleşen bu kıymetli ziyarette, spora sağladıkları katkılardan dolayı federasyonumuz adına bir plaket takdim edildi. Nilüfer Belediyesi Spor Kulübü’ne misafirperverlikleri ve spora verdikleri değerli destekler için teşekkür eder, iş birliğimizin güçlenerek devam etmesini dileriz.",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-29-at-11.30.08-e1793388520931.jpeg",
+  "category": "duyuru",
+  "tags": [
+   "kulup"
+  ],
+  "published_at": "2026-10-30T19:28:50+00:00",
+  "first_seen_at": "2026-10-30T23:40:51+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "d4fff89a1674b9a0",
   "federation": "buzpateni",
   "federation_name": "Türkiye Buz Pateni Federasyonu",
@@ -358,24 +441,6 @@
   "published_at": "2026-10-30T14:01:21+00:00",
   "first_seen_at": "2026-10-30T14:01:21+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "c6a00be8ca74588d",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Voleybol faaliyet takviminde değişiklik",
-  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-30T14:00:52+00:00",
-  "first_seen_at": "2026-10-30T14:00:52+00:00",
-  "source": "takvim-excel"
  },
  {
   "id": "c91f00b47a53b569",
@@ -4968,18 +5033,63 @@
   "source": "html"
  },
  {
-  "id": "ef37a3e1b108fc76",
+  "id": "1be0122965f3d6de",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Tahkim Kurulu Kararları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=247&ftxtID=51786",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-30T00:00:00+00:00",
+  "first_seen_at": "2026-10-30T23:40:51+00:00",
+  "source": "html"
+ },
+ {
+  "id": "bf8fa6cdad66b744",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Hukuk Müşavirliği -Sevkler- Detay TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1294&ftxtID=51785",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-30T00:00:00+00:00",
+  "first_seen_at": "2026-10-30T23:40:51+00:00",
+  "source": "html"
+ },
+ {
+  "id": "a058299e631059ad",
   "federation": "bedenselengelliler",
   "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
   "federation_short": "TBESF",
   "title": "Yılı Tahmini Faaliyet Programı",
-  "url": "https://www.tbesf.org.tr/tr/2028-yili-tahmini-faaliyet-programi",
-  "summary": "0 % 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2028 YILI TAHMİNİ FAALİYET PROGRAMI EKTEDİR. Dökümanı İndir Bu içerik 30 Ekim 2026 tarihinde eklendi. 29 defa incelendi. Duyurular 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI TBESF 2025-2026 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU 2026 YILI DENETİM KURULU RAPORU TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU 2025 YILI DENETİM K",
-  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/7226-mali-kurul-afis.jpg",
+  "url": "https://www.tbesf.org.tr/tr/2027-yili-tahmini-faaliyet-programi",
+  "summary": "0 % 2027 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI EKTEDİR. Dökümanı İndir Bu içerik 30 Ekim 2026 tarihinde eklendi. 41 defa incelendi. Duyurular 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI TBESF 2025-2026 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU 2026 YILI DENETİM KURULU RAPORU TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU 2025 YILI DENETİM K",
+  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/9329-mali-kurul-afis.jpg",
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-30T00:00:00+00:00",
-  "first_seen_at": "2026-10-30T19:14:38+00:00",
+  "first_seen_at": "2026-10-30T23:40:51+00:00",
+  "source": "html"
+ },
+ {
+  "id": "a002eb37088c6aab",
+  "federation": "bedenselengelliler",
+  "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
+  "federation_short": "TBESF",
+  "title": "Yılı Türkiye Bedensel Engelliler Spor Federasyonu Tahmini Bütçesi",
+  "url": "https://www.tbesf.org.tr/tr/2027-yili-turkiye-bedensel-engelliler-spor-federasyonu-tahmi",
+  "summary": "0 % 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ EKTEDİR. Dökümanı İndir Bu içerik 30 Ekim 2026 tarihinde eklendi. 35 defa incelendi. Duyurular 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI TBESF 2025-2026 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU 2026 YILI DENETİM KURULU R",
+  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/9117-mali-kurul-afis.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-30T00:00:00+00:00",
+  "first_seen_at": "2026-10-30T23:40:51+00:00",
   "source": "html"
  },
  {
@@ -5006,21 +5116,6 @@
   "url": "https://www.tbesf.org.tr/tr/tbesf-2024-2025-yili-faaliyet-raporu",
   "summary": "0 % TBESF 2024-2025 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU EKTEDİR. Dökümanı İndir Bu içerik 30 Ekim 2026 tarihinde eklendi. 25 defa incelendi. Duyurular 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI TBESF 2025-2026 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU 2026 YILI DENETİM KURULU RAPORU TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU 2025 YILI DENETİM",
   "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/8899-mali-kurul-afis.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-30T00:00:00+00:00",
-  "first_seen_at": "2026-10-30T19:14:38+00:00",
-  "source": "html"
- },
- {
-  "id": "233553f3e6631a9b",
-  "federation": "bedenselengelliler",
-  "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
-  "federation_short": "TBESF",
-  "title": "Yılı Türkiye Bedensel Engelliler Spor Federasyonu Tahmini Bütçesi",
-  "url": "https://www.tbesf.org.tr/tr/2028-yili-turkiye-bedensel-engelliler-spor-federasyonu-tahmi",
-  "summary": "0 % 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ EKTEDİR. Dökümanı İndir Bu içerik 30 Ekim 2026 tarihinde eklendi. 28 defa incelendi. Duyurular 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI TBESF 2025-2026 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU 2026 YILI DENETİM KURULU R",
-  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/574-mali-kurul-afis.jpg",
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-30T00:00:00+00:00",
@@ -21063,6 +21158,21 @@
   "source": "rss"
  },
  {
+  "id": "1b97cbcec20be269",
+  "federation": "izcilik",
+  "federation_name": "Türkiye İzcilik Federasyonu",
+  "federation_short": "TİF",
+  "title": "Olağan Mali Genel Kurul Duyurusu",
+  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-2",
+  "summary": "27 Eki BAŞSAĞLIĞI 11 Eki 26. DÜNYA İZCİ JAMBOREESİ 11 Ekim 2026 08 Eki BAŞSAĞLIĞI 8 Ekim 2026 04 Eki JOTA - JOTI 2026 4 Ekim 2026 03 Eki OLAĞAN MALİ GENEL KURUL TOPLANTI TUTANAĞI 3 Ekim 2026 30 Eyl BAŞSAĞLIĞI 30 Eylül 2026 18 Eyl TÜRK JOTA'SI FAALİYETİ 18 Eylül 2026 18 Eyl 18 Eylül 2026 10 Eyl 10 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST TİFAKE Destek Faaliyeti 9 Eylül 2026 09 Eyl Türk",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-27T00:00:00+00:00",
+  "first_seen_at": "2026-10-30T23:40:51+00:00",
+  "source": "html"
+ },
+ {
   "id": "ccb9db790fc67a42",
   "federation": "izcilik",
   "federation_name": "Türkiye İzcilik Federasyonu",
@@ -21130,21 +21240,6 @@
   "title": "Türk Jota'sı Faaliyeti",
   "url": "https://tif.org.tr/duyurular/turk-jota-si-faaliyeti",
   "summary": "27 Eki BAŞSAĞLIĞI 11 Eki 26. DÜNYA İZCİ JAMBOREESİ 11 Ekim 2026 08 Eki BAŞSAĞLIĞI 8 Ekim 2026 04 Eki JOTA - JOTI 2026 4 Ekim 2026 03 Eki OLAĞAN MALİ GENEL KURUL TOPLANTI TUTANAĞI 3 Ekim 2026 30 Eyl BAŞSAĞLIĞI 30 Eylül 2026 18 Eyl 18 Eylül 2026 18 Eyl OLAĞAN MALİ GENEL KURUL DUYURUSU 18 Eylül 2026 10 Eyl OLAĞAN MALİ GENEL KURUL DUYURUSU 10 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST TİFAK",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-27T00:00:00+00:00",
-  "first_seen_at": "2026-10-30T19:14:38+00:00",
-  "source": "html"
- },
- {
-  "id": "8ebbd68e2ac62876",
-  "federation": "izcilik",
-  "federation_name": "Türkiye İzcilik Federasyonu",
-  "federation_short": "TİF",
-  "title": "Olağan Mali Genel Kurul Duyurusu",
-  "url": "https://tif.org.tr/duyurular/olagan-mali-genel-kurul-duyurusu-3",
-  "summary": "27 Eki BAŞSAĞLIĞI 11 Eki 26. DÜNYA İZCİ JAMBOREESİ 11 Ekim 2026 08 Eki BAŞSAĞLIĞI 8 Ekim 2026 04 Eki JOTA - JOTI 2026 4 Ekim 2026 03 Eki OLAĞAN MALİ GENEL KURUL TOPLANTI TUTANAĞI 3 Ekim 2026 30 Eyl BAŞSAĞLIĞI 30 Eylül 2026 18 Eyl TÜRK JOTA'SI FAALİYETİ 18 Eylül 2026 18 Eyl 18 Eylül 2026 10 Eyl 10 Eylül 2026 09 Eyl Türkiye İzcilik Federasyonu DİVFEST TİFAKE Destek Faaliyeti 9 Eylül 2026 09 Eyl Türk",
   "image": null,
   "category": "duyuru",
   "tags": [],
@@ -107215,109 +107310,5 @@
   "published_at": "2026-10-11T14:36:49+00:00",
   "first_seen_at": "2026-10-11T15:37:04+00:00",
   "source": "wp_json"
- },
- {
-  "id": "c444c2ff086adab5",
-  "federation": "otomobil",
-  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
-  "federation_short": "TOSFED",
-  "title": "Ayhancan’dan Indy 8 Saat Galibiyeti",
-  "url": "https://www.tosfed.org.tr/ayhancandan-indy-8-saat-galibiyeti/",
-  "summary": "Milli sporcumuz Ayhancan Güven, ABD’de Kıtalararası GT Kupası (IGTC) final ayağı Indy 8 Saat yarışını birinci olarak tamamladı. Red Bull sporcusu Güven, Indianapolis Motor Speedway’de düzenlenen yarışta Riccardo Pera ve Kyle Washington ile birlikte GMG Pro-Am kategorisinde mücadele etti. Temsilcimizi kutluyor, başarılarının devamını diliyoruz.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-11T13:45:55+00:00",
-  "first_seen_at": "2026-10-11T15:37:04+00:00",
-  "source": "rss"
- },
- {
-  "id": "e8c41eb2446dc8ab",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "Paletli Yüzme Açık Su Dünya Şampiyonası Milli Takım Kadrosu",
-  "url": "https://www.tssf.gov.tr/paletli-yuzme-acik-su-dunya-sampiyonasi-milli-takim-kadrosu/",
-  "summary": "Sporcu Adı Yarışma Kategorisi Kulübü BÜYÜK KADINLAR Feyza SARIHAN (2006) Suüstü Beylikdüzü Olimpiyat Spor Kulübü Berra Nur YILMAZ",
-  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
-  "category": "musabaka",
-  "tags": [
-   "musabaka",
-   "milli_takim"
-  ],
-  "published_at": "2026-10-11T10:43:47+00:00",
-  "first_seen_at": "2026-10-11T15:37:04+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "4b64a3f00a043ec6",
-  "federation": "sualti",
-  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
-  "federation_short": "TSSF",
-  "title": "Millilerimiz, Endonezya’da İki Dünya Şampiyonluğu, Bir İkincilik, İki Üçüncülük Kazandılar",
-  "url": "https://www.tssf.gov.tr/millilerimiz-endonezyada-iki-dunya-sampiyonlugu-bir-ikincilik-iki-ucunculuk-kazandilar/",
-  "summary": "Sualtı Sporları Federasyonumuz, 2026 yılında katıldığı sezonun son dünya şampiyonasında yine ülkemizi gururlandıran başarılar elde etti. Sualtı Görüntüleme",
-  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
-  "category": "haber",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-11T10:35:08+00:00",
-  "first_seen_at": "2026-10-11T15:37:04+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "a3e080522712bb1b",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Çocuk Koruma Kanununa Göre Verilen Koruyucu ve Destekleyici Tedbir Kararlarının Uygulanması Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10884&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-11T10:27:35+00:00",
-  "first_seen_at": "2026-10-11T10:27:35+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "35520d183a5dd503",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Yükseköğretim Öğrencilerine Teknolojik Cihaz ve İnternet Desteği Verilmesine İlişkin Usul ve Esaslar Hakkında Tebliğ",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40418&MevzuatTur=9&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-11T10:27:34+00:00",
-  "first_seen_at": "2026-10-11T10:27:34+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "f962623ca691dd83",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Vergi Muafiyeti Tanınan Vakıf ve Kamu Yararına Çalışan Derneklere Ait Yükseköğrenim Yurtlarında Barınan Öğrencilere Yapılacak Beslenme Ve Barınma Yardımına Dair Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38892&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-11T10:27:32+00:00",
-  "first_seen_at": "2026-10-11T10:27:32+00:00",
-  "source": "mevzuat"
  }
 ]

@@ -1,5 +1,23 @@
 [
  {
+  "id": "697df84d097bada4",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-10-30T23:38:59+00:00",
+  "first_seen_at": "2026-10-30T23:38:59+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "a007d8ece023b7dc",
   "federation": "gelismekteolan",
   "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
@@ -70,24 +88,6 @@
   "published_at": "2026-10-30T19:13:01+00:00",
   "first_seen_at": "2026-10-30T19:13:01+00:00",
   "source": "takvim-html"
- },
- {
-  "id": "c6a00be8ca74588d",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Voleybol faaliyet takviminde değişiklik",
-  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-30T14:00:52+00:00",
-  "first_seen_at": "2026-10-30T14:00:52+00:00",
-  "source": "takvim-excel"
  },
  {
   "id": "14ceb51d01cceffd",

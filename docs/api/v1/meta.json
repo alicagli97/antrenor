@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-29T20:16:22+00:00",
+ "generated_at": "2026-10-30T00:51:42+00:00",
  "total": 5999,
- "new_in_last_run": 549,
+ "new_in_last_run": 539,
  "sources_ok": 65,
  "sources_failed": [
   "basketbol"
@@ -13,11 +13,11 @@
  ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-10-29T20:16:22+00:00",
+ "latest_published_at": "2026-10-30T00:51:42+00:00",
  "categories": {
-  "duyuru": 618,
-  "musabaka": 212,
-  "mevzuat": 4951,
+  "musabaka": 213,
+  "duyuru": 619,
+  "mevzuat": 4949,
   "kurs": 118,
   "takvim": 58,
   "haber": 42
@@ -50,6 +50,8 @@
   }
  ],
  "federation_counts": {
+  "eskrim": 180,
+  "binicilik": 237,
   "futbol": 131,
   "hokey": 23,
   "gelismekteolan": 53,
@@ -74,7 +76,6 @@
   "yelken": 68,
   "cimnastik": 31,
   "okculuk": 30,
-  "binicilik": 236,
   "aticilik": 57,
   "atletizm": 58,
   "bisiklet": 30,
@@ -87,7 +88,6 @@
   "shgm": 38,
   "taekwondo": 13,
   "tenis": 16,
-  "eskrim": 179,
   "kaykay": 9,
   "danssporlari": 15,
   "boks": 22,
@@ -105,7 +105,7 @@
   "halkoyunlari": 9,
   "tmok": 40,
   "havasporlari": 4,
-  "muaythai": 9,
+  "muaythai": 7,
   "buzhokeyi": 13,
   "judo": 2,
   "sportoto": 4,

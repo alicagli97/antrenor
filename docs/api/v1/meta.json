@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T07:02:36+00:00",
- "total": 5999,
- "new_in_last_run": 545,
+ "generated_at": "2026-10-30T07:43:22+00:00",
+ "total": 6000,
+ "new_in_last_run": 9,
  "sources_ok": 66,
  "sources_failed": [
   "basketbol"
@@ -12,14 +12,16 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-10-30T07:02:36+00:00",
  "categories": {
-  "duyuru": 627,
+  "duyuru": 631,
   "takvim": 59,
-  "musabaka": 213,
-  "mevzuat": 4940,
-  "kurs": 118,
+  "musabaka": 216,
+  "mevzuat": 4932,
+  "kurs": 120,
   "haber": 42
  },
  "silent_sources": [
@@ -60,8 +62,8 @@
   "paralimpik": 1,
   "hentbol": 51,
   "gsb": 728,
-  "ragbi": 63,
-  "izcilik": 612,
+  "ragbi": 62,
+  "izcilik": 605,
   "universitesporlari": 62,
   "oryantiring": 50,
   "gelenekselguresler": 25,
@@ -84,6 +86,7 @@
   "voleybol": 112,
   "halter": 20,
   "badminton": 13,
+  "basketbol": 52,
   "yuzme": 9,
   "bedenselengelliler": 24,
   "shgm": 38,
@@ -97,7 +100,6 @@
   "bric": 10,
   "vucutgelistirme": 10,
   "gormeengelliler": 41,
-  "basketbol": 43,
   "sualti": 27,
   "gures": 18,
   "beyzbol": 13,

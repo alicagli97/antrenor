@@ -1,5 +1,56 @@
 [
  {
+  "id": "1fbaa1bb0c44a5e2",
+  "federation": "gelenekselguresler",
+  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
+  "federation_short": "TGGF",
+  "title": "103.uzundere Karakucak Güreşleri",
+  "url": "https://tggf.org.tr/103-uzundere-karakucak-guresleri/",
+  "summary": "SONUÇLAR İÇİN TIKLAYINIZ!.. … Devamını Oku",
+  "image": "https://tggf.org.tr/wp-content/uploads/2026/10/kasbelediyesiyagliguresleri-1.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-10-31T11:24:50+00:00",
+  "first_seen_at": "2026-10-31T12:14:07+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "9cf904baca2fa03b",
+  "federation": "gelenekselguresler",
+  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
+  "federation_short": "TGGF",
+  "title": "Mevzuat güncellendi: TGGF Ana Statü",
+  "url": "https://tggf.org.tr/tggf-ana-statu/",
+  "summary": "Türkiye Geleneksel Güreşler Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-10-31T10:00:06+00:00",
+  "first_seen_at": "2026-10-31T10:00:06+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "fa8d91e34048bed7",
+  "federation": "gelenekselguresler",
+  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
+  "federation_short": "TGGF",
+  "title": "Mevzuat güncellendi: TGGF Talimatları",
+  "url": "https://tggf.org.tr/tggf-talimatlari/",
+  "summary": "Türkiye Geleneksel Güreşler Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-10-31T10:00:06+00:00",
+  "first_seen_at": "2026-10-31T10:00:06+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "9cf904baca2fa03b",
   "federation": "gelenekselguresler",
   "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
@@ -421,56 +472,5 @@
   "published_at": "2026-10-13T15:53:42+00:00",
   "first_seen_at": "2026-10-13T15:53:42+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "9cf904baca2fa03b",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "Mevzuat güncellendi: TGGF Ana Statü",
-  "url": "https://tggf.org.tr/tggf-ana-statu/",
-  "summary": "Türkiye Geleneksel Güreşler Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-12T11:22:52+00:00",
-  "first_seen_at": "2026-10-12T11:22:52+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "fa8d91e34048bed7",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "Mevzuat güncellendi: TGGF Talimatları",
-  "url": "https://tggf.org.tr/tggf-talimatlari/",
-  "summary": "Türkiye Geleneksel Güreşler Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-12T11:22:52+00:00",
-  "first_seen_at": "2026-10-12T11:22:52+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "45d2216c0d2234b6",
-  "federation": "gelenekselguresler",
-  "federation_name": "Türkiye Geleneksel Güreşler Federasyonu",
-  "federation_short": "TGGF",
-  "title": "Gölmarmara Belediyesi Yağlı Güreşleri",
-  "url": "https://tggf.org.tr/golmarmara-belediyesi-yagli-guresleri/",
-  "summary": "SONUÇLAR İÇİN TIKLAYINIZ !.. … Devamını Oku",
-  "image": "https://tggf.org.tr/wp-content/uploads/2026/10/golmarama-ilkdort.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-12T05:52:35+00:00",
-  "first_seen_at": "2026-10-12T07:18:22+00:00",
-  "source": "wp_json"
  }
 ]

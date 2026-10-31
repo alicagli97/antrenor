@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-10-30T23:40:51+00:00",
- "total": 5995,
- "new_in_last_run": 540,
+ "generated_at": "2026-10-31T05:25:56+00:00",
+ "total": 5996,
+ "new_in_last_run": 537,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -15,7 +15,7 @@
  "partial_run": null,
  "latest_published_at": "2026-10-30T23:40:51+00:00",
  "categories": {
-  "duyuru": 644,
+  "duyuru": 645,
   "takvim": 62,
   "musabaka": 225,
   "kurs": 127,
@@ -88,7 +88,7 @@
   "kano": 14,
   "binicilik": 237,
   "hokey": 23,
-  "otomobil": 21,
+  "otomobil": 22,
   "masatenisi": 60,
   "halter": 19,
   "basketbol": 49,

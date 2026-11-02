@@ -1,26 +1,25 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-01T23:34:24+00:00",
+ "generated_at": "2026-11-02T05:52:52+00:00",
  "total": 5996,
- "new_in_last_run": 544,
- "sources_ok": 62,
+ "new_in_last_run": 560,
+ "sources_ok": 63,
  "sources_failed": [
   "basketbol",
-  "binicilik",
-  "paralimpik"
+  "binicilik"
  ],
  "sources_empty": [
   "kayak"
  ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-11-02T00:00:00+00:00",
+ "latest_published_at": "2026-11-02T05:51:05+00:00",
  "categories": {
-  "duyuru": 620,
+  "takvim": 60,
+  "duyuru": 621,
   "kurs": 117,
-  "musabaka": 222,
-  "mevzuat": 4946,
-  "takvim": 59,
+  "musabaka": 223,
+  "mevzuat": 4943,
   "haber": 32
  },
  "silent_sources": [
@@ -46,6 +45,7 @@
   }
  ],
  "federation_counts": {
+  "cimnastik": 30,
   "universitesporlari": 69,
   "hentbol": 52,
   "ozelsporcular": 150,
@@ -65,19 +65,18 @@
   "gelenekselguresler": 29,
   "motosiklet": 27,
   "dagcilik": 758,
-  "bocce": 422,
+  "bocce": 421,
   "bilardo": 65,
-  "satranc": 383,
+  "satranc": 381,
   "triatlon": 203,
   "buzpateni": 434,
   "yelken": 69,
-  "cimnastik": 29,
   "okculuk": 28,
   "aticilik": 57,
   "atletizm": 57,
   "bisiklet": 29,
   "voleybol": 112,
-  "bric": 15,
+  "bric": 17,
   "eskrim": 166,
   "halter": 17,
   "basketbol": 49,

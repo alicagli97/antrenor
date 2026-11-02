@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-02T05:52:52+00:00",
- "total": 5996,
- "new_in_last_run": 560,
+ "generated_at": "2026-11-02T08:33:40+00:00",
+ "total": 5997,
+ "new_in_last_run": 1,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -12,11 +12,13 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol"
+ ],
  "latest_published_at": "2026-11-02T05:51:05+00:00",
  "categories": {
   "takvim": 60,
-  "duyuru": 621,
+  "duyuru": 622,
   "kurs": 117,
   "musabaka": 223,
   "mevzuat": 4943,
@@ -46,6 +48,7 @@
  ],
  "federation_counts": {
   "cimnastik": 30,
+  "basketbol": 50,
   "universitesporlari": 69,
   "hentbol": 52,
   "ozelsporcular": 150,
@@ -79,7 +82,6 @@
   "bric": 17,
   "eskrim": 166,
   "halter": 17,
-  "basketbol": 49,
   "danssporlari": 20,
   "shgm": 32,
   "yuzme": 14,

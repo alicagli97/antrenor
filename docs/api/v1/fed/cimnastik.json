@@ -1,5 +1,23 @@
 [
  {
+  "id": "b54edef7aa43b7bb",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 446 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-02T23:26:20+00:00",
+  "first_seen_at": "2026-11-02T23:26:20+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "68f5624d7f784951",
   "federation": "cimnastik",
   "federation_name": "Türkiye Cimnastik Federasyonu",
@@ -16,24 +34,6 @@
   "published_at": "2026-11-02T11:40:43+00:00",
   "first_seen_at": "2026-11-02T11:40:43+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "8a7ba2e8794ba5ac",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Cimnastik faaliyet takviminde değişiklik",
-  "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 431 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-11-02T05:51:05+00:00",
-  "first_seen_at": "2026-11-02T05:51:05+00:00",
-  "source": "takvim-html"
  },
  {
   "id": "68f5624d7f784951",

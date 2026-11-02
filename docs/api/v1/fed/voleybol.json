@@ -1,5 +1,23 @@
 [
  {
+  "id": "a8004698c817cffe",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-02T23:26:17+00:00",
+  "first_seen_at": "2026-11-02T23:26:17+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "ed6d469aea936059",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -1054,23 +1072,5 @@
   "published_at": "2026-10-24T08:23:26+00:00",
   "first_seen_at": "2026-10-24T08:23:26+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "7e7bbb44405656a1",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "İkinci Kademe Temel Antrenör Uygulama Eğitim Kursu Aydın’da Gerçekleştirildi - Türkiye Voleybol Federasyonu | TVF",
-  "url": "https://tvf.org.tr/icerik/ikinci-kademe-temel-antrenor-uygulama-egitim-kursu-aydinda-gerceklestirildi",
-  "summary": "26 Ekim 2026 İkinci Kademe Temel Antrenör Uygulama Eğitim Kursu Aydın’da Gerçekleştirildi 21-25 Ekim 2026 tarihleri arasında Aydın’da düzenlenen İkinci Kademe Temel Antrenör Uygulama Eğitim Kursu, Aydın Adnan Menderes Üniversitesi Spor Bilimleri Fakültesi Konferans Salonu’nda 75 kursiyerin katılımıyla gerçekleştirildi. Kursta; TVF Eğitim Kurulu Koordinatörü Ahmet Karakurt ile TVF Eğitim Kurulu Üyeleri Prof. Dr. Gülbin Rudarlı, Prof. Dr. Dilşad Mirzeoğlu, Doç. Dr. Esin Ergin ve Dr. Gençer Yarkın’ın yanı sıra Aydın Karadağ, Özün Gömengil, Yasemin Günal ve Mehmet Çakır eğitimci olarak yer aldı. K",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-10-24T00:00:00+00:00",
-  "first_seen_at": "2026-10-26T12:50:16+00:00",
-  "source": "html"
  }
 ]

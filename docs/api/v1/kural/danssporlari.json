@@ -3,11 +3,10 @@
  "federation_name": "Türkiye Dans Sporları Federasyonu",
  "federation_short": "TDSF",
  "sources": [
-  "https://tdsf.org.tr/mevzuatlar/",
-  "https://tdsf.org.tr/talimatlar/karayip-danslari"
+  "https://tdsf.org.tr/mevzuatlar/"
  ],
- "document_count": 41,
- "coach_document_count": 15,
+ "document_count": 39,
+ "coach_document_count": 14,
  "documents": [
   {
    "baslik": "Eğitim Kurulu Talimatı",
@@ -283,22 +282,8 @@
    "tur": "word",
    "onemli": false,
    "parmak_izi": "5e22928d2a876c61"
-  },
-  {
-   "baslik": "TDSF KULÜPLER ARASI DANS LİGİ YARIŞMALARI VE TÜRKİYE ŞAMPİYONASI KARAYİP DANSLARI BACHATA YARIŞMA KURALLARI",
-   "url": "https://tdsf.org.tr/assets/uploads/tdsf-kulupler-arasi-dans-ligi-yarismalari-ve-turkiye-sampiyonasi-karayip-danslari-bachata-talimatnamesi-versiyon-1-2-11-06-2026-1781179594.pdf",
-   "tur": "pdf",
-   "onemli": true,
-   "parmak_izi": "f409ba0f28385fca"
-  },
-  {
-   "baslik": "2025-2026 Karayip Danslar-Salsa Yarışma Kuralları",
-   "url": "https://tdsf.org.tr/assets/uploads/23-02-2026-tdsf-tdsf-karayip-danslar-salsa-kitapcik-1771848133.pdf",
-   "tur": "pdf",
-   "onemli": false,
-   "parmak_izi": "22c93a44910c3961"
   }
  ],
- "checked_at": "2026-11-02T05:51:39+00:00",
- "list_fingerprint": "be68ae27c7284a20"
+ "checked_at": "2026-11-02T11:44:31+00:00",
+ "list_fingerprint": "a05143c89894e7ff"
 }

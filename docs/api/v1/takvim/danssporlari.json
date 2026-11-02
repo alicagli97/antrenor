@@ -6,7 +6,7 @@
  "type": "html",
  "label": "FAALİYET TAKVİMİ",
  "fingerprint": "ff6388ca220ef5f8",
- "event_count": 17,
+ "event_count": 19,
  "events": [
   {
    "ad": "Dans Sporları Latin ve Standart 1.Etap Yarışması",
@@ -17,20 +17,36 @@
    "satir": "Dans Sporları Latin ve Standart 1.Etap Yarışması | Ulusal | 10-11 Ekim 2026 | İSTANBUL | Tüm Kategoriler"
   },
   {
-   "ad": "WDSF METU Open",
+   "ad": "WDSF Open Ankara (METU Open)",
    "tarih": "2026-11-08",
    "tarih_metni": "7-8 Kasım 2026",
    "yer": "ANKARA",
    "brans": "Tüm Kategoriler",
-   "satir": "WDSF METU Open | Uluslararası | 7-8 Kasım 2026 | ANKARA | Tüm Kategoriler"
+   "satir": "WDSF Open Ankara (METU Open) | Uluslararası | 7-8 Kasım 2026 | ANKARA | Tüm Kategoriler"
   },
   {
-   "ad": "WDSF Haydarpaşa Open",
+   "ad": "WDSF Open / İstanbul Global Open",
+   "tarih": "2026-11-13",
+   "tarih_metni": "11-13 Kasım 2026",
+   "yer": "İSTANBUL",
+   "brans": "Minikler 1-2, Yıldızlar 1-2, Yetişkinler",
+   "satir": "WDSF Open / İstanbul Global Open | Uluslararası | 11-13 Kasım 2026 | İSTANBUL | Minikler 1-2, Yıldızlar 1-2, Yetişkinler"
+  },
+  {
+   "ad": "2026 WDSF Stage Dance (Modern, Show, Jazz Dance) Dünya Şampiyonası",
+   "tarih": "2026-11-15",
+   "tarih_metni": "11-15 Kasım 2026",
+   "yer": "İSTANBUL",
+   "brans": "Yıldızlar 1-2, Gençler, Yetişkinler",
+   "satir": "2026 WDSF Stage Dance (Modern, Show, Jazz Dance) Dünya Şampiyonası | Uluslararası | 11-15 Kasım 2026 | İSTANBUL | Yıldızlar 1-2, Gençler, Yetişkinler"
+  },
+  {
+   "ad": "WDSF Open Alanya (Haydarpaşa Open)",
    "tarih": "2026-11-22",
    "tarih_metni": "21-22 Kasım 2026",
    "yer": "ANTALYA",
    "brans": "Tüm Kategoriler",
-   "satir": "WDSF Haydarpaşa Open | Uluslararası | 21-22 Kasım 2026 | ANTALYA | Tüm Kategoriler"
+   "satir": "WDSF Open Alanya (Haydarpaşa Open) | Uluslararası | 21-22 Kasım 2026 | ANTALYA | Tüm Kategoriler"
   },
   {
    "ad": "WDSF Yıldızlar 2 Dans Sporu Dünya Şampiyonası",
@@ -145,8 +161,8 @@
    "satir": "Türkiye Şampiyonaları (Modern Dans, Hip Hop, Dans Show, Arjantin Tango, Karayip Dansları) | Ulusal | 24 Haziran - 4 Temmuz 2027 | ANKARA | Tüm Kategoriler"
   }
  ],
- "checked_at": "2026-11-02T05:51:11",
- "bekleyen_iz": null,
+ "checked_at": "2026-11-02T15:37:03",
+ "bekleyen_iz": "2d7a8e96c6a21f84",
  "changed_at": "2026-10-30T19:13:10+00:00",
  "parmak_izi": "ff6388ca220ef5f8"
 }

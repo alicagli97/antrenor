@@ -1,5 +1,59 @@
 [
  {
+  "id": "f836886360b7fb8a",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF'den Mesajlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51819",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-11-03T20:57:32+00:00",
+  "first_seen_at": "2026-11-03T20:57:32+00:00",
+  "source": "html"
+ },
+ {
+  "id": "401524a35bb9f23a",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Başantrenör Oliver Roy Camino ve Sadık Emre Herseklioğlu'ndan Avusturya Maçı Öncesi Açıklamalar",
+  "url": "https://thf.org.tr/haber/basantrenor-oliver-roy-camino-ve-sadik-emre-herseklioglundan-avusturya-maci-oncesi-aciklamalar",
+  "summary": "Erkek A Milli Takımımızın Başantrenörü Oliver Roy Camiño ve milli oyuncumuz Sadık Emre Herseklioğlu, 2028 Avrupa Erkekler Hentbol Şampiyonası Elemeleri 2. Grup'ta 4 Kasım Çarşamba günü oynanacak Avusturya karşılaşması öncesinde değerlendirmelerde bulundu. Başantrenör Oliver Roy Camino: \"Sahaya Yoğun Bir Tempo, Büyük Bir Gayret ve Mücadeleci Bir Ruh Yansıtacağız\" Erkek A Milli Takımımızın Başantrenörü Oliver Roy Camiño, Avusturya ve Norveç karşılaşmaları öncesinde yaptığı değerlendirmede şu ifadeleri kullandı: \"Avrupa'nın en önde gelen liglerinden büyük uluslararası turnuvalarda mücadele etmeye",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "musabaka"
+  ],
+  "published_at": "2026-11-03T18:22:05+00:00",
+  "first_seen_at": "2026-11-03T20:57:32+00:00",
+  "source": "api"
+ },
+ {
+  "id": "c4234a2f8f3d7813",
+  "federation": "havasporlari",
+  "federation_name": "Türkiye Hava Sporları Federasyonu",
+  "federation_short": "THSF",
+  "title": "Yamaç Paraşütü 1. Kademe Yardımcı Antrenör Yetiştirme Kursu Başvuruları Başladı",
+  "url": "https://thsf.org.tr/yamac-parasutu-1-kademe-yardimci-antrenor-yetistirme-kursu-basvurulari-basladi/",
+  "summary": "Federasyonumuzun 2026 yılı faaliyet programında yer alan Yamaç Paraşütü 1. Kademe Yardımcı Antrenör Yetiştirme Kursu’nun, 18–22 Kasım 2026 tarihleri arasında Ankara’da düzenlenmesi planlanmaktadır. Kursa katılmak isteyen adaylar, başvurularını 3 Kasım 2026 saat 09.00 ile 13 Kasım 2026 saat 17.00 arasında e-Devlet üzerinden Spor Bilgi Sistemi aracılığıyla gerçekleştirebilecektir. Kurs Bilgileri Başvurular; e-Devlet → Gençlik ve Spor Bakanlığı […]",
+  "image": "https://thsf.org.tr/wp-content/uploads/2026/11/Ankara-semalarinda-yamac-parasutu-egitimi.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "burs"
+  ],
+  "published_at": "2026-11-03T17:26:02+00:00",
+  "first_seen_at": "2026-11-03T20:57:32+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "e134acb5dbbc3003",
   "federation": "okculuk",
   "federation_name": "Türkiye Okçuluk Federasyonu",
@@ -320,6 +374,44 @@
   ],
   "published_at": "2026-10-30T14:03:02+00:00",
   "first_seen_at": "2026-10-30T14:03:02+00:00",
+  "source": "html"
+ },
+ {
+  "id": "a5d2174f4bad0b11",
+  "federation": "gormeengelliler",
+  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "federation_short": "GESF",
+  "title": "Goalball Antrenörleri 2. Vize ve Gelişim Semineri Duyurusu",
+  "url": "https://www.gesf.org.tr/haber/goalball-antrenorleri-2-vize-ve-gelisim-semineri-duyurusu-86",
+  "summary": "duyuru Futbol Deplasmanlı Süper Lig 12. Hafta Hakem ve Görevli Listesi Yayınlandı Futbol Deplasmanlı Süper Lig 12. Hafta Hakem ve Görevli Listesi Yayınlandı 2867 görüntülenme duyuru FUTBOL ADAY HAKEM KURSU ANKARA’DA BAŞLIYOR Türkiye Görme Engelliler Spor Federasyonumuz tarafından düzenlenen Futbol Aday Hakem Kursu, 31 Ekim–1 Kasım 2026 tarihlerinde Ankara’da gerçekleştirilecek.Gençlik ve Spor Baka",
+  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1783501153_d0634166.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "vize"
+  ],
+  "published_at": "2026-10-30T00:00:00+00:00",
+  "first_seen_at": "2026-11-03T20:57:32+00:00",
+  "source": "html"
+ },
+ {
+  "id": "15fc6ef82fab4e00",
+  "federation": "gormeengelliler",
+  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "federation_short": "GESF",
+  "title": "Futbol Antrenörleri 2. Vize ve Gelişim Semineri Duyurusu",
+  "url": "https://www.gesf.org.tr/haber/futbol-antrenorleri-2-vize-ve-gelisim-semineri-duyurusu-85",
+  "summary": "duyuru Futbol Deplasmanlı Süper Lig 12. Hafta Hakem ve Görevli Listesi Yayınlandı Futbol Deplasmanlı Süper Lig 12. Hafta Hakem ve Görevli Listesi Yayınlandı 2867 görüntülenme duyuru FUTBOL ADAY HAKEM KURSU ANKARA’DA BAŞLIYOR Türkiye Görme Engelliler Spor Federasyonumuz tarafından düzenlenen Futbol Aday Hakem Kursu, 31 Ekim–1 Kasım 2026 tarihlerinde Ankara’da gerçekleştirilecek.Gençlik ve Spor Baka",
+  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1783501045_e8884d17.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "vize"
+  ],
+  "published_at": "2026-10-30T00:00:00+00:00",
+  "first_seen_at": "2026-11-03T20:57:32+00:00",
   "source": "html"
  },
  {

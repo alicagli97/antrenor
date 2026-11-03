@@ -27,7 +27,10 @@ HERE = pathlib.Path(__file__).resolve().parent
 REPO = HERE.parents[1]
 
 # GitHub'dan erisilemeyen, yerel baglantidan calisan kaynaklar
-KOPRU_SLUGS = ["basketbol"]
+# Cloudflare arkasindaki kaynaklar: GitHub sunuculari engelleniyor,
+# ev IP'sinden geciyor. Yeni bir federasyon surekli "basarisiz" cikiyorsa
+# once curl ile Server: cloudflare mi diye bak, oyleyse buraya ekle.
+KOPRU_SLUGS = ["basketbol", "binicilik"]
 
 WATCH_INTERVAL_HOURS = 6
 MAX_PUSH_RETRY = 3

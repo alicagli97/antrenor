@@ -6,8 +6,40 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "8c1f88e4ae517814",
- "event_count": 447,
+ "event_count": 451,
  "events": [
+  {
+   "ad": "Hakem Vize Semineri Antalya 11-13 Aralık 2026",
+   "tarih": "2026-12-11",
+   "tarih_metni": "2026.12.13 11.12.2026 - 13.12.2026",
+   "yer": "Antalya",
+   "brans": "Seminer",
+   "satir": "2026 | Seminer | Hakem Vize Semineri Antalya 11-13 Aralık 2026 | Aerobik Cimnastik | Antalya | 2026.12.13 11.12.2026 - 13.12.2026 | İncele"
+  },
+  {
+   "ad": "Antrenör Gelişim Semineri Antalya 13-14 Aralık 2026",
+   "tarih": "2026-12-13",
+   "tarih_metni": "2026.12.14 13.12.2026 - 14.12.2026",
+   "yer": "Antalya",
+   "brans": "Seminer",
+   "satir": "2026 | Seminer | Antrenör Gelişim Semineri Antalya 13-14 Aralık 2026 | Aerobik Cimnastik | Antalya | 2026.12.14 13.12.2026 - 14.12.2026 | İncele"
+  },
+  {
+   "ad": "TCF Akademi ve Okulsporları Workshop Eğitimi",
+   "tarih": "2026-11-09",
+   "tarih_metni": "2026.11.11 09.11.2026 - 11.11.2026",
+   "yer": "Ankara",
+   "brans": "Seminer",
+   "satir": "2026 | Seminer | TCF Akademi ve Okulsporları Workshop Eğitimi | Erkek Artistik Cimnastik | Ankara | 2026.11.11 09.11.2026 - 11.11.2026 | İncele"
+  },
+  {
+   "ad": "TCF Akademi ve Okulsporları Workshop Eğitimi",
+   "tarih": "2026-11-09",
+   "tarih_metni": "2026.11.11 09.11.2026 - 11.11.2026",
+   "yer": "Ankara",
+   "brans": "Seminer",
+   "satir": "2026 | Seminer | TCF Akademi ve Okulsporları Workshop Eğitimi | Kadın Artistik Cimnastik | Ankara | 2026.11.11 09.11.2026 - 11.11.2026 | İncele"
+  },
   {
    "ad": "Genel Cimnastik Hareket Eğitimi Gelişim Semineri",
    "tarih": "2026-11-21",
@@ -3175,42 +3207,10 @@
    "yer": "İstanbul",
    "brans": "Kamp",
    "satir": "2026 | Kamp | Artistik Cimnastik Kadınlar Milli Takım Hazırlık Kampı | Kadın Artistik Cimnastik | İstanbul | 2026.02.23 12.02.2026 - 23.02.2026 | İncele"
-  },
-  {
-   "ad": "3. Kademe Kıdemli Antrenörlük Kursu",
-   "tarih": "2026-02-16",
-   "tarih_metni": "2026.02.22 16.02.2026 - 22.02.2026",
-   "yer": "İstanbul",
-   "brans": "Kurs",
-   "satir": "2026 | Kurs | 3. Kademe Kıdemli Antrenörlük Kursu | Aerobik Cimnastik | İstanbul | 2026.02.22 16.02.2026 - 22.02.2026 | Katılımcı Listesi İncele"
-  },
-  {
-   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
-   "tarih": "2026-02-15",
-   "tarih_metni": "2026.02.20 15.02.2026 - 20.02.2026",
-   "yer": "Bursa",
-   "brans": "Kurs",
-   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | Bursa | 2026.02.20 15.02.2026 - 20.02.2026 | Katılımcı Listesi İncele"
-  },
-  {
-   "ad": "2026.02.21 16.02.2026 - 21.02.2026",
-   "tarih": "2026-02-16",
-   "tarih_metni": "2026.02.21 16.02.2026 - 21.02.2026",
-   "yer": "İstanbul",
-   "brans": "Kurs",
-   "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | İstanbul | 2026.02.21 16.02.2026 - 21.02.2026 | Katılımcı Listesi İncele"
-  },
-  {
-   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
-   "tarih": "2026-02-16",
-   "tarih_metni": "2026.02.21 16.02.2026 - 21.02.2026",
-   "yer": "Ankara",
-   "brans": "Kurs",
-   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.02.21 16.02.2026 - 21.02.2026 | Katılımcı Listesi İncele"
   }
  ],
- "checked_at": "2026-11-04T09:00:16",
- "bekleyen_iz": "84b4d02224e44335",
+ "checked_at": "2026-11-04T17:07:04",
+ "bekleyen_iz": "45bb1f4bc4d1c45d",
  "changed_at": "2026-11-03T20:55:53+00:00",
  "parmak_izi": "8c1f88e4ae517814"
 }

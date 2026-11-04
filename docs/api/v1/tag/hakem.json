@@ -1,5 +1,62 @@
 [
  {
+  "id": "551405022c6279d3",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "10-11 Ekim 2026 Savate Aday Hakem Kursu / Ankara",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-483-10-11-ekim-2026-savate-aday-hakem-kursu-ankara",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-11-04T17:08:52+00:00",
+  "first_seen_at": "2026-11-04T17:08:52+00:00",
+  "source": "html"
+ },
+ {
+  "id": "cc35f0ebf9e33868",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Korumalı Futbol İl Hakem Kursu Başvuruları Başlıyor",
+  "url": "https://trf.gov.tr/?p=11127",
+  "summary": "Türkiye Ragbi Federasyonu tarafından 28–29 Kasım 2026 tarihlerinde çevrim içi (online) olarak Korumalı Futbol İl Hakem Kursu düzenlenecektir. Kursa katılmak",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem",
+   "burs"
+  ],
+  "published_at": "2026-11-04T12:55:28+00:00",
+  "first_seen_at": "2026-11-04T17:08:52+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "48dc1bd8ac59815a",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Edirne Atletizm Hakem Kursu 12-15 Kasım 2026",
+  "url": "https://taf.org.tr/edirne-atletizm-hakem-kursu-12-15-kasim-2026/",
+  "summary": "Merkez Hakem Kurulunun kararı gereğince 12-15 Kasım 2026 tarihlerinde EDİRNE ilinde Hakem Kursu – Terfi ve Canlandırma sınavları yapılmasına karar verilmiştir. Son Başvuru Tarihi 10 Kasım 2026 Saat : 17:00 dır. Terfi sınavına katılacak hakemlerin, sınava başvurabilmeleri ve sınava kabul edilebilmeleri için görev yaptıkları ildeki İl Hakem Kurulu tarafından alınmış terfi sınavına katılım uygunluk kararını […]",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/10/DUYURU.png",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "terfi",
+   "hakem",
+   "burs"
+  ],
+  "published_at": "2026-11-04T10:15:08+00:00",
+  "first_seen_at": "2026-11-04T17:08:52+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "2cd246e11858aa47",
   "federation": "havasporlari",
   "federation_name": "Türkiye Hava Sporları Federasyonu",
@@ -18,6 +75,25 @@
   "published_at": "2026-11-04T08:40:33+00:00",
   "first_seen_at": "2026-11-04T09:06:53+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "0a48c3fae7522f34",
+  "federation": "kano",
+  "federation_name": "Türkiye Kano Federasyonu",
+  "federation_short": "TKF",
+  "title": "Durgunsu Kano 2027 Hakem Vize Semineri Başvuruları Başladı",
+  "url": "https://kano.org.tr/durgunsu-kano-2027-hakem-vize-semineri-basvurulari-basladi",
+  "summary": "Duyuru ve Etkinlikler Anasayfa Duyuru ve Etkinlikler DURGUNSU KANO 2027 HAKEM VİZE SEMİNERİ BAŞVURULARI BAŞLADI 04 Kasım 2026, Çarşamba Paylaş × Kapat DURGUNSU KANO 2027 HAKEM VİZE SEMİNERİ BAŞVURULARI BAŞLADI Durgunsu Kano 2027 yılı Hakem Vize Semineri 29 Kasım 2026 tarihinde online olarak yapılacaktır. Federasyonumuzun 2026 yılı eğitim faaliyetleri programlarında yer alan Durgunsu Kano 2027 yılı Hakem Vize Semineri 29 Kasım 2026 tarihinde saat: 09:00 - 16:00 saatleri arasında online olarak yapılacaktır. Hakem Vize Semineri Son Başvuru Tarihi : 20 Kasım 2026 Cuma Hakem Vize Semineri başvurula",
+  "image": "https://kano.org.tr/uploads/2026/hakem-semnerler/durgunsu-hakem-semineri-20-kasm-2026-onlne/whatsapp-image-2026-11-04-at-13-16-08.jpg",
+  "category": "kurs",
+  "tags": [
+   "vize",
+   "hakem",
+   "burs"
+  ],
+  "published_at": "2026-11-04T00:00:00+00:00",
+  "first_seen_at": "2026-11-04T17:08:52+00:00",
+  "source": "html"
  },
  {
   "id": "4cd1dfc1e42fe8fb",
@@ -310,6 +386,24 @@
   ],
   "published_at": "2026-10-30T00:51:42+00:00",
   "first_seen_at": "2026-10-30T00:51:42+00:00",
+  "source": "html"
+ },
+ {
+  "id": "dd659197a8f51d92",
+  "federation": "gormeengelliler",
+  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "federation_short": "GESF",
+  "title": "Futbol Aday Hakem Kursu Duyurusu 31 Ekim 1 Kasım Ankara",
+  "url": "https://www.gesf.org.tr/haber/futbol-aday-hakem-kursu-duyurusu-31-ekim-1-kasim-ankara-116",
+  "summary": "duyuru Futbol Deplasmanlı Süper Lig 12. Hafta Hakem ve Görevli Listesi Yayınlandı Futbol Deplasmanlı Süper Lig 12. Hafta Hakem ve Görevli Listesi Yayınlandı 2875 görüntülenme duyuru FUTBOL ADAY HAKEM KURSU ANKARA’DA BAŞLIYOR Türkiye Görme Engelliler Spor Federasyonumuz tarafından düzenlenen Futbol Aday Hakem Kursu, 31 Ekim–1 Kasım 2026 tarihlerinde Ankara’da gerçekleştirilecek.Gençlik ve Spor Baka",
+  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1792071630_ee517ddb.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-10-30T00:00:00+00:00",
+  "first_seen_at": "2026-11-04T17:08:52+00:00",
   "source": "html"
  },
  {
@@ -1000,6 +1094,42 @@
   "published_at": "2026-10-19T00:00:00+00:00",
   "first_seen_at": "2026-10-19T19:17:28+00:00",
   "source": "html"
+ },
+ {
+  "id": "ea5ae2296150c9db",
+  "federation": "oryantiring",
+  "federation_name": "Türkiye Oryantiring Federasyonu",
+  "federation_short": "TOF",
+  "title": "Düzce Aday Hakem Kursu Katılımcı Listesi",
+  "url": "https://oryantiring.org.tr/haberler#duzce-aday-hakem-kursu-katilimci-listesi",
+  "summary": "DÜZCE ADAY HAKEM KURSU KATILIMCI DUYURUSU 17-18 Ekim 2026 tarihlerinde Düzce ilinde yapılması planlanan Oryantiring Aday Hakem Kursu cumartesi günü saat 09.30 ’da evrak teslimi ve kontrolü ile başlayacak olup, kesin kayıt yapan kursiyerlerin isim listesi aşağıda belirtilmiştir. Seminer başvurusunda bulunan ve ödeme belgeleri Federasyonumuza ulaşmayan kursiyerlerin, evrak teslimi sırasında ödeme be",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-10-18T00:00:00+00:00",
+  "first_seen_at": "2026-11-04T17:08:52+00:00",
+  "source": "headings"
+ },
+ {
+  "id": "a908243a29be50e9",
+  "federation": "oryantiring",
+  "federation_name": "Türkiye Oryantiring Federasyonu",
+  "federation_short": "TOF",
+  "title": "Tekirdağ Aday Hakem Kursu Katılımcı Listesi",
+  "url": "https://oryantiring.org.tr/haberler#tekirdag-aday-hakem-kursu-katilimci-listesi",
+  "summary": "TEKİRDAĞ ADAY HAKEM KURSU KATILIMCI DUYURUSU 17-18 Ekim 2026 tarihlerinde Tekirdağ ilinde yapılması planlanan Oryantiring Aday Hakem Kursu cumartesi günü saat 09.30 ’da evrak teslimi ve kontrolü ile başlayacak olup, kesin kayıt yapan kursiyerlerin isim listesi aşağıda belirtilmiştir. Seminer başvurusunda bulunan ve ödeme belgeleri Federasyonumuza ulaşmayan kursiyerlerin, evrak teslimi sırasında öd",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-10-18T00:00:00+00:00",
+  "first_seen_at": "2026-11-04T17:08:52+00:00",
+  "source": "headings"
  },
  {
   "id": "810e1fbf668d164b",

@@ -1,5 +1,24 @@
 [
  {
+  "id": "cc35f0ebf9e33868",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Korumalı Futbol İl Hakem Kursu Başvuruları Başlıyor",
+  "url": "https://trf.gov.tr/?p=11127",
+  "summary": "Türkiye Ragbi Federasyonu tarafından 28–29 Kasım 2026 tarihlerinde çevrim içi (online) olarak Korumalı Futbol İl Hakem Kursu düzenlenecektir. Kursa katılmak",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem",
+   "burs"
+  ],
+  "published_at": "2026-11-04T12:55:28+00:00",
+  "first_seen_at": "2026-11-04T17:08:52+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "d65f054ad282f971",
   "federation": "ragbi",
   "federation_name": "Türkiye Ragbi Federasyonu",
@@ -1081,24 +1100,6 @@
   ],
   "published_at": "2026-10-18T08:24:06+00:00",
   "first_seen_at": "2026-10-18T08:24:06+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "4daadf65963e0751",
-  "federation": "ragbi",
-  "federation_name": "Türkiye Ragbi Federasyonu",
-  "federation_short": "TRF",
-  "title": "Mevzuat güncellendi: Yönetmelik ve Talimatlar",
-  "url": "https://trf.gov.tr/?page_id=76",
-  "summary": "Türkiye Ragbi Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-18T08:24:05+00:00",
-  "first_seen_at": "2026-10-18T08:24:05+00:00",
   "source": "mevzuat"
  }
 ]

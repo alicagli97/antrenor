@@ -1,5 +1,22 @@
 [
  {
+  "id": "fc0de24934bed233",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "Duyuru – Adres Değişikliği",
+  "url": "https://muaythai.gov.tr/2026/11/04/duyuru-adres-degisikligi/",
+  "summary": "Federasyonumuz yeni adresine taşınmıştır. Sporcu, antrenör ve paydaşlarımıza hizmet vermek üzere Kızılırmak Mah. 1450 Sk No:9/49 Çankaya/Ankara adresinde",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2023/07/ONEMLI-DUYURU-haber-1240-578.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-11-04T14:51:22+00:00",
+  "first_seen_at": "2026-11-04T17:08:52+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "c6376a9338379278",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -3756,25 +3773,6 @@
   "federation_short": "TSF",
   "title": "Mevzuat güncellendi: Antrenör Eğitimi Talimatı Detayları incele",
   "url": "https://www.tsf.org.tr/belge-detayi/1949",
-  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-02T11:41:41+00:00",
-  "first_seen_at": "2026-11-02T11:41:41+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "59d8da62f1143e35",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Mevzuat güncellendi: GSB - Milli Sporcu Belgesi Sınıflarına İlişkin Müsabaka Türlerinin Belirlenmesine Dair Genelge Detayları incele",
-  "url": "https://www.tsf.org.tr/belge-detayi/1562",
   "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

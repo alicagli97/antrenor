@@ -1,12 +1,20 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-03T20:57:32+00:00",
+ "generated_at": "2026-11-04T01:16:33+00:00",
  "total": 5995,
- "new_in_last_run": 586,
- "sources_ok": 63,
+ "new_in_last_run": 453,
+ "sources_ok": 55,
  "sources_failed": [
   "basketbol",
-  "binicilik"
+  "binicilik",
+  "boks",
+  "dagcilik",
+  "danssporlari",
+  "herkesicinspor",
+  "isitmeengelliler",
+  "kano",
+  "sualti",
+  "vucutgelistirme"
  ],
  "sources_empty": [
   "kayak"
@@ -91,8 +99,8 @@
   "halter": 15,
   "yuzme": 14,
   "sportoto": 8,
-  "buzhokeyi": 13,
   "gormeengelliler": 39,
+  "buzhokeyi": 13,
   "taekwondo": 12,
   "tenis": 15,
   "kaykay": 9,

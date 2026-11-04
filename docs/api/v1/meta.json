@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T01:16:33+00:00",
- "total": 5995,
- "new_in_last_run": 453,
+ "generated_at": "2026-11-04T08:38:58+00:00",
+ "total": 5996,
+ "new_in_last_run": 1,
  "sources_ok": 55,
  "sources_failed": [
   "basketbol",
@@ -20,11 +20,14 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
- "latest_published_at": "2026-11-03T20:57:32+00:00",
+ "partial_run": [
+  "basketbol",
+  "binicilik"
+ ],
+ "latest_published_at": "2026-11-04T00:00:00+00:00",
  "categories": {
+  "kurs": 124,
   "duyuru": 625,
-  "kurs": 123,
   "mevzuat": 4946,
   "musabaka": 209,
   "takvim": 59,
@@ -53,6 +56,7 @@
   }
  ],
  "federation_counts": {
+  "basketbol": 49,
   "futbol": 129,
   "eskrim": 163,
   "buzpateni": 434,
@@ -86,7 +90,6 @@
   "bisiklet": 29,
   "masatenisi": 58,
   "binicilik": 179,
-  "basketbol": 48,
   "kano": 12,
   "hokey": 23,
   "danssporlari": 24,

@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T01:15:00+00:00",
+ "generated_at": "2026-11-04T09:02:08+00:00",
  "total_calendars": 37,
- "total_events": 1468,
+ "total_events": 1469,
  "changed_in_last_run": [],
  "calendars": [
   {
@@ -648,7 +648,7 @@
      "satir": "Kurs | 3. Kademe Kıdemli Antrenörlük Kursu | Havalı - Ateşli Silahlar | Muhtelif | İstanbul | İncele"
     }
    ],
-   "checked_at": "2026-11-04T01:14:51",
+   "checked_at": "2026-11-04T09:00:16",
    "bekleyen_iz": null,
    "changed_at": "2026-09-14T18:33:11+00:00",
    "parmak_izi": "23c618cb17d017ef"
@@ -1992,7 +1992,7 @@
      "satir": "26 - 27 Aralık Selahattin Yıldız Salon Kupası B-U20-U18 İstanbul Ulusal"
     }
    ],
-   "checked_at": "2026-11-04T01:14:48",
+   "checked_at": "2026-11-04T09:00:14",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "624a00b978c244a7"
@@ -2022,7 +2022,7 @@
    "fingerprint": "1fa76ad529605d0a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:57",
+   "checked_at": "2026-11-04T09:00:22",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "1fa76ad529605d0a"
@@ -2381,7 +2381,7 @@
    "fingerprint": "4eae6a62dca046ee",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:53",
+   "checked_at": "2026-11-04T09:00:19",
    "bekleyen_iz": null,
    "changed_at": "2026-11-01T01:00:34+00:00",
    "parmak_izi": "4eae6a62dca046ee"
@@ -3893,7 +3893,7 @@
      "satir": "11.12.2026 12.12.2026 TRACK CYCLİNG CHALLENGE İSVİÇRE CLASS 1 Milli"
     }
    ],
-   "checked_at": "2026-11-04T01:14:51",
+   "checked_at": "2026-11-04T09:00:16",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:11:18+00:00",
    "parmak_izi": "80f1546bef10a704"
@@ -4477,7 +4477,7 @@
      "satir": "5 IDF Avrupa Elektronik Dart Şampiyonası 30 Mayıs – 5 Haziran 2026 Samorin- Slovakya"
     }
    ],
-   "checked_at": "2026-11-04T01:14:55",
+   "checked_at": "2026-11-04T09:00:20",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "93a315b3298387eb"
@@ -4733,7 +4733,7 @@
      "satir": "TÜRKİYE BUZ PATENİ FEDERASYONU SEZON İÇERİSİNDE GEREKLİ GÖRDÜĞÜ TAKDİRDE TÜM FAALYETLERDE DEĞİŞİKLİK YAPMA HAKKINA SAHİPTİR."
     }
    ],
-   "checked_at": "2026-11-04T01:14:53",
+   "checked_at": "2026-11-04T09:00:18",
    "bekleyen_iz": null,
    "changed_at": "2026-10-01T18:49:13+00:00",
    "parmak_izi": "4b189e7e6d887025"
@@ -4746,8 +4746,16 @@
    "type": "html",
    "label": "Tüm Faaliyetleri Gör",
    "fingerprint": "8c1f88e4ae517814",
-   "event_count": 446,
+   "event_count": 447,
    "events": [
+    {
+     "ad": "Genel Cimnastik Hareket Eğitimi Gelişim Semineri",
+     "tarih": "2026-11-21",
+     "tarih_metni": "2026.11.21 21.11.2026 - 21.11.2026",
+     "yer": "Online",
+     "brans": "Seminer",
+     "satir": "2026 | Seminer | Genel Cimnastik Hareket Eğitimi Gelişim Semineri | Genel Cimnastik Hareket Eğitimi | Online | 2026.11.21 21.11.2026 - 21.11.2026 | İncele"
+    },
     {
      "ad": "1.Kademe Yardımcı Eğitmenlik Kursu",
      "tarih": "2026-11-16",
@@ -7939,18 +7947,10 @@
      "yer": "Ankara",
      "brans": "Kurs",
      "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.02.21 16.02.2026 - 21.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
-     "tarih": "2026-02-16",
-     "tarih_metni": "2026.02.21 16.02.2026 - 21.02.2026",
-     "yer": "Antalya",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Antalya | 2026.02.21 16.02.2026 - 21.02.2026 | Katılımcı Listesi İncele"
     }
    ],
-   "checked_at": "2026-11-04T01:14:51",
-   "bekleyen_iz": null,
+   "checked_at": "2026-11-04T09:00:16",
+   "bekleyen_iz": "84b4d02224e44335",
    "changed_at": "2026-11-03T20:55:53+00:00",
    "parmak_izi": "8c1f88e4ae517814"
   },
@@ -8117,7 +8117,7 @@
      "satir": "Türkiye Şampiyonaları (Modern Dans, Hip Hop, Dans Show, Arjantin Tango, Karayip Dansları) | Ulusal | 24 Haziran - 4 Temmuz 2027 | ANKARA | Tüm Kategoriler"
     }
    ],
-   "checked_at": "2026-11-03T20:56:00",
+   "checked_at": "2026-11-04T09:00:24",
    "bekleyen_iz": null,
    "changed_at": "2026-11-02T23:26:27+00:00",
    "parmak_izi": "2d7a8e96c6a21f84"
@@ -8132,8 +8132,8 @@
    "fingerprint": "b26f6a6485fabb02",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:49",
-   "bekleyen_iz": null,
+   "checked_at": "2026-11-04T09:00:15",
+   "bekleyen_iz": "c90939008d5519fa",
    "changed_at": "2026-11-03T20:55:52+00:00",
    "parmak_izi": "b26f6a6485fabb02"
   },
@@ -8228,7 +8228,7 @@
      "satir": "10 | 11.10.2026 | KAŞ BELEDİYESİ YAĞLI GÜREŞLERİ | KAŞ/ANTALYA"
     }
    ],
-   "checked_at": "2026-11-04T01:14:57",
+   "checked_at": "2026-11-04T09:00:22",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "ad6c280638ad2ad0"
@@ -8243,7 +8243,7 @@
    "fingerprint": "7555d229ef41a22a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:15:00",
+   "checked_at": "2026-11-04T09:00:26",
    "bekleyen_iz": null,
    "changed_at": "2026-11-03T20:56:01+00:00",
    "parmak_izi": "7555d229ef41a22a"
@@ -8579,7 +8579,7 @@
      "satir": "24-25 Ekim 2026 Hava Modelciliği F3P Büyükler/Gençler/Kadınlar F3P RC Model Uçak 2. Etap Ankara Ulusal"
     }
    ],
-   "checked_at": "2026-11-04T01:14:59",
+   "checked_at": "2026-11-04T09:00:26",
    "bekleyen_iz": null,
    "changed_at": "2026-10-09T16:06:58+00:00",
    "parmak_izi": "415109b84b691199"
@@ -9139,7 +9139,7 @@
      "satir": "49 28-31 AĞUSTOS 2025 AÇIK ALAN U14 TÜRKİYE ŞAMPİYONASI MUHTELİF"
     }
    ],
-   "checked_at": "2026-11-04T01:14:57",
+   "checked_at": "2026-11-04T09:00:23",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "03072fe7da5a8ac4"
@@ -9154,7 +9154,7 @@
    "fingerprint": "89f0b209e82ac623",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:46",
+   "checked_at": "2026-11-04T09:00:12",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "89f0b209e82ac623"
@@ -9953,7 +9953,7 @@
    "fingerprint": "e1280d8316fdf1be",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:46",
+   "checked_at": "2026-11-04T09:00:13",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "e1280d8316fdf1be"
@@ -10281,7 +10281,7 @@
      "satir": "114 TEKERLEKLİ PATEN KAMP MİLLİ TAKIM KAMPI 15-25 ARALIK 2026 TÜM KATEGORİLER"
     }
    ],
-   "checked_at": "2026-11-04T01:14:59",
+   "checked_at": "2026-11-04T09:00:27",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:54+00:00",
    "parmak_izi": "f125ba37d779c765"
@@ -10296,7 +10296,7 @@
    "fingerprint": "f2d55e3554ba0c6b",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:52",
+   "checked_at": "2026-11-04T09:00:17",
    "bekleyen_iz": null,
    "changed_at": "2026-10-13T21:11:24+00:00",
    "parmak_izi": "f2d55e3554ba0c6b"
@@ -10311,7 +10311,7 @@
    "fingerprint": "21fb6441966c75f7",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:48",
+   "checked_at": "2026-11-04T09:00:14",
    "bekleyen_iz": null,
    "changed_at": "2026-10-26T19:11:31+00:00",
    "parmak_izi": "21fb6441966c75f7"
@@ -10326,7 +10326,7 @@
    "fingerprint": "d759d0342954b53a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:55",
+   "checked_at": "2026-11-04T09:00:20",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "d759d0342954b53a"
@@ -10598,7 +10598,7 @@
      "satir": "Güncelleme Tarihi: 31.07.2026v7"
     }
    ],
-   "checked_at": "2026-11-04T01:14:54",
+   "checked_at": "2026-11-04T09:00:20",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "e1a36bd06e3f7e25"
@@ -10613,8 +10613,8 @@
    "fingerprint": "40117a8a8094bf43",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:54",
-   "bekleyen_iz": "85de3facb2f77e0e",
+   "checked_at": "2026-11-04T09:00:19",
+   "bekleyen_iz": "59df2a206a2a3d2e",
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "40117a8a8094bf43"
   },
@@ -10628,7 +10628,7 @@
    "fingerprint": "209443816a76df0f",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:57",
+   "checked_at": "2026-11-04T09:00:24",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "209443816a76df0f"
@@ -10931,7 +10931,7 @@
      "satir": "ULUSAL | SUALTI RAGBİSİ | YARIŞMA | SUALTI RAGBİSİ BÜYÜKLER (ELİTLER) TÜRKİYE ŞAMPİYONASI VE MİLLİ TAKIM SEÇMELERİ | MANİSA | 18-20 EYLÜL 2026"
     }
    ],
-   "checked_at": "2026-11-03T20:55:58",
+   "checked_at": "2026-11-04T09:00:21",
    "bekleyen_iz": null,
    "changed_at": "2026-08-21T15:43:55+00:00",
    "parmak_izi": "29f623280b19351c"
@@ -11355,7 +11355,7 @@
      "satir": "14 Aralık Tenis Ligi Final Müsabakaları Tenis Ligi Final Müsabakaları"
     }
    ],
-   "checked_at": "2026-11-04T01:14:47",
+   "checked_at": "2026-11-04T09:00:13",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:48+00:00",
    "parmak_izi": "ef844991598654f2"
@@ -11370,8 +11370,8 @@
    "fingerprint": "5359395e063643d4",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:53",
-   "bekleyen_iz": "6a857f3940b084e1",
+   "checked_at": "2026-11-04T09:00:18",
+   "bekleyen_iz": "cb17cc4f1222d29d",
    "changed_at": "2026-10-30T19:13:05+00:00",
    "parmak_izi": "5359395e063643d4"
   },
@@ -11385,7 +11385,7 @@
    "fingerprint": "a26d8699bf802fe4",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-04T01:14:46",
+   "checked_at": "2026-11-04T09:00:13",
    "bekleyen_iz": null,
    "changed_at": "2026-11-03T20:55:49+00:00",
    "parmak_izi": "a26d8699bf802fe4"
@@ -11663,7 +11663,7 @@
      "satir": "2 | 20.05.2026 16:09 | HANSA 303 ERKEK KESİN SONUÇLAR"
     }
    ],
-   "checked_at": "2026-11-04T01:14:54",
+   "checked_at": "2026-11-04T09:00:19",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:49+00:00",
    "parmak_izi": "b76b0070a88cf7ee"
@@ -11951,7 +11951,7 @@
      "satir": "KASIM 2027 CENTRAL EUROPEAN COUNTRIES MEET 50M 2012-2013-2014 Kadın-Erkek MUHTELİF"
     }
    ],
-   "checked_at": "2026-11-04T01:14:47",
+   "checked_at": "2026-11-04T09:00:14",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "23e93d6485844fb0"

@@ -13,6 +13,24 @@
    "mevzuat",
    "talimat"
   ],
+  "published_at": "2026-11-04T11:32:21+00:00",
+  "first_seen_at": "2026-11-04T11:32:21+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "1be8c531f5e63a30",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Mevzuat güncellendi: İçeriğe geç",
+  "url": "https://tmtf.gov.tr/mevzuat/talimatlar#main-content",
+  "summary": "Türkiye Masa Tenisi Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
   "published_at": "2026-11-03T11:18:30+00:00",
   "first_seen_at": "2026-11-03T11:18:30+00:00",
   "source": "mevzuat"
@@ -982,23 +1000,5 @@
   "published_at": "2026-10-17T09:13:14+00:00",
   "first_seen_at": "2026-10-17T09:13:14+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "11cb746caaa44437",
-  "federation": "masatenisi",
-  "federation_name": "Türkiye Masa Tenisi Federasyonu",
-  "federation_short": "TMTF",
-  "title": "Masa Tenisi faaliyet takviminde değişiklik",
-  "url": "https://tmtf.gov.tr/haberler-35",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-15T18:13:02+00:00",
-  "first_seen_at": "2026-10-15T18:13:02+00:00",
-  "source": "takvim-html"
  }
 ]

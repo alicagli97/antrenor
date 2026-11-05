@@ -1,5 +1,20 @@
 [
  {
+  "id": "72516cbad2b7e896",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Kırhan’dan tarihi bronz madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/305226/kirhandan-tarihi-bronz-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-11-05T12:12:45+00:00",
+  "first_seen_at": "2026-11-05T12:12:45+00:00",
+  "source": "html"
+ },
+ {
   "id": "d3cc8c10cfcfef91",
   "federation": "shgm",
   "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
@@ -471,37 +486,5 @@
   "published_at": "2026-10-18T10:23:04+00:00",
   "first_seen_at": "2026-10-18T10:57:17+00:00",
   "source": "api"
- },
- {
-  "id": "019265118adb1d11",
-  "federation": "halter",
-  "federation_name": "Türkiye Halter Federasyonu",
-  "federation_short": "THF",
-  "title": "Arnavutluk’ta 27 Madalyaya Ulaştık",
-  "url": "https://halter.gov.tr/arnavutlukta-27-madalyaya-ulastik/",
-  "summary": "Arnavutluk Durres şehrinde organize edilen Gençler ve U23 Avrupa halter şampiyonasının beşinci günü sonunda Milli sporcularımızın madalya sayısı ise 12 altın, 11 gümüş, 5 bronz olmak üzere toplam 27 oldu. TUĞBA’DAN BİR GÜMÜŞ BİR BRONZ Genç kadınlar 69 kiloda yarışan sporcumuz Tuğba Nur Koz, koparmada 102 kilo ile gümüş madalya kazanırken toplamda da 218 kilo […]",
-  "image": null,
-  "category": "haber",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-16T21:33:40+00:00",
-  "first_seen_at": "2026-10-16T23:39:21+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "ae4202f954283ab7",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Eda’dan açık suda tarihi başarı!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/303789/edadan-acik-suda-tarihi-basari.aspx",
-  "summary": "",
-  "image": null,
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-10-16T12:23:09+00:00",
-  "first_seen_at": "2026-10-16T12:23:09+00:00",
-  "source": "html"
  }
 ]

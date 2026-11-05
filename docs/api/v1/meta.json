@@ -1,17 +1,16 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-04T22:37:51+00:00",
+ "generated_at": "2026-11-05T03:28:29+00:00",
  "total": 5995,
- "new_in_last_run": 537,
- "sources_ok": 63,
+ "new_in_last_run": 533,
+ "sources_ok": 62,
  "sources_failed": [
   "basketbol",
   "binicilik",
   "cimnastik"
  ],
  "sources_empty": [
-  "kayak",
-  "sportoto"
+  "kayak"
  ],
  "sources_missing": [],
  "partial_run": null,

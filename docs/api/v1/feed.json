@@ -1,5 +1,41 @@
 [
  {
+  "id": "e4b8d4a61d04a7dd",
+  "federation": "gelismekteolan",
+  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
+  "federation_short": "GOSBF",
+  "title": "Gelişmekte Olan Branşlar faaliyet takviminde değişiklik",
+  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-469-10-13-eylul-2026-hemsball-gencler-ve-buyukler-turkiye-sampiyonasi-mugla-mentese",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-06T01:29:38+00:00",
+  "first_seen_at": "2026-11-06T01:29:38+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "cb77de6747b2e1a3",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-06T01:29:27+00:00",
+  "first_seen_at": "2026-11-06T01:29:27+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "e0434f044aaac963",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -5111,41 +5147,5 @@
   "published_at": "2026-10-30T19:50:15+00:00",
   "first_seen_at": "2026-10-30T23:40:51+00:00",
   "source": "wp_json"
- },
- {
-  "id": "a007d8ece023b7dc",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Gelişmekte Olan Branşlar faaliyet takviminde değişiklik",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-469-10-13-eylul-2026-hemsball-gencler-ve-buyukler-turkiye-sampiyonasi-mugla-mentese",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-30T19:13:11+00:00",
-  "first_seen_at": "2026-10-30T19:13:11+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "3dc444e06a237799",
-  "federation": "danssporlari",
-  "federation_name": "Türkiye Dans Sporları Federasyonu",
-  "federation_short": "TDSF",
-  "title": "Dans Sporları faaliyet takviminde değişiklik",
-  "url": "https://tdsf.org.tr/faaliyet-takvimi",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 17 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-30T19:13:10+00:00",
-  "first_seen_at": "2026-10-30T19:13:10+00:00",
-  "source": "takvim-html"
  }
 ]

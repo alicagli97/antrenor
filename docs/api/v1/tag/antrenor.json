@@ -1,5 +1,80 @@
 [
  {
+  "id": "a52b7407fad5fab1",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "3. Kademe Yüzme Antrenörü Yetiştirme Kursu 16-20 Kasım 2026 Erzurum",
+  "url": "https://www.tyf.gov.tr/haber/3-kademe-yuzme-antrenoru-yetistirme-kursu--16-20-kasim-2026-erzurum.html",
+  "summary": "BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-11/1511/1793948966_y.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-06T09:18:13+00:00",
+  "first_seen_at": "2026-11-06T09:18:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "39bd2e3025d96a08",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: Hyathlon Spor Dalı Sporcu Lisans, Vize ve Transfer Talimatı / 06.11.2026",
+  "url": "https://triatlon.org.tr/hyathlon-spor-dali-sporcu-lisans-vize-ve-transfer-talimati-/-06.11.2026.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-11-06T09:16:59+00:00",
+  "first_seen_at": "2026-11-06T09:16:59+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "b2b44c657e95e45b",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: Para Triatlon Spor Dalı Sporcu Lisans, Vize ve Transfer Talimatı / 06.11.2026",
+  "url": "https://triatlon.org.tr/para-triatlon-spor-dali-sporcu-lisans-vize-ve-transfer-talimati.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-11-06T09:16:59+00:00",
+  "first_seen_at": "2026-11-06T09:16:59+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "8475cfb494bca0d5",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: TTF Spor Dalı Sporcu Lisans, Vize ve Transfer Talimatı / 06.11.2026",
+  "url": "https://triatlon.org.tr/ttf-spor-dali-sporcu-lisans-vize-ve-transfer-talimati.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-11-06T09:16:59+00:00",
+  "first_seen_at": "2026-11-06T09:16:59+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "1d286682730aaa4f",
   "federation": "muaythai",
   "federation_name": "Türkiye Muaythai Federasyonu",
@@ -3710,82 +3785,6 @@
   ],
   "published_at": "2026-11-03T11:20:24+00:00",
   "first_seen_at": "2026-11-03T11:20:24+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "50d434fdbf161e46",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Hakem Talimatı (15.12.2020 tarihinden itibaren yürürlüktedir)",
-  "url": "https://drive.google.com/file/d/1Hyd2QfeRjJzzqXZTRM_glgTgYNAhdNaX/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-03T11:20:23+00:00",
-  "first_seen_at": "2026-11-03T11:20:23+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "62805a42a2329ffd",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Kulüplerin Dağcılık Eğitimi Düzenleme Yönergesi (Yürürlükten kaldırıldı yerine TDF Eğitim Yönergesi geldi)",
-  "url": "https://drive.google.com/file/d/1_NN0kAbLJuRmoHppOuXuzsx187IDLkQS/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-03T11:20:23+00:00",
-  "first_seen_at": "2026-11-03T11:20:23+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "3b06dc1ce4931430",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Mevzuat güncellendi: Antrenör Eğitimi Talimatı Detayları incele",
-  "url": "https://www.tsf.org.tr/belge-detayi/1949",
-  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-03T11:20:23+00:00",
-  "first_seen_at": "2026-11-03T11:20:23+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "59d8da62f1143e35",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Mevzuat güncellendi: GSB - Milli Sporcu Belgesi Sınıflarına İlişkin Müsabaka Türlerinin Belirlenmesine Dair Genelge Detayları incele",
-  "url": "https://www.tsf.org.tr/belge-detayi/1562",
-  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-03T11:20:23+00:00",
-  "first_seen_at": "2026-11-03T11:20:23+00:00",
   "source": "mevzuat"
  }
 ]

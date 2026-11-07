@@ -1,5 +1,24 @@
 [
  {
+  "id": "92a40596f00b5ec8",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Türkiye-Norveç Maçı Öncesinde Basın Toplantısı Düzenlendi",
+  "url": "https://thf.org.tr/haber/turkiye-norvec-maci-oncesinde-basin-toplantisi-duzenlendi",
+  "summary": "Erkek A Milli Hentbol Takımımızın, 2028 Avrupa Hentbol Şampiyonası (EHF EURO 2028) Elemeleri kapsamında Norveç ile oynayacağı karşılaşma öncesinde basın toplantısı düzenlendi. İstanbul Beykoz Spor Ormanı’nda bulunan THF Serdar Seymen Hentbol Salonu'nda gerçekleştirilen toplantıya, Türkiye A Milli Takım Başantrenörü Oliver Roy Camiño ve milli oyuncumuz Ediz Aktaş ile Norveç Milli Takım Başantrenörü Magnus Andersson ve takım kaptanı Torbjørn Bergerud katıldı. Basın mensuplarının da katılım sağladığı toplantıda, iki takımın başantrenörleri ve oyuncuları karşılaşma öncesindeki değerlendirmelerini ",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-11-07T17:26:56+00:00",
+  "first_seen_at": "2026-11-07T16:22:31+00:00",
+  "source": "api"
+ },
+ {
   "id": "70129fd74c805dd7",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -3761,25 +3780,6 @@
   "federation_short": "GSB",
   "title": "Mevzuat güncellendi: Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşlara Ayni ve Nakdî Yardım Yapılması Hakkında Yönetmelik",
   "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42748&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-04T11:37:07+00:00",
-  "first_seen_at": "2026-11-04T11:37:07+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "70129fd74c805dd7",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşların Denetimi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41031&MevzuatTur=7&MevzuatTertip=5",
   "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

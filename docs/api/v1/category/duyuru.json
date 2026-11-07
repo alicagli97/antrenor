@@ -1,5 +1,35 @@
 [
  {
+  "id": "38e2dfd258dc3406",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Spor Toto Kupası Resmi Antrenm...",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-spor-toto-kupasi-antrenmanlari-basladi-13",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-07T16:22:31+00:00",
+  "first_seen_at": "2026-11-07T16:22:31+00:00",
+  "source": "html"
+ },
+ {
+  "id": "91b7779876486092",
+  "federation": "beyzbol",
+  "federation_name": "Türkiye Beyzbol, Softbol, Korumalı Futbol ve Ragbi Federasyonu",
+  "federation_short": "TBSF",
+  "title": "Korumalı Futbol Teknik Kurul Kararları - 20",
+  "url": "https://tbsf.org.tr/incele.php?id=MzI5",
+  "summary": "",
+  "image": "https://tbsf.org.tr/icerikresim/x329.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-07T16:22:31+00:00",
+  "first_seen_at": "2026-11-07T16:22:31+00:00",
+  "source": "html"
+ },
+ {
   "id": "f004372616dc0dd8",
   "federation": "muaythai",
   "federation_name": "Türkiye Muaythai Federasyonu",
@@ -50,6 +80,21 @@
   "published_at": "2026-11-07T02:37:48+00:00",
   "first_seen_at": "2026-11-07T02:44:01+00:00",
   "source": "rss"
+ },
+ {
+  "id": "d6b8c5c2c86b25c2",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak: “kktc’li Gençlerin Önüne Engel Konulmasını Kabul Etmiyoruz”",
+  "url": "https://gsb.gov.tr/tr/haber-detay/305274-bakan-bak-kktcli-genclerin-onune-engel-konulmasini-kabul-etmiyoruz",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/ff2189de-0fa6-463f-bcb5-13085864ae64.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-07T00:00:00+00:00",
+  "first_seen_at": "2026-11-07T16:22:31+00:00",
+  "source": "html"
  },
  {
   "id": "3d75f20498a8a16d",
@@ -3114,53 +3159,5 @@
   "published_at": "2026-10-30T17:44:14+00:00",
   "first_seen_at": "2026-10-30T19:14:38+00:00",
   "source": "api"
- },
- {
-  "id": "0a8f1539358067e5",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Erkek A Milli Takımımız, İran ile İlk Hazırlık Maçını Oynadı",
-  "url": "https://thf.org.tr/haber/erkek-a-milli-takimimiz-iran-ile-ilk-hazirlik-macini-oynadi",
-  "summary": "Erkek A Milli Hentbol Takımımız, Ankara'da sürdürdüğü kamp çalışmaları kapsamında İran A Milli Takımı ile oynadığı ilk hazırlık karşılaşmasından 27-24 mağlup ayrıldı. Ankara Prof. Dr. Yaşar Sevim Hentbol Salonu'nda oynanan karşılaşmanın ilk yarısını 17-14 geride tamamlayan Millilerimiz, mücadeleden 27-24'lük skorla mağlup ayrıldı. Tarihinde ilk kez katılacağı 2027 Dünya Erkekler Hentbol Şampiyonası ve kasım ayında oynayacağı 2028 Avrupa Şampiyonası Eleme Grubu karşılaşmalarına hazırlanan Erkek A Milli Takımımız, İran ile ikinci hazırlık maçını 31 Ekim Cumartesi günü saat 13.00'te oynayacak. Ay",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "musabaka",
-   "milli_takim"
-  ],
-  "published_at": "2026-10-30T17:25:02+00:00",
-  "first_seen_at": "2026-10-30T19:14:38+00:00",
-  "source": "api"
- },
- {
-  "id": "5db0d2fff0475895",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U15 Millî Takımımız, Çin'i Yenerek 2026 FIFA U15 Dünya Kupası'nı Tamamladı",
-  "url": "https://www.tff.org/default.aspx?pageID=282&ftxtID=51782",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-30T14:03:02+00:00",
-  "first_seen_at": "2026-10-30T14:03:02+00:00",
-  "source": "html"
- },
- {
-  "id": "4215e701817a143d",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Ekim 2026 Savate 1. ve 2. Dang Sınavları / Kütahya Katılımcı Listesi",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-518-31-ekim-2026-savate-1.-ve-2.-dang-sinavlari-kutahya-katilimci-listesi",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-10-30T14:03:02+00:00",
-  "first_seen_at": "2026-10-30T14:03:02+00:00",
-  "source": "html"
  }
 ]

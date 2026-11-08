@@ -1,22 +1,18 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-07T21:00:21+00:00",
+ "generated_at": "2026-11-08T00:28:23+00:00",
  "total": 5998,
- "new_in_last_run": 0,
- "sources_ok": 62,
+ "new_in_last_run": 561,
+ "sources_ok": 63,
  "sources_failed": [
   "basketbol",
-  "beyzbol",
   "binicilik"
  ],
  "sources_empty": [
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": [
-  "basketbol",
-  "binicilik"
- ],
+ "partial_run": null,
  "latest_published_at": "2026-11-07T20:53:11+00:00",
  "categories": {
   "kurs": 130,

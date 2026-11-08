@@ -83,15 +83,9 @@ def index_page(meta: dict) -> str:
 </div>
 
 <div class="card">
-  <h2>Veri akışı</h2>
-  <p>Duyurular saatte bir taranır ve açık veri olarak yayınlanır:</p>
-  <ul>
-    <li><code>/api/v1/meta.json</code> — sürüm ve son güncelleme</li>
-    <li><code>/api/v1/federations.json</code> — kurum listesi</li>
-    <li><code>/api/v1/feed.json</code> — son 300 duyuru</li>
-    <li><code>/api/v1/fed/&lt;slug&gt;.json</code> — federasyon bazında</li>
-    <li><code>/api/v1/tag/antrenor.json</code> — antrenörlük duyuruları</li>
-  </ul>
+  <h2>Güncelleme</h2>
+  <p>Duyurular federasyonların resmî sayfalarından saatte bir taranır ve
+  uygulamaya işlenir.</p>
   <p class="muted">Son güncelleme: {meta.get('generated_at', '—')}</p>
 </div>
 

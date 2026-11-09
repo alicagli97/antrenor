@@ -3,10 +3,9 @@
  "federation_name": "Türkiye Masa Tenisi Federasyonu",
  "federation_short": "TMTF",
  "sources": [
-  "https://tmtf.gov.tr/mevzuat/talimatlar",
-  "https://tmtf.gov.tr/hakem/oyun-kurallari"
+  "https://tmtf.gov.tr/mevzuat/talimatlar"
  ],
- "document_count": 30,
+ "document_count": 26,
  "coach_document_count": 6,
  "documents": [
   {
@@ -63,8 +62,8 @@
    "url": "https://tmtf.gov.tr/mevzuat/talimatlar#main-content",
    "tur": "html",
    "onemli": false,
-   "parmak_izi": "7bbd33fdcf0e7384",
-   "guncellendi": "2026-11-08T10:45:11+00:00"
+   "parmak_izi": "ee2f317f8356a1ec",
+   "guncellendi": "2026-11-09T12:05:10+00:00"
   },
   {
    "baslik": "Satın Alma ve İhale Talimatı",
@@ -191,36 +190,8 @@
    "tur": "pdf",
    "onemli": false,
    "parmak_izi": "31789ace8fdb0fae"
-  },
-  {
-   "baslik": "https://www.tmtf.gov.tr/uploads/img/masa-tenisi-oyun-kurallari-2023-enson-v2.pdf",
-   "url": "https://tmtf.gov.tr/media/media/19/masa-tenisi-oyun-kurallari-2023-enson-v2-19101ff0.pdf",
-   "tur": "pdf",
-   "onemli": false,
-   "parmak_izi": ""
-  },
-  {
-   "baslik": "İçeriğe geç",
-   "url": "https://tmtf.gov.tr/hakem/oyun-kurallari#main-content",
-   "tur": "html",
-   "onemli": false,
-   "parmak_izi": ""
-  },
-  {
-   "baslik": "masa tenisi oyun kurallari 2023 enson 07bac83b",
-   "url": "https://tmtf.gov.tr/media/media/07/masa-tenisi-oyun-kurallari-2023-enson-07bac83b.pdf",
-   "tur": "pdf",
-   "onemli": false,
-   "parmak_izi": ""
-  },
-  {
-   "baslik": "masa tenisi oyun kurallari 2023 enson 2 d4ca4d68",
-   "url": "https://tmtf.gov.tr/media/media/d4/masa-tenisi-oyun-kurallari-2023-enson_2-d4ca4d68.docx",
-   "tur": "word",
-   "onemli": false,
-   "parmak_izi": ""
   }
  ],
- "checked_at": "2026-11-09T06:04:47+00:00",
- "list_fingerprint": "eb2596d4c001e57d"
+ "checked_at": "2026-11-09T12:06:45+00:00",
+ "list_fingerprint": "cf047633a6bbd4f2"
 }

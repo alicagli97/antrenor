@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T06:04:44+00:00",
+ "generated_at": "2026-11-09T16:04:29+00:00",
  "total_calendars": 37,
- "total_events": 1473,
+ "total_events": 1491,
  "changed_in_last_run": [],
  "calendars": [
   {
@@ -648,7 +648,7 @@
      "satir": "Kurs | 3. Kademe Kıdemli Antrenörlük Kursu | Havalı - Ateşli Silahlar | Muhtelif | İstanbul | İncele"
     }
    ],
-   "checked_at": "2026-11-09T06:04:36",
+   "checked_at": "2026-11-09T16:04:17",
    "bekleyen_iz": null,
    "changed_at": "2026-09-14T18:33:11+00:00",
    "parmak_izi": "23c618cb17d017ef"
@@ -1992,7 +1992,7 @@
      "satir": "26 - 27 Aralık Selahattin Yıldız Salon Kupası B-U20-U18 İstanbul Ulusal"
     }
    ],
-   "checked_at": "2026-11-09T06:04:34",
+   "checked_at": "2026-11-09T16:04:14",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "624a00b978c244a7"
@@ -2022,7 +2022,7 @@
    "fingerprint": "1fa76ad529605d0a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:41",
+   "checked_at": "2026-11-09T16:04:26",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "1fa76ad529605d0a"
@@ -2381,7 +2381,7 @@
    "fingerprint": "4eae6a62dca046ee",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:39",
+   "checked_at": "2026-11-09T16:04:22",
    "bekleyen_iz": null,
    "changed_at": "2026-11-01T01:00:34+00:00",
    "parmak_izi": "4eae6a62dca046ee"
@@ -3893,7 +3893,7 @@
      "satir": "11.12.2026 12.12.2026 TRACK CYCLİNG CHALLENGE İSVİÇRE CLASS 1 Milli"
     }
    ],
-   "checked_at": "2026-11-09T06:04:35",
+   "checked_at": "2026-11-09T16:04:17",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:11:18+00:00",
    "parmak_izi": "80f1546bef10a704"
@@ -4477,7 +4477,7 @@
      "satir": "5 IDF Avrupa Elektronik Dart Şampiyonası 30 Mayıs – 5 Haziran 2026 Samorin- Slovakya"
     }
    ],
-   "checked_at": "2026-11-09T06:04:39",
+   "checked_at": "2026-11-09T16:04:23",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "93a315b3298387eb"
@@ -4733,7 +4733,7 @@
      "satir": "TÜRKİYE BUZ PATENİ FEDERASYONU SEZON İÇERİSİNDE GEREKLİ GÖRDÜĞÜ TAKDİRDE TÜM FAALYETLERDE DEĞİŞİKLİK YAPMA HAKKINA SAHİPTİR."
     }
    ],
-   "checked_at": "2026-11-09T06:04:38",
+   "checked_at": "2026-11-09T16:04:22",
    "bekleyen_iz": null,
    "changed_at": "2026-10-01T18:49:13+00:00",
    "parmak_izi": "4b189e7e6d887025"
@@ -4746,8 +4746,136 @@
    "type": "html",
    "label": "Tüm Faaliyetleri Gör",
    "fingerprint": "dad05494c915e4cd",
-   "event_count": 451,
+   "event_count": 467,
    "events": [
+    {
+     "ad": "Pilates Gelişim Semineri (CONVENTION) 15-17 Aralık 2026 / Antalya – Hafta İçi",
+     "tarih": "2026-12-15",
+     "tarih_metni": "2026.12.17 15.12.2026 - 17.12.2026",
+     "yer": "Antalya",
+     "brans": "Seminer",
+     "satir": "2026 | Seminer | Pilates Gelişim Semineri (CONVENTION) 15-17 Aralık 2026 / Antalya – Hafta İçi | Pilates | Antalya | 2026.12.17 15.12.2026 - 17.12.2026 | İncele"
+    },
+    {
+     "ad": "Pilates Gelişim Semineri (CONVENTION) 18-20 Aralık 2026 / Antalya – Hafta Sonu",
+     "tarih": "2026-12-18",
+     "tarih_metni": "2026.12.20 18.12.2026 - 20.12.2026",
+     "yer": "Antalya",
+     "brans": "Seminer",
+     "satir": "2026 | Seminer | Pilates Gelişim Semineri (CONVENTION) 18-20 Aralık 2026 / Antalya – Hafta Sonu | Pilates | Antalya | 2026.12.20 18.12.2026 - 20.12.2026 | İncele"
+    },
+    {
+     "ad": "5. Kademe Teknik Direktörlük Kursu",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "İzmir",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 5. Kademe Teknik Direktörlük Kursu | Trampolin Cimnastik | İzmir | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
+    {
+     "ad": "2026.11.28 23.11.2026 - 28.11.2026",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "İzmir",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 4. Kademe Baş Antrenörlük Kursu | Trampolin Cimnastik | İzmir | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
+    {
+     "ad": "1.Kademe Yardımcı Eğitmenlik Kursu",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "Gaziantep",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 1.Kademe Yardımcı Eğitmenlik Kursu | Pilates | Gaziantep | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
+    {
+     "ad": "2026.11.28 23.11.2026 - 28.11.2026",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "İzmir",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 2.Kademe Temel Eğitmenlik Kursu | Pilates | İzmir | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
+    {
+     "ad": "1. Kademe Yardımcı Antrenörlük Kursu",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "Ankara",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 1. Kademe Yardımcı Antrenörlük Kursu | Aerobik Cimnastik | Ankara | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
+    {
+     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+     "tarih": "2026-11-22",
+     "tarih_metni": "2026.11.27 22.11.2026 - 27.11.2026",
+     "yer": "Ankara",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | Ankara | 2026.11.27 22.11.2026 - 27.11.2026 | İncele"
+    },
+    {
+     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+     "tarih": "2026-11-22",
+     "tarih_metni": "2026.11.27 22.11.2026 - 27.11.2026",
+     "yer": "Antalya",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | Antalya | 2026.11.27 22.11.2026 - 27.11.2026 | İncele"
+    },
+    {
+     "ad": "5. Kademe Teknik Direktörlük Kursu",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "Bolu",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 5. Kademe Teknik Direktörlük Kursu | Erkek Artistik Cimnastik | Bolu | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
+    {
+     "ad": "2026.11.28 23.11.2026 - 28.11.2026",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "Bolu",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 4. Kademe Baş Antrenörlük Kursu | Erkek Artistik Cimnastik | Bolu | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
+    {
+     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "Antalya",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Antalya | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
+    {
+     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "Bolu",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Bolu | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
+    {
+     "ad": "2026.11.28 23.11.2026 - 28.11.2026",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "Ankara",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 2. Kademe Temel Antrenörlük Kursu | Aerobik Cimnastik | Ankara | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
+    {
+     "ad": "2026.11.28 23.11.2026 - 28.11.2026",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "Ankara",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 2. Kademe Temel Antrenörlük Kursu | Erkek Artistik Cimnastik | Ankara | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
+    {
+     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
+     "tarih": "2026-11-23",
+     "tarih_metni": "2026.11.28 23.11.2026 - 28.11.2026",
+     "yer": "Ankara",
+     "brans": "Kurs",
+     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+    },
     {
      "ad": "Hakem Vize Semineri Antalya 11-13 Aralık 2026",
      "tarih": "2026-12-11",
@@ -4997,20 +5125,20 @@
      "satir": "2026 | Kamp | Artistik Cimnastik Kadın Büyükler ve Prejunior Hazırlık Kampı | Kadın Artistik Cimnastik | İSTANBUL | 2026.11.07 02.11.2026 - 07.11.2026 | İncele"
     },
     {
-     "ad": "Fiziksel Uygunluk Performans Testi (Motor Test)",
-     "tarih": "2026-12-01",
-     "tarih_metni": "2026.12.06 01.12.2026 - 06.12.2026",
-     "yer": "İstanbul",
-     "brans": "Yarışma",
-     "satir": "2026 | Yarışma | Fiziksel Uygunluk Performans Testi (Motor Test) | Kadın Artistik Cimnastik | İstanbul | 2026.12.06 01.12.2026 - 06.12.2026 | İncele"
-    },
-    {
      "ad": "Akrobatik Cimnastik Federasyon Kupası",
      "tarih": "2026-11-13",
      "tarih_metni": "2026.11.15 13.11.2026 - 15.11.2026",
      "yer": "İstanbul",
      "brans": "Yarışma",
      "satir": "2026 | Yarışma | Akrobatik Cimnastik Federasyon Kupası | Akrobatik Cimnastik | İstanbul | 2026.11.15 13.11.2026 - 15.11.2026 | İncele"
+    },
+    {
+     "ad": "Fiziksel Uygunluk Performans Testi (Motor Test)",
+     "tarih": "2026-12-01",
+     "tarih_metni": "2026.12.06 01.12.2026 - 06.12.2026",
+     "yer": "İstanbul",
+     "brans": "Yarışma",
+     "satir": "2026 | Yarışma | Fiziksel Uygunluk Performans Testi (Motor Test) | Kadın Artistik Cimnastik | İstanbul | 2026.12.06 01.12.2026 - 06.12.2026 | İncele"
     },
     {
      "ad": "Fiziksel Uygunluk Performans Testi (Motor Test)",
@@ -5221,12 +5349,12 @@
      "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.10.24 19.10.2026 - 24.10.2026 | Katılımcı Listesi İncele"
     },
     {
-     "ad": "Küçükler Kulüplerarası Türkiye Şampiyonası",
+     "ad": "Küçükler Kulüpler Arası Türkiye Şampiyonası",
      "tarih": "2026-10-29",
      "tarih_metni": "2026.11.01 29.10.2026 - 01.11.2026",
      "yer": "İstanbul",
      "brans": "Yarışma",
-     "satir": "2026 | Yarışma | Küçükler Kulüplerarası Türkiye Şampiyonası | Aerobik Cimnastik | İstanbul | 2026.11.01 29.10.2026 - 01.11.2026 | Katılımcı Listesi İncele"
+     "satir": "2026 | Yarışma | Küçükler Kulüpler Arası Türkiye Şampiyonası | Aerobik Cimnastik | İstanbul | 2026.11.01 29.10.2026 - 01.11.2026 | Katılımcı Listesi İncele"
     },
     {
      "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
@@ -5349,12 +5477,12 @@
      "satir": "2026 | Kamp | Artistik Cimnastik Yıldız Genç Erkekler Milli Takım Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.10.17 11.10.2026 - 17.10.2026 | İncele"
     },
     {
-     "ad": "Minik Kadınlar Kulüplerarası Türkiye Şampiyonası",
+     "ad": "Minik Kadınlar Kulüpler Arası Türkiye Şampiyonası",
      "tarih": "2026-11-20",
      "tarih_metni": "2026.11.22 20.11.2026 - 22.11.2026",
      "yer": "İstanbul",
      "brans": "Yarışma",
-     "satir": "2026 | Yarışma | Minik Kadınlar Kulüplerarası Türkiye Şampiyonası | Kadın Artistik Cimnastik | İstanbul | 2026.11.22 20.11.2026 - 22.11.2026 | İncele"
+     "satir": "2026 | Yarışma | Minik Kadınlar Kulüpler Arası Türkiye Şampiyonası | Kadın Artistik Cimnastik | İstanbul | 2026.11.22 20.11.2026 - 22.11.2026 | İncele"
     },
     {
      "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
@@ -5365,20 +5493,20 @@
      "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Antalya | 2026.10.10 05.10.2026 - 10.10.2026 | Katılımcı Listesi İncele"
     },
     {
-     "ad": "Küçük Erkekler Kulüplerarası 2. Etap / Minik Erkekler Kulüplerarası Türkiye Şampiyonaları",
+     "ad": "Küçük Erkekler Kulüpler Arası 2. Etap / Minik Erkekler Kulüpler Arası Türkiye Şampiyonaları",
      "tarih": "2026-10-23",
      "tarih_metni": "2026.10.25 23.10.2026 - 25.10.2026",
      "yer": "İstanbul",
      "brans": "Yarışma",
-     "satir": "2026 | Yarışma | Küçük Erkekler Kulüplerarası 2. Etap / Minik Erkekler Kulüplerarası Türkiye Şampiyonaları | Erkek Artistik Cimnastik | İstanbul | 2026.10.25 23.10.2026 - 25.10.2026 | Sonuçlar İncele"
+     "satir": "2026 | Yarışma | Küçük Erkekler Kulüpler Arası 2. Etap / Minik Erkekler Kulüpler Arası Türkiye Şampiyonaları | Erkek Artistik Cimnastik | İstanbul | 2026.10.25 23.10.2026 - 25.10.2026 | Sonuçlar İncele"
     },
     {
-     "ad": "Küçük Kadınlar Kulüplerarası 2. Etap Türkiye Şampiyonası",
+     "ad": "Küçük Kadınlar Kulüpler Arası 2. Etap Türkiye Şampiyonası",
      "tarih": "2026-11-06",
      "tarih_metni": "2026.11.08 06.11.2026 - 08.11.2026",
      "yer": "İstanbul",
      "brans": "Yarışma",
-     "satir": "2026 | Yarışma | Küçük Kadınlar Kulüplerarası 2. Etap Türkiye Şampiyonası | Kadın Artistik Cimnastik | İstanbul | 2026.11.08 06.11.2026 - 08.11.2026 | İncele"
+     "satir": "2026 | Yarışma | Küçük Kadınlar Kulüpler Arası 2. Etap Türkiye Şampiyonası | Kadın Artistik Cimnastik | İstanbul | 2026.11.08 06.11.2026 - 08.11.2026 | Sonuçlar İncele"
     },
     {
      "ad": "2026.10.10 05.10.2026 - 10.10.2026",
@@ -5413,12 +5541,12 @@
      "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | Eskişehir | 2026.10.09 04.10.2026 - 09.10.2026 | Katılımcı Listesi İncele"
     },
     {
-     "ad": "Minikler Kulüplerarası Türkiye Şampiyonası (Bireysel/Grup)",
+     "ad": "Minikler Kulüpler Arası Türkiye Şampiyonası (Bireysel/Grup)",
      "tarih": "2026-11-12",
      "tarih_metni": "2026.11.15 12.11.2026 - 15.11.2026",
      "yer": "Ankara",
      "brans": "Yarışma",
-     "satir": "2026 | Yarışma | Minikler Kulüplerarası Türkiye Şampiyonası (Bireysel/Grup) | Ritmik Cimnastik | Ankara | 2026.11.15 12.11.2026 - 15.11.2026 | İncele"
+     "satir": "2026 | Yarışma | Minikler Kulüpler Arası Türkiye Şampiyonası (Bireysel/Grup) | Ritmik Cimnastik | Ankara | 2026.11.15 12.11.2026 - 15.11.2026 | İncele"
     },
     {
      "ad": "2026.10.03 28.09.2026 - 03.10.2026",
@@ -5733,20 +5861,20 @@
      "satir": "2026 | Yarışma | Genç – Büyük Türkiye Şampiyonası (Final Etabı) | Parkur | İstanbul | 2026.09.27 25.09.2026 - 27.09.2026 | Katılımcı Listesi Sonuçlar İncele"
     },
     {
-     "ad": "Kulüpler Türkiye Şampiyonası (YGB)",
+     "ad": "Kulüpler Arası Türkiye Şampiyonası (YGB)",
      "tarih": "2026-10-01",
      "tarih_metni": "2026.10.04 01.10.2026 - 04.10.2026",
      "yer": "İstanbul",
      "brans": "Yarışma",
-     "satir": "2026 | Yarışma | Kulüpler Türkiye Şampiyonası (YGB) | Aerobik Cimnastik | İstanbul | 2026.10.04 01.10.2026 - 04.10.2026 | Katılımcı Listesi Sonuçlar İncele"
+     "satir": "2026 | Yarışma | Kulüpler Arası Türkiye Şampiyonası (YGB) | Aerobik Cimnastik | İstanbul | 2026.10.04 01.10.2026 - 04.10.2026 | Katılımcı Listesi Sonuçlar İncele"
     },
     {
-     "ad": "Kulüplerarası Küçükler Türkiye Şampiyonası",
+     "ad": "Kulüpler Arası Küçükler Türkiye Şampiyonası",
      "tarih": "2026-10-15",
      "tarih_metni": "2026.10.18 15.10.2026 - 18.10.2026",
      "yer": "İstanbul",
      "brans": "Yarışma",
-     "satir": "2026 | Yarışma | Kulüplerarası Küçükler Türkiye Şampiyonası | Ritmik Cimnastik | İstanbul | 2026.10.18 15.10.2026 - 18.10.2026 | Katılımcı Listesi Sonuçlar İncele"
+     "satir": "2026 | Yarışma | Kulüpler Arası Küçükler Türkiye Şampiyonası | Ritmik Cimnastik | İstanbul | 2026.10.18 15.10.2026 - 18.10.2026 | Katılımcı Listesi Sonuçlar İncele"
     },
     {
      "ad": "Artistik Cimnastik Gelişim Semineri-2 24 Ağustos 2026",
@@ -5797,12 +5925,12 @@
      "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Antalya | 2026.09.05 31.08.2026 - 05.09.2026 | Katılımcı Listesi İncele"
     },
     {
-     "ad": "Kulüpler Türkiye Şampiyonası (YGB)",
+     "ad": "Kulüpler Arası Türkiye Şampiyonası (YGB)",
      "tarih": "2026-09-11",
      "tarih_metni": "2026.09.13 11.09.2026 - 13.09.2026",
      "yer": "İzmir",
      "brans": "Yarışma",
-     "satir": "2026 | Yarışma | Kulüpler Türkiye Şampiyonası (YGB) | Trampolin Cimnastik | İzmir | 2026.09.13 11.09.2026 - 13.09.2026 | Katılımcı Listesi Sonuçlar İncele"
+     "satir": "2026 | Yarışma | Kulüpler Arası Türkiye Şampiyonası (YGB) | Trampolin Cimnastik | İzmir | 2026.09.13 11.09.2026 - 13.09.2026 | Katılımcı Listesi Sonuçlar İncele"
     },
     {
      "ad": "Yaş Grupları Final Etabı Müsabakası",
@@ -7819,138 +7947,10 @@
      "yer": "Online",
      "brans": "Seminer",
      "satir": "2026 | Seminer | Artistik Cimnastik (Erkek) Hakem Vize Telafi Semineri | Erkek Artistik Cimnastik | Online | 2026.02.17 16.02.2026 - 17.02.2026 | İncele"
-    },
-    {
-     "ad": "2026.03.01 23.02.2026 - 01.03.2026",
-     "tarih": "2026-02-23",
-     "tarih_metni": "2026.03.01 23.02.2026 - 01.03.2026",
-     "yer": "Ankara",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 4. Kademe Baş Antrenörlük Kursu | Ritmik Cimnastik | Ankara | 2026.03.01 23.02.2026 - 01.03.2026 | İncele"
-    },
-    {
-     "ad": "Ritmik Cimnastik Hakem Vize Telafi Semineri",
-     "tarih": "2026-02-16",
-     "tarih_metni": "2026.02.16 16.02.2026 - 16.02.2026",
-     "yer": "Online",
-     "brans": "Seminer",
-     "satir": "2026 | Seminer | Ritmik Cimnastik Hakem Vize Telafi Semineri | Ritmik Cimnastik | Online | 2026.02.16 16.02.2026 - 16.02.2026 | İncele"
-    },
-    {
-     "ad": "1. Kademe Yardımcı Antrenörlük Kursu",
-     "tarih": "2026-02-23",
-     "tarih_metni": "2026.03.01 23.02.2026 - 01.03.2026",
-     "yer": "İstanbul",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 1. Kademe Yardımcı Antrenörlük Kursu | Aerobik Cimnastik | İstanbul | 2026.03.01 23.02.2026 - 01.03.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "2026.03.01 23.02.2026 - 01.03.2026",
-     "tarih": "2026-02-23",
-     "tarih_metni": "2026.03.01 23.02.2026 - 01.03.2026",
-     "yer": "İstanbul",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 2. Kademe Temel Antrenörlük Kursu | Aerobik Cimnastik | İstanbul | 2026.03.01 23.02.2026 - 01.03.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
-     "tarih": "2026-02-22",
-     "tarih_metni": "2026.02.27 22.02.2026 - 27.02.2026",
-     "yer": "İstanbul",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | İstanbul | 2026.02.27 22.02.2026 - 27.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
-     "tarih": "2026-02-22",
-     "tarih_metni": "2026.02.27 22.02.2026 - 27.02.2026",
-     "yer": "Samsun",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | Samsun | 2026.02.27 22.02.2026 - 27.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "2026.02.28 23.02.2026 - 28.02.2026",
-     "tarih": "2026-02-23",
-     "tarih_metni": "2026.02.28 23.02.2026 - 28.02.2026",
-     "yer": "İstanbul",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Step - Aerobik | İstanbul | 2026.02.28 23.02.2026 - 28.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
-     "tarih": "2026-02-23",
-     "tarih_metni": "2026.02.28 23.02.2026 - 28.02.2026",
-     "yer": "Antalya",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Antalya | 2026.02.28 23.02.2026 - 28.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "2026.02.28 23.02.2026 - 28.02.2026",
-     "tarih": "2026-02-23",
-     "tarih_metni": "2026.02.28 23.02.2026 - 28.02.2026",
-     "yer": "Ankara",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | Ankara | 2026.02.28 23.02.2026 - 28.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
-     "tarih": "2026-02-23",
-     "tarih_metni": "2026.02.28 23.02.2026 - 28.02.2026",
-     "yer": "İstanbul",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | İstanbul | 2026.02.28 23.02.2026 - 28.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "Ritmik Cimnastik Gelişim Semineri – Online/13 Şubat 2026",
-     "tarih": "2026-02-13",
-     "tarih_metni": "2026.02.13 13.02.2026 - 13.02.2026",
-     "yer": "Online",
-     "brans": "Seminer",
-     "satir": "2026 | Seminer | Ritmik Cimnastik Gelişim Semineri – Online/13 Şubat 2026 | Ritmik Cimnastik | Online | 2026.02.13 13.02.2026 - 13.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "Artistik Cimnastik Gelişim Semineri Erkek – Online/13 Şubat 2026",
-     "tarih": "2026-02-13",
-     "tarih_metni": "2026.02.13 13.02.2026 - 13.02.2026",
-     "yer": "Online",
-     "brans": "Seminer",
-     "satir": "2026 | Seminer | Artistik Cimnastik Gelişim Semineri Erkek – Online/13 Şubat 2026 | Erkek Artistik Cimnastik | Online | 2026.02.13 13.02.2026 - 13.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "Artistik Cimnastik Gelişim Semineri Kadın- Online/13 Şubat 2026",
-     "tarih": "2026-02-13",
-     "tarih_metni": "2026.02.13 13.02.2026 - 13.02.2026",
-     "yer": "Online",
-     "brans": "Seminer",
-     "satir": "2026 | Seminer | Artistik Cimnastik Gelişim Semineri Kadın- Online/13 Şubat 2026 | Kadın Artistik Cimnastik | Online | 2026.02.13 13.02.2026 - 13.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "3. Kademe Kıdemli Eğitmenlik Kursu",
-     "tarih": "2026-02-23",
-     "tarih_metni": "2026.02.28 23.02.2026 - 28.02.2026",
-     "yer": "İstanbul",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 3. Kademe Kıdemli Eğitmenlik Kursu | Step - Aerobik | İstanbul | 2026.02.28 23.02.2026 - 28.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
-     "tarih": "2026-02-23",
-     "tarih_metni": "2026.02.28 23.02.2026 - 28.02.2026",
-     "yer": "İzmir",
-     "brans": "Kurs",
-     "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | İzmir | 2026.02.28 23.02.2026 - 28.02.2026 | Katılımcı Listesi İncele"
-    },
-    {
-     "ad": "Artistik Cimnastik Kadınlar Milli Takım Hazırlık Kampı",
-     "tarih": "2026-02-12",
-     "tarih_metni": "2026.02.23 12.02.2026 - 23.02.2026",
-     "yer": "İstanbul",
-     "brans": "Kamp",
-     "satir": "2026 | Kamp | Artistik Cimnastik Kadınlar Milli Takım Hazırlık Kampı | Kadın Artistik Cimnastik | İstanbul | 2026.02.23 12.02.2026 - 23.02.2026 | İncele"
     }
    ],
-   "checked_at": "2026-11-09T06:04:36",
-   "bekleyen_iz": null,
+   "checked_at": "2026-11-09T16:04:20",
+   "bekleyen_iz": "427920e266272abe",
    "changed_at": "2026-11-06T23:00:31+00:00",
    "parmak_izi": "dad05494c915e4cd"
   },
@@ -7962,7 +7962,7 @@
    "type": "html",
    "label": "FAALİYET TAKVİMİ",
    "fingerprint": "2d7a8e96c6a21f84",
-   "event_count": 19,
+   "event_count": 21,
    "events": [
     {
      "ad": "Dans Sporları Latin ve Standart 1.Etap Yarışması",
@@ -8011,6 +8011,14 @@
      "yer": "İSTANBUL",
      "brans": "Tüm Kategoriler",
      "satir": "WDSF Yıldızlar 2 Dans Sporu Dünya Şampiyonası | Uluslararası | 12-13 Aralık 2026 | İSTANBUL | Tüm Kategoriler"
+    },
+    {
+     "ad": "WDSF Open İstanbul - (Latin & Standart)",
+     "tarih": "2026-12-13",
+     "tarih_metni": "12-13 Aralık 2026",
+     "yer": "İSTANBUL",
+     "brans": "Tüm Kategoriler",
+     "satir": "WDSF Open İstanbul - (Latin & Standart) | Uluslararası | 12-13 Aralık 2026 | İSTANBUL | Tüm Kategoriler"
     },
     {
      "ad": "Karayip Dansları 1. Etap Yarışması",
@@ -8077,6 +8085,14 @@
      "satir": "Hip Hop Federasyon Kupası (Solo & Duo) | Ulusal | 20-21 Nisan 2027 | İSTANBUL | Tüm Kategoriler"
     },
     {
+     "ad": "Para Dans Türkiye Şampiyonası",
+     "tarih": "2027-04-22",
+     "tarih_metni": "22 Nisan 2027",
+     "yer": "ANKARA",
+     "brans": "Tüm Kategoriler",
+     "satir": "Para Dans Türkiye Şampiyonası | Ulusal | 22 Nisan 2027 | ANKARA | Tüm Kategoriler"
+    },
+    {
      "ad": "23 Nisan Çocuk Kupası",
      "tarih": "2027-04-25",
      "tarih_metni": "24-25 Nisan 2027",
@@ -8117,8 +8133,8 @@
      "satir": "Türkiye Şampiyonaları (Modern Dans, Hip Hop, Dans Show, Arjantin Tango, Karayip Dansları) | Ulusal | 24 Haziran - 4 Temmuz 2027 | ANKARA | Tüm Kategoriler"
     }
    ],
-   "checked_at": "2026-11-09T06:04:42",
-   "bekleyen_iz": null,
+   "checked_at": "2026-11-09T16:04:28",
+   "bekleyen_iz": "5893ee7b263caf6f",
    "changed_at": "2026-11-02T23:26:27+00:00",
    "parmak_izi": "2d7a8e96c6a21f84"
   },
@@ -8132,8 +8148,8 @@
    "fingerprint": "8c0a922f70559bc9",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:36",
-   "bekleyen_iz": null,
+   "checked_at": "2026-11-09T16:04:28",
+   "bekleyen_iz": "842bd3f50724467a",
    "changed_at": "2026-11-04T22:35:40+00:00",
    "parmak_izi": "8c0a922f70559bc9"
   },
@@ -8228,7 +8244,7 @@
      "satir": "10 | 11.10.2026 | KAŞ BELEDİYESİ YAĞLI GÜREŞLERİ | KAŞ/ANTALYA"
     }
    ],
-   "checked_at": "2026-11-09T06:04:42",
+   "checked_at": "2026-11-09T16:04:27",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "ad6c280638ad2ad0"
@@ -8243,7 +8259,7 @@
    "fingerprint": "52c1ad4250e8f7bb",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:42",
+   "checked_at": "2026-11-09T16:04:28",
    "bekleyen_iz": null,
    "changed_at": "2026-11-06T23:00:38+00:00",
    "parmak_izi": "52c1ad4250e8f7bb"
@@ -8579,7 +8595,7 @@
      "satir": "24-25 Ekim 2026 Hava Modelciliği F3P Büyükler/Gençler/Kadınlar F3P RC Model Uçak 2. Etap Ankara Ulusal"
     }
    ],
-   "checked_at": "2026-11-09T06:04:43",
+   "checked_at": "2026-11-09T16:04:29",
    "bekleyen_iz": null,
    "changed_at": "2026-10-09T16:06:58+00:00",
    "parmak_izi": "415109b84b691199"
@@ -9139,7 +9155,7 @@
      "satir": "49 28-31 AĞUSTOS 2025 AÇIK ALAN U14 TÜRKİYE ŞAMPİYONASI MUHTELİF"
     }
    ],
-   "checked_at": "2026-11-09T06:04:41",
+   "checked_at": "2026-11-09T16:04:27",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "03072fe7da5a8ac4"
@@ -9154,7 +9170,7 @@
    "fingerprint": "89f0b209e82ac623",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:32",
+   "checked_at": "2026-11-09T16:04:12",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "89f0b209e82ac623"
@@ -9938,7 +9954,7 @@
      "satir": "120 Rafting Nehir Rehberlik Vize 2027 Vizesi Seminer 19 Aralık 20 Aralık Muhtelif"
     }
    ],
-   "checked_at": "2026-11-09T06:04:37",
+   "checked_at": "2026-11-09T16:04:19",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:50+00:00",
    "parmak_izi": "06888a70817751cc"
@@ -9953,7 +9969,7 @@
    "fingerprint": "e1280d8316fdf1be",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:32",
+   "checked_at": "2026-11-09T16:04:12",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:46+00:00",
    "parmak_izi": "e1280d8316fdf1be"
@@ -10281,7 +10297,7 @@
      "satir": "114 TEKERLEKLİ PATEN KAMP MİLLİ TAKIM KAMPI 15-25 ARALIK 2026 TÜM KATEGORİLER"
     }
    ],
-   "checked_at": "2026-11-09T06:04:44",
+   "checked_at": "2026-11-09T16:04:29",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:54+00:00",
    "parmak_izi": "f125ba37d779c765"
@@ -10296,7 +10312,7 @@
    "fingerprint": "f2d55e3554ba0c6b",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:37",
+   "checked_at": "2026-11-09T16:04:19",
    "bekleyen_iz": null,
    "changed_at": "2026-10-13T21:11:24+00:00",
    "parmak_izi": "f2d55e3554ba0c6b"
@@ -10311,7 +10327,7 @@
    "fingerprint": "21fb6441966c75f7",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:34",
+   "checked_at": "2026-11-09T16:04:14",
    "bekleyen_iz": null,
    "changed_at": "2026-10-26T19:11:31+00:00",
    "parmak_izi": "21fb6441966c75f7"
@@ -10326,7 +10342,7 @@
    "fingerprint": "d759d0342954b53a",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:40",
+   "checked_at": "2026-11-09T16:04:25",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:52+00:00",
    "parmak_izi": "d759d0342954b53a"
@@ -10598,7 +10614,7 @@
      "satir": "Güncelleme Tarihi: 31.07.2026v7"
     }
    ],
-   "checked_at": "2026-11-09T06:04:40",
+   "checked_at": "2026-11-09T16:04:24",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "e1a36bd06e3f7e25"
@@ -10613,8 +10629,8 @@
    "fingerprint": "40117a8a8094bf43",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:39",
-   "bekleyen_iz": "f738f3a6c81a1b70",
+   "checked_at": "2026-11-09T16:04:22",
+   "bekleyen_iz": "f6a0a839ed890b7f",
    "changed_at": "2026-08-20T20:10:51+00:00",
    "parmak_izi": "40117a8a8094bf43"
   },
@@ -10628,7 +10644,7 @@
    "fingerprint": "209443816a76df0f",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:42",
+   "checked_at": "2026-11-09T16:04:28",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:53+00:00",
    "parmak_izi": "209443816a76df0f"
@@ -10931,7 +10947,7 @@
      "satir": "ULUSAL | SUALTI RAGBİSİ | YARIŞMA | SUALTI RAGBİSİ BÜYÜKLER (ELİTLER) TÜRKİYE ŞAMPİYONASI VE MİLLİ TAKIM SEÇMELERİ | MANİSA | 18-20 EYLÜL 2026"
     }
    ],
-   "checked_at": "2026-11-09T06:04:40",
+   "checked_at": "2026-11-09T16:04:25",
    "bekleyen_iz": null,
    "changed_at": "2026-08-21T15:43:55+00:00",
    "parmak_izi": "29f623280b19351c"
@@ -11355,7 +11371,7 @@
      "satir": "14 Aralık Tenis Ligi Final Müsabakaları Tenis Ligi Final Müsabakaları"
     }
    ],
-   "checked_at": "2026-11-09T06:04:33",
+   "checked_at": "2026-11-09T16:04:14",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:48+00:00",
    "parmak_izi": "ef844991598654f2"
@@ -11370,8 +11386,8 @@
    "fingerprint": "5359395e063643d4",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:38",
-   "bekleyen_iz": "a0ea4d27e06d9aca",
+   "checked_at": "2026-11-09T16:04:20",
+   "bekleyen_iz": "c0fbac095578f8ad",
    "changed_at": "2026-10-30T19:13:05+00:00",
    "parmak_izi": "5359395e063643d4"
   },
@@ -11385,8 +11401,8 @@
    "fingerprint": "a7dd5af3b18485c6",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:33",
-   "bekleyen_iz": null,
+   "checked_at": "2026-11-09T16:04:18",
+   "bekleyen_iz": "f11dc3a65a70d212",
    "changed_at": "2026-11-06T01:29:27+00:00",
    "parmak_izi": "a7dd5af3b18485c6"
   },
@@ -11400,7 +11416,7 @@
    "fingerprint": "b9f2c588bd7c97d8",
    "event_count": 0,
    "events": [],
-   "checked_at": "2026-11-09T06:04:40",
+   "checked_at": "2026-11-09T16:04:24",
    "bekleyen_iz": null,
    "changed_at": "2026-09-27T01:20:56+00:00",
    "parmak_izi": "b9f2c588bd7c97d8"
@@ -11663,7 +11679,7 @@
      "satir": "2 | 20.05.2026 16:09 | HANSA 303 ERKEK KESİN SONUÇLAR"
     }
    ],
-   "checked_at": "2026-11-09T06:04:37",
+   "checked_at": "2026-11-09T16:04:21",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:49+00:00",
    "parmak_izi": "b76b0070a88cf7ee"
@@ -11951,7 +11967,7 @@
      "satir": "KASIM 2027 CENTRAL EUROPEAN COUNTRIES MEET 50M 2012-2013-2014 Kadın-Erkek MUHTELİF"
     }
    ],
-   "checked_at": "2026-11-09T06:04:34",
+   "checked_at": "2026-11-09T16:04:14",
    "bekleyen_iz": null,
    "changed_at": "2026-08-20T20:10:47+00:00",
    "parmak_izi": "23e93d6485844fb0"

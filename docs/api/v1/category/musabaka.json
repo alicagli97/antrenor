@@ -1,5 +1,56 @@
 [
  {
+  "id": "c95178aea1de51e8",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Nesine 2. ve 3. Lig'de Haftanın Canlı Yayınlanacak Maçları Belirlendi",
+  "url": "https://www.tff.org/default.aspx?pageID=204&ftxtID=51871",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-11-09T16:06:13+00:00",
+  "first_seen_at": "2026-11-09T16:06:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "1ce5f8408b47027a",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ümit Millî Takım Aday Kadrosunda Değişiklik",
+  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51867",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-11-09T16:06:13+00:00",
+  "first_seen_at": "2026-11-09T16:06:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "1067dcb92a14ec85",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Nesine 3. Lig'de 11. Hafta Müsabaka Görevlileri Açıklandı",
+  "url": "https://www.tff.org/default.aspx?pageID=248&ftxtID=51863",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-11-09T16:06:13+00:00",
+  "first_seen_at": "2026-11-09T16:06:13+00:00",
+  "source": "html"
+ },
+ {
   "id": "9eb843ed20fed36f",
   "federation": "basketbol",
   "federation_name": "Türkiye Basketbol Federasyonu",
@@ -2146,6 +2197,40 @@
   "source": "wp_json"
  },
  {
+  "id": "3df1e33055640538",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "U23 Dünya Güreş Şampiyonası’nda Milli Güreşçilerimizden 9 Madalya!",
+  "url": "https://tgf.tr/haberler/u23-dunya-gures-sampiyonasinda-milli-gurescilerimizden-9-madalya",
+  "summary": "2026 YILI MALİ GENEL KURUL HAKKINDA Gençlik ve Spor Bakanlığı Spor Hizmetleri Genel Müdürlüğünün 05.06.2026 tarih ve 14664673 sayılı yazısı gereğince, 7405... 21.10.2026 2026-2027 SEM GÜREŞ BRANŞINDA SPORCU ALIM BAŞVURULARI BAŞLIYOR 2026-2027 Eğitim Öğretim Yılı kapsamında Sporcu Eğitim Merkezlerine (SEM) Atıcılık, Badminton, Güreş ve Kano branşlarınd... 21.10.2026 2026-2027 TOHM GÜREŞ SPOR DALI A",
+  "image": "https://tgf.tr/storage/media/images/01M5CN8J9BP9CJPCJPPVZRQ7NY.png",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-23T00:00:00+00:00",
+  "first_seen_at": "2026-11-09T16:06:13+00:00",
+  "source": "html"
+ },
+ {
+  "id": "9e603a1901d1a2c0",
+  "federation": "gures",
+  "federation_name": "Türkiye Güreş Federasyonu",
+  "federation_short": "TGF",
+  "title": "U23 Dünya Şampiyonası Başlıyor!",
+  "url": "https://tgf.tr/haberler/u23-dunya-sampiyonasi-basliyor",
+  "summary": "2026 YILI MALİ GENEL KURUL HAKKINDA Gençlik ve Spor Bakanlığı Spor Hizmetleri Genel Müdürlüğünün 05.06.2026 tarih ve 14664673 sayılı yazısı gereğince, 7405... 21.10.2026 2026-2027 SEM GÜREŞ BRANŞINDA SPORCU ALIM BAŞVURULARI BAŞLIYOR 2026-2027 Eğitim Öğretim Yılı kapsamında Sporcu Eğitim Merkezlerine (SEM) Atıcılık, Badminton, Güreş ve Kano branşlarınd... 21.10.2026 2026-2027 TOHM GÜREŞ SPOR DALI A",
+  "image": "https://tgf.tr/storage/media/images/01M5CJS2KDTQMSKZQPBZY18CPG.jpeg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-10-23T00:00:00+00:00",
+  "first_seen_at": "2026-11-09T16:06:13+00:00",
+  "source": "html"
+ },
+ {
   "id": "1c65345b8f73560c",
   "federation": "gures",
   "federation_name": "Türkiye Güreş Federasyonu",
@@ -3333,91 +3418,6 @@
   "federation_short": "THF",
   "title": "2025-2026 Sezonu U16 Hokey 5S 1. Lig 2. Etap ve 2. Lig 2. Etap Duyurusu",
   "url": "https://www.turkhokey.gov.tr/haber/10211/2025-2026-sezonu-u16-hokey-5s-1-lig-2-etap-ve-2-lig-2-etap-duyurusu",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-20T19:11:25+00:00",
-  "first_seen_at": "2026-10-20T19:11:25+00:00",
-  "source": "html"
- },
- {
-  "id": "e30b042bdaa66687",
-  "federation": "hokey",
-  "federation_name": "Türkiye Hokey Federasyonu",
-  "federation_short": "THF",
-  "title": "U16 Erkekler-kızlar Hokey 5S 1.lig ve 2. Lig",
-  "url": "https://www.turkhokey.gov.tr/haber/10197/u16-erkekler-kizlar-hokey-5s-1lig-ve-2-lig",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-20T19:11:25+00:00",
-  "first_seen_at": "2026-10-20T19:11:25+00:00",
-  "source": "html"
- },
- {
-  "id": "d6330f6e1973517b",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "26-28 Haziran 2026 Yeşilay Kuraş Ümitler Türkiye Şampiyonası Düzce/akçakoca",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-457-26-28-haziran-2026-yesilay-kuras-umitler-turkiye-sampiyonasi-duzce-akcakoca",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-20T19:11:25+00:00",
-  "first_seen_at": "2026-10-20T19:11:25+00:00",
-  "source": "html"
- },
- {
-  "id": "f2ff1cacb8193e34",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Savate Assaut Gençler Avrupa Şampiyonası Slovenya!",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-456-savate-assaut-gencler-avrupa-sampiyonasi-slovenya-",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-20T19:11:25+00:00",
-  "first_seen_at": "2026-10-20T19:11:25+00:00",
-  "source": "html"
- },
- {
-  "id": "3c13e7d41efa8475",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "11-14 Haziran 2026 Çorum Korfbol U17 Türkiye Şampiyonası Katılımcı Kulüpler Listesi",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-454-11-14-haziran-2026-corum-korfbol-u17-turkiye-sampiyonasi-katilimci-kulupler-listesi",
-  "summary": "",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-20T19:11:25+00:00",
-  "first_seen_at": "2026-10-20T19:11:25+00:00",
-  "source": "html"
- },
- {
-  "id": "9f414153a8f04e2a",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Merhum Hasan Aslan Savate Combat ve Assaut Büyükler Türkiye Şampiyonası 25-28 Haziran 2026 Eskişehir",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-451-merhum-hasan-aslan-savate-combat-ve-assaut-buyukler-turkiye-sampiyonasi-25-28-haziran-2026-eskisehir",
   "summary": "",
   "image": null,
   "category": "musabaka",

@@ -6,7 +6,7 @@
  "type": "html",
  "label": "FAALİYET TAKVİMİ",
  "fingerprint": "2d7a8e96c6a21f84",
- "event_count": 19,
+ "event_count": 21,
  "events": [
   {
    "ad": "Dans Sporları Latin ve Standart 1.Etap Yarışması",
@@ -55,6 +55,14 @@
    "yer": "İSTANBUL",
    "brans": "Tüm Kategoriler",
    "satir": "WDSF Yıldızlar 2 Dans Sporu Dünya Şampiyonası | Uluslararası | 12-13 Aralık 2026 | İSTANBUL | Tüm Kategoriler"
+  },
+  {
+   "ad": "WDSF Open İstanbul - (Latin & Standart)",
+   "tarih": "2026-12-13",
+   "tarih_metni": "12-13 Aralık 2026",
+   "yer": "İSTANBUL",
+   "brans": "Tüm Kategoriler",
+   "satir": "WDSF Open İstanbul - (Latin & Standart) | Uluslararası | 12-13 Aralık 2026 | İSTANBUL | Tüm Kategoriler"
   },
   {
    "ad": "Karayip Dansları 1. Etap Yarışması",
@@ -121,6 +129,14 @@
    "satir": "Hip Hop Federasyon Kupası (Solo & Duo) | Ulusal | 20-21 Nisan 2027 | İSTANBUL | Tüm Kategoriler"
   },
   {
+   "ad": "Para Dans Türkiye Şampiyonası",
+   "tarih": "2027-04-22",
+   "tarih_metni": "22 Nisan 2027",
+   "yer": "ANKARA",
+   "brans": "Tüm Kategoriler",
+   "satir": "Para Dans Türkiye Şampiyonası | Ulusal | 22 Nisan 2027 | ANKARA | Tüm Kategoriler"
+  },
+  {
    "ad": "23 Nisan Çocuk Kupası",
    "tarih": "2027-04-25",
    "tarih_metni": "24-25 Nisan 2027",
@@ -161,8 +177,8 @@
    "satir": "Türkiye Şampiyonaları (Modern Dans, Hip Hop, Dans Show, Arjantin Tango, Karayip Dansları) | Ulusal | 24 Haziran - 4 Temmuz 2027 | ANKARA | Tüm Kategoriler"
   }
  ],
- "checked_at": "2026-11-09T06:04:42",
- "bekleyen_iz": null,
+ "checked_at": "2026-11-09T16:04:28",
+ "bekleyen_iz": "5893ee7b263caf6f",
  "changed_at": "2026-11-02T23:26:27+00:00",
  "parmak_izi": "2d7a8e96c6a21f84"
 }

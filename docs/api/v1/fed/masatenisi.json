@@ -1,5 +1,23 @@
 [
  {
+  "id": "1be8c531f5e63a30",
+  "federation": "masatenisi",
+  "federation_name": "Türkiye Masa Tenisi Federasyonu",
+  "federation_short": "TMTF",
+  "title": "Mevzuat güncellendi: İçeriğe geç",
+  "url": "https://tmtf.gov.tr/mevzuat/talimatlar#main-content",
+  "summary": "Türkiye Masa Tenisi Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-09T12:05:10+00:00",
+  "first_seen_at": "2026-11-09T12:05:10+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "4ccd4b8a96e14c74",
   "federation": "masatenisi",
   "federation_name": "Türkiye Masa Tenisi Federasyonu",
@@ -1001,40 +1019,5 @@
   "published_at": "2026-10-20T14:58:30+00:00",
   "first_seen_at": "2026-10-20T14:58:30+00:00",
   "source": "takvim-html"
- },
- {
-  "id": "b8217b1f29f4af68",
-  "federation": "masatenisi",
-  "federation_name": "Türkiye Masa Tenisi Federasyonu",
-  "federation_short": "TMTF",
-  "title": "Masa Tenisi faaliyet takviminde değişiklik",
-  "url": "https://tmtf.gov.tr/haberler-35",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-10-19T23:33:51+00:00",
-  "first_seen_at": "2026-10-19T23:33:51+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "968d03d77a439ab2",
-  "federation": "masatenisi",
-  "federation_name": "Türkiye Masa Tenisi Federasyonu",
-  "federation_short": "TMTF",
-  "title": "Süper Lig'de Şampiyon Fenerbahçe",
-  "url": "https://tmtf.gov.tr/haberdetay-35-947-super-lig-de-sampiyon-fenerbahce",
-  "summary": "ANA BÖLÜM SAĞ MENÜ DUYURULAR Yıldızlar Bölge Yarışmalarında Ferdi Müsabakalar Tamamlandı Yıldızlar Bölge Yarışmalarında Takım Müsabakaları Tamamlandı Türkiye Masa Tenisi Federasyonu Heyetinden KKTC’ye Ziyaret Yıldızlar Kuzeybatı Bölge Yarışmaları Ertelendi 2026-2027 Yaş Grupları Milli Takım Seçme Ferdi Türkiye Şampiyonası Reglamanı ve Katılım Formu Yayınlandı! Tüm Duyurular Süper Lig'de Şampiyon Fenerbahçe Süper Lig'de Şampiyon Fenerbahçe 28-30 Mayıs 2024 tarihlerinde Bursa ilimizde yapılan dörtlü final müsabakaları sonucunda Süper Lig'de kadın ve erkek takımlarda Şampiyon Fenerbahçe SK. olmuş",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-10-19T13:04:22+00:00",
-  "first_seen_at": "2026-10-19T13:04:22+00:00",
-  "source": "html"
  }
 ]

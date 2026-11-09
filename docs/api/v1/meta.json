@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-09T10:38:47+00:00",
+ "generated_at": "2026-11-09T12:00:19+00:00",
  "total": 6000,
- "new_in_last_run": 0,
+ "new_in_last_run": 1,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -16,12 +16,12 @@
   "basketbol",
   "binicilik"
  ],
- "latest_published_at": "2026-11-08T19:33:30+00:00",
+ "latest_published_at": "2026-11-09T00:00:00+00:00",
  "categories": {
-  "duyuru": 664,
+  "kurs": 130,
+  "duyuru": 663,
   "mevzuat": 4900,
   "musabaka": 217,
-  "kurs": 129,
   "haber": 32,
   "takvim": 58
  },
@@ -48,9 +48,10 @@
   }
  ],
  "federation_counts": {
+  "basketbol": 60,
   "futbol": 150,
   "masatenisi": 60,
-  "hentbol": 53,
+  "hentbol": 52,
   "okculuk": 34,
   "otomobil": 18,
   "ozelsporcular": 157,
@@ -70,7 +71,6 @@
   "cimnastik": 32,
   "atletizm": 59,
   "voleybol": 122,
-  "basketbol": 59,
   "badminton": 15,
   "beyzbol": 13,
   "gelismekteolan": 59,

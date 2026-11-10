@@ -1,0 +1,8 @@
+# Antrenör — yetkili reklam satıcıları (IAB app-ads.txt)
+#
+# Bu dosya, uygulamalarımızdaki reklam envanterini kimin satmaya yetkili
+# olduğunu bildirir. Reklam verenler dosyayı bu adreste arar; bulunmazsa
+# envanter "doğrulanmamış" sayılır ve teklif vermezler.
+#
+# Yayıncı kimliği, onaylı AdMob yayıncı hesabına aittir.
+google.com, pub-2714712901713521, DIRECT, f08c47fec0942fa0

@@ -1,5 +1,20 @@
 [
  {
+  "id": "8c04c66d9ed040f7",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "Saygı, Özlem ve Minnetle Anıyoruz",
+  "url": "https://www.okculuk.org.tr/saygi-ozlem-ve-minnetle-aniyoruz/",
+  "summary": "Cumhuriyetimizin kurucusu, bağımsızlık mücadelemizin önderi Gazi Mustafa Kemal Atatürk’ü, ebediyete intikalinin 88. yıl dönümünde saygı, özlem ve minnetle anıyoruz. Milletimize kazandırdığı Cumhuriyet, çağdaşlaşma yolunda attığı adımlar ve Türk sporuna verdiği önem, bugün de bizlere ilham vermeye devam etmektedir. Atatürk’ün bizlere emanet ettiği Cumhuriyetin değerlerini yaşatmak ve gösterdiği hedefler doğrultusunda ilerlemek en büyük sorumluluğumuzdur. Türk Okçuluk […]",
+  "image": "https://www.okculuk.org.tr/wp-content/uploads/2026/11/10-Kasim_web.webp.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-10T05:21:54+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "ab1f682fc9170602",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -196,6 +211,21 @@
   "published_at": "2026-11-10T00:11:28+00:00",
   "first_seen_at": "2026-11-10T00:11:28+00:00",
   "source": "takvim-excel"
+ },
+ {
+  "id": "5bbadf2a7a67275c",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "Saygıyla Minnetle Anıyoruz",
+  "url": "https://tusf.org.tr/Haber.aspx?b=a5011dcf-0339-45c6-9ff0-7b3b54379275&bid=4424&_=Saygıyla Minnetle Anıyoruz",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-10T00:00:00+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "html"
  },
  {
   "id": "14175cbb4b9c1bdd",
@@ -3085,6 +3115,36 @@
   "source": "api"
  },
  {
+  "id": "566f0e78e0a0512a",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Türkiye, İlk Kez Düzenlenen European Pickleball Open’a Ev Sahipliği Yaptı",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/606",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Türkiye Tenis Federasyonu (TTF), 3- tarihleri arasında Alibey Club Manavgat Antalya'da düzenlenen 2026 European Pickleball Open Powered by The APP organizasyonunda milli takımımızdan 24 sporcuyla yer aldı. Türkiye’nin ev sahipliğinde ilk kez gerçekleştirilen organizasyonda genç milli sporcularımız, 3 altın, 4 gümüş ... 10 Kasım 2026 Detaylar Gazi Mustafa Kem",
+  "image": "http://www.ttf.org.tr/public/news_post/6af2d1bbd9412_1794298299.jpeg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-08T00:00:00+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ad22b2f03b3f4b06",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Gazi Mustafa Kemal Atatürk’ü saygı ve minnetle anıyoruz",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/605",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Türkiye, İlk Kez Düzenlenen European Pickleball Open’a Ev Sahipliği Yaptı Türkiye Tenis Federasyonu (TTF), 3- tarihleri arasında Alibey Club Manavgat Antalya'da düzenlenen 2026 European Pickleball Open Powered by The APP organizasyonunda milli takımımızdan 24 sporcuyla yer aldı. Türkiye’nin ev sahipliğinde ilk kez gerçekleştirilen organizasyonda genç milli s",
+  "image": "http://www.ttf.org.tr/public/news_post/6af2c62cbe337_1794295340.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-08T00:00:00+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "html"
+ },
+ {
   "id": "9e60ba5bf1c74d10",
   "federation": "basketbol",
   "federation_name": "Türkiye Basketbol Federasyonu",
@@ -4386,74 +4446,6 @@
   "title": "Yelkenli Tekne Eğitmeni Kursu YTE-1 (D4) Duyurusu / 01 – 04 Aralık 2026 / Muğla - Bodrum",
   "url": "https://www.tyf.org.tr/duyurular/egitim-ve-seminer/yelkenli-tekne-egitmeni-kursu-yte-1-d4-duyurusu-01-04-aralik-2026-mugla-bodrum/315884/",
   "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular Yelkenli Tekne Eğitmeni Kursu YTE-1 (D4) Duyurusu / 01 – 04 Aralık 2026 / Muğla - Bodrum Yelkenli Tekne Eğitmeni Kursu YTE-1 (D4) Duyurusu / 01 – 04 Aralık 2026 / Muğla - Bodrum 05.11.2026 Duyurular 103 Paylaş Tweetle Yelken Eğitim Sistemi (YES) Yelkenli Tekne Eğitmeni Kursu aşağıda ilan edilen tarihte ve",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs"
-  ],
-  "published_at": "2026-11-05T20:38:29+00:00",
-  "first_seen_at": "2026-11-05T20:38:29+00:00",
-  "source": "html"
- },
- {
-  "id": "ac5587310917c235",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Yelkenli Tekne Eğitmeni Kursu YTE-1 (D4) Duyurusu / 03 – 06 Aralık 2026 / Ankara",
-  "url": "https://www.tyf.org.tr/duyurular/egitim-ve-seminer/yelkenli-tekne-egitmeni-kursu-yte-1-d4-duyurusu-03-06-aralik-2026-ankara/315883/",
-  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular Yelkenli Tekne Eğitmeni Kursu YTE-1 (D4) Duyurusu / 03 – 06 Aralık 2026 / Ankara Yelkenli Tekne Eğitmeni Kursu YTE-1 (D4) Duyurusu / 03 – 06 Aralık 2026 / Ankara 05.11.2026 Duyurular 102 Paylaş Tweetle Yelken Eğitim Sistemi (YES) Yelkenli Tekne Eğitmeni Kursu aşağıda ilan edilen tarihte ve yerde açılacakt",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs"
-  ],
-  "published_at": "2026-11-05T20:38:29+00:00",
-  "first_seen_at": "2026-11-05T20:38:29+00:00",
-  "source": "html"
- },
- {
-  "id": "f6b2754b5e225329",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Yelkenli Yat Eğitmeni Kursu Duyurusu / 23-27 Kasım 2026 / Mersin",
-  "url": "https://www.tyf.org.tr/duyurular/egitim-ve-seminer/yelkenli-yat-egitmeni-kursu-duyurusu-23-27-kasim-2026-mersin/315882/",
-  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular Yelkenli Yat Eğitmeni Kursu Duyurusu / 23-27 Kasım 2026 / Mersin Yelkenli Yat Eğitmeni Kursu Duyurusu / 23-27 Kasım 2026 / Mersin 05.11.2026 Duyurular 98 Paylaş Tweetle Yelken Eğitim Sistemi (YES) Yelkenli Yat Eğitmeni Kursu aşağıda ilan edilen tarihte ve yerde açılacaktır. Başvuru sırasına göre eğitime k",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs"
-  ],
-  "published_at": "2026-11-05T20:38:29+00:00",
-  "first_seen_at": "2026-11-05T20:38:29+00:00",
-  "source": "html"
- },
- {
-  "id": "593220453d35a5bc",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Yelkenli Yat Eğitmeni Kursu Duyurusu / 23-27 Kasım 2026 / Antalya",
-  "url": "https://www.tyf.org.tr/duyurular/egitim-ve-seminer/yelkenli-yat-egitmeni-kursu-duyurusu-23-27-kasim-2026-antalya/315881/",
-  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular Yelkenli Yat Eğitmeni Kursu Duyurusu / 23-27 Kasım 2026 / Antalya Yelkenli Yat Eğitmeni Kursu Duyurusu / 23-27 Kasım 2026 / Antalya 05.11.2026 Duyurular 100 Paylaş Tweetle Yelken Eğitim Sistemi (YES) Yelkenli Yat Eğitmeni Kursu aşağıda ilan edilen tarihte ve yerde açılacaktır. Başvuru sırasına göre eğitim",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs"
-  ],
-  "published_at": "2026-11-05T20:38:29+00:00",
-  "first_seen_at": "2026-11-05T20:38:29+00:00",
-  "source": "html"
- },
- {
-  "id": "404e9fa73ac41887",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Yelkenli Yat Eğitmeni Kursu Duyurusu / 21-25 Aralık 2026 / Antalya",
-  "url": "https://www.tyf.org.tr/duyurular/egitim-ve-seminer/yelkenli-yat-egitmeni-kursu-duyurusu-21-25-aralik-2026-antalya/315880/",
-  "summary": "× NASIL BAĞIŞ YAPABİLİRİM? 1 Yöntem Açıklaması 2 Yöntem Açıklaması 3 Yöntem Açıklaması Eğer bir sorunla karşılaşırsanız lütfen bizimle hemen iletişim kurunuz. Teşekkürler. İLETİŞİM BİLGİLERİMİZ Telefon 1: 0 000 000 00 00 Telefon 2: 0 000 000 00 00 Telefon 3: 0 000 000 00 00 Anasayfa Duyurular Yelkenli Yat Eğitmeni Kursu Duyurusu / 21-25 Aralık 2026 / Antalya Yelkenli Yat Eğitmeni Kursu Duyurusu / 21-25 Aralık 2026 / Antalya 05.11.2026 Duyurular 78 Paylaş Tweetle Yelken Eğitim Sistemi (YES) Yelkenli Yat Eğitmeni Kursu aşağıda ilan edilen tarihte ve yerde açılacaktır. Başvuru sırasına göre eğiti",
   "image": null,
   "category": "duyuru",
   "tags": [

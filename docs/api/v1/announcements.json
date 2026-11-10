@@ -1,5 +1,20 @@
 [
  {
+  "id": "8c04c66d9ed040f7",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "Saygı, Özlem ve Minnetle Anıyoruz",
+  "url": "https://www.okculuk.org.tr/saygi-ozlem-ve-minnetle-aniyoruz/",
+  "summary": "Cumhuriyetimizin kurucusu, bağımsızlık mücadelemizin önderi Gazi Mustafa Kemal Atatürk’ü, ebediyete intikalinin 88. yıl dönümünde saygı, özlem ve minnetle anıyoruz. Milletimize kazandırdığı Cumhuriyet, çağdaşlaşma yolunda attığı adımlar ve Türk sporuna verdiği önem, bugün de bizlere ilham vermeye devam etmektedir. Atatürk’ün bizlere emanet ettiği Cumhuriyetin değerlerini yaşatmak ve gösterdiği hedefler doğrultusunda ilerlemek en büyük sorumluluğumuzdur. Türk Okçuluk […]",
+  "image": "https://www.okculuk.org.tr/wp-content/uploads/2026/11/10-Kasim_web.webp.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-10T05:21:54+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "ab1f682fc9170602",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -196,6 +211,21 @@
   "published_at": "2026-11-10T00:11:28+00:00",
   "first_seen_at": "2026-11-10T00:11:28+00:00",
   "source": "takvim-excel"
+ },
+ {
+  "id": "5bbadf2a7a67275c",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "Saygıyla Minnetle Anıyoruz",
+  "url": "https://tusf.org.tr/Haber.aspx?b=a5011dcf-0339-45c6-9ff0-7b3b54379275&bid=4424&_=Saygıyla Minnetle Anıyoruz",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-10T00:00:00+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "html"
  },
  {
   "id": "14175cbb4b9c1bdd",
@@ -8527,6 +8557,36 @@
   "published_at": "2026-11-08T10:44:44+00:00",
   "first_seen_at": "2026-11-08T10:44:44+00:00",
   "source": "mevzuat"
+ },
+ {
+  "id": "566f0e78e0a0512a",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Türkiye, İlk Kez Düzenlenen European Pickleball Open’a Ev Sahipliği Yaptı",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/606",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Türkiye Tenis Federasyonu (TTF), 3- tarihleri arasında Alibey Club Manavgat Antalya'da düzenlenen 2026 European Pickleball Open Powered by The APP organizasyonunda milli takımımızdan 24 sporcuyla yer aldı. Türkiye’nin ev sahipliğinde ilk kez gerçekleştirilen organizasyonda genç milli sporcularımız, 3 altın, 4 gümüş ... 10 Kasım 2026 Detaylar Gazi Mustafa Kem",
+  "image": "http://www.ttf.org.tr/public/news_post/6af2d1bbd9412_1794298299.jpeg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-08T00:00:00+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ad22b2f03b3f4b06",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Gazi Mustafa Kemal Atatürk’ü saygı ve minnetle anıyoruz",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/605",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Türkiye, İlk Kez Düzenlenen European Pickleball Open’a Ev Sahipliği Yaptı Türkiye Tenis Federasyonu (TTF), 3- tarihleri arasında Alibey Club Manavgat Antalya'da düzenlenen 2026 European Pickleball Open Powered by The APP organizasyonunda milli takımımızdan 24 sporcuyla yer aldı. Türkiye’nin ev sahipliğinde ilk kez gerçekleştirilen organizasyonda genç milli s",
+  "image": "http://www.ttf.org.tr/public/news_post/6af2c62cbe337_1794295340.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-08T00:00:00+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "html"
  },
  {
   "id": "9e60ba5bf1c74d10",
@@ -53778,18 +53838,18 @@
   "source": "html"
  },
  {
-  "id": "a002eb37088c6aab",
+  "id": "233553f3e6631a9b",
   "federation": "bedenselengelliler",
   "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
   "federation_short": "TBESF",
   "title": "Yılı Türkiye Bedensel Engelliler Spor Federasyonu Tahmini Bütçesi",
-  "url": "https://www.tbesf.org.tr/tr/2027-yili-turkiye-bedensel-engelliler-spor-federasyonu-tahmi",
-  "summary": "0 % 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ EKTEDİR. Dökümanı İndir Bu içerik 30 Ekim 2026 tarihinde eklendi. 200 defa incelendi. Duyurular TEKERLEKLİ SANDALYE BASKETBOL HAKEM VE GÖZLEMCİ ATAMALARI 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI TBESF 2025-2026 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ TÜRKİYE BEDE",
-  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/9117-mali-kurul-afis.jpg",
+  "url": "https://www.tbesf.org.tr/tr/2028-yili-turkiye-bedensel-engelliler-spor-federasyonu-tahmi",
+  "summary": "0 % 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ EKTEDİR. Dökümanı İndir Bu içerik 30 Ekim 2026 tarihinde eklendi. 196 defa incelendi. Duyurular TEKERLEKLİ SANDALYE BASKETBOL HAKEM VE GÖZLEMCİ ATAMALARI 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI TBESF 2025-2026 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ TÜRKİYE BEDE",
+  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/574-mali-kurul-afis.jpg",
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-30T00:00:00+00:00",
-  "first_seen_at": "2026-11-10T00:13:02+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
   "source": "html"
  },
  {
@@ -107295,101 +107355,6 @@
   ],
   "published_at": "2026-10-20T08:57:16+00:00",
   "first_seen_at": "2026-10-20T08:57:16+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "201795fa45c6aad0",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri Tarafından Tutulacak Defter ve Kayıtlar Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39705&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-20T08:57:15+00:00",
-  "first_seen_at": "2026-10-20T08:57:15+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "fa8d93b1ea8e3763",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri ve Spor Anonim Şirketlerinin Borçlanma Sınırlamalarından Muafiyetlerine İlişkin Usul ve Esaslar Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39902&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-20T08:57:15+00:00",
-  "first_seen_at": "2026-10-20T08:57:15+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "40b6e7cc201769fa",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşlara Ayni ve Nakdî Yardım Yapılması Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42748&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-20T08:57:15+00:00",
-  "first_seen_at": "2026-10-20T08:57:15+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "70129fd74c805dd7",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşların Denetimi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=41031&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-20T08:57:15+00:00",
-  "first_seen_at": "2026-10-20T08:57:15+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "9f8e1839cb0ac3bb",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Kamu Taşınmazları Üzerinde Eğitim ve Yurt Faaliyetleri İçin İrtifak Hakkı Tesis Edilmesine ve Kullanma İzni Verilmesine İlişkin Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23773&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-20T08:57:14+00:00",
-  "first_seen_at": "2026-10-20T08:57:14+00:00",
   "source": "mevzuat"
  }
 ]

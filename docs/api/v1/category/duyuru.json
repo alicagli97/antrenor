@@ -1,5 +1,20 @@
 [
  {
+  "id": "8c04c66d9ed040f7",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "Saygı, Özlem ve Minnetle Anıyoruz",
+  "url": "https://www.okculuk.org.tr/saygi-ozlem-ve-minnetle-aniyoruz/",
+  "summary": "Cumhuriyetimizin kurucusu, bağımsızlık mücadelemizin önderi Gazi Mustafa Kemal Atatürk’ü, ebediyete intikalinin 88. yıl dönümünde saygı, özlem ve minnetle anıyoruz. Milletimize kazandırdığı Cumhuriyet, çağdaşlaşma yolunda attığı adımlar ve Türk sporuna verdiği önem, bugün de bizlere ilham vermeye devam etmektedir. Atatürk’ün bizlere emanet ettiği Cumhuriyetin değerlerini yaşatmak ve gösterdiği hedefler doğrultusunda ilerlemek en büyük sorumluluğumuzdur. Türk Okçuluk […]",
+  "image": "https://www.okculuk.org.tr/wp-content/uploads/2026/11/10-Kasim_web.webp.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-10T05:21:54+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "ab1f682fc9170602",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -72,6 +87,21 @@
   "tags": [],
   "published_at": "2026-11-10T00:13:02+00:00",
   "first_seen_at": "2026-11-10T00:13:02+00:00",
+  "source": "html"
+ },
+ {
+  "id": "5bbadf2a7a67275c",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "Saygıyla Minnetle Anıyoruz",
+  "url": "https://tusf.org.tr/Haber.aspx?b=a5011dcf-0339-45c6-9ff0-7b3b54379275&bid=4424&_=Saygıyla Minnetle Anıyoruz",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-10T00:00:00+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
   "source": "html"
  },
  {
@@ -702,6 +732,36 @@
   "published_at": "2026-11-08T13:54:01+00:00",
   "first_seen_at": "2026-11-08T15:03:25+00:00",
   "source": "api"
+ },
+ {
+  "id": "566f0e78e0a0512a",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Türkiye, İlk Kez Düzenlenen European Pickleball Open’a Ev Sahipliği Yaptı",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/606",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Türkiye Tenis Federasyonu (TTF), 3- tarihleri arasında Alibey Club Manavgat Antalya'da düzenlenen 2026 European Pickleball Open Powered by The APP organizasyonunda milli takımımızdan 24 sporcuyla yer aldı. Türkiye’nin ev sahipliğinde ilk kez gerçekleştirilen organizasyonda genç milli sporcularımız, 3 altın, 4 gümüş ... 10 Kasım 2026 Detaylar Gazi Mustafa Kem",
+  "image": "http://www.ttf.org.tr/public/news_post/6af2d1bbd9412_1794298299.jpeg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-08T00:00:00+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ad22b2f03b3f4b06",
+  "federation": "tenis",
+  "federation_name": "Türkiye Tenis Federasyonu",
+  "federation_short": "TTF",
+  "title": "Gazi Mustafa Kemal Atatürk’ü saygı ve minnetle anıyoruz",
+  "url": "http://www.ttf.org.tr/tr/haber-detay/605",
+  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Türkiye, İlk Kez Düzenlenen European Pickleball Open’a Ev Sahipliği Yaptı Türkiye Tenis Federasyonu (TTF), 3- tarihleri arasında Alibey Club Manavgat Antalya'da düzenlenen 2026 European Pickleball Open Powered by The APP organizasyonunda milli takımımızdan 24 sporcuyla yer aldı. Türkiye’nin ev sahipliğinde ilk kez gerçekleştirilen organizasyonda genç milli s",
+  "image": "http://www.ttf.org.tr/public/news_post/6af2c62cbe337_1794295340.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-08T00:00:00+00:00",
+  "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "html"
  },
  {
   "id": "9e60ba5bf1c74d10",
@@ -3091,70 +3151,5 @@
   "published_at": "2026-11-02T23:32:48+00:00",
   "first_seen_at": "2026-11-02T23:32:48+00:00",
   "source": "html"
- },
- {
-  "id": "c2455b1ba3567166",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Dakar 2026’da bayrağımız Beren ve Görkem’e emanet!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/305146/dakar-2026da-bayragimiz-beren-ve-gorkeme-emanet.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-02T23:32:48+00:00",
-  "first_seen_at": "2026-11-02T23:32:48+00:00",
-  "source": "html"
- },
- {
-  "id": "f660667b8f7739c1",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Erkek A Milli Takımımız EURO 2028 Elemeleri Hazırlıklarını Sürdürüyor",
-  "url": "https://thf.org.tr/haber/erkek-a-milli-takimimiz-euro-2028-elemeleri-hazirliklarini-surduruyor",
-  "summary": "Erkekler 2028 Avrupa Şampiyonası Elemeleri'nde Avusturya, Norveç ve Gürcistan ile 2. Grup'ta yer alan Millilerimiz, İstanbul Beykoz Spor Ormanı'nda bulunan THF Serdar Seymen Hentbol Salonu'nda yaptığı antrenmanla hazırlıklarını sürdürdü. Millilerimiz, gruptaki ilk karşılaşmasında 4 Kasım Çarşamba günü saat 20.00'de Avusturya ile deplasmanda karşı karşıya gelecek. Graz kentindeki Raiffeisen Sportpark'ta oynanacak mücadele, TRT Spor'dan canlı yayınlanacak. Erkek A Milli Takımımız, gruptaki ikinci maçında ise 8 Kasım Pazar günü saat 16.00'da Norveç'i İstanbul'daki THF Serdar Seymen Hentbol Salonu",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-11-02T19:19:18+00:00",
-  "first_seen_at": "2026-11-02T23:32:48+00:00",
-  "source": "api"
- },
- {
-  "id": "0cedc50a489b94d8",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "THF Başkanı Mesut Çebi, Anadolu Ajansı Spor Masası'na Konuk Oldu",
-  "url": "https://thf.org.tr/haber/thf-baskani-mesut-cebi-anadolu-ajansi-spor-masasina-konuk-oldu",
-  "summary": "Türkiye Hentbol Federasyonu (THF) Başkanı Mesut Çebi, Anadolu Ajansı (AA) Spor Masası'na konuk olarak Türk hentbolunun geleceği, yaklaşan uluslararası organizasyonlar ve federasyonun yürüttüğü çalışmalar hakkında açıklamalarda bulundu. Anadolu Ajansı Spor Masası'nda Anadolu Ajansı muhabirleri Fatih Çakmak ve Çağlanur Tuncel'in sorularını yanıtlayan Başkan Çebi, başta 3-7 Aralık 2026 tarihlerinde Antalya'da grup karşılaşmalarına ev sahipliği yapacağımız Kadınlar EHF EURO 2026 ve Erkek A Milli Takımımızın tarihinde ilk kez mücadele edeceği Ocak 2027'de Almanya'da düzenlenecek Dünya Erkekler Hent",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-02T18:59:52+00:00",
-  "first_seen_at": "2026-11-02T23:32:48+00:00",
-  "source": "api"
- },
- {
-  "id": "0ca6fd47f465e306",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Erkek A Milli Takımımızın Avusturya ve Norveç Maçları Kafile Listesi Belli Oldu",
-  "url": "https://thf.org.tr/haber/erkek-a-milli-takimimizin-avusturya-ve-norvec-maclari-kafile-listesi-belli-oldu",
-  "summary": "2028 Avrupa Erkekler Hentbol Şampiyonası Elemeleri'nde Avusturya ve Norveç ile karşılaşacak Erkek A Milli Takımımızın kamp kafile listesi belli oldu. EURO 2028 Elemeleri 2. Grup'ta mücadele eden Ay-Yıldızlılarımız, 2-3 Kasım 2026 tarihlerinde İstanbul'da, 3-5 Kasım tarihlerinde Avusturya'da ve 5-8 Kasım tarihlerinde yeniden İstanbul'da kamp gerçekleştirecek. Millilerimiz, gruptaki ilk karşılaşmasında 4 Kasım Çarşamba günü saat 20.00'de Avusturya'ya konuk olacak. Graz kentindeki Raiffeisen Sportpark'ta oynanacak mücadele TRT Spor'dan canlı yayınlanacak. Erkek A Milli Takımımız, ikinci karşılaşm",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "musabaka",
-   "milli_takim"
-  ],
-  "published_at": "2026-11-02T15:38:48+00:00",
-  "first_seen_at": "2026-11-02T15:38:48+00:00",
-  "source": "api"
  }
 ]

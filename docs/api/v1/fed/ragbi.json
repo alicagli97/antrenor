@@ -1,5 +1,24 @@
 [
  {
+  "id": "641c9c981e2aad38",
+  "federation": "ragbi",
+  "federation_name": "Türkiye Ragbi Federasyonu",
+  "federation_short": "TRF",
+  "title": "Ragbi Aday Hakemlik Kursu Başvuruları Başladı",
+  "url": "https://trf.gov.tr/?p=11146",
+  "summary": "Türkiye Ragbi Federasyonu tarafından 12-13 Aralık 2026 tarihlerinde İstanbul’da düzenlenecek Ragbi Aday Hakemlik Kursu için başvurular başladı. Yeni sezonda hakem",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem",
+   "burs"
+  ],
+  "published_at": "2026-11-11T08:07:10+00:00",
+  "first_seen_at": "2026-11-11T10:46:26+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "d65f054ad282f971",
   "federation": "ragbi",
   "federation_name": "Türkiye Ragbi Federasyonu",
@@ -1083,24 +1102,6 @@
   ],
   "published_at": "2026-10-24T08:27:47+00:00",
   "first_seen_at": "2026-10-24T08:27:47+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "4daadf65963e0751",
-  "federation": "ragbi",
-  "federation_name": "Türkiye Ragbi Federasyonu",
-  "federation_short": "TRF",
-  "title": "Mevzuat güncellendi: Yönetmelik ve Talimatlar",
-  "url": "https://trf.gov.tr/?page_id=76",
-  "summary": "Türkiye Ragbi Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-24T08:27:46+00:00",
-  "first_seen_at": "2026-10-24T08:27:46+00:00",
   "source": "mevzuat"
  }
 ]

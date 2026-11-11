@@ -1,5 +1,23 @@
 [
  {
+  "id": "cda34c0cd011e59f",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: TTF Dopingle Mücadele Talimatı 2027 yılı yasaklılar listesi",
+  "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati-2027-yili-yasaklilar-listesi-1572.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-11T02:43:25+00:00",
+  "first_seen_at": "2026-11-11T02:43:25+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "0cab49c3bb6efb21",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3711,24 +3729,6 @@
   "source": "mevzuat"
  },
  {
-  "id": "11cf5675098fb568",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Yarışmaları TDF 2020 IFSC Kural Değişiklikleri Sürüm 3",
-  "url": "https://drive.google.com/file/d/1cgh2NrRwIEQI3aZhOqYHZvyI7IIYJkHu/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-10T11:46:53+00:00",
-  "first_seen_at": "2026-11-10T11:46:53+00:00",
-  "source": "mevzuat"
- },
- {
   "id": "015b4b965014dea2",
   "federation": "bisiklet",
   "federation_name": "Türkiye Bisiklet Federasyonu",
@@ -3795,6 +3795,21 @@
   "tags": [],
   "published_at": "2026-11-10T05:21:54+00:00",
   "first_seen_at": "2026-11-10T08:20:49+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "c71de401a109b7de",
+  "federation": "paralimpik",
+  "federation_name": "Türkiye Milli Paralimpik Komitesi",
+  "federation_short": "TMPK",
+  "title": "1хбет: Как Обеспечить Надежность И Бесперебойную Работу Платформы?",
+  "url": "https://www.tmpk.org.tr/genel/1khbet-kak-obespechit-nadezhnost-i-bespereboinuiu-rabotu-platformy/",
+  "summary": "1хБет: Как обеспечить надежность и бесперебойную работу платформы? Платформа 1хБет завоевала популярность среди игроков благодаря своей надежности и высокому качеству…",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-10T04:48:46+00:00",
+  "first_seen_at": "2026-11-11T02:44:51+00:00",
   "source": "wp_json"
  },
  {
@@ -4340,24 +4355,6 @@
   "tags": [
    "antrenor",
    "kurs"
-  ],
-  "published_at": "2026-11-09T16:06:13+00:00",
-  "first_seen_at": "2026-11-09T16:06:13+00:00",
-  "source": "html"
- },
- {
-  "id": "7fe689f488aabec0",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "24-25 Ekim 2026 Hemsball Aday Hakem Kursu / Kocaeli",
-  "url": "https://www.gosbf.org.tr/haberdetay-faaliyetler-488-24-25-ekim-2026-hemsball-aday-hakem-kursu-kocaeli",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
   ],
   "published_at": "2026-11-09T16:06:13+00:00",
   "first_seen_at": "2026-11-09T16:06:13+00:00",

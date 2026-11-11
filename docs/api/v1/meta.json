@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T14:42:26+00:00",
+ "generated_at": "2026-11-11T15:00:22+00:00",
  "total": 6000,
- "new_in_last_run": 0,
+ "new_in_last_run": 1,
  "sources_ok": 62,
  "sources_failed": [
   "basketbol",
@@ -19,9 +19,9 @@
  ],
  "latest_published_at": "2026-11-11T11:32:18+00:00",
  "categories": {
-  "mevzuat": 5012,
+  "mevzuat": 5011,
   "musabaka": 167,
-  "duyuru": 617,
+  "duyuru": 618,
   "kurs": 120,
   "haber": 34,
   "takvim": 50
@@ -79,7 +79,7 @@
   "bilardo": 67,
   "golf": 461,
   "satranc": 366,
-  "triatlon": 222,
+  "triatlon": 221,
   "buzpateni": 438,
   "yelken": 84,
   "eskrim": 167,
@@ -94,6 +94,7 @@
   "futbol": 151,
   "shgm": 35,
   "muaythai": 6,
+  "binicilik": 96,
   "basketbol": 61,
   "bedenselengelliler": 22,
   "bric": 18,
@@ -113,7 +114,6 @@
   "taekwondo": 7,
   "tenis": 10,
   "kano": 12,
-  "binicilik": 95,
   "otomobil": 14,
   "buzhokeyi": 12,
   "halter": 9,

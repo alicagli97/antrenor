@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-11T02:44:52+00:00",
- "total": 5998,
- "new_in_last_run": 560,
+ "generated_at": "2026-11-11T07:49:48+00:00",
+ "total": 6000,
+ "new_in_last_run": 2,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -14,12 +14,15 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol",
+  "binicilik"
+ ],
  "latest_published_at": "2026-11-11T02:43:25+00:00",
  "categories": {
   "mevzuat": 4898,
+  "duyuru": 668,
   "musabaka": 212,
-  "duyuru": 666,
   "takvim": 55,
   "kurs": 134,
   "haber": 33
@@ -63,6 +66,7 @@
  ],
  "federation_counts": {
   "triatlon": 219,
+  "basketbol": 66,
   "futbol": 156,
   "bric": 18,
   "gelismekteolan": 63,
@@ -100,7 +104,6 @@
   "badminton": 19,
   "paralimpik": 8,
   "danssporlari": 28,
-  "basketbol": 64,
   "beyzbol": 10,
   "kaykay": 11,
   "masatenisi": 62,

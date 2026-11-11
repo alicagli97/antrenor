@@ -1,5 +1,38 @@
 [
  {
+  "id": "d343b6cd5ad53cfe",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» Online Ödeme Portalı Hk. ( Yurt Dışı Ödeme işlemleri için )",
+  "url": "https://www.eskrim.org.tr/online-odeme-portali-hk-yurt-disi-odeme-islemleri-icin-2683.html",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-11T18:39:02+00:00",
+  "first_seen_at": "2026-11-11T18:39:02+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f237880a61609bc1",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-11T18:37:28+00:00",
+  "first_seen_at": "2026-11-11T18:37:28+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "94abf30d8f5764c9",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -1024,38 +1057,5 @@
   "published_at": "2026-11-05T11:30:34+00:00",
   "first_seen_at": "2026-11-05T11:30:34+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "bd054f8397d13f92",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-11-04T22:35:40+00:00",
-  "first_seen_at": "2026-11-04T22:35:40+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "2902f2dfb4dbab5e",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» (Kesin Liste) 21-22 Kasım Budapeşte Yıldızlar Circuit Flöre Kafile Listeleri Hk.",
-  "url": "https://www.eskrim.org.tr/kesin-liste-21-22-kasim-budapeste-yildizlar-circuit-flore-kafile-listeleri-hk-2694.html",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-04T17:08:52+00:00",
-  "first_seen_at": "2026-11-04T17:08:52+00:00",
-  "source": "html"
  }
 ]

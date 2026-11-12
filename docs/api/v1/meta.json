@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-12T01:36:29+00:00",
- "total": 5998,
- "new_in_last_run": 573,
+ "generated_at": "2026-11-12T08:13:13+00:00",
+ "total": 5999,
+ "new_in_last_run": 1,
  "sources_ok": 62,
  "sources_failed": [
   "basketbol",
@@ -13,14 +13,17 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol",
+  "binicilik"
+ ],
  "latest_published_at": "2026-11-12T01:36:29+00:00",
  "categories": {
   "duyuru": 656,
   "haber": 36,
   "mevzuat": 4943,
   "takvim": 52,
-  "musabaka": 184,
+  "musabaka": 185,
   "kurs": 127
  },
  "silent_sources": [
@@ -96,9 +99,9 @@
   "yuzme": 16,
   "masatenisi": 30,
   "muaythai": 6,
+  "basketbol": 62,
   "tenis": 12,
   "binicilik": 96,
-  "basketbol": 61,
   "bric": 18,
   "hentbol": 52,
   "isitmeengelliler": 10,

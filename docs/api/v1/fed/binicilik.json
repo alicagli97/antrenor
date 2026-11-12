@@ -1,5 +1,23 @@
 [
  {
+  "id": "bcaf3b88b6ac4f6f",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-12T09:42:43+00:00",
+  "first_seen_at": "2026-11-12T09:42:43+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "0b19f4104c29f7fa",
   "federation": "binicilik",
   "federation_name": "Türkiye Binicilik Federasyonu",
@@ -1035,25 +1053,6 @@
   ],
   "published_at": "2026-10-24T08:24:20+00:00",
   "first_seen_at": "2026-10-24T08:24:20+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "e13e3a3ea5711bae",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "Mevzuat güncellendi: Spor Dalı Tescil Talimatı - Onay Tarihi 06.11.2024",
-  "url": "https://binicilik.org.tr/mevzuat/talimatlar/belge/111",
-  "summary": "Türkiye Binicilik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-24T08:24:19+00:00",
-  "first_seen_at": "2026-10-24T08:24:19+00:00",
   "source": "mevzuat"
  }
 ]

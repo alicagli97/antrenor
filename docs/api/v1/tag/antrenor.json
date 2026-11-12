@@ -1,5 +1,24 @@
 [
  {
+  "id": "ff0c411bf4de230b",
+  "federation": "satranc",
+  "federation_name": "Türkiye Satranç Federasyonu",
+  "federation_short": "TSF",
+  "title": "Yeni mevzuat: Sporcu Eğitim ve Milli Takım Hazırlık Kampları Talimatı Detayları incele",
+  "url": "https://www.tsf.org.tr/belge-detayi/100002",
+  "summary": "Satranç federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat",
+   "antrenor"
+  ],
+  "published_at": "2026-11-12T18:13:52+00:00",
+  "first_seen_at": "2026-11-12T18:13:52+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "44c43698c69a6b9b",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -1214,6 +1233,24 @@
   "published_at": "2026-11-12T11:47:53+00:00",
   "first_seen_at": "2026-11-12T11:47:53+00:00",
   "source": "mevzuat"
+ },
+ {
+  "id": "1e1a56f4f25ecf5e",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Antrenör Üst Düzey-Altyapı Vize/Gelişim Telafi Semineri Duyurusu - Türkiye Voleybol Federasyonu | TVF",
+  "url": "https://tvf.org.tr/icerik/antrenor-ust-duzey-altyapi-vizegelisim-telafi-semineri-duyurusu-3",
+  "summary": "12 Kasım 2026 Antrenör Üst Düzey-Altyapı Vize/Gelişim Telafi Semineri Duyurusu Türkiye Voleybol Federasyonu Eğitim Kurulu tarafından 2026-2027 voleybol sezonu içerisinde düzenleyeceği “Üst Düzey-Altyapı Vize/ Gelişim Telafi Semineri” 18 Kasım 2026 Çarşamba günü saat 20:00'de çevrim içi eğitim olarak düzenlenecektir. Başvurular 13 Kasım 2026 Cuma günü saat: 10:00'da sistemden başlatılacak ve 17 Kasım 2026 Salı günü saat 23:00 itibariyla sonlandırılacaktır. 2026-2027 voleybol sezonunda Üst Düzey ve Altyapı semineri eksik olan antrenörlerin bu seminere katılımı zorunludur. 2026-2027 voleybol sezo",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "vize"
+  ],
+  "published_at": "2026-11-12T00:00:00+00:00",
+  "first_seen_at": "2026-11-12T18:15:20+00:00",
+  "source": "html"
  },
  {
   "id": "089cc5c3eebf58f6",
@@ -3734,44 +3771,6 @@
   "federation_short": "TGF",
   "title": "Mevzuat güncellendi: Sporcu Lisans, Vize ve Transfer Talimatı",
   "url": "https://tgf.org.tr/tr/talimatlar/sporcu-lisans-vize-ve-transfer-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-10T11:46:34+00:00",
-  "first_seen_at": "2026-11-10T11:46:34+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cfd983aa7360a8be",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Sözleşmeli Antrenör ve Personel Çalıştırılması Hakkında Talimat",
-  "url": "https://tgf.org.tr/tr/talimatlar/sozlesmeli-antrenor-ve-personel-calistirilmasi-hakkinda-talimat",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-10T11:46:34+00:00",
-  "first_seen_at": "2026-11-10T11:46:34+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a8a48268e1b6fcbd",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: TGF Eğitim, Altyapı ve Kulüplere Yardım Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/tgf-egitim-altyapi-ve-kuluplere-yardim-talimati",
   "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

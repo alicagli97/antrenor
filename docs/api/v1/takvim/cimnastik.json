@@ -6,7 +6,7 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "c4e7a11a0568e514",
- "event_count": 467,
+ "event_count": 468,
  "events": [
   {
    "ad": "Pilates Gelişim Semineri (CONVENTION) 15-17 Aralık 2026 / Antalya – Hafta İçi",
@@ -135,6 +135,14 @@
    "yer": "Ankara",
    "brans": "Kurs",
    "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Pilates | Ankara | 2026.11.28 23.11.2026 - 28.11.2026 | İncele"
+  },
+  {
+   "ad": "Pilates Gelişim Semineri 22 Kasım 2026 Online 10:00-13:00",
+   "tarih": "2026-11-22",
+   "tarih_metni": "2026.11.22 22.11.2026 - 22.11.2026",
+   "yer": "Online",
+   "brans": "Seminer",
+   "satir": "2026 | Seminer | Pilates Gelişim Semineri 22 Kasım 2026 Online 10:00-13:00 | Pilates | Online | 2026.11.22 22.11.2026 - 22.11.2026 | İncele"
   },
   {
    "ad": "Hakem Vize Semineri Antalya 11-13 Aralık 2026",
@@ -3199,18 +3207,10 @@
    "yer": "İstanbul",
    "brans": "Kurs",
    "satir": "2026 | Kurs | 2. Kademe Temel Antrenörlük Kursu | Parkur | İstanbul | 2026.03.01 23.02.2026 - 01.03.2026 | İncele"
-  },
-  {
-   "ad": "Artistik Cimnastik (Erkek) Hakem Vize Telafi Semineri",
-   "tarih": "2026-02-16",
-   "tarih_metni": "2026.02.17 16.02.2026 - 17.02.2026",
-   "yer": "Online",
-   "brans": "Seminer",
-   "satir": "2026 | Seminer | Artistik Cimnastik (Erkek) Hakem Vize Telafi Semineri | Erkek Artistik Cimnastik | Online | 2026.02.17 16.02.2026 - 17.02.2026 | İncele"
   }
  ],
- "checked_at": "2026-11-12T09:42:43",
- "bekleyen_iz": "cb15a5c8c6121622",
+ "checked_at": "2026-11-12T18:10:29",
+ "bekleyen_iz": "552b80e13e05ae6c",
  "changed_at": "2026-11-10T22:18:49+00:00",
  "parmak_izi": "c4e7a11a0568e514"
 }

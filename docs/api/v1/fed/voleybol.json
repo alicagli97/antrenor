@@ -1,5 +1,23 @@
 [
  {
+  "id": "09e7e894f1801011",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-12T18:10:25+00:00",
+  "first_seen_at": "2026-11-12T18:10:25+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "ed6d469aea936059",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -90,22 +108,22 @@
   "source": "mevzuat"
  },
  {
-  "id": "875b786e5551717b",
+  "id": "1e1a56f4f25ecf5e",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
   "federation_short": "TVF",
-  "title": "Voleybol faaliyet takviminde değişiklik",
-  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "title": "Antrenör Üst Düzey-Altyapı Vize/Gelişim Telafi Semineri Duyurusu - Türkiye Voleybol Federasyonu | TVF",
+  "url": "https://tvf.org.tr/icerik/antrenor-ust-duzey-altyapi-vizegelisim-telafi-semineri-duyurusu-3",
+  "summary": "12 Kasım 2026 Antrenör Üst Düzey-Altyapı Vize/Gelişim Telafi Semineri Duyurusu Türkiye Voleybol Federasyonu Eğitim Kurulu tarafından 2026-2027 voleybol sezonu içerisinde düzenleyeceği “Üst Düzey-Altyapı Vize/ Gelişim Telafi Semineri” 18 Kasım 2026 Çarşamba günü saat 20:00'de çevrim içi eğitim olarak düzenlenecektir. Başvurular 13 Kasım 2026 Cuma günü saat: 10:00'da sistemden başlatılacak ve 17 Kasım 2026 Salı günü saat 23:00 itibariyla sonlandırılacaktır. 2026-2027 voleybol sezonunda Üst Düzey ve Altyapı semineri eksik olan antrenörlerin bu seminere katılımı zorunludur. 2026-2027 voleybol sezo",
   "image": null,
-  "category": "takvim",
+  "category": "kurs",
   "tags": [
-   "takvim",
-   "faaliyet"
+   "antrenor",
+   "vize"
   ],
-  "published_at": "2026-11-12T01:28:33+00:00",
-  "first_seen_at": "2026-11-12T01:28:33+00:00",
-  "source": "takvim-excel"
+  "published_at": "2026-11-12T00:00:00+00:00",
+  "first_seen_at": "2026-11-12T18:15:20+00:00",
+  "source": "html"
  },
  {
   "id": "ed6d469aea936059",
@@ -1057,23 +1075,5 @@
   "published_at": "2026-11-02T23:26:17+00:00",
   "first_seen_at": "2026-11-02T23:26:17+00:00",
   "source": "takvim-excel"
- },
- {
-  "id": "ed6d469aea936059",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Mevzuat güncellendi: Erasmus+ Sport4Rules Projesinin Final Konferansı Düzenlenecek 25 Kasım 2022",
-  "url": "https://tvf.org.tr/icerik/erasmus-sport4rules-projesinin-final-konferansi-duzenlenecek",
-  "summary": "Türkiye Voleybol Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-02T11:39:47+00:00",
-  "first_seen_at": "2026-11-02T11:39:47+00:00",
-  "source": "mevzuat"
  }
 ]

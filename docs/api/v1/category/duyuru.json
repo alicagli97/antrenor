@@ -757,6 +757,21 @@
   "source": "wp_json"
  },
  {
+  "id": "be800f35f8612f42",
+  "federation": "basketbol",
+  "federation_name": "Türkiye Basketbol Federasyonu",
+  "federation_short": "TBF",
+  "title": "BKT EuroCup’ta 7.Hafta Tamamlandı 11.11.2026",
+  "url": "https://www.tbf.org.tr/haber/bkt-eurocup-ta-7-hafta-tamamlandi-2026-11-11",
+  "summary": "BKT EuroCup 2026-2027 sezonunda mücadele eden temsilcilerimiz, 7.hafta müsabakalarını 10 Kasım Salı ve 11 Kasım Çarşamba günü oynadı. Devamını Gör",
+  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/0bdd3442ed40456abeb6d6e97f827196_eurocuplogolu.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-11T00:00:00+00:00",
+  "first_seen_at": "2026-11-12T18:00:25+00:00",
+  "source": "html"
+ },
+ {
   "id": "5737362c88da7630",
   "federation": "sportoto",
   "federation_name": "Spor Toto Teşkilat Başkanlığı",
@@ -3125,20 +3140,5 @@
   "published_at": "2026-11-07T16:28:25+00:00",
   "first_seen_at": "2026-11-07T20:53:11+00:00",
   "source": "rss"
- },
- {
-  "id": "38e2dfd258dc3406",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Artistik Buz Pateni Spor Toto Kupası Resmi Antrenm...",
-  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-spor-toto-kupasi-antrenmanlari-basladi-13",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-07T16:22:31+00:00",
-  "first_seen_at": "2026-11-07T16:22:31+00:00",
-  "source": "html"
  }
 ]

@@ -13,6 +13,24 @@
    "mevzuat",
    "talimat"
   ],
+  "published_at": "2026-11-12T11:49:23+00:00",
+  "first_seen_at": "2026-11-12T11:49:23+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "68f5624d7f784951",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Mevzuat güncellendi: Ana Statü",
+  "url": "https://www.tcf.gov.tr/kurumsal/ana-statu/",
+  "summary": "Türkiye Cimnastik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
   "published_at": "2026-11-11T11:26:51+00:00",
   "first_seen_at": "2026-11-11T11:26:51+00:00",
   "source": "mevzuat"
@@ -541,23 +559,5 @@
   "published_at": "2026-10-23T19:06:03+00:00",
   "first_seen_at": "2026-10-23T19:06:03+00:00",
   "source": "takvim-html"
- },
- {
-  "id": "68f5624d7f784951",
-  "federation": "cimnastik",
-  "federation_name": "Türkiye Cimnastik Federasyonu",
-  "federation_short": "TCF",
-  "title": "Mevzuat güncellendi: Ana Statü",
-  "url": "https://www.tcf.gov.tr/kurumsal/ana-statu/",
-  "summary": "Türkiye Cimnastik Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-23T08:50:53+00:00",
-  "first_seen_at": "2026-10-23T08:50:53+00:00",
-  "source": "mevzuat"
  }
 ]

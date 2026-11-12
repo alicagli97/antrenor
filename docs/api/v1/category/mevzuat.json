@@ -1,5 +1,23 @@
 [
  {
+  "id": "19f33761a470f1d0",
+  "federation": "yelken",
+  "federation_name": "Türkiye Yelken Federasyonu",
+  "federation_short": "TYF",
+  "title": "Yeni mevzuat: X'te paylaş",
+  "url": "https://x.com/intent/post?url=https%3a%2f%2fwww.tyf.org.tr%2fsayfalar%2fyelken-hakem-talimati%2f&via=TurkiyeYelken&text=Yelken+Hakem+Talimat%c4%b1",
+  "summary": "Yelken federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-12T01:30:06+00:00",
+  "first_seen_at": "2026-11-12T01:30:06+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "8d1a918c662f504f",
   "federation": "golf",
   "federation_name": "Türkiye Golf Federasyonu",
@@ -3637,24 +3655,6 @@
   ],
   "published_at": "2026-11-11T11:27:43+00:00",
   "first_seen_at": "2026-11-11T11:27:43+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "152007724fe60a07",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "Mevzuat güncellendi: TTF Satın Alma ve İhale Talimatı / 03.02.2020",
-  "url": "https://triatlon.org.tr/ttf-satin-alma-ve-i-hale-talimati.html",
-  "summary": "Türkiye Triatlon Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-11T11:27:38+00:00",
-  "first_seen_at": "2026-11-11T11:27:38+00:00",
   "source": "mevzuat"
  }
 ]

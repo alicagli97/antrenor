@@ -1,5 +1,54 @@
 [
  {
+  "id": "bf65bf4ef04e8ad3",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Milli Takım Haber Detayları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51914",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-12T01:36:29+00:00",
+  "first_seen_at": "2026-11-12T01:36:29+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ea6aa3d0cc1a15c9",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Federasyonumuzun 7. Olağan ve Mali Genel Kurulu Divan Tutanağı",
+  "url": "https://www.tssf.gov.tr/federasyonumuzun-7-olagan-ve-mali-genel-kurulu-divan-tutanagi/",
+  "summary": "7. Olağan ve Mali Genel Kurulu Divan Tutanağına Ulaşmak için TIKLAYINIZ.",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-11T19:05:24+00:00",
+  "first_seen_at": "2026-11-12T01:36:29+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "8e6aebe7b83cc6da",
+  "federation": "dagcilik",
+  "federation_name": "Türkiye Dağcılık Federasyonu",
+  "federation_short": "TDF",
+  "title": "2027 Spor Tırmanış Milli Takım Seçme Kriterleri",
+  "url": "https://tdf.tr/2027-spor-tirmanis-milli-takim-secme-kriterleri/",
+  "summary": "TÜRKİYE DAĞCILIK FEDERASYONU 2027 YILI SPOR TIRMANIŞ MİLLÎ TAKIMLARI KAMPLARINA SPORCU ÇAĞIRMA, DEĞERLENDİRME VE ULUSLARARASI YARIŞMALARA SEÇME KRİTERLERİ TALİMATI TALIMATNAME",
+  "image": "https://tdf.tr/wp-content/uploads/2026/11/IMG-20261111-WA0006.jpg",
+  "category": "duyuru",
+  "tags": [
+   "mevzuat",
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-11-11T18:54:04+00:00",
+  "first_seen_at": "2026-11-12T01:36:29+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "b9be67ed471483db",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3082,50 +3131,5 @@
   "published_at": "2026-11-06T18:20:24+00:00",
   "first_seen_at": "2026-11-06T23:03:35+00:00",
   "source": "wp_json"
- },
- {
-  "id": "97e6f1b104beea27",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Belçika'nın Aday Kadrosu Açıklandı",
-  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51847",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-06T17:27:27+00:00",
-  "first_seen_at": "2026-11-06T17:27:27+00:00",
-  "source": "html"
- },
- {
-  "id": "9e45ddfbea9bb645",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Ulu Önderimiz Gazi Mustafa Kemal Atatürk Anısına Saygı Duruşunda Bulunulacak",
-  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51846",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-06T17:27:27+00:00",
-  "first_seen_at": "2026-11-06T17:27:27+00:00",
-  "source": "html"
- },
- {
-  "id": "3afd344a0c01b47e",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Sergen Yalçın: \"Bizim Çocuklar ile Bu İşi Başaracağımıza İnanıyorum\"",
-  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51844",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-06T17:27:27+00:00",
-  "first_seen_at": "2026-11-06T17:27:27+00:00",
-  "source": "html"
  }
 ]

@@ -1,5 +1,105 @@
 [
  {
+  "id": "bf65bf4ef04e8ad3",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Milli Takım Haber Detayları TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51914",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-12T01:36:29+00:00",
+  "first_seen_at": "2026-11-12T01:36:29+00:00",
+  "source": "html"
+ },
+ {
+  "id": "4d328d049f2948d6",
+  "federation": "shgm",
+  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
+  "federation_short": "SHGM",
+  "title": "Boksörümüz Muhammet Ali'den bronz madalya!",
+  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/305395/boksorumuz-muhammet-aliden-bronz-madalya.aspx",
+  "summary": "",
+  "image": null,
+  "category": "haber",
+  "tags": [],
+  "published_at": "2026-11-12T01:36:29+00:00",
+  "first_seen_at": "2026-11-12T01:36:29+00:00",
+  "source": "html"
+ },
+ {
+  "id": "19f33761a470f1d0",
+  "federation": "yelken",
+  "federation_name": "Türkiye Yelken Federasyonu",
+  "federation_short": "TYF",
+  "title": "Yeni mevzuat: X'te paylaş",
+  "url": "https://x.com/intent/post?url=https%3a%2f%2fwww.tyf.org.tr%2fsayfalar%2fyelken-hakem-talimati%2f&via=TurkiyeYelken&text=Yelken+Hakem+Talimat%c4%b1",
+  "summary": "Yelken federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-12T01:30:06+00:00",
+  "first_seen_at": "2026-11-12T01:30:06+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "875b786e5551717b",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-12T01:28:33+00:00",
+  "first_seen_at": "2026-11-12T01:28:33+00:00",
+  "source": "takvim-excel"
+ },
+ {
+  "id": "ea6aa3d0cc1a15c9",
+  "federation": "sualti",
+  "federation_name": "Türkiye Sualtı Sporları Federasyonu",
+  "federation_short": "TSSF",
+  "title": "Federasyonumuzun 7. Olağan ve Mali Genel Kurulu Divan Tutanağı",
+  "url": "https://www.tssf.gov.tr/federasyonumuzun-7-olagan-ve-mali-genel-kurulu-divan-tutanagi/",
+  "summary": "7. Olağan ve Mali Genel Kurulu Divan Tutanağına Ulaşmak için TIKLAYINIZ.",
+  "image": "https://www.tssf.gov.tr/wp-content/uploads/2026/01/1son-scaled.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-11T19:05:24+00:00",
+  "first_seen_at": "2026-11-12T01:36:29+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "8e6aebe7b83cc6da",
+  "federation": "dagcilik",
+  "federation_name": "Türkiye Dağcılık Federasyonu",
+  "federation_short": "TDF",
+  "title": "2027 Spor Tırmanış Milli Takım Seçme Kriterleri",
+  "url": "https://tdf.tr/2027-spor-tirmanis-milli-takim-secme-kriterleri/",
+  "summary": "TÜRKİYE DAĞCILIK FEDERASYONU 2027 YILI SPOR TIRMANIŞ MİLLÎ TAKIMLARI KAMPLARINA SPORCU ÇAĞIRMA, DEĞERLENDİRME VE ULUSLARARASI YARIŞMALARA SEÇME KRİTERLERİ TALİMATI TALIMATNAME",
+  "image": "https://tdf.tr/wp-content/uploads/2026/11/IMG-20261111-WA0006.jpg",
+  "category": "duyuru",
+  "tags": [
+   "mevzuat",
+   "musabaka",
+   "milli_takim"
+  ],
+  "published_at": "2026-11-11T18:54:04+00:00",
+  "first_seen_at": "2026-11-12T01:36:29+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "b9be67ed471483db",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -2757,24 +2857,6 @@
   "source": "mevzuat"
  },
  {
-  "id": "ad70a10d4ef697c9",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: UIAA Buz Tırmanış Yarışması Kuralları-2021(Eng)",
-  "url": "https://drive.google.com/file/d/1hu81ULsV6_EnVrkzxCBdVvavwngadEbX/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-11T11:28:00+00:00",
-  "first_seen_at": "2026-11-11T11:28:00+00:00",
-  "source": "mevzuat"
- },
- {
   "id": "34475558b2c05049",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -4569,51 +4651,6 @@
   "source": "html"
  },
  {
-  "id": "a8b750d961edb2eb",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Güvenli Spor ve Sporcu Koruma Komisyonu",
-  "url": "https://olimpiyat.org.tr/Komisyonlar/guvenli-spor-ve-sporcu-koruma-komisyonu",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
-  "id": "1862c5b4b8d5a222",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Hukuk Komisyonu",
-  "url": "https://olimpiyat.org.tr/Komisyonlar/Hukuk-Komisyonu",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
-  "id": "e30554ed83f18fdc",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "İletişim ve Medya Komisyonu",
-  "url": "https://olimpiyat.org.tr/Komisyonlar/iletisim-ve-medya-komisyonu",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
   "id": "cf8a1be366a6e39d",
   "federation": "tmok",
   "federation_name": "Türkiye Milli Olimpiyat Komitesi",
@@ -5073,39 +5110,6 @@
   ],
   "published_at": "2026-11-09T00:00:00+00:00",
   "first_seen_at": "2026-11-09T16:38:47+00:00",
-  "source": "html"
- },
- {
-  "id": "c5881412a7dda454",
-  "federation": "tenis",
-  "federation_name": "Türkiye Tenis Federasyonu",
-  "federation_short": "TTF",
-  "title": "İpek Öz W50 Stara Zagora’da Şampiyon Oldu",
-  "url": "http://www.ttf.org.tr/tr/haber-detay/597",
-  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 TTF 8. Mali Genel Kurulu Ankara’da Gerçekleşti Türkiye Tenis Federasyonu’nun 8. Mali Genel Kurulu, Ankara'da The Greenpark Otel’de gerçekleştirildi. Detaylar 29 Ekim Cumhuriyet Bayramı Kutlu Olsun Cumhuriyetimizin ilanının 103. yıl dönümünü büyük bir gurur, coşku ve heyecanla kutluyoruz. 29 Ekim 2026 Detaylar Haydi Tenise Projesi, “Haydi Tenise Kulüpte” Form",
-  "image": "http://www.ttf.org.tr/public/news_post/6ad61e4740be3_1792417351.PNG",
-  "category": "haber",
-  "tags": [],
-  "published_at": "2026-11-09T00:00:00+00:00",
-  "first_seen_at": "2026-11-09T16:06:13+00:00",
-  "source": "html"
- },
- {
-  "id": "bbd97954aece4457",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "Stand Up Paddle (sup) 1. Kademe Yardımcı Antrenör Kursu",
-  "url": "https://kano.org.tr/stand-up-paddle-sup-1-kademe-yardimci-antrenor-kursu",
-  "summary": ", Pazartesi Stand Up Paddle (SUP) 1. Kademe Yardımcı Antrenör Kursu Uygulama Eğitiminin 23–27 Kasım 2026 tarihleri arasında Antalya/Konyaaltı'nda yapılması planlanmaktadır.",
-  "image": "https://kano.org.tr/uploads/sup-duyuru.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-11-09T00:00:00+00:00",
-  "first_seen_at": "2026-11-09T16:06:13+00:00",
   "source": "html"
  }
 ]

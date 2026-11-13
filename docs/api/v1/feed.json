@@ -1,5 +1,70 @@
 [
  {
+  "id": "c8b0c95529ba3dec",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ümit Millî Takımımız, Play-Off Turu'nda Çekya Karşısında",
+  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51932",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-11-13T07:51:58+00:00",
+  "first_seen_at": "2026-11-13T07:51:58+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d2aab81912eb7b65",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF'den Mesajlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51925",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-13T07:51:58+00:00",
+  "first_seen_at": "2026-11-13T07:51:58+00:00",
+  "source": "html"
+ },
+ {
+  "id": "cda34c0cd011e59f",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: TTF Dopingle Mücadele Talimatı 2027 yılı yasaklılar listesi",
+  "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati-2027-yili-yasaklilar-listesi-1572.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-13T07:50:20+00:00",
+  "first_seen_at": "2026-11-13T07:50:20+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "1e110e24fd8d22bb",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "Yükselen Yıldızlar İl- ilçe Karmaları ve Kurumlar Neşe Çetin Bölgesel Kros Ligi Statüsü",
+  "url": "https://taf.org.tr/yukselen-yildizlar-il-ilce-karmalari-ve-kurumlar-bolgesel-kros-ligi-statusu/",
+  "summary": "İlk kademesi 8 Grup merkezinde 31 Ekim de yapılacak Yükselen Yıldızlar İl- ilçe Karmaları ve Kurumlar Neşe Çetin Bölgesel Kros Ligi Statüsü ektedir. YÜKSELEN YILDIZLAR BÖLGESEL İL – İLÇE KARMALARI VE KURUMLAR NEŞE ÇETİN BÖLGESEL KROS LİGİ",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/10/DUYURU.png",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-13T07:01:01+00:00",
+  "first_seen_at": "2026-11-13T07:51:58+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "a8409fb6adc3d2ad",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -27,21 +92,6 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-11-13T00:13:23+00:00",
-  "first_seen_at": "2026-11-13T00:13:23+00:00",
-  "source": "html"
- },
- {
-  "id": "ba374e2199d1e80e",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "TFF'den Mesajlar Detay Sayfası TFF",
-  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51926",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-11-13T00:13:23+00:00",
   "first_seen_at": "2026-11-13T00:13:23+00:00",
   "source": "html"
@@ -128,6 +178,21 @@
   "published_at": "2026-11-13T00:09:50+00:00",
   "first_seen_at": "2026-11-13T00:09:50+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "1fc92f676af76397",
+  "federation": "izcilik",
+  "federation_name": "Türkiye İzcilik Federasyonu",
+  "federation_short": "TİF",
+  "title": "Zararlardan Korunma ile İlgili Önemli Duyuru",
+  "url": "https://tif.org.tr/duyurular/zararlardan-korunma-ile-ilgili-onemli-duyuru",
+  "summary": "13 Kas 09 Kas ALLAHUEKBER DAĞLARI ŞEHİTLERİNİ ANMA MİLLÎ BİLİNÇ KAMPI 9 Kasım 2026 05 Kas DİV AKADEMİ 2. DÖNEM BAŞVURULARI 5 Kasım 2026 27 Eki BAŞSAĞLIĞI 27 Ekim 2026 11 Eki 26. DÜNYA İZCİ JAMBOREESİ 11 Ekim 2026 08 Eki BAŞSAĞLIĞI 8 Ekim 2026 04 Eki JOTA - JOTI 2026 4 Ekim 2026 03 Eki OLAĞAN MALİ GENEL KURUL TOPLANTI TUTANAĞI 3 Ekim 2026 30 Eyl BAŞSAĞLIĞI 30 Eylül 2026 18 Eyl TÜRK JOTA'SI FAALİYET",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-13T00:00:00+00:00",
+  "first_seen_at": "2026-11-13T07:51:58+00:00",
+  "source": "html"
  },
  {
   "id": "b880dd2519b02e95",
@@ -2350,25 +2415,6 @@
   ],
   "published_at": "2026-11-12T11:50:34+00:00",
   "first_seen_at": "2026-11-12T11:50:34+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "6de265065d813123",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Hakem Talimatı",
-  "url": "https://tbbdf.org.tr/tr/hakem_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-12T11:50:33+00:00",
-  "first_seen_at": "2026-11-12T11:50:33+00:00",
   "source": "mevzuat"
  },
  {
@@ -4962,25 +5008,6 @@
   "source": "html"
  },
  {
-  "id": "276c475171cfb2d8",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Duyurular GOSBF 26 Eki 2026 Duyurular KURAŞ ONLİNE HAKEM TERFİ KURSU VE SINAV TARİHİ GÜNCELLENMİŞTİR ! 31 Ekim 2026 tarihinde online olarak…",
-  "url": "https://www.gosbf.org.tr/kuras-online-hakem-terfi-kursu-ve-sinav-tarihi-guncellenmistir/",
-  "summary": "gerçekleştirilecek Kuraş Hakem Terfi Kursu ve Sınavı 01 Kasım 2026… 26 Ekim 2026 Oku",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "terfi",
-   "hakem"
-  ],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
   "id": "5336a86d8a62855f",
   "federation": "gelismekteolan",
   "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
@@ -4993,24 +5020,6 @@
   "tags": [
    "antrenor",
    "kurs"
-  ],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
-  "id": "e641c12e08a3eb03",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Duyurular GOSBF 16 Eki 2026 Duyurular 17-18 EKİM 2026 HEMSBALL ADAY HAKEM KURSU / SİVAS KATILIMCI LİSTESİ 17-18 Ekim 2026 tarihlerinde Sivas ilinde…",
-  "url": "https://www.gosbf.org.tr/17-18-ekim-2026-hemsball-aday-hakem-kursu-sivas-katilimci-listesi/",
-  "summary": "gerçekleştirilecek Hemsball Aday Hakem Kursu katılımcı listesine aşağıda mevcut link… 16 Ekim 2026 Oku",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
   ],
   "published_at": "2026-11-10T17:02:11+00:00",
   "first_seen_at": "2026-11-10T17:02:11+00:00",
@@ -5108,23 +5117,5 @@
   "published_at": "2026-11-10T17:02:11+00:00",
   "first_seen_at": "2026-11-10T17:02:11+00:00",
   "source": "html"
- },
- {
-  "id": "c3ef06f9d0548871",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Voleybol faaliyet takviminde değişiklik",
-  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-11-10T16:58:50+00:00",
-  "first_seen_at": "2026-11-10T16:58:50+00:00",
-  "source": "takvim-excel"
  }
 ]

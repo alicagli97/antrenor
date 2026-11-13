@@ -1,5 +1,23 @@
 [
  {
+  "id": "0532fac3eea7d368",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-13T00:09:50+00:00",
+  "first_seen_at": "2026-11-13T00:09:50+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "15e18e05e424f621",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -1035,25 +1053,6 @@
   ],
   "published_at": "2026-11-05T11:30:43+00:00",
   "first_seen_at": "2026-11-05T11:30:43+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "53c3b3bf31ad22a1",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Mevzuat güncellendi: » Türkiye Eskrim Federasyonu ve Nişantaşı Üniversitesi Eğitimde İş Birliği Protokolü hk.",
-  "url": "https://www.eskrim.org.tr/turkiye-eskrim-federasyonu-ve-nisantasi-universitesi-egitimde-is-birligi-protokolu-hk-2256.html",
-  "summary": "Türkiye Eskrim Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-05T11:30:35+00:00",
-  "first_seen_at": "2026-11-05T11:30:35+00:00",
   "source": "mevzuat"
  }
 ]

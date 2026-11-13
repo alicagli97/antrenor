@@ -1,24 +1,24 @@
 [
  {
-  "id": "31f3939523f44083",
+  "id": "15c179c58ac156fb",
   "federation": "cimnastik",
   "federation_name": "Türkiye Cimnastik Federasyonu",
   "federation_short": "TCF",
   "title": "Cimnastik faaliyet takviminde değişiklik",
   "url": "https://www.tcf.gov.tr/faaliyetler/",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 468 faaliyet listeleniyor.",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 469 faaliyet listeleniyor.",
   "image": null,
   "category": "takvim",
   "tags": [
    "takvim",
    "faaliyet"
   ],
-  "published_at": "2026-11-13T00:09:50+00:00",
-  "first_seen_at": "2026-11-13T00:09:50+00:00",
+  "published_at": "2026-11-13T22:31:44+00:00",
+  "first_seen_at": "2026-11-13T22:31:44+00:00",
   "source": "takvim-html"
  },
  {
-  "id": "0532fac3eea7d368",
+  "id": "b082b0ee9668f051",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
   "federation_short": "TEF",
@@ -31,9 +31,27 @@
    "takvim",
    "faaliyet"
   ],
-  "published_at": "2026-11-13T00:09:50+00:00",
-  "first_seen_at": "2026-11-13T00:09:50+00:00",
+  "published_at": "2026-11-13T22:31:44+00:00",
+  "first_seen_at": "2026-11-13T22:31:44+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "6b731a72a5d30753",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-13T22:31:40+00:00",
+  "first_seen_at": "2026-11-13T22:31:40+00:00",
+  "source": "takvim-excel"
  },
  {
   "id": "09e7e894f1801011",

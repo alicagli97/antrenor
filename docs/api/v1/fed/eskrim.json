@@ -1,5 +1,38 @@
 [
  {
+  "id": "2e6a976880fddec6",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» Büyükler Flöre Dünya Kupası Yer Değişikliği Hk.",
+  "url": "https://www.eskrim.org.tr/buyukler-flore-dunya-kupasi-yer-degisikligi-hk-2692.html",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-13T22:36:17+00:00",
+  "first_seen_at": "2026-11-13T22:36:17+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b082b0ee9668f051",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-13T22:31:44+00:00",
+  "first_seen_at": "2026-11-13T22:31:44+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "4cefe67af4aaa833",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -266,24 +299,6 @@
   "published_at": "2026-11-13T11:30:50+00:00",
   "first_seen_at": "2026-11-13T11:30:50+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "0532fac3eea7d368",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-11-13T00:09:50+00:00",
-  "first_seen_at": "2026-11-13T00:09:50+00:00",
-  "source": "takvim-html"
  },
  {
   "id": "15e18e05e424f621",
@@ -1022,24 +1037,6 @@
   "federation_short": "TEF",
   "title": "Mevzuat güncellendi: » U10 - U12 - U14 Kılıç Türkiye Kupası Talimatı - 18 - 20 Aralık 2026 Eskişehir",
   "url": "https://www.eskrim.org.tr/u10-u12-u14-kilic-turkiye-kupasi-talimati-18-20-aralik-2026-eskisehir-2718.html",
-  "summary": "Türkiye Eskrim Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-09T12:06:50+00:00",
-  "first_seen_at": "2026-11-09T12:06:50+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "7f283a2b318106b3",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Mevzuat güncellendi: » Yıldızlar U17 ve Gençler Epe Türkiye Kupası Talimatı - 25-26 Aralık 2026 İzmir",
-  "url": "https://www.eskrim.org.tr/yildizlar-u17-ve-gencler-epe-turkiye-kupasi-talimati-25-26-aralik-2026-izmir-2721.html",
   "summary": "Türkiye Eskrim Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",

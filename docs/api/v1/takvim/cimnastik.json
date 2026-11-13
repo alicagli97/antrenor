@@ -6,8 +6,16 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "552b80e13e05ae6c",
- "event_count": 468,
+ "event_count": 469,
  "events": [
+  {
+   "ad": "Artistik Cimnastik Genç Büyük Kadınlar Hazırlık Kampı",
+   "tarih": "2026-12-03",
+   "tarih_metni": "2026.12.11 03.12.2026 - 11.12.2026",
+   "yer": "İstanbul",
+   "brans": "Kamp",
+   "satir": "2026 | Kamp | Artistik Cimnastik Genç Büyük Kadınlar Hazırlık Kampı | Kadın Artistik Cimnastik | İstanbul | 2026.12.11 03.12.2026 - 11.12.2026 | İncele"
+  },
   {
    "ad": "Pilates Gelişim Semineri (CONVENTION) 15-17 Aralık 2026 / Antalya – Hafta İçi",
    "tarih": "2026-12-15",
@@ -622,7 +630,7 @@
    "tarih_metni": "2026.11.01 29.10.2026 - 01.11.2026",
    "yer": "İstanbul",
    "brans": "Yarışma",
-   "satir": "2026 | Yarışma | Küçükler Kulüpler Arası Türkiye Şampiyonası | Aerobik Cimnastik | İstanbul | 2026.11.01 29.10.2026 - 01.11.2026 | Katılımcı Listesi İncele"
+   "satir": "2026 | Yarışma | Küçükler Kulüpler Arası Türkiye Şampiyonası | Aerobik Cimnastik | İstanbul | 2026.11.01 29.10.2026 - 01.11.2026 | Katılımcı Listesi Sonuçlar İncele"
   },
   {
    "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
@@ -3199,18 +3207,10 @@
    "yer": "Antalya",
    "brans": "Kurs",
    "satir": "2026 | Kurs | 3. Kademe Kıdemli Antrenörlük Kursu | Ritmik Cimnastik | Antalya | 2026.03.01 23.02.2026 - 01.03.2026 | Katılımcı Listesi İncele"
-  },
-  {
-   "ad": "2026.03.01 23.02.2026 - 01.03.2026",
-   "tarih": "2026-02-23",
-   "tarih_metni": "2026.03.01 23.02.2026 - 01.03.2026",
-   "yer": "İstanbul",
-   "brans": "Kurs",
-   "satir": "2026 | Kurs | 2. Kademe Temel Antrenörlük Kursu | Parkur | İstanbul | 2026.03.01 23.02.2026 - 01.03.2026 | İncele"
   }
  ],
- "checked_at": "2026-11-13T07:50:01",
- "bekleyen_iz": null,
+ "checked_at": "2026-11-13T16:09:45",
+ "bekleyen_iz": "dfa594155887dab1",
  "changed_at": "2026-11-13T00:09:50+00:00",
  "parmak_izi": "552b80e13e05ae6c"
 }

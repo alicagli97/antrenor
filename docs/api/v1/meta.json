@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-14T21:24:04+00:00",
- "total": 5998,
- "new_in_last_run": 609,
+ "generated_at": "2026-11-14T22:46:21+00:00",
+ "total": 5999,
+ "new_in_last_run": 1,
  "sources_ok": 62,
  "sources_failed": [
   "basketbol",
@@ -13,10 +13,13 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol",
+  "binicilik"
+ ],
  "latest_published_at": "2026-11-14T21:24:04+00:00",
  "categories": {
-  "musabaka": 183,
+  "musabaka": 184,
   "duyuru": 639,
   "kurs": 125,
   "mevzuat": 4967,
@@ -97,8 +100,8 @@
   "voleybol": 120,
   "boks": 16,
   "taekwondo": 10,
+  "basketbol": 67,
   "bric": 12,
-  "basketbol": 66,
   "bedenselengelliler": 21,
   "hentbol": 44,
   "kaykay": 8,

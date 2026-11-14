@@ -1,5 +1,38 @@
 [
  {
+  "id": "107e478dfa7bd9e4",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Millî Takımımızın UEFA Uluslar A Ligi 1. Grup’ta 15 Kasım Pazar günü Bordeaux kentinde Fransa ile oynayacağı maçın öncesinde gerçekleştirilecek…",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51936",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-14T03:07:27+00:00",
+  "first_seen_at": "2026-11-14T03:07:27+00:00",
+  "source": "html"
+ },
+ {
+  "id": "cda34c0cd011e59f",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: TTF Dopingle Mücadele Talimatı 2027 yılı yasaklılar listesi",
+  "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati-2027-yili-yasaklilar-listesi-1572.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-14T03:05:54+00:00",
+  "first_seen_at": "2026-11-14T03:05:54+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "ef6cb540656bd0ed",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -2425,24 +2458,6 @@
   "federation_short": "TBBDF",
   "title": "Mevzuat güncellendi: Bütçe Muhasebe Talimatı",
   "url": "https://tbbdf.org.tr/tr/butce-muhasebe-talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-13T11:31:50+00:00",
-  "first_seen_at": "2026-11-13T11:31:50+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "b6ae73cada19bc63",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Dart Yarışma Talimatı",
-  "url": "https://tbbdf.org.tr/tr/dart_yarisma_talimati",
   "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",
@@ -4987,21 +5002,6 @@
   "tags": [
    "musabaka"
   ],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
-  "id": "5a18aa20329884ff",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U19 ve U17 Millî Takımlarımızda Atatürk'ü Anma Töreni Düzenlendi",
-  "url": "https://www.tff.org/default.aspx?pageID=628&ftxtID=51885",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-11-10T17:02:11+00:00",
   "first_seen_at": "2026-11-10T17:02:11+00:00",
   "source": "html"

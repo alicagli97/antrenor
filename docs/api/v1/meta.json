@@ -1,26 +1,27 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-13T22:36:17+00:00",
- "total": 5995,
- "new_in_last_run": 606,
- "sources_ok": 63,
+ "generated_at": "2026-11-14T03:07:27+00:00",
+ "total": 5998,
+ "new_in_last_run": 584,
+ "sources_ok": 62,
  "sources_failed": [
   "basketbol",
-  "beyzbol"
+  "beyzbol",
+  "buzpateni"
  ],
  "sources_empty": [
   "kayak"
  ],
  "sources_missing": [],
  "partial_run": null,
- "latest_published_at": "2026-11-13T22:36:17+00:00",
+ "latest_published_at": "2026-11-14T03:07:27+00:00",
  "categories": {
-  "duyuru": 657,
+  "duyuru": 658,
+  "mevzuat": 4936,
   "musabaka": 188,
   "haber": 38,
   "takvim": 49,
-  "kurs": 128,
-  "mevzuat": 4935
+  "kurs": 129
  },
  "silent_sources": [
   {
@@ -65,18 +66,18 @@
   }
  ],
  "federation_counts": {
-  "futbol": 182,
+  "futbol": 183,
+  "triatlon": 222,
   "eskrim": 174,
   "bedenselengelliler": 22,
   "shgm": 39,
   "cimnastik": 31,
-  "voleybol": 122,
+  "voleybol": 123,
   "hentbol": 49,
   "boks": 13,
   "yelken": 91,
   "kaykay": 8,
   "buzpateni": 440,
-  "triatlon": 221,
   "havasporlari": 4,
   "gsb": 753,
   "ragbi": 72,

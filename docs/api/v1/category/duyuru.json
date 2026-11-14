@@ -1,5 +1,20 @@
 [
  {
+  "id": "107e478dfa7bd9e4",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Millî Takımımızın UEFA Uluslar A Ligi 1. Grup’ta 15 Kasım Pazar günü Bordeaux kentinde Fransa ile oynayacağı maçın öncesinde gerçekleştirilecek…",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51936",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-14T03:07:27+00:00",
+  "first_seen_at": "2026-11-14T03:07:27+00:00",
+  "source": "html"
+ },
+ {
   "id": "ef6cb540656bd0ed",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3130,20 +3145,5 @@
   "published_at": "2026-11-09T17:16:31+00:00",
   "first_seen_at": "2026-11-10T00:13:02+00:00",
   "source": "wp_json"
- },
- {
-  "id": "3b7b948841488d2b",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "A Millî Takım'ın Antrenman Programında Değişiklik",
-  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51874",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-09T16:06:13+00:00",
-  "first_seen_at": "2026-11-09T16:06:13+00:00",
-  "source": "html"
  }
 ]

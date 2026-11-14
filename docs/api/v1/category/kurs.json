@@ -92,6 +92,25 @@
   "source": "api"
  },
  {
+  "id": "6c801eb6a5696f30",
+  "federation": "atletizm",
+  "federation_name": "Türkiye Atletizm Federasyonu",
+  "federation_short": "TAF",
+  "title": "2026-2027 Sezonu için Antrenör Vize Başvuruları Başladı",
+  "url": "https://taf.org.tr/2026-2027-sezonu-icin-antrenor-vize-basvurulari-basladi/",
+  "summary": "2026-2027 Sezonunda vizeli antrenör olmak için başvurular başladı. Antrenör vize başvurusu öncesinde e-devlet Spor Bilgi Sistemi’nde yer alan fotoğrafların güncellenmesi gerekmektedir. Aksi takdirde başvurulara onay verilemeyecektir. Fotoğrafı güncellemek için: e-devlet “Spor Bilgi Sistemi‘ne giriş yaparak sağ üst kısımda yer alan “ad-soyad” yazılı bölümünden “profil” sekmesi tıklanır. Fotoğraf değiştirme ekranından “nvi fotoğraf getir” sekmesi seçilerek “onaylıyorum” sekmesi işaretlenir. Kimlik kartında […]",
+  "image": "https://taf.org.tr/wp-content/uploads/2026/10/DUYURU.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "vize",
+   "burs"
+  ],
+  "published_at": "2026-11-13T09:05:51+00:00",
+  "first_seen_at": "2026-11-14T10:13:19+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "b880dd2519b02e95",
   "federation": "taekwondo",
   "federation_name": "Türkiye Taekwondo Federasyonu",
@@ -2280,24 +2299,6 @@
   ],
   "published_at": "2026-10-24T14:29:00+00:00",
   "first_seen_at": "2026-10-24T14:29:00+00:00",
-  "source": "html"
- },
- {
-  "id": "7e7bbb44405656a1",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "İkinci Kademe Temel Antrenör Uygulama Eğitim Kursu Aydın’da Gerçekleştirildi - Türkiye Voleybol Federasyonu | TVF",
-  "url": "https://tvf.org.tr/icerik/ikinci-kademe-temel-antrenor-uygulama-egitim-kursu-aydinda-gerceklestirildi",
-  "summary": "26 Ekim 2026 İkinci Kademe Temel Antrenör Uygulama Eğitim Kursu Aydın’da Gerçekleştirildi 21-25 Ekim 2026 tarihleri arasında Aydın’da düzenlenen İkinci Kademe Temel Antrenör Uygulama Eğitim Kursu, Aydın Adnan Menderes Üniversitesi Spor Bilimleri Fakültesi Konferans Salonu’nda 75 kursiyerin katılımıyla gerçekleştirildi. Kursta; TVF Eğitim Kurulu Koordinatörü Ahmet Karakurt ile TVF Eğitim Kurulu Üyeleri Prof. Dr. Gülbin Rudarlı, Prof. Dr. Dilşad Mirzeoğlu, Doç. Dr. Esin Ergin ve Dr. Gençer Yarkın’ın yanı sıra Aydın Karadağ, Özün Gömengil, Yasemin Günal ve Mehmet Çakır eğitimci olarak yer aldı. K",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs"
-  ],
-  "published_at": "2026-10-24T00:00:00+00:00",
-  "first_seen_at": "2026-11-14T03:07:27+00:00",
   "source": "html"
  }
 ]

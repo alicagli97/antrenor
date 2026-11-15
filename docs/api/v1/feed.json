@@ -1,5 +1,109 @@
 [
  {
+  "id": "c84360caa0a1cfeb",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Yalıkavak Spor Kulübü Avrupa'da Tur Atladı",
+  "url": "https://thf.org.tr/haber/yalikavak-spor-kulubu-avrupada-tur-atladi",
+  "summary": "Yalıkavak Spor Kulübü, EHF Kadınlar Avrupa Kupası 3. Eleme Turu rövanş maçında Bulgaristan temsilcisi HC Byala'yı 31-18 mağlup etti. Binnaz Karakaya Spor Salonu'nda oynanan karşılaşmada baştan sona üstün bir oyun ortaya koyan temsilcimiz, ilk maçta elde ettiği 38-21'lik galibiyetin ardından rövanşta da sahadan farklı galibiyetle ayrıldı. İki maç sonunda rakibine toplamda 69-39 üstünlük sağlayan Yalıkavak Spor Kulübü, bu sonuçla EHF Kadınlar Avrupa Kupası'nda adını bir üst tura yazdırdı. Temsilcimizi başarılı performansından dolayı tebrik ediyor, Avrupa yolculuğunda başarılar diliyoruz.",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-15T21:44:14+00:00",
+  "first_seen_at": "2026-11-15T21:42:41+00:00",
+  "source": "api"
+ },
+ {
+  "id": "cd6290ae8a0597c1",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ümit Millî Takımımız, Rize'deki Antrenmanın Ardından Çekya'ya Gitti",
+  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51966",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-11-15T21:42:41+00:00",
+  "first_seen_at": "2026-11-15T21:42:41+00:00",
+  "source": "html"
+ },
+ {
+  "id": "e0dfdc101be56306",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "3. Kademe Yüzme Antrenörü Yetiştirme Kursu 23-27 Kasım 2026 Ankara",
+  "url": "https://www.tyf.gov.tr/haber/3-kademe-yuzme-antrenoru-yetistirme-kursu--23-27-kasim-2026-ankara.html",
+  "summary": "BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-11/1518/1794773019_y.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-15T21:42:41+00:00",
+  "first_seen_at": "2026-11-15T21:42:41+00:00",
+  "source": "html"
+ },
+ {
+  "id": "cda34c0cd011e59f",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: TTF Dopingle Mücadele Talimatı 2027 yılı yasaklılar listesi",
+  "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati-2027-yili-yasaklilar-listesi-1572.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-15T21:41:15+00:00",
+  "first_seen_at": "2026-11-15T21:41:15+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "db54ecd12a48cf5c",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 469 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-15T21:40:57+00:00",
+  "first_seen_at": "2026-11-15T21:40:57+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "5636839b7c8cf940",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-15T21:40:57+00:00",
+  "first_seen_at": "2026-11-15T21:40:57+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "75841cf96c2254df",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -137,24 +241,6 @@
   "source": "html"
  },
  {
-  "id": "cda34c0cd011e59f",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "Yeni mevzuat: TTF Dopingle Mücadele Talimatı 2027 yılı yasaklılar listesi",
-  "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati-2027-yili-yasaklilar-listesi-1572.html",
-  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-15T09:12:31+00:00",
-  "first_seen_at": "2026-11-15T09:12:31+00:00",
-  "source": "mevzuat"
- },
- {
   "id": "18826d2c2259542b",
   "federation": "binicilik",
   "federation_name": "Türkiye Binicilik Federasyonu",
@@ -219,24 +305,6 @@
   "published_at": "2026-11-15T01:48:54+00:00",
   "first_seen_at": "2026-11-15T01:48:54+00:00",
   "source": "html"
- },
- {
-  "id": "db5165a96d4da092",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-11-15T01:46:53+00:00",
-  "first_seen_at": "2026-11-15T01:46:53+00:00",
-  "source": "takvim-html"
  },
  {
   "id": "598faade22c852d5",
@@ -4760,21 +4828,6 @@
   "source": "html"
  },
  {
-  "id": "d343b6cd5ad53cfe",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» Online Ödeme Portalı Hk. ( Yurt Dışı Ödeme işlemleri için )",
-  "url": "https://www.eskrim.org.tr/online-odeme-portali-hk-yurt-disi-odeme-islemleri-icin-2683.html",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-11T18:39:02+00:00",
-  "first_seen_at": "2026-11-11T18:39:02+00:00",
-  "source": "html"
- },
- {
   "id": "cec3dfb91e1dc628",
   "federation": "buzpateni",
   "federation_name": "Türkiye Buz Pateni Federasyonu",
@@ -5030,59 +5083,6 @@
   ],
   "published_at": "2026-11-11T18:39:02+00:00",
   "first_seen_at": "2026-11-11T18:39:02+00:00",
-  "source": "html"
- },
- {
-  "id": "3509f0dff34be7bb",
-  "federation": "gormeengelliler",
-  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
-  "federation_short": "GESF",
-  "title": "Futbol Deplasmanlı Süper Lig 12. Hafta Hakem ve Görevli Listesi Yayınlandı",
-  "url": "https://www.gesf.org.tr/haber/futbol-deplasmanli-super-lig-12-hafta-hakem-ve-gorevli-listesi-yayinlandi-57",
-  "summary": "duyuru B2-B3 Futsal 1. Lig 2. Devre Hakem Listesi B2-B3 Futsal 1. Lig 2. Devre Hakem Listesi 7– tarihlerinde Amasya’da düzenlenecek B2-B3 Futsal 1. Lig 2. devre müsabakaları için Merkez Hakem Kurulumuzun güncel hakem görevlendirme listesi aşağıda yer almaktadır.SıraAdı SoyadıKlasmanıİli 05.11.2026 203 görüntülenme duyuru 30.10.2026 2965 görüntülenme duyuru FUTBOL ADAY HAKEM KURSU ANKARA’DA BAŞLIYO",
-  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1776946550_ce6fcf32.jpeg",
-  "category": "musabaka",
-  "tags": [
-   "hakem",
-   "musabaka"
-  ],
-  "published_at": "2026-11-11T18:39:02+00:00",
-  "first_seen_at": "2026-11-11T18:39:02+00:00",
-  "source": "html"
- },
- {
-  "id": "f237880a61609bc1",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-11-11T18:37:28+00:00",
-  "first_seen_at": "2026-11-11T18:37:28+00:00",
-  "source": "takvim-html"
- },
- {
-  "id": "34475558b2c05049",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U19 Millî Takımımız, Slovakya ile Karşılaşacak",
-  "url": "https://www.tff.org/default.aspx?pageID=274&ftxtID=51899",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-11-11T10:46:26+00:00",
-  "first_seen_at": "2026-11-11T10:46:26+00:00",
   "source": "html"
  }
 ]

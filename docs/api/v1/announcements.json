@@ -1,5 +1,109 @@
 [
  {
+  "id": "c84360caa0a1cfeb",
+  "federation": "hentbol",
+  "federation_name": "Türkiye Hentbol Federasyonu",
+  "federation_short": "THF",
+  "title": "Yalıkavak Spor Kulübü Avrupa'da Tur Atladı",
+  "url": "https://thf.org.tr/haber/yalikavak-spor-kulubu-avrupada-tur-atladi",
+  "summary": "Yalıkavak Spor Kulübü, EHF Kadınlar Avrupa Kupası 3. Eleme Turu rövanş maçında Bulgaristan temsilcisi HC Byala'yı 31-18 mağlup etti. Binnaz Karakaya Spor Salonu'nda oynanan karşılaşmada baştan sona üstün bir oyun ortaya koyan temsilcimiz, ilk maçta elde ettiği 38-21'lik galibiyetin ardından rövanşta da sahadan farklı galibiyetle ayrıldı. İki maç sonunda rakibine toplamda 69-39 üstünlük sağlayan Yalıkavak Spor Kulübü, bu sonuçla EHF Kadınlar Avrupa Kupası'nda adını bir üst tura yazdırdı. Temsilcimizi başarılı performansından dolayı tebrik ediyor, Avrupa yolculuğunda başarılar diliyoruz.",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-15T21:44:14+00:00",
+  "first_seen_at": "2026-11-15T21:42:41+00:00",
+  "source": "api"
+ },
+ {
+  "id": "cd6290ae8a0597c1",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Ümit Millî Takımımız, Rize'deki Antrenmanın Ardından Çekya'ya Gitti",
+  "url": "https://www.tff.org/default.aspx?pageID=284&ftxtID=51966",
+  "summary": "",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-11-15T21:42:41+00:00",
+  "first_seen_at": "2026-11-15T21:42:41+00:00",
+  "source": "html"
+ },
+ {
+  "id": "e0dfdc101be56306",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "3. Kademe Yüzme Antrenörü Yetiştirme Kursu 23-27 Kasım 2026 Ankara",
+  "url": "https://www.tyf.gov.tr/haber/3-kademe-yuzme-antrenoru-yetistirme-kursu--23-27-kasim-2026-ankara.html",
+  "summary": "BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-11/1518/1794773019_y.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-15T21:42:41+00:00",
+  "first_seen_at": "2026-11-15T21:42:41+00:00",
+  "source": "html"
+ },
+ {
+  "id": "cda34c0cd011e59f",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: TTF Dopingle Mücadele Talimatı 2027 yılı yasaklılar listesi",
+  "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati-2027-yili-yasaklilar-listesi-1572.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-15T21:41:15+00:00",
+  "first_seen_at": "2026-11-15T21:41:15+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "db54ecd12a48cf5c",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 469 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-15T21:40:57+00:00",
+  "first_seen_at": "2026-11-15T21:40:57+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "5636839b7c8cf940",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-15T21:40:57+00:00",
+  "first_seen_at": "2026-11-15T21:40:57+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "75841cf96c2254df",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -137,24 +241,6 @@
   "source": "html"
  },
  {
-  "id": "cda34c0cd011e59f",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "Yeni mevzuat: TTF Dopingle Mücadele Talimatı 2027 yılı yasaklılar listesi",
-  "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati-2027-yili-yasaklilar-listesi-1572.html",
-  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-15T09:12:31+00:00",
-  "first_seen_at": "2026-11-15T09:12:31+00:00",
-  "source": "mevzuat"
- },
- {
   "id": "18826d2c2259542b",
   "federation": "binicilik",
   "federation_name": "Türkiye Binicilik Federasyonu",
@@ -219,24 +305,6 @@
   "published_at": "2026-11-15T01:48:54+00:00",
   "first_seen_at": "2026-11-15T01:48:54+00:00",
   "source": "html"
- },
- {
-  "id": "db5165a96d4da092",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Eskrim faaliyet takviminde değişiklik",
-  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-11-15T01:46:53+00:00",
-  "first_seen_at": "2026-11-15T01:46:53+00:00",
-  "source": "takvim-html"
  },
  {
   "id": "598faade22c852d5",
@@ -87492,18 +87560,18 @@
   "source": "html"
  },
  {
-  "id": "a002eb37088c6aab",
+  "id": "233553f3e6631a9b",
   "federation": "bedenselengelliler",
   "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
   "federation_short": "TBESF",
   "title": "Yılı Türkiye Bedensel Engelliler Spor Federasyonu Tahmini Bütçesi",
-  "url": "https://www.tbesf.org.tr/tr/2027-yili-turkiye-bedensel-engelliler-spor-federasyonu-tahmi",
-  "summary": "0 % 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ EKTEDİR. Dökümanı İndir Bu içerik 30 Ekim 2026 tarihinde eklendi. 278 defa incelendi. Duyurular TEKERLEKLİ SANDALYE BASKETBOL HAKEM VE GÖZLEMCİ ATAMALARI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU ANA STATÜSÜNDE DEĞİŞİKLİK YAPILMASI... TEKERLEKLİ SANDALYE BASKETBOL HAKEM VE GÖZLEMCİ ATAMALARI 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI TBESF 2025-2026 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU 2028 YILI TÜ",
-  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/9117-mali-kurul-afis.jpg",
+  "url": "https://www.tbesf.org.tr/tr/2028-yili-turkiye-bedensel-engelliler-spor-federasyonu-tahmi",
+  "summary": "0 % 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ EKTEDİR. Dökümanı İndir Bu içerik 30 Ekim 2026 tarihinde eklendi. 256 defa incelendi. Duyurular TEKERLEKLİ SANDALYE BASKETBOL HAKEM VE GÖZLEMCİ ATAMALARI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU ANA STATÜSÜNDE DEĞİŞİKLİK YAPILMASI... TEKERLEKLİ SANDALYE BASKETBOL HAKEM VE GÖZLEMCİ ATAMALARI 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI TBESF 2025-2026 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU 2028 YILI TÜ",
+  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/574-mali-kurul-afis.jpg",
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-30T00:00:00+00:00",
-  "first_seen_at": "2026-11-15T17:01:02+00:00",
+  "first_seen_at": "2026-11-15T21:42:41+00:00",
   "source": "html"
  },
  {
@@ -107291,132 +107359,6 @@
   ],
   "published_at": "2026-10-26T09:22:44+00:00",
   "first_seen_at": "2026-10-26T09:22:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "ca683f95db512b61",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: IFSC 2018 Rules 2018 modification V1.5 (English)",
-  "url": "https://drive.google.com/file/d/1MGuQvQxg-ZS4V8b41fuE_ea_PXw294tO/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:44+00:00",
-  "first_seen_at": "2026-10-26T09:22:44+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "694dc2b6972ef444",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: TDF Covid-19 Normalleşme Sürecinde Uyulması Gereken Sağlık Kuralları Yönergesi",
-  "url": "https://drive.google.com/file/d/1Z9WXrbJsCqVv-UieeZZNNqr6RC13XNQV/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:40+00:00",
-  "first_seen_at": "2026-10-26T09:22:40+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "0750fdeaa86b0ed4",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: TDF Sınav Yapma Yönergesi (İlan Tarihi 29.07.2019)",
-  "url": "https://drive.google.com/file/d/1_UQyYOHrdJqS7J-otB0dBhQcu3BNThO7/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:40+00:00",
-  "first_seen_at": "2026-10-26T09:22:40+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a8fbf9199d727a10",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Türkiye Dağcılık Federasyonu Spor Tırmanış Duvarı İmalat Ve Montajını Yapan Firmaların Akreditasyonu Hakkında Yönerge",
-  "url": "https://drive.google.com/file/d/1O473vcfbGJ_h91v9fa4XcTgG7lLCXUV8/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:40+00:00",
-  "first_seen_at": "2026-10-26T09:22:40+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "ad70a10d4ef697c9",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: UIAA Buz Tırmanış Yarışması Kuralları-2021(Eng)",
-  "url": "https://drive.google.com/file/d/1hu81ULsV6_EnVrkzxCBdVvavwngadEbX/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:40+00:00",
-  "first_seen_at": "2026-10-26T09:22:40+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "d3a3d23416c52487",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Yarışmaları TDF 2020 Yılı Kuralları -Paratırmanış kuralları dahil",
-  "url": "https://drive.google.com/file/d/1ou-mL5l7p1COJlRNelS1y5jCBEaituMA/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:39+00:00",
-  "first_seen_at": "2026-10-26T09:22:39+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "11cf5675098fb568",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Yarışmaları TDF 2020 IFSC Kural Değişiklikleri Sürüm 3",
-  "url": "https://drive.google.com/file/d/1cgh2NrRwIEQI3aZhOqYHZvyI7IIYJkHu/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:39+00:00",
-  "first_seen_at": "2026-10-26T09:22:39+00:00",
   "source": "mevzuat"
  }
 ]

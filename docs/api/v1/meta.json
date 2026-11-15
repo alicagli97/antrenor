@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-15T12:00:19+00:00",
- "total": 5999,
- "new_in_last_run": 0,
+ "generated_at": "2026-11-15T14:32:08+00:00",
+ "total": 6000,
+ "new_in_last_run": 1,
  "sources_ok": 62,
  "sources_failed": [
   "basketbol",
@@ -21,7 +21,7 @@
  "categories": {
   "mevzuat": 4957,
   "musabaka": 186,
-  "duyuru": 645,
+  "duyuru": 646,
   "takvim": 47,
   "kurs": 125,
   "haber": 39
@@ -59,6 +59,7 @@
   "triatlon": 211,
   "binicilik": 125,
   "badminton": 16,
+  "basketbol": 68,
   "bocce": 403,
   "gsb": 734,
   "golf": 432,
@@ -100,7 +101,6 @@
   "voleybol": 120,
   "boks": 16,
   "taekwondo": 10,
-  "basketbol": 67,
   "bric": 12,
   "bedenselengelliler": 21,
   "hentbol": 44,

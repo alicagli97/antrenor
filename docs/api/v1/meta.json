@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-15T18:00:18+00:00",
- "total": 5998,
- "new_in_last_run": 0,
+ "generated_at": "2026-11-15T20:32:13+00:00",
+ "total": 5999,
+ "new_in_last_run": 1,
  "sources_ok": 62,
  "sources_failed": [
   "basketbol",
@@ -22,7 +22,7 @@
   "musabaka": 191,
   "mevzuat": 4933,
   "kurs": 129,
-  "duyuru": 658,
+  "duyuru": 659,
   "takvim": 47,
   "haber": 40
  },
@@ -52,10 +52,10 @@
   "eskrim": 187,
   "triatlon": 211,
   "binicilik": 125,
+  "basketbol": 69,
   "gures": 12,
   "karate": 1,
   "gsb": 737,
-  "basketbol": 68,
   "bocce": 394,
   "golf": 432,
   "shgm": 39,

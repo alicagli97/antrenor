@@ -1,5 +1,23 @@
 [
  {
+  "id": "19f33761a470f1d0",
+  "federation": "yelken",
+  "federation_name": "Türkiye Yelken Federasyonu",
+  "federation_short": "TYF",
+  "title": "Yeni mevzuat: X'te paylaş",
+  "url": "https://x.com/intent/post?url=https%3a%2f%2fwww.tyf.org.tr%2fsayfalar%2fyelken-hakem-talimati%2f&via=TurkiyeYelken&text=Yelken+Hakem+Talimat%c4%b1",
+  "summary": "Yelken federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-15T16:59:26+00:00",
+  "first_seen_at": "2026-11-15T16:59:26+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "e50a76a8b3c456fa",
   "federation": "yelken",
   "federation_name": "Türkiye Yelken Federasyonu",
@@ -1062,24 +1080,5 @@
   "published_at": "2026-11-04T00:00:00+00:00",
   "first_seen_at": "2026-11-04T17:08:52+00:00",
   "source": "html"
- },
- {
-  "id": "8ab1390aba156fa6",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Mevzuat güncellendi: Eğitim Kurulu Görev Talimatı",
-  "url": "https://www.tyf.org.tr/sayfalar/egitim-kurulu-gorev-talimati/",
-  "summary": "Türkiye Yelken Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-03T11:19:58+00:00",
-  "first_seen_at": "2026-11-03T11:19:58+00:00",
-  "source": "mevzuat"
  }
 ]

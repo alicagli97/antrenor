@@ -1,5 +1,53 @@
 [
  {
+  "id": "99ed7bf72c9133c6",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Türkiye Resmî Maç Yemeği Düzenlendi",
+  "url": "https://www.tff.org/default.aspx?pageID=285&ftxtID=51962",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-15T01:48:54+00:00",
+  "first_seen_at": "2026-11-15T01:48:54+00:00",
+  "source": "html"
+ },
+ {
+  "id": "8711ca0843bf1000",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Millî Takımımız, Fransa Mücadelesine Hazır",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51961",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-15T01:48:54+00:00",
+  "first_seen_at": "2026-11-15T01:48:54+00:00",
+  "source": "html"
+ },
+ {
+  "id": "db5165a96d4da092",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-15T01:46:53+00:00",
+  "first_seen_at": "2026-11-15T01:46:53+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "f43d3b29d5aefe10",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -4795,24 +4843,6 @@
   "source": "html"
  },
  {
-  "id": "9fb12871869f7feb",
-  "federation": "gormeengelliler",
-  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
-  "federation_short": "GESF",
-  "title": "Türkiye Görme Engelliler Spor Federasyonu Futbol Aday Hakem Kursu Duyurusu 26 Eylül / 27 Eylül 2026 Kayseri",
-  "url": "https://www.gesf.org.tr/haber/turkiye-gorme-engelliler-spor-federasyonu-futbol-aday-hakem-kursu-duyurusu-26-eylul-27-eylul-2026-ka-99",
-  "summary": "duyuru B2-B3 Futsal 1. Lig 2. Devre Hakem Listesi B2-B3 Futsal 1. Lig 2. Devre Hakem Listesi 7– tarihlerinde Amasya’da düzenlenecek B2-B3 Futsal 1. Lig 2. devre müsabakaları için Merkez Hakem Kurulumuzun güncel hakem görevlendirme listesi aşağıda yer almaktadır.SıraAdı SoyadıKlasmanıİli 05.11.2026 203 görüntülenme duyuru Futbol Deplasmanlı Süper Lig 12. Hafta Hakem ve Görevli Listesi Yayınlandı Fu",
-  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1789561379_c2fb188c.jpg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-11-11T18:39:02+00:00",
-  "first_seen_at": "2026-11-11T18:39:02+00:00",
-  "source": "html"
- },
- {
   "id": "f237880a61609bc1",
   "federation": "eskrim",
   "federation_name": "Türkiye Eskrim Federasyonu",
@@ -4829,24 +4859,6 @@
   "published_at": "2026-11-11T18:37:28+00:00",
   "first_seen_at": "2026-11-11T18:37:28+00:00",
   "source": "takvim-html"
- },
- {
-  "id": "5a9b6a6ff37a8f1f",
-  "federation": "badminton",
-  "federation_name": "Türkiye Badminton Federasyonu",
-  "federation_short": "TBF",
-  "title": "Afyonkarahisar’da Badminton Aday Hakem Kursu başladı! 🏸",
-  "url": "https://www.badminton.org.tr/afyonkarahisarda-badminton-aday-hakem-kursu-basladi-%f0%9f%8f%b8/",
-  "summary": "11-12 Kasım 2026 tarihleri arasında düzenlenen eğitime 25 kursiyer katılıyor. MHK Üyesi Mustafa Yaşar eğitmenliğinde yürütülen program, yazılı ve uygulamalı sınavların ardından tamamlanacak. #Badminton #Hakemlik #Afyonkarahisar #Spor",
-  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-11-at-21.30.51.jpeg",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-11-11T18:37:16+00:00",
-  "first_seen_at": "2026-11-11T18:39:02+00:00",
-  "source": "wp_json"
  },
  {
   "id": "34475558b2c05049",
@@ -5073,23 +5085,6 @@
   "federation_short": "TFF",
   "title": "U17 Millî Takımızın Maçları, TFF YouTube'dan Yayınlanacak",
   "url": "https://www.tff.org/default.aspx?pageID=276&ftxtID=51895",
-  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
-  "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-11-10T22:20:23+00:00",
-  "first_seen_at": "2026-11-10T22:20:23+00:00",
-  "source": "html"
- },
- {
-  "id": "fd387a82318897b1",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "U19 Millî Takımızın Maçları, TFF YouTube'dan Yayınlanacak",
-  "url": "https://www.tff.org/default.aspx?pageID=274&ftxtID=51892",
   "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
   "image": null,
   "category": "musabaka",

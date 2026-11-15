@@ -1,5 +1,35 @@
 [
  {
+  "id": "99ed7bf72c9133c6",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "Türkiye Resmî Maç Yemeği Düzenlendi",
+  "url": "https://www.tff.org/default.aspx?pageID=285&ftxtID=51962",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-15T01:48:54+00:00",
+  "first_seen_at": "2026-11-15T01:48:54+00:00",
+  "source": "html"
+ },
+ {
+  "id": "8711ca0843bf1000",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Millî Takımımız, Fransa Mücadelesine Hazır",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51961",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-15T01:48:54+00:00",
+  "first_seen_at": "2026-11-15T01:48:54+00:00",
+  "source": "html"
+ },
+ {
   "id": "91ccc5f43bdd0437",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3102,38 +3132,5 @@
   "published_at": "2026-11-10T17:02:11+00:00",
   "first_seen_at": "2026-11-10T17:02:11+00:00",
   "source": "html"
- },
- {
-  "id": "80f34d4ff9f6a036",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Kadın milli buz hokeyi takımımızdan Avrupa’da ikincilik!",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/305347/kadin-milli-buz-hokeyi-takimimizdan-avrupada-ikincilik.aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
-  "id": "20527cb7acfdef80",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Kadın U17 Milli Takımımızın Kamp Kafile Listesi Belli Oldu",
-  "url": "https://thf.org.tr/haber/kadin-u17-milli-takimimizin-kamp-kafile-listesi-belli-oldu",
-  "summary": "Kadın U17 Milli Takımımız, 23-26 Kasım 2026 tarihleri arasında İstanbul'da kampa girecek. Millîlerimiz, kampın ardından Faroe Adaları'nda düzenlenecek U17 Avrupa Şampiyonası'na katılacak. Şampiyonada mücadele edecek kadro ise ilerleyen tarihlerde netlik kazanacak. Millî takımımızın İstanbul'da gerçekleştireceği kampın kafile listesi ekte yer almaktadır.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "musabaka",
-   "milli_takim"
-  ],
-  "published_at": "2026-11-10T16:59:09+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "api"
  }
 ]

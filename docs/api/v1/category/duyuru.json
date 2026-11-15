@@ -1,5 +1,38 @@
 [
  {
+  "id": "9ec8135bd86bfe1b",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Millî Takımımız, UEFA Uluslar A Ligi'nde Fransa Karşısında",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51957",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-15T09:14:04+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ff50439a4409c12f",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Ulusal Hakemlik Sınavı Devam Ediyor!",
+  "url": "https://www.badminton.org.tr/ulusal-hakemlik-sinavi-devam-ediyor/",
+  "summary": "Merkez Hakem Kurulu Komisyonu koordinesinde düzenlenen Ulusal Badminton Hakemlik Sınavı sürüyor. İki etaptan oluşan zorlu değerlendirme sürecinde adaylar sahada yerini aldı: 📝 1. Etap: Kural bilgisi ve talimatları kapsayan teorik yazılı sınav tamamlandı.🎯 2. Etap: 21 aday hakemimiz, bugün saha içi karar alma, maç yönetimi ve saha hakimiyetini sergiledikleri uygulama sınavında ter döküyor. Ulusal hakem […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/11/IMG_3233-scaled.jpg",
+  "category": "duyuru",
+  "tags": [
+   "hakem",
+   "mevzuat"
+  ],
+  "published_at": "2026-11-15T08:57:15+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "99ed7bf72c9133c6",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -27,6 +60,21 @@
   "tags": [],
   "published_at": "2026-11-15T01:48:54+00:00",
   "first_seen_at": "2026-11-15T01:48:54+00:00",
+  "source": "html"
+ },
+ {
+  "id": "101714667cb08e03",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak’tan Can Uyguç için Taziye Mesajı",
+  "url": "https://gsb.gov.tr/tr/haber-detay/305463-bakan-baktan-can-uyguc-icin-taziye-mesaji",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/img_3161.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-15T00:00:00+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
   "source": "html"
  },
  {
@@ -198,6 +246,21 @@
   "tags": [],
   "published_at": "2026-11-14T03:07:27+00:00",
   "first_seen_at": "2026-11-14T03:07:27+00:00",
+  "source": "html"
+ },
+ {
+  "id": "c3d1fdefa7f16ab7",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "Dartta Zirve Gazi Üniversitesinin",
+  "url": "https://tusf.org.tr/Haber.aspx?b=9fa41a67-7db0-4ee0-a130-97fca5bb49f3&bid=4425&_=Dartta Zirve Gazi Üniversitesinin",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-14T00:00:00+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
   "source": "html"
  },
  {
@@ -3069,66 +3132,6 @@
   "tags": [
    "burs"
   ],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
-  "id": "f33c5374c02b63a1",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Gizlilik ve Kişisel Veri Politikamız",
-  "url": "https://olimpiyat.org.tr/Kurumsal/Gizlilik-ve-Kisisel-Veri-Politikamiz",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
-  "id": "12db2a5444c2eec0",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "Olimpik Antlaşma",
-  "url": "https://olimpiyat.org.tr/Upload/Menu/624923_ioc_antlasmasi.pdf",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
-  "id": "424cb5be26b76de0",
-  "federation": "tmok",
-  "federation_name": "Türkiye Milli Olimpiyat Komitesi",
-  "federation_short": "TMOK",
-  "title": "TMOK 2025 Yılı Faaliyet Raporu",
-  "url": "https://api.olimpiyat.org.tr/upload/tmok-2025-faaliyet-raporu.pdf",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
-  "id": "418208caa4077c09",
-  "federation": "shgm",
-  "federation_name": "Spor Hizmetleri Genel Müdürlüğü",
-  "federation_short": "SHGM",
-  "title": "Saygı, özlem ve minnetle…",
-  "url": "https://shgm.gsb.gov.tr/HaberDetaylari/1/305341/saygi-ozlem-ve-minnetle….aspx",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
   "published_at": "2026-11-10T17:02:11+00:00",
   "first_seen_at": "2026-11-10T17:02:11+00:00",
   "source": "html"

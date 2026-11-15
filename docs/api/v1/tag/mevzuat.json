@@ -1,5 +1,41 @@
 [
  {
+  "id": "cda34c0cd011e59f",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: TTF Dopingle Mücadele Talimatı 2027 yılı yasaklılar listesi",
+  "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati-2027-yili-yasaklilar-listesi-1572.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-15T09:12:31+00:00",
+  "first_seen_at": "2026-11-15T09:12:31+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "ff50439a4409c12f",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Ulusal Hakemlik Sınavı Devam Ediyor!",
+  "url": "https://www.badminton.org.tr/ulusal-hakemlik-sinavi-devam-ediyor/",
+  "summary": "Merkez Hakem Kurulu Komisyonu koordinesinde düzenlenen Ulusal Badminton Hakemlik Sınavı sürüyor. İki etaptan oluşan zorlu değerlendirme sürecinde adaylar sahada yerini aldı: 📝 1. Etap: Kural bilgisi ve talimatları kapsayan teorik yazılı sınav tamamlandı.🎯 2. Etap: 21 aday hakemimiz, bugün saha içi karar alma, maç yönetimi ve saha hakimiyetini sergiledikleri uygulama sınavında ter döküyor. Ulusal hakem […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/11/IMG_3233-scaled.jpg",
+  "category": "duyuru",
+  "tags": [
+   "hakem",
+   "mevzuat"
+  ],
+  "published_at": "2026-11-15T08:57:15+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "cfbe87270cf0e61b",
   "federation": "golf",
   "federation_name": "Türkiye Golf Federasyonu",
@@ -3592,42 +3628,6 @@
   ],
   "published_at": "2026-11-14T10:56:01+00:00",
   "first_seen_at": "2026-11-14T10:56:01+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "2fc31c7aacb879e7",
-  "federation": "otomobil",
-  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
-  "federation_short": "TOSFED",
-  "title": "Mevzuat güncellendi: İl Temsilcisi Talimatı (10.2017)",
-  "url": "https://www.tosfed.org.tr/wp-content/uploads/2017/10/TOSFED_iltemsilcisi_talimati_v2.pdf",
-  "summary": "Türkiye Otomobil Sporları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-14T10:56:00+00:00",
-  "first_seen_at": "2026-11-14T10:56:00+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "3661ffc7f5aac390",
-  "federation": "otomobil",
-  "federation_name": "Türkiye Otomobil Sporları Federasyonu",
-  "federation_short": "TOSFED",
-  "title": "Mevzuat güncellendi: Hobi Karting Pist Talimatı (10.2017)",
-  "url": "https://www.tosfed.org.tr/wp-content/uploads/2017/10/HOBiKARTiNGPiSTTALiMATI.pdf",
-  "summary": "Türkiye Otomobil Sporları Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-14T10:55:59+00:00",
-  "first_seen_at": "2026-11-14T10:55:59+00:00",
   "source": "mevzuat"
  }
 ]

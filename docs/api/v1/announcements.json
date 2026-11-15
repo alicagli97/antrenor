@@ -1,5 +1,91 @@
 [
  {
+  "id": "26eea5fb6e6ce2fb",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "TFF'den Mesajlar Detay Sayfası TFF",
+  "url": "https://www.tff.org/default.aspx?pageID=1269&ftxtID=51964",
+  "summary": "İletişim | Site Haritası | Kopya Hakları | Kullanım Şartları | Sponsorlar Tüm hakları Türkiye Futbol Federasyonu'na aittir. Sosyal Medya Adreslerimiz: TFF TFF Milli Takımlar Süper Lig E-Millî Takım TFF Fantezi Lig",
+  "image": null,
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-11-15T09:14:04+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
+  "source": "html"
+ },
+ {
+  "id": "9ec8135bd86bfe1b",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "A Millî Takımımız, UEFA Uluslar A Ligi'nde Fransa Karşısında",
+  "url": "https://www.tff.org/default.aspx?pageID=202&ftxtID=51957",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-15T09:14:04+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
+  "source": "html"
+ },
+ {
+  "id": "cda34c0cd011e59f",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: TTF Dopingle Mücadele Talimatı 2027 yılı yasaklılar listesi",
+  "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati-2027-yili-yasaklilar-listesi-1572.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-15T09:12:31+00:00",
+  "first_seen_at": "2026-11-15T09:12:31+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "18826d2c2259542b",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-15T09:12:12+00:00",
+  "first_seen_at": "2026-11-15T09:12:12+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "ff50439a4409c12f",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "Ulusal Hakemlik Sınavı Devam Ediyor!",
+  "url": "https://www.badminton.org.tr/ulusal-hakemlik-sinavi-devam-ediyor/",
+  "summary": "Merkez Hakem Kurulu Komisyonu koordinesinde düzenlenen Ulusal Badminton Hakemlik Sınavı sürüyor. İki etaptan oluşan zorlu değerlendirme sürecinde adaylar sahada yerini aldı: 📝 1. Etap: Kural bilgisi ve talimatları kapsayan teorik yazılı sınav tamamlandı.🎯 2. Etap: 21 aday hakemimiz, bugün saha içi karar alma, maç yönetimi ve saha hakimiyetini sergiledikleri uygulama sınavında ter döküyor. Ulusal hakem […]",
+  "image": "https://www.badminton.org.tr/wp-content/uploads/2026/11/IMG_3233-scaled.jpg",
+  "category": "duyuru",
+  "tags": [
+   "hakem",
+   "mevzuat"
+  ],
+  "published_at": "2026-11-15T08:57:15+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "99ed7bf72c9133c6",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -46,6 +132,38 @@
   "published_at": "2026-11-15T01:46:53+00:00",
   "first_seen_at": "2026-11-15T01:46:53+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "d37b677ec5ca5c0b",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "Raffa 1. Lig Fikstürleri Yayımlandı - Duyurular",
+  "url": "https://tbbdf.org.tr/raffa-1-lig-fiksturleri-yayimlandi",
+  "summary": "TBBDF Haberler Duyurular Raffa 1. Lig Fikstürleri Yayımlandı Raffa 1. Lig Fikstürleri Yayımlandı Raffa 1. Lig Fikstürleri Yayımlandı 2026 - 2027 Sezonu Raffa 1. Lig Fikstürleri yayımlandı erkek-altin-nokta.pdf geleneksel-erkek.pdf geleneksel-kadin.pdf geleneksel-mix.pdf kadin-altin-nokta.pdf #raffa #yayımlandı #lig #fikstürleri #1. Toplam Görüntülenme 6 15 Kasım 2026, Pazar TÜMÜNÜ GÖRÜNTÜLE Duyurular Raffa 1. Lig Fikstürleri Yayımlandı Raffa 2. Lig Fikstürleri Yayımlandı Çanakkale'de Bocce Aday Hakem Yetiştirme Kursu Yapılacak. Konya'da Bocce ve Dart Aday Hakem Yetiştirme Kursları yapılacak. 2",
+  "image": "https://tbbdf.org.tr/images/tr.gif",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-11-15T00:00:00+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
+  "source": "html"
+ },
+ {
+  "id": "101714667cb08e03",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak’tan Can Uyguç için Taziye Mesajı",
+  "url": "https://gsb.gov.tr/tr/haber-detay/305463-bakan-baktan-can-uyguc-icin-taziye-mesaji",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/img_3161.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-15T00:00:00+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
+  "source": "html"
  },
  {
   "id": "f43d3b29d5aefe10",
@@ -9003,6 +9121,21 @@
   "tags": [],
   "published_at": "2026-11-14T03:07:27+00:00",
   "first_seen_at": "2026-11-14T03:07:27+00:00",
+  "source": "html"
+ },
+ {
+  "id": "c3d1fdefa7f16ab7",
+  "federation": "universitesporlari",
+  "federation_name": "Türkiye Üniversite Sporları Federasyonu",
+  "federation_short": "TÜSF",
+  "title": "Dartta Zirve Gazi Üniversitesinin",
+  "url": "https://tusf.org.tr/Haber.aspx?b=9fa41a67-7db0-4ee0-a130-97fca5bb49f3&bid=4425&_=Dartta Zirve Gazi Üniversitesinin",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-14T00:00:00+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
   "source": "html"
  },
  {
@@ -86919,18 +87052,18 @@
   "source": "html"
  },
  {
-  "id": "a002eb37088c6aab",
+  "id": "233553f3e6631a9b",
   "federation": "bedenselengelliler",
   "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
   "federation_short": "TBESF",
   "title": "Yılı Türkiye Bedensel Engelliler Spor Federasyonu Tahmini Bütçesi",
-  "url": "https://www.tbesf.org.tr/tr/2027-yili-turkiye-bedensel-engelliler-spor-federasyonu-tahmi",
-  "summary": "0 % 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2027 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ EKTEDİR. Dökümanı İndir Bu içerik 30 Ekim 2026 tarihinde eklendi. 273 defa incelendi. Duyurular TEKERLEKLİ SANDALYE BASKETBOL HAKEM VE GÖZLEMCİ ATAMALARI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU ANA STATÜSÜNDE DEĞİŞİKLİK YAPILMASI... TEKERLEKLİ SANDALYE BASKETBOL HAKEM VE GÖZLEMCİ ATAMALARI 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI TBESF 2025-2026 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU 2028 YILI TÜ",
-  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/9117-mali-kurul-afis.jpg",
+  "url": "https://www.tbesf.org.tr/tr/2028-yili-turkiye-bedensel-engelliler-spor-federasyonu-tahmi",
+  "summary": "0 % 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ 2028 YILI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU TAHMİNİ BÜTÇESİ EKTEDİR. Dökümanı İndir Bu içerik 30 Ekim 2026 tarihinde eklendi. 251 defa incelendi. Duyurular TEKERLEKLİ SANDALYE BASKETBOL HAKEM VE GÖZLEMCİ ATAMALARI TÜRKİYE BEDENSEL ENGELLİLER SPOR FEDERASYONU ANA STATÜSÜNDE DEĞİŞİKLİK YAPILMASI... TEKERLEKLİ SANDALYE BASKETBOL HAKEM VE GÖZLEMCİ ATAMALARI 2028 YILI TAHMİNİ FAALİYET PROGRAMI 2027 YILI TAHMİNİ FAALİYET PROGRAMI TBESF 2025-2026 YILI FAALİYET RAPORU TBESF 2024-2025 YILI FAALİYET RAPORU 2028 YILI TÜ",
+  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/574-mali-kurul-afis.jpg",
   "category": "duyuru",
   "tags": [],
   "published_at": "2026-10-30T00:00:00+00:00",
-  "first_seen_at": "2026-11-15T01:48:54+00:00",
+  "first_seen_at": "2026-11-15T09:14:04+00:00",
   "source": "html"
  },
  {
@@ -107312,151 +107445,6 @@
   ],
   "published_at": "2026-10-26T09:22:36+00:00",
   "first_seen_at": "2026-10-26T09:22:36+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "fa23fb206c69cd36",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Mevzuat güncellendi: Türkiye Dopingle Mücadele Talimatı Detayları incele",
-  "url": "https://www.tsf.org.tr/belge-detayi/1495",
-  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:36+00:00",
-  "first_seen_at": "2026-10-26T09:22:36+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "09e292ec92b5d24a",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Tescil Vize Talimatı",
-  "url": "https://tbbdf.org.tr/tr/tescil_vize_transfer_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-26T09:22:36+00:00",
-  "first_seen_at": "2026-10-26T09:22:36+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "9d4c7cfd93a694eb",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Bocce Yarışma Talimatı",
-  "url": "https://tbbdf.org.tr/tr/bocce_yarisma_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:36+00:00",
-  "first_seen_at": "2026-10-26T09:22:36+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "d258f0303f93a476",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Bowling Salonları Denetleme...",
-  "url": "https://tbbdf.org.tr/tr/bowling_salonlari_denetleme_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:36+00:00",
-  "first_seen_at": "2026-10-26T09:22:36+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "17d8de7414e1b847",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Bowling Salonları Yeterlilik...",
-  "url": "https://tbbdf.org.tr/tr/bowling_salonlar_yeterlilik_talimat",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:36+00:00",
-  "first_seen_at": "2026-10-26T09:22:36+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "d4ef3da5b806354a",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Bowling Yarışma Talimatı",
-  "url": "https://tbbdf.org.tr/tr/bowling_yarisma_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:36+00:00",
-  "first_seen_at": "2026-10-26T09:22:36+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "227eeae16360b7ac",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: İl Temsilcisi Talimatı",
-  "url": "https://drive.google.com/file/d/1on7GN5BD36Vlruf2RXD4fSaggU_S3NTb/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:35+00:00",
-  "first_seen_at": "2026-10-26T09:22:35+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "c28651e36f3bd5e0",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Kurullarının Görevlerine İlişkin Talimatı",
-  "url": "https://drive.google.com/file/d/1JXEUQkJTkZeW3_forokGN-8MXVAkzvWE/view",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-26T09:22:35+00:00",
-  "first_seen_at": "2026-10-26T09:22:35+00:00",
   "source": "mevzuat"
  }
 ]

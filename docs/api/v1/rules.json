@@ -1,37 +1,11 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T12:07:54+00:00",
+ "generated_at": "2026-11-16T20:23:54+00:00",
  "total_libraries": 49,
- "total_documents": 1391,
+ "total_documents": 1392,
  "coach_documents": 399,
  "changed_in_last_run": [
-  "aticilik",
-  "atletizm",
-  "bilardo",
-  "binicilik",
-  "bisiklet",
-  "bocce",
-  "buzpateni",
-  "cimnastik",
-  "dagcilik",
-  "eskrim",
-  "gelenekselguresler",
-  "gelismekteolan",
-  "golf",
-  "gsb",
-  "izcilik",
-  "masatenisi",
-  "motosiklet",
-  "okculuk",
-  "oryantiring",
-  "ozelsporcular",
-  "ragbi",
-  "satranc",
-  "triatlon",
-  "universitesporlari",
-  "voleybol",
-  "yelken",
-  "yuzme"
+  "okculuk"
  ],
  "libraries": [
   {
@@ -250,7 +224,7 @@
      "parmak_izi": "2669510a2378c16d"
     }
    ],
-   "checked_at": "2026-11-16T12:01:06+00:00",
+   "checked_at": "2026-11-16T20:21:20+00:00",
    "list_fingerprint": "e3801cd82791c76a"
   },
   {
@@ -568,7 +542,7 @@
      "guncellendi": "2026-11-14T10:55:00+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:02:24+00:00",
+   "checked_at": "2026-11-16T20:21:18+00:00",
    "list_fingerprint": "cfd9beec3daf6332"
   },
   {
@@ -647,7 +621,7 @@
      "guncellendi": "2026-11-14T10:53:46+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:00:41+00:00",
+   "checked_at": "2026-11-16T20:21:18+00:00",
    "list_fingerprint": "3d0d86deb3f36070"
   },
   {
@@ -704,7 +678,7 @@
      "parmak_izi": "dfde645582345636"
     }
    ],
-   "checked_at": "2026-11-16T12:03:17+00:00",
+   "checked_at": "2026-11-16T20:21:27+00:00",
    "list_fingerprint": "1babaf544b0e9803"
   },
   {
@@ -1024,7 +998,7 @@
      "guncellendi": "2026-11-16T12:01:22+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:01:22+00:00",
+   "checked_at": "2026-11-16T20:21:19+00:00",
    "list_fingerprint": "532e4ecf5dbb9c3b"
   },
   {
@@ -1258,7 +1232,7 @@
      "guncellendi": "2026-11-14T10:54:00+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:00:56+00:00",
+   "checked_at": "2026-11-16T20:21:19+00:00",
    "list_fingerprint": "6ff9a03ef47bdc7e"
   },
   {
@@ -1621,7 +1595,7 @@
      "guncellendi": "2026-11-16T12:02:41+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:02:41+00:00",
+   "checked_at": "2026-11-16T20:21:24+00:00",
    "list_fingerprint": "7b5ec3292ac1b4e8"
   },
   {
@@ -1761,7 +1735,7 @@
      "guncellendi": "2026-11-14T10:53:29+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:00:25+00:00",
+   "checked_at": "2026-11-16T20:21:16+00:00",
    "list_fingerprint": "22c15267ee09eaa1"
   },
   {
@@ -1797,7 +1771,7 @@
      "guncellendi": "2026-11-16T12:02:19+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:02:19+00:00",
+   "checked_at": "2026-11-16T20:21:34+00:00",
    "list_fingerprint": "f76ee57c1cc0bc7e"
   },
   {
@@ -1976,7 +1950,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-11-16T12:01:39+00:00",
+   "checked_at": "2026-11-16T20:21:20+00:00",
    "list_fingerprint": "d394ae1d05fed22a"
   },
   {
@@ -2434,7 +2408,7 @@
      "guncellendi": "2026-11-14T10:55:52+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:02:45+00:00",
+   "checked_at": "2026-11-16T20:21:23+00:00",
    "list_fingerprint": "63e31e0788e3d2df"
   },
   {
@@ -2741,7 +2715,7 @@
      "parmak_izi": "5e22928d2a876c61"
     }
    ],
-   "checked_at": "2026-11-16T12:04:44+00:00",
+   "checked_at": "2026-11-16T20:21:33+00:00",
    "list_fingerprint": "a05143c89894e7ff"
   },
   {
@@ -3035,7 +3009,7 @@
      "guncellendi": "2026-11-14T10:54:57+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:02:02+00:00",
+   "checked_at": "2026-11-16T20:21:20+00:00",
    "list_fingerprint": "6be740c7dd6e7422"
   },
   {
@@ -3324,7 +3298,7 @@
      "guncellendi": "2026-11-14T10:57:23+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:04:32+00:00",
+   "checked_at": "2026-11-16T20:21:30+00:00",
    "list_fingerprint": "57b1aa9d6a1b13f5"
   },
   {
@@ -3471,7 +3445,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-11-16T12:04:26+00:00",
+   "checked_at": "2026-11-16T20:21:32+00:00",
    "list_fingerprint": "f18c27cb5af426eb"
   },
   {
@@ -3690,7 +3664,7 @@
      "parmak_izi": "4055b2570944027a"
     }
    ],
-   "checked_at": "2026-11-16T12:04:48+00:00",
+   "checked_at": "2026-11-16T20:21:36+00:00",
    "list_fingerprint": "14c4199856507f47"
   },
   {
@@ -3924,7 +3898,7 @@
      "guncellendi": "2026-08-24T04:30:20+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:02:32+00:00",
+   "checked_at": "2026-11-16T20:21:22+00:00",
    "list_fingerprint": "7421ac0d16825275"
   },
   {
@@ -4741,7 +4715,7 @@
      "guncellendi": "2026-11-14T11:01:37+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:07:41+00:00",
+   "checked_at": "2026-11-16T20:21:37+00:00",
    "list_fingerprint": "588fc7d5f005ac8e"
   },
   {
@@ -5197,7 +5171,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-11-16T12:05:02+00:00",
+   "checked_at": "2026-11-16T20:21:36+00:00",
    "list_fingerprint": "497774e98ea65104"
   },
   {
@@ -5262,7 +5236,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-11-16T12:03:29+00:00",
+   "checked_at": "2026-11-16T20:21:28+00:00",
    "list_fingerprint": "e9b02385c685a478"
   },
   {
@@ -5523,7 +5497,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-11-16T12:06:31+00:00",
+   "checked_at": "2026-11-16T20:21:29+00:00",
    "list_fingerprint": "04034845fb8817a0"
   },
   {
@@ -5707,7 +5681,7 @@
      "guncellendi": "2026-11-14T10:56:38+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:03:26+00:00",
+   "checked_at": "2026-11-16T20:21:27+00:00",
    "list_fingerprint": "c667ccff66ef21b7"
   },
   {
@@ -5961,7 +5935,7 @@
      "guncellendi": "2026-11-16T12:04:55+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:04:55+00:00",
+   "checked_at": "2026-11-16T20:21:35+00:00",
    "list_fingerprint": "caaf155ac4f106b1"
   },
   {
@@ -6271,7 +6245,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-11-16T12:03:25+00:00",
+   "checked_at": "2026-11-16T20:21:14+00:00",
    "list_fingerprint": "986bcdc0ec83f110"
   },
   {
@@ -6519,7 +6493,7 @@
      "parmak_izi": "813bf5e5cb9da85c"
     }
    ],
-   "checked_at": "2026-11-16T12:02:15+00:00",
+   "checked_at": "2026-11-16T20:21:21+00:00",
    "list_fingerprint": "8bb56c7a09dffdaf"
   },
   {
@@ -6716,7 +6690,7 @@
      "parmak_izi": "0d91d54d9fbc151e"
     }
    ],
-   "checked_at": "2026-11-16T12:02:30+00:00",
+   "checked_at": "2026-11-16T20:21:23+00:00",
    "list_fingerprint": "435af2e72b50e1e1"
   },
   {
@@ -6912,7 +6886,7 @@
      "parmak_izi": "7b4c88124c1d3b61"
     }
    ],
-   "checked_at": "2026-11-16T12:05:03+00:00",
+   "checked_at": "2026-11-16T20:21:35+00:00",
    "list_fingerprint": "b431d31ee8fdb5d7"
   },
   {
@@ -7090,7 +7064,7 @@
      "guncellendi": "2026-11-14T10:55:13+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:02:00+00:00",
+   "checked_at": "2026-11-16T20:21:20+00:00",
    "list_fingerprint": "a29d2698c91c6646"
   },
   {
@@ -7317,7 +7291,7 @@
      "parmak_izi": "b20b82bce69e99d2"
     }
    ],
-   "checked_at": "2026-11-16T12:01:57+00:00",
+   "checked_at": "2026-11-16T20:21:17+00:00",
    "list_fingerprint": "eb2596d4c001e57d"
   },
   {
@@ -7547,7 +7521,7 @@
      "guncellendi": "2026-11-14T10:56:12+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:03:13+00:00",
+   "checked_at": "2026-11-16T20:21:26+00:00",
    "list_fingerprint": "523919e58b16a5a4"
   },
   {
@@ -7869,7 +7843,7 @@
      "guncellendi": "2026-11-14T10:57:37+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:04:06+00:00",
+   "checked_at": "2026-11-16T20:21:26+00:00",
    "list_fingerprint": "294402b7b7fc4cde"
   },
   {
@@ -7880,7 +7854,7 @@
     "https://www.okculuk.org.tr/federasyon/talimatlar/",
     "https://www.okculuk.org.tr/federasyon/talimatlar/"
    ],
-   "document_count": 29,
+   "document_count": 30,
    "coach_document_count": 6,
    "documents": [
     {
@@ -7934,6 +7908,13 @@
      "onemli": false,
      "parmak_izi": "8965d9af0f98167a",
      "guncellendi": "2026-11-14T10:55:14+00:00"
+    },
+    {
+     "baslik": "2027 Salon Milli Takım Seçme SistemiV0.1 Güncellendi",
+     "url": "https://www.okculuk.org.tr/indir/138/talimatlar/25090/2027-salon-milli-takim-secme-sistemiv0-1.pdf",
+     "tur": "pdf",
+     "onemli": false,
+     "parmak_izi": ""
     },
     {
      "baslik": "2027KLasikYayMilliTakımSeçmeSistemiV0.1",
@@ -8102,8 +8083,8 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-11-16T12:01:43+00:00",
-   "list_fingerprint": "8c3ce0e9441183d7"
+   "checked_at": "2026-11-16T20:21:20+00:00",
+   "list_fingerprint": "37b8220bdf42eb46"
   },
   {
    "federation": "oryantiring",
@@ -8149,7 +8130,7 @@
      "guncellendi": "2026-11-16T12:04:30+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:04:30+00:00",
+   "checked_at": "2026-11-16T20:21:32+00:00",
    "list_fingerprint": "1255cf3a8bd73311"
   },
   {
@@ -8598,7 +8579,7 @@
      "parmak_izi": "18801731769caa0c"
     }
    ],
-   "checked_at": "2026-11-16T12:04:09+00:00",
+   "checked_at": "2026-11-16T20:21:25+00:00",
    "list_fingerprint": "7716bcea62e308eb"
   },
   {
@@ -8771,7 +8752,7 @@
      "guncellendi": "2026-11-16T12:03:45+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:03:45+00:00",
+   "checked_at": "2026-11-16T20:21:27+00:00",
    "list_fingerprint": "4b12d8168c4fd7e4"
   },
   {
@@ -9056,7 +9037,7 @@
      "parmak_izi": "522c8d51c4e07ea9"
     }
    ],
-   "checked_at": "2026-11-16T12:05:11+00:00",
+   "checked_at": "2026-11-16T20:21:32+00:00",
    "list_fingerprint": "34c2f3c3c99789e1"
   },
   {
@@ -9254,7 +9235,7 @@
      "guncellendi": "2026-11-16T12:02:37+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:02:37+00:00",
+   "checked_at": "2026-11-16T20:21:24+00:00",
    "list_fingerprint": "b23e64d94d3eb62b"
   },
   {
@@ -9603,7 +9584,7 @@
      "guncellendi": "2026-11-14T11:01:26+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:07:54+00:00",
+   "checked_at": "2026-11-16T20:21:25+00:00",
    "list_fingerprint": "e234fce010a1944d"
   },
   {
@@ -9801,7 +9782,7 @@
      "parmak_izi": "e74514c671972af7"
     }
    ],
-   "checked_at": "2026-11-16T12:00:27+00:00",
+   "checked_at": "2026-11-16T20:21:19+00:00",
    "list_fingerprint": "b27253e95ffadc35"
   },
   {
@@ -10133,7 +10114,7 @@
      "parmak_izi": "17b7b23916751d22"
     }
    ],
-   "checked_at": "2026-11-16T12:00:57+00:00",
+   "checked_at": "2026-11-16T20:21:16+00:00",
    "list_fingerprint": "1e480bfb1ebea5ee"
   },
   {
@@ -10313,7 +10294,7 @@
      "parmak_izi": "a1caa666f647bfc7"
     }
    ],
-   "checked_at": "2026-11-16T12:02:36+00:00",
+   "checked_at": "2026-11-16T20:21:22+00:00",
    "list_fingerprint": "096a9c6fc2f59432"
   },
   {
@@ -10413,7 +10394,7 @@
      "guncellendi": "2026-11-16T12:04:36+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:04:36+00:00",
+   "checked_at": "2026-11-16T20:21:34+00:00",
    "list_fingerprint": "3889dac0e0ca78cf"
   },
   {
@@ -10676,7 +10657,7 @@
      "guncellendi": "2026-11-16T12:00:28+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:00:28+00:00",
+   "checked_at": "2026-11-16T20:21:15+00:00",
    "list_fingerprint": "1ac5ca7aa0dc2abb"
   },
   {
@@ -10726,7 +10707,7 @@
      "guncellendi": "2026-11-14T10:56:17+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:02:51+00:00",
+   "checked_at": "2026-11-16T20:21:26+00:00",
    "list_fingerprint": "fb5d3bdd2eacbeee"
   },
   {
@@ -10795,7 +10776,7 @@
      "parmak_izi": "c44757adecab33df"
     }
    ],
-   "checked_at": "2026-11-16T12:02:03+00:00",
+   "checked_at": "2026-11-16T20:21:20+00:00",
    "list_fingerprint": "3a9014f2337e89fa"
   },
   {
@@ -11056,7 +11037,7 @@
      "guncellendi": "2026-11-16T12:00:37+00:00"
     }
    ],
-   "checked_at": "2026-11-16T12:00:37+00:00",
+   "checked_at": "2026-11-16T20:21:16+00:00",
    "list_fingerprint": "f945f89439b77e80"
   }
  ]

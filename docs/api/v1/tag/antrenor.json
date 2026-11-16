@@ -1,5 +1,41 @@
 [
  {
+  "id": "ab74453508a45e06",
+  "federation": "kaykay",
+  "federation_name": "Türkiye Kaykay Federasyonu",
+  "federation_short": "TKF",
+  "title": "Antrenörlük Mesleği Ulusal Meslek Standartları Resmi Gazete'de Yayımlandı",
+  "url": "https://kaykay.org.tr/blog/antrenorluk-meslegi-ulusal-meslek-standartlari-resmi-gazetede-yayimlandi",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "mevzuat"
+  ],
+  "published_at": "2026-11-16T20:27:22+00:00",
+  "first_seen_at": "2026-11-16T20:27:22+00:00",
+  "source": "html"
+ },
+ {
+  "id": "a68401926bd48f12",
+  "federation": "ozelsporcular",
+  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
+  "federation_short": "TÖSSF",
+  "title": "Antrenörlük Mesleği Ulusal Meslek Standartları Resmi Gazete’de Yayımlandı",
+  "url": "https://tossfed.gov.tr/antrenorluk-meslegi-ulusal-meslek-standartlari-resmi-gazetede-yayimlandi/",
+  "summary": "Antrenörlüğün ulusal meslek standartlarının belirlenmesi, uluslararası standartlara uyum sağlaması ve uluslararası düzeyde geçerli akreditasyonu olan, kalite güvencesi sağlanmış bir belgelendirme sürecinin işletilmesi amacıyla Mesleki Yeterlilik Kurumu (MYK) ile Gençlik ve Spor Bakanlığı arasında çalışmalar başlatılmıştır. Bu kapsamda, ulusal antrenörlük meslek standartlarının belirlenmesi için MYK ile Bakanlığımız arasında 4 Aralık 2024 tarihinde Antrenörlük (Seviye 3-4-5-6-7) mesleğinin …",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "mevzuat"
+  ],
+  "published_at": "2026-11-16T12:16:32+00:00",
+  "first_seen_at": "2026-11-16T20:27:22+00:00",
+  "source": "rss"
+ },
+ {
   "id": "6673c0954dfedcb7",
   "federation": "satranc",
   "federation_name": "Türkiye Satranç Federasyonu",
@@ -246,6 +282,23 @@
   "published_at": "2026-11-15T13:48:45+00:00",
   "first_seen_at": "2026-11-15T17:01:02+00:00",
   "source": "wp_json"
+ },
+ {
+  "id": "e10bd6c4647291b7",
+  "federation": "danssporlari",
+  "federation_name": "Türkiye Dans Sporları Federasyonu",
+  "federation_short": "TDSF",
+  "title": "Antrenörlük Mesleğine İlişkin Ulusal Meslek Standartları Hakkında",
+  "url": "https://tdsf.org.tr/haberler/antrenorluk-meslegine-iliskin-ulusal-meslek-standartlari-hakkinda",
+  "summary": "13 Kasım 2026 SERBEST STİL HİP HOP İSTİŞARE TOPLANTISI HAKKINDA 12 Kasım 2026 KARAYİP DANSLARI HAKEM KURULU KİTAPÇIĞI GÜNCELLENMESİ HAKKINDA 11 Kasım 2026 2026 WPDS PARA DANS AVRUPA ŞAMPİYONASI 10 Kasım 2026 DANS SPORU (LT&ST) 2. ETAP KULÜPLERARASI SIRALAMA YARIŞMASI HAKKINDA BİLGİLENDİRME 7 Kasım 2026 2026 WDSF STAGE DANCE (MODERN, SHOW, JAZZ DANS) DÜNYA ŞAMPİYONASI 3 Kasım 2026 DANS SPORU (LATİN",
+  "image": "https://tdsf.org.tr/assets/img/posts/duyuru-1794736722.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-11-15T00:00:00+00:00",
+  "first_seen_at": "2026-11-16T20:27:22+00:00",
+  "source": "html"
  },
  {
   "id": "fa0d4ef3882a56d7",
@@ -3712,62 +3765,5 @@
   "published_at": "2026-11-12T18:40:28+00:00",
   "first_seen_at": "2026-11-13T00:13:23+00:00",
   "source": "wp_json"
- },
- {
-  "id": "ff0c411bf4de230b",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Yeni mevzuat: Sporcu Eğitim ve Milli Takım Hazırlık Kampları Talimatı Detayları incele",
-  "url": "https://www.tsf.org.tr/belge-detayi/100002",
-  "summary": "Satranç federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-12T18:13:52+00:00",
-  "first_seen_at": "2026-11-12T18:13:52+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "44c43698c69a6b9b",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Sporcu Ücretlerinden Tevkif Yoluyla Alınan Gelir Vergisinin İadesi Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=40258&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-12T11:54:05+00:00",
-  "first_seen_at": "2026-11-12T11:54:05+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "40b6e7cc201769fa",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri, Spor Anonim Şirketleri ve Üst Kuruluşlara Ayni ve Nakdî Yardım Yapılması Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=42748&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-12T11:54:04+00:00",
-  "first_seen_at": "2026-11-12T11:54:04+00:00",
-  "source": "mevzuat"
  }
 ]

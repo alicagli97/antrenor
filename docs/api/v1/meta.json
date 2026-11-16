@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T06:00:22+00:00",
- "total": 5998,
- "new_in_last_run": 0,
+ "generated_at": "2026-11-16T09:00:21+00:00",
+ "total": 6000,
+ "new_in_last_run": 2,
  "sources_ok": 62,
  "sources_failed": [
   "basketbol",
@@ -19,7 +19,7 @@
  ],
  "latest_published_at": "2026-11-16T01:55:25+00:00",
  "categories": {
-  "duyuru": 664,
+  "duyuru": 666,
   "musabaka": 192,
   "kurs": 130,
   "mevzuat": 4924,
@@ -56,7 +56,7 @@
   "otomobil": 38,
   "badminton": 17,
   "binicilik": 125,
-  "basketbol": 69,
+  "basketbol": 71,
   "gures": 12,
   "karate": 1,
   "gsb": 737,

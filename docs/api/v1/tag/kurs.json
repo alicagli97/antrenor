@@ -1,5 +1,24 @@
 [
  {
+  "id": "97dd4f7bc45e7eb0",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "Aday Hakem Kursu – Kayseri",
+  "url": "https://muaythai.gov.tr/2026/11/17/aday-hakem-kursu-kayseri-4/",
+  "summary": "Muaythai Aday Hakem Kursu 28-29 Kasım 2026 tarihlerinde Kayseri’de açılacaktır. Kursa Hakem Talimatında belirtilen hakem olabilme şartlarını taşıyanlar",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2022/09/hakem-kursu.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem",
+   "mevzuat"
+  ],
+  "published_at": "2026-11-17T13:48:01+00:00",
+  "first_seen_at": "2026-11-17T22:13:55+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "e0423742131c111f",
   "federation": "kano",
   "federation_name": "Türkiye Kano Federasyonu",
@@ -1645,6 +1664,41 @@
   ],
   "published_at": "2026-11-01T19:34:17+00:00",
   "first_seen_at": "2026-11-01T19:34:17+00:00",
+  "source": "html"
+ },
+ {
+  "id": "eb188969c4b315aa",
+  "federation": "gormeengelliler",
+  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "federation_short": "GESF",
+  "title": "Ankara Futbol/futsal Aday Hakemlik Kursu Sonuçları Açıklandı",
+  "url": "https://www.gesf.org.tr/haber/ankara-futbolfutsal-aday-hakemlik-kursu-sonuclari-aciklandi-129",
+  "summary": "haber Türkiye Görme Engelliler Spor Federasyonumuzun 2026 yılı faaliyet programı kapsamında, 31 Ekim– tarihlerinde Ankara’da düzenlenen Futbol/Futsal Aday Hakemlik Kursu’nun sonuçları 17.11.2026 82 görüntülenme duyuru Futbol Deplasmanlı Süper Lig 14. Hafta Hakem ve Görevli Listesi Yayınlandı Futbol Deplasmanlı Süper Lig 14. Hafta Hakem ve Görevli Listesi Yayınlandı 12.11.2026 3189 görüntülenme duy",
+  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1794923773_0219372f.png",
+  "category": "duyuru",
+  "tags": [
+   "kurs"
+  ],
+  "published_at": "2026-11-01T00:00:00+00:00",
+  "first_seen_at": "2026-11-17T22:13:55+00:00",
+  "source": "html"
+ },
+ {
+  "id": "df9abb8a8b065d6a",
+  "federation": "gormeengelliler",
+  "federation_name": "Türkiye Görme Engelliler Spor Federasyonu",
+  "federation_short": "GESF",
+  "title": "Golbol 3. Kademe Kıdemli Antrenör Yetiştirme Kursu Duyurusu",
+  "url": "https://www.gesf.org.tr/haber/golbol-3-kademe-kidemli-antrenor-yetistirme-kursu-duyurusu-100",
+  "summary": "haber ANKARA FUTBOL/FUTSAL ADAY HAKEMLİK KURSU SONUÇLARI AÇIKLANDI ANKARA FUTBOL/FUTSAL ADAY HAKEMLİK KURSU SONUÇLARI AÇIKLANDITürkiye Görme Engelliler Spor Federasyonumuzun 2026 yılı faaliyet programı kapsamında, 31 Ekim– tarihlerinde Ankara’da düzenlenen Futbol/Futsal Aday Hakemlik Kursu’nun sonuçları 17.11.2026 82 görüntülenme duyuru Futbol Deplasmanlı Süper Lig 14. Hafta Hakem ve Görevli Liste",
+  "image": "https://www.gesf.org.tr/api/image.php?path=public%2Fnews%2Fnews_1789762073_b8e39f03.png",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-01T00:00:00+00:00",
+  "first_seen_at": "2026-11-17T22:13:55+00:00",
   "source": "html"
  },
  {

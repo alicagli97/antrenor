@@ -1,6 +1,6 @@
 [
  {
-  "id": "333fb6ca1f0438e7",
+  "id": "a7eb02215bdc485b",
   "federation": "binicilik",
   "federation_name": "Türkiye Binicilik Federasyonu",
   "federation_short": "TBF",
@@ -13,9 +13,27 @@
    "takvim",
    "faaliyet"
   ],
-  "published_at": "2026-11-17T03:42:55+00:00",
-  "first_seen_at": "2026-11-17T03:42:55+00:00",
+  "published_at": "2026-11-17T22:12:05+00:00",
+  "first_seen_at": "2026-11-17T22:12:05+00:00",
   "source": "takvim-html"
+ },
+ {
+  "id": "7fd59c00d91ed74b",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-17T22:12:03+00:00",
+  "first_seen_at": "2026-11-17T22:12:03+00:00",
+  "source": "takvim-excel"
  },
  {
   "id": "696b61747a9c26c7",
@@ -52,24 +70,6 @@
   "published_at": "2026-11-17T03:42:51+00:00",
   "first_seen_at": "2026-11-17T03:42:51+00:00",
   "source": "takvim-html"
- },
- {
-  "id": "2cc5e2d210eeb2ae",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Voleybol faaliyet takviminde değişiklik",
-  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-11-17T03:42:48+00:00",
-  "first_seen_at": "2026-11-17T03:42:48+00:00",
-  "source": "takvim-excel"
  },
  {
   "id": "db54ecd12a48cf5c",

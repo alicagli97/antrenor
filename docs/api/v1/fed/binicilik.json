@@ -1,5 +1,23 @@
 [
  {
+  "id": "a7eb02215bdc485b",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-17T22:12:05+00:00",
+  "first_seen_at": "2026-11-17T22:12:05+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "0694a1c9cfabd174",
   "federation": "binicilik",
   "federation_name": "Türkiye Binicilik Federasyonu",
@@ -508,24 +526,6 @@
   "published_at": "2026-11-17T12:26:10+00:00",
   "first_seen_at": "2026-11-17T12:26:10+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "333fb6ca1f0438e7",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "Binicilik faaliyet takviminde değişiklik",
-  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-11-17T03:42:55+00:00",
-  "first_seen_at": "2026-11-17T03:42:55+00:00",
-  "source": "takvim-html"
  },
  {
   "id": "18826d2c2259542b",

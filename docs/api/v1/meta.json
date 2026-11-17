@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-17T13:10:34+00:00",
- "total": 5998,
- "new_in_last_run": 561,
+ "generated_at": "2026-11-17T15:54:43+00:00",
+ "total": 6000,
+ "new_in_last_run": 5,
  "sources_ok": 62,
  "sources_failed": [
   "basketbol",
@@ -13,13 +13,16 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol",
+  "binicilik"
+ ],
  "latest_published_at": "2026-11-17T15:07:44+00:00",
  "categories": {
-  "duyuru": 657,
-  "mevzuat": 4926,
+  "duyuru": 660,
+  "mevzuat": 4924,
   "musabaka": 191,
-  "kurs": 131,
+  "kurs": 132,
   "haber": 45,
   "takvim": 48
  },
@@ -51,7 +54,7 @@
   "ragbi": 70,
   "izcilik": 604,
   "universitesporlari": 77,
-  "ozelsporcular": 154,
+  "ozelsporcular": 152,
   "isitmeengelliler": 17,
   "sualti": 30,
   "motosiklet": 33,
@@ -71,6 +74,7 @@
   "bisiklet": 31,
   "voleybol": 118,
   "halter": 8,
+  "basketbol": 75,
   "kano": 19,
   "kaykay": 7,
   "gelismekteolan": 60,
@@ -80,7 +84,6 @@
   "gelenekselguresler": 30,
   "bedenselengelliler": 23,
   "bric": 12,
-  "basketbol": 71,
   "sportoto": 12,
   "yuzme": 28,
   "otomobil": 36,

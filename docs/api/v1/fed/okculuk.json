@@ -1,5 +1,41 @@
 [
  {
+  "id": "15bb694563bac617",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "Mevzuat güncellendi: Tümünü indir",
+  "url": "https://www.okculuk.org.tr/indir/wpfdcat/138/talimatlar",
+  "summary": "Türkiye Okçuluk Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-17T12:26:10+00:00",
+  "first_seen_at": "2026-11-17T12:26:10+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "6d9fd5a8f5084c3a",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "Mevzuat güncellendi: Talimatlar",
+  "url": "https://www.okculuk.org.tr/federasyon/talimatlar/",
+  "summary": "Türkiye Okçuluk Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-17T12:26:04+00:00",
+  "first_seen_at": "2026-11-17T12:26:04+00:00",
+  "source": "mevzuat"
+ },
+ {
   "id": "b83b5c8233f3c48a",
   "federation": "okculuk",
   "federation_name": "Türkiye Okçuluk Federasyonu",
@@ -873,23 +909,5 @@
   "published_at": "2026-10-27T10:26:34+00:00",
   "first_seen_at": "2026-10-27T10:31:27+00:00",
   "source": "wp_json"
- },
- {
-  "id": "6d9fd5a8f5084c3a",
-  "federation": "okculuk",
-  "federation_name": "Türkiye Okçuluk Federasyonu",
-  "federation_short": "TOF",
-  "title": "Mevzuat güncellendi: Talimatlar",
-  "url": "https://www.okculuk.org.tr/federasyon/talimatlar/",
-  "summary": "Türkiye Okçuluk Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-27T09:20:26+00:00",
-  "first_seen_at": "2026-10-27T09:20:26+00:00",
-  "source": "mevzuat"
  }
 ]

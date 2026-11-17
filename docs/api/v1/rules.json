@@ -1,11 +1,11 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-16T20:23:54+00:00",
+ "generated_at": "2026-11-17T03:46:49+00:00",
  "total_libraries": 49,
- "total_documents": 1392,
- "coach_documents": 399,
+ "total_documents": 1426,
+ "coach_documents": 400,
  "changed_in_last_run": [
-  "okculuk"
+  "buzpateni"
  ],
  "libraries": [
   {
@@ -224,7 +224,7 @@
      "parmak_izi": "2669510a2378c16d"
     }
    ],
-   "checked_at": "2026-11-16T20:21:20+00:00",
+   "checked_at": "2026-11-17T03:44:17+00:00",
    "list_fingerprint": "e3801cd82791c76a"
   },
   {
@@ -542,7 +542,7 @@
      "guncellendi": "2026-11-14T10:55:00+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:18+00:00",
+   "checked_at": "2026-11-17T03:44:16+00:00",
    "list_fingerprint": "cfd9beec3daf6332"
   },
   {
@@ -621,7 +621,7 @@
      "guncellendi": "2026-11-14T10:53:46+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:18+00:00",
+   "checked_at": "2026-11-17T03:44:15+00:00",
    "list_fingerprint": "3d0d86deb3f36070"
   },
   {
@@ -678,7 +678,7 @@
      "parmak_izi": "dfde645582345636"
     }
    ],
-   "checked_at": "2026-11-16T20:21:27+00:00",
+   "checked_at": "2026-11-17T03:44:23+00:00",
    "list_fingerprint": "1babaf544b0e9803"
   },
   {
@@ -998,7 +998,7 @@
      "guncellendi": "2026-11-16T12:01:22+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:19+00:00",
+   "checked_at": "2026-11-17T03:44:17+00:00",
    "list_fingerprint": "532e4ecf5dbb9c3b"
   },
   {
@@ -1232,7 +1232,7 @@
      "guncellendi": "2026-11-14T10:54:00+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:19+00:00",
+   "checked_at": "2026-11-17T03:44:16+00:00",
    "list_fingerprint": "6ff9a03ef47bdc7e"
   },
   {
@@ -1595,7 +1595,7 @@
      "guncellendi": "2026-11-16T12:02:41+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:24+00:00",
+   "checked_at": "2026-11-17T03:44:21+00:00",
    "list_fingerprint": "7b5ec3292ac1b4e8"
   },
   {
@@ -1735,7 +1735,7 @@
      "guncellendi": "2026-11-14T10:53:29+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:16+00:00",
+   "checked_at": "2026-11-17T03:44:14+00:00",
    "list_fingerprint": "22c15267ee09eaa1"
   },
   {
@@ -1743,11 +1743,250 @@
    "federation_name": "Türkiye Buz Pateni Federasyonu",
    "federation_short": "TBPF",
    "sources": [
+    "https://buzpateni.org.tr/haber-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-1115959",
     "https://buzpateni.org.tr/duyuru-detay/cocuk-koruma-kurulu-talimati-d"
    ],
-   "document_count": 3,
-   "coach_document_count": 0,
+   "document_count": 37,
+   "coach_document_count": 1,
    "documents": [
+    {
+     "baslik": "Short Track Başkent Kupası Revize Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-baskent-kupasi-revize-yarisma-talimati-11",
+     "tur": "html",
+     "onemli": true,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track 1. Bölge Teşvik Yarışma Talimatı",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-1-bolge-tesvik-yarismasi-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Başkent Kupası Yarışma Talimatı",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-baskent-kupasi-yarisma-talimati-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası - 2 Yarışma Talimat...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-2-yarisma-talimati-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası - 3 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-yarisma-talimati-112",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası - 3 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-yarisma-talimati-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası - 4 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-4-yarisma-talimati-1144",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası -1 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-yarisma-talimati-111",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası -2 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-2-yarisma-talimati-111",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası -3 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-11111",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası -3 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-yarisma-talimati-111",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası -4 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-4-yarisma-talimati-111",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası -4 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-4-yarisma-talimati-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası 1 ve 2 Yarışma Talim...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-ve-2-yarisma-talimati-119652",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası 1 ve 2 Yarışma Talim...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-ve-2-yarisma-talimati-1133",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası 1 ve 2 Yarışma Talim...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-ve-2-yarisma-talimati-11332",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası 1 ve 2 Yarışma Talim...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-ve-2-yarisma-talimati-113322",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası 1 ve 2 Yarışma Talim...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-ve-2-yarisma-talimati-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası 1 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-erzurum-111",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası 1 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-yarisma-talimati-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası 3 - 4 Yarışma Talima...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-4-yarisma-talimati-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası 3 ve 4 Yarışma Talim...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-ve-4-yarisma-talimati-11777",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası 3 ve 4 Yarışma Talim...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-ve-4-yarisma-talimati-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası 3 Yarışmamıza Protok...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-3-yarismamiza-protokol-ziyareti-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Federasyon Kupası-1 Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-1-yarisma-talimati",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Kış Oyunları Yarışma Talimatı",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-kis-oyunlari-yarisma-talimati--11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Nenehatun Kupası Yarışma Talimatı",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-nenehatun-kupasi-yarisma-talimati-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "short track turkiye sampiyonasi yarismasi talimati1778415008910",
+     "url": "https://buzpateni.org.tr/uploads/haberler/short-track-turkiye-sampiyonasi-yarismasi-talimati1778415008910.pdf",
+     "tur": "pdf",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Türkiye Şampiyonası Yarışma Talimatı ...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-turkiye-sampiyonasi-yarisma-talimati--11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Türkiye Şampiyonası Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-113233",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Türkiye Şampiyonası Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-111",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Türkiye Şampiyonası Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-114",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Short Track Türkiye Şampiyonası Yarışma Talimatı...",
+     "url": "https://buzpateni.org.tr/bildiri-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-11",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
+    {
+     "baslik": "Şifremi Unuttum",
+     "url": "https://buzpateni.org.tr/haber-detay/short-track-turkiye-sampiyonasi-yarisma-talimati-1115959#remember-password",
+     "tur": "html",
+     "onemli": false,
+     "parmak_izi": ""
+    },
     {
      "baslik": "Detaylı İncele",
      "url": "https://buzpateni.org.tr/uploads/duyurular-pdf/ÇOCUK KORUMA KURULU TALİMATI1608207983762.pdf",
@@ -1771,8 +2010,8 @@
      "guncellendi": "2026-11-16T12:02:19+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:34+00:00",
-   "list_fingerprint": "f76ee57c1cc0bc7e"
+   "checked_at": "2026-11-17T03:44:19+00:00",
+   "list_fingerprint": "c56f11d664f587da"
   },
   {
    "federation": "cimnastik",
@@ -1950,7 +2189,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-11-16T20:21:20+00:00",
+   "checked_at": "2026-11-17T03:44:18+00:00",
    "list_fingerprint": "d394ae1d05fed22a"
   },
   {
@@ -2408,7 +2647,7 @@
      "guncellendi": "2026-11-14T10:55:52+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:23+00:00",
+   "checked_at": "2026-11-17T03:44:20+00:00",
    "list_fingerprint": "63e31e0788e3d2df"
   },
   {
@@ -2715,7 +2954,7 @@
      "parmak_izi": "5e22928d2a876c61"
     }
    ],
-   "checked_at": "2026-11-16T20:21:33+00:00",
+   "checked_at": "2026-11-17T03:44:27+00:00",
    "list_fingerprint": "a05143c89894e7ff"
   },
   {
@@ -3009,7 +3248,7 @@
      "guncellendi": "2026-11-14T10:54:57+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:20+00:00",
+   "checked_at": "2026-11-17T03:44:17+00:00",
    "list_fingerprint": "6be740c7dd6e7422"
   },
   {
@@ -3298,7 +3537,7 @@
      "guncellendi": "2026-11-14T10:57:23+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:30+00:00",
+   "checked_at": "2026-11-17T03:44:25+00:00",
    "list_fingerprint": "57b1aa9d6a1b13f5"
   },
   {
@@ -3445,7 +3684,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-11-16T20:21:32+00:00",
+   "checked_at": "2026-11-17T03:44:25+00:00",
    "list_fingerprint": "f18c27cb5af426eb"
   },
   {
@@ -3664,7 +3903,7 @@
      "parmak_izi": "4055b2570944027a"
     }
    ],
-   "checked_at": "2026-11-16T20:21:36+00:00",
+   "checked_at": "2026-11-17T03:44:29+00:00",
    "list_fingerprint": "14c4199856507f47"
   },
   {
@@ -3898,7 +4137,7 @@
      "guncellendi": "2026-08-24T04:30:20+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:22+00:00",
+   "checked_at": "2026-11-17T03:44:20+00:00",
    "list_fingerprint": "7421ac0d16825275"
   },
   {
@@ -4715,7 +4954,7 @@
      "guncellendi": "2026-11-14T11:01:37+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:37+00:00",
+   "checked_at": "2026-11-17T03:44:28+00:00",
    "list_fingerprint": "588fc7d5f005ac8e"
   },
   {
@@ -5171,7 +5410,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-11-16T20:21:36+00:00",
+   "checked_at": "2026-11-17T03:44:28+00:00",
    "list_fingerprint": "497774e98ea65104"
   },
   {
@@ -5236,7 +5475,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-11-16T20:21:28+00:00",
+   "checked_at": "2026-11-17T03:44:23+00:00",
    "list_fingerprint": "e9b02385c685a478"
   },
   {
@@ -5497,7 +5736,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-11-16T20:21:29+00:00",
+   "checked_at": "2026-11-17T03:44:24+00:00",
    "list_fingerprint": "04034845fb8817a0"
   },
   {
@@ -5681,7 +5920,7 @@
      "guncellendi": "2026-11-14T10:56:38+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:27+00:00",
+   "checked_at": "2026-11-17T03:44:23+00:00",
    "list_fingerprint": "c667ccff66ef21b7"
   },
   {
@@ -5935,7 +6174,7 @@
      "guncellendi": "2026-11-16T12:04:55+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:35+00:00",
+   "checked_at": "2026-11-17T03:44:28+00:00",
    "list_fingerprint": "caaf155ac4f106b1"
   },
   {
@@ -6245,7 +6484,7 @@
      "parmak_izi": ""
     }
    ],
-   "checked_at": "2026-11-16T20:21:14+00:00",
+   "checked_at": "2026-11-17T03:44:13+00:00",
    "list_fingerprint": "986bcdc0ec83f110"
   },
   {
@@ -6493,7 +6732,7 @@
      "parmak_izi": "813bf5e5cb9da85c"
     }
    ],
-   "checked_at": "2026-11-16T20:21:21+00:00",
+   "checked_at": "2026-11-17T03:44:18+00:00",
    "list_fingerprint": "8bb56c7a09dffdaf"
   },
   {
@@ -6690,7 +6929,7 @@
      "parmak_izi": "0d91d54d9fbc151e"
     }
    ],
-   "checked_at": "2026-11-16T20:21:23+00:00",
+   "checked_at": "2026-11-17T03:44:20+00:00",
    "list_fingerprint": "435af2e72b50e1e1"
   },
   {
@@ -6886,7 +7125,7 @@
      "parmak_izi": "7b4c88124c1d3b61"
     }
    ],
-   "checked_at": "2026-11-16T20:21:35+00:00",
+   "checked_at": "2026-11-17T03:44:28+00:00",
    "list_fingerprint": "b431d31ee8fdb5d7"
   },
   {
@@ -7064,7 +7303,7 @@
      "guncellendi": "2026-11-14T10:55:13+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:20+00:00",
+   "checked_at": "2026-11-17T03:44:17+00:00",
    "list_fingerprint": "a29d2698c91c6646"
   },
   {
@@ -7291,7 +7530,7 @@
      "parmak_izi": "b20b82bce69e99d2"
     }
    ],
-   "checked_at": "2026-11-16T20:21:17+00:00",
+   "checked_at": "2026-11-17T03:44:15+00:00",
    "list_fingerprint": "eb2596d4c001e57d"
   },
   {
@@ -7521,7 +7760,7 @@
      "guncellendi": "2026-11-14T10:56:12+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:26+00:00",
+   "checked_at": "2026-11-17T03:44:22+00:00",
    "list_fingerprint": "523919e58b16a5a4"
   },
   {
@@ -7843,7 +8082,7 @@
      "guncellendi": "2026-11-14T10:57:37+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:26+00:00",
+   "checked_at": "2026-11-17T03:44:22+00:00",
    "list_fingerprint": "294402b7b7fc4cde"
   },
   {
@@ -8083,7 +8322,7 @@
      "parmak_izi": "31789ace8fdb0fae"
     }
    ],
-   "checked_at": "2026-11-16T20:21:20+00:00",
+   "checked_at": "2026-11-17T03:44:19+00:00",
    "list_fingerprint": "37b8220bdf42eb46"
   },
   {
@@ -8130,7 +8369,7 @@
      "guncellendi": "2026-11-16T12:04:30+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:32+00:00",
+   "checked_at": "2026-11-17T03:44:26+00:00",
    "list_fingerprint": "1255cf3a8bd73311"
   },
   {
@@ -8579,7 +8818,7 @@
      "parmak_izi": "18801731769caa0c"
     }
    ],
-   "checked_at": "2026-11-16T20:21:25+00:00",
+   "checked_at": "2026-11-17T03:44:21+00:00",
    "list_fingerprint": "7716bcea62e308eb"
   },
   {
@@ -8752,7 +8991,7 @@
      "guncellendi": "2026-11-16T12:03:45+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:27+00:00",
+   "checked_at": "2026-11-17T03:44:23+00:00",
    "list_fingerprint": "4b12d8168c4fd7e4"
   },
   {
@@ -9037,7 +9276,7 @@
      "parmak_izi": "522c8d51c4e07ea9"
     }
    ],
-   "checked_at": "2026-11-16T20:21:32+00:00",
+   "checked_at": "2026-11-17T03:44:27+00:00",
    "list_fingerprint": "34c2f3c3c99789e1"
   },
   {
@@ -9235,7 +9474,7 @@
      "guncellendi": "2026-11-16T12:02:37+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:24+00:00",
+   "checked_at": "2026-11-17T03:44:20+00:00",
    "list_fingerprint": "b23e64d94d3eb62b"
   },
   {
@@ -9584,7 +9823,7 @@
      "guncellendi": "2026-11-14T11:01:26+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:25+00:00",
+   "checked_at": "2026-11-17T03:44:23+00:00",
    "list_fingerprint": "e234fce010a1944d"
   },
   {
@@ -9782,7 +10021,7 @@
      "parmak_izi": "e74514c671972af7"
     }
    ],
-   "checked_at": "2026-11-16T20:21:19+00:00",
+   "checked_at": "2026-11-17T03:44:17+00:00",
    "list_fingerprint": "b27253e95ffadc35"
   },
   {
@@ -10114,7 +10353,7 @@
      "parmak_izi": "17b7b23916751d22"
     }
    ],
-   "checked_at": "2026-11-16T20:21:16+00:00",
+   "checked_at": "2026-11-17T03:44:14+00:00",
    "list_fingerprint": "1e480bfb1ebea5ee"
   },
   {
@@ -10294,7 +10533,7 @@
      "parmak_izi": "a1caa666f647bfc7"
     }
    ],
-   "checked_at": "2026-11-16T20:21:22+00:00",
+   "checked_at": "2026-11-17T03:44:19+00:00",
    "list_fingerprint": "096a9c6fc2f59432"
   },
   {
@@ -10394,7 +10633,7 @@
      "guncellendi": "2026-11-16T12:04:36+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:34+00:00",
+   "checked_at": "2026-11-17T03:44:27+00:00",
    "list_fingerprint": "3889dac0e0ca78cf"
   },
   {
@@ -10657,7 +10896,7 @@
      "guncellendi": "2026-11-16T12:00:28+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:15+00:00",
+   "checked_at": "2026-11-17T03:44:13+00:00",
    "list_fingerprint": "1ac5ca7aa0dc2abb"
   },
   {
@@ -10707,7 +10946,7 @@
      "guncellendi": "2026-11-14T10:56:17+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:26+00:00",
+   "checked_at": "2026-11-17T03:44:21+00:00",
    "list_fingerprint": "fb5d3bdd2eacbeee"
   },
   {
@@ -10776,7 +11015,7 @@
      "parmak_izi": "c44757adecab33df"
     }
    ],
-   "checked_at": "2026-11-16T20:21:20+00:00",
+   "checked_at": "2026-11-17T03:44:18+00:00",
    "list_fingerprint": "3a9014f2337e89fa"
   },
   {
@@ -11037,7 +11276,7 @@
      "guncellendi": "2026-11-16T12:00:37+00:00"
     }
    ],
-   "checked_at": "2026-11-16T20:21:16+00:00",
+   "checked_at": "2026-11-17T03:44:14+00:00",
    "list_fingerprint": "f945f89439b77e80"
   }
  ]

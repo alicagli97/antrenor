@@ -1,5 +1,37 @@
 [
  {
+  "id": "a3c9d9b9d6ff27e9",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Artistik Buz Pateni Test Yarışması / Gebze",
+  "url": "https://buzpateni.org.tr/bildiri-detay/artistik-buz-pateni-test-yarismasi-gebze-13414199",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-11-17T03:50:09+00:00",
+  "first_seen_at": "2026-11-17T03:50:09+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b83b5c8233f3c48a",
+  "federation": "okculuk",
+  "federation_name": "Türkiye Okçuluk Federasyonu",
+  "federation_short": "TOF",
+  "title": "Türkiye Okçuluk Federasyonu Başkanımız Abdullah Topaloğlu’ndan Fatsa’ya Ziyaret",
+  "url": "https://www.okculuk.org.tr/turkiye-okculuk-federasyonu-baskanimiz-abdullah-topaloglundan-fatsaya-ziyaret/",
+  "summary": "Türkiye Okçuluk Federasyonu Başkanımız Sayın Abdullah Topaloğlu, Fatsa ilçesinde bir dizi resmî ziyaret gerçekleştirdi. Ziyaretler kapsamında Fatsa Kaymakamı Sayın Mustafa Ünver Böke ve Fatsa Belediye Başkanı Sayın İbrahim Etem Kibar ile bir araya gelen Başkanımız Abdullah Topaloğlu, ilçede okçuluk sporunun gelişimi ve yürütülen çalışmalar hakkında görüş alışverişinde bulundu. Görüşmelerde, Fatsa’da okçuluk sporunun yaygınlaştırılması, sporcuların yetiştirilmesi […]",
+  "image": "https://www.okculuk.org.tr/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-16-at-17.19.05.jpeg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-16T20:44:21+00:00",
+  "first_seen_at": "2026-11-17T03:50:09+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "fee5f05570804457",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -3101,43 +3133,6 @@
   "url": "https://www.gosbf.org.tr/07-08-kasim-2026-hemsball-aday-hakem-kursu-erzurum/",
   "summary": "açılacaktır. Kursa katılmak isteyenlerin federasyonumuzun aşağıda… 10 Kasım 2026 Oku",
   "image": "https://www.gosbf.org.tr/wp-content/uploads/2026/11/web-sayfasi-2026-10-27t132918.459-640x400.webp",
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "hakem"
-  ],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
-  "id": "276c475171cfb2d8",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Duyurular GOSBF 26 Eki 2026 Duyurular KURAŞ ONLİNE HAKEM TERFİ KURSU VE SINAV TARİHİ GÜNCELLENMİŞTİR ! 31 Ekim 2026 tarihinde online olarak…",
-  "url": "https://www.gosbf.org.tr/kuras-online-hakem-terfi-kursu-ve-sinav-tarihi-guncellenmistir/",
-  "summary": "gerçekleştirilecek Kuraş Hakem Terfi Kursu ve Sınavı 01 Kasım 2026… 26 Ekim 2026 Oku",
-  "image": null,
-  "category": "duyuru",
-  "tags": [
-   "kurs",
-   "terfi",
-   "hakem"
-  ],
-  "published_at": "2026-11-10T17:02:11+00:00",
-  "first_seen_at": "2026-11-10T17:02:11+00:00",
-  "source": "html"
- },
- {
-  "id": "e641c12e08a3eb03",
-  "federation": "gelismekteolan",
-  "federation_name": "Türkiye Gelişmekte Olan Spor Branşları Federasyonu",
-  "federation_short": "GOSBF",
-  "title": "Duyurular GOSBF 16 Eki 2026 Duyurular 17-18 EKİM 2026 HEMSBALL ADAY HAKEM KURSU / SİVAS KATILIMCI LİSTESİ 17-18 Ekim 2026 tarihlerinde Sivas ilinde…",
-  "url": "https://www.gosbf.org.tr/17-18-ekim-2026-hemsball-aday-hakem-kursu-sivas-katilimci-listesi/",
-  "summary": "gerçekleştirilecek Hemsball Aday Hakem Kursu katılımcı listesine aşağıda mevcut link… 16 Ekim 2026 Oku",
-  "image": null,
   "category": "duyuru",
   "tags": [
    "kurs",

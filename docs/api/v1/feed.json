@@ -1,5 +1,41 @@
 [
  {
+  "id": "04ff906719685023",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 483 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-18T04:10:31+00:00",
+  "first_seen_at": "2026-11-18T04:10:31+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "fba1f51d20749778",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "Eskrim faaliyet takviminde değişiklik",
+  "url": "https://www.eskrim.org.tr/faaliyet-takvimine-alinan-kamplar-hakkinda-2196.html",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-18T04:10:10+00:00",
+  "first_seen_at": "2026-11-18T04:10:10+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "e57d5551a4f0a37a",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -5042,46 +5078,6 @@
   ],
   "published_at": "2026-11-13T15:24:32+00:00",
   "first_seen_at": "2026-11-13T16:12:38+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "6126e3255acf93a6",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "EHF Master Coach ve Pro Lisans Kursu Özel Edisyon Programı Duyurusu",
-  "url": "https://thf.org.tr/haber/ehf-master-coach-ve-pro-lisans-kursu-ozel-edisyon-programi-duyurusu",
-  "summary": "Avrupa Hentbol Federasyonu (EHF), EHF müsabakalarında Pro Lisans sahibi antrenörlere yönelik artan talebi karşılamak ve ulusal federasyonları desteklemek amacıyla 2027/2028 EHF Master Coach ve Pro Lisans Kursu – Özel Edisyon programını düzenleyecektir. Kurs takvimi • Modül I: 26–30 Mayıs 2027, Budapeşte / Macaristan — EHF FINAL4 kapsamında. • Modül II: 17–23 Ocak 2028, Valensiya / İspanya — Erkekler EHF EURO 2028 kapsamında. • Modül III: Tarih ve yer daha sonra açıklanacaktır. Başvuru bilgileri Son başvuru tarihi 5 Aralık 2026 olup kursun azami katılımcı sayısı 25 olarak belirlenmiştir. Başvur",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "kurs",
-   "musabaka",
-   "transfer",
-   "burs"
-  ],
-  "published_at": "2026-11-13T12:30:54+00:00",
-  "first_seen_at": "2026-11-13T16:12:38+00:00",
-  "source": "api"
- },
- {
-  "id": "6c801eb6a5696f30",
-  "federation": "atletizm",
-  "federation_name": "Türkiye Atletizm Federasyonu",
-  "federation_short": "TAF",
-  "title": "2026-2027 Sezonu için Antrenör Vize Başvuruları Başladı",
-  "url": "https://taf.org.tr/2026-2027-sezonu-icin-antrenor-vize-basvurulari-basladi/",
-  "summary": "2026-2027 Sezonunda vizeli antrenör olmak için başvurular başladı. Antrenör vize başvurusu öncesinde e-devlet Spor Bilgi Sistemi’nde yer alan fotoğrafların güncellenmesi gerekmektedir. Aksi takdirde başvurulara onay verilemeyecektir. Fotoğrafı güncellemek için: e-devlet “Spor Bilgi Sistemi‘ne giriş yaparak sağ üst kısımda yer alan “ad-soyad” yazılı bölümünden “profil” sekmesi tıklanır. Fotoğraf değiştirme ekranından “nvi fotoğraf getir” sekmesi seçilerek “onaylıyorum” sekmesi işaretlenir. Kimlik kartında […]",
-  "image": "https://taf.org.tr/wp-content/uploads/2026/10/DUYURU.png",
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "vize",
-   "burs"
-  ],
-  "published_at": "2026-11-13T09:05:51+00:00",
-  "first_seen_at": "2026-11-14T10:13:19+00:00",
   "source": "wp_json"
  }
 ]

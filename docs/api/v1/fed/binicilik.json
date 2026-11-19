@@ -1,5 +1,23 @@
 [
  {
+  "id": "70a79382b553c16a",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-19T21:25:11+00:00",
+  "first_seen_at": "2026-11-19T21:25:11+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "d7266fa56118c910",
   "federation": "binicilik",
   "federation_name": "Türkiye Binicilik Federasyonu",
@@ -1057,21 +1075,6 @@
   "title": "TBF Duyuru No: 151/2026 Manisa 8 Eylül Atlı Spor Kulübü Kategori Belgesi Sınavı",
   "url": "https://binicilik.org.tr/duyurular/tbf-duyuru-no-1512026-manisa-8-eylul-atli-spor-kulubu-kategori-belgesi-sinavi",
   "summary": "18 KASIM - Çarşamba 21 Kasım 2026 Cumartesi günü saat 10.00’da Manisa 8 Eylül Atlı Spor Kulübü Kategori Belgesi Sınavı yapılacaktır.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-18T00:00:00+00:00",
-  "first_seen_at": "2026-11-18T13:51:21+00:00",
-  "source": "html"
- },
- {
-  "id": "6adbcc7d02e5c1fe",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "TBF Duyuru No: 150/2026 Magıcal Clup Spor Kulübü Kategori Belgesi Sınavı",
-  "url": "https://binicilik.org.tr/duyurular/tbf-duyuru-no-1502026-magical-clup-spor-kulubu-kategori-belgesi-sinavi",
-  "summary": "18 KASIM - Çarşamba 20 Kasım 2026 Cuma günü saat 10.00’da Magıcal Clup Spor Kulübü Kategori Belgesi Sınavı yapılacaktır.",
   "image": null,
   "category": "duyuru",
   "tags": [],

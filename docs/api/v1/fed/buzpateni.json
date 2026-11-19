@@ -1,5 +1,23 @@
 [
  {
+  "id": "f45c13c5afd51022",
+  "federation": "buzpateni",
+  "federation_name": "Türkiye Buz Pateni Federasyonu",
+  "federation_short": "TBPF",
+  "title": "Buz Pateni faaliyet takviminde değişiklik",
+  "url": "https://buzpateni.org.tr/faaliyet-programi-artistik",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 30 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-19T21:25:14+00:00",
+  "first_seen_at": "2026-11-19T21:25:14+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "19f92ca39127bb78",
   "federation": "buzpateni",
   "federation_name": "Türkiye Buz Pateni Federasyonu",
@@ -1054,24 +1072,6 @@
   ],
   "published_at": "2026-11-13T16:10:54+00:00",
   "first_seen_at": "2026-11-13T16:10:54+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "c6fc8ba6c9bf5f18",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Mevzuat güncellendi: Şifremi Unuttum",
-  "url": "https://buzpateni.org.tr/duyuru-detay/cocuk-koruma-kurulu-talimati-d#remember-password",
-  "summary": "Türkiye Buz Pateni Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-13T11:31:26+00:00",
-  "first_seen_at": "2026-11-13T11:31:26+00:00",
   "source": "mevzuat"
  }
 ]

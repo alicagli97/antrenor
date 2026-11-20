@@ -6,8 +6,16 @@
  "type": "html",
  "label": "Tüm Faaliyetleri Gör",
  "fingerprint": "24579a303b0fe1a7",
- "event_count": 483,
+ "event_count": 484,
  "events": [
+  {
+   "ad": "Artistik Cimnastik Genç Erkekler Milli Takım Hazırlık Kampı",
+   "tarih": "2026-12-06",
+   "tarih_metni": "2026.12.12 06.12.2026 - 12.12.2026",
+   "yer": "Bolu",
+   "brans": "Kamp",
+   "satir": "2026 | Kamp | Artistik Cimnastik Genç Erkekler Milli Takım Hazırlık Kampı | Erkek Artistik Cimnastik | Bolu | 2026.12.12 06.12.2026 - 12.12.2026 | İncele"
+  },
   {
    "ad": "Ritmik Cimnastik Hakem Vize Semineri",
    "tarih": "2027-01-22",
@@ -3199,18 +3207,10 @@
    "yer": "Ankara",
    "brans": "Kurs",
    "satir": "2026 | Kurs | 2. Kademe Temel Eğitmenlik Kursu | Pilates | Ankara | 2026.03.14 09.03.2026 - 14.03.2026 | Katılımcı Listesi İncele"
-  },
-  {
-   "ad": "1. Kademe Yardımcı Eğitmenlik Kursu",
-   "tarih": "2026-03-08",
-   "tarih_metni": "2026.03.13 08.03.2026 - 13.03.2026",
-   "yer": "İstanbul",
-   "brans": "Kurs",
-   "satir": "2026 | Kurs | 1. Kademe Yardımcı Eğitmenlik Kursu | Genel Cimnastik Hareket Eğitimi | İstanbul | 2026.03.13 08.03.2026 - 13.03.2026 | Katılımcı Listesi İncele"
   }
  ],
- "checked_at": "2026-11-20T11:23:02",
- "bekleyen_iz": "84633e6fa917834f",
+ "checked_at": "2026-11-20T20:06:54",
+ "bekleyen_iz": "9abd983407df1dde",
  "changed_at": "2026-11-19T03:19:15+00:00",
  "parmak_izi": "24579a303b0fe1a7"
 }

@@ -1,5 +1,77 @@
 [
  {
+  "id": "cda34c0cd011e59f",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: TTF Dopingle Mücadele Talimatı 2027 yılı yasaklılar listesi",
+  "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati-2027-yili-yasaklilar-listesi-1572.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-21T01:25:49+00:00",
+  "first_seen_at": "2026-11-21T01:25:49+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "27687f94d059f91b",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-21T01:23:54+00:00",
+  "first_seen_at": "2026-11-21T01:23:54+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "f1f8b0aff4966dea",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 484 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-21T01:23:54+00:00",
+  "first_seen_at": "2026-11-21T01:23:54+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "c9730c78ebd02a49",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-21T01:23:51+00:00",
+  "first_seen_at": "2026-11-21T01:23:51+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "5878678e568bb2ea",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -107351,81 +107423,6 @@
   ],
   "published_at": "2026-10-30T10:31:00+00:00",
   "first_seen_at": "2026-10-30T10:31:00+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "201795fa45c6aad0",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Spor Kulüpleri Tarafından Tutulacak Defter ve Kayıtlar Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=39705&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-30T10:31:00+00:00",
-  "first_seen_at": "2026-10-30T10:31:00+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "9f8e1839cb0ac3bb",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Kamu Taşınmazları Üzerinde Eğitim ve Yurt Faaliyetleri İçin İrtifak Hakkı Tesis Edilmesine ve Kullanma İzni Verilmesine İlişkin Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23773&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-30T10:30:59+00:00",
-  "first_seen_at": "2026-10-30T10:30:59+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "90a54df1961c4b4e",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Mevzuat güncellendi: Faal Sporculuğu Bırakma Törenleri Hakkında Yönetmelik",
-  "url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4165&MevzuatTur=7&MevzuatTertip=5",
-  "summary": "Gençlik ve Spor Bakanlığı mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-10-30T10:30:55+00:00",
-  "first_seen_at": "2026-10-30T10:30:55+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "d65f054ad282f971",
-  "federation": "ragbi",
-  "federation_name": "Türkiye Ragbi Federasyonu",
-  "federation_short": "TRF",
-  "title": "Mevzuat güncellendi: BAYRAK(FLAG) FUTBOL KURAL KİTABI",
-  "url": "https://trf.gov.tr/?page_id=1071",
-  "summary": "Türkiye Ragbi Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-10-30T10:30:54+00:00",
-  "first_seen_at": "2026-10-30T10:30:54+00:00",
   "source": "mevzuat"
  }
 ]

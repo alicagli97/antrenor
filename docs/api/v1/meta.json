@@ -1,16 +1,12 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-21T01:30:18+00:00",
+ "generated_at": "2026-11-21T09:41:08+00:00",
  "total": 6000,
- "new_in_last_run": 561,
- "sources_ok": 58,
+ "new_in_last_run": 586,
+ "sources_ok": 62,
  "sources_failed": [
   "basketbol",
   "beyzbol",
-  "bisiklet",
-  "boks",
-  "dagcilik",
-  "isitmeengelliler",
   "wushu"
  ],
  "sources_empty": [

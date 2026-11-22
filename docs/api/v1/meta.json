@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-22T12:00:21+00:00",
- "total": 6000,
- "new_in_last_run": 1,
+ "generated_at": "2026-11-22T12:07:01+00:00",
+ "total": 6001,
+ "new_in_last_run": 0,
  "sources_ok": 62,
  "sources_failed": [
   "basketbol",
@@ -14,12 +14,11 @@
  ],
  "sources_missing": [],
  "partial_run": [
-  "basketbol",
-  "binicilik"
+  "yeniden-uretim"
  ],
- "latest_published_at": "2026-11-22T11:06:53+00:00",
+ "latest_published_at": "2026-11-22T12:02:47+00:00",
  "categories": {
-  "mevzuat": 4920,
+  "mevzuat": 4921,
   "takvim": 45,
   "duyuru": 659,
   "musabaka": 187,
@@ -44,6 +43,7 @@
   }
  ],
  "federation_counts": {
+  "oryantiring": 55,
   "triatlon": 218,
   "binicilik": 239,
   "basketbol": 85,
@@ -55,7 +55,6 @@
   "bocce": 397,
   "badminton": 14,
   "dagcilik": 668,
-  "oryantiring": 54,
   "shgm": 40,
   "ozelsporcular": 157,
   "izcilik": 595,

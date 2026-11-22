@@ -1,5 +1,71 @@
 [
  {
+  "id": "cda34c0cd011e59f",
+  "federation": "triatlon",
+  "federation_name": "Türkiye Triatlon Federasyonu",
+  "federation_short": "TTF",
+  "title": "Yeni mevzuat: TTF Dopingle Mücadele Talimatı 2027 yılı yasaklılar listesi",
+  "url": "https://triatlon.org.tr/ttf-dopingle-mucadele-talimati-2027-yili-yasaklilar-listesi-1572.html",
+  "summary": "Triatlon federasyonunda yeni bir talimat/yönetmelik yayımlandı.",
+  "image": null,
+  "category": "mevzuat",
+  "tags": [
+   "mevzuat",
+   "talimat"
+  ],
+  "published_at": "2026-11-22T11:06:53+00:00",
+  "first_seen_at": "2026-11-22T11:06:53+00:00",
+  "source": "mevzuat"
+ },
+ {
+  "id": "865d5d6810a64c17",
+  "federation": "binicilik",
+  "federation_name": "Türkiye Binicilik Federasyonu",
+  "federation_short": "TBF",
+  "title": "Binicilik faaliyet takviminde değişiklik",
+  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-22T11:06:07+00:00",
+  "first_seen_at": "2026-11-22T11:06:07+00:00",
+  "source": "takvim-html"
+ },
+ {
+  "id": "dfea09e54bce653d",
+  "federation": "karate",
+  "federation_name": "Türkiye Karate Federasyonu",
+  "federation_short": "TKF",
+  "title": "Erkek Kumite Millî Takımımız Dünya İkincisi Oldu",
+  "url": "https://karate.gov.tr/blog_detay.php?id=117",
+  "summary": "HABER Ulusal Haberler Karate Dünya Kupası’nda Erkek Kumite Millî Takımımız, gümüş madalya kazanarak dünya ikincisi oldu.... DEVAMINI OKU",
+  "image": "https://karate.gov.tr/uploads/blog/blog_1795344048_803.webp",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-22T00:00:00+00:00",
+  "first_seen_at": "2026-11-22T11:09:04+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0a8aaf6ae124bc6a",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak, Para Tekvandocuları Kutladı",
+  "url": "https://gsb.gov.tr/tr/haber-detay/305628-bakan-bak-para-tekvandoculari-kutladi",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/83e0071a-fe3d-4e9a-8840-8bb8e0297694.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-22T00:00:00+00:00",
+  "first_seen_at": "2026-11-22T11:09:04+00:00",
+  "source": "html"
+ },
+ {
   "id": "c521f3e932fe6651",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -2073,24 +2139,6 @@
   "federation_short": "TBBDF",
   "title": "Mevzuat güncellendi: Bowling Salonları Denetleme...",
   "url": "https://tbbdf.org.tr/tr/bowling_salonlari_denetleme_talimati",
-  "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-21T11:47:06+00:00",
-  "first_seen_at": "2026-11-21T11:47:06+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "17d8de7414e1b847",
-  "federation": "bocce",
-  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
-  "federation_short": "TBBDF",
-  "title": "Mevzuat güncellendi: Bowling Salonları Yeterlilik...",
-  "url": "https://tbbdf.org.tr/tr/bowling_salonlar_yeterlilik_talimat",
   "summary": "Türkiye Bocce Bowling ve Dart Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
   "image": null,
   "category": "mevzuat",
@@ -4955,36 +5003,6 @@
   "source": "html"
  },
  {
-  "id": "6adbcc7d02e5c1fe",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "TBF Duyuru No: 150/2026 Magıcal Clup Spor Kulübü Kategori Belgesi Sınavı",
-  "url": "https://binicilik.org.tr/duyurular/tbf-duyuru-no-1502026-magical-clup-spor-kulubu-kategori-belgesi-sinavi",
-  "summary": "18 KASIM - Çarşamba 20 Kasım 2026 Cuma günü saat 10.00’da Magıcal Clup Spor Kulübü Kategori Belgesi Sınavı yapılacaktır.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-18T00:00:00+00:00",
-  "first_seen_at": "2026-11-18T13:51:21+00:00",
-  "source": "html"
- },
- {
-  "id": "900be3d782587880",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Bakan Bak Özel Sporcular Down Yüzme Milli Takımını Kabul Etti",
-  "url": "https://gsb.gov.tr/tr/haber-detay/305567-bakan-bak-ozel-sporcular-down-yuzme-milli-takimini-kabul-etti",
-  "summary": "",
-  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/5ba75bad-c47e-4a37-91e5-bf4735198045.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-18T00:00:00+00:00",
-  "first_seen_at": "2026-11-18T13:51:21+00:00",
-  "source": "html"
- },
- {
   "id": "ad690749fe94b312",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -5102,23 +5120,5 @@
   "published_at": "2026-11-17T22:13:55+00:00",
   "first_seen_at": "2026-11-17T22:13:55+00:00",
   "source": "html"
- },
- {
-  "id": "a7eb02215bdc485b",
-  "federation": "binicilik",
-  "federation_name": "Türkiye Binicilik Federasyonu",
-  "federation_short": "TBF",
-  "title": "Binicilik faaliyet takviminde değişiklik",
-  "url": "https://binicilik.org.tr/faaliyetler/yarisma-programlari",
-  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 15 faaliyet listeleniyor.",
-  "image": null,
-  "category": "takvim",
-  "tags": [
-   "takvim",
-   "faaliyet"
-  ],
-  "published_at": "2026-11-17T22:12:05+00:00",
-  "first_seen_at": "2026-11-17T22:12:05+00:00",
-  "source": "takvim-html"
  }
 ]

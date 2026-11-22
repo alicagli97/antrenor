@@ -1,5 +1,35 @@
 [
  {
+  "id": "dfea09e54bce653d",
+  "federation": "karate",
+  "federation_name": "Türkiye Karate Federasyonu",
+  "federation_short": "TKF",
+  "title": "Erkek Kumite Millî Takımımız Dünya İkincisi Oldu",
+  "url": "https://karate.gov.tr/blog_detay.php?id=117",
+  "summary": "HABER Ulusal Haberler Karate Dünya Kupası’nda Erkek Kumite Millî Takımımız, gümüş madalya kazanarak dünya ikincisi oldu.... DEVAMINI OKU",
+  "image": "https://karate.gov.tr/uploads/blog/blog_1795344048_803.webp",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-22T00:00:00+00:00",
+  "first_seen_at": "2026-11-22T11:09:04+00:00",
+  "source": "html"
+ },
+ {
+  "id": "0a8aaf6ae124bc6a",
+  "federation": "gsb",
+  "federation_name": "Gençlik ve Spor Bakanlığı",
+  "federation_short": "GSB",
+  "title": "Bakan Bak, Para Tekvandocuları Kutladı",
+  "url": "https://gsb.gov.tr/tr/haber-detay/305628-bakan-bak-para-tekvandoculari-kutladi",
+  "summary": "",
+  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/83e0071a-fe3d-4e9a-8840-8bb8e0297694.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-22T00:00:00+00:00",
+  "first_seen_at": "2026-11-22T11:09:04+00:00",
+  "source": "html"
+ },
+ {
   "id": "d4fff89a1674b9a0",
   "federation": "buzpateni",
   "federation_name": "Türkiye Buz Pateni Federasyonu",
@@ -3077,35 +3107,5 @@
   "published_at": "2026-11-13T22:36:17+00:00",
   "first_seen_at": "2026-11-13T22:36:17+00:00",
   "source": "html"
- },
- {
-  "id": "375ac9d364e44823",
-  "federation": "bedenselengelliler",
-  "federation_name": "Türkiye Bedensel Engelliler Spor Federasyonu",
-  "federation_short": "TBESF",
-  "title": "İtiraz Sonucu Güncellenen Delege Listesi",
-  "url": "https://www.tbesf.org.tr/tr/itiraz-sonucu-guncellenen-delege-listesi",
-  "summary": "",
-  "image": "https://www.tbesf.org.tr/userFiles/upload/bulten/kucuk/585-113e3eb4-02cc-4920-b731-008020329992.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-13T22:36:17+00:00",
-  "first_seen_at": "2026-11-13T22:36:17+00:00",
-  "source": "html"
- },
- {
-  "id": "67571d64284a596c",
-  "federation": "hentbol",
-  "federation_name": "Türkiye Hentbol Federasyonu",
-  "federation_short": "THF",
-  "title": "Yalıkavak Spor Kulübü, Avrupa Kupası 3. Turu'nda HC Byala'yı Farklı Mağlup Etti",
-  "url": "https://thf.org.tr/haber/yalikavak-spor-kulubu-avrupa-kupasi-3-turunda-hc-byalayi-farkli-maglup-etti",
-  "summary": "Yalıkavak Spor Kulübü, EHF Kadınlar Avrupa Kupası 3. Eleme Turu ilk maçında Bulgaristan temsilcisi HC Byala'yı deplasmanda 38-21 mağlup etti. Temsilcimiz, elde ettiği 17 sayılık farkla rövanş karşılaşması öncesinde önemli bir avantaj yakaladı. İki maçın da Bodrum Binnaz Karakaya Spor Salonu'nda oynandığı eşleşmede rövanş mücadelesi 15 Kasım Pazar günü saat 17.00'de başlayacak. Karşılaşma tabii Spor ekranlarından canlı olarak yayınlanacak.",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-13T21:39:32+00:00",
-  "first_seen_at": "2026-11-13T22:36:17+00:00",
-  "source": "api"
  }
 ]

@@ -73,14 +73,6 @@
    "satir": "İASK ENGEL ATLAMA YARIŞMALARI | İSTANBUL ATLI SPOR KULÜBÜ | İSTANBUL | 28.11.2026 | 29.11.2026"
   },
   {
-   "ad": "KCC ENGEL ATLAMA YARIŞMALARI",
-   "tarih": "2026-11-21",
-   "tarih_metni": "21.11.2026",
-   "yer": "İSTANBUL",
-   "brans": "",
-   "satir": "KCC ENGEL ATLAMA YARIŞMALARI | KEMER COUNTRY CLUB | İSTANBUL | 21.11.2026 | 22.11.2026"
-  },
-  {
    "ad": "ADANA ATLI SPOR KULÜBÜ TEŞVİK YARIŞMALARI",
    "tarih": "2026-11-21",
    "tarih_metni": "21.11.2026",
@@ -127,10 +119,18 @@
    "yer": "İSTANBUL",
    "brans": "",
    "satir": "MAGICAL CLUB CSI 1* | MAGICAL CLUB SPOR KULÜBÜ | İSTANBUL | 07.11.2026 | 08.11.2026"
+  },
+  {
+   "ad": "İASK ENGEL ATLAMA YARIŞMALARI",
+   "tarih": "2026-11-07",
+   "tarih_metni": "07.11.2026",
+   "yer": "İSTANBUL",
+   "brans": "",
+   "satir": "İASK ENGEL ATLAMA YARIŞMALARI | İSTANBUL ATLI SPOR KULÜBÜ | İSTANBUL | 07.11.2026 | 08.11.2026"
   }
  ],
- "checked_at": "2026-11-23T08:55:05",
- "bekleyen_iz": null,
+ "checked_at": "2026-11-23T21:13:43",
+ "bekleyen_iz": "f21f100e771ecd6d",
  "changed_at": "2026-11-22T11:06:07+00:00",
  "parmak_izi": "925468a055aae74b"
 }

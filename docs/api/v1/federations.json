@@ -399,8 +399,8 @@
   ],
   "olympic": true,
   "para": false,
-  "announcement_count": 0,
-  "last_announcement_at": null,
+  "announcement_count": 1,
+  "last_announcement_at": "2026-11-22T19:25:14+00:00",
   "topic": "fed_pentatlon"
  },
  {
@@ -571,8 +571,8 @@
   ],
   "olympic": false,
   "para": false,
-  "announcement_count": 32,
-  "last_announcement_at": "2026-11-21T11:47:17+00:00",
+  "announcement_count": 33,
+  "last_announcement_at": "2026-11-22T00:00:00+00:00",
   "topic": "fed_motosiklet"
  },
  {
@@ -702,8 +702,8 @@
   ],
   "olympic": false,
   "para": true,
-  "announcement_count": 39,
-  "last_announcement_at": "2026-11-20T20:10:14+00:00",
+  "announcement_count": 41,
+  "last_announcement_at": "2026-11-23T00:15:46+00:00",
   "topic": "fed_gormeengelliler"
  },
  {
@@ -817,8 +817,8 @@
   ],
   "olympic": false,
   "para": false,
-  "announcement_count": 8,
-  "last_announcement_at": "2026-11-09T16:06:13+00:00",
+  "announcement_count": 9,
+  "last_announcement_at": "2026-11-23T00:15:46+00:00",
   "topic": "fed_beyzbol"
  },
  {
@@ -832,7 +832,7 @@
   ],
   "olympic": true,
   "para": false,
-  "announcement_count": 75,
+  "announcement_count": 73,
   "last_announcement_at": "2026-11-21T23:05:01+00:00",
   "topic": "fed_ragbi"
  },
@@ -928,7 +928,7 @@
   ],
   "olympic": false,
   "para": false,
-  "announcement_count": 584,
+  "announcement_count": 583,
   "last_announcement_at": "2026-11-21T11:49:12+00:00",
   "topic": "fed_izcilik"
  },
@@ -975,7 +975,7 @@
   ],
   "olympic": false,
   "para": false,
-  "announcement_count": 739,
+  "announcement_count": 734,
   "last_announcement_at": "2026-11-22T00:00:00+00:00",
   "topic": "fed_gsb"
  },

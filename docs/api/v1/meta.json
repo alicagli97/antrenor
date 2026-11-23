@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-23T08:58:06+00:00",
+ "generated_at": "2026-11-23T09:00:25+00:00",
  "total": 5996,
- "new_in_last_run": 574,
+ "new_in_last_run": 0,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -12,7 +12,10 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol",
+  "binicilik"
+ ],
  "latest_published_at": "2026-11-23T08:58:06+00:00",
  "categories": {
   "duyuru": 675,

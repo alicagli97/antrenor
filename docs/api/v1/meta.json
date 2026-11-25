@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-25T02:23:42+00:00",
+ "generated_at": "2026-11-25T04:59:52+00:00",
  "total": 6000,
- "new_in_last_run": 540,
+ "new_in_last_run": 2,
  "sources_ok": 58,
  "sources_failed": [
   "basketbol",
@@ -17,7 +17,10 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol",
+  "binicilik"
+ ],
  "latest_published_at": "2026-11-25T02:17:27+00:00",
  "categories": {
   "takvim": 44,

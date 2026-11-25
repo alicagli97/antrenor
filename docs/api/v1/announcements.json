@@ -1,5 +1,23 @@
 [
  {
+  "id": "164e2a60e5732dfa",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Cimnastik faaliyet takviminde değişiklik",
+  "url": "https://www.tcf.gov.tr/faaliyetler/",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin. Takvimde 489 faaliyet listeleniyor.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-25T02:17:27+00:00",
+  "first_seen_at": "2026-11-25T02:17:27+00:00",
+  "source": "takvim-html"
+ },
+ {
   "id": "e13933579362cc78",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -15,6 +33,23 @@
   "published_at": "2026-11-24T18:09:07+00:00",
   "first_seen_at": "2026-11-24T17:41:10+00:00",
   "source": "api"
+ },
+ {
+  "id": "c689f1ca7e478ce1",
+  "federation": "taekwondo",
+  "federation_name": "Türkiye Taekwondo Federasyonu",
+  "federation_short": "TTF",
+  "title": "2026 Avrupa Yıldızlar Taekwondo Şampiyonası",
+  "url": "https://www.turkiyetaekwondofed.gov.tr/2026-avrupa-yildizlar-taekwondo-sampiyonasi/",
+  "summary": "Avrupa Yıldızlar Taekwondo Şampiyonası, 20-22 Kasım 2026 tarihleri arasında Romanya’nın başkenti Bükreş’te düzenlenecek. Şampiyonada ülkemizi, uluslararası organizasyonlarda kota almayı başaran isimlerle birlikte 35’i kız, 23’ü erkek olmak üzere 58 sporcumuz temsil edecek. MÜSABAKA PROGRAMI 26 KASIM PERŞEMBE: Erkekler 33, 37, 41, 45, 49, 5327 KASIM CUMA: Kızlar 29, 33, 37, 41, 44, 47, 5128 KASIM […]",
+  "image": "https://www.turkiyetaekwondofed.gov.tr/wp-content/uploads/2026/11/1-1.jpg",
+  "category": "musabaka",
+  "tags": [
+   "musabaka"
+  ],
+  "published_at": "2026-11-24T18:00:00+00:00",
+  "first_seen_at": "2026-11-25T02:23:42+00:00",
+  "source": "wp_json"
  },
  {
   "id": "ec936d67bdb90abf",
@@ -5317,6 +5352,110 @@
   "published_at": "2026-11-24T00:51:45+00:00",
   "first_seen_at": "2026-11-24T06:01:38+00:00",
   "source": "api"
+ },
+ {
+  "id": "741bd92eb0a32f5c",
+  "federation": "judo",
+  "federation_name": "Türkiye Judo Federasyonu",
+  "federation_short": "TJF",
+  "title": "Samsun Aday Hakem Kursu ve Sınavı Duyurusu (21-22 Aralık 2026)",
+  "url": "https://www.judo.org.tr/duyuru/3716",
+  "summary": "Samsun Aday Hakem Kursu ve Sınavı Duyurusu (21-22 Aralık 2026) 24/11/2026 20:52 JUDO ADAY HAKEM KURSU VE SINAVI 21-22 ARALIK 2026 / SAMSUN Federasyonumuzun 2026 yılı faaliyet programında yer alan Judo Aday Hakem Kurs ve Sınavı yeterli başvuru olması durumunda 21-22 Aralık 2026 tarihlerinde Samsun’da yapılacaktır. Kursa katılmak isteyenlerin başvurularını dilekçesi ile istenen bütün evrakları hazırlayarak 14 Aralık 2026 tarihi saat 16:00’a kadar Federasyonumuzun kurslar@judo.org.tr adresine e-posta yolu ile göndermeleri gerekmektedir. Tüm başvurular kişilerin kendi şahsi e posta hesaplarından o",
+  "image": null,
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-11-24T00:00:00+00:00",
+  "first_seen_at": "2026-11-25T02:23:42+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ecc51c9a13fee2fc",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "2026–2027 Sezonu Yüzme Faal Hakem Semineri Telafi Duyurusu",
+  "url": "https://www.tyf.gov.tr/haber/20262027-sezonu-yuzme-faal-hakem-semineri-telafi-duyurusu.html",
+  "summary": "Türkiye Yüzme Federasyonu Hakem, Müsabaka Direktörü ve Gözlemci Talimatı gereğince, her sezon öncesinde düzenlenmesi zorunlu olan Yüzme Faal Hakem Semineri, 2026–2027 sezonu için 29 Eylül – 30 Ekim 2026 tarihleri arasında tüm illerde yüz yüze gerçekleştirilmiştir. Seminerlerin tamamlanmasının ardından yapılan değerlendirmeler sonucunda, çeşitli nedenlerle yüz yüze düzenlenen seminere katılamayan hakemler olduğu tespit edilmiştir. Bu kapsamda, 2026–2027 sezonuna mahsus olmak üzere, yüz yüze düzenlenen seminere katılamayan hakemler için bir defaya mahsus telafi semineri düzenlenmesine karar veri",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-11/1522/1795547761_y.jpg",
+  "category": "kurs",
+  "tags": [
+   "hakem"
+  ],
+  "published_at": "2026-11-24T00:00:00+00:00",
+  "first_seen_at": "2026-11-25T02:23:42+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f1eefdfa993d0d08",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "Kocaeli'de Boccia 3. Kademe Kıdemli Antrenör Uygulama Eğitimi Yapılacak",
+  "url": "https://tbbdf.org.tr/kocaelide-boccia-3-kademe-kidemli-antrenor-uygulama-egitimi-yapilacak",
+  "summary": ", Salı Kocaeli'de, 04-10 Aralık 2026 tarihleri arasında Boccia 3. Kademe Kıdemli Antrenör Uygulama Eğitimi yeterli başvuru olması halinde...",
+  "image": "https://tbbdf.org.tr/images/tr.gif",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-11-24T00:00:00+00:00",
+  "first_seen_at": "2026-11-25T02:23:42+00:00",
+  "source": "html"
+ },
+ {
+  "id": "57189c81a66dcfdd",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "Kocaeli'de Boccia 2. Kademe Temel Antrenör Uygulama Eğitimi Yapılacak",
+  "url": "https://tbbdf.org.tr/kocaelide-boccia-2-kademe-temel-antrenor-uygulama-egitimi-yapilacak",
+  "summary": ", Salı Kocaeli'de, 05-10 Aralık 2026 tarihleri arasında Boccia 2. Kademe Temel Antrenör Uygulama Eğitimi yeterli başvuru olması halinde...",
+  "image": "https://tbbdf.org.tr/images/tr.gif",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-11-24T00:00:00+00:00",
+  "first_seen_at": "2026-11-25T02:23:42+00:00",
+  "source": "html"
+ },
+ {
+  "id": "d7f31c6ffb620ee6",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "Kocaeli'de Boccia 5. Kademe Teknik Direktör Uygulama Eğitimi Yapılacak",
+  "url": "https://tbbdf.org.tr/kocaelide-boccia-5-kademe-teknik-direktor-uygulama-egitimi-yapilacak",
+  "summary": ", Salı Kocaeli'de, 05-13 Aralık 2026 tarihleri arasında Boccia (Bedensel Engelliler) 5. Kademe Teknik Direktör Uygulama Eğitimi yeterli başvuru...",
+  "image": "https://tbbdf.org.tr/images/tr.gif",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-11-24T00:00:00+00:00",
+  "first_seen_at": "2026-11-25T02:23:42+00:00",
+  "source": "html"
+ },
+ {
+  "id": "ce60b23c63f55022",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "İstanbul'da Dart Aday Hakem Yetiştirme Kursu yapılacak. - Duyurular",
+  "url": "https://tbbdf.org.tr/istanbulda-dart-aday-hakem-yetistirme-kursu-yapilacak--1",
+  "summary": "TBBDF Haberler Duyurular İstanbul'da Dart Aday Hakem Yetiştirme Kursu yapılacak. İstanbul'da Dart Aday Hakem Yetiştirme Kursu yapılacak. İstanbul'da, 28 - 29 Kasım 2026 tarihlerinde Dart Aday Hakem Yetiştirme Kursu yapılacaktır. Hakem Kursuna katılacaklar, kurs bedeli olan 3.000 TL'yi (2.300 kurs + 700 TL belge ücreti), 28 Kasım 2026 tarihine kadar Federasyonumuzun ( İBAN TR76 0003 2000 0000 0122 0451 17 - TEB / TUNALI HİLMİ ŞUBESİ ) no'lu gelirler hesabına ödemelidir. Katılımcılar, en az 18 yaşını doldurmuş ve 55 yaşından gün almamış olmalıdır, söz konusu kurslara en az lise veya dengi okul m",
+  "image": "https://tbbdf.org.tr/images/tr.gif",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-11-24T00:00:00+00:00",
+  "first_seen_at": "2026-11-25T02:23:42+00:00",
+  "source": "html"
  },
  {
   "id": "7968ccfb961c1e58",
@@ -107231,154 +107370,6 @@
   ],
   "published_at": "2026-11-03T11:20:01+00:00",
   "first_seen_at": "2026-11-03T11:20:01+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "2fdca35fb3005a70",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Mevzuat güncellendi: Short Track Federasyon Kupası - 2 Yarışma Talimat...",
-  "url": "https://buzpateni.org.tr/bildiri-detay/short-track-federasyon-kupasi-2-yarisma-talimati-11",
-  "summary": "Türkiye Buz Pateni Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-03T11:20:01+00:00",
-  "first_seen_at": "2026-11-03T11:20:01+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "5a34f457da66c961",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "Mevzuat güncellendi: Eğitim, Altyapı ve Kulüplere Yardım Talimatı / 04.07.2018",
-  "url": "https://triatlon.org.tr/egitim-altyapi-ve-kuluplere-yardim-talimati.html",
-  "summary": "Türkiye Triatlon Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-03T11:20:00+00:00",
-  "first_seen_at": "2026-11-03T11:20:00+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "63ed91f8d1c741cd",
-  "federation": "buzpateni",
-  "federation_name": "Türkiye Buz Pateni Federasyonu",
-  "federation_short": "TBPF",
-  "title": "Mevzuat güncellendi: Short Track Başkent Kupası Revize Yarışma Talimatı...",
-  "url": "https://buzpateni.org.tr/bildiri-detay/short-track-baskent-kupasi-revize-yarisma-talimati-11",
-  "summary": "Türkiye Buz Pateni Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-03T11:20:00+00:00",
-  "first_seen_at": "2026-11-03T11:20:00+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "8ab1390aba156fa6",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Mevzuat güncellendi: Eğitim Kurulu Görev Talimatı",
-  "url": "https://www.tyf.org.tr/sayfalar/egitim-kurulu-gorev-talimati/",
-  "summary": "Türkiye Yelken Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-03T11:19:58+00:00",
-  "first_seen_at": "2026-11-03T11:19:58+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "429e24918a7b0b31",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Mevzuat güncellendi: Yelken Hakem Talimatı",
-  "url": "https://www.tyf.org.tr/sayfalar/yelken-hakem-talimati/",
-  "summary": "Türkiye Yelken Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-03T11:19:55+00:00",
-  "first_seen_at": "2026-11-03T11:19:55+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "081a247b16ed0356",
-  "federation": "yelken",
-  "federation_name": "Türkiye Yelken Federasyonu",
-  "federation_short": "TYF",
-  "title": "Mevzuat güncellendi: Talimatlar",
-  "url": "https://www.tyf.org.tr/kategori/talimatlar",
-  "summary": "Türkiye Yelken Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-03T11:19:55+00:00",
-  "first_seen_at": "2026-11-03T11:19:55+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "bdd90b28ccfe15ce",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Mevzuat güncellendi: » 2026-2027 Sezonu İtibariyle Uygulanacak Olan Güncel “Mücadele Etmeme İsteği” (Passivité) Kuralı Hk.",
-  "url": "https://www.eskrim.org.tr/2026-2027-sezonu-itibariyle-uygulanacak-olan-guncel-mucadele-etmeme-istegi-passivite-kurali-hk-2623.html",
-  "summary": "Türkiye Eskrim Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-03T11:19:48+00:00",
-  "first_seen_at": "2026-11-03T11:19:48+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "1959c757e490925b",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "Mevzuat güncellendi: » Büyükler Kılıç Federasyon Kupası Talimatı - 29 Kasım 2026 Ankara",
-  "url": "https://www.eskrim.org.tr/buyukler-kilic-federasyon-kupasi-talimati-29-kasim-2026-ankara-2636.html",
-  "summary": "Türkiye Eskrim Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-03T11:19:48+00:00",
-  "first_seen_at": "2026-11-03T11:19:48+00:00",
   "source": "mevzuat"
  }
 ]

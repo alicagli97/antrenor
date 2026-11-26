@@ -1,5 +1,24 @@
 [
  {
+  "id": "fa128665e698c960",
+  "federation": "muaythai",
+  "federation_name": "Türkiye Muaythai Federasyonu",
+  "federation_short": "TMF",
+  "title": "Aday Hakem Kursu – Gaziantep",
+  "url": "https://muaythai.gov.tr/2026/11/26/aday-hakem-kursu-gaziantep/",
+  "summary": "Muaythai Aday Hakem Kursu 28-29 Kasım 2026 tarihlerinde Gaziantep’de açılacaktır.İlgili kursa hakem talimatında belirtilen hakem olabilme şartlarını taşıyanlar",
+  "image": "https://muaythai.gov.tr/wp-content/uploads/2022/09/hakem-kursu.jpg",
+  "category": "duyuru",
+  "tags": [
+   "kurs",
+   "hakem",
+   "mevzuat"
+  ],
+  "published_at": "2026-11-26T08:17:53+00:00",
+  "first_seen_at": "2026-11-26T15:03:04+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "4ae6655c938aaf8f",
   "federation": "muaythai",
   "federation_name": "Türkiye Muaythai Federasyonu",
@@ -392,23 +411,6 @@
   ],
   "published_at": "2026-11-05T17:09:13+00:00",
   "first_seen_at": "2026-11-05T20:38:29+00:00",
-  "source": "wp_json"
- },
- {
-  "id": "fc0de24934bed233",
-  "federation": "muaythai",
-  "federation_name": "Türkiye Muaythai Federasyonu",
-  "federation_short": "TMF",
-  "title": "Duyuru – Adres Değişikliği",
-  "url": "https://muaythai.gov.tr/2026/11/04/duyuru-adres-degisikligi/",
-  "summary": "Federasyonumuz yeni adresine taşınmıştır. Sporcu, antrenör ve paydaşlarımıza hizmet vermek üzere Kızılırmak Mah. 1450 Sk No:9/49 Çankaya/Ankara adresinde",
-  "image": "https://muaythai.gov.tr/wp-content/uploads/2023/07/ONEMLI-DUYURU-haber-1240-578.jpg",
-  "category": "kurs",
-  "tags": [
-   "antrenor"
-  ],
-  "published_at": "2026-11-04T14:51:22+00:00",
-  "first_seen_at": "2026-11-04T17:08:52+00:00",
   "source": "wp_json"
  }
 ]

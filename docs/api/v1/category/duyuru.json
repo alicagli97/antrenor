@@ -66,6 +66,36 @@
   "source": "wp_json"
  },
  {
+  "id": "e694fc861eea8013",
+  "federation": "basketbol",
+  "federation_name": "Türkiye Basketbol Federasyonu",
+  "federation_short": "TBF",
+  "title": "Millilerimizin İtalya ile Oynayacağı Karşılaşmanın 12 Kişilik Kadrosu Belli Oldu 26.11.2026",
+  "url": "https://www.tbf.org.tr/haber/millilerimizin-italya-ile-oynayacagi-karsilasmanin-12-kisilik-kadrosu-belli-oldu-2026-11-26",
+  "summary": "FIBA 2027 Basketbol Dünya Kupası Elemeleri’nde A Erkek Milli Takımımızın İtalya ile oynayacağı müsabakanın 12 kişilik kadrosu belirlendi. Devamını Gör",
+  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/583b282634074d2c959fce98903ea942_Web7.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-26T00:00:00+00:00",
+  "first_seen_at": "2026-11-26T15:46:04+00:00",
+  "source": "html"
+ },
+ {
+  "id": "549a47ed2028948d",
+  "federation": "basketbol",
+  "federation_name": "Türkiye Basketbol Federasyonu",
+  "federation_short": "TBF",
+  "title": "A Erkek Milli Takımımız İtalya Maçı Hazırlıklarına Roma'da Devam Ediyor 26.11.2026",
+  "url": "https://www.tbf.org.tr/haber/a-erkek-milli-takimimiz-italya-maci-hazirliklarina-roma-da-devam-ediyor-2026-11-26",
+  "summary": "FIBA 2027 Basketbol Dünya Kupası Elemeleri İkinci Tur J Grubu’nda İtalya ile karşılaşacak A Erkek Milli Takımımız, Roma’daki ilk antrenmanını tamamladı. Devamını Gör",
+  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/72ac91560dc147759e301943c0692aa4_1kopya.jpg",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-26T00:00:00+00:00",
+  "first_seen_at": "2026-11-26T15:46:04+00:00",
+  "source": "html"
+ },
+ {
   "id": "8c61d8cc09be91b0",
   "federation": "karate",
   "federation_name": "Türkiye Karate Federasyonu",
@@ -3107,35 +3137,5 @@
   "published_at": "2026-11-18T14:28:19+00:00",
   "first_seen_at": "2026-11-18T13:51:21+00:00",
   "source": "api"
- },
- {
-  "id": "806a71ee1035a45e",
-  "federation": "futbol",
-  "federation_name": "Türkiye Futbol Federasyonu",
-  "federation_short": "TFF",
-  "title": "Kadın A Millî Takımımızın Kamerun Maçlarının Kamp Kadrosu ve Programı Açıklandı",
-  "url": "https://www.tff.org/default.aspx?pageID=283&ftxtID=51991",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-18T13:51:21+00:00",
-  "first_seen_at": "2026-11-18T13:51:21+00:00",
-  "source": "html"
- },
- {
-  "id": "95503e9aadc365a8",
-  "federation": "eskrim",
-  "federation_name": "Türkiye Eskrim Federasyonu",
-  "federation_short": "TEF",
-  "title": "» Ödeme ve İade İşlemleri Hakkında Duyuru!",
-  "url": "https://www.eskrim.org.tr/odeme-ve-iade-islemleri-hakkinda-duyuru-1863.html",
-  "summary": "",
-  "image": null,
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-18T13:51:21+00:00",
-  "first_seen_at": "2026-11-18T13:51:21+00:00",
-  "source": "html"
  }
 ]

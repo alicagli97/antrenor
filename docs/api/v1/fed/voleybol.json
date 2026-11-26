@@ -1,5 +1,23 @@
 [
  {
+  "id": "7a1db6ce90bde71e",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-26T23:45:00+00:00",
+  "first_seen_at": "2026-11-26T23:45:00+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "ed6d469aea936059",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -1053,24 +1071,6 @@
   ],
   "published_at": "2026-11-14T10:53:30+00:00",
   "first_seen_at": "2026-11-14T10:53:30+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "e31f51c8fee8a3ee",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Mevzuat güncellendi: Yarışma Talimatı",
-  "url": "https://tvf.org.tr/_dosyalar/Talimatlar/Yarisma_Talimati/TVF_yarisma_talimati.pdf",
-  "summary": "Türkiye Voleybol Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-14T10:53:29+00:00",
-  "first_seen_at": "2026-11-14T10:53:29+00:00",
   "source": "mevzuat"
  }
 ]

@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T18:54:57+00:00",
- "total": 6047,
- "new_in_last_run": 0,
+ "generated_at": "2026-11-27T21:00:22+00:00",
+ "total": 6000,
+ "new_in_last_run": 2,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -13,14 +13,15 @@
  ],
  "sources_missing": [],
  "partial_run": [
-  "yeniden-uretim"
+  "basketbol",
+  "binicilik"
  ],
  "latest_published_at": "2026-11-27T19:20:09+00:00",
  "categories": {
   "duyuru": 638,
   "musabaka": 199,
   "kurs": 150,
-  "mevzuat": 4972,
+  "mevzuat": 4925,
   "haber": 49,
   "takvim": 39
  },
@@ -39,8 +40,8 @@
  "federation_counts": {
   "hentbol": 40,
   "futbol": 176,
-  "golf": 435,
-  "bocce": 401,
+  "golf": 414,
+  "bocce": 398,
   "bedenselengelliler": 14,
   "hokey": 30,
   "gormeengelliler": 44,
@@ -62,9 +63,9 @@
   "otomobil": 56,
   "bilardo": 62,
   "kano": 21,
-  "satranc": 239,
-  "buzpateni": 372,
-  "triatlon": 207,
+  "satranc": 238,
+  "buzpateni": 368,
+  "triatlon": 204,
   "yelken": 90,
   "kurek": 11,
   "binicilik": 378,
@@ -74,7 +75,7 @@
   "masatenisi": 34,
   "yuzme": 31,
   "voleybol": 111,
-  "dagcilik": 633,
+  "dagcilik": 618,
   "basketbol": 81,
   "boks": 28,
   "bisiklet": 28,

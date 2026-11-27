@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-27T21:00:22+00:00",
+ "generated_at": "2026-11-27T21:53:59+00:00",
  "total": 6000,
- "new_in_last_run": 2,
+ "new_in_last_run": 3,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -18,10 +18,10 @@
  ],
  "latest_published_at": "2026-11-27T19:20:09+00:00",
  "categories": {
-  "duyuru": 638,
+  "duyuru": 639,
   "musabaka": 199,
   "kurs": 150,
-  "mevzuat": 4925,
+  "mevzuat": 4924,
   "haber": 49,
   "takvim": 39
  },
@@ -41,7 +41,7 @@
   "hentbol": 40,
   "futbol": 176,
   "golf": 414,
-  "bocce": 398,
+  "bocce": 397,
   "bedenselengelliler": 14,
   "hokey": 30,
   "gormeengelliler": 44,
@@ -76,7 +76,7 @@
   "yuzme": 31,
   "voleybol": 111,
   "dagcilik": 618,
-  "basketbol": 81,
+  "basketbol": 82,
   "boks": 28,
   "bisiklet": 28,
   "muaythai": 22,

@@ -1,5 +1,95 @@
 [
  {
+  "id": "0fc43eed46452497",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "UEFA Kaleci B Kursu 34. Grup 1. Blok Eğitimleri Tamamlandı",
+  "url": "https://www.tff.org/default.aspx?pageID=228&ftxtID=52056",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-27T18:54:33+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "html"
+ },
+ {
+  "id": "aab2c40d9b4a250d",
+  "federation": "kaykay",
+  "federation_name": "Türkiye Kaykay Federasyonu",
+  "federation_short": "TKF",
+  "title": "Isparta’da Kaykay 1. Kademe Yardımcı Antrenörlük Kursu Tamamlandı",
+  "url": "https://kaykay.org.tr/blog/ispartada-kaykay-1-kademe-yardimci-antrenorluk-kursu-tamamlandi",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-27T18:54:33+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "html"
+ },
+ {
+  "id": "033954033da44ca2",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Korumalı: Antrenör Gelişim Semineri Programları",
+  "url": "https://www.tcf.gov.tr/antrenor-gelisim-semineri-programlari/",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-27T15:19:59+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "335050087e9cc22a",
+  "federation": "pentatlon",
+  "federation_name": "Türkiye Modern Pentatlon Federasyonu",
+  "federation_short": "TMPF",
+  "title": "Antrenör Gelişim Semineri Duyurusu",
+  "url": "https://tmpf.org.tr/antrenor-gelisim-semineri-duyurusu/",
+  "summary": "Türkiye Modern Pentatlon Federasyonu tarafından düzenlenecek Antrenör Gelişim Semineri, 21-22 Aralık 2026 tarihlerinde Ankara’da gerçekleştirilecektir. Modern pentatlon branşında antrenörlerin mesleki gelişimlerine katkı sağlamak, güncel bilgi ve […]",
+  "image": "https://tmpf.org.tr/wp-content/uploads/2026/11/antrenor-gelisim-semineri-duyurusu-kapak.webp",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-27T14:53:48+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "c7e7d5b9d5cfd32c",
+  "federation": "ozelsporcular",
+  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
+  "federation_short": "TÖSSF",
+  "title": "Özel Sporcular Antrenör Gelişim Semineri Antalya’da Tamamlandı!",
+  "url": "https://tossfed.gov.tr/ozel-sporcular-antrenor-gelisim-semineri-antalyada-tamamlandi/",
+  "summary": "Türkiye Özel Sporcular Spor Federasyonu’nun 2026 yılı faaliyet programında yer alan ve 25–27 Kasım 2026 tarihleri arasında Antalya Grand Park Otel’de düzenlenen Özel Sporcular Antrenör Gelişim Semineri, 27 Kasım Cuma günü gerçekleştirilen kapanış programıyla tamamlandı. Üç gün boyunca alanında uzman eğitmenler eşliğinde gerçekleştirilen seminerde, antrenörlerin mesleki bilgi ve becerilerinin geliştirilmesine yönelik teorik ve uygulamalı eğitimler …",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-27T11:22:28+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "rss"
+ },
+ {
   "id": "68a1e96042075f59",
   "federation": "kaykay",
   "federation_name": "Türkiye Kaykay Federasyonu",
@@ -817,6 +907,24 @@
   "source": "wp_json"
  },
  {
+  "id": "a52b7407fad5fab1",
+  "federation": "yuzme",
+  "federation_name": "Türkiye Yüzme Federasyonu",
+  "federation_short": "TYF",
+  "title": "3. Kademe Yüzme Antrenörü Yetiştirme Kursu 16-20 Kasım 2026 Erzurum",
+  "url": "https://www.tyf.gov.tr/haber/3-kademe-yuzme-antrenoru-yetistirme-kursu--16-20-kasim-2026-erzurum.html",
+  "summary": "BİLGİLERİ PDF FORMATINDA GÖRÜNTÜLEMEK İÇİN TIKLAYINIZ",
+  "image": "https://dosya.tyf.gov.tr/public/image/news/2026-11/1511/1793948966_y.jpg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-20T00:00:00+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "html"
+ },
+ {
   "id": "f220b8190fb59a25",
   "federation": "danssporlari",
   "federation_name": "Türkiye Dans Sporları Federasyonu",
@@ -1218,6 +1326,42 @@
   "published_at": "2026-11-13T12:30:54+00:00",
   "first_seen_at": "2026-11-13T16:12:38+00:00",
   "source": "api"
+ },
+ {
+  "id": "10a286e9b3910956",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Kurs Aday Hakem Kursları ve Telafi Seminerleri KURS 06.11.2026",
+  "url": "https://www.tbhf.org.tr/events/aday-hakem-kurslari-ve-telafi-seminerleri",
+  "summary": "Haber 18 Yaş Altı Erkek Milli Takım - ORHIS Silk Road 2026 Hazırlık Maçları Kadrosu HABER Haber 2026–2027 TBHF Erkekler Süper Ligi Fikstürü Açıklandı HABER 30.10.2026 Milli Takım 2027 IIHF Kadınlar Avrupa Uluslar Kupası MİLLİ TAKIM 27.10.2026 Haber Kadın Milli Takımı Hazırlık Kampı Aday Kadrosu HABER 20.10.2026 Seminer 2026-2027 Sezonu Buz Dışı Hakem Vize Semineri SEMİNER 19.10.2026 Haber 2026–202",
+  "image": "https://tbhf-public.sporpano.com/events/d40cb568a0584917b8c37550afa98491.jpeg",
+  "category": "kurs",
+  "tags": [
+   "kurs",
+   "hakem"
+  ],
+  "published_at": "2026-11-13T00:00:00+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "html"
+ },
+ {
+  "id": "b1f3509c29a44eae",
+  "federation": "buzhokeyi",
+  "federation_name": "Türkiye Buz Hokeyi Federasyonu",
+  "federation_short": "TBHF",
+  "title": "Haber 1. Kademe Kursu Katılımcı Listesi ve Ders Programı HABER 09.10.2026",
+  "url": "https://www.tbhf.org.tr/news/1-kademe-kursu-katilimci-listesi-ve-ders-programi",
+  "summary": "Haber 18 Yaş Altı Erkek Milli Takım - ORHIS Silk Road 2026 Hazırlık Maçları Kadrosu HABER Kurs Aday Hakem Kursları ve Telafi Seminerleri KURS 06.11.2026 Haber 2026–2027 TBHF Erkekler Süper Ligi Fikstürü Açıklandı HABER 30.10.2026 Milli Takım 2027 IIHF Kadınlar Avrupa Uluslar Kupası MİLLİ TAKIM 27.10.2026 Haber Kadın Milli Takımı Hazırlık Kampı Aday Kadrosu HABER 20.10.2026 Seminer 2026-2027 Sezonu",
+  "image": "https://tbhf-public.sporpano.com/news/82b9f42dbe00425cb79440ebe8270b43.jpeg",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-13T00:00:00+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "html"
  },
  {
   "id": "9da86d0223d497df",

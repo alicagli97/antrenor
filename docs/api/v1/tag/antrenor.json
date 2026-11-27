@@ -1,5 +1,112 @@
 [
  {
+  "id": "0fc43eed46452497",
+  "federation": "futbol",
+  "federation_name": "Türkiye Futbol Federasyonu",
+  "federation_short": "TFF",
+  "title": "UEFA Kaleci B Kursu 34. Grup 1. Blok Eğitimleri Tamamlandı",
+  "url": "https://www.tff.org/default.aspx?pageID=228&ftxtID=52056",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-27T18:54:33+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "html"
+ },
+ {
+  "id": "f72b5ffbc5c31b4e",
+  "federation": "bocce",
+  "federation_name": "Türkiye Bocce Bowling ve Dart Federasyonu",
+  "federation_short": "TBBDF",
+  "title": "İstanbul'da 1. Kademe Bowling Yardımcı Antrenör Uygulama Eğitimi Yapılacak.",
+  "url": "https://tbbdf.org.tr/istanbulda-1-kademe-bowling-yardimci-antrenor-uygulama-egitimi-yapilacak--1",
+  "summary": ", Cumartesi İstanbul'da 24 - 28 Aralık 2026 tarihleri arasında 1. Kademe Bowling Yardımcı Antrenör Uygulama Eğitimi yeterli başvuru olması halinde...",
+  "image": "https://tbbdf.org.tr/images/tr.gif",
+  "category": "kurs",
+  "tags": [
+   "antrenor"
+  ],
+  "published_at": "2026-11-27T18:54:33+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "html"
+ },
+ {
+  "id": "aab2c40d9b4a250d",
+  "federation": "kaykay",
+  "federation_name": "Türkiye Kaykay Federasyonu",
+  "federation_short": "TKF",
+  "title": "Isparta’da Kaykay 1. Kademe Yardımcı Antrenörlük Kursu Tamamlandı",
+  "url": "https://kaykay.org.tr/blog/ispartada-kaykay-1-kademe-yardimci-antrenorluk-kursu-tamamlandi",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-27T18:54:33+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "html"
+ },
+ {
+  "id": "3283c5c04ba1ed0e",
+  "federation": "halter",
+  "federation_name": "Türkiye Halter Federasyonu",
+  "federation_short": "THF",
+  "title": "Reyhan Polat Dünya İkincisi!",
+  "url": "https://www.halter.gov.tr/reyhan-polat-dunya-ikincisi/",
+  "summary": "Bahreyn’in başkenti Manama’da düzenlenen Para Halter Dünya Şampiyonası’nda milli sporcumuz Reyhan Polat, kadınlar 41 kilo kategorisinde 94 kiloluk kaldırışıyla gümüş madalya kazanarak dünya ikincisi oldu.Türkiye Halter Federasyonu Başkanı Talat Ünlü, “Ülkemize büyük gurur yaşatan milli sporcumuzu ve antrenörlerimizi tebrik ediyor, başarılarının devamını diliyoruz” dedi.",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "musabaka"
+  ],
+  "published_at": "2026-11-27T15:30:07+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "033954033da44ca2",
+  "federation": "cimnastik",
+  "federation_name": "Türkiye Cimnastik Federasyonu",
+  "federation_short": "TCF",
+  "title": "Korumalı: Antrenör Gelişim Semineri Programları",
+  "url": "https://www.tcf.gov.tr/antrenor-gelisim-semineri-programlari/",
+  "summary": "",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-27T15:19:59+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "wp_json"
+ },
+ {
+  "id": "335050087e9cc22a",
+  "federation": "pentatlon",
+  "federation_name": "Türkiye Modern Pentatlon Federasyonu",
+  "federation_short": "TMPF",
+  "title": "Antrenör Gelişim Semineri Duyurusu",
+  "url": "https://tmpf.org.tr/antrenor-gelisim-semineri-duyurusu/",
+  "summary": "Türkiye Modern Pentatlon Federasyonu tarafından düzenlenecek Antrenör Gelişim Semineri, 21-22 Aralık 2026 tarihlerinde Ankara’da gerçekleştirilecektir. Modern pentatlon branşında antrenörlerin mesleki gelişimlerine katkı sağlamak, güncel bilgi ve […]",
+  "image": "https://tmpf.org.tr/wp-content/uploads/2026/11/antrenor-gelisim-semineri-duyurusu-kapak.webp",
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-27T14:53:48+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "c6376a9338379278",
   "federation": "gsb",
   "federation_name": "Gençlik ve Spor Bakanlığı",
@@ -1195,6 +1302,24 @@
   "published_at": "2026-11-27T13:05:04+00:00",
   "first_seen_at": "2026-11-27T13:05:04+00:00",
   "source": "mevzuat"
+ },
+ {
+  "id": "c7e7d5b9d5cfd32c",
+  "federation": "ozelsporcular",
+  "federation_name": "Türkiye Özel Sporcular Spor Federasyonu",
+  "federation_short": "TÖSSF",
+  "title": "Özel Sporcular Antrenör Gelişim Semineri Antalya’da Tamamlandı!",
+  "url": "https://tossfed.gov.tr/ozel-sporcular-antrenor-gelisim-semineri-antalyada-tamamlandi/",
+  "summary": "Türkiye Özel Sporcular Spor Federasyonu’nun 2026 yılı faaliyet programında yer alan ve 25–27 Kasım 2026 tarihleri arasında Antalya Grand Park Otel’de düzenlenen Özel Sporcular Antrenör Gelişim Semineri, 27 Kasım Cuma günü gerçekleştirilen kapanış programıyla tamamlandı. Üç gün boyunca alanında uzman eğitmenler eşliğinde gerçekleştirilen seminerde, antrenörlerin mesleki bilgi ve becerilerinin geliştirilmesine yönelik teorik ve uygulamalı eğitimler …",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs"
+  ],
+  "published_at": "2026-11-27T11:22:28+00:00",
+  "first_seen_at": "2026-11-27T18:54:33+00:00",
+  "source": "rss"
  },
  {
   "id": "f5efd3b88e67be96",
@@ -3659,139 +3784,6 @@
   ],
   "published_at": "2026-11-25T13:30:06+00:00",
   "first_seen_at": "2026-11-25T13:30:06+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "3de27796e05af897",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: TDF Antrenör Eğitim Talimatı (05.10.2020 tarihinden itibaren ilgili yönetmelik kapsamında yürürlükte bulunan talimat)",
-  "url": "https://drive.google.com/file/d/1aKHh9eWq0KjxDEIIGDhpUJ9SDQ3KiJG9/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-25T13:30:06+00:00",
-  "first_seen_at": "2026-11-25T13:30:06+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "0faf8bc3f18dacd7",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Sporcu Lisans, Vize ve Transfer Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/sporcu-lisans-vize-ve-transfer-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-25T13:30:06+00:00",
-  "first_seen_at": "2026-11-25T13:30:06+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cfd983aa7360a8be",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Sözleşmeli Antrenör ve Personel Çalıştırılması Hakkında Talimat",
-  "url": "https://tgf.org.tr/tr/talimatlar/sozlesmeli-antrenor-ve-personel-calistirilmasi-hakkinda-talimat",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-25T13:30:06+00:00",
-  "first_seen_at": "2026-11-25T13:30:06+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "a8a48268e1b6fcbd",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: TGF Eğitim, Altyapı ve Kulüplere Yardım Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/tgf-egitim-altyapi-ve-kuluplere-yardim-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-25T13:30:06+00:00",
-  "first_seen_at": "2026-11-25T13:30:06+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "91b6e48609fffa37",
-  "federation": "golf",
-  "federation_name": "Türkiye Golf Federasyonu",
-  "federation_short": "TGF",
-  "title": "Mevzuat güncellendi: Türkiye Golf Federasyonu Antrenör Eğitimi Talimatı",
-  "url": "https://tgf.org.tr/tr/talimatlar/turkiye-golf-federasyonu-antrenor-egitimi-talimati",
-  "summary": "Türkiye Golf Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-25T13:30:06+00:00",
-  "first_seen_at": "2026-11-25T13:30:06+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "738070b603716bf2",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Emniyetçi Eğitim Talimatı",
-  "url": "https://drive.google.com/file/d/1QnAT3QYK5EpDCt_mr5Ao7oTfq6Z_aHV7/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-25T13:30:05+00:00",
-  "first_seen_at": "2026-11-25T13:30:05+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "cad0386a788f8901",
-  "federation": "dagcilik",
-  "federation_name": "Türkiye Dağcılık Federasyonu",
-  "federation_short": "TDF",
-  "title": "Mevzuat güncellendi: Spor Tırmanış Eğitim Talimatı",
-  "url": "https://drive.google.com/file/d/1KLomFByoyQ3KweLELC5x_nSuknS32l15/view?usp=sharing",
-  "summary": "Türkiye Dağcılık Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-25T13:30:05+00:00",
-  "first_seen_at": "2026-11-25T13:30:05+00:00",
   "source": "mevzuat"
  }
 ]

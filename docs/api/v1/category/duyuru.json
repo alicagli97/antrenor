@@ -1,5 +1,20 @@
 [
  {
+  "id": "a67d54a855e00afc",
+  "federation": "eskrim",
+  "federation_name": "Türkiye Eskrim Federasyonu",
+  "federation_short": "TEF",
+  "title": "» Hizmet Pasaportu hk - Önemli Duyuru",
+  "url": "https://www.eskrim.org.tr/hizmet-pasaportu-hk-onemli-duyuru-1634.html",
+  "summary": "",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-27T08:13:22+00:00",
+  "first_seen_at": "2026-11-27T08:13:22+00:00",
+  "source": "html"
+ },
+ {
   "id": "beb798d87433a1e8",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -1130,6 +1145,21 @@
   "published_at": "2026-11-24T00:51:45+00:00",
   "first_seen_at": "2026-11-24T06:01:38+00:00",
   "source": "api"
+ },
+ {
+  "id": "fb64e458c78b095f",
+  "federation": "sportoto",
+  "federation_name": "Spor Toto Teşkilat Başkanlığı",
+  "federation_short": "Spor Toto",
+  "title": "Bakan Bak’tan Ampute Futbol Milli Takımı için Tebrik Mesajı",
+  "url": "https://www.sportoto.gov.tr/haberler/bakan-bak-tan-ampute-futbol-milli-takimi-icin-tebrik-mesaji",
+  "summary": "- 00:00 BAKAN BAK, PARA TEKVANDOCULARI KUTLADI 23.11.2026 - 00:00 BAKAN BAK’TAN ÖCAL ULUÇ İÇİN TAZİYE MESAJI 20.11.2026 - 00:00 BAKAN BAK’TAN ABDULLAH ÖZTÜRK VE EBRU ACER İÇİN TEBRİK MESAJI 19.11.2026 - 00:00",
+  "image": null,
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-24T00:00:00+00:00",
+  "first_seen_at": "2026-11-27T08:13:22+00:00",
+  "source": "html"
  },
  {
   "id": "3e8306e0a5c2f79e",
@@ -3096,38 +3126,6 @@
   "tags": [],
   "published_at": "2026-11-19T00:00:00+00:00",
   "first_seen_at": "2026-11-19T17:58:24+00:00",
-  "source": "html"
- },
- {
-  "id": "7683d30354d876ee",
-  "federation": "kano",
-  "federation_name": "Türkiye Kano Federasyonu",
-  "federation_short": "TKF",
-  "title": "2026-2027 Sem Sporcu Alım Başvuruları",
-  "url": "https://kano.org.tr/2026-2027-sem-sporcu-alim-basvurulari",
-  "summary": "Duyuru ve Etkinlikler Anasayfa Duyuru ve Etkinlikler 2026-2027 SEM SPORCU ALIM BAŞVURULARI 19 Kasım 2026, Perşembe Paylaş × Kapat 2026-2027 SEM SPORCU ALIM BAŞVURULARI 2026-2027 Eğitim Öğretim Yılı SEM Kano Spor Dalı Kayıt Yaptırmaya Hak Kazanan Sporcu Listesi yayımlanmıştır. Listede yer alan sporcuların kayıt işlemlerini en geç 30 Kasım 2026 tarihine kadar, bağlı bulundukları Gençlik ve Spor İl Müdürlüğü bünyesindeki Sporcu Eğitim Merkezi'nde tamamlamaları gerekmektedir. Kayıt sırasında; nüfus cüzdanı fotokopisi, e-devlet güncel öğrenci belgesi, sağlık raporu, 4 adet fotoğraf, ikametgâh belge",
-  "image": "https://kano.org.tr/uploads/duyuru-1-.-1-.jpg",
-  "category": "duyuru",
-  "tags": [
-   "burs"
-  ],
-  "published_at": "2026-11-19T00:00:00+00:00",
-  "first_seen_at": "2026-11-19T12:53:51+00:00",
-  "source": "html"
- },
- {
-  "id": "496923c7506a5d7e",
-  "federation": "gsb",
-  "federation_name": "Gençlik ve Spor Bakanlığı",
-  "federation_short": "GSB",
-  "title": "Bakan Bak’tan Abdullah Öztürk ve Ebru Acer için Tebrik Mesajı",
-  "url": "https://gsb.gov.tr/tr/haber-detay/305592-bakan-baktan-abdullah-ozturk-ve-ebru-acer-icin-tebrik-mesaji",
-  "summary": "",
-  "image": "https://ankara.gsb.gov.tr/public/Images/GSB/012014/27be35ad-003d-493b-882e-1b1c3a74951a.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-19T00:00:00+00:00",
-  "first_seen_at": "2026-11-19T12:53:51+00:00",
   "source": "html"
  }
 ]

@@ -1,8 +1,8 @@
 {
  "schema_version": 1,
- "generated_at": "2026-11-28T01:56:54+00:00",
+ "generated_at": "2026-11-28T06:10:40+00:00",
  "total": 6000,
- "new_in_last_run": 562,
+ "new_in_last_run": 2,
  "sources_ok": 63,
  "sources_failed": [
   "basketbol",
@@ -12,7 +12,10 @@
   "kayak"
  ],
  "sources_missing": [],
- "partial_run": null,
+ "partial_run": [
+  "basketbol",
+  "binicilik"
+ ],
  "latest_published_at": "2026-11-28T02:09:20+00:00",
  "categories": {
   "musabaka": 202,

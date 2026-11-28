@@ -1,5 +1,23 @@
 [
  {
+  "id": "02f4a09367c7c474",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-28T10:13:00+00:00",
+  "first_seen_at": "2026-11-28T10:13:00+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "e2bd4a9d615459e2",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -49,6 +67,21 @@
   ],
   "published_at": "2026-11-28T01:56:54+00:00",
   "first_seen_at": "2026-11-28T01:56:54+00:00",
+  "source": "html"
+ },
+ {
+  "id": "a826851be13197e5",
+  "federation": "karate",
+  "federation_name": "Türkiye Karate Federasyonu",
+  "federation_short": "TKF",
+  "title": "Sportoto Türkiye Yıldızlar Ligi Ferhat Dilek Final Etabının Açılış Töreni Gerçekleşti",
+  "url": "https://karate.gov.tr/blog_detay.php?id=119",
+  "summary": "HABER Ulusal Haberler İstanbul’daki Hidayet Türkoğlu Spor Salonu’nda düzenlenen Spor Toto Türkiye Yıldızlar Ligi Ferhat Dilek Final Etabı’nın açılış töreni gerçekleşti.... DEVAMINI OKU",
+  "image": "https://karate.gov.tr/uploads/blog/blog_1795852989_979.webp",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-28T00:00:00+00:00",
+  "first_seen_at": "2026-11-28T10:15:56+00:00",
   "source": "html"
  },
  {
@@ -107324,42 +107357,6 @@
   ],
   "published_at": "2026-11-06T11:29:22+00:00",
   "first_seen_at": "2026-11-06T11:29:22+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "38d0bad0929f7074",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Mevzuat güncellendi: Satın Alma Talimatı Detayları incele",
-  "url": "https://www.tsf.org.tr/belge-detayi/1834",
-  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-06T11:29:21+00:00",
-  "first_seen_at": "2026-11-06T11:29:21+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "bc58398ff3ab756c",
-  "federation": "satranc",
-  "federation_name": "Türkiye Satranç Federasyonu",
-  "federation_short": "TSF",
-  "title": "Mevzuat güncellendi: TSF Özendirme Ödülleri Talimatı Detayları incele",
-  "url": "https://www.tsf.org.tr/belge-detayi/1660",
-  "summary": "Türkiye Satranç Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat"
-  ],
-  "published_at": "2026-11-06T11:29:21+00:00",
-  "first_seen_at": "2026-11-06T11:29:21+00:00",
   "source": "mevzuat"
  }
 ]

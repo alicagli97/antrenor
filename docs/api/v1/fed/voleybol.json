@@ -1,5 +1,23 @@
 [
  {
+  "id": "02f4a09367c7c474",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-28T10:13:00+00:00",
+  "first_seen_at": "2026-11-28T10:13:00+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "ed6d469aea936059",
   "federation": "voleybol",
   "federation_name": "Türkiye Voleybol Federasyonu",
@@ -1054,23 +1072,5 @@
   "published_at": "2026-11-17T12:25:26+00:00",
   "first_seen_at": "2026-11-17T12:25:26+00:00",
   "source": "mevzuat"
- },
- {
-  "id": "fd877f188b6bd5bd",
-  "federation": "voleybol",
-  "federation_name": "Türkiye Voleybol Federasyonu",
-  "federation_short": "TVF",
-  "title": "Antrenörlük Mesleği Ulusal Meslek Standartları Resmi Gazete’de Yayımlandı - Türkiye Voleybol Federasyonu | TVF",
-  "url": "https://tvf.org.tr/icerik/antrenorluk-meslegi-ulusal-meslek-standartlari-resmi-gazetede-yayimlandi",
-  "summary": "17 Kasım 2026 Antrenörlük Mesleği Ulusal Meslek Standartları Resmi Gazete’de Yayımlandı Antrenörlüğün ulusal meslek standartlarının belirlenmesi, uluslararası standartlara uyum sağlaması ve uluslararası düzeyde geçerli akreditasyonu olan, kalite güvencesi sağlanmış bir belgelendirme sürecinin işletilmesi amacıyla Mesleki Yeterlilik Kurumu (MYK) ile Gençlik ve Spor Bakanlığı arasında çalışmalar başlatılmıştır. Bu kapsamda, ulusal antrenörlük meslek standartlarının belirlenmesi için MYK ile Bakanlığımız arasında 4 Aralık 2024 tarihinde Antrenörlük (Seviye 3-4-5-6-7) mesleğinin Ulusal Meslek Stan",
-  "image": null,
-  "category": "kurs",
-  "tags": [
-   "antrenor",
-   "mevzuat"
-  ],
-  "published_at": "2026-11-17T00:00:00+00:00",
-  "first_seen_at": "2026-11-17T22:13:55+00:00",
-  "source": "html"
  }
 ]

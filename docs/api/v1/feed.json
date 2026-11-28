@@ -1,5 +1,23 @@
 [
  {
+  "id": "02f4a09367c7c474",
+  "federation": "voleybol",
+  "federation_name": "Türkiye Voleybol Federasyonu",
+  "federation_short": "TVF",
+  "title": "Voleybol faaliyet takviminde değişiklik",
+  "url": "https://tvf.org.tr/_dosyalar/Lig_Sezon_Arsivi/Genel_Fiksturler/2026-2027_genel_fikstur.xlsx",
+  "summary": "Federasyonun faaliyet takvimi güncellendi. Tarih değişikliği, eklenen veya iptal edilen faaliyet olabilir; kaynağı kontrol edin.",
+  "image": null,
+  "category": "takvim",
+  "tags": [
+   "takvim",
+   "faaliyet"
+  ],
+  "published_at": "2026-11-28T10:13:00+00:00",
+  "first_seen_at": "2026-11-28T10:13:00+00:00",
+  "source": "takvim-excel"
+ },
+ {
   "id": "e2bd4a9d615459e2",
   "federation": "hentbol",
   "federation_name": "Türkiye Hentbol Federasyonu",
@@ -49,6 +67,21 @@
   ],
   "published_at": "2026-11-28T01:56:54+00:00",
   "first_seen_at": "2026-11-28T01:56:54+00:00",
+  "source": "html"
+ },
+ {
+  "id": "a826851be13197e5",
+  "federation": "karate",
+  "federation_name": "Türkiye Karate Federasyonu",
+  "federation_short": "TKF",
+  "title": "Sportoto Türkiye Yıldızlar Ligi Ferhat Dilek Final Etabının Açılış Töreni Gerçekleşti",
+  "url": "https://karate.gov.tr/blog_detay.php?id=119",
+  "summary": "HABER Ulusal Haberler İstanbul’daki Hidayet Türkoğlu Spor Salonu’nda düzenlenen Spor Toto Türkiye Yıldızlar Ligi Ferhat Dilek Final Etabı’nın açılış töreni gerçekleşti.... DEVAMINI OKU",
+  "image": "https://karate.gov.tr/uploads/blog/blog_1795852989_979.webp",
+  "category": "duyuru",
+  "tags": [],
+  "published_at": "2026-11-28T00:00:00+00:00",
+  "first_seen_at": "2026-11-28T10:15:56+00:00",
   "source": "html"
  },
  {
@@ -5059,21 +5092,6 @@
   "source": "html"
  },
  {
-  "id": "c3bb7c8a583f4267",
-  "federation": "basketbol",
-  "federation_name": "Türkiye Basketbol Federasyonu",
-  "federation_short": "TBF",
-  "title": "TBF Başkanı Hidayet Türkoğlu'ndan 24 Kasım Öğretmenler Günü Mesajı 24.11.2026",
-  "url": "https://www.tbf.org.tr/haber/tbf-baskani-hidayet-turkoglu-ndan-24-kasim-ogretmenler-gunu-mesaji-2026-11-24",
-  "summary": "Türkiye Basketbol Federasyonu Başkanı Hidayet Türkoğlu, yayımladığı mesajla 24 Kasım Öğretmenler Günü’nü kutladı. Devamını Gör",
-  "image": "https://tbf.org.tr/sitefiny-tbf-media//haber/64999a62b0f846719fc5a9f7e02033ff_e48cfb2491934bda92c53c7fcb9b9949_ht1copy.jpg",
-  "category": "duyuru",
-  "tags": [],
-  "published_at": "2026-11-24T00:00:00+00:00",
-  "first_seen_at": "2026-11-24T15:23:02+00:00",
-  "source": "html"
- },
- {
   "id": "04a45eb6f413a70c",
   "federation": "futbol",
   "federation_name": "Türkiye Futbol Federasyonu",
@@ -5099,23 +5117,6 @@
   "url": "https://www.turkboks.gov.tr/yildizlar-avrupa-boks-sampiyonasini-6-madalya-ile-tamamladik/",
   "summary": "",
   "image": null,
-  "category": "musabaka",
-  "tags": [
-   "musabaka"
-  ],
-  "published_at": "2026-11-23T21:16:48+00:00",
-  "first_seen_at": "2026-11-23T21:16:48+00:00",
-  "source": "html"
- },
- {
-  "id": "b31c4ac35a8e2a66",
-  "federation": "tenis",
-  "federation_name": "Türkiye Tenis Federasyonu",
-  "federation_short": "TTF",
-  "title": "Ankara Challenger by Atak Pro Turnuvası’nın Basın Toplantısı Gerçekleştirildi",
-  "url": "http://www.ttf.org.tr/tr/haber-detay/608",
-  "summary": "Haberler Tüm Yıllar 2026 2025 2024 2023 Ankara Challenger by Atak Pro Turnuvası, 22- tarihleri arasında ATAK Pro Spor Kulübü ev sahipliğinde düzenleniyor. 25 ülkeden 65 sporcunun mücadele edeceği organizasyonun basın toplantısı, Ankara Alegria Business Hotel’de gerçekleştirildi. 23 Kasım 2026 Detaylar Türkiye Bireysel Masters Şampiyonası Antalya’da Tamamlandı Türkiye Tenis Federasyonu tarafından A",
-  "image": "http://www.ttf.org.tr/public/news_post/6b04789ee9e1b_1795455134.jpeg",
   "category": "musabaka",
   "tags": [
    "musabaka"

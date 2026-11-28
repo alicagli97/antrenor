@@ -1,5 +1,24 @@
 [
  {
+  "id": "637e1cac034bad81",
+  "federation": "badminton",
+  "federation_name": "Türkiye Badminton Federasyonu",
+  "federation_short": "TBF",
+  "title": "1.Kademe Badminton Antrenörlük Kursu-Gaziantep",
+  "url": "https://www.badminton.org.tr/1-kademe-badminton-antrenorluk-kursu-gaziantep/",
+  "summary": "Türkiye Badminton Federasyonu Başkanlığı 2026 Yılı Badminton 1. Kademe Yardımcı Antrenör Yetiştirme Kursu 15-19 Aralık 2026 Tarihleri Arasında Gaziantep’te Yapılacaktır. *Kursa Katılım Sağlayacak Adayların Badminton Federasyonu Antrenör Eğitim Talimatı’nda Yazılı Aşağıdaki Şartları Taşımaları Gerekmektedir. UYGULAMA EĞİTİMİNE KATILACAK ADAYLARDA ARANACAK ŞARTLAR MADDE 7- (1) Antrenör eğitim programına katılacak adaylarda aşağıdaki şartlar aranır: a)En az lise veya […]",
+  "image": null,
+  "category": "kurs",
+  "tags": [
+   "antrenor",
+   "kurs",
+   "mevzuat"
+  ],
+  "published_at": "2026-11-27T19:33:11+00:00",
+  "first_seen_at": "2026-11-28T01:56:54+00:00",
+  "source": "wp_json"
+ },
+ {
   "id": "e74f409fff02798f",
   "federation": "golf",
   "federation_name": "Türkiye Golf Federasyonu",
@@ -3622,25 +3641,6 @@
   ],
   "published_at": "2026-11-27T13:07:01+00:00",
   "first_seen_at": "2026-11-27T13:07:01+00:00",
-  "source": "mevzuat"
- },
- {
-  "id": "1ccc817753033b88",
-  "federation": "triatlon",
-  "federation_name": "Türkiye Triatlon Federasyonu",
-  "federation_short": "TTF",
-  "title": "Mevzuat güncellendi: TTF Hakem Talimatı / 22.05.2026",
-  "url": "https://triatlon.org.tr/ttf-hakem-talimati.html",
-  "summary": "Türkiye Triatlon Federasyonu mevzuatındaki bu belgenin içeriği değişti. Yürürlükteki hâli için kaynağa bakın.",
-  "image": null,
-  "category": "mevzuat",
-  "tags": [
-   "mevzuat",
-   "talimat",
-   "antrenor"
-  ],
-  "published_at": "2026-11-27T13:07:00+00:00",
-  "first_seen_at": "2026-11-27T13:07:00+00:00",
   "source": "mevzuat"
  }
 ]
